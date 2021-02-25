@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
-            "mode": "source"
+            "file": "example monster.md",
+            "mode": "preview"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "example monster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "example monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,9 +152,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "example monster.md",
     "Scratchpad.md",
     "Monsters.md",
-    "example monster.md",
     "obsidian.md/Attachments/Weather_effects.png",
     "obsidian.md/Attachments/Weather effects.md",
     "Resources/Houserules/GGMM/LVL9.md",
