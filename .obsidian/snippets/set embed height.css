@@ -1,0 +1,54 @@
+.internal-embed.is-loaded[alt="short"] {
+  max-height: 25rem !important;
+  overflow: auto !important;
+
+}
+
+.internal-embed.is-loaded[alt="narrow"] {
+  max-width: 7.5rem !important;
+  overflow: hidden !important;
+
+}
+.internal-embed.is-loaded[alt="stats"] {
+  max-height: 11.01875rem;
+  min-width: 10.625rem;
+  overflow: hidden !important;
+  padding-left: 2rem !important;
+}
+
+
+.internal-embed.is-loaded[alt="tall"] {
+  max-height: 50rem !important;
+  overflow: auto !important;
+
+}
+
+.internal-embed.is-loaded[alt="narrow"] .markdown-embed-link,
+.internal-embed.is-loaded[alt="narrow"].markdown-embed-link:hover,
+.internal-embed.is-loaded[alt="spacer"] .markdown-embed-link,
+.internal-embed.is-loaded[alt="spacer"].markdown-embed-link:hover{
+color: transparent !important;
+}
+
+.internal-embed.is-loaded[alt="spacer"] {
+padding-left: 1rem !important;
+ max-width: 0px !important;
+ width: 0px !important;
+ background-color: transparent !important;
+}
+
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+  max-height:none !important;}
+
+.markdown-preview-view .internal-query.is-embed {
+margin-left: auto;
+margin-right: auto;
+border-top:none;
+width:37.5rem !important;
+border-bottom:none;
+}
+
+.grid .internal-embed.is-loaded .markdown-embed-content{
+	min-height: 9.5rem
+
+}

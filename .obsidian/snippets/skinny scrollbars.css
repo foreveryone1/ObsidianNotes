@@ -1,0 +1,19 @@
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+.CodeMirror-vscrollbar {
+  width: 9px;
+
+}
+
+.CodeMirror-hscrollbar {
+  height: 9px;
+}
+:root {
+  --accent-h:201 !important;   /* Accent hue */
+  --accent-s:17% !important;   /* Accent saturation */
+  --accent-d:60% !important;   /* Accent lightness Dark Mode */
+  --accent-l:50% !important;   /* Accent lightness Light Mode */
+}

@@ -1,0 +1,56 @@
+
+### Traits
+- I try never to let my judgment become clouded by emotion.
+- I have infinite patience with the dolts and boors I'm forced to deal with every day.
+- When I give an order, I expect it to be obeyed.
+- I just want things the way I like them: neat, orderly, and clean.
+- I am always willing to act in accordance with the financial incentive offered.
+- No wrongdoing can escape my watchful gaze.
+- I always say exactly what I mean, no matter how many words it takes to communicate the particular nuance I am attempting to convey.
+- I have always tried to make the best of a bad situation.
+- Debts are never meant to be forgiven.
+- I'm very literal and don't appreciate metaphor or sarcasm.
+- My former boss was an idiot. So was my boss before that. And before that. I'm sure those were all coincidences.
+- The law doesn't protect the honest and the hard working. I'm going to do whatever needs to be done to make things right.
+- I never change my mind once it's made up.
+- My superiors are smarter and wiser than I am. I do what I'm told.
+- Never pass up the opportunity to make an easy bit of coin. That's my motto.
+- I'm beginning to feel like the gods are not on my side.
+### Ideals
+- Guild: My guild is all that really matters. 
+- Order: The law is meant to ensure that the gears of society turn smoothly and quietly. #Lawful
+- Peace: The ultimate object of the law is to remove violence from society. #Good
+- Compliance: Coercion is a fine way of ensuring that the laws are obeyed. #Lawful
+- Justice. Those who break the law need to answer for their crimes. #Lawful
+- Freedom. People must have the freedom to do what they want and pursue their dreams. #Chaotic
+- Chaos. You're out of order! And you're out of order! This whole realm is out of order! #Chaotic
+- Prestige: I want to be admired, respected, feared, or even hated for my position and wealth. #Evil
+- Legislation: The law embodies excellence in its precision and detail. #Lawful
+- Humility. I'm just a small part of a larger whole. So is everyone else. #Neutral
+- Wealth: I will do whatever it takes to become as rich as the oligarchs. #Evil
+- Responsibility. We all have our roles to play. I'll hold up my end of the bargain.
+- Greed. Everyone I see is getting theirs, so I'm surely going to get mine. #Evil
+- Punishment: A public display of consequences is an excellent deterrent for other criminals. #Evil
+- Stability: The economy functions best when chaos is kept under control and everyone knows their place. #Lawful
+### Bonds
+- I am beholden to an officer who captured the criminal who killed my parents, saving me from the same fate.
+- I hope one day to write the laws, not just enforce them.
+- The rulers of this place were kind to me, and they have my lifelong devotion.
+- I tried and failed to prevent a murder, and I have sworn to find and arrest the perpetrator.
+- I successfully prevented a murder, and the would-be perpetrator wants me dead.
+- I value my worldly goods more highly than my mortal life.
+- One of my parents has a prominent function, and I resent constantly being compared to that standard.
+- I've modeled my career after a highly respected lawmaker or judge, but I fear that my role model might be involved in something illegal.
+### Flaws
+- I'm unable to distinguish between the letter and the spirit of the law.
+- I seem like a harsh judge to others, but I judge myself most harshly of all.
+- I have a secret, illegal vice.
+- I was traumatized by witnessing a crime as a child.
+- I'm convinced that everyone I know is plotting against me.
+- I am convinced that I am far more important than anyone else is willing to acknowledge.
+- I'm incapable of deception.
+- My loyalties are... fluid.
+- I have little respect for anyone who isn't wealthy.
+- The person who gains the most reward for the least effort wins.
+- Sleep is for the weak. We need to keep training more if we're going to be ready for the challenges ahead.
+- I wish I had joined the corps, but I fear they'd never accept me.

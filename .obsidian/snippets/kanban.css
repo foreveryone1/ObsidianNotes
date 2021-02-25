@@ -1,0 +1,78 @@
+.kanban ul {
+  display: flex;
+  width:100%;
+  flex-direction: row;
+  background-color: var(--background-secondary);
+  padding-left, padding-right: 1rem;
+  padding-bottom: 0.3rem;
+  padding-top: 0.9rem;
+}
+
+.kanban .list-collapse-indicator.collapse-indicator.collapse-icon{
+	padding-left: 3rem;
+ /* padding-right: 0.3rem; */
+ margin-right: 0.5rem
+}
+.kanban .task-list-item-checkbox {
+margin-left: 1.5rem;
+margin-right: 0.75rem;
+}
+
+.kanban ul h1,
+.kanban ul h2,
+.kanban ul h3,
+.kanban ul h4,
+.kanban ul h5,
+.kanban ul h6{
+    margin-block-start: 0rem;
+     margin-block-end: 0rem;
+    margin-left: 0
+}
+
+
+.kanban ul li {
+  flex: 1;
+  list-style: none;
+}
+
+.kanban ul ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem;
+  margin-right: 2.5rem;
+  margin-top: 1rem;
+  border-radius: 0;
+  border: 0;
+  background: #ffffff20;
+}
+
+.kanban ul ul li {
+  width: 100%;
+  display: block;
+  margin-bottom: 0;
+  padding: 0.625rem;
+}
+
+
+.kanban ul ul li:nth-child(odd) {
+  background: #ffffff70;
+  border:1px solid var(--background-secondary);
+}
+
+.kanban ul ul li:nth-child(even) {
+  background: #ffffff10;
+  border:1px solid var(--background-secondary);
+}
+
+.kanban ul ul li:hover {
+  background: #C7C8C920;
+}
+
+.kanban ul ul ul {
+  margin-right: 0;
+}
+
+.kanban ul ul::before {
+  border-left: 0;
+}

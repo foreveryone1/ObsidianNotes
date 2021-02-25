@@ -1,0 +1,67 @@
+.cm-header-1,
+.markdown-preview-section h1 {
+  font-size: 1.8rem;
+  letter-spacing:-0.02em;
+}
+
+
+.cm-header-2,
+.markdown-preview-section h2 {
+  font-size: 1.4rem;
+  letter-spacing:-0.02em;
+}
+
+.cm-header-3,
+.markdown-preview-section h3 {
+  font-weight: 600;
+  font-size: 1.3rem;
+  letter-spacing:0.01em;
+}
+
+
+.cm-header-4,
+.markdown-preview-section h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing:0.01em;
+}
+
+.cm-header-5,
+.markdown-preview-section h5{
+  font-size: 1.1rem;
+  font-weight: 800;
+  font-variant:small-caps;
+  letter-spacing:0.02em;
+}
+
+.cm-header-6,
+.markdown-preview-section h6 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  font-variant:small-caps;
+  letter-spacing:0.02em;
+  color: var(--text-title-h5);
+}
+
+.markdown-preview-view h1 {
+  line-height: 1.9rem;
+}
+.markdown-preview-view h2 {
+  line-height: 1.5rem;
+}
+.markdown-preview-view h3 {
+  line-height: 1.4rem;
+}
+
+.markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3, .markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6 {
+    margin: 0.5rem 0;
+}
+
+
+
+.cm-formatting.cm-formatting-header.cm-header {
+  color: var(--text-accent) !important;
+  opacity: 0.45 !important;
+}
+
+
