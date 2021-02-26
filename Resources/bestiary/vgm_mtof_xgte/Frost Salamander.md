@@ -1,5 +1,6 @@
 # Frost Salamander
->*Huge elemental, unaligned*
+>*Huge #elemental , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 168 (16d12 + 64)
@@ -15,11 +16,11 @@
 >- **Damage Immunities** cold
 >- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 14
 >- **Languages** Primordial
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Burning Fury.*** When the salamander takes fire damage, its Freezing Breath automatically recharges.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The salamander makes five attacks: four with its claws and one with its bite.  
 >
 >***Claws.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) piercing damage.  

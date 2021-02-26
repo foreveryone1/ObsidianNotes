@@ -1,5 +1,6 @@
 # Bone Devil
->*Large fiend (devil), lawful evil*
+>*Large #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 142 (15d10 + 60)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** Infernal, telepathy 120 ft.
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >
 >***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The devil makes three attacks: two with its claws and one with its sting.  
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage.  

@@ -1,5 +1,6 @@
 # Adult Gold Dragon
->*Huge dragon, lawful good*
+>*Huge #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 256 (19d12 + 133)
@@ -14,13 +15,13 @@
 >- **Damage Immunities** fire
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 >- **Languages** Common, Draconic
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.  
@@ -40,7 +41,7 @@
 >***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).  
 >In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.  
 >
->### Legendary Actions
+## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The dragon makes a Wisdom (Perception) check.
@@ -49,7 +50,7 @@
 ## Adult Gold Dragon
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
-***Devourer of Wealth.*** Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes.
+***Devourer of Wealth.*** Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold #dragon , as long as they aren't bribes.
 ***Reserved Shapeshifters.*** Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
 Older gold dragons can assume animal and humanoid forms. Rarely does a gold dragon in disguise reveal its true form. In the guise of a peddler, it might regularly visit a town to catch up on local gossip, patronize honest businesses, and lend a helping hand in unseen ways. In the guise of an animal, the dragon might befriend a lost child, a wandering minstrel, or an innkeeper, serving as a companion for days or weeks on end.
 ***Master Hoarders.*** A gold dragon keeps its hoard in a well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.
@@ -78,7 +79,7 @@ Dragon Age Categories
 | Young | Large | 6–100 years |
 | Adult | Huge | 101–800 years |
 | Ancient | Gargantuan | 801 years or more |
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 - The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
 - One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.

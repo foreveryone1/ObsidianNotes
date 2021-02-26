@@ -1,5 +1,6 @@
 # Frost Giant Everlasting One
 >*Huge giant (frost giant), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (patchwork armor)
 >- **Hit Points** 189 (14d12 + 98)
@@ -14,7 +15,7 @@
 >- **Damage Immunities** cold
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Giant
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.  
 >
@@ -25,7 +26,7 @@
 >- When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.  
 >- The giant has resistance to bludgeoning, piercing, and slashing damage.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two attacks with its greataxe.  
 >
 >***Greataxe.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26 (3d12 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging.  

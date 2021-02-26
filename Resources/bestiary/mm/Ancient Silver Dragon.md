@@ -1,5 +1,6 @@
 # Ancient Silver Dragon
->*Gargantuan dragon, lawful good*
+>*Gargantuan #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 487 (25d20 + 225)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** cold
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 >- **Languages** Common, Draconic
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) piercing damage.  
@@ -38,7 +39,7 @@
 >***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).  
 >In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.  
 >
->### Legendary Actions
+## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The dragon makes a Wisdom (Perception) check.
@@ -77,7 +78,7 @@ Dragon Age Categories
 | Young | Large | 6–100 years |
 | Adult | Huge | 101–800 years |
 | Ancient | Gargantuan | 801 years or more |
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 - The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.
 - A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.

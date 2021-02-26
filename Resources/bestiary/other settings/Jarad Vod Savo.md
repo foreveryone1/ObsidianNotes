@@ -1,5 +1,6 @@
 # Jarad Vod Savo
->*Medium undead, neutral evil*
+>*Medium #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 180 (24d8 + 72)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 20
 >- **Languages** Common, Elvish, Kraul
->- **Challenge** 22 (41,000 XP)
+>- #cr22 (41,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Jarad fails a saving throw, he can choose to succeed instead.  
 >
@@ -42,14 +43,14 @@
 >
 >***Undead Fortitude.*** If damage reduces Jarad to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, he drops to 1 hit point instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Jarad makes two attacks: one with his Noxious Touch and one with his Staff of Svogthir. He can cast a spell with a casting time of 1 action in place of one of these attacks.  
 >
 >***Noxious Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 28 (8d6) poison damage, and the target must succeed on a DC 20 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
 >***Staff of Svogthir.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 13 (3d8) poison damage and 13 (3d8) necrotic damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >Jarad can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Jarad regains spent legendary actions at the start of its turn.
 >
 >- **Cantrip.** Jarad casts one of his cantrips.

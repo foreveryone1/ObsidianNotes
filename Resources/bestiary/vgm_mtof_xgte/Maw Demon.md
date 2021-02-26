@@ -1,5 +1,6 @@
 # Maw Demon
->*Medium fiend (demon), chaotic evil*
+>*Medium #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 33 (6d8 + 6)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** understands Abyssal but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
 ## Maw Demon
 Demon lords create lesser demons for the purpose of spreading chaos and terror throughout the multiverse.

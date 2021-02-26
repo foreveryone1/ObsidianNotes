@@ -1,5 +1,6 @@
 # Colossus of Akros
->*Gargantuan construct, unaligned*
+>*Gargantuan #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 350 (20d20 + 140)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** understands Common and Celestial but can't speak
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Crumbling Destruction.*** When the colossus drops to 0 hit points, it crumbles and is destroyed. Any creature on the ground within 30 feet of the crumbling statue must make a DC 22 Dexterity saving throw, taking 22 (4d10) bludgeoning damage and 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.  
 >
@@ -27,7 +28,7 @@
 >
 >***Siege Monster.*** The colossus deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The colossus of Akros makes two melee attacks.  
 >
 >***Spear.*** Melee  or Ranged Weapon Attack: +16 to hit, reach 15 ft., or range 200/600 ft., one target. Hit: 23 (4d6 + 9) piercing damage, or 27 (4d8 + 9) piercing damage if used with two hands to make a melee attack. If the colossus makes a ranged attack with this spear, the spear magically returns to its hand after the attack.  

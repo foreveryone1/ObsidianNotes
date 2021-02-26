@@ -1,5 +1,6 @@
 # Vargouille
->*Tiny fiend, chaotic evil*
+>*Tiny #fiend , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 13 (3d4 + 6)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** understands Abyssal, Infernal, and any languages it knew before becoming a vargouille but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 10 (3d6) poison damage.  
 >
 >***Kiss.*** The vargouille kisses one incapacitated humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a daylight spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting remove curse, greater restoration, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse.  

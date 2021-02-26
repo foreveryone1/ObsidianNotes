@@ -1,5 +1,6 @@
 # Ape
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 19 (3d8 + 6)
@@ -12,9 +13,9 @@
 >- **Skills** Athletics +5, Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The ape makes two fist attacks.  
 >
 >***Fist.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.  

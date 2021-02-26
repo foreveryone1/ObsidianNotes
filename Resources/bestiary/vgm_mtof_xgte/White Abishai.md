@@ -1,5 +1,6 @@
 # White Abishai
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 68 (8d8 + 32)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.  
 >
@@ -25,7 +26,7 @@
 >
 >***Reckless.*** At the start of its turn, the abishai can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The abishai makes two attacks: one with its longsword and one with its claw.  
 >
 >***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  

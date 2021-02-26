@@ -1,5 +1,6 @@
 # Bone Naga (Guardian)
->*Large undead, lawful evil*
+>*Large #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 58 (9d10 + 9)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Common plus one other language
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:  
 >
@@ -22,7 +23,7 @@
 >2nd level (3 slots): calm emotions, hold person  
 >3rd level (2 slots): bestow curse  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
 ## Bone Naga (Guardian)
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.

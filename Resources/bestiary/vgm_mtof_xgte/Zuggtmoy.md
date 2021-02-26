@@ -1,5 +1,6 @@
 # Zuggtmoy
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 304 (32d10 + 128)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** truesight 120 ft., passive Perception 21
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Innate Spellcasting.*** Zuggtmoy's spellcasting ability is Charisma (spell save DC 22). She can innately cast the following spells, requiring no material components:  
 >
@@ -31,7 +32,7 @@
 >
 >***Magic Weapons.*** Zuggtmoy's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Zuggtmoy makes three pseudopod attacks.  
 >
 >***Pseudopod.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage plus 9 (2d8) poison damage.  
@@ -43,7 +44,7 @@
 >### Reactions
 >***Protective Thrall.*** When Zuggtmoy is hit by an attack, one creature within 5 feet of Zuggtmoy that is charmed by her must use its reaction to be hit by the attack instead.  
 >
->### Legendary Actions
+## Legendary Actions
 >Zuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zuggtmoy regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** Zuggtmoy makes one pseudopod attack.
@@ -55,7 +56,7 @@ Zuggtmoy's cultists often follow her unwittingly. Most are fungi—infected to s
 Their devotion might begin with the seemingly harmless promises offered by exotic spores and mushrooms, but quickly consumes them, body and soul.
 #### Zuggtmoy's Lair
 Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen mushrooms of pale yellow and rancid brown. These massive fungi are some of the largest in existence. They are surrounded by a field of acidic puffballs and poisonous vapors. The mushrooms themselves are all interconnected by bridges of shelf-fungi, and countless chambers have been hollowed out from within their rubbery, fibrous stalks.
-#### Lair Actions
+## Lair Actions
 On Initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects: he can't use the same effect two rounds in a row:
 - Zuggtmoy causes four gas spores or violet fungi to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.
 - Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.

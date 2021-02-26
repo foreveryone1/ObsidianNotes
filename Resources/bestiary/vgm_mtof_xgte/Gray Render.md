@@ -1,5 +1,6 @@
 # Gray Render
->*Large monstrosity, chaotic neutral*
+>*Large #monstrosity , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 189 (18d10 + 90)
@@ -13,9 +14,9 @@
 >- **Skills** Perception +2
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** —
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The gray render makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked prone.  

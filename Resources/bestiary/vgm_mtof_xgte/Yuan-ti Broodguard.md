@@ -1,5 +1,6 @@
 # Yuan-ti Broodguard
->*Medium humanoid (yuan-ti), neutral evil*
+>*Medium #humanoid (yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 45 (7d8 + 14)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Mental Resistance.*** The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.  
 >
 >***Reckless.*** At the start of its turn, the broodguard can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The broodguard makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  

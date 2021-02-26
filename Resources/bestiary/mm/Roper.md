@@ -1,5 +1,6 @@
 # Roper
->*Large monstrosity, neutral evil*
+>*Large #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 93 (11d10 + 33)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +6, Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 16
 >- **Languages** —
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***False Appearance.*** While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.  
 >
@@ -20,7 +21,7 @@
 >
 >***Spider Climb.*** The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) piercing damage.  

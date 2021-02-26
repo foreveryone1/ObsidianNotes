@@ -1,5 +1,6 @@
 # Master of Cruelties
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 127 (15d10 + 45)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 13
 >- **Languages** Abyssal, Common, telepathy 120 ft.
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Aura of Blood Lust.*** When any other creature starts its turn within 30 feet of the master, that creature must succeed on a DC 17 Wisdom saving throw, or it must immediately take the Attack action, making one melee attack against a random creature within reach. If no creatures are within reach, it makes a ranged attack against a random creature within range, throwing its weapon if necessary.  
 >
@@ -30,7 +31,7 @@
 >
 >***Magic Resistance.*** The master has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The master makes two melee attacks with its spear.  
 >
 >***Spear.*** Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 13 (3d8) psychic damage.  

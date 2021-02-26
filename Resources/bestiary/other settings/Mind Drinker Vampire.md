@@ -1,5 +1,6 @@
 # Mind Drinker Vampire
->*Medium undead, neutral evil*
+>*Medium #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 55 (10d8 + 10)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** necrotic
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** the languages it knew in life
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The vampire's innate spellcasting ability is Intelligence (spell save DC 14). It can innately cast the following spells, requiring no components:  
 >
@@ -27,7 +28,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the vampire has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.  

@@ -1,5 +1,6 @@
 # Animated Tree
->*Huge plant, unaligned*
+>*Huge #plant , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 138 (12d12 + 60)
@@ -13,13 +14,13 @@
 >- **Damage Resistances** bludgeoning, piercing, necrotic, radiant
 >- **Senses** passive Perception 13
 >- **Languages** understands Common, Druidic, Elvish, and Sylvan but cannot speak
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.  
 >
 >***Siege Monster.*** The tree deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The tree makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.  

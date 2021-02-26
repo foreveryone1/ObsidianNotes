@@ -1,5 +1,6 @@
 # Derro Savant
->*Small humanoid (derro), chaotic evil*
+>*Small #humanoid (derro), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 36 (8d6 + 8)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +4
 >- **Senses** darkvision 120 ft., passive Perception 7
 >- **Languages** Dwarvish, Undercommon
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Magic Resistance.*** The derro savant has advantage on saving throws against spells and other magical effects.  
 >
@@ -26,7 +27,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the derro savant has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage.
 ## Derro Savant
 *Mad as hatters, every one of them. No derro has ever been sane, but neither is every form of madness a hindrance.*— Mordenkainen***Derro Savant.*** Derro slink through the subterranean realms, seeking places that are safe from the perils of the Underdark. Equal parts fearful and vicious, bands of these dwarfkin prey on those weaker than themselves, while giving simpering obeisance to any creatures they deem more powerful. Wild-haired, haggard, shuddering, and shabbily dressed, a lone derro seems a pitiable creature, but when a cackling, spitting, growling, howling horde of them attacks, the sight inspires both fear and revulsion.

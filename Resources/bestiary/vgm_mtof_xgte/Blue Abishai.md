@@ -1,5 +1,6 @@
 # Blue Abishai
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 195 (26d8 + 78)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.  
 >
@@ -35,7 +36,7 @@
 >6th level (1 slot): chain lightning  
 >7th level (1 slot): teleport  
 >
->### Actions
+## Actions
 >***Multiattack.*** The abishai makes two attacks: one with its quarterstaff and one with its bite.  
 >
 >***Quarterstaff.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.  

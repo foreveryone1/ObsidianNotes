@@ -1,5 +1,6 @@
 # Ki-rin
->*Huge celestial, lawful good*
+>*Huge #celestial , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 152 (16d12 + 48)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:  
 >
@@ -41,14 +42,14 @@
 >8th level (1 slot): control weather  
 >9th level (1 slot): true resurrection  
 >
->### Actions
+## Actions
 >***Multiattack.*** The ki-rin makes three attacks: two with its hooves and one with its horn.  
 >
 >***Hoof.*** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (2d4 + 5) bludgeoning damage.  
 >
 >***Horn.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ki-rin regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight) check.
@@ -65,7 +66,7 @@ Many who seek a ki-rin's guidance end up pledging service to the creature. They 
 ***Objects of Adoration.***  Because a ki-rin is renowned for its wisdom, other creatures would naturally seek it out with questions and requests if they could. For that reason among others, the creature makes its lair atop a forbidding mountain peak or in some other equally inaccessible location. Only those that have the tenacity to complete the daunting journey to a ki-rin's lair can prove themselves worthy of speaking with its occupant.
 ***Lair of Luxury.*** On the celestial planes, ki-rins reside in lofty, elegant aeries filled with luxurious objects. In the world, a ki-rin chooses a similar location, such as atop a tall pinnacle or within a cloud solidified by the ki-rin's magic. When viewed from the outside, a ki-rin's lair is indistinguishable from a natural site, and the entrance is difficult for visitors to find and reach. Inside, the lair is a serene and comfortable place, its ambiance a mix between palace and temple. If the ki-rin has taken creatures into its service, its lair doubles as a sacred site wherein the ki-rin not only rests, but also teaches of holy mysteries.
 Inside its lair, a ki-rin has the power to conjure objects up to three times per day, using each of the following versions of the power once. One version permanently creates enough objects made of soft, plant-based material-including manufactured objects such as cloth, pillows, rope, blankets, and clothing-to fill a cube 20 feet on a side. The second version permanently creates enough objects made of wood, or similarly hard plant-based material, to fill a cube 10 feet on a side. The third version creates enough objects made of stone or metal to fill a cube 2 feet on a side, but any materials created in this way last for only 1 hour.
-#### Lair Actions
+## Lair Actions
 Inside its lair, a ki-rin has the power to conjure objects up to three times per day, using each of the following versions of the power once. One version permanently creates enough objects made of soft, plant-based material - including manufactured objects such as cloth, pillows, rope, blankets, and clothing - to fill a cube 20 feet on a side. The second version enough objects made of wood, or similarly hard plant-based material, to fill a cube 10 feet on a side. The third version creates enough objects made of stone or metal to fill a cube 2 feet on a side, but any materials created in this way last for only 1 hour.
 #### Regional Effects
 The ki-rin's celestial nature transforms the region around its lair. Any of the following magical effects is possible for travelers to encounter in the vicinity:

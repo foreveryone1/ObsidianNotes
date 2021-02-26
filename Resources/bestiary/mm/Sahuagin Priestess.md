@@ -1,5 +1,6 @@
 # Sahuagin Priestess
->*Medium humanoid (sahuagin), lawful evil*
+>*Medium #humanoid (sahuagin), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 33 (6d8 + 6)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +6, Religion +3
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Sahuagin
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -27,7 +28,7 @@
 >2nd level (3 slots): hold person, spiritual weapon (trident)  
 >3rd level (3 slots): mass healing word, tongues  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sahuagin makes two melee attacks: one with her bite and one with her claws.  
 >
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.  

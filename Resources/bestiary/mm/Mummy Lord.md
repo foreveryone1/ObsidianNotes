@@ -1,5 +1,6 @@
 # Mummy Lord
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 97 (13d8 + 39)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** the languages it knew in life
->- **Challenge** 15 (13,000 XP) or 16 (15,000 XP) when encountered in lair
+>- #cr15 (13,000 XP) or 16 (15,000 XP) when encountered in lair
 >___
 >***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.  
 >
@@ -32,14 +33,14 @@
 >5th level (2 slots): contagion, insect plague  
 >6th level (1 slot): harm  
 >
->### Actions
+## Actions
 >***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.  
 >
 >***Rotting Fist.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.  
 >
 >***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.  
 >
->### Legendary Actions
+## Legendary Actions
 >The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
@@ -63,7 +64,7 @@ More ephemeral or permanent offenses, such as revealing a secret the mummy wishe
 ***Ending a Mummy's Curse.***  Rare magic can undo or dispel the ritual that gave rise to a mummy, allowing it to truly die. More commonly, a mummy can be sent back to its endless rest by undoing the transgression that caused it to rise. A sacred idol might be replaced in its niche, a stolen treasure could be returned to its tomb, or a temple might be purified of despoiling bloodshed.
 ***Undead Archives.***  Though they seldom bother to do so, mummies can speak. As a result, some serve as undead repositories of lost lore, and can be consulted by the descendants of those who created them. Powerful individuals sometimes intentionally sequester mummies away for occasional consultation.
 ***Undead Nature.***  A mummy doesn't require air, food, drink, or sleep.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:
 - Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.
 - Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.

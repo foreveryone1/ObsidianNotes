@@ -1,5 +1,6 @@
 # Anvilwrought Raptor
->*Tiny construct, unaligned*
+>*Tiny #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 18 (4d4 + 8)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 14
 >- **Languages** understands one language of its creator but can't speak
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Keen Sight.*** The raptor has advantage on Wisdom (Perception) checks that rely on sight.  
 >
 >***Recorded Mimicry.*** The raptor can mimic any sound, including voices, it has heard in the last 24 hours. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The raptor makes two attacks with its beak.  
 >
 >***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.

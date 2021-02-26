@@ -1,5 +1,6 @@
 # Ogre Howdah
->*Large giant, chaotic evil*
+>*Large #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (breastplate)
 >- **Hit Points** 59 (7d10 + 21)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** Common, Giant
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Howdah.*** The ogre carries a compact fort on its back. Up to four Small creatures can ride in the fort without squeezing. To make a melee attack against a target within 5 feet of the ogre, they must use spears or weapons with reach. Creatures in the fort have three-quarters cover against attacks and effects from outside it. If the ogre dies, creatures in the fort are placed in unoccupied spaces within 5 feet of the ogre.  
 >
->### Actions
+## Actions
 >***Mace.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 ## Ogre Howdah
 *Vile and violent though they be, ogres prove to be tractable minions for those unafraid to be brutal masters. I prefer giants, however.*— Mordenkainen***Ogre Howdah.*** The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort is big enough to serve as a fighting platform for up to four small humanoids. Ogre howdahs are most often seen bearing goblins equipped with bows and spears into battle, but they could just as easily transport kobolds, deep gnomes, or other humanoids of similar size.

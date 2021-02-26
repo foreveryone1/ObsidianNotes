@@ -1,5 +1,6 @@
 # Baboon
->*Small beast, unaligned*
+>*Small #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 3 (1d6)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** passive Perception 11
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.

@@ -1,5 +1,6 @@
 # Warhorse Skeleton
->*Large undead, lawful evil*
+>*Large #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (barding scraps)
 >- **Hit Points** 22 (3d10 + 6)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
->### Actions
+## Actions
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 ## Warhorse Skeleton
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.

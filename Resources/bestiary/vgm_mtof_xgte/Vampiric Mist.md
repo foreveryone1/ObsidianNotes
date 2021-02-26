@@ -1,5 +1,6 @@
 # Vampiric Mist
->*Medium undead, chaotic evil*
+>*Medium #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 30 (4d8 + 12)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Forbiddance.*** The mist can't enter a residence without an invitation from one of the occupants.  
 >
@@ -25,7 +26,7 @@
 >
 >***Sunlight Hypersensitivity.*** The mist takes 10 radiant damage whenever it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.  
 >
->### Actions
+## Actions
 >***Life Drain.*** The mist touches one creature in its space. The target must succeed on a DC 13 Constitution saving throw (undead and constructs automatically succeed), or it takes 10 (2d6 + 3) necrotic damage, the mist regains 10 hit points, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 ## Vampiric Mist
 ***Vampiric Mist.*** In billowing clouds of fog lurk vampiric mists, the wretched remnants of vampires that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.

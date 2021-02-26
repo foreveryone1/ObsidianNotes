@@ -1,5 +1,6 @@
 # Marilith
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 189 (18d10 + 90)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 13
 >- **Languages** Abyssal, telepathy 120 ft.
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.  
 >
@@ -23,7 +24,7 @@
 >
 >***Reactive.*** The marilith can take one reaction on every turn in combat.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The marilith can make seven attacks: six with its longswords and one with its tail.  
 >
 >***Longsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  

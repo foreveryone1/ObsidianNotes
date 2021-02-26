@@ -1,5 +1,6 @@
 # Sire of Insanity
->*Huge fiend (demon), chaotic evil*
+>*Huge #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 157 (15d12 + 60)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 14
 >- **Languages** Abyssal, Common, telepathy 120 ft.
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Aura of Mind Erosion.*** Any creature that starts its turn within 30 feet of the sire must make a DC 18 Wisdom saving throw. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature has disadvantage for 1 minute on Wisdom and Charisma checks and on Wisdom and Charisma saves. At the start of each of its turns, the sire can suppress this aura until the start of its next turn.  
 >
@@ -28,7 +29,7 @@
 >
 >***Magic Resistance.*** The sire has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sire makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 25 (3d12 + 6) piercing damage plus 16 (3d10) psychic damage.  

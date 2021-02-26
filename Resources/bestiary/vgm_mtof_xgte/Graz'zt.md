@@ -1,5 +1,6 @@
 # Graz'zt
->*Large fiend (demon, shapechanger), chaotic evil*
+>*Large #fiend (demon, shapechanger), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 346 (33d10 + 165)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** truesight 120 ft., passive Perception 22
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 24 (62,000 XP)
+>- #cr24 (62,000 XP)
 >___
 >***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.  
 >
@@ -33,14 +34,14 @@
 >
 >***Magic Weapons.*** Graz'zt's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Graz'zt attacks twice with Wave of Sorrow.  
 >
 >***Wave of Sorrow (Greatsword).*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) slashing damage plus 10 (3d6) acid damage.  
 >
 >***Teleport.*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.  
 >
->### Legendary Actions
+## Legendary Actions
 >Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Graz'zt regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** Graz'zt attacks once with Wave of Sorrow.
@@ -54,7 +55,7 @@ The dark Prince of Pleasure considers restriction the only sin, and takes what h
 Although he prefers charm and subtle manipulation, Graz'zt is capable of terrible violence when provoked. He wields the greatsword Angdrelve, also called Wave of Sorrow, its wavy, razor-edged blade dripping acid at his command.
 #### Graz'zt's Lair
 Graz'zt's principal lair is his Argent Palace, a grandiose structure in the city of Zelatar, found within his Abyssal domain of Azzatar. Graz'zt's maddening influence radiates outward in a tangible ripple, warping reality around him. Given enough time in a single location, Graz'zt can twist it with his madness. Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery and decorations so decadent that even the wealthiest of mortals would blush at the excess. Within Graz'zt's lairs, followers, thralls, and subjects alike are forced to slake Graz'zt's thirst for pageantry and pleasure.
-#### Lair Actions
+## Lair Actions
 On Initiative count 20 (losing initiative ties), Graz'zt can take a lair action to cause one of the following effects: he can't use the same effect two rounds in a row:
 - Graz'zt casts the command spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.
 - Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity (Stealth) checks made to hide.

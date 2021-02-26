@@ -1,5 +1,6 @@
 # Neogi Hatchling
->*Tiny aberration, lawful evil*
+>*Tiny #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 7 (3d4)
@@ -11,13 +12,13 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Mental Fortitude.*** The hatchling has advantage on saving throws against being charmed or frightened, and magic can't put the hatchling to sleep.  
 >
 >***Spider Climb.*** The hatchling can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 7 (2d6) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ## Neogi Hatchling
 Neogi are hateful slavers that consider most other creatures, even weaker neogi, to be servants and prey. A neogi looks like an outsize spider with an eel's neck and head. The creature can poison the body and the mind of its target, able to subjugate other beings that are otherwise physically superior.

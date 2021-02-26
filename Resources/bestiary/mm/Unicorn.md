@@ -1,5 +1,6 @@
 # Unicorn
->*Large celestial, lawful good*
+>*Large #celestial , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 67 (9d10 + 18)
@@ -12,8 +13,8 @@
 >- **Damage Immunities** poison
 >- **Condition Immunities** charmed, paralyzed, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
->- **Challenge** 5 (1,800 XP)
+>- **Languages** #celestial , Elvish, Sylvan, telepathy 60 ft.
+>- #cr5 (1,800 XP)
 >___
 >***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Weapons.*** The unicorn's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The unicorn makes two attacks: one with its hooves and one with its horn.  
 >
 >***Hooves.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
@@ -38,7 +39,7 @@
 >
 >***Teleport (1/Day).*** The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.  
 >
->### Legendary Actions
+## Legendary Actions
 >The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 >
 >- **Hooves.** The unicorn makes one attack with its hooves.
@@ -52,7 +53,7 @@ Unicorns most often serve deities of the forest and woodlands, including the god
 Although all unicorns have natural healing power, some serve the gods in greater capacities, performing miracles normally reserved for high priests.
 ***Forest Lords.*** A unicorn's forest is a celestial realm where nothing that occurs beneath the sun-dappled leaves escapes the creature's notice. A unicorn hears each breathy tune sung by the elves that reside amid the treetops. It senses where every caterpillar spins its cocoon, each leaf and branch upon which a bright butterfly rests its tired wings.
 In a unicorn's forest, a sense of calm pervades. From wolves and foxes to birds, squirrels, and tiny insects, the creatures of a unicorn's domain seem quite tame.
-Pixies, sprites, satyrs, dryads, and other normally mercurial fey loyally serve a unicorn when they dwell within its woods. Under a unicorn's protection, creatures feel safe from the threat of encroaching civilization and the insidious spread of evil.
+Pixies, sprites, satyrs, dryads, and other normally mercurial fey  loyally serve a unicorn when they dwell within its woods. Under a unicorn's protection, creatures feel safe from the threat of encroaching civilization and the insidious spread of evil.
 A unicorn roams its domain constantly, moving ever so carefully so as not to disturb other denizens. A creature might catch a passing glimpse of the unicorn then suddenly see nothing but the wild woods.
 ***Sacred Horns.*** A unicorn's horn is the focus of its power, a shard of divine magic wrought in spiraling ivory. Wands of unicorn horn channel powerful magic, while unicorn horn weapons strike with divine force.
 Wizards can work powdered unicorn horn into potent potions and scroll ink, or use it as a component in eldritch rituals. However, any creature that takes a role, no matter how small, in slaying a unicorn is likely to become the target of divine retribution.

@@ -1,5 +1,6 @@
 # Owlbear
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 59 (7d10 + 21)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The owlbear makes two attacks: one with its beak and one with its claws.  
 >
 >***Beak.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.  
@@ -30,4 +31,4 @@ An owlbear makes its den in a cave or ruin littered with the bones of its prey. 
 Owlbears hunt alone or in mated pairs. If quarry is plentiful, a family of owlbears might remain together for longer than is required to rear offspring. Otherwise, they part ways as soon as the young are ready to hunt.
 ***Savage Companions.*** Although they are more intelligent than most animals, owlbears are difficult to tame. However, with enough time, food, and luck, an intelligent creature can train an owlbear to recognize it as a master, making it an unflinching guard or a fast and hardy mount. People of remote frontier settlements have even succeeded at racing owlbears, but spectators bet as often on which owlbear will attack its handler as they do on which will reach the finish line first.
 Elven communities encourage owlbears to den beneath their treetop villages, using the beasts as a natural defense during the night. Hobgoblins favor owlbears as war beasts, and hill giants and frost giants sometimes keep owlbears as pets. A starved owlbear might show up in a gladiatorial arena, ruthlessly eviscerating and devouring its foes before a bloodthirsty audience.
-***Owlbear Origins.*** Scholars have long debated the origins of the owlbear. The most common theory is that a demented wizard created the first specimen by crossing a giant owl with a bear. However, venerable elves claim to have known these creatures for thousands of years, and some fey insist that owlbears have always existed in the Feywild.
+***Owlbear Origins.*** Scholars have long debated the origins of the owlbear. The most common theory is that a demented wizard created the first specimen by crossing a giant owl with a bear. However, venerable elves claim to have known these creatures for thousands of years, and some #fey ,  insist that owlbears have always existed in the Feywild.

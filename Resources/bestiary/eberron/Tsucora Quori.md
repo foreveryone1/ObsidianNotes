@@ -1,5 +1,6 @@
 # Tsucora Quori
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 68 (8d8 + 32)
@@ -15,14 +16,14 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Common, Quori
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The quori's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components:  
 >
 >At will: charm person  
 >1/day: fear  
 >
->### Actions
+## Actions
 >***Multiattack.*** The quori makes three attacks: one pincer attack, one attack with its claws, and one stinger attack.  
 >
 >***Pincer.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature. The quori has two pincers, each of which can grapple one target.  

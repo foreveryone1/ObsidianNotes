@@ -1,5 +1,6 @@
 # Aboleth
->*Large aberration, lawful evil*
+>*Large #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 135 (18d10 + 36)
@@ -13,7 +14,7 @@
 >- **Skills** History +12, Perception +10
 >- **Senses** darkvision 120 ft., passive Perception 20
 >- **Languages** Deep Speech, telepathy 120 ft.
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Amphibious.*** The aboleth can breathe air and water.  
 >
@@ -21,7 +22,7 @@
 >
 >***Probing Telepathy.*** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The aboleth makes three tentacle attacks.  
 >
 >***Tentacle.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.  
@@ -31,7 +32,7 @@
 >***Enslave (3/Day).*** The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.  
 >Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.  
 >
->### Legendary Actions
+## Legendary Actions
 >The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The aboleth makes a Wisdom (Perception) check.
@@ -45,7 +46,7 @@ Aboleths' minds are treasure troves of ancient lore, recalling moments from preh
 ***Enemies of the Gods.*** The aboleths' fall from power is written in stark clarity on their flawless memories, for aboleths never truly die. If an aboleth's body is destroyed, its spirit returns to the Elemental Plane of Water, where a new body coalesces for it over days or months.
 Ultimately, aboleths dream of overthrowing the gods and regaining control of the world. Aboleths have had untold eons to plot and to prepare their plans for perfect execution.
 ***An Aboleth's Lair.*** Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers.
-#### Lair Actions
+## Lair Actions
 When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects:
 - The aboleth casts phantasmal force (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can't take other lair actions. If a target succeeds on the saving throw or if the effect ends for it, the target is immune to the aboleth's phantasmal force lair action for the next 24 hours, although such a creature can choose to be affected.
 - Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet into the water and knocked prone. The aboleth can't use this lair action again until it has used a different one.

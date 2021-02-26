@@ -1,5 +1,6 @@
 # Dolgrim
->*Small aberration, chaotic evil*
+>*Small #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor, shield)
 >- **Hit Points** 13 (3d6 + 3)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Deep Speech, Goblin
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Dual Consciousness.*** The dolgrim has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dolgrim makes three attacks.  
 >
 >***Morningstar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  

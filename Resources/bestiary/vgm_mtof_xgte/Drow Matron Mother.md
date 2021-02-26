@@ -1,5 +1,6 @@
 # Drow Matron Mother
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (half plate armor)
 >- **Hit Points** 262 (35d8 + 105)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 21
 >- **Languages** Elvish, Undercommon
->- **Challenge** 20 (25,000 XP)
+>- #cr20 (25,000 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -44,7 +45,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The matron mother makes two demon staff attacks or three tentacle rod attacks.  
 >
 >***Demon Staff.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands, plus 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become frightened of the drow for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
@@ -53,7 +54,7 @@
 >
 >***Summon Servant (1/Day).*** The drow magically summons a retriever or a yochlol. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.  
 >
->### Legendary Actions
+## Legendary Actions
 >The drow matron mother can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The drow matron mother regains spent legendary actions at the start of its turn.
 >
 >- **Demon Staff.** The drow makes one attack with her demon staff.

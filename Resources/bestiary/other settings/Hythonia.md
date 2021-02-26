@@ -1,5 +1,6 @@
 # Hythonia
->*Large monstrosity, lawful evil*
+>*Large #monstrosity , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 199 (21d10 + 84)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 19
 >- **Languages** Common
->- **Challenge** 17 (18,000 XP, or 36,000 XP as a mythic encounter)
+>- #cr17 (18,000 XP, or 36,000 XP as a mythic encounter)
 >___
 >***Innate Spellcasting.*** Hythonia's spellcasting ability is Charisma (spell save DC 18). She can innately cast animate objects once per day requiring no material components.  
 >
@@ -28,7 +29,7 @@
 >
 >***Shed Skin (Mythic Trait; Recharges after a Short or Long Rest).*** If Hythonia is reduced to 0 hit points, she doesn't die or fall unconscious. Instead, she sheds her skin, regains 199 hit points, and moves up to her speed without provoking opportunity attacks.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Hythonia makes three attacks: one with her claws, one to constrict, and one with her snaky hair.  
 >
 >***Claws.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage plus 4 (1d8) poison damage.  
@@ -37,7 +38,7 @@
 >
 >***Snaky Hair.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 31 (4d12 + 5) bludgeoning damage, and Hythonia can pull the target up to 5 feet closer to her if it is a Large or smaller creature.  
 >
->### Legendary Actions
+## Legendary Actions
 >Hythonia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Hythonia regains spent legendary actions at the start of its turn.
 >
 >- **Move.** Hythonia moves up to her speed without provoking opportunity attacks.
@@ -53,7 +54,7 @@
 Theros's reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn't merely a collector; she's an artist.
 When Hythonia came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the medusa's petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, Hythonia formulated a cruel plan. After encouraging them to engage in wild rituals, Hythonia began turning her followers to stone, weaving their forms to create a grisly throne made of their petrified bodies.
 While the medusa's victims have dwindled, tales of the medusa queen and the divine secrets she hoards have not. Hythonia eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), Hythonia can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:
 - Hythonia briefly animates creatures that have been petrified by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (3d6) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also grappled (escape DC 15).
 - Hythonia causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (2d4) piercing damage and become poisoned until the end of its next turn. While poisoned in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the confusion spell.

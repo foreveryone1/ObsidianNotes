@@ -1,5 +1,6 @@
 # Kuo-toa Archpriest
->*Medium humanoid (kuo-toa), neutral evil*
+>*Medium #humanoid (kuo-toa), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 97 (13d8 + 39)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +9, Religion +7
 >- **Senses** darkvision 120 ft., passive Perception 19
 >- **Languages** Undercommon
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Amphibious.*** The kuo-toa can breathe air and water.  
 >
@@ -32,7 +33,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The kuo-toa makes two melee attacks.  
 >
 >***Scepter.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 14 (4d6) lightning damage.  

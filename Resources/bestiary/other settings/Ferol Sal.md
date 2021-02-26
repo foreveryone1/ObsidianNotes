@@ -1,5 +1,6 @@
 # Ferol Sal
->*Medium undead, neutral evil*
+>*Medium #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (studded leather armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** the languages it knew in life
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Sunlight Sensitivity.*** While in sunlight, Ferol has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Ferol makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.  
 >
 >***Life Drain.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.  

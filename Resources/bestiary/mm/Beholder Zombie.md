@@ -1,5 +1,6 @@
 # Beholder Zombie
->*Large undead, neutral evil*
+>*Large #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 93 (11d10 + 33)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** poisoned, prone
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** understands Deep Speech and Undercommon but can't speak
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.  
 >
 >***Eye Ray.*** The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.  

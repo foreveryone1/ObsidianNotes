@@ -1,5 +1,6 @@
 # Water Elemental
->*Large elemental, neutral*
+>*Large #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 114 (12d10 + 48)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.  
 >
 >***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The elemental makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.  
@@ -31,6 +32,6 @@
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 Elementals are incarnations of the elements that make up the universe: air, earth, fire, and water. Though little more than animated energy on their own planes of existence, they can be called on by spellcasters and powerful beings to take shape and perform tasks.
 ***Living Elements.*** On its home plane, an elemental is a bodiless life force. Its dim consciousness manifests as a physical shape only when focused by the power of magic. A wild spirit of elemental force has no desire except to course through the element of its native plane. Like beasts of the Material Plane, these elemental spirits have no society or culture, and little sense of being.
-***Conjured by Magic.*** Certain spells and magic items can conjure an elemental, summoning it from the Inner Planes to the Material Plane. Elementals instinctively resent being pulled from their native planes and bound into service. A creature that summons an elemental must assert force of will to control it.
+***Conjured by Magic.*** Certain spells and magic items can conjure an #elemental , summoning it from the Inner Planes to the Material Plane. Elementals instinctively resent being pulled from their native planes and bound into service. A creature that summons an elemental must assert force of will to control it.
 ***Bound and Shaped.*** Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
 ***Elemental Nature.*** An elemental doesn't require air, food, drink, or sleep.

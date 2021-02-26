@@ -1,5 +1,6 @@
 # Firemane Angel
->*Medium celestial, chaotic good*
+>*Medium #celestial , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 135 (18d8 + 54)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** truesight 120 ft., passive Perception 16
 >- **Languages** all
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Flyby.*** The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.  
 >
@@ -29,7 +30,7 @@
 >
 >***Relentless (Recharges after a Short or Long Rest).*** If the angel takes 21 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The angel makes two melee attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage, or 11 (1d10 + 6) slashing damage if used with two hands, plus 22 (5d8) fire or radiant damage (angel's choice).

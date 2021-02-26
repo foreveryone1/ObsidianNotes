@@ -1,5 +1,6 @@
 # Flabbergast
->*Medium humanoid (human), lawful neutral*
+>*Medium #humanoid (human), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +5, History +5, Perception +3, Persuasion +3
 >- **Senses** passive Perception 13
 >- **Languages** Common, Draconic, Elvish, Gnomish
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Spellcasting.*** Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:  
 >
@@ -27,7 +28,7 @@
 >*New spell introduced in chapter 3  
 >
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 ## Flabbergast
 Not much is known of the mysterious and aloof majordomo of Acquisitions Incorporated Head Office, the mage known as Flabbergast. It's said that he hails from Neverwinter, and that his wealthy family helped erect and carve the famous Dolphin Bridge in that city. Although he detests physical labor, Flabbergast is a bit of a bridge builder in his own way, always striving to bring people together and flexing his diplomatic muscles. A pacifist bureaucrat, he abhors violence, and rarely puts his magical prowess on display.

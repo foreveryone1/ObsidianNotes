@@ -1,5 +1,6 @@
 # Githzerai Enlightened
->*Medium humanoid (gith), lawful neutral*
+>*Medium #humanoid (gith), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18
 >- **Hit Points** 112 (15d8 + 45)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +7, Insight +8, Perception +8
 >- **Senses** passive Perception 18
 >- **Languages** Gith
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >
@@ -24,7 +25,7 @@
 >
 >***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The githzerai makes three unarmed strikes.  
 >
 >***Unarmed Strike.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 13 (3d8) psychic damage.  

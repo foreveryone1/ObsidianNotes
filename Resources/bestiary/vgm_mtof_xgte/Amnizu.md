@@ -1,5 +1,6 @@
 # Amnizu
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 202 (27d8 + 81)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** Common, Infernal, telepathy 1,000 ft.
->- **Challenge** 18 (20,000 XP)
+>- #cr18 (20,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.  
 >
@@ -29,7 +30,7 @@
 >
 >***Magic Resistance.*** The amnizu has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The amnizu uses Poison Mind. It also makes two attacks: one with its whip and one with its Disruptive Touch.  
 >
 >***Taskmaster Whip.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.  

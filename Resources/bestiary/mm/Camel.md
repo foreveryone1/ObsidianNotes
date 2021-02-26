@@ -1,5 +1,6 @@
 # Camel
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 15 (2d10 + 4)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** passive Perception 9
 >- **Languages** —
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.

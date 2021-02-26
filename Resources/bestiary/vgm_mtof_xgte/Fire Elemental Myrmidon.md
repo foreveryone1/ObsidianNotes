@@ -1,5 +1,6 @@
 # Fire Elemental Myrmidon
->*Medium elemental, neutral*
+>*Medium #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 123 (19d8 + 38)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** paralyzed, petrified, poisoned, prone
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Ignan, one language of its creator's choice
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Illumination.*** The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.  
 >
@@ -22,7 +23,7 @@
 >
 >***Water Susceptibility.*** For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The myrmidon makes three scimitar attacks.  
 >
 >***Scimitar.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.  

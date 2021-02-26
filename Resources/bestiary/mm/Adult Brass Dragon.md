@@ -1,5 +1,6 @@
 # Adult Brass Dragon
->*Huge dragon, chaotic good*
+>*Huge #dragon , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 172 (15d12 + 75)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** fire
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 >- **Languages** Common, Draconic
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.  
@@ -34,7 +35,7 @@
 >
 >- **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 >
->### Legendary Actions
+## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The dragon makes a Wisdom (Perception) check.
@@ -72,7 +73,7 @@ Dragon Age Categories
 | Young | Large | 6–100 years |
 | Adult | Huge | 101–800 years |
 | Ancient | Gargantuan | 801 years or more |
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 - A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked prone. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.
 - A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

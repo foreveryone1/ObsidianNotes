@@ -1,5 +1,6 @@
 # Gazer
->*Tiny aberration, neutral evil*
+>*Tiny #aberration , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 13 (3d4 + 6)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** prone
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Aggressive.*** As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.  
 >
 >***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
 >
 >***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:  

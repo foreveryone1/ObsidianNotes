@@ -1,5 +1,6 @@
 # Splugoth the Returned
->*Small humanoid (goblinoid), neutral evil*
+>*Small #humanoid (goblinoid), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 27 (6d6 + 6)
@@ -13,7 +14,7 @@
 >- **Skills** Stealth +6
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common, Draconic, Elvish, Goblin
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Defensive Advantage.*** As long as two or more of Splugoth's allies are within 5 feet of him and are not incapacitated, attack rolls against him are made with disadvantage.  
 >
@@ -21,7 +22,7 @@
 >
 >***Touch of Madness.*** Splugoth has advantage on saving throws against being charmed or frightened.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Splugoth makes two attacks with his dagger.  
 >
 >***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.  

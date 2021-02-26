@@ -1,5 +1,6 @@
 # Warforged Soldier
->*Medium humanoid (warforged), any alignment*
+>*Medium #humanoid (warforged), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor, shield)
 >- **Hit Points** 30 (4d8 + 12)
@@ -13,11 +14,11 @@
 >- **Damage Resistances** poison
 >- **Senses** passive Perception 14
 >- **Languages** Common
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Warforged Resilience.*** The warforged has advantage on saving throws against being poisoned and is immune to disease. Magic can't put it to sleep.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The warforged makes two armblade attacks.  
 >
 >***Armblade.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  

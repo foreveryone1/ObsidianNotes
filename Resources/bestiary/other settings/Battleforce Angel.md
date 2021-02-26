@@ -1,5 +1,6 @@
 # Battleforce Angel
->*Medium celestial, lawful good*
+>*Medium #celestial , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 66 (12d8 + 12)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** darkvision 120 ft., truesight 120 ft., passive Perception 16
 >- **Languages** all
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Flyby.*** The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.  
 >
 >***Magic Resistance.*** The angel has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The angel makes two melee attacks. It also uses Battlefield Inspiration.  
 >
 >***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 18 (4d8) radiant damage. If the target is within 5 feet of any of the angel's allies, the target takes an extra 2 (1d4) radiant damage.  

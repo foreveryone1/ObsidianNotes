@@ -1,5 +1,6 @@
 # Kalashtar
->*Medium humanoid (kalashtar), any alignment*
+>*Medium #humanoid (kalashtar), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 16 (3d8 + 3)
@@ -13,11 +14,11 @@
 >- **Damage Resistances** psychic
 >- **Senses** passive Perception 12
 >- **Languages** Common, telepathy 20 ft.
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Dual Mind.*** The kalashtar has advantage on Wisdom saving throws.  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  
 >
 >***Mind Thrust.*** The kalashtar targets a creature it can see within 30 feet of it. The target must succeed on a DC 12 Wisdom saving throw or take 11 (2d10) psychic damage.

@@ -1,5 +1,6 @@
 # Abjurer
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 84 (13d8 + 26)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +8, History +8
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Arcane Ward.*** The abjurer has a magical ward that has 30 hit points. Whenever the abjurer takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the abjurer takes any remaining damage. When the abjurer casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.  
 >
@@ -31,7 +32,7 @@
 >*Abjuration spell of 1st level or higher  
 >
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
 ## Abjurer
 Abjurers are specialist wizards who feel secure when warded by layers of magical power. Kings, nobles, and other wealthy individuals commonly hire abjurers to cast protective spells on their homes and vaults.

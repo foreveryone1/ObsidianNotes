@@ -1,5 +1,6 @@
 # Lazav
 >*Medium monstrosity (shapechanger), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 204 (24d8 + 96)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 21
 >- **Languages** Common, Thieves' cant
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Elusive.*** No attack roll has advantage against Lazav unless he is incapacitated.  
 >
@@ -33,12 +34,12 @@
 >
 >***Shapechanger Savant.*** Lazav can use a bonus action to polymorph into a Small or Medium humanoid he has seen. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Lazav makes three shortsword attacks.  
 >
 >***Shortsword.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 10 (1d6 + 7) piercing damage plus 10 (3d6) psychic damage, and the target has disadvantage on the next attack roll it makes before Lazav's next turn.  
 >
->### Legendary Actions
+## Legendary Actions
 >Lazav can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lazav regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** Lazav makes a weapon attack.

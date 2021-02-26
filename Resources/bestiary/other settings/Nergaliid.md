@@ -1,5 +1,6 @@
 # Nergaliid
->*Large fiend (devil), lawful evil*
+>*Large #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 42 (4d10 + 20)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** Common, Infernal
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Shadow Stealth.*** While in dim light or darkness, the nergaliid can take the Hide action as a bonus action.  
 >
 >***Standing Leap.*** The nergaliid's long jump is up to 30 feet and its high jump is up to 20 feet, with or without a running start.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or become poisoned for 1 minute. The poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
 >***Tongue Lash.*** Melee Weapon Attack: +6 to hit, reach 20 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage.  

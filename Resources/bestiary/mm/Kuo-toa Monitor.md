@@ -1,5 +1,6 @@
 # Kuo-toa Monitor
->*Medium humanoid (kuo-toa), neutral evil*
+>*Medium #humanoid (kuo-toa), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor, Unarmored Defense)
 >- **Hit Points** 65 (10d8 + 20)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +6, Religion +5
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Undercommon
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Amphibious.*** The kuo-toa can breathe air and water.  
 >
@@ -24,7 +25,7 @@
 >
 >***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The kuo-toa makes one bite attack and two unarmed strikes.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

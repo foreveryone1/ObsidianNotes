@@ -1,5 +1,6 @@
 # Intellect Devourer
->*Tiny aberration, lawful evil*
+>*Tiny #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 21 (6d4 + 6)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** blinded
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 12
 >- **Languages** understands Deep Speech but can't speak, telepathy 60 ft.
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Detect Sentience.*** The intellect devourer can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The intellect devourer makes one attack with its claws and uses Devour Intellect.  
 >
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.  

@@ -1,5 +1,6 @@
 # Returned Drifter
->*Medium undead, lawful neutral*
+>*Medium #undead , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 11 (2d8 + 2)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** passive Perception 11
 >- **Languages** the languages it knew in life
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Turn Resistance.*** The Returned has advantage on saving throws against any effect that turns undead.  
 >
 >***Unreadable Face.*** The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.  
 >
->### Actions
+## Actions
 >***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage plus 3 (1d6) poison damage.  
 >
 >***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.

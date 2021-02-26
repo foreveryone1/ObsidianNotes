@@ -1,5 +1,6 @@
 # The Lord of Blades
->*Medium humanoid (warforged), lawful evil*
+>*Medium #humanoid (warforged), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 195 (23d8 + 92)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** passive Perception 19
 >- **Languages** Common, Draconic, Dwarvish, Elvish
->- **Challenge** 18 (20,000 XP)
+>- #cr18 (20,000 XP)
 >___
 >***Adamantine Plating.*** Any critical hit against the Lord of Blades becomes a normal hit.  
 >
@@ -35,7 +36,7 @@
 >
 >***Warforged Resilience.*** The Lord of Blades has advantage on saving throws against being poisoned, is immune to disease, and magic can't put him to sleep.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The Lord of Blades makes three attacks: two with his adamantine sixblade and one with his bladed wings.  
 >
 >***Adamantine Sixblade.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) slashing damage plus 7 (2d6) force damage.  
@@ -44,7 +45,7 @@
 >
 >***Fire Bolt (Cantrip).*** Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 22 (4d10) fire damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The Lord of Blades can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The Lord of Blades regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** The Lord of Blades makes one weapon attack.

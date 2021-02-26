@@ -1,5 +1,6 @@
 # Merrenoloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 40 (9d8)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence (spell save DC 13). It can innately cast the following spells, requiring no material components:  
 >
@@ -31,7 +32,7 @@
 >
 >***Teleport.*** As a bonus action, the merrenoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The merrenoloth uses Fear Gaze once and makes one oar attack.  
 >
 >***Oar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.  
@@ -42,7 +43,7 @@
 Whenever a merrenoloth takes on a contract to captain a ship, it bonds with the vehicle to make sure nothing goes awry with it during the journey. A merrenoloth can navigate its ship safely through the worst storms, always stays on course, and never runs afoul of the myriad hazards that can thwart lesser captains.
 A merrenoloth can hold its own in a fight, but it prefers to avoid combat when possible. In fact, it typically specifies in its contracts that it is under no obligation to fight. A merrenoloth's first duty is always to its vessel.
 ***Yugoloths.*** Mercenaries that ply their trade throughout the Lower Planes and in other realms, yugoloths have a reputation for effectiveness that is matched only by their desire for ever more wealth. Although yugoloths aren't especially loyal and typically try to exploit every potential loophole in a contract, they undertake any task for which they are hired, no matter how despicable. Yugoloths come in a wide variety of forms, including those described in the Monster Manual and the six creatures presented here.
-#### Lair Actions
+## Lair Actions
 Any ship a merrenoloth is contracted to captain becomes the creature's lair. When fighting on the ship, the merrenoloth can invoke its ability to take lair actions. On initiative count 20 (losing initiative ties), the merrenoloth can take one lair action to cause one of the following effects; it can't use the same effect two rounds in a row:
 - The ship regains 22 (4d10) hit points.
 - A strong wind propels the ship, increasing its speed by 30 feet until initiative count 20 on the next round.

@@ -1,5 +1,6 @@
 # Burnished Hart
->*Medium construct, unaligned*
+>*Medium #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** understands one language of its creator but can't speak
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Charge.*** If the hart moves at least 20 feet straight toward a target and then hits it with an antlers attack on the same turn, the target takes an extra 7 (2d6) fire damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.  
 >
@@ -21,7 +22,7 @@
 >
 >***Sure-Footed.*** The hart has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hart makes two attacks: one with its antlers and one with its hooves.  
 >
 >***Antlers.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.  

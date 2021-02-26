@@ -1,5 +1,6 @@
 # Flitterstep Eidolon
->*Medium undead, any alignment*
+>*Medium #undead , any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 44 (8d8 + 8)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
 >- **Senses** passive Perception 13
 >- **Languages** the languages it knew in life
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Blurred Form.*** Attack rolls against the eidolon are made with disadvantage unless the eidolon is incapacitated.  
 >
@@ -25,7 +26,7 @@
 >
 >***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The eidolon makes two melee attacks. Immediately before or after one of its attacks, it can use Flitterstep if it is available.  
 >
 >***Flickering Dagger.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 3 (1d6) psychic damage.  

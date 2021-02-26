@@ -1,5 +1,6 @@
 # Stone Defender
->*Medium construct, unaligned*
+>*Medium #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 52 (7d8 + 21)
@@ -13,13 +14,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands one language of its creator but can't speak
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***False Appearance.*** While the stone defender remains motionless against an uneven earthen or stone surface, it is indistinguishable from that surface.  
 >
 >***Magic Resistance.*** The stone defender has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked prone.  
 >
 >### Reactions

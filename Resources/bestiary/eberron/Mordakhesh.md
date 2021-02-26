@@ -1,5 +1,6 @@
 # Mordakhesh
->*Medium fiend, lawful evil*
+>*Medium #fiend , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 170 (20d8 + 80)
@@ -15,7 +16,7 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Senses** darkvision 60 ft., passive Perception 18
 >- **Languages** Common, Infernal
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Innate Spellcasting.*** Mordakhesh's spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). Mordakhesh can innately cast the following spells, requiring no material components:  
 >
@@ -25,14 +26,14 @@
 >
 >***Limited Magic Immunity.*** Mordakhesh can't be affected or detected by spells of 6th level or lower unless he wishes to be. Mordakhesh has advantage on saving throws against all other spells and magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Mordakhesh makes three greatsword attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 5 (1d10) force damage.  
 >
 >***Chromatic Orb.*** Ranged Spell Attack: +10 to hit, range 120 ft., one creature. Hit: 13 (3d8) damage of a type chosen by Mordakhesh: acid, cold, fire, lightning, poison, or thunder.  
 >
->### Legendary Actions
+## Legendary Actions
 >Mordakhesh can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Mordakhesh regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** Mordakhesh makes one weapon attack or casts chromatic orb.

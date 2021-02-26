@@ -1,5 +1,6 @@
 # Nightmare Shepherd
->*Large fiend, lawful evil*
+>*Large #fiend , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 133 (14d10 + 56)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** Abyssal, Common, Infernal
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Aura of Nightmares.*** Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack and damage rolls. When any other creature that isn't undead or a construct starts its turn within 30 feet of the shepherd, that creature must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage.  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Resistance.*** The shepherd has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The shepherd makes two attacks: one with its claws and one with its staff.  
 >
 >***Claws.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 16 (3d10) necrotic damage.  

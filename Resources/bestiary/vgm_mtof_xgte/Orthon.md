@@ -1,5 +1,6 @@
 # Orthon
->*Large fiend (devil), lawful evil*
+>*Large #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (half plate armor)
 >- **Hit Points** 105 (10d10 + 50)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** charmed, exhaustion, poisoned
 >- **Senses** darkvision 120 ft., truesight 30 ft., passive Perception 20
 >- **Languages** Common, Infernal, telepathy 120 ft.
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Invisibility Field.*** The orthon can use a bonus action to become invisible. Any equipment the orthon wears or carries is also invisible as long as the equipment is on its person. This invisibility ends immediately after the orthon makes an attack roll or is hit by an attack.  
 >
 >***Magic Resistance.*** The orthon has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Infernal Dagger.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11 (2d4 + 6) slashing damage, and the target must make a DC 17 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
 >***Brass Crossbow.*** Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 14 (2d10 + 3) piercing damage, plus one of the following effects:  

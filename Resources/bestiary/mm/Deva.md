@@ -1,5 +1,6 @@
 # Deva
->*Medium celestial, lawful good*
+>*Medium #celestial , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 136 (16d8 + 64)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** darkvision 120 ft., passive Perception 19
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Angelic Weapons.*** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Resistance.*** The deva has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The deva makes two melee attacks.  
 >
 >***Mace.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.  

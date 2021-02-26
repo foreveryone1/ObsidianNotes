@@ -1,5 +1,6 @@
 # Walnut Dankgrass
->*Medium humanoid (elf), lawful neutral*
+>*Medium #humanoid (elf), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 52 (8d8 + 16)
@@ -13,7 +14,7 @@
 >- **Skills** Athletics +1, Insight +6, Perception +6, Stealth +5, Survival +6
 >- **Senses** darkvision 60 ft., passive Perception 16
 >- **Languages** Common, Druidic, Elvish, Sylvan
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Fey Ancestry.*** Walnut has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >
@@ -32,7 +33,7 @@
 >While transformed, Walnut's game statistics are replaced by the statistics of the dire wolf, except she retains her alignment, personality, and Intelligence, Wisdom, and Charisma scores.  
 >Her attacks in beast form are magical. While in beast form, Walnut can use a bonus action to expend one spell slot and regain 1d8 hit points per level of the spell slot expended.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Walnut makes two attacks with Foremother or her longbow.  
 >
 >***Foremother (+1 Scimitar).*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.  

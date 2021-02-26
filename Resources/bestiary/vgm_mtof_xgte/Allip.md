@@ -1,5 +1,6 @@
 # Allip
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 40 (9d8)
@@ -16,11 +17,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** the languages it knew in life
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Incorporeal Movement.*** The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
->### Actions
+## Actions
 >***Maddening Touch.*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage.  
 >
 >***Whispers of Madness.*** The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 7 (1d8 + 3) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and undead are immune to this effect.  

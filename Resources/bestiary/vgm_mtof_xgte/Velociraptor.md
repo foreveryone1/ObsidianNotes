@@ -1,5 +1,6 @@
 # Velociraptor
->*Tiny beast, unaligned*
+>*Tiny #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 10 (3d4 + 3)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The velociraptor makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.  

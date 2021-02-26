@@ -1,5 +1,6 @@
 # Skulk
->*Medium humanoid, chaotic neutral*
+>*Medium #humanoid , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 18 (4d8)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** blinded
 >- **Senses** darkvision 120 ft., passive Perception 8
 >- **Languages** understands Common but can't speak
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Fallible Invisibility.*** The skulk is invisible. This invisibility can be circumvented by three things:  
 >- The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.
@@ -24,7 +25,7 @@
 >
 >***Trackless.*** The skulk leaves no tracks to indicate where it has been or where it's headed.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the skulk has advantage on the attack roll, the target also takes 7 (2d6) necrotic damage.
 ## Skulk
 *Some children have imaginary friends that their parents can't see. Sometimes those invisible friends aren't imaginary.*— Mordenkainen***Skulk.*** Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently invisible. Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless humanoid.

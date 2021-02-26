@@ -1,5 +1,6 @@
 # Hulil Lutan
->*Medium humanoid (dwarf), neutral evil*
+>*Medium #humanoid (dwarf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 33 (6d8 + 6)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** poison
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** any one language (usually Common), Dwarvish
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Dark Devotion.*** Hulil has advantage on saving throws against being charmed or frightened.  
 >
@@ -25,7 +26,7 @@
 >1st level (4 slots): command, inflict wounds, shield of faith  
 >2nd level (3 slots): hold person, spiritual weapon  
 >
->### Actions
+## Actions
 >***Multiattack.*** Hulil makes two melee attacks.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.

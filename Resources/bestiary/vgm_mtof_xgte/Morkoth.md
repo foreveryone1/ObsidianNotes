@@ -1,5 +1,6 @@
 # Morkoth
->*Medium aberration, chaotic evil*
+>*Medium #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 130 (20d8 + 40)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 20
 >- **Languages** telepathy 120 ft.
->- **Challenge** 11 (7,200 XP) or 12 (8,400 XP) when encountered in lair
+>- #cr11 (7,200 XP) or 12 (8,400 XP) when encountered in lair
 >___
 >***Amphibious.*** The morkoth can breathe air and water.  
 >
@@ -28,7 +29,7 @@
 >5th level (3 slots): geas, scrying  
 >6th level (1 slot): chain lightning  
 >
->### Actions
+## Actions
 >***Multiattack.*** The morkoth makes three attacks: two with its bite and one with its tentacles or three with its bite.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.  
@@ -53,7 +54,7 @@ Collectors of everything odd, unusual, and valuable-hopefully not including you.
 ***Primeval Hoarders.***  Morkoths are driven by greed and selfishness, mixed with a yearning for conflict. They desire anything they don't possess, have no scruples about taking what they crave, and endeavor to keep everything they collect.
 ***A Morkoth's Lair.*** A morkoth claims dominion over an entire island, and it also maintains a central sanctum on that isle. This lair is most often a twisted network of narrow tunnels that connect several underground chambers, although other structural forms might be incorporated. The morkoth dwells among its most prized possessions in a spacious vault at the core of the warren, where the pearly matter of the island is also located. Sections of the lair and its center might be kept dry to better protect and preserve collected objects and creatures, but most of the lair is underwater.
 A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the morkoth takes a lair action to cause one of the effects described below:
 - The morkoth uses its Hypnosis action, originating at a point within 120 feet of itself. It doesn't need to see the effect's point of origin.
 - The morkoth casts darkness, dispel magic, or misty step, using Intelligence as its spellcasting ability and without expending a spell slot.

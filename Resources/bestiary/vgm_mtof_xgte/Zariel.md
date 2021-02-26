@@ -1,5 +1,6 @@
 # Zariel
->*Large fiend (devil), lawful evil*
+>*Large #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 580 (40d10 + 360)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 26
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 26 (90,000 XP)
+>- #cr26 (90,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede Zariel's darkvision.  
 >
@@ -34,7 +35,7 @@
 >
 >***Regeneration.*** Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Zariel attacks twice with her longsword or with her javelins. She can substitute Horrid Touch for one of these attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.  
@@ -45,7 +46,7 @@
 >
 >***Teleport.*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.  
 >
->### Legendary Actions
+## Legendary Actions
 >Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of its turn.
 >
 >- **Immolating Gaze (Costs 2 Actions).** Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
@@ -57,7 +58,7 @@ Given her role in the Blood War, Zariel is keenly interested in collecting souls
 However, she does expect the best from her servants, and so she allows her mortal followers to live out their lives, ever honing their talents, so she can put them to the best use when she finally calls in their debts. As a result, Zariel's servants are universally effective, disciplined, and dangerous.
 #### Zariel's Lair
 Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly a mile away, one can hear the screams and moans coming from the burned victims chained to the stronghold's wall, the dying remains of those who failed to impress the archdevil. The stronghold, covering five square miles, is surrounded by walls reinforced with high turrets. Devils of all kinds crawl over the structure, ensuring that no intruders breach their defenses.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
 - Zariel casts major image four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become frightened of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - Zariel casts her innate fireball spell.

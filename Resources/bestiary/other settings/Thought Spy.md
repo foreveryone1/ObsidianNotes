@@ -1,5 +1,6 @@
 # Thought Spy
->*Medium humanoid (any race), neutral evil*
+>*Medium #humanoid (any race), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 27 (6d8)
@@ -12,7 +13,7 @@
 >- **Skills** Deception +6, Insight +3, Investigation +5, Perception +3, Sleight of Hand +4, Stealth +4
 >- **Senses** darkvision 30 ft., passive Perception 13
 >- **Languages** Common plus any one language
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Cunning Action.*** On each of its turns, the thought spy can use a bonus action to take the Dash, Disengage, or Hide action.  
 >
@@ -21,7 +22,7 @@
 >At will: charm person, disguise self, encode thoughts (see chapter 2)  
 >1/day each: blur, detect thoughts, gaseous form  
 >
->### Actions
+## Actions
 >***Multiattack.*** The thought spy makes two melee attacks, or it makes three ranged attacks with its daggers.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

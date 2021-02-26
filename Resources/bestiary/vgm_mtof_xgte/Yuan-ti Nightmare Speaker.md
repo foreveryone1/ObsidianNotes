@@ -1,5 +1,6 @@
 # Yuan-ti Nightmare Speaker
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 71 (13d8 + 13)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 11
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.  
 >
@@ -34,7 +35,7 @@
 >Cantrips (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray, prestidigitation  
 >1st-3rd level (2 3rd-level slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt  
 >
->### Actions
+## Actions
 >***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one constrict attack and one scimitar attack.  
 >
 >***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.  

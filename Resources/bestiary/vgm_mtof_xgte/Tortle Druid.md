@@ -1,5 +1,6 @@
 # Tortle Druid
->*Medium humanoid (tortle), lawful neutral*
+>*Medium #humanoid (tortle), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 33 (6d8 + 6)
@@ -12,7 +13,7 @@
 >- **Skills** Animal Handling +4, Nature +2, Survival +4
 >- **Senses** passive Perception 12
 >- **Languages** Aquan, Common
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Hold Breath.*** The tortle can hold its breath for 1 hour.  
 >
@@ -22,7 +23,7 @@
 >1st level (4 slots): animal friendship, cure wounds, speak with animals, thunderwave  
 >2nd level (3 slots): darkvision, hold person  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.  
 >
 >***Quarterstaff.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.  

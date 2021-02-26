@@ -1,5 +1,6 @@
 # Tarkanan Assassin
->*Medium humanoid (any race), any non-good alignment*
+>*Medium #humanoid (any race), any non-good alignment*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 45 (7d8 + 14)
@@ -12,7 +13,7 @@
 >- **Skills** Athletics +3, Deception +2, Perception +4, Sleight of Hand +5, Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Thieves' cant
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** The assassin's spellcasting ability is Constitution (+4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >
@@ -22,7 +23,7 @@
 >
 >***Unstable Mark.*** When the assassin casts an innate spell, each creature within 10 feet of the assassin must make a DC 12 Constitution saving throw, taking 4 (1d8) force damage on a failed save, or half as much damage on a successful one.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The assassin makes two shortsword attacks.  
 >
 >***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.  

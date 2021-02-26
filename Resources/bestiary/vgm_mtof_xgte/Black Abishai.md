@@ -1,5 +1,6 @@
 # Black Abishai
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 58 (9d8 + 18)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.  
 >
@@ -26,7 +27,7 @@
 >
 >***Shadow Stealth.*** While in dim light or darkness, the abishai can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The abishai makes three attacks: two with its scimitar and one with its bite.  
 >
 >***Scimitar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  

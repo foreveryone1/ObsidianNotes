@@ -1,5 +1,6 @@
 # Water Elemental Myrmidon
->*Medium elemental, neutral*
+>*Medium #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 127 (17d8 + 51)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** paralyzed, petrified, poisoned, prone
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan, one language of its creator's choice
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Magic Weapons.*** The myrmidon's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The myrmidon makes three trident attacks.  
 >
 >***Trident.*** Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack.  

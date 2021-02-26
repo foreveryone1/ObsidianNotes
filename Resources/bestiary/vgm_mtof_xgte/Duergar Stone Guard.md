@@ -1,5 +1,6 @@
 # Duergar Stone Guard
->*Medium humanoid (dwarf), lawful evil*
+>*Medium #humanoid (dwarf), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 39 (6d8 + 12)
@@ -12,7 +13,7 @@
 >- **Damage Resistances** poison
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** Dwarvish, Undercommon
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >
@@ -20,7 +21,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***King's Knife (Shortsword).*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.  
 >
 >***Javelin.*** Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.  

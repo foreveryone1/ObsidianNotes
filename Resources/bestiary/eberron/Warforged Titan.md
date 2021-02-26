@@ -1,5 +1,6 @@
 # Warforged Titan
->*Huge construct, lawful neutral*
+>*Huge #construct , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 125 (10d12 + 60)
@@ -13,13 +14,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Platforms.*** The warforged titan has two platforms built into its chassis. One Medium or smaller creature can ride on each platform without squeezing. To make a melee attack against a target within 5 feet of the warforged, they must use spears or weapons with reach and the target must be Large or larger.  
 >
 >***Siege Monster.*** The warforged titan deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The warforged titan makes one axehand attack and one hammerfist attack.  
 >
 >***Axehand.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) slashing damage, plus 11 (2d10) slashing damage if the target is prone.  

@@ -1,5 +1,6 @@
 # Brown Bear
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 34 (4d10 + 12)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.  

@@ -1,5 +1,6 @@
 # Ghast
->*Medium undead, chaotic evil*
+>*Medium #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 36 (8d8)
@@ -14,16 +15,16 @@
 >- **Condition Immunities** charmed, exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.  
 >
 >***Turn Defiance.*** The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.  
 >
->***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an #undead , it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ## Ghast
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 ***Devourers of Flesh.*** Like maggots or carrion beetles, ghouls thrive in places rank with decay and death. A ghoul haunts a place where it can gorge on dead flesh and decomposing organs. When it can't feed on the dead, it pursues living creatures and attempts to make corpses of them. Though they gain no nourishment from the corpses they devour, ghouls are driven by an unending hunger that compels them to consume. A ghoul's undead flesh never rots, and this monster can persist in a crypt or tomb for untold ages without feeding.

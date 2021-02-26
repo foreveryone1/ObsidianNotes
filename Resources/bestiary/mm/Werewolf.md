@@ -1,5 +1,6 @@
 # Werewolf
->*Medium humanoid (human, shapechanger), chaotic evil*
+>*Medium #humanoid (human, shapechanger), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 >- **Hit Points** 58 (9d8 + 18)
@@ -13,13 +14,13 @@
 >- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Senses** passive Perception 14
 >- **Languages** Common (can't speak in wolf form)
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
 >***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >
->### Actions
+## Actions
 >***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).  
 >
 >***Bite (Wolf or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.  

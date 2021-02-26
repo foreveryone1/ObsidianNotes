@@ -1,5 +1,6 @@
 # Gold Dragon Wyrmling
->*Medium dragon, lawful good*
+>*Medium #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 60 (8d8 + 24)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** fire
 >- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Draconic
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.  
 >
 >***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.  
@@ -28,7 +29,7 @@
 ## Gold Dragon Wyrmling
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
-***Devourer of Wealth.*** Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes.
+***Devourer of Wealth.*** Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold #dragon , as long as they aren't bribes.
 ***Reserved Shapeshifters.*** Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
 Older gold dragons can assume animal and humanoid forms. Rarely does a gold dragon in disguise reveal its true form. In the guise of a peddler, it might regularly visit a town to catch up on local gossip, patronize honest businesses, and lend a helping hand in unseen ways. In the guise of an animal, the dragon might befriend a lost child, a wandering minstrel, or an innkeeper, serving as a companion for days or weeks on end.
 ***Master Hoarders.*** A gold dragon keeps its hoard in a well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.

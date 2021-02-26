@@ -1,5 +1,6 @@
 # Rakdos
->*Huge fiend (demon), chaotic evil*
+>*Huge #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 300 (24d12 + 144)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** truesight 120 ft., passive Perception 14
 >- **Languages** Abyssal, Common
->- **Challenge** 24 (62,000 XP)
+>- #cr24 (62,000 XP)
 >___
 >***Captivating Presence.*** Any creature that starts its turn within 30 feet of Rakdos must make a DC 25 Wisdom saving throw. On a failed save, the creature becomes charmed by Rakdos for 1 minute or until the creature is farther than 30 feet away from him. On a successful save, the creature becomes immune to Rakdos's Captivating Presence for 24 hours.  
 >
@@ -30,14 +31,14 @@
 >
 >***Magic Weapons.*** Rakdos's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Rakdos makes two attacks with his Curtain-Call Scythe or his claws.  
 >
 >***Curtain-Call Scythe.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) slashing damage plus 13 (3d8) fire damage.  
 >
 >***Claw.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >Rakdos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rakdos regains spent legendary actions at the start of its turn.
 >
 >- **Sadistic Revelry.** Each creature within 60 feet of Rakdos that is his ally or is charmed by him must use its reaction to move up to half its speed toward the creature closest to it that it can see, provided it isn't already within 5 feet of that creature. It then must make one melee attack against that creature if it is able to do so.

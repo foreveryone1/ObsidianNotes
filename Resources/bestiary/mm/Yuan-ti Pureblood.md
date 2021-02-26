@@ -1,5 +1,6 @@
 # Yuan-ti Pureblood
->*Medium humanoid (yuan-ti), neutral evil*
+>*Medium #humanoid (yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 40 (9d8)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:  
 >
@@ -24,7 +25,7 @@
 >
 >***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The yuan-ti makes two melee attacks.  
 >
 >***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.  

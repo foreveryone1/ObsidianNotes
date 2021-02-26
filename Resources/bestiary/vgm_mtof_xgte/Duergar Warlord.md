@@ -1,5 +1,6 @@
 # Duergar Warlord
->*Medium humanoid (dwarf), lawful evil*
+>*Medium #humanoid (dwarf), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (plate armor, shield)
 >- **Hit Points** 75 (10d8 + 30)
@@ -12,13 +13,13 @@
 >- **Damage Resistances** poison
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Dwarvish, Undercommon
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The duergar makes three hammer or javelin attacks and uses Call to Attack, or Enlarge if it is available.  
 >
 >***Psychic-Attuned Hammer.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage plus 5 (1d10) psychic damage, or 15 (2d10 + 4) bludgeoning damage plus 5 (1d10) psychic damage while enlarged,  

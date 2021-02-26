@@ -1,5 +1,6 @@
 # Deathlock Wight
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 37 (5d8 + 15)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** the languages it knew in life
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:  
 >
@@ -26,7 +27,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The wight attacks twice with Grave Bolt.  
 >
 >***Grave Bolt.*** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 7 (1d8 + 3) necrotic damage.  

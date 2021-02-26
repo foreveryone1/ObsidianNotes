@@ -1,5 +1,6 @@
 # Stone Golem
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 178 (17d10 + 85)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.  
 >
@@ -21,7 +22,7 @@
 >
 >***Magic Weapons.*** The golem's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The golem makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.  

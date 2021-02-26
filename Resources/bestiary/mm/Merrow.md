@@ -1,5 +1,6 @@
 # Merrow
->*Large monstrosity, chaotic evil*
+>*Large #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 45 (6d10 + 12)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Abyssal, Aquan
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Amphibious.*** The merrow can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The merrow makes two attacks: one with its bite and one with its claws or harpoon.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.  

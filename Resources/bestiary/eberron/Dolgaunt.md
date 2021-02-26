@@ -1,5 +1,6 @@
 # Dolgaunt
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (Unarmored Defense)
 >- **Hit Points** 33 (6d8 + 6)
@@ -13,13 +14,13 @@
 >- **Condition Immunities** blinded
 >- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 14
 >- **Languages** Deep Speech, Goblin
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Evasion.*** If the dolgaunt is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the dolgaunt instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
 >
 >***Unarmored Defense.*** While the dolgaunt is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dolgaunt makes two tentacle attacks and two unarmed strikes. Up to two tentacle attacks can be replaced by Vitality Drain.  
 >
 >***Tentacle.*** Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. The target is grappled (escape DC 12) if it is a Large or smaller creature. Until this grapple ends, the dolgaunt can't use the same tentacle on another target. The dolgaunt has two tentacles.  

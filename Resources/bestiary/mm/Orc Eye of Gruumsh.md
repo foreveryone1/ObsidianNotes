@@ -1,5 +1,6 @@
 # Orc Eye of Gruumsh
->*Medium humanoid (orc), chaotic evil*
+>*Medium #humanoid (orc), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (ring mail, shield)
 >- **Hit Points** 45 (6d8 + 18)
@@ -12,7 +13,7 @@
 >- **Skills** Intimidation +3, Religion +1
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Common, Orc
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >
@@ -24,7 +25,7 @@
 >1st level (4 slots): bless, command  
 >2nd level (2 slots): augury, spiritual weapon (spear)  
 >
->### Actions
+## Actions
 >***Spear.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.
 ## Orc Eye of Gruumsh
 When an orc slays an elf in Gruumsh's name and offers the corpse of its foe as a sacrifice to the god of slaughter, an aspect of the god might appear. This aspect demands an additional sacrifice: one of the orc's eyes, symbolizing the loss Gruumsh suffered at the hands of his greatest enemy, Corellon Larethian.

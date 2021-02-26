@@ -1,5 +1,6 @@
 # Ice Devil
->*Large fiend (devil), lawful evil*
+>*Large #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 180 (19d10 + 76)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
 >- **Languages** Infernal, telepathy 120 ft.
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >
 >***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.  
 >
 >***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.  

@@ -1,5 +1,6 @@
 # Kruthik Hive Lord
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 102 (12d10 + 36)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 12
 >- **Languages** Kruthik
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.  
 >
@@ -19,7 +20,7 @@
 >
 >***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The kruthik makes two stab attacks or two spike attacks.  
 >
 >***Stab.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.  
@@ -33,5 +34,5 @@
 Kruthiks communicate with one another through a series of hisses and chittering noises. These sounds can often be heard in advance of a kruthik attack. Whenever their lair is invaded, kruthik guards send out an alarm by rapidly tapping the stone floor with their sharp legs.
 ***Sharp Senses.*** In addition to having an acute sense of smell, kruthiks can see in the dark and can detect vibrations in the earth around them. They take the scent of their own dead as a warning and avoid areas where many other kruthiks have died. Slaying a sufficient number of kruthiks in one area might cause the remaining hive members to move elsewhere.
 ***Sharper Weapons.*** Although they can feed on carrion, kruthiks prefer live prey. They kill enemies by impaling them on their spiked limbs, then grind up the flesh and bones with mandibles strong enough to chew rock. When several kruthiks gang up on a single foe, they become frenzied and even more lethal.
-***Shared Lair.*** Kruthiks abide the presence of constructs, elementals, oozes, and undead, and use such creatures to help guard their hive. Kruthiks are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
+***Shared Lair.*** Kruthiks abide the presence of constructs, elementals, oozes, and #undead , and use such creatures to help guard their hive. Kruthiks are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
 *Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies. Perhaps that function is just as necessary.*— Mordenkainen

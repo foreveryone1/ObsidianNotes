@@ -1,5 +1,6 @@
 # Quaggoth Spore Servant
->*Medium plant, unaligned*
+>*Medium #plant , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -13,17 +14,17 @@
 >- **Condition Immunities** blinded, charmed, frightened, paralyzed, poisoned
 >- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 8
 >- **Languages** —
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The spore servant makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 ## Quaggoth Spore Servant
-A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
+A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a #construct , #elemental , #ooze , #plant , or undead) can't be turned into a spore servant.
 ***Retained Characteristics.*** The servant retains its Armor Class, hit points, Hit Dice, Strength, Dexterity, Constitution, vulnerabilities, resistances, and immunities.
 ***Lost Characteristics.*** The servant loses its original saving throw and skill bonuses, special senses, and special traits. It loses any action that isn't Multiattack or a melee weapon attack that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item.
-***Type.*** The servant's type is plant, and it loses any tags.
+***Type.*** The servant's type is #plant , and it loses any tags.
 ***Alignment.*** The servant is unaligned.
 ***Speed.*** Reduce all the servant's speeds by 10 feet, to a minimum of 5 feet.
 ***Ability Scores.*** The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-5).

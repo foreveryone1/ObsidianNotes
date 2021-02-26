@@ -1,5 +1,6 @@
 # Spectator
->*Medium aberration, lawful neutral*
+>*Medium #aberration , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 39 (6d8 + 12)
@@ -13,9 +14,9 @@
 >- **Condition Immunities** prone
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) piercing damage.  
 >
 >***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 feet of it. It can use each ray only once on a turn.  

@@ -1,5 +1,6 @@
 # Ironscale Hydra
->*Gargantuan monstrosity, unaligned*
+>*Gargantuan #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 181 (11d20 + 66)
@@ -13,7 +14,7 @@
 >- **Damage Immunities** acid
 >- **Senses** darkvision 60 ft., passive Perception 18
 >- **Languages** —
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Acidic Blood.*** When the hydra takes piercing or slashing damage, each creature within 5 feet of the hydra takes 9 (2d8) acid damage.  
 >
@@ -25,7 +26,7 @@
 >
 >***Wakeful.*** While the hydra sleeps, at least one of its heads is awake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hydra makes as many bite attacks as it has heads.  
 >
 >***Bite.*** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 17 (2d10 + 6) piercing damage.

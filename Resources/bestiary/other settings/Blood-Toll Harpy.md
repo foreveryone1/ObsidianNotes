@@ -1,5 +1,6 @@
 # Blood-Toll Harpy
->*Medium monstrosity, chaotic evil*
+>*Medium #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 9 (2d8)
@@ -12,13 +13,13 @@
 >- **Skills** Intimidation +3
 >- **Senses** passive Perception 10
 >- **Languages** Common
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Blood Frenzy.*** The harpy has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
 >***Dark Devotion.*** The harpy has advantage on saving throws against being charmed or frightened.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The harpy makes two melee attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.  

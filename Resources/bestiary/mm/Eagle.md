@@ -1,5 +1,6 @@
 # Eagle
->*Small beast, unaligned*
+>*Small #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 3 (1d6)
@@ -12,9 +13,9 @@
 >- **Skills** Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Talons.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.

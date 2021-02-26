@@ -1,5 +1,6 @@
 # Flameskull
->*Tiny undead, neutral evil*
+>*Tiny #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 40 (9d4 + 18)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened, paralyzed, poisoned, prone
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Common
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Illumination.*** The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.  
 >
@@ -30,7 +31,7 @@
 >2nd level (2 slots): blur, flaming sphere  
 >3rd level (1 slot): fireball  
 >
->### Actions
+## Actions
 >***Multiattack.*** The flameskull uses Fire Ray twice.  
 >
 >***Fire Ray.*** Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10 (3d6) fire damage.

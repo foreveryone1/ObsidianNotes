@@ -1,5 +1,6 @@
 # Drow Shadowblade
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (studded leather armor)
 >- **Hit Points** 150 (20d8 + 60)
@@ -13,7 +14,7 @@
 >- **Skills** Perception +6, Stealth +9
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Elvish, Undercommon
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -27,7 +28,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes two attacks with its shadow sword. If either attack hits and the target is within 10 feet of a 5-foot cube of darkness created by the shadow sword on a previous turn, the drow can dismiss that darkness and cause the target to take 21 (6d6) necrotic damage. The drow can dismiss darkness in this way no more than once per turn.  
 >
 >***Shadow Sword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage plus 10 (3d6) necrotic damage and 10 (3d6) poison damage. The drow can then fill an unoccupied 5-foot cube within 5 feet of the target with magical darkness, which remains for 1 minute.  

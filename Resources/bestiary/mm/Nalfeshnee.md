@@ -1,5 +1,6 @@
 # Nalfeshnee
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 184 (16d10 + 96)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 11
 >- **Languages** Abyssal, telepathy 120 ft.
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.  

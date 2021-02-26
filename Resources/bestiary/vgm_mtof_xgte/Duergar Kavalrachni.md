@@ -1,5 +1,6 @@
 # Duergar Kavalrachni
->*Medium humanoid (dwarf), lawful evil*
+>*Medium #humanoid (dwarf), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (scale mail, shield)
 >- **Hit Points** 26 (4d8 + 8)
@@ -12,7 +13,7 @@
 >- **Damage Resistances** poison
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** Dwarvish, Undercommon
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make one melee attack against the same target as a reaction.  
 >
@@ -20,7 +21,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The duergar makes two war pick attacks.  
 >
 >***War Pick.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.  

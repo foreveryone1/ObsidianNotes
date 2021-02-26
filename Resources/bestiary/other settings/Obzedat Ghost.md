@@ -1,5 +1,6 @@
 # Obzedat Ghost
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor) plus 1 for each other Obzedat
 >- **Hit Points** 110 (20d8 + 20)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** darkvision 60 ft., passive Perception 18
 >- **Languages** Common
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Council of Five.*** The ghost has a trait based on who it is, as shown below:  
 >- **Enezesku: Enfeebling Ray.** Enezesku's Innate Spellcasting trait includes ray of enfeeblement, which he can cast at will.
@@ -42,12 +43,12 @@
 >
 >***Legendary Resistance (1/Day).*** If the ghost fails a saving throw, it can choose to succeed instead.  
 >
->### Actions
+## Actions
 >***Life Drain.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 18 (4d8) necrotic damage, and the ghost regains hit points equal to half the amount of damage the target takes. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. The target dies if its hit point maximum is reduced to 0. This reduction to the target's hit point maximum lasts until the target finishes a long rest.  
 >
 >***Convene the Ghost Council.*** The ghost summons the other four members of the Obzedat. At the start of the ghost's next turn, the other members appear in unoccupied spaces within 30 feet of the summoner. The ghosts each roll initiative when they appear.  
 >
->### Legendary Actions
+## Legendary Actions
 >If five Obzedat ghosts are all within 30 feet of each other, they can collectively take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Obzedat ghosts regain spent legendary actions at the start of the turn of the ghost with the highest initiative.
 >
 >- **Forced Obedience.** A target that all of the Obzedat ghosts can see must succeed on a DC 16 Wisdom saving throw or bow until the end of its next turn. Until this bow ends, the target can't take actions or reactions, and its speed is 0 and can't be increased.

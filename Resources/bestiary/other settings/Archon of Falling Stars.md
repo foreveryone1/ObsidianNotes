@@ -1,5 +1,6 @@
 # Archon of Falling Stars
->*Medium celestial, lawful good*
+>*Medium #celestial , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 144 (17d8 + 68)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** truesight 120 ft., passive Perception 19
 >- **Languages** all
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The archon's spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The archon can innately cast the following spells, requiring no material components:  
 >
@@ -29,12 +30,12 @@
 >
 >***Radiant Rebirth (Recharges after a Long Rest).*** If the archon is reduced to 0 hit points, it regains 30 hit points and springs back to its feet with a burst of radiance. Each creature of the archon's choice within 30 feet of it must succeed on a DC 16 Constitution saving throw, or the creature takes 13 (3d8) radiant damage and is blinded until the start of the archon's turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The archon makes two attacks with its radiant spear.  
 >
 >***Radiant Spear.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 10 (3d6) radiant damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The archon of falling stars can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The archon of falling stars regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** The archon makes a radiant spear attack or casts guiding bolt.

@@ -1,5 +1,6 @@
 # Beholder
->*Large aberration, lawful evil*
+>*Large #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 180 (19d10 + 76)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** prone
 >- **Senses** darkvision 120 ft., passive Perception 22
 >- **Languages** Deep Speech, Undercommon
->- **Challenge** 13 (10,000 XP) or 14 (11,500 XP) when encountered in lair
+>- #cr13 (10,000 XP) or 14 (11,500 XP) when encountered in lair
 >___
 >***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.  
 >
 >***Eye Rays.*** The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:  
@@ -42,7 +43,7 @@ If the target is an object weighing 300 pounds or less that isn't being worn or 
 If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
 >- **10. Death Ray.** The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 >
->### Legendary Actions
+## Legendary Actions
 >The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.
 >
 >- **Eye Ray.** The beholder uses one random eye ray.
@@ -55,7 +56,7 @@ The disdain a beholder has for other creatures extends to other beholders. Each 
 ***Alien Lairs.*** Because they refuse to share territory with others, most beholders withdraw to frigid hills, abandoned ruins, and deep caverns to scheme. A beholder's lair is carved out by its disintegration eye ray, emphasizing vertical passages connecting chambers stacked on top of each other. Such an environment allows a beholder to move freely, even as it prevents intruders from easily creeping about. When intruders do break in, the height of its open ceilings allows a beholder to float up and harry foes on the floor.
 As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including petrified adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 ***A Beholder's Lair.*** A beholder's central lair is typically a large, spacious cavern with high ceilings, where it can attack without fear of closing to melee range. A beholder encountered in its lair has a challenge rating of 14 (11,500 XP).
-#### Lair Actions
+## Lair Actions
 When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:
 - A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.
 - Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.

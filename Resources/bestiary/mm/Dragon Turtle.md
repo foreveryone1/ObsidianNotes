@@ -1,5 +1,6 @@
 # Dragon Turtle
->*Gargantuan dragon, neutral*
+>*Gargantuan #dragon , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 341 (22d20 + 110)
@@ -13,11 +14,11 @@
 >- **Damage Resistances** fire
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Aquan, Draconic
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Amphibious.*** The dragon turtle can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.  
 >
 >***Bite.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 26 (3d12 + 7) piercing damage.  

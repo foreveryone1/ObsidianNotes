@@ -1,5 +1,6 @@
 # Yagnoloth
->*Large fiend (yugoloth), neutral evil*
+>*Large #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 147 (14d10 + 70)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 16
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Innate Spellcasting.*** The yagnoloth's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:  
 >
@@ -28,7 +29,7 @@
 >
 >***Magic Weapons.*** The yagnoloth's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The yagnoloth makes one massive arm attack and one electrified touch attack, or it makes one massive arm attack and teleports before or after the attack.  
 >
 >***Electrified Touch.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 27 (6d8) lightning damage.  

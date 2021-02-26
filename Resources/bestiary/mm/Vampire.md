@@ -1,5 +1,6 @@
 # Vampire
 >*Medium undead (shapechanger), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 144 (17d8 + 68)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** the languages it knew in life
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.  
 >While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  
@@ -35,7 +36,7 @@
 >Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.  
 >Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.  
 >
->### Actions
+## Actions
 >***Multiattack (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack.  
 >
 >***Unarmed Strike (Vampire Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).  
@@ -47,7 +48,7 @@
 >
 >***Children of the Night (1/Day).*** The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.  
 >
->### Legendary Actions
+## Legendary Actions
 >The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
 >
 >- **Move.** The vampire moves up to its speed without provoking opportunity attacks.

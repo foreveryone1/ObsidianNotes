@@ -1,5 +1,6 @@
 # Star Spawn Grue
->*Small aberration, lawful evil*
+>*Small #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 17 (5d6)
@@ -12,11 +13,11 @@
 >- **Damage Immunities** psychic
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Deep Speech
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Aura of Madness.*** Creatures within 20 feet of the grue that aren't aberrations have disadvantage on saving throws, as well as on attack rolls against creatures other than a star spawn grue.  
 >
->### Actions
+## Actions
 >***Confounding Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage, and the target must succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage until the start of the grue's next turn.
 ## Star Spawn Grue
 *Stars don't spawn these creatures. Such beautiful lights shouldn't be blamed for such balefulness.*— Mordenkainen***Star Spawn Grue.*** Fanged and lipless, the ever-grinning, madly staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its pallid skin, and it's long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produces discordant psychic energy that disrupts thought patterns in other creatures. Intelligent creatures experience flashing colors, hallucinations, disorientation, and waves of hopelessness when they find themselves near a group of star spawn grues.

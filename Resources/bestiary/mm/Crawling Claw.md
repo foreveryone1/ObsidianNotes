@@ -1,5 +1,6 @@
 # Crawling Claw
->*Tiny undead, neutral evil*
+>*Tiny #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 2 (1d4)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** charmed, exhaustion, poisoned
 >- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 10
 >- **Languages** understands Common but can't speak
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Turn Immunity.*** The claw is immune to effects that turn undead.  
 >
->### Actions
+## Actions
 >***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning or slashing damage (claw's choice).
 ## Crawling Claw
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.

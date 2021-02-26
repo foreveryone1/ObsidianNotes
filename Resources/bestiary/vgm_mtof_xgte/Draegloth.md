@@ -1,5 +1,6 @@
 # Draegloth
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 123 (13d10 + 52)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 13
 >- **Languages** Abyssal, Elvish, Undercommon
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >
@@ -24,7 +25,7 @@
 >At will: darkness  
 >1/day each: confusion, dancing lights, faerie fire  
 >
->### Actions
+## Actions
 >***Multiattack.*** The draegloth makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.  

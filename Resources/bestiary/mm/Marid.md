@@ -1,5 +1,6 @@
 # Marid
->*Large elemental, chaotic neutral*
+>*Large #elemental , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 229 (17d10 + 136)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** acid, cold, lightning
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 13
 >- **Languages** Aquan
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Amphibious.*** The marid can breathe air and water.  
 >
@@ -25,7 +26,7 @@
 >3/day each: tongues, water breathing, water walk  
 >1/day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift  
 >
->### Actions
+## Actions
 >***Multiattack.*** The marid makes two trident attacks.  
 >
 >***Trident.*** Melee  or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.  

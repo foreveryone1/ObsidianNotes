@@ -1,5 +1,6 @@
 # Gray Ooze
->*Medium ooze, unaligned*
+>*Medium #ooze , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 8
 >- **Hit Points** 22 (3d8 + 9)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.  
 >
@@ -23,7 +24,7 @@
 >
 >***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.  
 >
->### Actions
+## Actions
 >***Pseudopod.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 ## Gray Ooze
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.

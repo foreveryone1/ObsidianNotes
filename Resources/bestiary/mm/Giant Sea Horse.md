@@ -1,5 +1,6 @@
 # Giant Sea Horse
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 16 (3d10)
@@ -11,13 +12,13 @@
 >___
 >- **Senses** passive Perception 11
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Charge.*** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.  
 >
 >***Water Breathing.*** The sea horse can breathe only underwater.  
 >
->### Actions
+## Actions
 >***Ram.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
 ## Giant Sea Horse
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.

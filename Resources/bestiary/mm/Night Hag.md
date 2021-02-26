@@ -1,5 +1,6 @@
 # Night Hag
->*Medium fiend, neutral evil*
+>*Medium #fiend , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 112 (15d8 + 45)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Abyssal, Common, Infernal, Primordial
->- **Challenge** 5 (1,800 XP) or 7 (2,900 XP) when part of a coven
+>- #cr5 (1,800 XP) or 7 (2,900 XP) when part of a coven
 >___
 >***Hag Coven.*** When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.  
 >A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.  
@@ -46,7 +47,7 @@
 >For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.  
 >
 >
->### Actions
+## Actions
 >***Claws (Hag Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  
 >
 >***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.  

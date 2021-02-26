@@ -1,5 +1,6 @@
 # Drow Favored Consort
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (18 with mage armor)
 >- **Hit Points** 225 (30d8 + 90)
@@ -13,7 +14,7 @@
 >- **Skills** Acrobatics +11, Athletics +8, Perception +8, Stealth +11
 >- **Senses** darkvision 120 ft., passive Perception 18
 >- **Languages** Elvish, Undercommon
->- **Challenge** 18 (20,000 XP)
+>- #cr18 (20,000 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -38,7 +39,7 @@
 >
 >***War Magic.*** When the drow uses its action to cast a spell, it can make one weapon attack as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes three scimitar attacks.  
 >
 >***Scimitar.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 18 (4d8) poison damage. In addition, the target has disadvantage on the next saving throw it makes against a spell the drow casts before the end of the drow's next turn.  

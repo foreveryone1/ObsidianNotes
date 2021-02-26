@@ -1,5 +1,6 @@
 # Giant Crocodile
->*Huge beast, unaligned*
+>*Huge #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 85 (9d12 + 27)
@@ -12,11 +13,11 @@
 >- **Skills** Stealth +5
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Hold Breath.*** The crocodile can hold its breath for 30 minutes.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The crocodile makes two attacks: one with its bite and one with its tail.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.  

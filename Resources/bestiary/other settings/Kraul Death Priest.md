@@ -1,5 +1,6 @@
 # Kraul Death Priest
->*Medium humanoid (kraul), neutral evil*
+>*Medium #humanoid (kraul), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 65 (10d8 + 20)
@@ -13,7 +14,7 @@
 >- **Skills** Insight +4, Nature +3, Religion +3
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Common, Kraul
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Feed on Death.*** When a creature within 30 feet of the kraul drops to 0 hit points, the kraul or another creature of its choice within 30 feet of it gains 5 (1d10) temporary hit points, provided the kraul isn't incapacitated.  
 >
@@ -30,7 +31,7 @@
 >
 >***Spider Climb.*** The kraul can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The kraul makes one attack with its quarterstaff and casts one of its spells with a casting time of 1 action.  
 >
 >***Quarterstaff.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if used with two hands.

@@ -1,5 +1,6 @@
 # K'thriss Drow'b
->*Medium humanoid (elf), chaotic neutral*
+>*Medium #humanoid (elf), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (studded leather armor)
 >- **Hit Points** 44 (8d8 + 8)
@@ -12,8 +13,8 @@
 >- **Saving Throws** Str +0, Dex +3, Con +2, Int +3, Wis +3, Cha +7
 >- **Skills** Arcana +4, Insight +2, Investigation +4, Perception +2, Religion +4
 >- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Celestial, Common, Elvish, Undercommon; can read all writing
->- **Challenge** 3 (700 XP)
+>- **Languages** #celestial , Common, Elvish, Undercommon; can read all writing
+>- #cr3 (700 XP)
 >___
 >***Special Equipment.*** K'thriss wears a robe of stars (accounted for in his statistics). The robe allows him to cast the following spells: 6/day: magic missile (7 missiles)  
 >
@@ -32,7 +33,7 @@
 >Cantrips (at will): chill touch, eldritch blast, mending, prestidigitation, thorn whip, vicious mockery  
 >1st-3rd level (2 3rd-level slots): dissonant whispers, fly, hex, misty step, sending, shatter  
 >
->### Actions
+## Actions
 >***Multiattack.*** K'thriss makes two attacks with his sickle.  
 >
 >***Sickle.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.

@@ -1,5 +1,6 @@
 # Mule
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 11 (2d8 + 2)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.  
 >
 >***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.  
 >
->### Actions
+## Actions
 >***Hooves.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.

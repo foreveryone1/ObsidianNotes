@@ -1,5 +1,6 @@
 # Young Red Shadow Dragon
->*Large dragon, chaotic evil*
+>*Large #dragon , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 178 (17d10 + 85)
@@ -15,7 +16,7 @@
 >- **Damage Immunities** fire
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 >- **Languages** Common, Draconic
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.  
 >
@@ -23,7 +24,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 3 (1d6) necrotic damage.  
@@ -37,8 +38,8 @@ Shadow dragons are true dragons that were either born in the Shadowfell or trans
 ***Recast in Shadow.*** The transformation to a shadow dragon happens over a period of years, during which time a dragon's scales lose their luster and fade to a charcoal hue. Its leathery wings become translucent, its eyes paling to pools of opalescent gray. Shadow dragons find sunlight abhorrent, and they are weaker in bright light than they are in darkness. Darkness makes the dragon fade to a spectral shadow of its former self. The magical nature of dragons holds an attraction for the Shadowfell, which seems somehow to crave the might and majesty of these great reptiles. The Shadowfell also has a dispiriting effect on its denizens, such that the longer a creature remains on the plane, the more it accepts the plane's malaise. As months and years pass for a dragon on the Shadowfell, it becomes aware of the transformation being wrought upon it, and yet can do nothing to prevent it.
 ***Back in the World.*** A shadow dragon is so suffused with the power of the Shadowfell that even a return to the Material Plane can't undo its transformation. Some shadow dragons attempt to lure other creatures from the mortal realm back to the Shadowfell to keep them company, at least until they tire of their guests and devour them. Others are happy to leave the Shadowfell behind forever, understanding that treasure and power are easier to come by in the Material Plane.
 ### Shadow Dragon Template
-Only a true dragon can transform into a shadow dragon, and only if it is born in the Shadowfell or remains there for several years. A dracolich can't be turned into a shadow dragon, since it loses its draconic nature when it becomes undead.
-When a dragon becomes a shadow dragon, it retains its statistics except as described below. The shadow dragon might retain or lose any or all of its lair actions or inherit new ones, as the DM sees fit.
+Only a true dragon can transform into a shadow #dragon , and only if it is born in the Shadowfell or remains there for several years. A dracolich can't be turned into a shadow #dragon , since it loses its draconic nature when it becomes undead.
+When a dragon becomes a shadow #dragon , it retains its statistics except as described below. The shadow dragon might retain or lose any or all of its lair actions or inherit new ones, as the DM sees fit.
 ***Damage Resistances.*** The dragon has resistance to necrotic damage.
 ***Skill Proficiency: Stealth.*** The dragon's proficiency bonus is doubled for its Dexterity (Stealth) checks.
 ***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.

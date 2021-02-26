@@ -1,5 +1,6 @@
 # Gorgon
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 114 (12d10 + 48)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** petrified
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** —
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Trampling Charge.*** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.  
 >
->### Actions
+## Actions
 >***Gore.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) piercing damage.  
 >
 >***Hooves.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage.  

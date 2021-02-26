@@ -1,5 +1,6 @@
 # Nothic
->*Medium aberration, neutral evil*
+>*Medium #aberration , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -12,11 +13,11 @@
 >- **Skills** Arcana +3, Insight +4, Perception +2, Stealth +5
 >- **Senses** truesight 120 ft., passive Perception 12
 >- **Languages** Undercommon
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Keen Sight.*** The nothic has advantage on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The nothic makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  

@@ -1,5 +1,6 @@
 # Giant Ape
->*Huge beast, unaligned*
+>*Huge #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 157 (15d12 + 60)
@@ -12,9 +13,9 @@
 >- **Skills** Athletics +9, Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** —
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The ape makes two fist attacks.  
 >
 >***Fist.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage.  

@@ -1,5 +1,6 @@
 # Death Tyrant
->*Large undead, lawful evil*
+>*Large #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 187 (25d10 + 50)
@@ -15,12 +16,12 @@
 >- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned, prone
 >- **Senses** darkvision 120 ft., passive Perception 22
 >- **Languages** Deep Speech, Undercommon
->- **Challenge** 14 (11,500 XP) or 15 (13,000 XP) when encountered in lair
+>- #cr14 (11,500 XP) or 15 (13,000 XP) when encountered in lair
 >___
 >***Negative Energy Cone.*** The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.  
 >Any creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.  
 >
 >***Eye Rays.*** The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:  
@@ -44,7 +45,7 @@ If the target is an object weighing 300 pounds or less that isn't being worn or 
 If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
 >- **10. Death Ray.** The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 >
->### Legendary Actions
+## Legendary Actions
 >The death tyrant can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The death tyrant regains spent legendary actions at the start of its turn.
 >
 >- **Eye Ray.** The death tyrant uses one random eye ray.
@@ -57,7 +58,7 @@ Acting as bait for traps or as combat fodder, zombies keep powerful enemies dist
 ***Undead Nature.*** A death tyrant doesn't require air, food, drink, or sleep.
 ***A Death Tyrant's Lair.*** A death tyrant's lair is usually the same site it held as a beholder, but it contains more trappings of death and decay. A death tyrant encountered in its lair has a challenge rating of 15 (13,000 XP).
 The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.
-#### Lair Actions
+## Lair Actions
 When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:
 - An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.
 - Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be grappled. Escaping requires a successful DC 17 Strength (Athletics) or Dexterity (Acrobatics) check.

@@ -1,5 +1,6 @@
 # Merrow Shallowpriest
->*Large monstrosity, chaotic evil*
+>*Large #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 75 (10d10 + 20)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Abyssal, Aquan
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Amphibious.*** The merrow can breathe air and water.  
 >
@@ -22,7 +23,7 @@
 >2nd level (3 slots): hold person, mirror image, misty step  
 >3rd level (3 slots): dispel magic, lightning bolt (see "Actions" below), sleet storm  
 >
->### Actions
+## Actions
 >***Harpoon.*** Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Medium or smaller creature, the merrow can pull it 10 feet closer.  
 >
 >***Lightning Bolt (3rd-Level Spell; Requires a Spell Slot).*** The merrow unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one.

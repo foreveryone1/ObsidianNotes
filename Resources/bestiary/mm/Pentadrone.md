@@ -1,5 +1,6 @@
 # Pentadrone
->*Large construct, lawful neutral*
+>*Large #construct , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 32 (5d10 + 5)
@@ -12,13 +13,13 @@
 >- **Skills** Perception +4
 >- **Senses** truesight 120 ft., passive Perception 14
 >- **Languages** Modron
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Axiomatic Mind.*** The pentadrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >
 >***Disintegration.*** If the pentadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The pentadrone makes five arm attacks.  
 >
 >***Arm.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.  

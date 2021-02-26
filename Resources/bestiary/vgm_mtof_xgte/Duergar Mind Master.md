@@ -1,5 +1,6 @@
 # Duergar Mind Master
->*Medium humanoid (dwarf), lawful evil*
+>*Medium #humanoid (dwarf), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (leather armor), 19 while reduced
 >- **Hit Points** 39 (6d8 + 12)
@@ -14,13 +15,13 @@
 >- **Damage Resistances** poison
 >- **Senses** darkvision 120 ft., truesight 30 ft., passive Perception 12
 >- **Languages** Dwarvish, Undercommon
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The duergar makes two melee attacks. It can replace one of those attacks with a use of Mind Mastery.  
 >
 >***Mind-Poison Dagger.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage and 10 (3d6) psychic damage, or 1 piercing damage and 14 (4d6) psychic damage while reduced.  

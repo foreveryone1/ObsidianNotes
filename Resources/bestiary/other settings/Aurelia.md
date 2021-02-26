@@ -1,5 +1,6 @@
 # Aurelia
 >*Medium celestial (angel), lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 287 (25d8 + 175)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** truesight 120 ft., passive Perception 24
 >- **Languages** all
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Aurelia fails a saving throw, she can choose to succeed instead.  
 >
 >***Magic Resistance.*** Aurelia has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Aurelia makes three longsword attacks and uses Leadership.  
 >
 >***Longsword.*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage when used with two hands, plus 27 (6d8) radiant damage.  
@@ -36,7 +37,7 @@
 >
 >***Unyielding.*** When Aurelia is subjected to an effect that would move her, knock her prone, or both, she can use her reaction to be neither moved nor knocked prone.  
 >
->### Legendary Actions
+## Legendary Actions
 >Aurelia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Aurelia regains spent legendary actions at the start of its turn.
 >
 >- **Command Allies.** Aurelia chooses up to three creatures she can see within 30 feet of her. If a chosen creature can see or hear Aurelia, it can immediately use its reaction to make one weapon attack, with advantage on the attack roll.

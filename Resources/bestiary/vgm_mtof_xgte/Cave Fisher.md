@@ -1,5 +1,6 @@
 # Cave Fisher
->*Medium monstrosity, unaligned*
+>*Medium #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 58 (9d8 + 18)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +2, Stealth +5
 >- **Senses** blindsight 60 ft., passive Perception 12
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Adhesive Filament.*** The cave fisher can use its action to extend a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature adhered to the filament is grappled by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage), but a weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament causes no damage to the cave fisher, which can extrude a replacement filament on its next turn  
 >
@@ -20,7 +21,7 @@
 >
 >***Spider Climb.*** The cave fisher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The cave fisher makes two attacks with its claws.  
 >
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  

@@ -1,5 +1,6 @@
 # Zegana
->*Medium humanoid (merfolk), lawful neutral*
+>*Medium #humanoid (merfolk), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 130 (20d8 + 40)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** cold, poison
 >- **Senses** darkvision 60 ft., passive Perception 19
 >- **Languages** Common, Elvish, Merfolk
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Amphibious.*** Zegana can breathe air and water.  
 >
@@ -29,17 +30,17 @@
 >2nd level (3 slots): enlarge/reduce, gust of wind  
 >3rd level (3 slots): counterspell, fly, slow  
 >4th level (3 slots): control water, ice storm, polymorph  
->5th level (2 slots): conjure elemental, creation  
+>5th level (2 slots): conjure #elemental , creation  
 >6th level (1 slot): move earth, wall of ice  
 >7th level (1 slot): prismatic spray, teleport  
 >8th level (1 slot): control weather, dominate monster  
 >
->### Actions
+## Actions
 >***Prime Speaker's Trident.*** Melee  or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (2d6 + 5) piercing damage, and the trident emits a thunderous boom. Each creature in a 15-foot cube originating from the prongs of the trident must make a DC 18 Constitution saving throw. On a failed save, the creature takes 9 (2d8) thunder damage and is pushed 10 feet away from Zegana. If the creature is underwater, the damage is increased to 13 (3d8). On a successful save, the creature takes half as much damage and isn't pushed.  
 >
 >***Deluge (Recharge 4–6).*** Zegana conjures a wave of water that crashes down on an area within 120 feet of her. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a DC 18 Dexterity saving throw. On a failed save, a creature takes 18 (4d8) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water spreads out across the ground, extinguishing unprotected flames it comes in contact with, and then vanishes.  
 >
->### Legendary Actions
+## Legendary Actions
 >Zegana can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zegana regains spent legendary actions at the start of its turn.
 >
 >- **Adaptive Skin.** Zegana gains resistance to one damage type of her choice-acid, fire, lightning, or thunder-until the start of her next turn.

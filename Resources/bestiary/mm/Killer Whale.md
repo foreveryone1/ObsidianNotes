@@ -1,5 +1,6 @@
 # Killer Whale
->*Huge beast, unaligned*
+>*Huge #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 90 (12d12 + 12)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +3
 >- **Senses** blindsight 120 ft., passive Perception 13
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Echolocation.*** The whale can't use its blindsight while deafened.  
 >
@@ -20,5 +21,5 @@
 >
 >***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.

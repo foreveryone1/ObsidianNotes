@@ -1,5 +1,6 @@
 # Goblin
->*Small humanoid (goblinoid), neutral evil*
+>*Small #humanoid (goblinoid), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (leather armor, shield)
 >- **Hit Points** 7 (2d6)
@@ -12,11 +13,11 @@
 >- **Skills** Stealth +6
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** Common, Goblin
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.  
 >
->### Actions
+## Actions
 >***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  
 >
 >***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.

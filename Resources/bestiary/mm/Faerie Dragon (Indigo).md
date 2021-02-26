@@ -1,5 +1,6 @@
 # Faerie Dragon (Indigo)
->*Tiny dragon, chaotic good*
+>*Tiny #dragon , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 15
 >- **Hit Points** 14 (4d4 + 4)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +4, Perception +3, Stealth +7
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Draconic, Sylvan
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:  
 >
@@ -35,7 +36,7 @@
 >Violet—51 years or more  
 >A green or older faerie dragon's CR increases to 2.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.  
 >
 >***Euphoria Breath (Recharge 5–6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:  

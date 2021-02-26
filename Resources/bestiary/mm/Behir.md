@@ -1,5 +1,6 @@
 # Behir
->*Huge monstrosity, neutral evil*
+>*Huge #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 168 (16d12 + 64)
@@ -13,9 +14,9 @@
 >- **Damage Immunities** lightning
 >- **Senses** darkvision 90 ft., passive Perception 16
 >- **Languages** Draconic
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The behir makes two attacks: one with its bite and one to constrict.  
 >
 >***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) piercing damage.  

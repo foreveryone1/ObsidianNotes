@@ -1,5 +1,6 @@
 # Booyahg Booyahg Booyahg
->*Small humanoid (goblinoid), any alignment*
+>*Small #humanoid (goblinoid), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +6, History +6
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** any four languages, Goblin
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.  
 >
@@ -29,7 +30,7 @@
 >
 >***Wild Magic.*** Each time the goblin casts a spell (including cantrips), there is an accompanying surge of wild magic; roll on the Wild Magic Surge table in the Player's Handbook to determine the wild magic effect.  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 ## Booyahg Booyahg Booyahg
 This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the Wild Magic Surge table in the Player's Handbook to determine the wild magic effect.

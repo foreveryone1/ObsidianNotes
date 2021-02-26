@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9ccd3f79dad0c1",
+        "id": "baa430d4536627f5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/bestiary/mm/Aarakocra.md",
+            "file": "Scratchpad.md",
             "mode": "source"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "6b21e83ce3fccc7a",
         "type": "tabs",
-        "dimension": 49.32079414838036,
+        "dimension": 33.22884012539185,
         "children": [
           {
             "id": "5454cef8376b7ed7",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/bestiary/mm/Aarakocra.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/bestiary/mm/Aarakocra.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,7 +85,7 @@
       {
         "id": "397bba701bd8cc32",
         "type": "tabs",
-        "dimension": 50.67920585161964,
+        "dimension": 66.77115987460816,
         "children": [
           {
             "id": "93f0b28a0d2319c1",
@@ -112,12 +112,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/bestiary/mm/Aarakocra.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -130,7 +130,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resources/bestiary/mm/Aarakocra.md",
-    "Resources/bestiary/eberron/Bone Knight.md",
-    "Resources/bestiary/eberron/Corrin Delmaco.md",
-    "Resources/bestiary/eberron/Untitled.md",
-    "Resources/bestiary/adventures part 1/Untitled.md",
-    "Resources/bestiary/adventures part 1/Abyssal Chicken.md",
-    "Resources/bestiary/adventures part 2/Untitled.md",
-    "Resources/bestiary/adventures part 2/Alastrah.md",
-    "Resources/bestiary/mm/Untitled.md",
-    "Resources/bestiary/mm/Abominable Yeti.md"
+    "Scratchpad.md",
+    "Resources/Tools.md",
+    "Resources/Skills/Wisdom.md",
+    "Resources/Skills/Survival.md",
+    "Resources/Skills/Strength.md",
+    "Resources/Skills/Stealth.md",
+    "Resources/Skills/Sleight of Hand.md",
+    "Resources/Skills/Religion.md",
+    "Resources/Skills/Persuasion.md",
+    "Resources/Skills/Performance.md"
   ]
 }

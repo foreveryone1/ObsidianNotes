@@ -1,5 +1,6 @@
 # Badger
->*Tiny beast, unaligned*
+>*Tiny #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 3 (1d4 + 1)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 11
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage.

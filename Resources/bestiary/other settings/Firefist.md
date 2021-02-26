@@ -1,5 +1,6 @@
 # Firefist
->*Medium humanoid (any race), lawful good*
+>*Medium #humanoid (any race), lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 117 (18d8 + 36)
@@ -13,7 +14,7 @@
 >- **Skills** Intimidation +4, Religion +3
 >- **Senses** passive Perception 13
 >- **Languages** any one language (usually Common)
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Spellcasting.*** The firefist is a 9th-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:  
 >
@@ -24,7 +25,7 @@
 >4th level (3 slots): banishment, wall of fire  
 >5th level (1 slot): flame strike  
 >
->### Actions
+## Actions
 >***Multiattack.*** The firefist makes two greatsword attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  

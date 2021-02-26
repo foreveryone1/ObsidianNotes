@@ -1,5 +1,6 @@
 # Blink Dog
->*Medium fey, lawful good*
+>*Medium #fey , , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3, Stealth +5
 >- **Senses** passive Perception 10
 >- **Languages** Blink Dog, understands Sylvan but can't speak it
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.  
 >
 >***Teleport (Recharge 4–6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.

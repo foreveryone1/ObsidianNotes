@@ -1,5 +1,6 @@
 # Clockwork Dragon
->*Medium construct, neutral*
+>*Medium #construct , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Draconic
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***False Appearance.*** While the clockwork dragon remains motionless, it is indistinguishable from a metal statue.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.  
 >
 >***Fire Breath (Recharge 5–6).*** The clockwork dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.

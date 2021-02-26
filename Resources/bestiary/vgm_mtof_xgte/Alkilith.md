@@ -1,5 +1,6 @@
 # Alkilith
->*Medium fiend (demon), chaotic evil*
+>*Medium #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 157 (15d8 + 90)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** understands Abyssal but can't speak
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Resistance.*** The alkilith has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The alkilith makes three tentacle attacks.  
 >
 >***Tentacle.*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18 (4d6 + 4) acid damage.

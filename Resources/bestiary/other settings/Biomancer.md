@@ -1,5 +1,6 @@
 # Biomancer
->*Medium humanoid (any race), neutral good*
+>*Medium #humanoid (any race), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (splint armor)
 >- **Hit Points** 110 (17d8 + 34)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +9, Nature +9
 >- **Senses** passive Perception 12
 >- **Languages** Common plus any one language
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Bolstering Presence.*** The biomancer magically emanates life-giving energy within 30 feet of itself. Any ally of the biomancer that starts its turn there regains 5 (1d10) hit points.  
 >
@@ -31,7 +32,7 @@
 >7th level (1 slot): prismatic spray  
 >8th level (1 slot): control weather  
 >
->### Actions
+## Actions
 >***Scimitar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 ## Biomancer
 Nearly all the innovation and advancement in Simic bioengineering comes from the work of biomancers. Specialists in hybridizing and altering creatures through a mixture of science and magic, they have spawned countless hybrids and krasis in search of the perfect union between nature and civilization.

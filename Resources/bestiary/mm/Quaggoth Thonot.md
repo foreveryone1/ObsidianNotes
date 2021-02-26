@@ -1,5 +1,6 @@
 # Quaggoth Thonot
->*Medium humanoid (quaggoth), chaotic neutral*
+>*Medium #humanoid (quaggoth), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** Undercommon
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:  
 >
@@ -24,7 +25,7 @@
 >
 >***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The quaggoth makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

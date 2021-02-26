@@ -1,5 +1,6 @@
 # Sunder Shaman
->*Huge giant, chaotic neutral*
+>*Huge #giant , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 20 (stone armor)
 >- **Hit Points** 138 (12d12 + 60)
@@ -13,7 +14,7 @@
 >- **Skills** Athletics +10, Perception +5
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Giant
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Reckless.*** At the start of its turn, the giant can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >
@@ -21,7 +22,7 @@
 >
 >***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two slam attacks. The first of those attacks that hits deals an extra 18 (4d8) damage if the giant has taken damage since its last turn.  
 >
 >***Slam.*** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 24 (4d8 + 6) bludgeoning damage.  

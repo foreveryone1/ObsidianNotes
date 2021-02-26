@@ -1,5 +1,6 @@
 # Scarecrow
->*Medium construct, chaotic evil*
+>*Medium #construct , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 36 (8d8)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***False Appearance.*** While the scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The scarecrow makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage. If the target is a creature, it must succeed on a DC 11 Wisdom saving throw or be frightened until the end of the scarecrow's next turn.  

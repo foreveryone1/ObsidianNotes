@@ -1,5 +1,6 @@
 # Husk Zombie
->*Medium undead, neutral evil*
+>*Medium #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 37 (5d8 + 15)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** understands the languages it knew in life but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Curse of the Husk.*** A humanoid slain by a melee attack from the zombie revives as a husk zombie on its next turn.  
 >
 >***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The zombie makes two claw attacks. For each of these attacks that reduces a creature to 0 hit points, the zombie can make an additional claw attack.  
 >
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

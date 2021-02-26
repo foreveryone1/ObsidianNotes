@@ -1,5 +1,6 @@
 # Manes
->*Small fiend (demon), chaotic evil*
+>*Small #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 9 (natural armor)
 >- **Hit Points** 9 (2d6 + 2)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** understands Abyssal but can't speak
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
 ## Manes
 Souls of evil creatures that descend to the Lower Planes are transformed into manes-the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.

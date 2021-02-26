@@ -1,5 +1,6 @@
 # Fastieth
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 9 (2d8)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Quickness (Recharge 5–6).*** The fastieth can take the Dodge action as a bonus action.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 ## Fastieth
 Fastieth are human-sized, two-legged saurians with large eyes, brightly colored and patterned scales, and strong legs. They are the most common mounts of the halflings of the Talenta Plains, bred for speed. Although too small to bear larger riders, a fastieth can carry a halfling with light gear easily and at a good pace. Fastieths are typically stubborn creatures, so specimens with an even temperament are prized among the Talenta tribes.

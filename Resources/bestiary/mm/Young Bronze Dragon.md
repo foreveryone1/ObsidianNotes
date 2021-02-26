@@ -1,5 +1,6 @@
 # Young Bronze Dragon
->*Large dragon, lawful good*
+>*Large #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 142 (15d10 + 60)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** lightning
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 >- **Languages** Common, Draconic
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.  

@@ -1,5 +1,6 @@
 # Giant Badger
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 13 (2d8 + 4)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 11
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.  

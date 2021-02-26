@@ -1,5 +1,6 @@
 # Master Thief
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 16 (studded leather armor)
 >- **Hit Points** 83 (13d8 + 26)
@@ -13,7 +14,7 @@
 >- **Skills** Acrobatics +7, Athletics +3, Perception +3, Sleight of Hand +7, Stealth +7
 >- **Senses** passive Perception 13
 >- **Languages** any one language (usually Common) plus Thieves' cant
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Cunning Action.*** On each of its turns, the thief can use a bonus action to take the Dash, Disengage, or Hide action.  
 >
@@ -21,7 +22,7 @@
 >
 >***Sneak Attack (1/Turn).*** The thief deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the thief that isn't incapacitated and the thief doesn't have disadvantage on the attack roll.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The thief makes three attacks with its shortsword.  
 >
 >***Shortsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.  

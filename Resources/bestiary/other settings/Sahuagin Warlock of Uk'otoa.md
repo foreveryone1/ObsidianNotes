@@ -1,5 +1,6 @@
 # Sahuagin Warlock of Uk'otoa
->*Medium humanoid (sahuagin), neutral evil*
+>*Medium #humanoid (sahuagin), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 22 (5d8)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +1, Persuasion +5
 >- **Senses** darkvision 120 ft., passive Perception 9
 >- **Languages** Common, Sahuagin
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Blood Frenzy.*** The warlock has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -26,7 +27,7 @@
 >
 >***Shark Telepathy.*** The warlock can magically command any shark within 120 feet of it, using a limited telepathy.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The warlock makes two attacks: one with its bite and one with its Sword of Fathoms.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.  

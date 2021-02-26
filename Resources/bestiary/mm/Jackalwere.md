@@ -1,5 +1,6 @@
 # Jackalwere
->*Medium humanoid (shapechanger), chaotic evil*
+>*Medium #humanoid (shapechanger), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 18 (4d8)
@@ -13,7 +14,7 @@
 >- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Senses** passive Perception 12
 >- **Languages** Common (can't speak in jackal form)
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Shapechanger.*** The jackalwere can use its action to polymorph into a specific Medium human or a jackal-humanoid hybrid, or back into its true form (that of a Small jackal). Other than its size, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
@@ -21,7 +22,7 @@
 >
 >***Pack Tactics.*** The jackalwere has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Bite (Jackal or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  
 >
 >***Scimitar (Human or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  

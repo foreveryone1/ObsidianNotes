@@ -1,5 +1,6 @@
 # Polukranos
->*Gargantuan monstrosity, unaligned*
+>*Gargantuan #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 232 (15d20 + 75)
@@ -13,7 +14,7 @@
 >- **Damage Immunities** acid
 >- **Senses** darkvision 120 ft., passive Perception 24
 >- **Languages** —
->- **Challenge** 19 (22,000 XP)
+>- #cr19 (22,000 XP)
 >___
 >***Acidic Blood.*** When Polukranos takes piercing or slashing damage, each creature within 5 feet of Polukranos takes 10 (3d6) acid damage.  
 >
@@ -29,7 +30,7 @@
 >
 >***Wakeful.*** While Polukranos sleeps, at least one of its heads is awake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Polukranos makes as many bite attacks as it has heads.  
 >
 >***Bite.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 18 (2d10 + 7) piercing damage.  
@@ -38,7 +39,7 @@
 >
 >***Tail.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 18 (2d10 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away from Polukranos.  
 >
->### Legendary Actions
+## Legendary Actions
 >Polukranos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Polukranos regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** Polukranos makes a Wisdom (Perception) check.

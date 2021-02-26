@@ -1,5 +1,6 @@
 # Hippocamp
->*Large monstrosity, chaotic good*
+>*Large #monstrosity , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 22 (4d10)
@@ -12,13 +13,13 @@
 >- **Damage Resistances** cold
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** The hippocamp can breathe air and water.  
 >
 >***Charge.*** If the hippocamp moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.  
 >
->### Actions
+## Actions
 >***Hooves.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.  
 >
 >***Ram.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.

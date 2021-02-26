@@ -1,5 +1,6 @@
 # Boneclaw
->*Large undead, chaotic evil*
+>*Large #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 127 (17d10 + 34)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 16
 >- **Languages** Common plus the main language of its master
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Rejuvenation.*** While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.  
 >
 >***Shadow Stealth.*** While in dim light or darkness, the boneclaw can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The boneclaw makes two claw attacks.  
 >
 >***Piercing Claw.*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 20 (3d10 + 4) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is grappled (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.  

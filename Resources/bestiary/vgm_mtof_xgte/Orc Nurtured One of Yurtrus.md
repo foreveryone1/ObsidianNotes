@@ -1,5 +1,6 @@
 # Orc Nurtured One of Yurtrus
->*Medium humanoid (orc), chaotic evil*
+>*Medium #humanoid (orc), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 30 (4d8 + 12)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common, Orc
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >
@@ -19,7 +20,7 @@
 >
 >***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) necrotic damage.  
 >
 >***Corrupted Vengeance.*** The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait.

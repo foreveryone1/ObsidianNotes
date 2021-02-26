@@ -1,5 +1,6 @@
 # Core Spawn Seer
->*Medium aberration, chaotic evil*
+>*Medium #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 153 (18d8 + 72)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** blindsight 60 ft., tremorsense 60 ft., passive Perception 19
 >- **Languages** Common, Deep Speech, telepathy 120 ft., Undercommon
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Earth Glide.*** The seer can traverse through nonmagical, unworked earth and stone. While doing so, the seer doesn't disturb the material it moves through.  
 >
 >***Magic Resistance.*** The seer has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The seer uses Fission Staff twice, Psychedelic Orb twice, or each one once.  
 >
 >***Fission Staff.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 9 (1d6 + 6) bludgeoning damage plus 18 (4d8) radiant damage, and the target is knocked prone.  

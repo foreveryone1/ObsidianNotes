@@ -1,5 +1,6 @@
 # Gloamwing
->*Large undead, neutral evil*
+>*Large #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 136 (16d10 + 48)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 13
 >- **Languages** understands Common
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Death Link.*** If its specter rider is reduced to 0 hit points, the gloamwing is destroyed.  
 >
@@ -24,7 +25,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the gloamwing has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gloamwing makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) piercing damage.  

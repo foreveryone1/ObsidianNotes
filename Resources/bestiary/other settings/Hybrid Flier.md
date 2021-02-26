@@ -1,5 +1,6 @@
 # Hybrid Flier
->*Medium humanoid (Simic hybrid), neutral good*
+>*Medium #humanoid (Simic hybrid), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 39 (6d8 + 12)
@@ -12,9 +13,9 @@
 >- **Damage Resistances** acid
 >- **Senses** passive Perception 10
 >- **Languages** Common plus any one language
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The hybrid makes two javelin attacks. It can replace one javelin attack with Spit Acid.  
 >
 >***Javelin.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  

@@ -1,5 +1,6 @@
 # Kuo-toa Whip
->*Medium humanoid (kuo-toa), neutral evil*
+>*Medium #humanoid (kuo-toa), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 65 (10d8 + 20)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +6, Religion +5
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Undercommon
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Amphibious.*** The kuo-toa can breathe air and water.  
 >
@@ -28,7 +29,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

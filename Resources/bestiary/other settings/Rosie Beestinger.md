@@ -1,5 +1,6 @@
 # Rosie Beestinger
->*Small humanoid (halfling), chaotic good*
+>*Small #humanoid (halfling), chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 15 (Unarmored Defense)
 >- **Hit Points** 45 (10d6 + 10)
@@ -13,7 +14,7 @@
 >- **Skills** Acrobatics +5, History +3, Intimidation +4, Stealth +5
 >- **Senses** passive Perception 12
 >- **Languages** Common, Draconic, Elvish, Halfling
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Brave.*** Rosie has advantage on saving throws against being frightened.  
 >
@@ -29,7 +30,7 @@
 >
 >***Shadow Step.*** When Rosie is in dim light or darkness, she can use a bonus action to teleport 60 feet to an unoccupied space she can see that is also in dim light or darkness. She then has advantage on the first melee attack she makes before the end of the turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Rosie makes three attacks, then makes two unarmed strike attacks.  
 >
 >***Staff of the Master (+1 Quarterstaff).*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands.  

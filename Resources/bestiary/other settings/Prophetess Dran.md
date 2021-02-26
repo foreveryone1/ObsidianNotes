@@ -1,5 +1,6 @@
 # Prophetess Dran
->*Medium humanoid (elf), lawful good*
+>*Medium #humanoid (elf), lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 14 (breastplate)
 >- **Hit Points** 27 (5d8 + 5)
@@ -12,7 +13,7 @@
 >- **Skills** Medicine +5, Persuasion +3, Religion +5
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Elvish
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Divine Eminence.*** As a bonus action, Prophetess can expend a spell slot to cause her melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Prophetess expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.  
 >
@@ -25,5 +26,5 @@
 >2nd level (3 slots): lesser restoration, spiritual weapon  
 >3rd level (2 slots): dispel magic, spirit guardians  
 >
->### Actions
+## Actions
 >***Maul.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.

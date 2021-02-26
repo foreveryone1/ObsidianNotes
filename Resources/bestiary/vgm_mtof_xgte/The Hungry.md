@@ -1,5 +1,6 @@
 # The Hungry
->*Medium monstrosity, lawful evil*
+>*Medium #monstrosity , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 225 (30d8 + 90)
@@ -12,11 +13,11 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Life Hunger.*** If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The Hungry makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage.  

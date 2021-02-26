@@ -1,5 +1,6 @@
 # Dire Troll
->*Huge giant, chaotic evil*
+>*Huge #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 172 (15d12 + 75)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Giant
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Keen Senses.*** The troll has advantage on Wisdom (Perception) checks that rely on smell or sight.  
 >
 >***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, it regains only 5 hit points at the start of its next turn. The troll dies only if it is hit by an attack that deals 10 or more acid or fire damage while the troll has 0 hit points.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The troll makes five attacks: one with its bite and four with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) piercing damage plus 5 (1d10) poison damage.  

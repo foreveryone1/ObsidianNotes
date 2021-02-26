@@ -1,5 +1,6 @@
 # Grung
->*Small humanoid (grung), lawful evil*
+>*Small #humanoid (grung), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 11 (2d6 + 4)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** passive Perception 12
 >- **Languages** Grung
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** The grung can breathe air and water.  
 >
@@ -23,7 +24,7 @@
 >
 >***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 ## Grung
 Grungs are aggressive frog-like humanoids found in rain forests and tropical jungles. They are fiercely territorial and see themselves as superior to most other creatures.

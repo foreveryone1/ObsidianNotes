@@ -1,5 +1,6 @@
 # Enchanter
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +6, History +6
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Spellcasting.*** The enchanter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The enchanter has the following wizard spells prepared:  
 >
@@ -27,7 +28,7 @@
 >*Enchantment spell of 1st level or higher  
 >
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.  
 >
 >### Reactions

@@ -1,5 +1,6 @@
 # Alhoon
->*Medium undead, any evil alignment*
+>*Medium #undead , any evil alignment*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 120 (16d8 + 48)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** truesight 120 ft., passive Perception 17
 >- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The alhoon's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:  
 >
@@ -39,7 +40,7 @@
 >
 >***Turn Resistance.*** The alhoon has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Chilling Grasp.*** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (3d6) cold damage.  
 >
 >***Mind Blast (Recharge 5–6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

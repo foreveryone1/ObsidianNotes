@@ -1,5 +1,6 @@
 # Typhon
->*Huge monstrosity, chaotic evil*
+>*Huge #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 195 (17d12 + 85)
@@ -13,13 +14,13 @@
 >- **Damage Immunities** acid, necrotic
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Common
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Keen Smell.*** The typhon has advantage on Wisdom (Perception) checks that rely on smell.  
 >
 >***Regeneration.*** The typhon regains 20 hit points at the start of its turn. If it takes radiant damage, this trait doesn't function at the start of its next turn. The typhon dies only if it starts its turn with 0 hit points and doesn't regenerate.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The typhon makes three attacks: one with its Flurry of Bites, one to constrict, and one with its maw.  
 >
 >***Flurry of Bites.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 35 (8d6 + 7) piercing damage.  

@@ -1,5 +1,6 @@
 # Stone Giant Dreamwalker
 >*Huge giant (stone giant), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 161 (14d12 + 70)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Giant
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't incapacitated. On a failed save, the creature is charmed by the giant. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two attacks with its greatclub.  
 >
 >***Greatclub.*** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.  

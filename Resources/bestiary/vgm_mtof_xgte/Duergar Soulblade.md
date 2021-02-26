@@ -1,5 +1,6 @@
 # Duergar Soulblade
->*Medium humanoid (dwarf), lawful evil*
+>*Medium #humanoid (dwarf), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 18 (4d8)
@@ -12,7 +13,7 @@
 >- **Damage Resistances** poison
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** Dwarvish, Undercommon
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Create Soulblade.*** As a bonus action, the duergar can create a shortsword-sized, visible blade of psionic energy. The weapon appears in the duergar's hand and vanishes if it leaves the duergar's grip, or if the duergar dies or is incapacitated.  
 >
@@ -26,7 +27,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Soulblade.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage, or 10 (2d6 + 3) force damage while enlarged. If the soulblade has advantage on the attack roll, the attack deals an extra 3 (1d6) force damage.  
 >
 >***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.  

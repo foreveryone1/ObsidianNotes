@@ -1,5 +1,6 @@
 # Narzugon
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (plate armor, shield)
 >- **Hit Points** 112 (15d8 + 45)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** Common, Infernal, telepathy 120 ft.
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Diabolical Sense.*** The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.  
 >
@@ -24,7 +25,7 @@
 >
 >***Magic Resistance.*** The narzugon has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The narzugon uses its Infernal Command or Terrifying Command. It also makes three hellfire lance attacks.  
 >
 >***Hellfire Lance.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 11 (1d12 + 5) piercing damage plus 16 (3d10) fire damage. If this damage kills a creature, the creature's soul rises from the River Styx as a lemure in Avernus in 1d4 hours.  

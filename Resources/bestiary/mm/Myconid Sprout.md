@@ -1,5 +1,6 @@
 # Myconid Sprout
->*Small plant, lawful neutral*
+>*Small #plant , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 7 (2d6)
@@ -11,16 +12,16 @@
 >___
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Distress Spores.*** When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.  
 >
 >***Sun Sickness.*** While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.  
 >
->### Actions
+## Actions
 >***Fist.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) bludgeoning damage plus 2 (1d4) poison damage.  
 >
->***Rapport Spores (3/Day).*** A 10-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
+>***Rapport Spores (3/Day).*** A 10-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't #undead , constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
 ## Myconid Sprout
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 ***Circles and Melds.*** The largest myconid in a colony is its sovereign, which presides over one or more social groups called circles. A circle consists of twenty or more myconids that work, live, and meld together.

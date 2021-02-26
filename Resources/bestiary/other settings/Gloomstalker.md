@@ -1,5 +1,6 @@
 # Gloomstalker
->*Large monstrosity, neutral evil*
+>*Large #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 90 (12d10 + 24)
@@ -14,13 +15,13 @@
 >- **Damage Vulnerabilities** radiant
 >- **Senses** darkvision 240 ft, passive Perception 16
 >- **Languages** understands Common but can't speak
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Shadowstep.*** As a bonus action, the gloomstalker can teleport up to 40 feet to an unoccupied space it can see.  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the gloomstalker has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gloomstalker makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 15 (2d8 + 6) piercing damage plus 7 (2d6) necrotic damage.  

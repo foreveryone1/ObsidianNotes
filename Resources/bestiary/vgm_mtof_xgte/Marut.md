@@ -1,5 +1,6 @@
 # Marut
 >*Large construct (inevitable), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 432 (32d10 + 256)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, frightened, paralyzed, poisoned, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 20
 >- **Languages** all but rarely speaks
->- **Challenge** 25 (75,000 XP)
+>- #cr25 (75,000 XP)
 >___
 >***Immutable Form.*** The marut is immune to any spell or effect that would alter its form.  
 >
@@ -29,7 +30,7 @@
 >
 >***Magic Resistance.*** The marut has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The marut makes two slam attacks.  
 >
 >***Unerring Slam.*** Melee Weapon Attack: automatic hit, reach 5 ft., one target. Hit: 60 force damage, and the target is pushed up to 5 feet away from the marut if it is Huge or smaller.  

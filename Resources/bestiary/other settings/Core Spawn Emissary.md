@@ -1,5 +1,6 @@
 # Core Spawn Emissary
->*Medium aberration, chaotic evil*
+>*Medium #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 102 (12d8 + 48)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** blinded
 >- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 14
 >- **Languages** telepathy 120 ft., understands Deep Speech but can't speak
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Magic Resistance.*** The emissary has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The emissary makes three talons attacks.  
 >
 >***Talons.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 14 (2d10 + 3) slashing damage.  

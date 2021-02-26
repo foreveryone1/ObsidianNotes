@@ -1,5 +1,6 @@
 # Androsphinx
->*Large monstrosity, lawful neutral*
+>*Large #monstrosity , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 199 (19d10 + 95)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** truesight 120 ft., passive Perception 20
 >- **Languages** Common, Sphinx
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.  
 >
@@ -31,7 +32,7 @@
 >5th level (2 slots): flame strike, greater restoration  
 >6th level (1 slot): heroes' feast  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sphinx makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.  
@@ -43,7 +44,7 @@
 >
 >- **Third Roar** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 >
->### Legendary Actions
+## Legendary Actions
 >The androsphinx can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The androsphinx regains spent legendary actions at the start of its turn.
 >
 >- **Claw Attack.** The sphinx makes one claw attack.
@@ -59,7 +60,7 @@ Benign deities sometimes grant a sphinx the power to remove supplicants that fai
 ***Extraplanar Beings.***  Mortals that encounter sphinxes do so most often in ancient tombs and ruins, but some sphinxes can access extraplanar realms. A conversation with a sphinx that begins between tumbled stone walls might suddenly shift to an alien locale, such as a life-sized game board or a daunting cliff that must be climbed in a howling storm. Sometimes a sphinx must be summoned from such an extradimensional space, with supplicants calling it from its empty lair. Only those the sphinx deems worthy gain admittance to its realm.
 ***Fallen Sphinxes.***  Whether through the weariness of the ages, regret at the slaughter of innocents, or dreams of worship by supplicants that attempt to bargain their way to knowledge, some sphinxes break free of their divine command. However, even if a sphinx's alignment and loyalties drift in this way, it never leaves the place it guards or grants its secrets to any except creatures it deems worthy.
 ***A Sphinx's Lair.*** A sphinx presides over an ancient temple, sepulcher, or vault, within which are hidden divine secrets and treasures beyond the reach of mortals.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:
 - The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.
 - The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.

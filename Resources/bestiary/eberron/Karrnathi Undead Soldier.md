@@ -1,5 +1,6 @@
 # Karrnathi Undead Soldier
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (half plate armor)
 >- **Hit Points** 52 (7d8 + 21)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Pack Tactics.*** The soldier has advantage on an attack roll against a creature if at least one of the soldier's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
 >***Undead Fortitude.*** If damage reduces the soldier to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the soldier drops to 1 hit point instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The soldier attacks three times with one of its weapons.  
 >
 >***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  

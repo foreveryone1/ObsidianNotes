@@ -1,5 +1,6 @@
 # Will-o'-Wisp
->*Tiny undead, chaotic evil*
+>*Tiny #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 19
 >- **Hit Points** 22 (9d4)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** the languages it knew in life
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.  
 >
@@ -24,7 +25,7 @@
 >
 >***Variable Illumination.*** The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.  
 >
->### Actions
+## Actions
 >***Shock.*** Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d8) lightning damage.  
 >
 >***Invisibility.*** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).

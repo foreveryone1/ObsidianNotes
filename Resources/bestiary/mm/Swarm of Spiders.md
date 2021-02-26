@@ -1,5 +1,6 @@
 # Swarm of Spiders
 >*Medium swarm of tiny beasts, unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 22 (5d8)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 >- **Senses** blindsight 10 ft., passive Perception 8
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Spider Climb.*** The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
@@ -23,7 +24,7 @@
 >
 >***Web Walker.*** The swarm ignores movement restrictions caused by webbing.  
 >
->### Actions
+## Actions
 >***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 ## Swarm of Spiders
 > ##### The Nature of Swarms

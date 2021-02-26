@@ -1,5 +1,6 @@
 # Storm Giant
->*Huge giant, chaotic good*
+>*Huge #giant , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 16 (scale mail)
 >- **Hit Points** 230 (20d12 + 100)
@@ -15,7 +16,7 @@
 >- **Damage Immunities** lightning, thunder
 >- **Senses** passive Perception 19
 >- **Languages** Common, Giant
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Amphibious.*** The giant can breathe air and water.  
 >
@@ -24,7 +25,7 @@
 >At will: detect magic, feather fall, levitate, light  
 >3/day each: control weather, water breathing  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two greatsword attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 30 (6d6 + 9) slashing damage.  

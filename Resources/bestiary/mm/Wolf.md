@@ -1,5 +1,6 @@
 # Wolf
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 11 (2d8 + 2)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3, Stealth +4
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >
 >***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.

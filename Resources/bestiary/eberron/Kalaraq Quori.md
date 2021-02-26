@@ -1,5 +1,6 @@
 # Kalaraq Quori
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 161 (19d8 + 76)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, prone, restrained
 >- **Senses** truesight 120 ft., passive Perception 23
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 19 (22,000 XP)
+>- #cr19 (22,000 XP)
 >___
 >***All-Around Vision.*** The quori can't be surprised while it isn't incapacitated.  
 >
@@ -29,7 +30,7 @@
 >
 >***Magic Resistance.*** The quori has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The quori makes two Soul Binding attacks. Alternatively, it can make four attacks with Arcane Blast.  
 >
 >***Arcane Blast.*** Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 12 (1d10 + 7) force damage.  

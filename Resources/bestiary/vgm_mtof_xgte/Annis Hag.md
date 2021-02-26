@@ -1,5 +1,6 @@
 # Annis Hag
->*Large fey, chaotic evil*
+>*Large #fey , , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 75 (10d10 + 20)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Common, Giant, Sylvan
->- **Challenge** 6 (2,300 XP) or 8 (3,900 XP) when part of a coven
+>- #cr6 (2,300 XP) or 8 (3,900 XP) when part of a coven
 >___
 >***Hag Coven.*** When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.  
 >A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.  
@@ -39,7 +40,7 @@
 >1st level (4 slots): entangle, speak with animals  
 >2nd level (3 slots): flaming sphere, moonbeam, spike growth  
 >3rd level (3 slots): call lightning, plant growth  
->4th level (3 slots): dominate beast, grasping vine  
+>4th level (3 slots): dominate #beast , grasping vine  
 >5th level (2 slots): insect plague, tree stride  
 >6th level (1 slot): wall of thorns  
 >
@@ -69,7 +70,7 @@
 >For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.  
 >
 >
->### Actions
+## Actions
 >***Multiattack.*** The annis makes three attacks: one with her bite and two with her claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.  

@@ -1,5 +1,6 @@
 # Udaak
->*Gargantuan fiend, neutral evil*
+>*Gargantuan #fiend , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 165 (10d20 + 60)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** frightened, grappled, poisoned, restrained
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Charge.*** If the udaak moves at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 27 (6d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away from the udaak and knocked prone.  
 >
 >***Siege Monster.*** The udaak deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The udaak makes three attacks: one with its bite and two with its slam.  
 >
 >***Bite.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one creature. Hit: 21 (2d12 + 8) piercing damage, and the target is grappled (escape DC 21). Until this grapple ends, the target is restrained, and the udaak can't bite another target.  

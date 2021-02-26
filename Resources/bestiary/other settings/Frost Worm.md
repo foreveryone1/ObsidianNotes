@@ -1,5 +1,6 @@
 # Frost Worm
->*Gargantuan monstrosity, unaligned*
+>*Gargantuan #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 264 (16d20 + 96)
@@ -14,7 +15,7 @@
 >- **Damage Immunities** cold
 >- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 7
 >- **Languages** —
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Death Burst.*** When the worm dies, it explodes in a burst of frigid energy. Each creature within 60 feet of it must make a DC 20 Dexterity saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one. Creatures inside the worm when it dies automatically fail this saving throw.  
 >
@@ -22,7 +23,7 @@
 >
 >***Tunneler.*** The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The worm makes two bite attacks, or uses its Trill and makes a bite attack.  
 >
 >***Bite.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a Large or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 10 (3d6) acid damage and 10 (3d6) cold damage at the start of each of the worm's turns.  

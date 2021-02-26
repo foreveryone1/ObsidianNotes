@@ -1,5 +1,6 @@
 # Necromancer
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 66 (12d8 + 12)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** necrotic
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Grim Harvest (1/Turn).*** When necromancer kills a creature that is neither a construct nor undead with a spell of 1st level or higher, the necromancer regains hit points equal to twice the spell's level, or three times if it is a necromancy spell.  
 >
@@ -31,7 +32,7 @@
 >*Necromancy spell of 1st level or higher  
 >
 >
->### Actions
+## Actions
 >***Withering Touch.*** Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 5 (2d4) necrotic damage.
 ## Necromancer
 Necromancers are specialist wizards who study the interaction of life, death, and undeath. Some like to dig up corpses to create undead slaves. A few use their powers for good, becoming hunters of the undead and risking their lives to save others.

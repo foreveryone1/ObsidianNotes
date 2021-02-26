@@ -1,5 +1,6 @@
 # Fire Giant Dreadnought
 >*Huge giant (fire giant), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 21 (plate armor, shields)
 >- **Hit Points** 187 (15d12 + 90)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** fire
 >- **Senses** passive Perception 15
 >- **Languages** Giant
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Dual Shields.*** The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two fireshield attacks.  
 >
 >***Fireshield.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) bludgeoning damage plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.  

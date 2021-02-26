@@ -1,5 +1,6 @@
 # Raegrin Mau
->*Medium humanoid (elf), any non-good alignment*
+>*Medium #humanoid (elf), any non-good alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (leather armor)
 >- **Hit Points** 9 (2d8)
@@ -12,7 +13,7 @@
 >- **Skills** Deception +2, Perception +2, Religion +2
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** any one language (usually Common), Elvish
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Dark Devotion.*** Raegrin has advantage on saving throws against being charmed or frightened.  
 >
@@ -20,5 +21,5 @@
 >
 >***Mask of the Wild.*** The raegrin mau can attempt to hide even when they are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.  
 >
->### Actions
+## Actions
 >***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.

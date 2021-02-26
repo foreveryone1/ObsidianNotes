@@ -1,5 +1,6 @@
 # Lizardfolk
->*Medium humanoid (lizardfolk), neutral*
+>*Medium #humanoid (lizardfolk), neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor, shield)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3, Stealth +4, Survival +5
 >- **Senses** passive Perception 13
 >- **Languages** Draconic
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The lizardfolk makes two melee attacks, each one with a different weapon.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

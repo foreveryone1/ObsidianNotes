@@ -1,5 +1,6 @@
 # Gray Slaad
 >*Medium aberration (shapechanger), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 127 (17d8 + 51)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** acid, cold, fire, lightning, thunder
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 17
 >- **Languages** Slaad, telepathy 60 ft.
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
@@ -30,7 +31,7 @@
 >
 >***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.  
 >
 >***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  

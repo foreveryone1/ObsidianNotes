@@ -1,5 +1,6 @@
 # Black Bear
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 19 (3d8 + 6)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

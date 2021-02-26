@@ -1,5 +1,6 @@
 # Half-Red Dragon Veteran
->*Medium humanoid (human), any alignment*
+>*Medium #humanoid (human), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 65 (10d8 + 20)
@@ -13,9 +14,9 @@
 >- **Damage Resistances** fire
 >- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 >- **Languages** Common, Draconic
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.  
 >
 >***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  
@@ -30,7 +31,7 @@ When a dragon in polymorphed form mates with another creature, the union sometim
 ***Draconic Nature.*** Half-dragons are incapable of having natural born offspring. Those that wish to propagate must find other ways to do so, almost always involving magic. By way of compensation, half dragons are blessed with long life. Barring unforeseen misfortune, a typical half-dragon's life expectancy is twice that of its no draconic line, so that a half-dragon human might live more than a century and a half.
 Half-dragons inherit personality traits common to their draconic heritage, so that half-gold dragons are often shy and secretive, while half-copper dragons are impish and playful. Half-green dragons are deceitful, while half-white dragons are often dim-witted brutes. These traits are tempered by a half-dragon's other lineage, but greed, arrogance, and paranoia are qualities that even good-aligned half-dragons often possess.
 ### Half-Dragon Template
-A beast, humanoid, giant, or monstrosity can become a half-dragon. When a creature becomes a half-dragon, it retains all its statistics except as noted below.
+A #beast , humanoid, #giant , or monstrosity can become a half-dragon. When a creature becomes a half-#dragon , it retains all its statistics except as noted below.
 ***Challenge.*** To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, use the guidelines in the Dungeon Master's Guide to recalculate the rating after you apply the template.
 ***Senses.*** The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
 ***Resistances.*** The half-dragon gains resistance to a type of damage based on its color.

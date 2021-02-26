@@ -1,5 +1,6 @@
 # Devkarin Lich
->*Medium undead, neutral evil*
+>*Medium #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 97 (15d8 + 30)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** truesight 120 ft., passive Perception 18
 >- **Languages** Common, Elvish, Kraul
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.  
 >
@@ -38,10 +39,10 @@
 >
 >***Undead Fortitude.*** If damage reduces the lich to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the lich drops to 1 hit point instead.  
 >
->### Actions
+## Actions
 >***Noxious Touch.*** Melee Spell Attack: +9 to hit, reach 5 ft., one creature. Hit: 14 (4d6) poison damage, and the target must succeed on a DC 17 Constitution saving throw or be poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
->### Legendary Actions
+## Legendary Actions
 >The devkarin lich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The devkarin lich regains spent legendary actions at the start of its turn.
 >
 >- **Cantrip.** The lich casts one of its cantrips.

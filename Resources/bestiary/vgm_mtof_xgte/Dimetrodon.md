@@ -1,5 +1,6 @@
 # Dimetrodon
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 19 (3d8 + 6)
@@ -12,9 +13,9 @@
 >- **Skills** Perception +2
 >- **Senses** passive Perception 12
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 ## Dimetrodon
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role as a crocodile.

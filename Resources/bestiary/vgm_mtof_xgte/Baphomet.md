@@ -1,5 +1,6 @@
 # Baphomet
->*Huge fiend (demon), chaotic evil*
+>*Huge #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 275 (19d12 + 152)
@@ -16,14 +17,14 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** truesight 120 ft., passive Perception 24
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Charge.*** If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.  
 >
 >***Innate Spellcasting.*** Baphomet's spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring no material components:  
 >
 >At will: detect magic  
->3/day each: dispel magic, dominate beast, hunter's mark, maze, wall of stone  
+>3/day each: dispel magic, dominate #beast , hunter's mark, maze, wall of stone  
 >1/day: teleport  
 >
 >
@@ -37,7 +38,7 @@
 >
 >***Reckless.*** At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Baphomet makes three attacks: one with Heartcleaver, one with his bite, and one with his gore attack.  
 >
 >***Heartcleaver.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) slashing damage.  
@@ -49,7 +50,7 @@
 >***Frightful Presence.*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.  
 >If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.  
 >
->### Legendary Actions
+## Legendary Actions
 >Baphomet can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Baphomet regains spent legendary actions at the start of its turn.
 >
 >- **Heartcleaver Attack.** Baphomet makes a melee attack with Heartcleaver.
@@ -62,7 +63,7 @@ Baphomet appears as a great, black-furred minotaur, 20 feet tall with six iron h
 Baphomet wields a great glaive called Heartcleaver. He sometimes casts this deadly weapon aside so that he can charge his enemies and gore them with his horns, trampling them into the earth and rending them with his teeth like a beast.
 #### Baphomet's Lair
 Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace itself is a towering structure whose interior is as labyrinthine as the plane on which it resides, populated by minotaurs, goristros, and quasits.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), Baphomet can take a lair action to cause one of the following magical effects; he can't use the same effect two rounds in a row:
 - Baphomet seals one doorway or other entryway within the lair. The opening must be unoccupied. It is filled with solid stone for 1 minute or until Baphomet creates this effect again.
 - Baphomet chooses a room within the lair that is no larger in any dimension than 100 feet. Until the next initiative count 20, gravity is reversed within that room. Any creatures or objects in the room when this happens fall in the direction of the new pull of gravity, unless they have some means of remaining aloft. Baphomet can ignore the gravity reversal if he's in the room, although he likes to use this action to land on a ceiling to attack targets flying near it.

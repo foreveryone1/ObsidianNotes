@@ -1,5 +1,6 @@
 # Steel Defender
 >*Medium construct*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 2 + your Intelligence modifier + five times your artificer level (the defender has a number of Hit Dice [ d8s] equal to your artificer level)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** charmed, exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10 + (PB × 2)
 >- **Languages** understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Vigilant.*** The defender can't be surprised.  
 >
->### Actions
+## Actions
 >***Force-Empowered Rend.*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage.  
 >
 >***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  

@@ -1,5 +1,6 @@
 # Shadow Mastiff
->*Medium monstrosity, neutral evil*
+>*Medium #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 33 (6d8 + 6)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** —
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.  
 >
@@ -23,7 +24,7 @@
 >
 >***Sunlight Weakness.*** While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 ## Shadow Mastiff
 These black hounds of the Shadowfell move invisibly through the shadows, always on the hunt. In gloomy places where the veil between the Shadowfell and the Material Plane is thinnest, they can cross over into the dark realms of the world.

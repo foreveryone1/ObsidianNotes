@@ -1,5 +1,6 @@
 # Adult Blue Dracolich
->*Huge undead, lawful evil*
+>*Huge #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 225 (18d12 + 108)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 >- **Languages** Common, Draconic
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.  
 >
 >***Magic Resistance.*** The dracolich has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.  
@@ -35,7 +36,7 @@
 >
 >***Lightning Breath (Recharge 5–6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.  
 >
->### Legendary Actions
+## Legendary Actions
 >The dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dracolich regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The dracolich makes a Wisdom (Perception) check.
@@ -49,12 +50,12 @@ Though many dragons pursue vain goals of destruction and dominance, dracoliches 
 If a dracolich's physical form is ever destroyed, its spirit returns to the gem as long as the two are on the same plane. If the gem comes into contact with another dragon's corpse, the dracolich's spirit can take possession of that corpse to become a new dracolich. If the dracolich's spirit gem is taken to another plane, the dracolich's spirit has nowhere to go when its undead body is destroyed and simply passes into the afterlife.
 ***Dracolich Template.*** Only an ancient or adult true dragon can be transformed into a dracolich. Younger dragons that attempt to undergo the transformation die, as do other creatures that aren't true dragons but possess the dragon type, such as pseudodragons and wyverns. A shadow dragon can't be transformed into a dracolich, for it has already lost too much of its physical form.
 When a dragon becomes a dracolich, it retains its statistics except as described below. The dragon loses any trait, such as Amphibious, that assumes a living physiology. The dracolich might retain or lose any or all of its lair actions or inherit new ones, as the DM sees fit.
-***Type.***  The dracolich's type changes from dragon to undead, and it no longer requires air, food, drink, or sleep.
+***Type.***  The dracolich's type changes from dragon to #undead , and it no longer requires air, food, drink, or sleep.
 ***Damage Resistance.***  The dracolich has resistance to necrotic damage.
 ***Damage Immunities.***  The dracolich has immunity to poison. It also retains any immunities it had prior to becoming a dracolich.
 ***Condition Immunities.***  The dracolich can't be charmed, frightened, paralyzed, or poisoned. It also doesn't suffer from exhaustion.
 ***Magic Resistance.***  The dracolich has advantage on saving throws against spells and other magical effects.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 - Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be knocked prone and buried. The buried target is restrained and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.
 - A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
@@ -62,6 +63,6 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 #### Regional Effects
 The region containing a legendary blue dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 - Thunderstorms rage within 6 miles of the lair.
-- Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).
+- Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air #elemental , but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).
 - Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom (Perception) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet into the sinkhole.
 If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within 1d10 days. Any sinkholes remain where they are.

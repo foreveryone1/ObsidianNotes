@@ -1,5 +1,6 @@
 # Slithering Tracker
->*Medium ooze, chaotic evil*
+>*Medium #ooze , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 32 (5d8 + 10)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
 >- **Senses** blindsight 120 ft., passive Perception 12
 >- **Languages** understands languages it knew in its previous form but can't speak
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Ambusher.*** In the first round of a combat, the slithering tracker has advantage on attack rolls against any creature it surprised.  
 >
@@ -31,7 +32,7 @@
 >
 >***Watery Stealth.*** While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Slam.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage.  
 >
 >***Life Leech.*** One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be grappled (escape DC 13). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. In addition, the grappled target takes 16 (3d10) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.

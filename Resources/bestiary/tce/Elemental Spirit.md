@@ -1,5 +1,6 @@
 # Elemental Spirit
->*Medium elemental, unaligned*
+>*Medium #elemental , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 + the level of the spell (natural armor)
 >- **Hit Points** 50 + 10 for each spell level above 4th
@@ -14,11 +15,11 @@
 >- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Primordial, understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Amorphous Form (Air, Fire, and Water Only).*** The elemental can move through a space as narrow as 1 inch wide without squeezing.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The elemental makes a number of attacks equal to half this spell's level (rounded down).  
 >
 >***Slam.*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage (Air, Earth, and Water only) or fire damage (Fire only).

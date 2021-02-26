@@ -1,5 +1,6 @@
 # Omin Dran
->*Medium humanoid (half-elf), lawful neutral*
+>*Medium #humanoid (half-elf), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 65 (10d8 + 20)
@@ -13,7 +14,7 @@
 >- **Skills** Deception +4, Insight +7, Intimidation +4, Medicine +7, Perception +7, Persuasion +4
 >- **Senses** darkvision 60 ft., passive Perception 17
 >- **Languages** Common, Dwarvish, Elvish, Goblin
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Divine Strike.*** Once on each of his turns when he hits a creature with a weapon attack, Omin can cause the attack to deal an extra 4 (1d8) damage of the same type dealt by the weapon.  
 >
@@ -28,7 +29,7 @@
 >4th level (3 slots): death ward, freedom of movement, locate creature, stoneskin  
 >5th level (1 slot): dispel evil and good, flame strike, hold monster, greater restoration, legend lore  
 >
->### Actions
+## Actions
 >***Multiattack.*** Omin makes two attacks with his maul.  
 >
 >***Maul.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.  

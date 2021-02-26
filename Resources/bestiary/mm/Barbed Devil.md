@@ -1,5 +1,6 @@
 # Barbed Devil
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 110 (13d8 + 52)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 18
 >- **Languages** Infernal, telepathy 120 ft.
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.  
 >
@@ -24,7 +25,7 @@
 >
 >***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.  
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  

@@ -1,5 +1,6 @@
 # Dusk Hag
->*Medium fey, neutral evil*
+>*Medium #fey , , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 82 (15d8 + 15)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** blinded, charmed, frightened
 >- **Senses** blindsight 60 ft., passive Perception 16
 >- **Languages** Common, Giant, Infernal
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Innate Spellcasting.*** The hag's spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:  
 >
@@ -25,7 +26,7 @@
 >
 >***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hag makes two Nightmare Touch attacks.  
 >
 >***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  

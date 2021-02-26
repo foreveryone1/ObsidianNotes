@@ -1,5 +1,6 @@
 # Boggle
->*Small fey, chaotic neutral*
+>*Small #fey , , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 18 (4d6 + 4)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** fire
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Sylvan
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Boggle Oil.*** The boggle excretes nonflammable oil from its pores. The boggle chooses whether the oil is slippery or sticky and can change the oil on its skin from one consistency to another as a bonus action.  
 >Slippery Oil: While coated in slippery oil, the boggle gains advantage on Dexterity (Acrobatics) checks made to escape bonds, squeeze through narrow spaces, and end grapples.  
@@ -23,7 +24,7 @@
 >
 >***Uncanny Smell.*** The boggle has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Pummel.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage.  
 >
 >***Oil Puddle.*** The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is difficult terrain For all creatures except boggles and lasts for 1 hour.  
@@ -35,4 +36,4 @@ A boggle is born out of feelings of loneliness, materializing in a place where t
 ***Irksome Pests.***  Boggles engage in petty pranks to amuse themselves, passing the time at their hosts' expense. A boggle isn't above breaking dishes, hiding tools, making frightening sounds to startle cows and sour their milk, or hiding a baby in an attic. Although a boggle's antics might cause distress and unintentional harm, mischief-not mayhem-is usually its intent. If threatened, a boggle flees rather than stand and fight.
 ***Oily Excretions.***  A boggle excretes an oil from its pores and can make its oil slippery or sticky. The oil dries up and disappears an hour later.
 ***Twisting Space.***  A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is invisible and disappears after a few seconds-enough time for the boggle to step, reach, or attack through it.
-***Unreliable Allies.***  A boggle makes a decent servant for a strong-willed master, and wicked creatures such as fomorians and hags sometimes shelter boggles in their lairs. Warlocks who form pacts with archfey have also been known to command boggles, and charismatic individuals who make the right offers have enjoyed temporary alliances with these little tricksters. A bored boggle always finds some way to entertain itself.
+***Unreliable Allies.***  A boggle makes a decent servant for a strong-willed master, and wicked creatures such as fomorians and hags sometimes shelter boggles in their lairs. Warlocks who form pacts with arch#fey ,  have also been known to command boggles, and charismatic individuals who make the right offers have enjoyed temporary alliances with these little tricksters. A bored boggle always finds some way to entertain itself.

@@ -1,0 +1,33 @@
+
+/*
+*..........................15. Floating Images */
+img[alt*="left"] {
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+img[alt*="center"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+img[alt*="centre"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}

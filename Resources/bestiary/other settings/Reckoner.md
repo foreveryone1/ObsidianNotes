@@ -1,5 +1,6 @@
 # Reckoner
->*Medium humanoid (any race), lawful neutral*
+>*Medium #humanoid (any race), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 52 (8d8 + 16)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +4, Intimidation +2, Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** Common plus any one language
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***First Strike.*** The reckoner has advantage on initiative rolls.  
 >
@@ -23,7 +24,7 @@
 >2nd level (3 slots): blur, levitate  
 >3rd level (2 slots): lightning bolt  
 >
->### Actions
+## Actions
 >***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  
 >
 >### Reactions

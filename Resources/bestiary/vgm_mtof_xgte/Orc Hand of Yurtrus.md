@@ -1,5 +1,6 @@
 # Orc Hand of Yurtrus
->*Medium humanoid (orc), chaotic evil*
+>*Medium #humanoid (orc), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (hide armor)
 >- **Hit Points** 30 (4d8 + 12)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +2, Intimidation +1, Medicine +4, Religion +2
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** understands Common and Orc but can't speak
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >
@@ -22,7 +23,7 @@
 >1st level (4 slots): bane, detect magic, inflict wounds, protection from evil and good  
 >2nd level (3 slots): blindness/deafness, silence  
 >
->### Actions
+## Actions
 >***Touch of the White Hand.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8) necrotic damage.
 ## Orc Hand of Yurtrus
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.

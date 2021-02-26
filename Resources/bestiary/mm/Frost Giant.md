@@ -1,5 +1,6 @@
 # Frost Giant
->*Huge giant, neutral evil*
+>*Huge #giant , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (patchwork armor)
 >- **Hit Points** 138 (12d12 + 60)
@@ -14,9 +15,9 @@
 >- **Damage Immunities** cold
 >- **Senses** passive Perception 13
 >- **Languages** Giant
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two greataxe attacks.  
 >
 >***Greataxe.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.  

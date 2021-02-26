@@ -1,5 +1,6 @@
 # Kraul Warrior
->*Medium humanoid (kraul), neutral evil*
+>*Medium #humanoid (kraul), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 27 (5d8 + 5)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Kraul, understands Common but can't speak it
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Hive Mind.*** The kraul is immune to the charmed and frightened conditions while within 30 feet of at least one other kraul.  
 >
@@ -19,7 +20,7 @@
 >
 >***Spider Climb.*** The kraul can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Spear.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 ## Kraul Warrior
 Kraul society is organized into well-defined roles and castes. The vast majority of the kraul occupy various tiers of soldiery, from commanders and elite troops down to the lowliest infantry.

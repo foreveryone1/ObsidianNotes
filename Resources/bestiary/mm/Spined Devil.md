@@ -1,5 +1,6 @@
 # Spined Devil
->*Small fiend (devil), lawful evil*
+>*Small #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 22 (5d6 + 5)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** Infernal, telepathy 120 ft.
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >
@@ -24,7 +25,7 @@
 >
 >***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.  
 >
 >***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.  

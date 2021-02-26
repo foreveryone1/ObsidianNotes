@@ -1,5 +1,6 @@
 # Goblin Boss
->*Small humanoid (goblinoid), neutral evil*
+>*Small #humanoid (goblinoid), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (chain shirt, shield)
 >- **Hit Points** 21 (6d6)
@@ -12,11 +13,11 @@
 >- **Skills** Stealth +6
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** Common, Goblin
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The goblin makes two attacks with its scimitar. The second attack has disadvantage.  
 >
 >***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  

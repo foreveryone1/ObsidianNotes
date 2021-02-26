@@ -1,5 +1,6 @@
 # Shadow Horror
->*Large aberration, neutral evil*
+>*Large #aberration , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 120 (16d10 + 32)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** —
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Incorporeal Movement.*** The horror can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
@@ -24,7 +25,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The horror makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (4d8 + 3) piercing damage.  

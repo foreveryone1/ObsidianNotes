@@ -1,5 +1,6 @@
 # Aeorian Nullifier
->*Large monstrosity, neutral evil*
+>*Large #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 180 (19d10 + 76)
@@ -14,7 +15,7 @@
 >- **Damage Immunities** necrotic, radiant
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** understands Draconic but can't speak
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Horrid Gnashing.*** The nullifier's mouths gnash incoherently while it can see any enemies. Each creature that starts its turn within 20 feet of the nullifier and can hear it must make a DC 16 Wisdom saving throw. Unless the save succeeds, the creature rolls a d8 to determine what it does during the current turn:  
 >1-4: The creature is stunned until the end of the turn.  
@@ -29,7 +30,7 @@
 >
 >***Magic Resistance.*** The nullifier has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The nullifier makes three attacks: one with its bites and two with its claws.  
 >
 >***Bites.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 17 (2d12 + 4) piercing damage plus 11 (2d10) force damage.  

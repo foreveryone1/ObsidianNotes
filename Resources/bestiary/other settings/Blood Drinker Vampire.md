@@ -1,5 +1,6 @@
 # Blood Drinker Vampire
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 90 (12d8 + 36)
@@ -14,9 +15,9 @@
 >- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** the languages it knew in life
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The vampire makes three melee attacks, only one of which can be a bite attack.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. If the target is humanoid, it must succeed on a DC 15 Charisma saving throw or be charmed by the vampire for 1 minute. While charmed in this way, the target is infatuated with the vampire. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.  

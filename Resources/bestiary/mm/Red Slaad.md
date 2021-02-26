@@ -1,5 +1,6 @@
 # Red Slaad
->*Large aberration, chaotic neutral*
+>*Large #aberration , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 93 (11d10 + 33)
@@ -13,13 +14,13 @@
 >- **Damage Resistances** acid, cold, fire, lightning, thunder
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Slaad, telepathy 60 ft.
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.  
 >
 >***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.  

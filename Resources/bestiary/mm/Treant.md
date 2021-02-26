@@ -1,5 +1,6 @@
 # Treant
->*Huge plant, chaotic good*
+>*Huge #plant , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 138 (12d12 + 60)
@@ -13,13 +14,13 @@
 >- **Damage Resistances** bludgeoning, piercing
 >- **Senses** passive Perception 13
 >- **Languages** Common, Druidic, Elvish, Sylvan
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***False Appearance.*** While the treant remains motionless, it is indistinguishable from a normal tree.  
 >
 >***Siege Monster.*** The treant deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The treant makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.  

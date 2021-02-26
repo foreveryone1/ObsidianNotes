@@ -1,5 +1,6 @@
 # Harpy
->*Medium monstrosity, chaotic evil*
+>*Medium #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 38 (7d8 + 7)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** Common
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The harpy makes two attacks: one with its claws and one with its club.  
 >
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.  

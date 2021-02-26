@@ -1,5 +1,6 @@
 # Booyahg Slave of the Fiend
->*Small humanoid (goblinoid), any alignment*
+>*Small #humanoid (goblinoid), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** slashing from nonmagical attacks not made with silvered weapons
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** any two languages (usually Abyssal or Infernal), Goblin
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Dark One's Own Luck (Recharges after a Short or Long Rest).*** When the goblin makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.  
 >
@@ -31,7 +32,7 @@
 >Cantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusion, prestidigitation, shocking grasp  
 >1st-5th level (4 5th-level slots): banishment, burning hands, flame strike, hellish rebuke, magic circle, scorching ray, scrying, stinking cloud, suggestion, wall of fire  
 >
->### Actions
+## Actions
 >***Mace.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage.
 ## Booyahg Slave of the Fiend
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the Sword Coast Adventurer's Guide).

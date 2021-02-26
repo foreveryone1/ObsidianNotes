@@ -1,5 +1,6 @@
 # Storm Giant Quintessent
 >*Huge giant (storm giant), chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 230 (20d12 + 100)
@@ -15,18 +16,18 @@
 >- **Damage Immunities** lightning, thunder
 >- **Senses** truesight 60 ft., passive Perception 20
 >- **Languages** Common, Giant
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Amphibious.*** The giant can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two Lightning Sword attacks or uses Wind Javelin twice.  
 >
 >***Lightning Sword.*** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 40 (9d6 + 9) lightning damage.  
 >
 >***Windjavelin.*** The giant coalesces wind into a javelin-like form and hurls it at a creature it can see within 600 feet of it. The javelin is considered a magic weapon and deals 19 (3d6 + 9) piercing damage to the target, striking unerringly. The javelin disappears after it hits.  
 >
->### Legendary Actions
+## Legendary Actions
 >The storm giant quintessent can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The storm giant quintessent regains spent legendary actions at the start of its turn.
 >
 >- **Gust.** The giant targets a creature it can see within 60 feet of it and creates a magical gust of wind around it. The target must succeed on a DC 18 Strength saving throw or be pushed up to 20 feet in any horizontal direction the giant chooses.
@@ -37,7 +38,7 @@ To forestall the inevitable, some storm giants approaching the end of their natu
 ***Elemental Weapons.***  A storm giant quintessent sheds its armor and weapons, but gains the power to form makeshift weapons out of thin air. When the giant has no further use of them, or when the giant dies, its elemental weapons disappear.
 ***Forsaken Form.***  A storm giant quintessent can revert to its true giant form on a whim. The change is temporary but can be maintained long enough for the giant to communicate with a mortal, carry out a short task, or defend its home against aggressors.
 ***A Quintessent's Lair.*** A storm giant quintessent has no need for castles or dungeon lairs. Its lair is usually a secluded region or prominent geographic feature, such as a mountain peak, a great waterfall, a remote island, a fog-shrouded loch, a beautiful coral reef, or a windswept desert bluff. As befits the environment, the storm in which the giant lives could be a blizzard, a typhoon, a thunderstorm, or a sandstorm.
-#### Lair Actions
+## Lair Actions
 A storm giant quintessent can use lair actions in giant form and while transformed into a storm. On initiative count 20 (losing initiative ties), the giant can take a lair action to cause one of the following effects; the giant can't use the same effect two rounds in a row:
 - The giant creates a thunderclap centered on a point anywhere in its lair. Each creature within 20 feet of that point must succeed on a DC 18 Constitution saving throw or be deafened until the end of its next turn.
 - The giant creates a 20-foot-radius sphere of fog (or murky water within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is heavily obscured. The fog lasts until the giant disperses it (no action required), and it can't be dispersed by wind.

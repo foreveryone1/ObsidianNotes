@@ -1,5 +1,6 @@
 # Grell
->*Medium aberration, neutral evil*
+>*Medium #aberration , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 55 (10d8 + 10)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** blinded, prone
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 14
 >- **Languages** Grell
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The grell makes two attacks: one with its tentacles and one with its beak.  
 >
 >***Tentacles.*** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The poisoned target is paralyzed, and it can repeat the saving throw at the end of each of its turns, ending the effect on a success.  

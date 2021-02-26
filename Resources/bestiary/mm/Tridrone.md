@@ -1,5 +1,6 @@
 # Tridrone
->*Medium construct, lawful neutral*
+>*Medium #construct , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 16 (3d8 + 3)
@@ -11,13 +12,13 @@
 >___
 >- **Senses** truesight 120 ft., passive Perception 10
 >- **Languages** Modron
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Axiomatic Mind.*** The tridrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >
 >***Disintegration.*** If the tridrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The tridrone makes three fist attacks or three javelin attacks.  
 >
 >***Fist.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.  

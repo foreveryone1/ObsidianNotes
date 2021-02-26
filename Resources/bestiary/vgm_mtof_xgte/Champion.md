@@ -1,5 +1,6 @@
 # Champion
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 143 (22d8 + 44)
@@ -13,13 +14,13 @@
 >- **Skills** Athletics +9, Intimidation +5, Perception +6
 >- **Senses** passive Perception 16
 >- **Languages** any one language (usually Common)
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Indomitable (2/Day).*** The champion rerolls a failed saving throw.  
 >
 >***Second Wind (Recharges after a Short or Long Rest).*** As a bonus action, the champion can regain 20 hit points.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The champion makes three attacks with its greatsword or its shortbow.  
 >
 >***Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.  

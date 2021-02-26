@@ -1,5 +1,6 @@
 # Martial Arts Adept
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 16
 >- **Hit Points** 60 (11d8 + 11)
@@ -12,11 +13,11 @@
 >- **Skills** Acrobatics +5, Insight +5, Stealth +5
 >- **Senses** passive Perception 13
 >- **Languages** any one language (usually Common)
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Unarmored Defense.*** While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The adept makes three unarmed strikes or three dart attacks.  
 >
 >***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the target is a creature, the adept can choose one of the following additional effects:  

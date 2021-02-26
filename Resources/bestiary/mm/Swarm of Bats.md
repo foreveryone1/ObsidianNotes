@@ -1,5 +1,6 @@
 # Swarm of Bats
 >*Medium swarm of tiny beasts, unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 22 (5d8)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 >- **Senses** blindsight 60 ft., passive Perception 11
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Echolocation.*** The swarm can't use its blindsight while deafened.  
 >
@@ -21,7 +22,7 @@
 >
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.  
 >
->### Actions
+## Actions
 >***Bites.*** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 ## Swarm of Bats
 > ##### The Nature of Swarms

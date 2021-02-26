@@ -1,5 +1,6 @@
 # Erinyes
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 153 (18d8 + 72)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 12
 >- **Languages** Infernal, telepathy 120 ft.
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).  
 >
 >***Magic Resistance.*** The erinyes has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The erinyes makes three attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.  

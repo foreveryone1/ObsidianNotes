@@ -1,5 +1,6 @@
 # Archon of the Triumvirate
->*Medium celestial, lawful neutral*
+>*Medium #celestial , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 144 (17d8 + 68)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** darkvision 120 ft., passive Perception 20
 >- **Languages** all
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Eye of the Law.*** As a bonus action, the archon can target a creature it can see within 120 feet of it and determine which laws that creature has broken in the last 24 hours.  
 >
@@ -26,14 +27,14 @@
 >
 >***Mount.*** If the archon isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the archon and its mount are on the same plane of existence. When it teleports, the archon appears astride the mount along with any equipment it is wearing or carrying. While mounted and not incapacitated, the archon can't be surprised, and both it and its mount gain advantage on Dexterity saving throws. If the archon is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The archon makes two Hammer of Justice attacks.  
 >
 >***Hammer of Justice.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 18 (4d8) force damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.  
 >
 >***Pacifying Presence.*** Each creature of the archon's choice that the archon can see within 120 feet of it must succeed on a DC 18 Wisdom saving throw, or else the target drops any weapons it is holding, ends its concentration on any spells or other effects, and becomes charmed by the archon for 1 minute. The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the archon's Pacifying Presence for the next 24 hours.  
 >
->### Legendary Actions
+## Legendary Actions
 >The archon of the triumvirate can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The archon of the triumvirate regains spent legendary actions at the start of its turn.
 >
 >- **Rejoin Mount.** If the archon isn't mounted, it magically teleports to its steed and mounts it as long as the archon and its steed are on the same plane of existence.

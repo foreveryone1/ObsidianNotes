@@ -1,5 +1,6 @@
 # Dao
->*Large elemental, neutral evil*
+>*Large #elemental , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 187 (15d10 + 105)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** petrified
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Terran
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.  
 >
@@ -28,7 +29,7 @@
 >
 >***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The Dao makes two fist attacks or two maul attacks.  
 >
 >***Fist.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.  

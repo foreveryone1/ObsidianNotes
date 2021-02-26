@@ -1,5 +1,6 @@
 # Sahuagin
->*Medium humanoid (sahuagin), lawful evil*
+>*Medium #humanoid (sahuagin), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +5
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Sahuagin
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -20,7 +21,7 @@
 >
 >***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.  
 >
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.  

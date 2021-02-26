@@ -1,5 +1,6 @@
 # Hobgoblin Devastator
->*Medium humanoid (goblinoid), lawful evil*
+>*Medium #humanoid (goblinoid), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (studded leather armor)
 >- **Hit Points** 45 (7d8 + 14)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +5
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Common, Goblin
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Arcane Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.  
 >
@@ -26,7 +27,7 @@
 >3rd level (3 slots): fireball, fly, lightning bolt  
 >4th level (1 slot): ice storm  
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands.
 ## Hobgoblin Devastator
 In hobgoblin society, the Academy of Devastation identifies hobgoblins with a talent for magic and puts them through a grueling training regimen that endows them with the ability to call down fireballs and other destructive magic on the host's behalf. A hobgoblin devastator on the battlefield is simultaneously a boon to all its allies and a threat to every foe around it.

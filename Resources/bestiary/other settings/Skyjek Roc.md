@@ -1,5 +1,6 @@
 # Skyjek Roc
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (breastplate)
 >- **Hit Points** 37 (5d10 + 10)
@@ -13,11 +14,11 @@
 >- **Skills** Perception +2
 >- **Senses** passive Perception 12
 >- **Languages** —
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Keen Sight.*** The roc has advantage on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The roc makes two attacks: one with its beak and one with its talons.  
 >
 >***Beak.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.  

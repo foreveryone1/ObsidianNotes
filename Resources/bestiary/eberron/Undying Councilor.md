@@ -1,5 +1,6 @@
 # Undying Councilor
->*Medium undead, neutral good*
+>*Medium #undead , neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 104 (16d8 + 32)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 19
 >- **Languages** Common, Elvish
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Aura of Radiance.*** The councilor magically sheds bright light in a 15-foot radius and dim light for an additional 15 feet. The councilor can extinguish or restore this light as a bonus action. If the bright light overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created that darkness is dispelled.  
 >
@@ -33,7 +34,7 @@
 >6th level (1 slot): forbiddance, planar ally  
 >7th level (1 slot): plane shift  
 >
->### Actions
+## Actions
 >***Multiattack.*** The councilor makes two Radiant Touch attacks.  
 >
 >***Radiant Touch.*** Melee Spell Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) radiant damage.  
@@ -42,7 +43,7 @@
 >
 >***Flame Strike (5th-Level Spell; Requires a Spell Slot).*** The councilor chooses a point it can see within 60 feet of it. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on that point must make a DC 17 Dexterity saving throw. A creature takes 14 (4d6) fire damage and 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one. If the councilor casts this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (its choice) increases by 1d6 for each slot level above 5th.  
 >
->### Legendary Actions
+## Legendary Actions
 >The undying councilor can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undying councilor regains spent legendary actions at the start of its turn.
 >
 >- **Touch.** The councilor makes one attack with its Radiant Touch.

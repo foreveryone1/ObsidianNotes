@@ -1,5 +1,6 @@
 # Fiendish Spirit
->*Large fiend, unaligned*
+>*Large #fiend , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12 + the level of the spell (natural armor)
 >- **Hit Points** 50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell level above 6th
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Magic Resistance.*** The fiend has advantage on saving throws against spells and other magical effects.  
 >
@@ -22,7 +23,7 @@
 >
 >***Devil's Sight (Devil Only).*** Magical darkness doesn't impede the fiend's darkvision.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The fiend makes a number of attacks equal to half this spell's level (rounded down).  
 >
 >***Bite (Demon Only).*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level necrotic damage.  

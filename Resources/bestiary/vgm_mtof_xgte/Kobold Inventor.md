@@ -1,5 +1,6 @@
 # Kobold Inventor
->*Small humanoid (kobold), lawful evil*
+>*Small #humanoid (kobold), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 13 (3d6 + 3)
@@ -12,13 +13,13 @@
 >- **Skills** Perception +0
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common, Draconic
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  
 >
 >***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.  

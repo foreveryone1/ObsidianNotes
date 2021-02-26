@@ -1,5 +1,6 @@
 # Wyvern
->*Large dragon, unaligned*
+>*Large #dragon , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 110 (13d10 + 39)
@@ -12,9 +13,9 @@
 >- **Skills** Perception +4
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** —
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.  

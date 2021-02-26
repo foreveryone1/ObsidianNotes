@@ -1,5 +1,6 @@
 # Two-Headed Cerberus
->*Medium monstrosity, lawful evil*
+>*Medium #monstrosity , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 39 (6d8 + 12)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, stunned
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** —
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.  
 >
@@ -22,7 +23,7 @@
 >
 >***Pack Tactics.*** The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The cerberus makes two bite attacks.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 2 (1d4) fire damage.  

@@ -1,5 +1,6 @@
 # Nilbog
->*Small humanoid (goblinoid), chaotic evil*
+>*Small #humanoid (goblinoid), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 7 (2d6)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +6
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** Common, Goblin
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The nilbog's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:  
 >
@@ -24,7 +25,7 @@
 >
 >***Nimble Escape.*** The nilbog can take the Disengage or Hide action as a bonus action on each of its turns.  
 >
->### Actions
+## Actions
 >***Fool's Scepter.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.  
 >
 >***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

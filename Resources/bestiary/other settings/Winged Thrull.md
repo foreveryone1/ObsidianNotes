@@ -1,5 +1,6 @@
 # Winged Thrull
->*Small construct, unaligned*
+>*Small #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 31 (7d6 + 7)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** understands Common but can't speak
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.  
 >
 >***Rock.*** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.  

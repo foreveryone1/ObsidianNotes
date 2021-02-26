@@ -1,5 +1,6 @@
 # Ankylosaurus
->*Huge beast, unaligned*
+>*Huge #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 68 (8d12 + 16)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** passive Perception 11
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
->### Actions
+## Actions
 >***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 ## Ankylosaurus
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.

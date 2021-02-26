@@ -1,5 +1,6 @@
 # Sharkbody Abomination
->*Large aberration, unaligned*
+>*Large #aberration , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 45 (6d10 + 12)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +2
 >- **Senses** blindsight 30 ft., passive Perception 12
 >- **Languages** —
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Blood Frenzy.*** The abomination has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -20,7 +21,7 @@
 >
 >***Water Breathing.*** The abomination can breathe only underwater.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 ## Sharkbody Abomination
 The sahuagin shaman Selachai tapped into Uk'otoa's magic to wreak vengeance on the shark hunters of Palma Flora. The unfortunate hunters who failed to escape were transformed into monstrosities with coarse grayish skin, the head of a shark, and a muscular, humanoid physique. These creatures possess all their previous intelligence and personality, but they respond to the control of their sahuagin masters' Shark Telepathy.

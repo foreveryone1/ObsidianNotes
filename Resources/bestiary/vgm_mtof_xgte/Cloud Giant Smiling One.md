@@ -1,5 +1,6 @@
 # Cloud Giant Smiling One
 >*Huge giant (cloud giant), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 262 (21d12 + 128)
@@ -13,7 +14,7 @@
 >- **Skills** Deception +11, Insight +7, Perception +7, Sleight of Hand +9
 >- **Senses** passive Perception 17
 >- **Languages** Common, Giant
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:  
 >
@@ -31,7 +32,7 @@
 >2nd level (3 slots): invisibility, suggestion  
 >3rd level (2 slots): major image, tongues  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two attacks with its morningstar.  
 >
 >***Morningstar.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.  

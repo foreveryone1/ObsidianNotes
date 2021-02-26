@@ -1,5 +1,6 @@
 # Froghemoth
->*Huge monstrosity, unaligned*
+>*Huge #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 184 (16d12 + 80)
@@ -14,13 +15,13 @@
 >- **Damage Resistances** fire, lightning
 >- **Senses** darkvision 60 ft., passive Perception 19
 >- **Languages** —
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Amphibious.*** The froghemoth can breathe air and water.  
 >
 >***Shock Susceptibility.*** If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite.  
 >
 >***Tentacle.*** Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage, and the target is grappled (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles.  

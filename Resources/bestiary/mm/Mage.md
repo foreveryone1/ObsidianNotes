@@ -1,5 +1,6 @@
 # Mage
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +6, History +6
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:  
 >
@@ -24,7 +25,7 @@
 >4th level (3 slots): greater invisibility, ice storm  
 >5th level (1 slot): cone of cold  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 ## Mage
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.

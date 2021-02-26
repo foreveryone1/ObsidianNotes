@@ -1,5 +1,6 @@
 # Astral Dreadnought
 >*Gargantuan monstrosity (titan), unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 297 (17d20 + 119)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
 >- **Senses** darkvision 120 ft., passive Perception 19
 >- **Languages** —
->- **Challenge** 21 (33,000 XP)
+>- #cr21 (33,000 XP)
 >___
 >***Antimagic Cone.*** The astral dreadnought's opened eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the dreadnought decides which way the cone faces. The cone doesn't function while the dreadnought's eye is closed or while the dreadnought is blinded.  
 >
@@ -30,14 +31,14 @@
 >
 >***Sever Silver Cord.*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target's silver cord instead of dealing damage.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The astral dreadnought makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36 (5d10 + 9) piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.  
 >
 >***Claw.*** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19 (3d6 + 9) slashing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The astral dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The astral dreadnought regains spent legendary actions at the start of its turn.
 >
 >- **Claw.** The astral dreadnought makes one claw attack.

@@ -1,5 +1,6 @@
 # Sea Spawn
->*Medium humanoid, neutral evil*
+>*Medium #humanoid , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 32 (5d8 + 10)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** understands Aquan and Common but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Limited Amphibiousness.*** The sea spawn can breathe air and water, but needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sea spawn makes three attacks: two unarmed strikes and one with its Piscine Anatomy.  
 >
 >***Unarmed Strike.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.  

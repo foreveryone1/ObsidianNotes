@@ -1,5 +1,6 @@
 # Adult Bronze Dragon
->*Huge dragon, lawful good*
+>*Huge #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 212 (17d12 + 102)
@@ -14,13 +15,13 @@
 >- **Damage Immunities** lightning
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 >- **Languages** Common, Draconic
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage.  
@@ -40,7 +41,7 @@
 >***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).  
 >In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.  
 >
->### Legendary Actions
+## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The dragon makes a Wisdom (Perception) check.
@@ -77,7 +78,7 @@ Dragon Age Categories
 | Young | Large | 6–100 years |
 | Adult | Huge | 101–800 years |
 | Ancient | Gargantuan | 801 years or more |
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 - The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.
 - A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.

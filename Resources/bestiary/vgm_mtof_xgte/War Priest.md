@@ -1,5 +1,6 @@
 # War Priest
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 117 (18d8 + 36)
@@ -13,7 +14,7 @@
 >- **Skills** Intimidation +5, Religion +4
 >- **Senses** passive Perception 13
 >- **Languages** any two languages
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Spellcasting.*** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:  
 >
@@ -24,7 +25,7 @@
 >4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin  
 >5th level (1 slot): flame strike, mass cure wounds, hold monster  
 >
->### Actions
+## Actions
 >***Multiattack.*** The priest makes two melee attacks.  
 >
 >***Maul.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.  

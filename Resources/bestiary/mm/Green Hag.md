@@ -1,5 +1,6 @@
 # Green Hag
->*Medium fey, neutral evil*
+>*Medium #fey , , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 82 (11d8 + 33)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Draconic, Sylvan
->- **Challenge** 3 (700 XP) or 5 (1,800 XP) when part of a coven
+>- #cr3 (700 XP) or 5 (1,800 XP) when part of a coven
 >___
 >***Amphibious.*** The hag can breathe air and water.  
 >
@@ -41,7 +42,7 @@
 >For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.  
 >
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  
 >
 >***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.  

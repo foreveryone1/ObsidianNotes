@@ -1,5 +1,6 @@
 # Viari
->*Medium humanoid (human), chaotic good*
+>*Medium #humanoid (human), chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (+1 studded leather; 19 (+1 studded leather) while wielding two melee weapons)
 >- **Hit Points** 65 (10d8 + 20)
@@ -13,7 +14,7 @@
 >- **Skills** Acrobatics +11, Athletics +7, Perception +5, Performance +5, Persuasion +5, Sleight of Hand +11, Stealth +8
 >- **Senses** passive Perception 15
 >- **Languages** Common, Draconic, Thieves' cant
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Evasion.*** If Viari is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's incapacitated.  
 >
@@ -21,7 +22,7 @@
 >
 >***Sneak Attack (1/Turn).*** Viari deals an extra 14 (4d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Viari that isn't incapacitated and Viari doesn't have disadvantage on the attack roll.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Viari makes two attacks with his shortsword and two attacks with his rapier.  
 >
 >***+1 Shortsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) piercing damage.  

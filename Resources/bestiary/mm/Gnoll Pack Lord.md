@@ -1,5 +1,6 @@
 # Gnoll Pack Lord
->*Medium humanoid (gnoll), chaotic evil*
+>*Medium #humanoid (gnoll), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 49 (9d8 + 9)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Gnoll
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage.  

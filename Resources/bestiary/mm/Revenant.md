@@ -1,5 +1,6 @@
 # Revenant
->*Medium undead, neutral*
+>*Medium #undead , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 136 (16d8 + 64)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** the languages it knew in life
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Regeneration.*** The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.  
 >
@@ -25,7 +26,7 @@
 >
 >***Vengeful Tracker.*** The revenant knows the distance to and direction of any creature against which it seeks revenge, even if the creature and the revenant are on different planes of existence. If the creature being tracked by the revenant dies, the revenant knows.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The revenant makes two fist attacks.  
 >
 >***Fist.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a creature against which the revenant has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, the revenant can grapple the target (escape DC 14) provided the target is Large or smaller.  

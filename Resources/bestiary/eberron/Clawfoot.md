@@ -1,5 +1,6 @@
 # Clawfoot
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 19 (3d8 + 6)
@@ -12,13 +13,13 @@
 >- **Skills** Perception +3, Stealth +5
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Pack Tactics.*** The clawfoot has advantage on an attack roll against a creature if at least one of the clawfoot's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
 >***Pounce.*** If the clawfoot moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 11 Strength saving throw or be knocked prone. If the target is prone, the clawfoot can make one bite attack against it as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The clawfoot makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.  

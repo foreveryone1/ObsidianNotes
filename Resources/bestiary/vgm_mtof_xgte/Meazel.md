@@ -1,5 +1,6 @@
 # Meazel
->*Medium humanoid (meazel), lawful evil*
+>*Medium #humanoid (meazel), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 35 (10d8 - 10)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3, Stealth +5
 >- **Senses** darkvision 120 ft., passive Perception 13
 >- **Languages** Common
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Shadow Stealth.*** While in dim light or darkness, the meazel can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Garrote.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target of the meazel's size or smaller. Hit: 6 (1d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (2d6 + 3) bludgeoning damage at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.  
 >
 >***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, plus 3 (1d6) necrotic damage.  
@@ -27,4 +28,4 @@
 ***Meazel.*** In places where the Shadowfell washes against the shores of the Material Plane dwell meazels, hateful hermits who left behind their old lives to contemplate their misery in shadow. Now evil burns in their hearts, and they resent any intrusion into their suffering.
 ***Hateful Hermit.*** Meazels are all that remain of people who fled into the Shadowfell to escape their mortal existence. There the darkness transformed them, and their bitterness made them twisted and cruel. Now, they loiter near Shadowfell crossings to waylay travelers who venture too close to their lairs.
 ***Divide and Conquer.*** The stain of darkness responsible for the existence of meazels imparts to them magical powers that allow them to move through shadows with ease. Merely stepping into one pool of darkness allows a meazel to move to another one. They use this talent to ambush creatures, snatching them around the throat with their strangling cords and then stepping away. Meazels also use this ability to ferry their victims to isolated spots and then leave the hapless souls to the designs of whatever horrors lurk there.
-Creatures that are drawn through the shadows by meazels are cursed by the meazels' baleful magic. The curse acts as a beacon; sorrowsworn, undead, and other terrors sense where they are located and descend on the stranded victims to tear them apart.
+Creatures that are drawn through the shadows by meazels are cursed by the meazels' baleful magic. The curse acts as a beacon; sorrowsworn, #undead , and other terrors sense where they are located and descend on the stranded victims to tear them apart.

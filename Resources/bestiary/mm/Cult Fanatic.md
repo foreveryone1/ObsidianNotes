@@ -1,5 +1,6 @@
 # Cult Fanatic
->*Medium humanoid (any race), any non-good alignment*
+>*Medium #humanoid (any race), any non-good alignment*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 33 (6d8 + 6)
@@ -12,7 +13,7 @@
 >- **Skills** Deception +4, Persuasion +4, Religion +2
 >- **Senses** passive Perception 11
 >- **Languages** any one language (usually Common)
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.  
 >
@@ -22,7 +23,7 @@
 >1st level (4 slots): command, inflict wounds, shield of faith  
 >2nd level (3 slots): hold person, spiritual weapon  
 >
->### Actions
+## Actions
 >***Multiattack.*** The fanatic makes two melee attacks.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.

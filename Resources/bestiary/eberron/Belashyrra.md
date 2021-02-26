@@ -1,5 +1,6 @@
 # Belashyrra
->*Medium aberration, chaotic evil*
+>*Medium #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 304 (32d8 + 160)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** blinded, charmed, exhaustion, frightened, poisoned, prone
 >- **Senses** truesight 120 ft., passive Perception 23
 >- **Languages** Deep Speech, telepathy 120 ft.
->- **Challenge** 22 (41,000 XP) or 23 (50,000 XP) when encountered in lair
+>- #cr22 (41,000 XP) or 23 (50,000 XP) when encountered in lair
 >___
 >***Alien Mind.*** If a creature tries to read Belashyrra's thoughts or deals psychic damage to it, that creature must succeed on a DC 22 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
@@ -29,7 +30,7 @@
 >
 >***Teleport.*** As a bonus action, Belashyrra can teleport up to 30 feet to an unoccupied space it can see.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Belashyrra makes two attacks with its claws and uses its Eye Ray once.  
 >
 >***Claw.*** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) slashing damage.  
@@ -43,7 +44,7 @@
 >
 >- **4. Blinding Ray.** The target and each creature within 10 feet of it must succeed on a DC 22 Constitution saving throw or take 19 (3d12) radiant damage and be blinded for 1 minute. Until this blindness ends, Belyshyrra can see through the blinded creature's eyes. The blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->### Legendary Actions
+## Legendary Actions
 >Belashyrra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Belashyrra regains spent legendary actions at the start of its turn.
 >
 >- **Claw.** Belashyrra makes one claw attack.
@@ -68,7 +69,7 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
 | 4 | "When I close my eyes, I see my past misdeeds." |
 | 5 | "I don't trust my sight. I have no idea what's real and what's a hallucination." |
 | 6 | "Something watches the world through my eyes. To thwart them, I keep my eyes closed or covered." |
-#### Lair Actions
+## Lair Actions
 While within the Citadel of Lidless Eyes, Belashyrra can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Belashyrra can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:
 - An eye opens on a solid surface within 60 feet of Belashyrra. One random eye ray of Belashyrra's shoots from that eye at a target of Belashyrra's choice that it can see. The eye then closes and disappears.
 - Belashyrra creates a wave of madness. Each creature it can see within its lair must succeed on a DC 22 Wisdom saving throw or be charmed for 1 minute. While charmed in this way, a creature must use its action at the start of its turn before moving to make a melee attack against another creature of Belashyrra's choice within reach. If there are no creatures within reach, the charmed creature can act normally for that turn. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

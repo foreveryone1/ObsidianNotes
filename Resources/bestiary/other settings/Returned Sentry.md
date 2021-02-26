@@ -1,5 +1,6 @@
 # Returned Sentry
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (leather armor, shield)
 >- **Hit Points** 22 (4d8 + 4)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** passive Perception 11
 >- **Languages** the languages it knew in life
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Pack Tactics.*** The Returned has advantage on an attack roll against a creature if at least one of the Returned's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
@@ -22,7 +23,7 @@
 >
 >***Unreadable Face.*** The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.  
 >
->### Actions
+## Actions
 >***Spear.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 7 (2d6) poison damage.  
 >
 >***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.

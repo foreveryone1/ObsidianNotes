@@ -1,5 +1,6 @@
 # Star Spawn Seer
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 153 (18d8 + 72)
@@ -16,11 +17,11 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 60 ft., passive Perception 19
 >- **Languages** Common, Deep Speech, Undercommon
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Out-of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain. Each creature it moves through takes 5 (1d10) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The seer makes two comet staff attacks or uses Psychic Orb twice.  
 >
 >***Comet Staff.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) bludgeoning damage plus 18 (4d8) psychic damage, or 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) psychic damage, if used with two hands, and the target must succeed on a DC 19 Constitution saving throw or be incapacitated until the end of its next turn.  

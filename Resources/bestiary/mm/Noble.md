@@ -1,5 +1,6 @@
 # Noble
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 15 (breastplate)
 >- **Hit Points** 9 (2d8)
@@ -12,9 +13,9 @@
 >- **Skills** Deception +5, Insight +4, Persuasion +5
 >- **Senses** passive Perception 12
 >- **Languages** any two languages
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
->### Actions
+## Actions
 >***Rapier.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
 >
 >### Reactions

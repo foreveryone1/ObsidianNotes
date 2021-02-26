@@ -1,5 +1,6 @@
 # Zakya Rakshasa
->*Medium fiend, lawful evil*
+>*Medium #fiend , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (scale mail, shield)
 >- **Hit Points** 59 (7d8 + 28)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Infernal
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 11). The rakshasa can innately cast the following spells, requiring no material components:  
 >
@@ -28,7 +29,7 @@
 >
 >***Martial Prowess (1/Turn).*** When the rakshasa hits a creature with a melee weapon attack, the attack deals an extra 11 (2d10) damage of the weapon's type, and the creature must make a DC 15 Strength saving throw. On a failure, the rakshasa can push the creature up to 10 feet away from it, knock the creature prone, or make the creature drop one item it is holding of the rakshasa's choice.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The rakshasa makes three melee weapon attacks. Alternatively, it can make two ranged attacks with its javelins.  
 >
 >***Longsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.  

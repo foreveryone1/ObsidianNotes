@@ -1,5 +1,6 @@
 # Bandit Captain
->*Medium humanoid (any race), any non-lawful alignment*
+>*Medium #humanoid (any race), any non-lawful alignment*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 65 (10d8 + 20)
@@ -13,9 +14,9 @@
 >- **Skills** Athletics +4, Deception +4
 >- **Senses** passive Perception 10
 >- **Languages** any two languages
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.  
 >
 >***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  

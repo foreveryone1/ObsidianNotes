@@ -1,5 +1,6 @@
 # Invisible Stalker
->*Medium elemental, neutral*
+>*Medium #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 104 (16d8 + 32)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 18
 >- **Languages** Auran, understands Common but doesn't speak it
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Faultless Tracker.*** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.  
 >
 >***Invisibility.*** The stalker is invisible.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The stalker makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.

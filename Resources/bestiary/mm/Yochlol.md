@@ -1,5 +1,6 @@
 # Yochlol
->*Medium fiend (demon, shapechanger), chaotic evil*
+>*Medium #fiend (demon, shapechanger), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 136 (16d8 + 64)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** Abyssal, Elvish, Undercommon
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Shapechanger.*** The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
@@ -32,7 +33,7 @@
 >
 >***Web Walker.*** The yochlol ignores movement restrictions caused by webbing.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The yochlol makes two melee attacks.  
 >
 >***Slam (Bite in Spider Form).*** Melee Weapon Attack: +6 to hit, reach 5 ft. (10 feet in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.  

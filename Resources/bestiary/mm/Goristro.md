@@ -1,5 +1,6 @@
 # Goristro
->*Huge fiend (demon), chaotic evil*
+>*Huge #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 310 (23d12 + 161)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** Abyssal
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.  
 >
@@ -26,7 +27,7 @@
 >
 >***Siege Monster.*** The goristro deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The goristro makes three attacks: two with its fists and one with its hoof.  
 >
 >***Fist.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.  

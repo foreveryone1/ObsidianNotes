@@ -1,5 +1,6 @@
 # Titivilus
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 127 (17d8 + 51)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:  
 >
@@ -35,7 +36,7 @@
 >
 >***Ventriloquism.*** Whenever Titivilus speaks, he can choose a point within 60 feet; his voice emanates from that point.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Titivilus makes one sword attack and uses his Frightful Word once.  
 >
 >***Silver Sword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 16 (3d10) necrotic damage, or 9 (1d10 + 4) slashing damage plus 16 (3d10) necrotic damage if used with two hands. If the target is a creature, its hit point maximum is reduced by an amount equal to half the necrotic damage it takes.  
@@ -46,7 +47,7 @@
 >
 >***Twisting Words.*** Titivilus targets one creature he can see within 60 feet of him. The target must make a DC 21 Charisma saving throw. On a failure the target is charmed for 1 minute. The charmed target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.  
 >
->### Legendary Actions
+## Legendary Actions
 >Titivilus can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Titivilus regains spent legendary actions at the start of its turn.
 >
 >- **Assault (Costs 2 Actions).** Titivilus attacks with his silver sword or uses his Frightful Word.

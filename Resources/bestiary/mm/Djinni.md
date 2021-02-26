@@ -1,5 +1,6 @@
 # Djinni
->*Large elemental, chaotic good*
+>*Large #elemental , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 161 (14d10 + 84)
@@ -13,7 +14,7 @@
 >- **Damage Immunities** lightning, thunder
 >- **Senses** darkvision 120 ft., passive Perception 13
 >- **Languages** Auran
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.  
 >
@@ -23,7 +24,7 @@
 >3/day each: create food and water (can create wine instead of water), tongues, wind walk  
 >1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift  
 >
->### Actions
+## Actions
 >***Multiattack.*** The djinni makes three scimitar attacks.  
 >
 >***Scimitar.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).  

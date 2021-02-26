@@ -1,5 +1,6 @@
 # Skittering Horror
->*Huge aberration, neutral evil*
+>*Huge #aberration , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 228 (24d12 + 72)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** —
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Spider Climb.*** The horror can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The horror can use its Maddening Presence and make three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (4d10 + 6) piercing damage.  

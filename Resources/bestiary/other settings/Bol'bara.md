@@ -1,5 +1,6 @@
 # Bol'bara
->*Small humanoid (goblinoid), chaotic good (chaotic evil when fully possessed)*
+>*Small #humanoid (goblinoid), chaotic good (chaotic evil when fully possessed)*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor; 15 with mage armor)
 >- **Hit Points** 40 (9d6 + 9)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Common, Goblin
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Dark One's Blessing.*** When Bol'bara reduces a hostile creature to 0 hit points, she gains 6 temporary hit points.  
 >
@@ -23,14 +24,14 @@
 >
 >***Nimble Escape.*** Bol'bara can take the Disengage or Hide action as a bonus action on each of her turns.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Bol'bara makes two melee attacks.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  
 >
 >***Eldritch Blast (Cantrip).*** Ranged Spell Attack: +4 to hit, range 120 ft., one creature. Hit: 7 (1d10 + 2) force damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The bol'bara can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The bol'bara regains spent legendary actions at the start of its turn.
 >
 >- **Incorporeal Dash.** Bol'bara moves up to her speed. She can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.

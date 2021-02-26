@@ -1,5 +1,6 @@
 # Aeorian Reverser
->*Large monstrosity, neutral evil*
+>*Large #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 133 (14d10 + 56)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** necrotic, radiant
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** understands Draconic but can't speak
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Magic Resistance.*** The reverser has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The reverser makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, range 5 ft., one creature. Hit: 11 (1d12 + 5) piercing damage plus 6 (1d12) force damage.  
@@ -29,7 +30,7 @@
 >***Reversal.*** When a creature the reverser can see within 30 feet of it regains hit points, the reverser reduces the number of hit points regained to 0, and the reverser deals 13 (3d8) force damage to the creature.
 ## Aeorian Reverser
 A reverser is a terrible foe in melee, laying into other creatures with teeth and claw. But the chaos it imposes is more fearful by far, as its enemies' healing magic are unraveled and turned against them.
-Brought to life by mages in the flying city of Aeor during the Age of Arcanum, Aeorian hunters were created to take on angels, demons, devils, fey, and the gods themselves. When Aeor crashed into Eiselcross, many of these magically mutated monstrosities survived, and they now stalk Aeor's ruins and the islands' icy wastes.
+Brought to life by mages in the flying city of Aeor during the Age of Arcanum, Aeorian hunters were created to take on angels, demons, devils, fey , and the gods themselves. When Aeor crashed into Eiselcross, many of these magically mutated monstrosities survived, and they now stalk Aeor's ruins and the islands' icy wastes.
 ### Created by Experimentation
 Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
 #### Madness through Immortality

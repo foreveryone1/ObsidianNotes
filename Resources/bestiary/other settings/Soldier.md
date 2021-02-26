@@ -1,5 +1,6 @@
 # Soldier
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 16 (3d8 + 3)
@@ -12,11 +13,11 @@
 >- **Skills** Athletics +3, Perception +2
 >- **Senses** passive Perception 12
 >- **Languages** any one language (usually Common)
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Formation Tactics.*** The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The soldier makes two melee attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.

@@ -1,5 +1,6 @@
 # Eidolon
->*Medium undead, any alignment*
+>*Medium #undead , any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 63 (18d8 - 18)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** darkvision 60 ft., passive Perception 18
 >- **Languages** the languages it knew in life
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Incorporeal Movement.*** The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.  
 >
@@ -24,7 +25,7 @@
 >
 >***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Divine Dread.*** Each creature within 60 feet of the eidolon that can see it must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. While frightened in this way, the creature must take the Dash action and move away from the eidolon by the safest available route at the start of each of its turns, unless there is nowhere for it to move, in which case the creature also becomes stunned until it can move again. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any eidolon's Divine Dread for the next 24 hours.
 ## Eidolon
 *It's not just gods that have the power to bind spirits to their idols. Beings such as archdevils can do it with the souls of their cultists. Moloch, for instance.*— Mordenkainen***Eidolon.*** The gods have many methods for protecting sites they deem holy. One servant they rely on often to do so is the eidolon, a ghostly spirit bound by a sacred oath to safeguard a place of import to the divine. Forged from the souls of those who had proven their unwavering devotion, eidolons stalk temples and vaults, places where miracles have been witnessed and relics enshrined, to ensure that no enemy can gain a foothold against the gods' cause through defilement or violence within these sites. If an enemy with such intent sets foot inside a warded location, the eidolon plunges into a graven vessel, a statue specially prepared to house the souls of these protectors. The eidolon then animates the effigy and uses the borrowed body to drive out the intruders bent on plundering the relics it is charged with guarding.

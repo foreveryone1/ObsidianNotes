@@ -1,5 +1,6 @@
 # Nagpa
->*Medium humanoid (nagpa), lawful evil*
+>*Medium #humanoid (nagpa), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 187 (34d8 + 34)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +12, Deception +11, History +12, Insight +10, Perception +10
 >- **Senses** truesight 120 ft., passive Perception 20
 >- **Languages** Common plus up to five other languages
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Corruption.*** As a bonus action, the nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is charmed by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.  
 >
@@ -31,7 +32,7 @@
 >7th level (1 slot): etherealness, prismatic spray  
 >8th level (1 slot): feeblemind  
 >
->### Actions
+## Actions
 >***Staff.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
 ## Nagpa
 *Nagpas can't learn from that which isn't destroyed. Imagine how bewildering and terrifying a city full of life must be to them. Is it any wonder that they seek the ruin of such places?*— Mordenkainen***Nagpa.*** Long ago, the Raven Queen cursed a cabal of thirteen powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She stripped them of their beauty, turning them into scabrous, birdlike monstrosities. The nagpas now plot as they ever did, but they now strive to bring about terrible, world-shaking calamities so they can pry secrets and power from the wreckage their conspiracies create.

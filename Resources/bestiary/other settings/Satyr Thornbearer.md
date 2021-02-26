@@ -1,5 +1,6 @@
 # Satyr Thornbearer
->*Medium fey, chaotic neutral*
+>*Medium #fey , , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (leather armor)
 >- **Hit Points** 38 (7d8 + 7)
@@ -12,13 +13,13 @@
 >- **Skills** Perception +5, Performance +6, Stealth +6
 >- **Senses** passive Perception 15
 >- **Languages** Common, Sylvan
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.  
 >
 >***Sleepless Reveler.*** Magic can't put the satyr to sleep.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The satyr makes three ram attacks or three shortbow attacks.  
 >
 >***Ram.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.  

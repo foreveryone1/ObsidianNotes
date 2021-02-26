@@ -1,5 +1,6 @@
 # Animated Knife
->*Tiny construct, unaligned*
+>*Tiny #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 12 (5d4)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
 >- **Languages** —
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Antimagic Susceptibility.*** The knife is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the knife must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >
 >***False Appearance.*** While the knife remains motionless and isn't flying, it is indistinguishable from a normal knife.  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.

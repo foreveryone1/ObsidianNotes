@@ -1,5 +1,6 @@
 # Spirit Troll
->*Large giant, chaotic evil*
+>*Large #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 97 (15d10 + 15)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Giant
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Incorporeal Movement.*** The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
 >***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes psychic or force damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  

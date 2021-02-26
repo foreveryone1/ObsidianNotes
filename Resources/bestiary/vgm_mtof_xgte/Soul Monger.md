@@ -1,5 +1,6 @@
 # Soul Monger
->*Medium humanoid (elf), neutral*
+>*Medium #humanoid (elf), neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 123 (19d8 + 38)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** darkvision 60 ft., passive Perception 17
 >- **Languages** Common, Elvish
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Fey Ancestry.*** The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >
@@ -31,7 +32,7 @@
 >
 >***Weight of Ages.*** Any beast or humanoid, other than a shadar-kai, that starts its turn within 5 feet of the soul monger has its speed reduced by 20 feet until the start of that creature's next turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The soul monger makes two phantasmal dagger attacks.  
 >
 >***Phantasmal Dagger.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.  

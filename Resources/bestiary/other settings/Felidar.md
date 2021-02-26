@@ -1,5 +1,6 @@
 # Felidar
->*Large celestial, lawful neutral*
+>*Large #celestial , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 93 (11d10 + 33)
@@ -13,7 +14,7 @@
 >- **Skills** Insight +6, Perception +6
 >- **Senses** truesight 120 ft., passive Perception 16
 >- **Languages** understands Celestial and Common but can't speak
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Bonding.*** The felidar can magically bond with one creature it can see, right after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the felidar bonds with a different creature or until the bonded creature dies. This bond has the following effects: The felidar and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet. The felidar can sense the direction and distance to the bonded creature if they're on the same plane of existence. As an action, the felidar or the bonded creature can sense what the other sees and hears, during which time it loses its own sight and hearing. This effect lasts until the start of its next turn.  
 >
@@ -21,7 +22,7 @@
 >
 >***Pounce.*** If the felidar moves at least 20 feet straight toward a creature and hits it with a claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the felidar can make one claw attack against it as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The felidar makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.  

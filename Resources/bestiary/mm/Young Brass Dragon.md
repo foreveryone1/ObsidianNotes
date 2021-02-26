@@ -1,5 +1,6 @@
 # Young Brass Dragon
->*Large dragon, chaotic good*
+>*Large #dragon , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 110 (13d10 + 39)
@@ -14,9 +15,9 @@
 >- **Damage Immunities** fire
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 >- **Languages** Common, Draconic
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.  

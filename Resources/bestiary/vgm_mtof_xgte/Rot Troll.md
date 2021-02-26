@@ -1,5 +1,6 @@
 # Rot Troll
->*Large giant, chaotic evil*
+>*Large #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 138 (12d10 + 72)
@@ -13,11 +14,11 @@
 >- **Damage Immunities** necrotic
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Giant
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Rancid Degeneration.*** At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 16 (3d10) necrotic damage.  

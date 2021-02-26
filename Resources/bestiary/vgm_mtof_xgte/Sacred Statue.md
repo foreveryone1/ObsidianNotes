@@ -1,5 +1,6 @@
 # Sacred Statue
->*Large construct, as the eidolon's alignment*
+>*Large #construct , as the eidolon's alignment*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 95 (10d10 + 40)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** the languages the eidolon knew in life
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***False Appearance.*** While the statue remains motionless, it is indistinguishable from a normal statue.  
 >
@@ -23,7 +24,7 @@
 >
 >***Inert.*** When not inhabited by an eidolon, the statue is an object.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The statue makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 43 (6d12 + 4) bludgeoning damage.  

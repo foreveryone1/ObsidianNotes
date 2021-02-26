@@ -1,5 +1,6 @@
 # Abyssal Wretch
->*Medium fiend (demon), chaotic evil*
+>*Medium #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 18 (4d8)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 9
 >- **Languages** understands Abyssal but can't speak
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.

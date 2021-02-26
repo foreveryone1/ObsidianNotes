@@ -1,5 +1,6 @@
 # Scout
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 16 (3d8 + 3)
@@ -12,11 +13,11 @@
 >- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
 >- **Senses** passive Perception 15
 >- **Languages** any one language (usually Common)
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The scout makes two melee attacks or two ranged attacks.  
 >
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

@@ -1,5 +1,6 @@
 # Elder Tempest
->*Gargantuan elemental, neutral*
+>*Gargantuan #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 19
 >- **Hit Points** 264 (16d20 + 96)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** —
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Air Form.*** The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.  
 >
@@ -28,14 +29,14 @@
 >
 >***Siege Monster.*** The tempest deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The tempest makes two attacks with its thunderous slam.  
 >
 >***Thunderous Slam.*** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 23 (4d6 + 9) thunder damage.  
 >
 >***Lightning Storm (Recharge 6).*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.  
 >
->### Legendary Actions
+## Legendary Actions
 >The elder tempest can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The elder tempest regains spent legendary actions at the start of its turn.
 >
 >- **Move.** The tempest moves up to its speed.

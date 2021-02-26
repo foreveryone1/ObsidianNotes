@@ -1,5 +1,6 @@
 # Deep Crow
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 133 (14d10 + 56)
@@ -13,7 +14,7 @@
 >- **Skills** Perception +6, Stealth +11
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 >- **Languages** Deep Crow
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Magic Resistance.*** The deep crow has advantage on saving throws against spells and other magical effects.  
 >
@@ -21,7 +22,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the deep crow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The deep crow makes three attacks: one with its mandibles and two with its claws.  
 >
 >***Mandibles.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the deep crow can't use its mandibles on another target.  

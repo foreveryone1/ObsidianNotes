@@ -1,5 +1,6 @@
 # Oak Truestrike
->*Medium humanoid (elf), neutral good or neutral evil*
+>*Medium #humanoid (elf), neutral good or neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 32 (5d8 + 10)
@@ -12,13 +13,13 @@
 >- **Skills** Nature +4, Perception +3, Performance +2, Stealth +5, Survival +3
 >- **Senses** passive Perception 13
 >- **Languages** Common
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Fey Ancestry.*** Oak has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >
 >***Keen Hearing and Sight.*** Oak has advantage on Wisdom (Perception) checks that rely on hearing or sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Oak makes three attacks with his hooked daggers or his hand crossbow.  
 >
 >***Hooked Dagger.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.  

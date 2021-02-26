@@ -1,5 +1,6 @@
 # Young Silver Dragon
->*Large dragon, lawful good*
+>*Large #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 168 (16d10 + 80)
@@ -14,9 +15,9 @@
 >- **Damage Immunities** cold
 >- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 >- **Languages** Common, Draconic
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.  

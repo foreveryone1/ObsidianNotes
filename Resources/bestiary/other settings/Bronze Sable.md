@@ -1,5 +1,6 @@
 # Bronze Sable
->*Medium construct, unaligned*
+>*Medium #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 32 (5d8 + 10)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** understands one language of its creator but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***False Appearance.*** While the sable remains motionless, it is indistinguishable from a normal statue.  
 >
@@ -22,7 +23,7 @@
 >
 >***Surprise Attack.*** If the sable surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sable makes two bite attacks.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.

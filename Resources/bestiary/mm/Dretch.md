@@ -1,5 +1,6 @@
 # Dretch
->*Small fiend (demon), chaotic evil*
+>*Small #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 18 (4d6 + 4)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The dretch makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.  

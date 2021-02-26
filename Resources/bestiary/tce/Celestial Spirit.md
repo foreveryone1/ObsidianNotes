@@ -1,5 +1,6 @@
 # Celestial Spirit
->*Large celestial, unaligned*
+>*Large #celestial , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 + the level of the spell (natural armor) + 2 (Defender only)
 >- **Hit Points** 40 + 10 for each spell level above 5th
@@ -12,10 +13,10 @@
 >- **Damage Resistances** radiant
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Celestial, understands the languages you speak
->- **Challenge** —
+>- **Languages** #celestial , understands the languages you speak
+>- #cr-unavailable
 >___
->### Actions
+## Actions
 >***Multiattack.*** The celestial makes a number of attacks equal to half this spell's level (rounded down).  
 >
 >***Radiant Bow (Avenger Only).*** Ranged Weapon Attack: your spell attack modifier to hit, range 150/600 ft., one target. Hit: 2d6 + 2 + the spell's level radiant damage.  

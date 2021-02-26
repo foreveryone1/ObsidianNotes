@@ -1,5 +1,6 @@
 # Meletian Hoplite
->*Medium humanoid, any alignment*
+>*Medium #humanoid, any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (breastplate, shield)
 >- **Hit Points** 49 (9d8 + 9)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +5, History +5, Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** Common
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Spellcasting.*** The hoplite is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:  
 >
@@ -21,7 +22,7 @@
 >1st level (4 slots): color spray, expeditious retreat, sleep  
 >2nd level (2 slots): blur, cloud of daggers, invisibility  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hoplite makes three weapon attacks. It can replace one weapon attack with ray of frost.  
 >
 >***Spear.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.  

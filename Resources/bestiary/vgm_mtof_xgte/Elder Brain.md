@@ -1,5 +1,6 @@
 # Elder Brain
->*Large aberration, lawful evil*
+>*Large #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 210 (20d10 + 100)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +10, Deception +12, Insight +14, Intimidation +12, Persuasion +12
 >- **Senses** blindsight 120 ft., passive Perception 14
 >- **Languages** understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Creature Sense.*** The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.  
 >
@@ -29,7 +30,7 @@
 >
 >***Telepathic Hub.*** The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.  
 >
->### Actions
+## Actions
 >***Tentacle.*** Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20 (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8 + 5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.  
 >
 >***Mind Blast (Recharge 5–6).*** The elder brain magically emits psychic energy. Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
@@ -38,7 +39,7 @@
 >
 >***Sense Thoughts.*** The elder brain targets a creature with which it has a psychic link. The elder brain gains insight into the target's reasoning, its emotional state, and thoughts that loom large in its mind (including things the target worries about, loves, or hates). The elder brain can also make a Charisma (Deception) check with advantage to deceive the target's mind into thinking it believes one idea or feels a particular emotion. The target contests this attempt with a Wisdom (Insight) check. If the elder brain succeeds, the mind believes the deception for 1 hour or until evidence of the lie is presented to the target.  
 >
->### Legendary Actions
+## Legendary Actions
 >The elder brain can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The elder brain regains spent legendary actions at the start of its turn.
 >
 >- **Tentacle.** The elder brain makes a tentacle attack.
@@ -55,7 +56,7 @@ The ambitions of an elder brain are always tempered by its relative immobility. 
 ***Hive Mind.***  Non-illithids call this creature an elder brain because it acts as the central communication hub for an entire mind flayer colony just as a brain does for a living body. Linked to the elder brain, the colony acts like a single organism, acting in concert as if each illithid were the digit of a hand.
 ***Ego Unhindered.***  Each elder brain considers itself and its desires the most important things in the multiverse, the mind flayers in its colony nothing more than extensions of its will. But no two elder brains are alike, and each presides over its colony according to its own unique personality and storehouse of collected knowledge and experience. Some elder brains reign as domineering tyrants, while others serve more benignly as sages, counselors, and repositories of information and lore for the mind flayers that protect and nourish them.
 ***An Elder Brain's Lair.*** The lair of an elder brain always lies deep in the heart of a mind flayer colony. The creature dwells in a dimly glowing brine pool, filled with foul and brackish water infused with the elder brain's vital fluids and with psionic energy.
-#### Lair Actions
+## Lair Actions
 When fighting inside its lair, an elder brain can use lair actions. On initiative count 20 (losing initiative ties), an elder brain can take one lair action to cause one of the following effects; the elder brain can't use the same lair action two rounds in a row:
 - The elder brain casts wall of force.
 - The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn. If the target doesn't or can't use this benefit in that time, the inspiration is lost.

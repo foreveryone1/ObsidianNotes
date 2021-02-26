@@ -1,5 +1,6 @@
 # Githzerai Monk
->*Medium humanoid (gith), lawful neutral*
+>*Medium #humanoid (gith), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 38 (7d8 + 7)
@@ -13,7 +14,7 @@
 >- **Skills** Insight +4, Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** Gith
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:  
 >
@@ -23,7 +24,7 @@
 >
 >***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The githzerai makes two unarmed strikes.  
 >
 >***Unarmed Strike.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack.

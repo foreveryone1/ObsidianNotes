@@ -1,5 +1,6 @@
 # Drow House Captain
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 162 (25d8 + 50)
@@ -13,7 +14,7 @@
 >- **Skills** Perception +6, Stealth +8
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Elvish, Undercommon
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Battle Command.*** As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.  
 >
@@ -27,7 +28,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes three attacks: two with his scimitar and one with his whip or his hand crossbow.  
 >
 >***Scimitar.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 14 (4d6) poison damage.  

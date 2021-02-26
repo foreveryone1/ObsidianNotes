@@ -1,5 +1,6 @@
 # Poltergeist
->*Medium undead, chaotic evil*
+>*Medium #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 22 (5d8)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands all languages it knew in life but can't speak
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Incorporeal Movement.*** The poltergeist can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
@@ -22,7 +23,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Forceful Slam.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) force damage.  
 >
 >***Telekinetic Thrust.*** The poltergeist targets a creature or unattended object within 30 feet of it. A creature must be Medium or smaller to be affected by this magic, and an object can weigh up to 150 pounds.  

@@ -15,11 +15,11 @@ Con
 
 
 ### Skills
-[[Checks#Athletics]], **[[Checks#Religion]]**
+[[Tools#Athletics]], **[[Tools#Religion]]**
 ### Spellcasting: Charisma
 - #### Cantrips
 	- [[Mage Hand]]
-		- Can perform [[Checks#Sleight of Hand|Sleight of Hand]] checks with mage hand.
+		- Can perform [[Tools#Sleight of Hand|Sleight of Hand]] checks with mage hand.
 		- Can carry up to 40 lbs.
 	- [[Minor Illusion]]
 - #### Three casts per day

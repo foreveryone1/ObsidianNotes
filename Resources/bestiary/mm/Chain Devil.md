@@ -1,5 +1,6 @@
 # Chain Devil
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 85 (10d8 + 40)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 8
 >- **Languages** Infernal, telepathy 120 ft.
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >
 >***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The devil makes two attacks with its chains.  
 >
 >***Chain.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.  

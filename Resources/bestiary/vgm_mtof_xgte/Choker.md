@@ -1,5 +1,6 @@
 # Choker
->*Small aberration, chaotic evil*
+>*Small #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 13 (3d6 + 3)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +6
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Deep Speech
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Aberrant Quickness (Recharges after a Short or Long Rest).*** The choker can take an extra action on its turn.  
 >
@@ -20,7 +21,7 @@
 >
 >***Spider Climb.*** The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The choker makes two tentacle attacks.  
 >
 >***Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 3 (1d6) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.

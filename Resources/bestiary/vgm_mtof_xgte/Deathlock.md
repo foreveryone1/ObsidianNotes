@@ -1,5 +1,6 @@
 # Deathlock
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 36 (8d8)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** the languages it knew in life
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:  
 >
@@ -31,7 +32,7 @@
 >
 >***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Deathly Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.
 ## Deathlock
 ***Deathlock.*** The forging of a pact between a warlock and a patron is no minor occasion—at least not for the warlock. The consequences of breaking that pact can be dire and, in some cases, lethal. A warlock who fails to live up to a bargain with an evil patron runs the risk of rising from the dead as a deathlock, a foul undead driven to serve its otherworldly patron from beyond the grave.

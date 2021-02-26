@@ -1,5 +1,6 @@
 # Cloud Giant
->*Huge giant, neutral good (50%) or neutral evil (50%)*
+>*Huge #giant , neutral good (50%) or neutral evil (50%)*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 200 (16d12 + 96)
@@ -13,7 +14,7 @@
 >- **Skills** Insight +7, Perception +7
 >- **Senses** passive Perception 17
 >- **Languages** Common, Giant
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:  
 >
@@ -24,7 +25,7 @@
 >
 >***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two morningstar attacks.  
 >
 >***Morningstar.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.  

@@ -1,5 +1,6 @@
 # Yeenoghu
->*Huge fiend (demon), chaotic evil*
+>*Huge #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 333 (23d12 + 184)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** truesight 120 ft., passive Perception 24
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 24 (62,000 XP)
+>- #cr24 (62,000 XP)
 >___
 >***Innate Spellcasting.*** Yeenoghu's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:  
 >
@@ -33,7 +34,7 @@
 >
 >***Rampage.*** When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):  
 >1. The attack deals an extra 13 (2d12) bludgeoning damage.  
 >2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu's next turn.  
@@ -43,7 +44,7 @@
 >
 >***Bite.*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 14 (1d10 + 9) piercing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >Yeenoghu can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Yeenoghu regains spent legendary actions at the start of its turn.
 >
 >- **Charge.** Yeenoghu moves up to his speed.
@@ -55,7 +56,7 @@ Yeenoghu wants nothing more than slaughter and senseless destruction. The gnolls
 The Gnoll Lord is covered in matted fur and taut, leathery hide, his face like a grinning predator's skull. Patchwork armor made of discarded shields and breastplates is lashed onto his body with heavy chains, decorated by the flayed skins of his foes. He wields a triple-headed flail called the Butcher, which he can summon into his hand at will, although he is as likely to tear his prey apart with his bare hands before ripping out its throat with his teeth.
 #### Yeenoghu's Lair
 Yeenoghu's lair in the Abyss is called the Death Dells, its barren hills and ravines serving as one great hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by gnolls, hyenas, and ghouls, and there are few structures or signs of civilization on his layer of the Abyss.
-#### Lair Actions
+## Lair Actions
 On Initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects: he can't use the same effect two rounds in a row:
 - Yeenoghu causes an iron spike - 5 feet tall and 1 inch in diameter - to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (6d8) piercing damage and is restrained by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the restrained condition.
 - Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed.

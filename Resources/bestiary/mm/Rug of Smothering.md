@@ -1,5 +1,6 @@
 # Rug of Smothering
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 33 (6d10)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
 >- **Languages** —
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >
@@ -21,7 +22,7 @@
 >
 >***False Appearance.*** While the rug remains motionless, it is indistinguishable from a normal rug.  
 >
->### Actions
+## Actions
 >***Smother.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. Hit: The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 ## Rug of Smothering
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.

@@ -1,5 +1,6 @@
 # Indentured Spirit
->*Medium undead, any alignment*
+>*Medium #undead , any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 13 (3d8)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** passive Perception 11
 >- **Languages** the languages it knew in life
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Incorporeal Movement.*** The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
->### Actions
+## Actions
 >***Withering Touch.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (3d6) necrotic damage.
 ## Indentured Spirit
 Those who die with unpaid debts to the Orzhov Syndicate don't get a reprieve. Instead, their spirits serve the syndicate until they have worked off their obligation. Sometimes that means existing as an indentured spirit for years or even millennia.

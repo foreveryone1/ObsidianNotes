@@ -1,5 +1,6 @@
 # Vox Seeker
->*Tiny construct, unaligned*
+>*Tiny #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 7 (2d4 + 2)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 >- **Languages** —
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Spider Climb.*** The vox seeker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
 >***Voice Lock.*** The vox seeker must move toward and attack the source of the nearest voice within 60 feet of it, to the exclusion of all other targets, for as long as it remains operational.  
 >
->### Actions
+## Actions
 >***Pincer.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage plus 3 lightning damage.

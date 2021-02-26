@@ -1,5 +1,6 @@
 # Kraken Priest
->*Medium humanoid (any race), any evil alignment*
+>*Medium #humanoid (any race), any evil alignment*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 75 (10d8 + 30)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** passive Perception 15
 >- **Languages** any two languages
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Amphibious.*** The priest can breathe air and water.  
 >
@@ -23,7 +24,7 @@
 >3/day each: control water, darkness, water breathing, water walk  
 >1/day each: call lightning, Evard's black tentacles  
 >
->### Actions
+## Actions
 >***Thunderous Touch.*** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: 27 (5d10) thunder damage.  
 >
 >***Voice of the Kraken (Recharges after a Short or Long Rest).*** A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Charisma saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

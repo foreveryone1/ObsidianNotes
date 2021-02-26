@@ -1,5 +1,6 @@
 # Orc Claw of Luthic
->*Medium humanoid (orc), chaotic evil*
+>*Medium #humanoid (orc), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -12,7 +13,7 @@
 >- **Skills** Intimidation +2, Medicine +4, Survival +4
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Common, Orc
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >
@@ -23,7 +24,7 @@
 >2nd level (3 slots): augury, warding bond  
 >3rd level (2 slots): bestow curse, create food and water  
 >
->### Actions
+## Actions
 >***Multiattack.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.  
 >
 >***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.

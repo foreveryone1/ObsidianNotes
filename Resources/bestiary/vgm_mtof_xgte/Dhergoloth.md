@@ -1,5 +1,6 @@
 # Dhergoloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 119 (14d8 + 56)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 10
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting.*** The dhergoloth's innate spellcasting ability is Charisma (spell save DC 10). It can innately cast the following spells, requiring no material components:  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Weapons.*** The dhergoloth's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dhergoloth makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.  

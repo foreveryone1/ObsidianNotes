@@ -1,5 +1,5 @@
 .internal-embed.is-loaded[alt="short"] {
-  max-height: 25rem !important;
+  max-height: 400px !important;
   overflow: auto !important;
 
 }
@@ -18,7 +18,7 @@
 
 
 .internal-embed.is-loaded[alt="tall"] {
-  max-height: 50rem !important;
+  max-height: 800px !important;
   overflow: auto !important;
 
 }

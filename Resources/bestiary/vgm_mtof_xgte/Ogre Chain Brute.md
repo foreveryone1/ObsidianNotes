@@ -1,5 +1,6 @@
 # Ogre Chain Brute
->*Large giant, chaotic evil*
+>*Large #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11 (hide armor)
 >- **Hit Points** 59 (7d10 + 21)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** Common, Giant
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
->### Actions
+## Actions
 >***Fist.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.  
 >
 >***Chain Sweep.*** The ogre swings its chain, and every creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (1d8 + 4) bludgeoning damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.  

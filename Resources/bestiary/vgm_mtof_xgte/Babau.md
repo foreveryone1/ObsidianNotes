@@ -1,5 +1,6 @@
 # Babau
->*Medium fiend (demon), chaotic evil*
+>*Medium #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 82 (11d8 + 33)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Abyssal
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:  
 >
 >At will: darkness, dispel magic, fear, heat metal, levitate  
 >
->### Actions
+## Actions
 >***Multiattack.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.  

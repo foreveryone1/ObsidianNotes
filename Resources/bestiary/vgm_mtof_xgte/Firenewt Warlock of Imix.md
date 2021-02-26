@@ -1,5 +1,6 @@
 # Firenewt Warlock of Imix
->*Medium humanoid (firenewt), neutral evil*
+>*Medium #humanoid (firenewt), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 10 (13 with mage armor)
 >- **Hit Points** 33 (6d8 + 6)
@@ -12,7 +13,7 @@
 >- **Damage Immunities** fire
 >- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 10
 >- **Languages** Draconic, Ignan
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Amphibious.*** The firenewt can breathe air and water.  
 >
@@ -25,7 +26,7 @@
 >Cantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation  
 >1st-2nd level (2 2nd-level slots): burning hands, flaming sphere, hellish rebuke, scorching ray  
 >
->### Actions
+## Actions
 >***Morningstar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 ## Firenewt Warlock of Imix
 In regions that contain hot springs, volcanic activity, or similar hot and wet conditions, firenewts might be found. These humanoid amphibians live in a militaristic theocracy that reveres elemental fire in its worst incarnation.

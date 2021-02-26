@@ -1,5 +1,6 @@
 # Moorbounder
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 30 (4d10 + 8)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** —
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Standing Leap.*** The moorbounder's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (4d4 + 4) slashing damage.
 ## Moorbounder
 One of the many predators to stalk the marshlands and muddy foothills of Xhorhas, moorbounders are known as dangerous killers to those who try to avoid them on their travels—and as prized mounts for those willing to capture and train them. Though the process of domesticating a moorbounder is fraught with peril, these creatures can become favored hunting companions and powerful war mounts.

@@ -1,5 +1,6 @@
 # Bestial Spirit
->*Small beast, unaligned*
+>*Small #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 + the level of the spell (natural armor)
 >- **Hit Points** 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2nd
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Flyby (Air Only).*** The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >
@@ -19,7 +20,7 @@
 >
 >***Water Breathing (Water Only).*** The beast can breathe only underwater.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The beast makes a number of attacks equal to half this spell's level (rounded down).  
 >
 >***Maul.*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level piercing damage.

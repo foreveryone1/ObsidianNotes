@@ -1,5 +1,6 @@
 # Servitor Thrull
->*Small construct, unaligned*
+>*Small #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 22 (4d6 + 8)
@@ -13,9 +14,9 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** understands Common but can't speak
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.  
 >
 >### Reactions

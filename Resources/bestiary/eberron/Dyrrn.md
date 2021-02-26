@@ -1,5 +1,6 @@
 # Dyrrn
->*Medium aberration, chaotic evil*
+>*Medium #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 325 (31d8 + 186)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** blinded, charmed, exhaustion, frightened, poisoned, prone
 >- **Senses** truesight 120 ft., passive Perception 23
 >- **Languages** Deep Speech, telepathy 120 ft.
->- **Challenge** 24 (62,000 XP)
+>- #cr24 (62,000 XP)
 >___
 >***Alien Mind.*** If a creature tries to read Dyrrn's thoughts or deals psychic damage to it, that creature must succeed on a DC 23 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
@@ -27,7 +28,7 @@
 >
 >***Teleport.*** As a bonus action, Dyrrn can teleport up to 30 feet to an unoccupied space it can see.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Dyrrn makes one Tentacle Whip attack and uses its Corruption once. Dyrrn can replace its Tentacle Whip attack with Extract Brain if it has a creature grappled.  
 >
 >***Tentacle Whip.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) slashing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 23), pulled into an unoccupied space within 5 feet of Dyrrn, and must succeed on a DC 23 Intelligence saving throw or be stunned until this grapple ends. Dyrrn can't use the same tentacle whip on another target until this grapple ends. Dyrrn has two tentacle whips.  
@@ -37,7 +38,7 @@
 >
 >***Extract Brain.*** Melee Weapon Attack: +15 to hit, reach 5 ft., one incapacitated creature grappled by Dyrrn. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, Dyrrn kills the target by extracting and devouring its brain.  
 >
->### Legendary Actions
+## Legendary Actions
 >Dyrrn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Dyrrn regains spent legendary actions at the start of its turn.
 >
 >- **Tentacle Whip.** Dyrrn makes one attack with its Tentacle Whip.
@@ -62,7 +63,7 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
 | 4 | "A part of me has become a conscious entity." |
 | 5 | "My opponents must bow down to a mind flayer!" |
 | 6 | "Dyrrn and the mind flayers simply want to unite all sentient creatures in collective consciousness. And I receive messages from the group mind!" |
-#### Lair Actions
+## Lair Actions
 While within the Palace of Sinew, Dyrrn can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Dyrrn can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:
 - Dyrrn uses its Corruption action.
 - A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be restrained. A creature can escape the tentacles with a successful DC 23 Strength (Athletics) or Dexterity (Acrobatics) check as an action.

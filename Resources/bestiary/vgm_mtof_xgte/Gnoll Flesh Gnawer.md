@@ -1,5 +1,6 @@
 # Gnoll Flesh Gnawer
->*Medium humanoid (gnoll), chaotic evil*
+>*Medium #humanoid (gnoll), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (studded leather armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Saving Throws** Dex +4
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Gnoll
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gnoll makes three attacks: one with its bite and two with its shortsword.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

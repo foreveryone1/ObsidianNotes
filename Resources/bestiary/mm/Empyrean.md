@@ -1,5 +1,6 @@
 # Empyrean
 >*Huge celestial (titan), chaotic good (75%) or neutral evil (25%)*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 313 (19d12 + 190)
@@ -14,7 +15,7 @@
 >- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** truesight 120 ft., passive Perception 16
 >- **Languages** all
->- **Challenge** 23 (50,000 XP)
+>- #cr23 (50,000 XP)
 >___
 >***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >
@@ -28,12 +29,12 @@
 >
 >***Magic Weapons.*** The empyrean's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Maul.*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 31 (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be stunned until the end of the empyrean's next turn.  
 >
 >***Bolt.*** Ranged Spell Attack: +15 to hit, range 600 ft., one target. Hit: 24 (7d6) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder.  
 >
->### Legendary Actions
+## Legendary Actions
 >The empyrean can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The empyrean regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** The empyrean makes one attack.

@@ -1,5 +1,6 @@
 # Giant Lizard
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 19 (3d10 + 3)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 ## Giant Lizard
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.

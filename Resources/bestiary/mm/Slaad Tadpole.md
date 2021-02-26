@@ -1,5 +1,6 @@
 # Slaad Tadpole
->*Tiny aberration, chaotic neutral*
+>*Tiny #aberration , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 10 (4d4)
@@ -13,11 +14,11 @@
 >- **Damage Resistances** acid, cold, fire, lightning, thunder
 >- **Senses** darkvision 60 ft., passive Perception 7
 >- **Languages** understands Slaad but can't speak
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 ## Slaad Tadpole
 In the Ever-Changing Chaos of Limbo, bits of forest and meadow, ruined castles, and isolated islands drift through a tumult of fire, water, earth, and wind. The foremost inhabitants of this inhospitable plane are the toad-like slaadi. Slaadi are undisciplined and have no formal hierarchy, although weaker slaadi obey stronger ones under threat of annihilation.

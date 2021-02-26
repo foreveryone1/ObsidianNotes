@@ -1,5 +1,6 @@
 # Mindwitness
->*Large aberration, lawful evil*
+>*Large #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 75 (10d10 + 20)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** prone
 >- **Senses** darkvision 120 ft., passive Perception 18
 >- **Languages** Deep Speech, Undercommon, telepathy 600 ft.
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage.  

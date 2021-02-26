@@ -1,5 +1,6 @@
 # Hobgoblin Captain
->*Medium humanoid (goblinoid), lawful evil*
+>*Medium #humanoid (goblinoid), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (half plate armor)
 >- **Hit Points** 39 (6d8 + 12)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common, Goblin
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hobgoblin makes two greatsword attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.  

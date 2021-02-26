@@ -1,5 +1,6 @@
 # Death Knight
->*Medium undead, chaotic evil*
+>*Medium #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (plate armor, shield)
 >- **Hit Points** 180 (19d8 + 95)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** exhaustion, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 13
 >- **Languages** Abyssal, Common
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.  
 >
@@ -28,7 +29,7 @@
 >4th level (3 slots): banishment, staggering smite  
 >5th level (2 slots): destructive wave (necrotic)  
 >
->### Actions
+## Actions
 >***Multiattack.*** The death knight makes three longsword attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.  
@@ -39,7 +40,7 @@
 >***Parry.*** The death knight adds 6 to its AC against one melee attack that would hit it. To do so, the death knight must see the attacker and be wielding a melee weapon.
 ## Death Knight
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
-***Eldritch Power.*** The death knight retains the ability to cast divine spells. However, no death knight can use its magic to heal. A death knight also attracts and commands lesser undead, although death knights that serve powerful fiends might have fiendish followers instead. Death knights often use warhorse skeletons and nightmares as mounts.
+***Eldritch Power.*** The death knight retains the ability to cast divine spells. However, no death knight can use its magic to heal. A death knight also attracts and commands lesser #undead , although death knights that serve powerful fiends might have fiendish followers instead. Death knights often use warhorse skeletons and nightmares as mounts.
 ***Immortal Until Redeemed.*** A death knight can arise anew even after it has been destroyed. Only when it atones for a life of wickedness or finds redemption can it finally escape its undead purgatory and truly perish.
 ***Undead Nature.*** A death knight doesn't require air, food, drink, or sleep.
 > ##### Lord Soth

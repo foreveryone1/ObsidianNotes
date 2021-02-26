@@ -1,5 +1,6 @@
 # Shadow Spirit
->*Medium monstrosity, unaligned*
+>*Medium #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 + the level of the spell (natural armor)
 >- **Hit Points** 35 + 15 for each spell level above 3rd
@@ -13,13 +14,13 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Terror Frenzy (Fury Only).*** The spirit has advantage on attack rolls against frightened creatures.  
 >
 >***Weight of Sorrow (Despair Only).*** Any creature, other than you, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature's next turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (rounded down).  
 >
 >***Chilling Rend.*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level cold damage.  

@@ -1,5 +1,6 @@
 # Môrgæn
->*Medium humanoid (elf), chaotic neutral*
+>*Medium #humanoid (elf), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 16 (studded leather armor)
 >- **Hit Points** 66 (12d8 + 12)
@@ -13,7 +14,7 @@
 >- **Skills** Athletics +3, Insight +4, Nature +3, Perception +4, Stealth +6, Survival +4
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Draconic, Dwarvish, Giant, Goblin
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Fey Ancestry.*** Môrgæn has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >
@@ -28,7 +29,7 @@
 >2nd level (3 slots): pass without trace, spike growth  
 >3rd level (2 slots): conjure animals  
 >
->### Actions
+## Actions
 >***Multiattack.*** Môrgæn makes three attacks with her scimitars or her longbow.  
 >
 >***Scimitars.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.  

@@ -1,5 +1,6 @@
 # Druid of the Old Ways
->*Medium humanoid (any race), chaotic neutral*
+>*Medium #humanoid (any race), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 90 (12d8 + 36)
@@ -13,7 +14,7 @@
 >- **Skills** Nature +3, Perception +8, Survival +8
 >- **Senses** passive Perception 18
 >- **Languages** Common, Druidic
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Siege Monster.*** The druid deals double damage to objects and structures.  
 >
@@ -25,11 +26,11 @@
 >1st level (4 slots): cure wounds, faerie fire, thunderwave  
 >2nd level (3 slots): beast sense, flame blade, pass without trace  
 >3rd level (3 slots): conjure animals, dispel magic, plant growth  
->4th level (3 slots): dominate beast, freedom of movement, wall of fire  
->5th level (2 slots): commune with nature, conjure elemental, scrying  
+>4th level (3 slots): dominate #beast , freedom of movement, wall of fire  
+>5th level (2 slots): commune with nature, conjure #elemental , scrying  
 >6th level (1 slot): transport via plants, wall of thorns  
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.
 ## Druid of the Old Ways
 The druids of the Old Ways are the keepers of ancient Gruul traditions devoted to the primal ferocity of animal gods such as Ilharg the Raze-Boar and Kashath the Stalker.

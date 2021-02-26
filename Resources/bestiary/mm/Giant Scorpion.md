@@ -1,5 +1,6 @@
 # Giant Scorpion
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 52 (7d10 + 14)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** blindsight 60 ft., passive Perception 9
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The scorpion makes three attacks: two with its claws and one with its sting.  
 >
 >***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.  

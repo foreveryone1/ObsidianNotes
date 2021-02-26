@@ -1,5 +1,6 @@
 # Hellfire Engine
->*Huge construct, lawful evil*
+>*Huge #construct , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 216 (16d12 + 112)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** understands Infernal but can't speak
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Immutable Form.*** The hellfire engine is immune to any spell or effect that would alter its form.  
 >
 >***Magic Resistance.*** The hellfire engine has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Flesh-Crushing Stride.*** The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the hellfire engine enters must make a DC 18 Dexterity saving throw. On a successful save, the creature is pushed to the nearest space out of the hellfire engine's path. On a failed save, the creature falls prone and takes 28 (8d6) bludgeoning damage.  
 >If the hellfire engine remains in the prone creature's space, the creature is also restrained until it's no longer in the same space as the hellfire engine. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer restrained.  
 >

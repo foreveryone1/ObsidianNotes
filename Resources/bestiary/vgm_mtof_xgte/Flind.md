@@ -1,5 +1,6 @@
 # Flind
->*Medium humanoid (gnoll), chaotic evil*
+>*Medium #humanoid (gnoll), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 127 (15d8 + 60)
@@ -13,11 +14,11 @@
 >- **Skills** Intimidation +5, Perception +5
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Abyssal, Gnoll
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Aura of Blood Thirst.*** If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The flind makes three attacks: one with each of its different flail attacks or three with its longbow.  
 >
 >***Flail of Madness.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must make a melee attack against a random target within its reach on its next turn. If it has no targets within its reach even after moving, it loses its action on that turn.  

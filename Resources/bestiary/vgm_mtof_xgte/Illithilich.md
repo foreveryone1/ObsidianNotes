@@ -1,5 +1,6 @@
 # Illithilich
->*Medium undead, any evil alignment*
+>*Medium #undead , any evil alignment*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 135 (18d8 + 54)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** truesight 120 ft., passive Perception 19
 >- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
->- **Challenge** 22 (41,000 XP)
+>- #cr22 (41,000 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.  
 >
@@ -46,7 +47,7 @@
 >
 >***Turn Resistance.*** The illithilich has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
 >***Tentacles.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (3d10 + 5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be stunned until this grapple ends.  
@@ -55,7 +56,7 @@
 >
 >***Mind Blast (Recharge 5–6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (5d8 + 5) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
->### Legendary Actions
+## Legendary Actions
 >The illithilich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The illithilich regains spent legendary actions at the start of its turn.
 >
 >- **Tentacles.** The illithilich makes one attack with its tentacles.
@@ -93,7 +94,7 @@ At will: detect thoughts, levitate
 ***Extract Brain (Costs 2 Actions).***  The lich uses Extract Brain.
 ***Mind Blast (Costs 3 Actions).***  The lich recharges its Mind Blast and uses it.
 ***Cast Spell (Costs 1–3 Actions).***  The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the illithilich can take a lair action to cause one of the following magical effects; the illithilich can't use the same effect two rounds in a row:
 - The illithilich rolls a d8 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.
 - The illithilich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the illithilich to the target. Whenever the illithilich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the illithilich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the illithilich or the target is no longer in the illithilich's lair.

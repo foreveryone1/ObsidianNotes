@@ -1,5 +1,6 @@
 # Yuan-ti Mind Whisperer
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 71 (13d8 + 13)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 12
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.  
 >
@@ -36,7 +37,7 @@
 >Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll), friends, message, minor illusion, poison spray, prestidigitation  
 >1st-3rd level (2 3rd-level slots): charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, illusory script  
 >
->### Actions
+## Actions
 >***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one bite attack and one scimitar attack.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.  

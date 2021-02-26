@@ -1,5 +1,6 @@
 # Cat
->*Tiny beast, unaligned*
+>*Tiny #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 2 (1d4)
@@ -12,9 +13,9 @@
 >- **Skills** Perception +3, Stealth +4
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Smell.*** The cat has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.

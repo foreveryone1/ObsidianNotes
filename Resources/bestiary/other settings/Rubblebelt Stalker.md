@@ -1,5 +1,6 @@
 # Rubblebelt Stalker
->*Medium humanoid (any race), chaotic neutral*
+>*Medium #humanoid (any race), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (piecemeal armor)
 >- **Hit Points** 11 (2d8 + 2)
@@ -12,7 +13,7 @@
 >- **Skills** Athletics +2, Perception +4, Stealth +4
 >- **Senses** passive Perception 14
 >- **Languages** any one language (usually Common)
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Ambusher.*** In the first round of a combat, the stalker has advantage on attack rolls against any creature that hasn't taken a turn yet.  
 >
@@ -22,7 +23,7 @@
 >
 >***Siege Monster.*** The stalker deals double damage to objects and structures.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The stalker makes three attacks with its shortsword.  
 >
 >***Shortsword.*** Melee Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.

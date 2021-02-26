@@ -1,5 +1,6 @@
 # Fire Giant
->*Huge giant, lawful evil*
+>*Huge #giant , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 162 (13d12 + 78)
@@ -14,9 +15,9 @@
 >- **Damage Immunities** fire
 >- **Senses** passive Perception 16
 >- **Languages** Giant
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two greatsword attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.  

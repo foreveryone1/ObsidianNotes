@@ -1,5 +1,6 @@
 # Warlord
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 229 (27d8 + 108)
@@ -13,20 +14,20 @@
 >- **Skills** Athletics +9, Intimidation +8, Perception +5, Persuasion +8
 >- **Senses** passive Perception 15
 >- **Languages** any two languages
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Indomitable (3/Day).*** The warlord can reroll a saving throw it fails. It must use the new roll.  
 >
 >***Survivor.*** The warlord regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The warlord makes two weapon attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.  
 >
 >***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The warlord can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The warlord regains spent legendary actions at the start of its turn.
 >
 >- **Weapon Attack.** The warlord makes a weapon attack.

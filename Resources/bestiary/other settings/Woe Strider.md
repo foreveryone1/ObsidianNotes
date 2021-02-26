@@ -1,5 +1,6 @@
 # Woe Strider
->*Large aberration, chaotic evil*
+>*Large #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 110 (13d10 + 39)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** telepathy 120 ft.
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Antimagic Cone.*** The woe strider's open mouth creates an area of antimagic, as in the antimagic field spell, in a 60-foot cone. At the start of each of its turns, the woe strider decides which way the cone faces and whether its mouth is open or closed.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The woe strider makes two claw attacks and one bite attack. If both claws hit the same creature, the target is grappled (escape DC 14).  
 >
 >***Claw.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) psychic damage.  

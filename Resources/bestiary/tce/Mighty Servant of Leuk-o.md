@@ -1,5 +1,6 @@
 # Mighty Servant of Leuk-o
->*Huge construct, unaligned*
+>*Huge #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 310 (27d12 + 135)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** blinded, charmed, deafened, frightened, grappled, incapacitated, paralyzed, petrified, poisoned, restrained, stunned
 >- **Senses** blindsight 120 ft., passive Perception 19
 >- **Languages** understands the languages of creatures attuned to it but can't speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Immutable Existence.*** The servant is immune to any spell or effect that would alter its form or send it to another plane of existence.  
 >
@@ -28,7 +29,7 @@
 >
 >***Unusual Nature.*** The servant doesn't require air, food, drink, or sleep.  
 >
->### Actions
+## Actions
 >***Destructive Fist.*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) force damage. Or Ranged Weapon Attack: +17 to hit, range 120 ft., one target. Hit: 36 (4d12 + 10) force damage. If the target is an object, it takes triple damage.  
 >
 >***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (4d12) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.

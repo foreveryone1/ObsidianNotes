@@ -1,5 +1,6 @@
 # Deathpact Angel
->*Medium celestial, lawful evil*
+>*Medium #celestial , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 175 (27d8 + 54)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** truesight 120 ft., passive Perception 20
 >- **Languages** all
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Exploitation of the Debtors.*** As a bonus action, the angel targets a creature charmed by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic damage to the target, and the angel gains temporary hit points equal to the damage dealt.  
 >
@@ -30,7 +31,7 @@
 >
 >***Magic Resistance.*** The angel has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The angel makes two attacks with its scythe. It can substitute Chains of Obligation for one of these attacks.  
 >
 >***Scythe.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage.  

@@ -1,5 +1,6 @@
 # Oinoloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 126 (12d10 + 60)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 17
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Bringer of Plagues (Recharge 5–6).*** As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.  
 >Furthermore, when a creature moves into the blighted area or starts its turn there, that creature must make a DC 16 Constitution saving throw. On a successful save, the creature is immune to the oinoloth's Bringer of Plagues for the next 24 hours. On a failed save, the creature takes 14 (4d6) necrotic damage and is poisoned.  
@@ -32,7 +33,7 @@
 >
 >***Magic Weapons.*** The oinoloth's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The oinoloth uses its Transfixing Gaze and makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage plus 22 (4d10) necrotic damage.  

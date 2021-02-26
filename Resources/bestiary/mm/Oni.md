@@ -1,5 +1,6 @@
 # Oni
->*Large giant, lawful evil*
+>*Large #giant , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 110 (13d10 + 39)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +5, Deception +8, Perception +4
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Giant
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:  
 >
@@ -25,14 +26,14 @@
 >
 >***Regeneration.*** The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The oni makes two attacks, either with its claws or its glaive.  
 >
 >***Claw (Oni Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.  
 >
 >***Glaive.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.  
 >
->***Change Shape.*** The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+>***Change Shape.*** The oni magically polymorphs into a Small or Medium humanoid, into a Large #giant , or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 ## Oni
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 ***Night Haunters.*** By the light of day, an oni hides its true form with magic, gaining the trust of those it intends to betray when darkness descends. These creatures can change their size as well as their shape, appearing as humanoids as they pass through towns, pretending to be travelers, woodcutters, or frontier folk. In such a form, an oni takes stock of the selection of humanoids in a settlement and devises ways to abduct and devour some of them.

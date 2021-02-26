@@ -1,5 +1,6 @@
 # Swarm of Rot Grubs
 >*Medium swarm of tiny beasts, unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 8
 >- **Hit Points** 22 (5d8)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained
 >- **Senses** blindsight 10 ft., passive Perception 6
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points.  
 >
->### Actions
+## Actions
 >***Bites.*** Melee Weapon Attack: +0 to hit, reach 0 ft., one creature in the swarm's space. Hit: The target is infested by 1d4 rot grubs. At the start of each of the target's turns, the target takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the target's next turn deals 1 fire damage to the target and kills these rot grubs. After this time, these rot grubs are too far under the skin to be burned. If a target infested by rot grubs ends its turn with 0 hit points, it dies as the rot grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target.
 ## Swarm of Rot Grubs
 Rot grubs are finger-sized maggots that eat living or dead flesh, although they can survive on plant matter. They infest corpses and piles of decaying matter and attack living creatures that disturb them. After burrowing into the flesh of a living creature, a rot grub instinctively chews its way toward the heart in order to kill its host.

@@ -1,5 +1,6 @@
 # Underworld Cerberus
->*Large monstrosity, lawful evil*
+>*Large #monstrosity , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 104 (11d10 + 44)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, stunned
 >- **Senses** truesight 30 ft., passive Perception 19
 >- **Languages** understands all languages but can't speak
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Aggressive.*** As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.  
 >
@@ -22,7 +23,7 @@
 >
 >***Pack Tactics.*** The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The cerberus makes three bite attacks.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage.  

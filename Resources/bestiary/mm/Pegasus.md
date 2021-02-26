@@ -1,5 +1,6 @@
 # Pegasus
->*Large celestial, chaotic good*
+>*Large #celestial , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 59 (7d10 + 21)
@@ -12,10 +13,10 @@
 >- **Saving Throws** Dex +4, Wis +4, Cha +3
 >- **Skills** Perception +6
 >- **Senses** passive Perception 16
->- **Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
->- **Challenge** 2 (450 XP)
+>- **Languages** understands #celestial , Common, Elvish, and Sylvan but can't speak
+>- #cr2 (450 XP)
 >___
->### Actions
+## Actions
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 ## Pegasus
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.

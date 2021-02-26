@@ -1,5 +1,6 @@
 # Drow Inquisitor
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 143 (22d8 + 44)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 120 ft., passive Perception 20
 >- **Languages** Elvish, Undercommon
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Discern Lie.*** The drow knows when she hears a creature speak a lie in a language she knows.  
 >
@@ -41,7 +42,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes three death lance attacks.  
 >
 >***Death Lance.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage plus 18 (4d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage it takes. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.

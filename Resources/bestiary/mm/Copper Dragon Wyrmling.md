@@ -1,5 +1,6 @@
 # Copper Dragon Wyrmling
->*Medium dragon, chaotic good*
+>*Medium #dragon , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -14,9 +15,9 @@
 >- **Damage Immunities** acid
 >- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Draconic
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.  
 >
 >***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.  
@@ -27,7 +28,7 @@
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 A copper dragon has brow plates jutting over its eyes, extending back to long horns that grow as a series of overlapping segments. Its backswept cheek ridges and jaw frills give it a pensive look. At birth, a copper dragon's scales are a ruddy brown with a metallic tint. As the dragon ages, its scales become more coppery in color, later taking on a green tint as it ages. A copper dragon's pupils fade with age, and the eyes of the oldest copper dragons resemble glowing turquoise orbs.
 ***Good Hosts.*** A copper dragon appreciates wit, a good joke, humorous story, or riddle. A copper dragon becomes annoyed with any creature that doesn't laugh at its jokes or accept its tricks with good humor.
-Copper dragons are particularly fond of bards. A dragon might carve out part of its lair as a temporary abode for a bard willing to regale it with stories, riddles, and music. To a copper dragon, such companionship is a treasure to be coveted.
+Copper dragons are particularly fond of bards. A dragon might carve out part of its lair as a temporary abode for a bard willing to regale it with stories, riddles, and music. To a copper #dragon , such companionship is a treasure to be coveted.
 ***Cautious and Crafty.*** When building its hoard, a copper dragon prefers treasures from the earth. Metals and precious stones are favorites of these creatures.
 A copper dragon is wary when it comes to showing off its possessions. If it knows that other creatures seek a specific item in its hoard, a copper dragon will not admit to possessing the item. Instead, it might send curious treasure hunters on a wild goose chase to search for the object while it watches from afar for its own pleasure.
 ***A Copper Dragon's Lair.*** Copper dragons dwell in dry uplands and on hilltops, where they make their lairs in narrow caves. False walls in the lair hide secret antechambers where the dragon stores valuable ores, art objects, and other oddities it has collected over its lifetime. Worthless items are put on display in open caves to tantalize treasure seekers and distract them from where the real treasure is hidden.

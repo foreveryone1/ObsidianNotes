@@ -1,5 +1,6 @@
 # Flying Sword
->*Small construct, unaligned*
+>*Small #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 17 (5d6)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >
 >***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.  
 >
->### Actions
+## Actions
 >***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
 ## Flying Sword
 Animated objects are crafted with potent magic to follow the commands of their creators. When not commanded, they follow the last order they received to the best of their ability, and can act independently to fulfill simple instructions. Some animated objects (including many of those created in the Feywild) might converse fluently or adopt a persona, but most are simple automatons.

@@ -1,5 +1,6 @@
 # Nightveil Specter
->*Medium undead, neutral evil*
+>*Medium #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 105 (14d8 + 42)
@@ -16,11 +17,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** understands Common but can't speak
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Mount.*** If the specter isn't mounted, it can use a bonus action to magically teleport onto its gloamwing mount, provided the specter and the gloamwing are on the same plane of existence. When it teleports, the specter appears astride the gloamwing along with any equipment it is wearing or carrying. While mounted and not incapacitated, the specter can't be surprised, and both it and its mount gain advantage on Dexterity saving throws.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The specter makes two scythe attacks.  
 >
 >***Scythe.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 13 (3d8) psychic damage.  

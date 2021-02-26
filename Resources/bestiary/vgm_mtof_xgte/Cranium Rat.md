@@ -1,5 +1,6 @@
 # Cranium Rat
->*Tiny beast, lawful evil*
+>*Tiny #beast , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 2 (1d4)
@@ -11,13 +12,13 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** telepathy 30 ft.
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Illumination.*** As a bonus action, the cranium rat can shed dim light from its brain in a 5-foot radius or extinguish the light.  
 >
 >***Telepathic Shroud.*** The cranium rat is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 ## Cranium Rat
 Mind flayers create cranium rats by bombarding normal rats with psionic energy.

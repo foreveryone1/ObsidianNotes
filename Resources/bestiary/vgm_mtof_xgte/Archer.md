@@ -1,5 +1,6 @@
 # Archer
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 16 (studded leather armor)
 >- **Hit Points** 75 (10d8 + 30)
@@ -12,11 +13,11 @@
 >- **Skills** Acrobatics +6, Perception +5
 >- **Senses** passive Perception 15
 >- **Languages** any one language (usually Common)
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Archer's Eye (3/Day).*** As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The archer makes two attacks with its longbow.  
 >
 >***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.  

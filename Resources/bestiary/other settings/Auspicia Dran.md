@@ -1,5 +1,6 @@
 # Auspicia Dran
->*Medium humanoid (half-elf), neutral good*
+>*Medium #humanoid (half-elf), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 52 (8d8 + 16)
@@ -12,14 +13,14 @@
 >- **Skills** Athletics +5, Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** Common, Elvish
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Innate Spellcasting (Psionics).*** Auspicia's innate spellcasting ability is Intelligence. She can innately cast the following spells, requiring no components:  
 >
 >At will: detect thoughts  
 >1/day each: augury  
 >
->### Actions
+## Actions
 >***Multiattack.*** Auspicia makes two attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  

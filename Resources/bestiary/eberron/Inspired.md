@@ -1,5 +1,6 @@
 # Inspired
->*Medium humanoid (human), lawful evil*
+>*Medium #humanoid (human), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** passive Perception 10
 >- **Languages** Common, Quori
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Dual Mind.*** The Inspired has advantage on Wisdom saving throws.  
 >
@@ -24,7 +25,7 @@
 >At will: mage hand, vicious mockery (see "Actions" below)  
 >1/day each: charm person, dissonant whispers, hex, hold person, mage armor  
 >
->### Actions
+## Actions
 >***Multiattack.*** The Inspired makes two crysteel dagger attacks. It can replace one attack with vicious mockery.  
 >
 >***Crysteel Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 10 (3d6) force damage.  

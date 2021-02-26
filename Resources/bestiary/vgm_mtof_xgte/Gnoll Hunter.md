@@ -1,5 +1,6 @@
 # Gnoll Hunter
->*Medium humanoid (gnoll), chaotic evil*
+>*Medium #humanoid (gnoll), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3, Stealth +4
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Gnoll
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gnoll makes two melee attacks with its spear or two ranged attacks with its longbow.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

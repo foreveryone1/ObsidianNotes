@@ -1,5 +1,6 @@
 # Draft Horse
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 19 (3d10 + 3)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.

@@ -1,5 +1,6 @@
 # Moloch
->*Large fiend (devil), lawful evil*
+>*Large #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 253 (22d10 + 132)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 21
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 21 (33,000 XP)
+>- #cr21 (33,000 XP)
 >___
 >***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:  
 >
@@ -32,7 +33,7 @@
 >
 >***Regeneration.*** Moloch regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Moloch dies only if he starts his turn with 0 hit points and doesn't regenerate.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Moloch makes three attacks: one with his bite, one with his claw, and one with his whip.  
 >
 >***Bite.*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 26 (4d8 + 8) piercing damage.  
@@ -45,7 +46,7 @@
 >
 >***Teleport.*** Moloch magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.  
 >
->### Legendary Actions
+## Legendary Actions
 >Moloch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Moloch regains spent legendary actions at the start of its turn.
 >
 >- **Stinking Cloud.** Moloch casts stinking cloud.

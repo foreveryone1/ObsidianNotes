@@ -1,5 +1,6 @@
 # Niv-Mizzet
->*Gargantuan dragon, chaotic neutral*
+>*Gargantuan #dragon , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 370 (19d20 + 171)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 >- **Languages** Common, Draconic
->- **Challenge** 26 (90,000 XP)
+>- #cr26 (90,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Niv-Mizzet fails a saving throw, he can choose to succeed instead.  
 >
@@ -33,13 +34,13 @@
 >2nd level (3 slots): blur, enlarge/reduce, flaming sphere, hold person, scorching ray  
 >3rd level (3 slots): counterspell, fireball, lightning bolt, slow  
 >4th level (3 slots): confusion, dimension door, fabricate  
->5th level (2 slots): conjure elemental, polymorph, wall of fire, wall of force  
+>5th level (2 slots): conjure #elemental , polymorph, wall of fire, wall of force  
 >6th level (1 slot): chain lightning, disintegrate, true seeing  
 >7th level (1 slot): project image, reverse gravity, teleport  
 >8th level (1 slot): control weather, maze, power word stun  
 >9th level (1 slot): prismatic wall  
 >
->### Actions
+## Actions
 >***Multiattack.*** Niv-Mizzet makes three attacks: one with his bite and two with his claws.  
 >
 >***Bite.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 18 (2d8 + 9) piercing damage plus 14 (4d6) fire damage.  
@@ -50,7 +51,7 @@
 >
 >***Fire Breath (Recharge 5–6).*** Niv-Mizzet exhales fire in a 90-foot cone. Each creature in that area must make a DC 25 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.  
 >
->### Legendary Actions
+## Legendary Actions
 >Niv-Mizzet can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Niv-Mizzet regains spent legendary actions at the start of its turn.
 >
 >- **Cantrip.** Niv-Mizzet casts one of his cantrips.
@@ -59,4 +60,4 @@
 >- **Dracogenius (Costs 3 Actions).** Niv-Mizzet regains a spell slot of 3rd level or lower.
 ## Niv-Mizzet
 Possessed of arrogance and vanity that matches his vast intellect and tremendous power, Niv-Mizzet is the ancient dragon who founded and continues to control the Izzet League. From his private laboratory at the top of the Izzet guildhall, Niv-Mizzet directs the research and experiments of his countless underlings. He coordinates a tremendous number of apparently unrelated projects, working toward some mysterious end.
-There can be little doubt that this ancient dragon is one of the most intelligent beings on Ravnica and one of the world's most powerful spellcasters. He is just as acquisitive as any dragon, but his treasure is scientific and magical knowledge. His ambition is a looming threat in the minds of all the other guildmasters, but confronting him directly is almost unthinkable thanks to the combination of his awesome magical power and the sheer physical threat of a fire-breathing, swordtoothed dragon.
+There can be little doubt that this ancient dragon is one of the most intelligent beings on Ravnica and one of the world's most powerful spellcasters. He is just as acquisitive as any #dragon , but his treasure is scientific and magical knowledge. His ambition is a looming threat in the minds of all the other guildmasters, but confronting him directly is almost unthinkable thanks to the combination of his awesome magical power and the sheer physical threat of a fire-breathing, swordtoothed dragon.

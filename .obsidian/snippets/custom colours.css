@@ -1,0 +1,17 @@
+.nav-action-button.is-active,
+.nav-action-button.is-active .widget-icon {
+  background-color: #E3E5E8 !important;
+  fill: var(--text-muted) !important;
+  color: var(--text-muted) !important;
+}
+.markdown-preview-view .task-list-item-checkbox {
+filter: hue-rotate(-11deg) brightness(100%) saturate(17%);
+}
+
+
+.theme-light {
+  --text-accent: #69777F;
+  --text-accent-hover: #3F474C;
+  --interactive-accent: #6C6982;
+  --interactive-accent-rgb: 108, 105, 130;
+  --interactive-accent-hover: #7670A0;}

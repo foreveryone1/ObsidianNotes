@@ -1,5 +1,6 @@
 # Hydra
->*Huge monstrosity, unaligned*
+>*Huge #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 172 (15d12 + 75)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +6
 >- **Senses** darkvision 60 ft., passive Perception 16
 >- **Languages** —
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Hold Breath.*** The hydra can hold its breath for 1 hour.  
 >
@@ -24,7 +25,7 @@
 >
 >***Wakeful.*** While the hydra sleeps, at least one of its heads is awake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hydra makes as many bite attacks as it has heads.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.

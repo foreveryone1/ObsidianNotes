@@ -1,5 +1,6 @@
 # Ogre Bolt Launcher
->*Large giant, chaotic evil*
+>*Large #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 59 (7d10 + 21)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** Common, Giant
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
->### Actions
+## Actions
 >***Fist.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.  
 >
 >***Bolt Launcher.*** Ranged Weapon Attack: +3 to hit, range 120/480 ft., one target. Hit: 17 (3d10 + 1) piercing damage.

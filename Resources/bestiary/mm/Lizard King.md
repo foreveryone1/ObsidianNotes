@@ -1,5 +1,6 @@
 # Lizard King
->*Medium humanoid (lizardfolk), chaotic evil*
+>*Medium #humanoid (lizardfolk), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Abyssal, Draconic
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.  
 >
 >***Skewer.*** Once per turn, when the lizardfolk makes a melee attack with its trident and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains temporary hit points equal to the extra damage dealt.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The lizardfolk makes two attacks: one with its bite and one with its claws or trident or two melee attacks with its trident.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  

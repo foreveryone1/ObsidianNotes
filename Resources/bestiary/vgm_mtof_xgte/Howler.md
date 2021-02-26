@@ -1,5 +1,6 @@
 # Howler
->*Large fiend, chaotic evil*
+>*Large #fiend , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 90 (12d10 + 24)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** understands Abyssal but can't speak
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The howler makes two bite attacks.  
 >
 >***Rending Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is frightened it takes an additional 22 (4d10) psychic damage. This attack ignores damage resistance.  

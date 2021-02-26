@@ -1,5 +1,6 @@
 # Warlock of the Fiend
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** slashing from nonmagical attacks not made with silvered weapons
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** any two languages (usually Abyssal or Infernal)
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Dark One's Own Luck (Recharges after a Short or Long Rest).*** When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.  
 >
@@ -29,7 +30,7 @@
 >Cantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusion, prestidigitation, shocking grasp  
 >1st-5th level (4 5th-level slots): banishment, burning hands, flame strike, hellish rebuke, magic circle, scorching ray, scrying, stinking cloud, suggestion, wall of fire  
 >
->### Actions
+## Actions
 >***Mace.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage.
 ## Warlock of the Fiend
 Warlocks of the fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep imps or quasits as companions, and they tend toward extremes of behavior: consorting with fiend-worshiping cultists or dedicating their lives to destroying fiendish cults.

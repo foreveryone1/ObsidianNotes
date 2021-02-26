@@ -1,5 +1,6 @@
 # The Lost
->*Medium monstrosity, lawful evil*
+>*Medium #monstrosity , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -13,9 +14,9 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** Common
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The Lost makes two arm spike attacks.  
 >
 >***Arm Spike.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage.  

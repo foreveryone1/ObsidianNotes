@@ -1,5 +1,6 @@
 # Spirit Naga
->*Large monstrosity, chaotic evil*
+>*Large #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 75 (10d10 + 20)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Abyssal, Common
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.  
 >
@@ -27,7 +28,7 @@
 >4th level (3 slots): blight, dimension door  
 >5th level (2 slots): dominate person  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 ## Spirit Naga
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.

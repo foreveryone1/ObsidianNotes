@@ -1,5 +1,6 @@
 # Phoenix Anvil
->*Medium humanoid (human), lawful neutral*
+>*Medium #humanoid (human), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 27 (5d8 + 5)
@@ -12,7 +13,7 @@
 >- **Skills** Athletics +4, Performance +3, Persuasion +3, Religion +3
 >- **Senses** passive Perception 13
 >- **Languages** Common, Elvish
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Divine Display (1/Day).*** As a bonus action, Phoenix causes his shield to flare with divine light. Each creature of his choice within 30 feet of him must succeed on a DC 13 Wisdom saving throw or be blinded for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself with a success.  
 >
@@ -22,7 +23,7 @@
 >1st level (4 slots): bane, cure wounds, guiding bolt  
 >2nd level (3 slots): hold person, spiritual weapon  
 >
->### Actions
+## Actions
 >***Multiattack.*** Phoenix makes two melee attacks.  
 >
 >***Warhammer.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target must succeed on a DC 12 Strength saving throw or be pushed 5 feet.

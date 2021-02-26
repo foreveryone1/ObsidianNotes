@@ -1,5 +1,6 @@
 # Yuan-ti Malison (Type 1)
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 66 (12d8 + 12)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.  
 >
@@ -33,7 +34,7 @@
 >At will: animal friendship (snakes only)  
 >3/day: suggestion  
 >
->### Actions
+## Actions
 >***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.  

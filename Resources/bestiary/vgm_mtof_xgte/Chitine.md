@@ -1,5 +1,6 @@
 # Chitine
->*Small monstrosity, chaotic evil*
+>*Small #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 18 (4d6 + 4)
@@ -12,7 +13,7 @@
 >- **Skills** Athletics +4, Stealth +4
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Undercommon
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Fey Ancestry.*** The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.  
 >
@@ -22,7 +23,7 @@
 >
 >***Web Walker.*** The chitine ignores movement restrictions caused by webbing.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The chitine makes three attacks with its daggers.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.

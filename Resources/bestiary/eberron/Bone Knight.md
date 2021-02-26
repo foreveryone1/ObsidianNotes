@@ -1,5 +1,6 @@
 # Bone Knight
->*Medium humanoid (any race), any non-good alignment*
+>*Medium #humanoid (any race), any non-good alignment*
+## Monster Traits
 >___
 >- **Armor Class** 20 (bonecraft armor)
 >- **Hit Points** 84 (13d8 + 26)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** necrotic, poison
 >- **Senses** passive Perception 12
 >- **Languages** any one language (usually Common)
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Commander of Bones.*** As a bonus action, the knight can target one skeleton or zombie it can see within 30 feet of it. The target must make a DC 14 Wisdom saving throw. On a failed save, the target must obey the knight's commands until the knight dies or until the knight releases it as a bonus action. The knight can command up to twelve undead at a time this way.  
 >
@@ -25,7 +26,7 @@
 >1st level (4 slots): command, compelled duel, hellish rebuke, wrathful smite  
 >2nd level (3 slots): branding smite, crown of madness, darkness, find steed, magic weapon  
 >
->### Actions
+## Actions
 >***Multiattack.*** The knight attacks twice with one of its weapons.  
 >
 >***Greatsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.  

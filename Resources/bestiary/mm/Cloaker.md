@@ -1,5 +1,6 @@
 # Cloaker
->*Large aberration, chaotic neutral*
+>*Large #aberration , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 78 (12d10 + 12)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Deep Speech, Undercommon
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Damage Transfer.*** While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down). and that creature takes the other half.  
 >
@@ -20,7 +21,7 @@
 >
 >***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The cloaker makes two attacks: one with its bite and one with its tail.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.  

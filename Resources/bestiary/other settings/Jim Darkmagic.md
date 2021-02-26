@@ -1,5 +1,6 @@
 # Jim Darkmagic
->*Medium humanoid (human), chaotic neutral*
+>*Medium #humanoid (human), chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -13,7 +14,7 @@
 >- **Skills** Acrobatics +5, Animal Handling +4, Arcana +7, History +7, Performance +5
 >- **Senses** passive Perception 11
 >- **Languages** Common
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Special Equipment.*** Jim carries a wand of wonder. Benign Transportation (Recharges after Jim Casts a Conjuration Spell of 1st Level or Higher). As a bonus action, Jim teleports up to 30 feet to a space he can see. The space must be unoccupied or occupied by a willing Small or Medium creature. If the latter, Jim and the willing creature both teleport, swapping places.  
 >
@@ -29,7 +30,7 @@
 >*New spell introduced in chapter 3  
 >
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  
 >
 >***Minor Conjuration.*** Jim conjures an inanimate object, no larger than 3 feet on a side and no more than 10 pounds, in his hand or on the ground in an unoccupied space he can see within 10 feet of him. The object is visibly magical, radiating dim light out to 5 feet. It disappears if it takes any damage, after 1 hour, or when Jim uses this feature again.

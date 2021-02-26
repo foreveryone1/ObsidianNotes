@@ -1,5 +1,6 @@
 # Drow Elite Warrior
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (studded leather armor, shield)
 >- **Hit Points** 71 (11d8 + 22)
@@ -13,7 +14,7 @@
 >- **Skills** Perception +4, Stealth +10
 >- **Senses** darkvision 120 ft., passive Perception 14
 >- **Languages** Elvish, Undercommon
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -25,7 +26,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes two shortsword attacks.  
 >
 >***Shortsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.  

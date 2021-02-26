@@ -1,5 +1,6 @@
 # Naiad
->*Medium fey, chaotic neutral*
+>*Medium #fey , , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 31 (7d8)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** passive Perception 10
 >- **Languages** Common, Sylvan
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Amphibious.*** The naiad can breathe air and water.  
 >
@@ -30,7 +31,7 @@
 >
 >***Magic Resistance.*** The naiad has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The naiad makes two psychic touch attacks.  
 >
 >***Psychic Touch.*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) psychic damage.

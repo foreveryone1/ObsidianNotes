@@ -1,5 +1,6 @@
 # Geryon
->*Huge fiend (devil), lawful evil*
+>*Huge #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 300 (24d12 + 144)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** truesight 120 ft., passive Perception 20
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 22 (41,000 XP)
+>- #cr22 (41,000 XP)
 >___
 >***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:  
 >
@@ -32,7 +33,7 @@
 >
 >***Regeneration.*** Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Geryon makes two attacks: one with his claws and one with his stinger.  
 >
 >***Claws.*** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) slashing damage.  
@@ -41,7 +42,7 @@
 >
 >***Teleport.*** Geryon magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.  
 >
->### Legendary Actions
+## Legendary Actions
 >Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of its turn.
 >
 >- **Infernal Glare.** Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
@@ -53,7 +54,7 @@ Among the archdevils, Geryon and Zariel are especially known for martial prowess
 His ferocity serves him well in Stygia's frozen waste, but it has also limited his ability to collect souls and forge an effective hierarchy. Sages who study the Nine Hells believe that the battle for control of Stygia is a test staged by Asmodeus in hopes of purging the worst impulses from both Geryon and Levistus, or at the very least opening the door for a competent replacement for both to rise from the ranks.
 #### Geryon's Lair
 Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling complex that rises from the ice and snow at the center of Stygia. He roams the passages of this place, scattering the ice devils and minotaur slaves he took from Baphomet, raging against Asmodeus's betrayal while spitting oaths of vengeance and hatching mad schemes to reclaim his standing from Levistus.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), Geryon can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 - Geryon causes a blast of cold to burst from the ground at a point he can see within 120 feet of him. The cold fills a cube, 10 feet on each side, centered on that point. Each creature in that area must succeed on a DC 21 Constitution saving throw or take 28 (8d6) cold damage.
 - Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become restrained for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.

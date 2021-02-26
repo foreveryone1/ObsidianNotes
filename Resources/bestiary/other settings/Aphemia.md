@@ -1,5 +1,6 @@
 # Aphemia
->*Medium monstrosity, chaotic evil*
+>*Medium #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 52 (8d8 + 16)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Common
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Legendary Resistance (2/Day).*** If Aphemia fails a saving throw, she can choose to succeed instead.  
 >
 >***Magic Resistance.*** Aphemia has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Aphemia makes two attacks: one with her bite and one with her claws.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage plus 13 (3d8) necrotic damage.  

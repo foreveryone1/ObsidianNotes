@@ -1,5 +1,6 @@
 # Giff
->*Medium humanoid, lawful neutral*
+>*Medium #humanoid , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 60 (8d8 + 24)
@@ -11,13 +12,13 @@
 >___
 >- **Senses** passive Perception 11
 >- **Languages** Common
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Firearms Knowledge.*** The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.  
 >
 >***Headfirst Charge.*** The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line that ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giff makes two pistol attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.  

@@ -1,5 +1,6 @@
 # Girallon
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 59 (7d10 + 21)
@@ -12,11 +13,11 @@
 >- **Skills** Perception +3, Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** —
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Aggressive.*** As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The girallon makes five attacks: one with its bite and four with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage.  

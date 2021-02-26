@@ -1,5 +1,6 @@
 # Merregon
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** understands Infernal but can't speak, telepathy 120 ft.
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the merregon's darkvision.  
 >
 >***Magic Resistance.*** The merregon has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The merregon makes two halberd attacks, or if an allied fiend of challenge rating 6 or higher is within 60 feet of it, the merregon makes three halberd attacks.  
 >
 >***Halberd.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage.  

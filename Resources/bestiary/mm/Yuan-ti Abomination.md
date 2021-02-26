@@ -1,5 +1,6 @@
 # Yuan-ti Abomination
 >*Large monstrosity (shapechanger, yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 127 (15d10 + 45)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.  
 >
@@ -26,7 +27,7 @@
 >3/day: suggestion  
 >1/day: fear  
 >
->### Actions
+## Actions
 >***Multiattack (Abomination Form Only).*** The yuan-ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attacks only once each.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.  

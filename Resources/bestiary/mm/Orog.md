@@ -1,5 +1,6 @@
 # Orog
->*Medium humanoid (orc), chaotic evil*
+>*Medium #humanoid (orc), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 42 (5d8 + 20)
@@ -12,11 +13,11 @@
 >- **Skills** Intimidation +5, Survival +2
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common, Orc
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The orog makes two greataxe attacks.  
 >
 >***Greataxe.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.  

@@ -1,5 +1,6 @@
 # Allowak Yeti
->*Large monstrosity, neutral*
+>*Large #monstrosity , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 51 (6d10 + 18)
@@ -13,7 +14,7 @@
 >- **Damage Immunities** cold
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Yeti
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.  
 >
@@ -21,7 +22,7 @@
 >
 >***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The yeti can use its Chilling Gaze and makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.  

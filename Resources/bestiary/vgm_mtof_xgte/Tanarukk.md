@@ -1,5 +1,6 @@
 # Tanarukk
->*Medium fiend (demon, orc), chaotic evil*
+>*Medium #fiend (demon, orc), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 95 (10d8 + 50)
@@ -13,13 +14,13 @@
 >- **Damage Resistances** fire, poison
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Abyssal, Common, Orc
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Aggressive.*** As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.  
 >
 >***Magic Resistance.*** The tanarukk has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The tanarukk makes two attacks: one with its bite and one with its greatsword.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.  

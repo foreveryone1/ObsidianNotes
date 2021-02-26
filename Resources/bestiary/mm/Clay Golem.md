@@ -1,5 +1,6 @@
 # Clay Golem
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 133 (14d10 + 56)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Acid Absorption.*** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.  
 >
@@ -25,7 +26,7 @@
 >
 >***Magic Weapons.*** The golem's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The golem makes two slam attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the  greater restoration spell or other magic.  

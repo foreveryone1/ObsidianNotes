@@ -1,5 +1,6 @@
 # Sphinx of Judgment
->*Large monstrosity, lawful neutral*
+>*Large #monstrosity , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 136 (16d10 + 48)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** truesight 120 ft., passive Perception 18
 >- **Languages** Common, Sphinx
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.  
 >
@@ -30,12 +31,12 @@
 >4th level (3 slots): banishment, divination  
 >5th level (1 slot): dominate person  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sphinx makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The sphinx of judgment can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The sphinx of judgment regains spent legendary actions at the start of its turn.
 >
 >- **Claw Attack.** The sphinx makes one claw attack.

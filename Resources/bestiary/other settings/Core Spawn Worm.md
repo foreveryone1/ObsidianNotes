@@ -1,5 +1,6 @@
 # Core Spawn Worm
->*Gargantuan aberration, chaotic evil*
+>*Gargantuan #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 279 (18d20 + 90)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 14
 >- **Languages** understands Deep Speech but can't speak
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Illumination.*** The worm sheds dim light in a 20-foot radius.  
 >
@@ -24,7 +25,7 @@
 >
 >***Tunneler.*** The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The worm makes two attacks: one with its barbed tentacles and one with its bite.  
 >
 >***Barbed Tentacles.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one creature. Hit: 25 (5d6 + 8) piercing damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The tentacles can grapple only one creature at a time.  

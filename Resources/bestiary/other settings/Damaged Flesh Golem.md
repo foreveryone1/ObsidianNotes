@@ -1,5 +1,6 @@
 # Damaged Flesh Golem
->*Medium construct, neutral*
+>*Medium #construct , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 5 (11d8 + 44)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Aversion of Fire.*** If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.  
 >
@@ -28,5 +29,5 @@
 >
 >***Magic Weapons.*** The golem's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.

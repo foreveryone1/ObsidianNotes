@@ -1,5 +1,6 @@
 # Hybrid Shocker
->*Medium humanoid (Simic hybrid), neutral good*
+>*Medium #humanoid (Simic hybrid), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 39 (6d8 + 12)
@@ -12,13 +13,13 @@
 >- **Damage Immunities** lightning
 >- **Senses** passive Perception 11
 >- **Languages** Common plus any one language
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Electrified Body.*** Any creature that touches the hybrid or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage.  
 >
 >***Illumination.*** The hybrid sheds bright light in a 10-foot radius and dim light for an additional 10 feet.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hybrid makes two attacks: one with its shocking touch and one with its tentacles.  
 >
 >***Shocking Touch.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d8) lightning damage.  

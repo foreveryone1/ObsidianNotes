@@ -1,5 +1,6 @@
 # Gold-Forged Sentinel
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 76 (8d10 + 32)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** understands one language of its creator but can't speak
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Charge.*** If the sentinel moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 10 (3d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.  
 >
 >***Spell Turning.*** The sentinel has advantage on saving throws against any spell that targets only the sentinel (not an area). If the sentinel's saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the sentinel and instead targets the caster.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sentinel makes two ram attacks.  
 >
 >***Ram.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.  

@@ -1,5 +1,6 @@
 # Warforged Colossus
->*Gargantuan construct, unaligned*
+>*Gargantuan #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 23 (natural armor)
 >- **Hit Points** 410 (20d20 + 200)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned
 >- **Senses** truesight 150 ft., passive Perception 10
 >- **Languages** understands Common but can't speak
->- **Challenge** 25 (75,000 XP)
+>- #cr25 (75,000 XP)
 >___
 >***Immutable Form.*** The colossus is immune to any spell or effect that would alter its form.  
 >
@@ -26,7 +27,7 @@
 >
 >***Towering Terror.*** Any enemy outside the colossus that starts its turn within 30 feet of it must succeed on a DC 26 Wisdom saving throw or be frightened until the start of the enemy's next turn. If the enemy's saving throw is successful, it is immune to this colossus's Towering Terror for the next 24 hours.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The colossus makes three attacks—one with its slam and two with its eldritch turrets—and then uses Stomp.  
 >
 >***Slam.*** Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 29 (3d12 + 10) bludgeoning damage, and the colossus can push the target up to 20 feet away from it.  

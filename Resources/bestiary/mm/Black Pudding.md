@@ -1,5 +1,6 @@
 # Black Pudding
->*Large ooze, unaligned*
+>*Large #ooze , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 7
 >- **Hit Points** 85 (10d10 + 30)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 >- **Languages** —
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing.  
 >
@@ -21,7 +22,7 @@
 >
 >***Spider Climb.*** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Pseudopod.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.  
 >
 >### Reactions

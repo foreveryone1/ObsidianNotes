@@ -1,5 +1,6 @@
 # Reflection
->*Medium fey, chaotic evil*
+>*Medium #fey , , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 16 (3d8 + 3)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Amorphous.*** The reflection can move through a space as narrow as 1 inch wide without squeezing.  
 >
@@ -24,6 +25,6 @@
 >
 >***Sunlight Weakness.*** While in sunlight, the reflection has disadvantage on attack rolls, ability checks, and saving throws.  
 >
->### Actions
+## Actions
 >***Strength Drain.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.  
 >If a non-evil humanoid dies from this attack, a new reflection rises from the corpse 1d4 hours later.

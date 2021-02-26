@@ -1,5 +1,6 @@
 # Lizardfolk Shaman
->*Medium humanoid (lizardfolk), neutral*
+>*Medium #humanoid (lizardfolk), neutral*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 27 (5d8 + 5)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +4, Stealth +4, Survival +6
 >- **Senses** passive Perception 14
 >- **Languages** Draconic
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.  
 >
@@ -23,7 +24,7 @@
 >2nd level (3 slots): heat metal, spike growth  
 >3rd level (2 slots): conjure animals (reptiles only), plant growth  
 >
->### Actions
+## Actions
 >***Multiattack (Lizardfolk Form Only).*** The lizardfolk makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the lizardfolk can't bite another target. If the lizardfolk reverts to its true form, the grapple ends.  

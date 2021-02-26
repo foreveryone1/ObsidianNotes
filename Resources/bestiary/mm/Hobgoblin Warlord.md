@@ -1,5 +1,6 @@
 # Hobgoblin Warlord
->*Medium humanoid (goblinoid), lawful evil*
+>*Medium #humanoid (goblinoid), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (plate armor, shield)
 >- **Hit Points** 97 (13d8 + 39)
@@ -12,11 +13,11 @@
 >- **Saving Throws** Int +5, Wis +3, Cha +5
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common, Goblin
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.  
 >
 >***Longsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  

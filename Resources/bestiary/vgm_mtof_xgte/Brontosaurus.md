@@ -1,5 +1,6 @@
 # Brontosaurus
->*Gargantuan beast, unaligned*
+>*Gargantuan #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 121 (9d20 + 27)
@@ -12,9 +13,9 @@
 >- **Saving Throws** Con +6
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
->### Actions
+## Actions
 >***Stomp.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.  
 >
 >***Tail.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32 (6d8 + 5) bludgeoning damage.

@@ -1,5 +1,6 @@
 # Oread
->*Medium fey, chaotic evil*
+>*Medium #fey , , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 49 (9d8 + 9)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** passive Perception 11
 >- **Languages** Common, Sylvan
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The oread's spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Resistance.*** The oread has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The oread attacks twice with its fiery touch or fire bolt.  
 >
 >***Fiery Touch.*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) fire damage.  

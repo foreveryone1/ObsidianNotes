@@ -1,5 +1,6 @@
 # Fluxcharger
->*Large elemental, chaotic neutral*
+>*Large #elemental , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 60 (8d10 + 16)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Draconic
->- **Challenge** 7 (2,900 XP)
+>- #cr7 (2,900 XP)
 >___
 >***Amplify Lightning.*** Whenever a spell that deals lightning damage includes one or more fluxchargers in its area, the spell deals an extra 9 (2d8) lightning damage.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The fluxcharger makes two slam attacks or uses Arc Lightning twice.  
 >
 >***Slam.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 10 (3d6) fire damage.  

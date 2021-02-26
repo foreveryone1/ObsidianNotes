@@ -1,5 +1,6 @@
 # Hashalaq Quori
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 99 (18d8 + 18)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Quori
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The quori's spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:  
 >
@@ -23,7 +24,7 @@
 >3/day each: detect thoughts, disguise self, suggestion  
 >1/day: dominate person, dream  
 >
->### Actions
+## Actions
 >***Multiattack.*** The quori uses its Mind Thrust twice.  
 >
 >***Idyllic Touch.*** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) force damage. If the target is a creature, it must succeed on a DC 16 Wisdom saving throw or fall prone in a fit of laughter.  

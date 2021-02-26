@@ -1,5 +1,6 @@
 # Sword Wraith Commander
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (breastplate, shield)
 >- **Hit Points** 127 (15d8 + 60)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** exhaustion, frightened, poisoned, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** the languages it knew in life
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Martial Fury.*** As a bonus action, the sword wraith can make one weapon attack, which deals an extra 9 (2d8) necrotic damage on a hit. If it does so, attack rolls against it have advantage until the start of its next turn.  
 >
 >***Turning Defiance.*** The sword wraith and any other sword wraiths within 30 feet of it have advantage on saving throws against effects that turn undead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sword wraith makes two weapon attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.  

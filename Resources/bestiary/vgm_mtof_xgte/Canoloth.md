@@ -1,5 +1,6 @@
 # Canoloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 120 (16d8 + 48)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., truesight 120 ft., passive Perception 19
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Dimensional Lock.*** Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.  
 >
@@ -25,7 +26,7 @@
 >
 >***Uncanny Senses.*** The canoloth can't be surprised while it isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The canoloth makes two attacks: one with its tongue or its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 25 (6d6 + 4) piercing damage.  

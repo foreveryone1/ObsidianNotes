@@ -1,5 +1,6 @@
 # Conjurer
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +6, History +6
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Benign Transportation (Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher).*** As a bonus action, the conjurer teleports up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.  
 >
@@ -29,7 +30,7 @@
 >*Conjuration spell of 1st level or higher  
 >
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 ## Conjurer
 Conjurers are specialist wizards who summon creatures from other planes and create materials out of thin air. Some conjurers use their magic to bolster armies or destroy enemies on battlefields, while others use summoned creatures to guard their lairs.

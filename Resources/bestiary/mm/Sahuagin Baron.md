@@ -1,5 +1,6 @@
 # Sahuagin Baron
->*Large humanoid (sahuagin), lawful evil*
+>*Large #humanoid (sahuagin), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 76 (9d10 + 27)
@@ -13,7 +14,7 @@
 >- **Skills** Perception +7
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** Sahuagin
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -21,7 +22,7 @@
 >
 >***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The sahuagin makes three attacks: one with his bite and two with his claws or trident.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.  

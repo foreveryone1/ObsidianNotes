@@ -1,5 +1,6 @@
 # Category 3 Krasis
->*Huge monstrosity, unaligned*
+>*Huge #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 287 (25d12 + 125)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** passive Perception 11
 >- **Languages** —
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Amphibious.*** The krasis can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The krasis makes three attacks: one with its bite, one with its claws, and one with its tail.  
 >
 >***Bite.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one creature. Hit: 27 (6d6 + 6) piercing damage.  

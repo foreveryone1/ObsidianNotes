@@ -1,5 +1,6 @@
 # Yuan-ti Pit Master
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 88 (16d8 + 16)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 11
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.  
 >
@@ -34,7 +35,7 @@
 >Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll), friends, guidance, mage hand, message, poison spray  
 >1st-3rd level (2 3rd-level slots): command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, vampiric touch  
 >
->### Actions
+## Actions
 >***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two bite attacks using its snake arms.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.  

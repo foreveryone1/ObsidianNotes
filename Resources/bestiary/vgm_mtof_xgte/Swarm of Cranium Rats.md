@@ -1,5 +1,6 @@
 # Swarm of Cranium Rats
 >*Medium swarm of tiny beasts, lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 36 (8d8)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** telepathy 30 ft.
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Illumination.*** As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5 to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.  
 >
@@ -27,7 +28,7 @@
 >
 >***Telepathic Shroud.*** The swarm is immune to any effect that would sense its emotions or read its thoughts. as well as to all divination spells.  
 >
->### Actions
+## Actions
 >***Bites.*** Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 ## Swarm of Cranium Rats
 Mind flayers create cranium rats by bombarding normal rats with psionic energy.

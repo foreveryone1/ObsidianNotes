@@ -1,5 +1,6 @@
 # Lion
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 26 (4d10 + 4)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +3, Stealth +6
 >- **Senses** passive Perception 13
 >- **Languages** —
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.  
 >
@@ -22,7 +23,7 @@
 >
 >***Running Leap.*** With a 10-foot running start, the lion can long jump up to 25 feet.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.  
 >
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

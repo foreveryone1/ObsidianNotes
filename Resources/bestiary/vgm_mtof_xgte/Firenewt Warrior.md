@@ -1,5 +1,6 @@
 # Firenewt Warrior
->*Medium humanoid (firenewt), neutral evil*
+>*Medium #humanoid (firenewt), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (chain shirt, shield)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Damage Immunities** fire
 >- **Senses** passive Perception 10
 >- **Languages** Draconic, Ignan
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** The firenewt can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The firenewt makes two attacks with its scimitar.  
 >
 >***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.  

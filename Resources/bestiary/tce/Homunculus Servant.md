@@ -1,5 +1,6 @@
 # Homunculus Servant
 >*Tiny construct*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)
@@ -15,13 +16,13 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10 + (PB × 2)
 >- **Languages** understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
 >
 >***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: the homunculus's skill and saving throw bonuses (above) and the bonuses to hit and damage of its attack (below).  
 >
->### Actions
+## Actions
 >***Force Strike.*** Ranged Weapon Attack: your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.  
 >
 >### Reactions

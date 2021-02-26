@@ -1,5 +1,6 @@
 # Red Abishai
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 255 (30d8 + 120)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 18
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
->- **Challenge** 19 (22,000 XP)
+>- #cr19 (22,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.  
 >
@@ -24,7 +25,7 @@
 >
 >***Magic Weapons.*** The abishai's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The abishai can use its Frightful Presence. It also makes three attacks: one with its morningstar, one with its claw, and one with its bite.  
 >
 >***Morningstar.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) piercing damage.  

@@ -1,5 +1,6 @@
 # Duergar Screamer
->*Medium construct, lawful evil*
+>*Medium #construct , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 38 (7d8 + 7)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 7
 >- **Languages** understands Dwarvish but can't speak
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Engine of Pain.*** Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The screamer makes one drill attack and uses its Sonic Scream.  
 >
 >***Drill.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) piercing damage.  

@@ -1,5 +1,6 @@
 # Bullywug
->*Medium humanoid (bullywug), neutral evil*
+>*Medium #humanoid (bullywug), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (hide armor, shield)
 >- **Hit Points** 11 (2d8 + 2)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +3
 >- **Senses** passive Perception 10
 >- **Languages** Bullywug
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** The bullywug can breathe air and water.  
 >
@@ -22,7 +23,7 @@
 >
 >***Swamp Camouflage.*** The bullywug has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The bullywug makes two melee attacks: one with its bite and one with its spear.  
 >
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.  

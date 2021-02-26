@@ -1,5 +1,6 @@
 # Alseid
->*Medium fey, chaotic good*
+>*Medium #fey , , chaotic good*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** passive Perception 12
 >- **Languages** Common, Sylvan
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Hide in Plain Sight.*** The alseid has advantage on Dexterity (Stealth) checks made to hide while it is in grassland.  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Resistance.*** The alseid has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The alseid makes two radiant touch attacks.  
 >
 >***Radiant Touch.*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) radiant damage.

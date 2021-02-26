@@ -1,5 +1,6 @@
 # Assassin
->*Medium humanoid (any race), any non-good alignment*
+>*Medium #humanoid (any race), any non-good alignment*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** poison
 >- **Senses** passive Perception 13
 >- **Languages** Thieves' cant plus any two languages
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.  
 >
@@ -22,7 +23,7 @@
 >
 >***Sneak Attack (1/Turn).*** The assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The assassin makes two shortsword attacks.  
 >
 >***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.  

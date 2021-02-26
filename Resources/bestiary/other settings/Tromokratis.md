@@ -1,5 +1,6 @@
 # Tromokratis
 >*Gargantuan monstrosity (titan), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 409 (21d20 + 189)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened, paralyzed, restrained
 >- **Senses** blindsight 120 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 26 (90,000 XP, or 180,000 XP as a mythic encounter)
+>- #cr26 (90,000 XP, or 180,000 XP as a mythic encounter)
 >___
 >***Amphibious.*** Tromokratis can breathe air and water.  
 >
@@ -29,7 +30,7 @@
 >
 >***Spell-Resistant Carapace.*** Tromokratis has advantage on saving throws against spells, and any creature that makes a spell attack against Tromokratis has disadvantage on the attack roll.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Tromokratis makes three attacks: one with its pincer, one with its tail, and one with its tentacle grasp.  
 >
 >***Pincer.*** Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 20 (3d6 + 10) bludgeoning damage, and if the target is a creature, it is grappled (escape DC 26). Until the grapple ends, the target is restrained, and Tromokratis can't use this attack on anyone else.  
@@ -40,7 +41,7 @@
 >
 >***Bite.*** Melee Weapon Attack: +18 to hit, reach 5 ft., one target. Hit: 29 (3d12 + 10) piercing damage. If the target is a Large or smaller creature grappled by Tromokratis, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Tromokratis, and it takes 42 (12d6) acid damage at the start of each of Tromokratis's turns. If Tromokratis takes 50 damage or more on a single turn from a creature inside it, Tromokratis must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of Tromokratis. If Tromokratis dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.  
 >
->### Legendary Actions
+## Legendary Actions
 >Tromokratis can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tromokratis regains spent legendary actions at the start of its turn.
 >
 >- **Move.** Tromokratis moves up to half its speed.

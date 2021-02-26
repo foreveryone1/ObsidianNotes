@@ -1,5 +1,6 @@
 # Star Spawn Mangler
->*Medium aberration, chaotic evil*
+>*Medium #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 71 (13d8 + 13)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** charmed, frightened, prone
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Deep Speech
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Ambush.*** On the first round of each combat, the mangler has advantage on attack rolls against a creature that hasn't taken a turn yet.  
 >
 >***Shadow Stealth.*** While in dim light or darkness, the mangler can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The mangler makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage. If the attack roll has advantage, the target also takes 7 (2d6) psychic damage.  

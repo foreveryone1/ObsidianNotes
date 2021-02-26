@@ -1,5 +1,6 @@
 # Shoosuva
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 110 (13d10 + 39)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Abyssal, Gnoll, telepathy 120 ft.
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The shoosuva makes two attacks: one with its bite and one with its tail stinger.  
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.  

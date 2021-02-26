@@ -1,5 +1,6 @@
 # Diviner
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 67 (15d8)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +7, History +7
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher).*** When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.  
 >
@@ -32,7 +33,7 @@
 >* Divination spell of 1st level or higher  
 >
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
 ## Diviner
 Diviners are specialist wizards who know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling secrets and insights to advance their own status or reputation.

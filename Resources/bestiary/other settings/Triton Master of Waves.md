@@ -1,5 +1,6 @@
 # Triton Master of Waves
->*Medium humanoid (triton), neutral*
+>*Medium #humanoid (triton), neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 105 (14d8 + 42)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** cold, fire
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Common, Primordial
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Amphibious.*** The triton can breathe air and water.  
 >
@@ -27,7 +28,7 @@
 >
 >***Summon Water Weird (Recharges after a Short or Long Rest).*** As a bonus action, the triton magically summons 1d4 water weirds. The summoned weirds appear in unoccupied spaces in water within 60 feet of the triton. The water weirds act immediately after the triton on the same initiative count and fight until they're destroyed. They disappear if the triton dies.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The triton makes two attacks using Wave Touch and casts ray of frost.  
 >
 >***Wave Touch.*** Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d10) cold damage.  

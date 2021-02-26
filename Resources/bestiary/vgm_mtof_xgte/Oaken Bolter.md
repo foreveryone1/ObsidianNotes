@@ -1,5 +1,6 @@
 # Oaken Bolter
->*Medium construct, unaligned*
+>*Medium #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 58 (9d8 + 18)
@@ -13,11 +14,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands one language of its creator but can't speak
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Magic Resistance.*** The oaken bolter has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The oaken bolter makes two lancing bolt attacks or one lancing bolt attack and one harpoon attack.  
 >
 >***Lancing Bolt.*** Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 100/400 ft., one target. Hit: 15 (2d10 + 4) piercing damage.  

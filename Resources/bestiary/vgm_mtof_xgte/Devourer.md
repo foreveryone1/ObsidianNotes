@@ -1,5 +1,6 @@
 # Devourer
->*Large fiend, chaotic evil*
+>*Large #fiend , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 178 (17d10 + 85)
@@ -14,9 +15,9 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** Abyssal, telepathy 120 ft.
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The devourer makes two claw attacks and can use either Imprison Soul or Soul Rend.  
 >
 >***Claw.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 21 (6d6) necrotic damage.  

@@ -1,5 +1,6 @@
 # Ghoul
->*Medium undead, chaotic evil*
+>*Medium #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 22 (5d8)
@@ -13,12 +14,12 @@
 >- **Condition Immunities** charmed, exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Common
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.  
 >
->***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or #undead , it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ## Ghoul
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 ***Devourers of Flesh.*** Like maggots or carrion beetles, ghouls thrive in places rank with decay and death. A ghoul haunts a place where it can gorge on dead flesh and decomposing organs. When it can't feed on the dead, it pursues living creatures and attempts to make corpses of them. Though they gain no nourishment from the corpses they devour, ghouls are driven by an unending hunger that compels them to consume. A ghoul's undead flesh never rots, and this monster can persist in a crypt or tomb for untold ages without feeding.

@@ -1,5 +1,6 @@
 # Chuul
->*Large aberration, chaotic evil*
+>*Large #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 93 (11d10 + 33)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** understands Deep Speech but can't speak
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Amphibious.*** The chuul can breathe air and water.  
 >
 >***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.  
 >
 >***Pincer.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.  

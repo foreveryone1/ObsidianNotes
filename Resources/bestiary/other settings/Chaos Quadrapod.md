@@ -1,5 +1,6 @@
 # Chaos Quadrapod
->*Large aberration, chaotic evil*
+>*Large #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 52 (7d10 + 14)
@@ -12,11 +13,11 @@
 >- **Skills** Acrobatics +5, Perception +4
 >- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 14
 >- **Languages** —
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Magic Resistance.*** The chaos quadrapod has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The chaos quadrapod makes up to two tentacle attacks.  
 >
 >***Tentacle.*** Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained. The chaos quadrapod can grapple no more than two targets at a time.  

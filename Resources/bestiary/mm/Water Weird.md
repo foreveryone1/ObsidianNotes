@@ -1,5 +1,6 @@
 # Water Weird
->*Large elemental, neutral*
+>*Large #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 58 (9d10 + 9)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 >- **Senses** blindsight 30 ft., passive Perception 10
 >- **Languages** understands Aquan but doesn't speak
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Invisible in Water.*** The water weird is invisible while fully immersed in water.  
 >
 >***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.  
 >
->### Actions
+## Actions
 >***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target.
 ## Water Weird
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.

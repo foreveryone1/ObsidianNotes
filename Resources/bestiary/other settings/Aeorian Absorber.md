@@ -1,5 +1,6 @@
 # Aeorian Absorber
->*Large monstrosity, neutral evil*
+>*Large #monstrosity , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 171 (18d10 + 72)
@@ -14,13 +15,13 @@
 >- **Damage Immunities** necrotic, radiant
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** understands Draconic but can't speak
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Magic Resistance.*** The absorber has advantage on saving throws against spells and other magical effects.  
 >
 >***Pounce.*** If the absorber moves at least 20 feet straight toward a creature and then hits its claws attack on the same turn, that target must succeed on a DC 17 Strength saving throw or be knocked prone. If the target is prone, the absorber can make one bite attack against it as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The absorber makes three attacks: one with its bite or Mind Bolt and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage plus 5 (1d10) force damage.  

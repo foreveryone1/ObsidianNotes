@@ -1,5 +1,6 @@
 # Mezzoloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 75 (10d8 + 30)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 13
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Weapons.*** The mezzoloth's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The mezzoloth makes two attacks: one with its claws and one with its trident.  
 >
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.  

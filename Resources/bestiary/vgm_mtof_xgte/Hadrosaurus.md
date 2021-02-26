@@ -1,5 +1,6 @@
 # Hadrosaurus
->*Large beast, unaligned*
+>*Large #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 19 (3d10 + 3)
@@ -12,9 +13,9 @@
 >- **Skills** Perception +2
 >- **Senses** passive Perception 12
 >- **Languages** —
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
->### Actions
+## Actions
 >***Tail.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage.
 ## Hadrosaurus
 A hadrosaurus is a semi-quadrupedal herbivore recognizable by its bony head crests. If raised as a hatchling, it can be trained to carry a Small or Medium rider.

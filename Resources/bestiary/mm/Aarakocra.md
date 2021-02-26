@@ -1,22 +1,23 @@
 # Aarakocra
->*Medium humanoid (aarakocra), neutral good*
+>*Medium #humanoid (aarakocra), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 13 (3d8)
 >- **Speed** 20 ft., fly 50 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
+>|:---:|:---:|:---:|:---:|	:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)|
 >___
 >- **Skills** Perception +5
 >- **Senses** passive Perception 15
 >- **Languages** Auran, Aarakocra
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Dive Attack.*** If the aarakocra is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 (1d6) damage to the target.  
 >
->### Actions
+## Actions
 >***Talon.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.  
 >
 >***Javelin.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

@@ -1,5 +1,6 @@
 # Green Abishai
->*Medium fiend (devil), lawful evil*
+>*Medium #fiend (devil), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 187 (25d8 + 75)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.  
 >
@@ -31,7 +32,7 @@
 >
 >***Magic Weapons.*** The abishai's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The abishai makes two attacks, one with its claws and one with its longsword, or it casts one spell from its Innate Spellcasting trait and makes one claw attack.  
 >
 >***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.  

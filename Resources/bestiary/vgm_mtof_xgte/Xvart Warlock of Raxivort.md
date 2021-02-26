@@ -1,5 +1,6 @@
 # Xvart Warlock of Raxivort
->*Small humanoid (xvart), chaotic evil*
+>*Small #humanoid (xvart), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 22 (5d6 + 5)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +4
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** Abyssal
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The xvart's innate spellcasting ability is Charisma. it can innately cast the following spells, requiring no material components:  
 >
@@ -30,7 +31,7 @@
 >Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, prestidigitation  
 >1st-2nd level (2 2nd-level slots): burning hands, expeditious retreat, invisibility, scorching ray  
 >
->### Actions
+## Actions
 >***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 ## Xvart Warlock of Raxivort
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.

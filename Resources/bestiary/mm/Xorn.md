@@ -1,5 +1,6 @@
 # Xorn
->*Medium elemental, neutral*
+>*Medium #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 73 (7d8 + 42)
@@ -13,7 +14,7 @@
 >- **Damage Resistances** piercing and slashing from nonmagical attacks that aren't adamantine
 >- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
 >- **Languages** Terran
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.  
 >
@@ -21,7 +22,7 @@
 >
 >***Treasure Sense.*** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The xorn makes three claw attacks and one bite attack.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.  

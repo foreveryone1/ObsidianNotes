@@ -1,5 +1,6 @@
 # Balor
->*Huge fiend (demon), chaotic evil*
+>*Huge #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 262 (21d12 + 126)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 13
 >- **Languages** Abyssal, telepathy 120 ft.
->- **Challenge** 19 (22,000 XP)
+>- #cr19 (22,000 XP)
 >___
 >***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.  
 >
@@ -25,7 +26,7 @@
 >
 >***Magic Weapons.*** The balor's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The balor makes two attacks: one with its longsword and one with its whip.  
 >
 >***Longsword.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.  

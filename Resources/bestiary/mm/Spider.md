@@ -1,5 +1,6 @@
 # Spider
->*Tiny beast, unaligned*
+>*Tiny #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 1 (1d4 - 1)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +4
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
@@ -20,5 +21,5 @@
 >
 >***Web Walker.*** The spider ignores movement restrictions caused by webbing.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.

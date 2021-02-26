@@ -1,5 +1,6 @@
 # Tortle
->*Medium humanoid (tortle), lawful good*
+>*Medium #humanoid (tortle), lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Skills** Athletics +4, Survival +3
 >- **Senses** passive Perception 11
 >- **Languages** Aquan, Common
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Hold Breath.*** The tortle can hold its breath for 1 hour.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.  
 >
 >***Quarterstaff.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.  

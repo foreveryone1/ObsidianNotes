@@ -1,5 +1,6 @@
 # Stegosaurus
->*Huge beast, unaligned*
+>*Huge #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 76 (8d12 + 24)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
->### Actions
+## Actions
 >***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6 + 5) piercing damage.
 ## Stegosaurus
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.

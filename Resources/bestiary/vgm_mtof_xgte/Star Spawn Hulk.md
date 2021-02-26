@@ -1,5 +1,6 @@
 # Star Spawn Hulk
->*Large aberration, chaotic evil*
+>*Large #aberration , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 136 (13d10 + 65)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Deep Speech
->- **Challenge** 10 (5,900 XP)
+>- #cr10 (5,900 XP)
 >___
 >***Psychic Mirror.*** If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk's thoughts and location can't be discerned by magic.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hulk makes two slam attacks. If both attacks hit the same target, the target also takes 9 (2d8) psychic damage and must succeed on a DC 17 Constitution saving throw or be stunned until the end of the target's next turn.  
 >
 >***Slam.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.  

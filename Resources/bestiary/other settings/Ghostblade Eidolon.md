@@ -1,5 +1,6 @@
 # Ghostblade Eidolon
->*Medium undead, any alignment*
+>*Medium #undead , any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 55 (10d8 + 10)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
 >- **Senses** passive Perception 14
 >- **Languages** the languages it knew in life
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Blurred Form.*** Attack rolls against the eidolon are made with disadvantage unless the eidolon is incapacitated.  
 >
@@ -23,7 +24,7 @@
 >
 >***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The eidolon makes two ghostblade attacks.  
 >
 >***Ghostblade.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 3) slashing damage plus 11 (2d10) force damage.

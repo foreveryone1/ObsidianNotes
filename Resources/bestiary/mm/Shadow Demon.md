@@ -1,5 +1,6 @@
 # Shadow Demon
->*Medium fiend (demon), chaotic evil*
+>*Medium #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 66 (12d8 + 12)
@@ -17,7 +18,7 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Abyssal, telepathy 120 ft.
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >
@@ -25,7 +26,7 @@
 >
 >***Shadow Stealth.*** While in dim light or darkness, the demon can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.
 ## Shadow Demon
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.

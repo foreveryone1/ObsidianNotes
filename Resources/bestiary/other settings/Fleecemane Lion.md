@@ -1,5 +1,6 @@
 # Fleecemane Lion
->*Large monstrosity, unaligned*
+>*Large #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 45 (6d10 + 12)
@@ -13,7 +14,7 @@
 >- **Skills** Perception +4, Stealth +5
 >- **Senses** passive Perception 14
 >- **Languages** —
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.  
 >
@@ -23,14 +24,14 @@
 >
 >***Spell Turning.*** The lion has advantage on saving throws against any spell that targets only the lion (not an area). If the lion's saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the lion and instead targets the caster.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The lion makes two attacks: one with its bite and one with its claw.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.  
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The fleecemane lion can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fleecemane lion regains spent legendary actions at the start of its turn.
 >
 >- **Claw.** The lion makes one claw attack.

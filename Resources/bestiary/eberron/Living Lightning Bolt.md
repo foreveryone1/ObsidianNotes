@@ -1,5 +1,6 @@
 # Living Lightning Bolt
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 57 (6d10 + 24)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** —
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Amorphous.*** The living spell can move through a space as narrow as 1 inch wide without squeezing.  
 >
 >***Magic Resistance.*** The living spell has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The living spell makes two Magical Strike attacks.  
 >
 >***Magical Strike.*** Melee Spell Attack: +7 to hit, reach 10 ft., one target. Hit: 21 (5d6 + 4) lightning damage.  

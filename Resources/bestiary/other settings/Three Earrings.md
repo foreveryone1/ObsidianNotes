@@ -1,5 +1,6 @@
 # Three Earrings
->*Medium humanoid (tabaxi), neutral evil*
+>*Medium #humanoid (tabaxi), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 65 (10d8 + 20)
@@ -13,11 +14,11 @@
 >- **Skills** Athletics +4, Deception +4
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** any two languages
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Feline Agility.*** When The three earrings moves on its turn in combat, they can double their speed until the end of the turn. Once they uses this ability, The three earrings can't use it again until they moves 0 feet on one of their turns.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or Three Earrings makes two ranged attacks with its daggers.  
 >
 >***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  

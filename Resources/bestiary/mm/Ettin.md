@@ -1,5 +1,6 @@
 # Ettin
->*Large giant, chaotic evil*
+>*Large #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 85 (10d10 + 30)
@@ -12,13 +13,13 @@
 >- **Skills** Perception +4
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Giant, Orc
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Two Heads.*** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.  
 >
 >***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.  
 >
 >***Battleaxe.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.  

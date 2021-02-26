@@ -1,5 +1,6 @@
 # Corrin Delmaco
->*Small humanoid (halfling), lawful evil*
+>*Small #humanoid (halfling), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 21 (6d6)
@@ -12,7 +13,7 @@
 >- **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
 >- **Senses** passive Perception 16
 >- **Languages** any two languages, Halfling
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Brave.*** The corrin delmaco has advantage on saving throws against being frightened.  
 >
@@ -22,7 +23,7 @@
 >
 >***Sneak Attack (1/Turn).*** Corrin deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Corrin that isn't incapacitated and Corrin doesn't have disadvantage on the attack roll.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Corrin makes two melee attacks.  
 >
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

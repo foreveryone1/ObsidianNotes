@@ -1,5 +1,6 @@
 # Oracle
->*Medium humanoid, any alignment*
+>*Medium #humanoid, any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 15 (Blessings Of The Gods)
 >- **Hit Points** 44 (8d8 + 8)
@@ -12,8 +13,8 @@
 >- **Saving Throws** Wis +5, Cha +4
 >- **Skills** Insight +5, Persuasion +4, Religion +5
 >- **Senses** passive Perception 13
->- **Languages** Celestial, Common
->- **Challenge** 4 (1,100 XP)
+>- **Languages** #celestial , Common
+>- #cr4 (1,100 XP)
 >___
 >***Blessings of the Gods.*** While the oracle is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the oracle with a melee attack while within 5 feet of it takes 9 (2d8) force damage.  
 >
@@ -23,7 +24,7 @@
 >3/day each: bless, guiding bolt, healing word, hold person  
 >1/day each: augury, scrying  
 >
->### Actions
+## Actions
 >***Eldritch Touch.*** Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage.  
 >
 >### Reactions

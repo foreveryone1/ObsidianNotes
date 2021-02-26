@@ -1,5 +1,6 @@
 # Adult Red Dracolich
->*Huge undead, chaotic evil*
+>*Huge #undead , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 256 (19d12 + 133)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
 >- **Languages** Common, Draconic
->- **Challenge** 17 (18,000 XP)
+>- #cr17 (18,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.  
 >
 >***Magic Resistance.*** The dracolich has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage.  
@@ -35,7 +36,7 @@
 >
 >***Fire Breath (Recharge 5–6).*** The dracolich exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.  
 >
->### Legendary Actions
+## Legendary Actions
 >The dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dracolich regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The dracolich makes a Wisdom (Perception) check.

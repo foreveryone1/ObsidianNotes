@@ -1,5 +1,6 @@
 # Horncaller
->*Medium humanoid (any race), lawful good*
+>*Medium #humanoid (any race), lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 39 (6d8 + 12)
@@ -12,7 +13,7 @@
 >- **Skills** Animal Handling +4, Nature +2, Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** Common plus any one language
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The horncaller's innate spellcasting ability is Wisdom (spell save DC 14). The horncaller can innately cast the following spells, requiring no material components:  
 >
@@ -21,7 +22,7 @@
 >
 >***Speak with Beasts.*** The horncaller can communicate with beasts as if they shared a language.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The horncaller makes two melee attacks with its staff and uses One with the Worldsoul.  
 >
 >***Staff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands.  

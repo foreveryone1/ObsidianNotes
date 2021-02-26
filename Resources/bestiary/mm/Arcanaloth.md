@@ -1,5 +1,6 @@
 # Arcanaloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 104 (16d8 + 32)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** charmed, poisoned
 >- **Senses** truesight 120 ft., passive Perception 17
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:  
 >
@@ -39,7 +40,7 @@
 >7th level (1 slot): finger of death  
 >8th level (1 slot): mind blank  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.  
 >
 >***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.

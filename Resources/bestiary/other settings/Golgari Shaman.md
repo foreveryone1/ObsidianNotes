@@ -1,5 +1,6 @@
 # Golgari Shaman
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 88 (16d8 + 16)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +4, Insight +6, Nature +4, Religion +4
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Elvish
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Fey Ancestry.*** The shaman has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >
@@ -25,7 +26,7 @@
 >3rd level (3 slots): animate dead, dispel magic, plant growth  
 >4th level (2 slots): blight, giant insect  
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.  
 >
 >***Fungal Rot.*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d8) necrotic damage, and the target must make a DC 14 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one.  

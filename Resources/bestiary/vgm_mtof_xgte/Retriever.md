@@ -1,5 +1,6 @@
 # Retriever
->*Large construct, lawful evil*
+>*Large #construct , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 210 (20d10 + 100)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 >- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 15
 >- **Languages** understands Abyssal, Elvish, and Undercommon but can't speak
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Faultless Tracker.*** The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.  
 >
@@ -23,7 +24,7 @@
 >
 >3/day each: plane shift (only self and up to one incapacitated creature which is considered willing for the spell), web  
 >
->### Actions
+## Actions
 >***Multiattack.*** The retriever makes two foreleg attacks and uses its force or paralyzing beam once, if available.  
 >
 >***Foreleg.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) slashing damage.  
@@ -34,5 +35,5 @@
 >If the paralyzed creature is Medium or smaller, the retriever can pick it up as part of the retriever's move and walk or climb with it at full speed.
 ## Retriever
 ***Retriever.*** The retriever is a potent, spider-like construct conceived and built by the drow for one original purpose—to prowl the Abyss and capture demons for the drow to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
-***Demon-Infused.*** Although each retriever is a metal-and-magic construct, it houses the imprisoned spirit of a bebilith. Most of the demon's intellect has been distilled away, leaving only its cruelty and cunning.
+***Demon-Infused.*** Although each retriever is a metal-and-magic #construct , it houses the imprisoned spirit of a bebilith. Most of the demon's intellect has been distilled away, leaving only its cruelty and cunning.
 ***Lethal Collectors.*** Though they were created to operate only in the Abyss, retrievers are sometimes dispatched when a powerful drow needs some creature or object captured and brought back alive and intact. Only under the rarest of circumstances is a retriever handed over or sold to a non-drow, since the dark elves don't want to take the chance that the construct will be turned against them.

@@ -1,5 +1,6 @@
 # Efreeti
->*Large elemental, lawful evil*
+>*Large #elemental , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 200 (16d10 + 112)
@@ -13,7 +14,7 @@
 >- **Damage Immunities** fire
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** Ignan
->- **Challenge** 11 (7,200 XP)
+>- #cr11 (7,200 XP)
 >___
 >***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.  
 >
@@ -23,7 +24,7 @@
 >3/day each: enlarge/reduce, tongues  
 >1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire  
 >
->### Actions
+## Actions
 >***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.  
 >
 >***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.  

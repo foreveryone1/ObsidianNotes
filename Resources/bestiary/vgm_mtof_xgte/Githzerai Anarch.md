@@ -1,5 +1,6 @@
 # Githzerai Anarch
->*Medium humanoid (gith), lawful neutral*
+>*Medium #humanoid (gith), lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 20
 >- **Hit Points** 144 (17d8 + 68)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +9, Insight +10, Perception +10
 >- **Senses** passive Perception 20
 >- **Languages** Gith
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The anarch's innate spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >
@@ -24,12 +25,12 @@
 >
 >***Psychic Defense.*** While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The anarch makes three unarmed strikes.  
 >
 >***Unarmed Strike.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The githzerai anarch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The githzerai anarch regains spent legendary actions at the start of its turn.
 >
 >- **Strike.** The anarch makes one unarmed strike.
@@ -41,7 +42,7 @@
 *What would become of this multiverse if githyanki didn't guard the Astral Plane from the illithid menace? What would reality become if beings of thought ruled the plane of thought?*— Mordenkainen
 #### An Anarch's Lair
 In Limbo, githzerai anarchs create islands of tranquility in the otherwise turbulent plane. By directing its psionic power, an anarch can give form to formless substance, creating mountains, lakes, and structures of any composition to serve as a foundation for a githzerai community.
-#### Lair Actions
+## Lair Actions
 An anarch can use lair actions. On initiative count 20 (losing initiative ties), the anarch can take a lair action to cause one of the following effects; the anarch can't use the same effect two rounds in a row:
 - The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.
 - The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its concentration breaks.

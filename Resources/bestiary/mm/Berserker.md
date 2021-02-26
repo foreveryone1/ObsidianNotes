@@ -1,5 +1,6 @@
 # Berserker
->*Medium humanoid (any race), any chaotic alignment*
+>*Medium #humanoid (any race), any chaotic alignment*
+## Monster Traits
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 67 (9d8 + 27)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** any one language (usually Common)
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >
->### Actions
+## Actions
 >***Greataxe.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
 ## Berserker
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.

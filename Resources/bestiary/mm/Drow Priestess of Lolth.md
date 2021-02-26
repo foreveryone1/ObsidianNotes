@@ -1,5 +1,6 @@
 # Drow Priestess of Lolth
->*Medium humanoid (elf), neutral evil*
+>*Medium #humanoid (elf), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (scale mail)
 >- **Hit Points** 71 (13d8 + 13)
@@ -13,7 +14,7 @@
 >- **Skills** Insight +6, Perception +6, Religion +4, Stealth +5
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Elvish, Undercommon
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -35,7 +36,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes two scourge attacks.  
 >
 >***Scourge.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.  

@@ -1,5 +1,6 @@
 # Deathlock Mastermind
->*Medium undead, lawful evil*
+>*Medium #undead , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (16 with mage armor)
 >- **Hit Points** 110 (20d8 + 20)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 120 ft. (including magical darkness), passive Perception 14
 >- **Languages** the languages it knew in life
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:  
 >
@@ -31,7 +32,7 @@
 >
 >***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Deathly Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) necrotic damage).  
 >
 >***Grave Bolts.*** Ranged Spell Attack: +6 to hit, range 120 ft., one or two targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success.

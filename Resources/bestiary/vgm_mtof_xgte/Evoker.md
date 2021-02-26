@@ -1,5 +1,6 @@
 # Evoker
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 66 (12d8 + 12)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +7, History +7
 >- **Senses** passive Perception 11
 >- **Languages** any four languages
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Sculpt Spells.*** When the evoker casts an evocation spell that forces other creatures it can see to make a saving throw, it can choose a number of them equal to 1 + the spell's level. These creatures automatically succeed on their saving throws against the spell. If a successful save means a chosen creature would take half damage from the spell, it instead takes no damage from it.  
 >
@@ -30,7 +31,7 @@
 >*Evocation spell  
 >
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
 ## Evoker
 Evokers are specialist wizards who harness magical energy and elemental forces to destroy. Many tend to be hotheaded and aggressive. Others are cold and reserved, unleashing their power at just the right moment to exploit an opponent's weakness.

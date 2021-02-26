@@ -1,5 +1,6 @@
 # Drow Arachnomancer
->*Medium humanoid (elf), chaotic evil*
+>*Medium #humanoid (elf), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 162 (25d8 + 50)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** poison
 >- **Senses** blindsight 10 ft., darkvision 120 ft., passive Perception 17
 >- **Languages** Elvish, Undercommon, can speak with spiders
->- **Challenge** 13 (10,000 XP)
+>- #cr13 (10,000 XP)
 >___
 >***Change Shape (Recharges after a Short or Long Rest).*** The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.  
 >
@@ -40,7 +41,7 @@
 >
 >***Web Walker.*** The drow ignores movement restrictions caused by webbing.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drow makes two poisonous touch attacks or two bite attacks. The first of these attacks that hits each round deals an extra 26 (4d12) poison damage to the target.  
 >
 >***Poisonous Touch (Humanoid Form Only).*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 28 (8d6) poison damage.  

@@ -1,5 +1,6 @@
 # Eater of Hope
->*Large fiend, lawful evil*
+>*Large #fiend , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 90 (12d10 + 24)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** Abyssal, Common, Infernal
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Insatiable Greed.*** The eater of hope can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.  
 >
 >***Magic Resistance.*** The eater of hope has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The eater of hope makes two attacks with its claws.  
 >
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 7 (2d6) necrotic damage.  

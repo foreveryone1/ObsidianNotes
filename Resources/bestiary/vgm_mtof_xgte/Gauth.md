@@ -1,5 +1,6 @@
 # Gauth
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 67 (9d8 + 27)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** prone
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Deep Speech, Undercommon
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.  
 >
 >***Stunning Gaze.*** When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.  
 >
 >***Eye Rays.*** The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:  

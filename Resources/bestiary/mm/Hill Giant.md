@@ -1,5 +1,6 @@
 # Hill Giant
->*Huge giant, chaotic evil*
+>*Huge #giant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 105 (10d12 + 40)
@@ -12,9 +13,9 @@
 >- **Skills** Perception +2
 >- **Senses** passive Perception 12
 >- **Languages** Giant
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The giant makes two greatclub attacks.  
 >
 >***Greatclub.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.  

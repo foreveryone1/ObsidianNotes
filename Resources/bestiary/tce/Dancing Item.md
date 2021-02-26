@@ -1,5 +1,6 @@
 # Dancing Item
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 10 + five times your bard level
@@ -13,11 +14,11 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Immutable Form.*** The item is immune to any spell or effect that would alter its form.  
 >
 >***Irrepressible Dance.*** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't incapacitated.  
 >
->### Actions
+## Actions
 >***Force-Empowered Slam.*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + PB force damage.

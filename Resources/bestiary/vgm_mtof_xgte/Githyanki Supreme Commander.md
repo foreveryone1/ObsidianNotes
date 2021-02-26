@@ -1,5 +1,6 @@
 # Githyanki Supreme Commander
->*Medium humanoid (gith), lawful evil*
+>*Medium #humanoid (gith), lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 187 (22d8 + 88)
@@ -13,7 +14,7 @@
 >- **Skills** Insight +8, Intimidation +9, Perception +8
 >- **Senses** passive Perception 18
 >- **Languages** Gith
->- **Challenge** 14 (11,500 XP)
+>- #cr14 (11,500 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >
@@ -21,7 +22,7 @@
 >3/day each: jump, levitate (self only), misty step, nondetection (self only)  
 >1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis  
 >
->### Actions
+## Actions
 >***Multiattack.*** The githyanki makes two greatsword attacks.  
 >
 >***Silver Greatsword.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.  
@@ -29,7 +30,7 @@
 >### Reactions
 >***Parry.*** The githyanki adds 5 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.  
 >
->### Legendary Actions
+## Legendary Actions
 >The githyanki supreme commander can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The githyanki supreme commander regains spent legendary actions at the start of its turn.
 >
 >- **Attack (2 Actions).** The githyanki makes a greatsword attack.

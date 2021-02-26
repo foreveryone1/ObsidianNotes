@@ -1,5 +1,6 @@
 # Pony
->*Medium beast, unaligned*
+>*Medium #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 11 (2d8 + 2)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
->### Actions
+## Actions
 >***Hooves.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.

@@ -1,5 +1,6 @@
 # Pendragon Beestinger
->*Medium humanoid (human), neutral evil*
+>*Medium #humanoid (human), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 27 (5d8 + 5)
@@ -12,7 +13,7 @@
 >- **Skills** Arcana +5, Investigation +5, Performance +2
 >- **Senses** passive Perception 10
 >- **Languages** Common, Draconic, Elvish, Halfling
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Echo Spell (1/Day).*** Pendragon can cast the spell he cast on his last turn, whose casting time becomes 1 bonus action. This bonus casting uses a spell slot as normal.  
 >
@@ -22,7 +23,7 @@
 >1st level (4 slots): detect magic, mage armor, magic missile, sleep  
 >2nd level (3 slots): blindness/deafness, cloud of daggers, scorching ray  
 >
->### Actions
+## Actions
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 ## Pendragon Beestinger
 Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team's attempts to apprehend the wandering bard. An adopted child of the "C" Team's Rosie Beestinger, Pendragon is his mother's foil in almost every way-including his goal of wanting to mainstream some of the family's rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie's request, things remain cool between the two.

@@ -1,5 +1,6 @@
 # Kuo-toa
->*Medium humanoid (kuo-toa), neutral evil*
+>*Medium #humanoid (kuo-toa), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor, shield)
 >- **Hit Points** 18 (4d8)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +4
 >- **Senses** darkvision 120 ft., passive Perception 14
 >- **Languages** Undercommon
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** The kuo-toa can breathe air and water.  
 >
@@ -22,7 +23,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.  
 >
 >***Spear.*** Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.  

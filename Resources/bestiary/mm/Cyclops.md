@@ -1,5 +1,6 @@
 # Cyclops
->*Huge giant, chaotic neutral*
+>*Huge #giant , chaotic neutral*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 138 (12d12 + 60)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** passive Perception 8
 >- **Languages** Giant
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Poor Depth Perception.*** The cyclops has disadvantage on any attack roll against a target more than 30 feet away.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The cyclops makes two greatclub attacks.  
 >
 >***Greatclub.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.  

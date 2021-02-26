@@ -1,5 +1,6 @@
 # Changeling
->*Medium humanoid (changeling, shapechanger), any alignment*
+>*Medium #humanoid (changeling, shapechanger), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -12,11 +13,11 @@
 >- **Skills** Acrobatics +4, Deception +5, Insight +2, Perception +2, Persuasion +5
 >- **Senses** passive Perception 12
 >- **Languages** Common, Dwarvish, Elvish, Halfling, Thieves' cant
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***Change Appearance.*** The changeling can use its action to polymorph into a Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The changeling makes two attacks with its dagger.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

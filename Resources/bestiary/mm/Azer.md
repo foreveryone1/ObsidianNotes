@@ -1,5 +1,6 @@
 # Azer
->*Medium elemental, lawful neutral*
+>*Medium #elemental , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor, shield)
 >- **Hit Points** 39 (6d8 + 12)
@@ -14,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** passive Perception 11
 >- **Languages** Ignan
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.  
 >
@@ -22,7 +23,7 @@
 >
 >***Illumination.*** The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet.  
 >
->### Actions
+## Actions
 >***Warhammer.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 ## Azer
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.

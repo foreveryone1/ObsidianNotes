@@ -1,5 +1,6 @@
 # Hybrid Brute
->*Medium humanoid (Simic hybrid), neutral good*
+>*Medium #humanoid (Simic hybrid), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 52 (8d8 + 16)
@@ -11,11 +12,11 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** Common plus any one language
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Amphibious.*** The hybrid can breathe air and water.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hybrid makes two claw attacks.  
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.

@@ -1,5 +1,6 @@
 # Planetar
->*Large celestial, lawful good*
+>*Large #celestial , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 200 (16d10 + 112)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened
 >- **Senses** truesight 120 ft., passive Perception 21
 >- **Languages** all, telepathy 120 ft.
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Angelic Weapons.*** The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).  
 >
@@ -30,7 +31,7 @@
 >
 >***Magic Resistance.*** The planetar has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The planetar makes two melee attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.  

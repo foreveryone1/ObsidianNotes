@@ -1,5 +1,6 @@
 # Knight
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 52 (8d8 + 16)
@@ -12,11 +13,11 @@
 >- **Saving Throws** Con +4, Wis +2
 >- **Senses** passive Perception 10
 >- **Languages** any one language (usually Common)
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Brave.*** The knight has advantage on saving throws against being frightened.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The knight makes two melee attacks.  
 >
 >***Greatsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  

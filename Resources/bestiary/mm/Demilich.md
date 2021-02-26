@@ -1,5 +1,6 @@
 # Demilich
->*Tiny undead, neutral evil*
+>*Tiny #undead , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 80 (20d4)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
 >- **Senses** truesight 120 ft., passive Perception 13
 >- **Languages** —
->- **Challenge** 18 (20,000 XP) or 20 (25,000 XP) when encountered in lair
+>- #cr18 (20,000 XP) or 20 (25,000 XP) when encountered in lair
 >___
 >***Avoidance.*** If the demilich is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
 >
@@ -23,12 +24,12 @@
 >
 >***Turn Immunity.*** The demilich is immune to effects that turn undead.  
 >
->### Actions
+## Actions
 >***Howl (Recharge 5–6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is frightened until the end of its next turn.  
 >
 >***Life Drain.*** The demilich targets up to three creatures that it can see within 10 feet of it. Each target must succeed on a DC 19 Constitution saving throw or take 21 (6d6) necrotic damage, and the demilich regains hit points equal to the total damage dealt to all targets.  
 >
->### Legendary Actions
+## Legendary Actions
 >The demilich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of its turn.
 >
 >- **Flight.** The demilich flies up to half its flying speed.
@@ -47,7 +48,7 @@ Liches who follow Acererak's path believe that by becoming free of their bodies,
 Acererak or another demilich like him has a challenge rating of 21 (33,000 XP), or 23 (50,000 XP) in its lair, and gains the following additional action option.
 ***Trap Soul.***  The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes 24 (7d6) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
 If the demilich drops to 0 hit points, it is destroyed and turns to powder, leaving behind its gems. Crushing a gem releases any soul trapped within, at which point the target's body re-forms in an unoccupied space nearest to the gem and in the same state as when it was trapped.
-#### Lair Actions
+## Lair Actions
 On initiative count 20 (losing initiative ties), the demilich rolls a d20. On a result of 11 or higher, the demilich takes a lair action to cause one of the following effects. It can't use the same effect two rounds in a row.
 - The tomb trembles violently for a moment. Each creature on the floor of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked prone.
 - The demilich targets one creature it can see within 60 feet of it. An antimagic field fills the space of the target, moving with it until initiative count 20 on the next round.

@@ -1,5 +1,6 @@
 # Commoner
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 4 (1d8)
@@ -11,9 +12,9 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** any one language (usually Common)
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
->### Actions
+## Actions
 >***Club.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
 ## Commoner
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.

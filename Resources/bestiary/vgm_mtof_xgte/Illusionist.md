@@ -1,5 +1,6 @@
 # Illusionist
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 38 (7d8 + 7)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +5, History +5
 >- **Senses** passive Perception 10
 >- **Languages** any four languages
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher).*** As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is incapacitated, or its speed becomes 0.  
 >
@@ -28,7 +29,7 @@
 >*Illusion spell of 1st level or higher  
 >
 >
->### Actions
+## Actions
 >***Quarterstaff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
 ## Illusionist
 Illusionists are specialist wizards who twist light, sound, shadow, and even minds to create false and quasi-real effects. They can be flamboyant and use their powers in spectacular and obvious ways, or quiet and subtle, using their magic to conceal the truth.

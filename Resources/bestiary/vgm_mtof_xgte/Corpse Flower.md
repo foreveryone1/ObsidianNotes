@@ -1,5 +1,6 @@
 # Corpse Flower
->*Large plant, chaotic evil*
+>*Large #plant , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 127 (15d10 + 45)
@@ -12,7 +13,7 @@
 >- **Condition Immunities** blinded, deafened
 >- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 12
 >- **Languages** —
->- **Challenge** 8 (3,900 XP)
+>- #cr8 (3,900 XP)
 >___
 >***Corpses.*** When first encountered, a corpse flower contains the corpses of 1d6 + 3 humanoids. A corpse flower can hold the remains of up to nine dead humanoids. These remains have total cover against attacks and other effects outside the corpse flower. If the corpse flower dies, the corpses within it can be pulled free.  
 >While it has at least one humanoid corpse in its body, the corpse flower can use a bonus action to do one of the following:  
@@ -23,7 +24,7 @@
 >
 >***Stench of Death.*** Each creature that starts its turn within 10 feet of the corpse flower or one of its zombies must make a DC 14 Constitution saving throw, unless the creature is a construct or undead. On a failed save, the creature is incapacitated until the end of the turn. Creatures that are immune to poison damage or the poisoned condition automatically succeed on this saving throw. On a successful save, the creature is immune to the stench of all corpse flowers for 24 hours.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The corpse flower makes three tentacle attacks.  
 >
 >***Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or take 14 (4d6) poison damage.  

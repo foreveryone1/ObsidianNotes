@@ -1,5 +1,6 @@
 # Awakened Shrub
->*Small plant, unaligned*
+>*Small #plant , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 10 (3d6)
@@ -13,11 +14,11 @@
 >- **Damage Resistances** piercing
 >- **Senses** passive Perception 10
 >- **Languages** one language known by its creator
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***False Appearance.*** While the shrub remains motionless, it is indistinguishable from a normal shrub.  
 >
->### Actions
+## Actions
 >***Rake.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.
 ## Awakened Shrub
 An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.

@@ -1,5 +1,6 @@
 # Ancient Deep Crow
->*Huge monstrosity, unaligned*
+>*Huge #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 187 (15d12 + 90)
@@ -14,13 +15,13 @@
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 17
 >- **Languages** Deep Crow
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Magic Resistance.*** The ancient deep crow has advantage on saving throws against spells and other magical effects.  
 >
 >***Shadow Stealth.*** While in dim light or darkness, the ancient deep crow can take the Hide action as a bonus action.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The ancient deep crow makes three attacks: one with its mandibles and two with its claws.  
 >
 >***Mandibles.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the ancient deep crow can't use its mandibles on another target.  
@@ -29,7 +30,7 @@
 >
 >***Shadow Caw.*** The ancient deep crow releases an ear-splitting caw. Each creature within 60 feet of the crow and able to hear it must make a DC 17 Constitution saving throw. On a failure, a creature takes 10 (3d6) psychic damage.  
 >
->### Legendary Actions
+## Legendary Actions
 >The ancient deep crow can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ancient deep crow regains spent legendary actions at the start of its turn.
 >
 >- **Detect.** The deep crow makes a Wisdom (Perception) check.

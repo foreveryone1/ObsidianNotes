@@ -1,5 +1,6 @@
 # Hydroloth
->*Medium fiend (yugoloth), neutral evil*
+>*Medium #fiend (yugoloth), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 15
 >- **Hit Points** 135 (18d8 + 54)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Amphibious.*** The hydroloth can breathe air and water.  
 >
@@ -34,7 +35,7 @@
 >
 >***Watery Advantage.*** While submerged in liquid, the hydroloth has advantage on attack rolls.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The hydroloth makes two melee attacks. In place of one of these attacks, it can cast one spell that takes 1 action to cast.  
 >
 >***Claws.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.  

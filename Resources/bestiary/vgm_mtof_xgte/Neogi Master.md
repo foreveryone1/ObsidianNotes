@@ -1,5 +1,6 @@
 # Neogi Master
->*Medium aberration, lawful evil*
+>*Medium #aberration , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 71 (11d8 + 22)
@@ -13,7 +14,7 @@
 >- **Skills** Arcana +5, Deception +6, Intimidation +6, Perception +3, Persuasion +6
 >- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 13
 >- **Languages** Common, Deep Speech, Undercommon, telepathy 30 ft.
->- **Challenge** 4 (1,100 XP)
+>- #cr4 (1,100 XP)
 >___
 >***Mental Fortitude.*** The neogi has advantage on saving throws against being charmed or frightened, and magic can't put the neogi to sleep.  
 >
@@ -25,7 +26,7 @@
 >
 >***Spider Climb.*** The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The neogi makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  

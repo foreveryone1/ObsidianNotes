@@ -1,5 +1,6 @@
 # Undying Soldier
->*Medium undead, neutral good*
+>*Medium #undead , neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (breastplate, shield)
 >- **Hit Points** 26 (4d8 + 8)
@@ -16,13 +17,13 @@
 >- **Condition Immunities** exhaustion, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Elvish
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Illumination.*** The soldier magically sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The soldier can extinguish or restore this light as a bonus action.  
 >
 >***Turn Resistance.*** The soldier has advantage on saving throws against any effect that turns undead.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The soldier makes two spear attacks.  
 >
 >***Spear.*** Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 9 (2d8) radiant damage if the target is a fiend or undead.

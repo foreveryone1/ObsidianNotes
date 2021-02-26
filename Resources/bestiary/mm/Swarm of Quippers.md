@@ -1,5 +1,6 @@
 # Swarm of Quippers
 >*Medium swarm of tiny beasts, unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 28 (8d8 - 8)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 >- **Senses** darkvision 60 ft., passive Perception 8
 >- **Languages** —
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Blood Frenzy.*** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -21,7 +22,7 @@
 >
 >***Water Breathing.*** The swarm can breathe only underwater.  
 >
->### Actions
+## Actions
 >***Bites.*** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 ## Swarm of Quippers
 > ##### The Nature of Swarms

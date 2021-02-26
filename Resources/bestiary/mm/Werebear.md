@@ -1,5 +1,6 @@
 # Werebear
->*Medium humanoid (human, shapechanger), neutral good*
+>*Medium #humanoid (human, shapechanger), neutral good*
+## Monster Traits
 >___
 >- **Armor Class** 10 in humanoid form, 11 (natural armor) in bear or hybrid form
 >- **Hit Points** 135 (18d8 + 54)
@@ -13,13 +14,13 @@
 >- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Senses** passive Perception 17
 >- **Languages** Common (can't speak in bear form)
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
 >***Keen Smell.*** The werebear has advantage on Wisdom (Perception) checks that rely on smell.  
 >
->### Actions
+## Actions
 >***Multiattack.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.  
 >
 >***Bite (Bear or Hybrid Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.  

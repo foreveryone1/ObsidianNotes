@@ -1,5 +1,6 @@
 # Construct Spirit
->*Medium construct, unaligned*
+>*Medium #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 13 + the level of the spell (natural armor)
 >- **Hit Points** 40 + 15 for each spell level above 3rd
@@ -13,13 +14,13 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands the languages you speak
->- **Challenge** —
+>- #cr-unavailable
 >___
 >***Heated Body (Metal Only).*** A creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage.  
 >
->***Stony Lethargy (Stone Only).*** When a creature the construct can see starts its turn within 10 feet of the construct, the construct can force it to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't use reactions and its speed is halved until the start of its next turn.  
+>***Stony Lethargy (Stone Only).*** When a creature the construct can see starts its turn within 10 feet of the #construct , the construct can force it to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't use reactions and its speed is halved until the start of its next turn.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The construct makes a number of attacks equal to half this spell's level (rounded down).  
 >
 >***Slam.*** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage.  

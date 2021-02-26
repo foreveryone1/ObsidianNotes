@@ -1,5 +1,6 @@
 # Gargoyle
->*Medium elemental, chaotic evil*
+>*Medium #elemental , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 52 (7d8 + 21)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** exhaustion, petrified, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Terran
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

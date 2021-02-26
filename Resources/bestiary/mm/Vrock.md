@@ -1,5 +1,6 @@
 # Vrock
->*Large fiend (demon), chaotic evil*
+>*Large #fiend (demon), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 104 (11d10 + 44)
@@ -15,11 +16,11 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Abyssal, telepathy 120 ft.
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The vrock makes two attacks: one with its beak and one with its talons.  
 >
 >***Beak.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.  

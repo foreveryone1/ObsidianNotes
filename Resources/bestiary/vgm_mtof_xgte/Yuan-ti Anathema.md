@@ -1,5 +1,6 @@
 # Yuan-ti Anathema
 >*Huge monstrosity (shapechanger, yuan-ti), neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 189 (18d12 + 72)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., blindsight 30 ft., passive Perception 17
 >- **Languages** Abyssal, Common, Draconic
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Shapechanger.*** The anathema can use its action to polymorph into a Huge giant constrictor snake, or back into its true form. its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.  
 >
@@ -31,7 +32,7 @@
 >3/day each: darkness, entangle, fear, haste, suggestion, polymorph  
 >1/day: divine word  
 >
->### Actions
+## Actions
 >***Multiattack (Anathema Form Only).*** The anathema makes two claw attacks, one constrict attack, and one Flurry of Bites attack.  
 >
 >***Claw (Anathema Form Only).*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 13 (2d6 + 6) slashing damage.  

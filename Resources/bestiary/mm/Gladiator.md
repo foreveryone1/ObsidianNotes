@@ -1,5 +1,6 @@
 # Gladiator
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 16 (studded leather armor, shield)
 >- **Hit Points** 112 (15d8 + 45)
@@ -13,13 +14,13 @@
 >- **Skills** Athletics +10, Intimidation +5
 >- **Senses** passive Perception 11
 >- **Languages** any one language (usually Common)
->- **Challenge** 5 (1,800 XP)
+>- #cr5 (1,800 XP)
 >___
 >***Brave.*** The gladiator has advantage on saving throws against being frightened.  
 >
 >***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).  
 >
->### Actions
+## Actions
 >***Multiattack.*** The gladiator makes three melee attacks or two ranged attacks.  
 >
 >***Spear.*** Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.  

@@ -1,5 +1,6 @@
 # Veteran
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 17 (splint armor)
 >- **Hit Points** 58 (9d8 + 18)
@@ -12,9 +13,9 @@
 >- **Skills** Athletics +5, Perception +2
 >- **Senses** passive Perception 12
 >- **Languages** any one language (usually Common)
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
->### Actions
+## Actions
 >***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.  
 >
 >***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  

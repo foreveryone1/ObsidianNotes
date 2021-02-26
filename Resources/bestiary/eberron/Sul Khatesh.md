@@ -1,5 +1,6 @@
 # Sul Khatesh
->*Large fiend, lawful evil*
+>*Large #fiend , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 475 (50d10 + 200)
@@ -16,12 +17,12 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** truesight 120 ft., passive Perception 16
 >- **Languages** all, telepathy 150 ft.
->- **Challenge** 28 (120,000 XP)
+>- #cr28 (120,000 XP)
 >___
 >***Innate Spellcasting.*** Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26, +18 to hit with spell attacks). She can innately cast the following spells, requiring no material components:  
 >
 >At will: counterspell, detect magic, detect thoughts, dispel magic, eyebite, fireball, lightning bolt, shield  
->3/day each: chain lightning, create undead, dream, hold monster, mass suggestion, scrying  
+>3/day each: chain lightning, create #undead , dream, hold monster, mass suggestion, scrying  
 >1/day each: foresight, gate, power word kill, teleport  
 >
 >
@@ -31,7 +32,7 @@
 >
 >***Master of Magic.*** Sul Khatesh has advantage on Constitution saving throws to maintain concentration.  
 >
->### Actions
+## Actions
 >***Multiattack.*** Sul Khatesh makes four attacks with Arcane Blast.  
 >
 >***Arcane Blast.*** Ranged Spell Attack: +18 to hit, range 120 ft., one target. Hit: 15 (1d10 + 10) force damage.  
@@ -40,10 +41,10 @@
 >
 >***Arcane Cataclysm (Recharges after a Long Rest).*** Sul Khatesh conjures orbs of magical energy that plummet to the ground at three different points she can see within 1 mile of her. Each creature in a 40-foot-radius sphere centered on each point must make a DC 26 Dexterity saving throw, taking 71 (11d12) force damage on a failed save or half as much damage on a successful one. A creature in the area of more than one arcane burst is affected only once. The area of each arcane burst then acts as an antimagic field for 1 hour. Sul Khatesh and spells she casts are unaffected by these fields.  
 >
->***Change Shape.*** Sul Khatesh magically polymorphs into a humanoid, beast, or giant that has a challenge rating no higher than her own, or back into her true form. She reverts to her true form if she dies. Any equipment she is wearing or carrying is absorbed or borne by the new form (Sul Khatesh's choice).  
+>***Change Shape.*** Sul Khatesh magically polymorphs into a humanoid, #beast , or giant that has a challenge rating no higher than her own, or back into her true form. She reverts to her true form if she dies. Any equipment she is wearing or carrying is absorbed or borne by the new form (Sul Khatesh's choice).  
 >In a new form, Sul Khatesh retains her alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, and Intelligence, Wisdom, and Charisma scores, as well as this action. Her statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.  
 >
->### Legendary Actions
+## Legendary Actions
 >Sul Khatesh can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Sul Khatesh regains spent legendary actions at the start of its turn.
 >
 >- **Attack.** Sul Khatesh makes two attacks with her Arcane Blast or one attack with her magic staff.

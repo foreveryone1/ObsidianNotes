@@ -1,5 +1,6 @@
 # Fire Snake
->*Medium elemental, neutral evil*
+>*Medium #elemental , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 22 (5d8)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** fire
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands Ignan but can't speak
->- **Challenge** 1 (200 XP)
+>- #cr1 (200 XP)
 >___
 >***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The snake makes two attacks: one with its bite and one with its tail.  
 >
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage.  

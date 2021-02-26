@@ -1,5 +1,6 @@
 # Zaratan
->*Gargantuan elemental, neutral*
+>*Gargantuan #elemental , neutral*
+## Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 307 (15d20 + 150)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, stunned
 >- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 15
 >- **Languages** —
->- **Challenge** 22 (41,000 XP)
+>- #cr22 (41,000 XP)
 >___
 >***Earth-Shaking Movement.*** As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is concentrating must succeed on a DC 25 Constitution saving throw or the creature's concentration is broken.  
 >The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a DC 25 Dexterity saving throw. On a failed save, the creature takes 17 (5d6) bludgeoning damage, is knocked prone, and is trapped in the rubble. A trapped creature is restrained, requiring a successful DC 20 Strength (Athletics) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall prone or become trapped.  
@@ -27,7 +28,7 @@
 >
 >***Siege Monster.*** The elemental deals double damage to objects and structures (included in Earth-Shaking Movement).  
 >
->### Actions
+## Actions
 >***Multiattack.*** The zaratan makes two attacks: one with its bite and one with its stomp.  
 >
 >***Bite.*** Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 28 (4d8 + 10) piercing damage.  
@@ -38,7 +39,7 @@
 >
 >***Spew Debris (Recharge 5–6).*** The zaratan exhales rocky debris in a 90-foot cube. Each creature in that area must make a DC 25 Dexterity saving throw. A creature takes 33 (6d10) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save by 5 or more is knocked prone.  
 >
->### Legendary Actions
+## Legendary Actions
 >The zaratan can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The zaratan regains spent legendary actions at the start of its turn.
 >
 >- **Stomp.** The zaratan makes one stomp attack.

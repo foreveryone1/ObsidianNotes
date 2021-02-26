@@ -1,5 +1,6 @@
 # Iron Golem
->*Large construct, unaligned*
+>*Large #construct , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 210 (20d10 + 100)
@@ -13,7 +14,7 @@
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 >- **Senses** darkvision 120 ft., passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 16 (15,000 XP)
+>- #cr16 (15,000 XP)
 >___
 >***Fire Absorption.*** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.  
 >
@@ -23,7 +24,7 @@
 >
 >***Magic Weapons.*** The golem's weapon attacks are magical.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The golem makes two melee attacks.  
 >
 >***Slam.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.  

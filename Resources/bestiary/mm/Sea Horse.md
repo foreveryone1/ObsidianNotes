@@ -1,5 +1,6 @@
 # Sea Horse
->*Tiny beast, unaligned*
+>*Tiny #beast , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 1 (1d4 - 1)
@@ -11,6 +12,6 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 0 (0 or 10 XP)
+>- ** #cr0 **(0 or 10 XP)
 >___
 >***Water Breathing.*** The sea horse can breathe only underwater.

@@ -1,5 +1,6 @@
 # Sea Hag
->*Medium fey, chaotic evil*
+>*Medium #fey , , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 52 (7d8 + 21)
@@ -11,7 +12,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Aquan, Common, Giant
->- **Challenge** 2 (450 XP) or 4 (1,100 XP) when part of a coven
+>- #cr2 (450 XP) or 4 (1,100 XP) when part of a coven
 >___
 >***Amphibious.*** The hag can breathe air and water.  
 >
@@ -36,7 +37,7 @@
 >For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.  
 >
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  
 >
 >***Death Glare.*** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.  

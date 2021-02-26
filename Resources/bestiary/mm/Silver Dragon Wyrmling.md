@@ -1,5 +1,6 @@
 # Silver Dragon Wyrmling
->*Medium dragon, lawful good*
+>*Medium #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -14,9 +15,9 @@
 >- **Damage Immunities** cold
 >- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Draconic
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.  
 >
 >***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.  

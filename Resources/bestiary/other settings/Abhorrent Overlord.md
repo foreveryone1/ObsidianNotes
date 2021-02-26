@@ -1,5 +1,6 @@
 # Abhorrent Overlord
->*Large fiend, lawful evil*
+>*Large #fiend , lawful evil*
+## Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 136 (16d10 + 48)
@@ -16,7 +17,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 120 ft., passive Perception 12
 >- **Languages** Abyssal, Common, Infernal
->- **Challenge** 9 (5,000 XP)
+>- #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** The abhorrent overlord's spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:  
 >
@@ -27,7 +28,7 @@
 >
 >***Magic Resistance.*** The abhorrent overlord has advantage on saving throws against spells and other magical effects.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The abhorrent overlord makes two attacks with its claws.  
 >
 >***Claws.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 14 (4d6) necrotic damage. The abhorrent overlord regains hit points equal to half the amount of necrotic damage dealt if the target is a creature.  

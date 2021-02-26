@@ -1,5 +1,6 @@
 # Bronze Dragon Wyrmling
->*Medium dragon, lawful good*
+>*Medium #dragon , lawful good*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 32 (5d8 + 10)
@@ -14,11 +15,11 @@
 >- **Damage Immunities** lightning
 >- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 >- **Languages** Draconic
->- **Challenge** 2 (450 XP)
+>- #cr2 (450 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
->### Actions
+## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.  
 >
 >***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.  

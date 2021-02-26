@@ -1,5 +1,6 @@
 # Twig Blight
->*Small plant, neutral evil*
+>*Small #plant , neutral evil*
+## Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 4 (1d6 + 1)
@@ -14,11 +15,11 @@
 >- **Condition Immunities** blinded, deafened
 >- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
 >- **Languages** understands Common but can't speak
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.  
 >
->### Actions
+## Actions
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 ## Twig Blight
 Awakened plants gifted with the powers of intelligence and mobility, blights plague lands contaminated by darkness. Drinking that darkness from the soil, a blight carries out the will of ancient evil and attempts to spread that evil wherever it can.

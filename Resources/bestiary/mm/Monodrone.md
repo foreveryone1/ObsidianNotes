@@ -1,5 +1,6 @@
 # Monodrone
->*Medium construct, lawful neutral*
+>*Medium #construct , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 5 (1d8 + 1)
@@ -11,13 +12,13 @@
 >___
 >- **Senses** truesight 120 ft., passive Perception 10
 >- **Languages** Modron
->- **Challenge** 1/8 (25 XP)
+>- ** #cr1-8 ** (25 XP)
 >___
 >***Axiomatic Mind.*** The monodrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >
 >***Disintegration.*** If the monodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.  
 >
->### Actions
+## Actions
 >***Dagger.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.  
 >
 >***Javelin.*** Melee  or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 3 (1d6) piercing damage.

@@ -1,5 +1,6 @@
 # Piercer
->*Medium monstrosity, unaligned*
+>*Medium #monstrosity , unaligned*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 22 (3d8 + 9)
@@ -12,13 +13,13 @@
 >- **Skills** Stealth +5
 >- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 8
 >- **Languages** —
->- **Challenge** 1/2 (100 XP)
+>- ** #cr1-2 ** (100 XP)
 >___
 >***False Appearance.*** While the piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite.  
 >
 >***Spider Climb.*** The piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->### Actions
+## Actions
 >***Drop.*** Melee Weapon Attack: +3 to hit, one creature directly underneath the piercer. Hit: 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6). Miss: The piercer takes half the normal falling damage for the distance fallen.
 ## Piercer
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.

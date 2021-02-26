@@ -1,5 +1,6 @@
 # Troglodyte
->*Medium humanoid (troglodyte), chaotic evil*
+>*Medium #humanoid (troglodyte), chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 13 (2d8 + 4)
@@ -12,7 +13,7 @@
 >- **Skills** Stealth +2
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Troglodyte
->- **Challenge** 1/4 (50 XP)
+>- ** #cr1-4 ** (50 XP)
 >___
 >***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.  
 >
@@ -20,7 +21,7 @@
 >
 >***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The troglodyte makes three attacks: one with its bite and two with its claws.  
 >
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  

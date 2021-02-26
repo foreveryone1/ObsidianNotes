@@ -1,5 +1,6 @@
 # Archmage
->*Medium humanoid (any race), any alignment*
+>*Medium #humanoid (any race), any alignment*
+## Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 99 (18d8 + 18)
@@ -14,7 +15,7 @@
 >- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
 >- **Senses** passive Perception 12
 >- **Languages** any six languages
->- **Challenge** 12 (8,400 XP)
+>- #cr12 (8,400 XP)
 >___
 >***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.  
 >
@@ -34,7 +35,7 @@
 >*The archmage casts these spells on itself before combat.  
 >
 >
->### Actions
+## Actions
 >***Dagger.*** Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 ## Archmage
 Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.

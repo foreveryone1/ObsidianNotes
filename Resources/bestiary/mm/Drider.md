@@ -1,5 +1,6 @@
 # Drider
->*Large monstrosity, chaotic evil*
+>*Large #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 123 (13d10 + 52)
@@ -12,7 +13,7 @@
 >- **Skills** Perception +5, Stealth +9
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Elvish, Undercommon
->- **Challenge** 6 (2,300 XP)
+>- #cr6 (2,300 XP)
 >___
 >***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.  
 >
@@ -28,7 +29,7 @@
 >
 >***Web Walker.*** The drider ignores movement restrictions caused by webbing.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.  

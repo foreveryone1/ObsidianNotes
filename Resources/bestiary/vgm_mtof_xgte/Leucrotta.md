@@ -1,5 +1,6 @@
 # Leucrotta
->*Large monstrosity, chaotic evil*
+>*Large #monstrosity , chaotic evil*
+## Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 67 (9d10 + 18)
@@ -12,7 +13,7 @@
 >- **Skills** Deception +2, Perception +3
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Abyssal, Gnoll
->- **Challenge** 3 (700 XP)
+>- #cr3 (700 XP)
 >___
 >***Keen Smell.*** The leucrotta has advantage on Wisdom (Perception) checks that rely on smell.  
 >
@@ -22,7 +23,7 @@
 >
 >***Rampage.*** When the leucrotta reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make an attack with its hooves.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The leucrotta makes two attacks: one with its bite and one with its hooves.  
 >
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage. If the leucrotta scores a critical hit, it rolls the damage dice three times, instead of twice.  

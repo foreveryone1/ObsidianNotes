@@ -1,5 +1,6 @@
 # Isperia
->*Gargantuan monstrosity, lawful neutral*
+>*Gargantuan #monstrosity , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 261 (18d20 + 72)
@@ -15,7 +16,7 @@
 >- **Condition Immunities** charmed, frightened
 >- **Senses** truesight 120 ft., passive Perception 25
 >- **Languages** Common, Sphinx
->- **Challenge** 21 (33,000 XP)
+>- #cr21 (33,000 XP)
 >___
 >***Innate Spellcasting.*** Isperia's innate spellcasting ability is Wisdom (spell save DC 23). Isperia can innately cast imprisonment twice per day, requiring no material components.  
 >
@@ -37,14 +38,14 @@
 >7th level (1 slot): divine word  
 >8th level (1 slot): antimagic field  
 >
->### Actions
+## Actions
 >***Multiattack.*** Isperia makes two claw attacks. She can cast a spell with a casting time of 1 action in place of one claw attack.  
 >
 >***Claw.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) slashing damage. If the target is a creature, it must succeed on a DC 23 Wisdom saving throw or take 14 (4d6) psychic damage after each attack it makes against Isperia before the start of her next turn.  
 >
 >***Supreme Legal Authority.*** Isperia chooses up to three creatures she can see within 90 feet of her. Each target must succeed on a DC 23 Intelligence saving throw or Isperia chooses an action for that target: Attack, Cast a Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, or Use an Object. The affected target can't take that action for 1 minute. At the end of each of the target's turns, it can end the effect on itself with a successful DC 23 Intelligence saving throw. A target that succeeds on the saving throw becomes immune to Isperia's Supreme Legal Authority for 24 hours.  
 >
->### Legendary Actions
+## Legendary Actions
 >Isperia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Isperia regains spent legendary actions at the start of its turn.
 >
 >- **Claw Attack.** Isperia makes one claw attack.

@@ -1,5 +1,6 @@
 # Hundred-Handed One
->*Huge giant, lawful neutral*
+>*Huge #giant , lawful neutral*
+## Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 243 (18d12 + 126)
@@ -14,13 +15,13 @@
 >- **Condition Immunities** frightened
 >- **Senses** darkvision 120 ft., passive Perception 18
 >- **Languages** Giant
->- **Challenge** 15 (13,000 XP)
+>- #cr15 (13,000 XP)
 >___
 >***Reactive.*** The giant can take one reaction on every turn in a combat.  
 >
 >***Vigilant.*** The giant can't be surprised.  
 >
->### Actions
+## Actions
 >***Multiattack.*** The giant makes four longsword attacks or two rock attacks.  
 >
 >***Longsword.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 21 (3d8 + 8) slashing damage.  
