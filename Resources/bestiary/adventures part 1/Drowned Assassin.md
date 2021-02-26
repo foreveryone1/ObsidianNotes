@@ -1,5 +1,6 @@
 # Drowned Assassin
 >*Medium undead, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 67 (9d8 + 27)

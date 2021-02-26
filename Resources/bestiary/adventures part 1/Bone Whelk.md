@@ -1,5 +1,6 @@
 # Bone Whelk
 >*Large monstrosity, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 27 (5d10)

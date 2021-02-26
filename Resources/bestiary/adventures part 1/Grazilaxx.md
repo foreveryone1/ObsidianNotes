@@ -1,5 +1,6 @@
 # Grazilaxx
 >*Medium aberration, lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (breastplate)
 >- **Hit Points** 71 (13d8 + 13)

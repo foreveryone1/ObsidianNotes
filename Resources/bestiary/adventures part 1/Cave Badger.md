@@ -1,5 +1,6 @@
 # Cave Badger
 >*Medium beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 13 (2d8 + 4)

@@ -1,5 +1,6 @@
 # Chimeric Fox
 >*Tiny beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 2 (1d4)

@@ -1,5 +1,6 @@
 # Giant Sea Eel
 >*Large beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 19 (3d10 + 3)

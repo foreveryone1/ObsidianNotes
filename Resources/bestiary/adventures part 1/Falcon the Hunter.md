@@ -1,5 +1,6 @@
 # Falcon the Hunter
 >*Medium humanoid (human), neutral good*
+# Monster Traits
 >___
 >- **Armor Class** 14 (studded leather armor)
 >- **Hit Points** 112 (15d8 + 45)

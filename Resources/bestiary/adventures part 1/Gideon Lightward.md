@@ -1,5 +1,6 @@
 # Gideon Lightward
 >*Medium undead, lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 136 (16d8 + 64)

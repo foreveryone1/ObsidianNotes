@@ -1,5 +1,6 @@
 # Drow Spore Servant
 >*Medium plant, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 13 (3d8)

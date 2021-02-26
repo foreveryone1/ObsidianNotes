@@ -1,5 +1,6 @@
 # Drowned Ascetic
 >*Medium undead, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 75 (10d8 + 30)

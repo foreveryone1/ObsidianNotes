@@ -1,5 +1,6 @@
 # Fiendish Flesh Golem
 >*Large construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 210 (20d10 + 100)

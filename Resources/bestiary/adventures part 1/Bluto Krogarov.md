@@ -1,5 +1,6 @@
 # Bluto Krogarov
 >*Medium humanoid (human), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 4 (1d8)

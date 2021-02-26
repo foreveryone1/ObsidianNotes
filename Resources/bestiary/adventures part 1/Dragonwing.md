@@ -1,5 +1,6 @@
 # Dragonwing
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 33 (6d8 + 6)

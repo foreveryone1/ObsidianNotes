@@ -1,5 +1,6 @@
 # Arabelle
 >*Medium humanoid (human), lawful neutral*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 2 (1d8)

@@ -1,5 +1,6 @@
 # Crokek'toeck
 >*Gargantuan fiend (demon), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 297 (17d20 + 119)

@@ -1,5 +1,6 @@
 # Gorthok the Thunder Boar
 >*Huge monstrosity, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 73 (7d12 + 28)

@@ -1,5 +1,6 @@
 # Chardalyn Berserker
 >*Medium fiend, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 90 (12d8 + 36)

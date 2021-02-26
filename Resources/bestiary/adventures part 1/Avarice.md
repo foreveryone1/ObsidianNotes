@@ -1,5 +1,6 @@
 # Avarice
 >*Medium humanoid (tiefling), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 84 (13d8 + 26)

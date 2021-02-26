@@ -1,5 +1,6 @@
 # Amrik Vanthampur
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 17 (leather armor, charisma modifier)
 >- **Hit Points** 66 (12d8 + 12)

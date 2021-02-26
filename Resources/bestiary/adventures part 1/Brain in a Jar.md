@@ -1,5 +1,6 @@
 # Brain in a Jar
 >*Small undead, any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 55 (10d6 + 20)

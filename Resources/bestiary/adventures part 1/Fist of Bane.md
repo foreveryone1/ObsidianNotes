@@ -1,5 +1,6 @@
 # Fist of Bane
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 22 (4d8 + 4)

@@ -1,5 +1,6 @@
 # Captain Othelstan
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 19 (splint armor, shield)
 >- **Hit Points** 93 (11d10 + 33)

@@ -1,5 +1,6 @@
 # Ezmerelda d'Avenir
 >*Medium humanoid (human), chaotic good*
+# Monster Traits
 >___
 >- **Armor Class** 17 (+1 studded leather armor)
 >- **Hit Points** 82 (11d8 + 33)

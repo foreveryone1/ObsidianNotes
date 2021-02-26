@@ -1,5 +1,6 @@
 # Azbara Jos
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (16 with mage armor)
 >- **Hit Points** 39 (6d8 + 12)

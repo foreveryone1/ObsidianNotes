@@ -1,5 +1,6 @@
 # Awakened White Moose
 >*Large beast, neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 68 (8d10 + 24)

@@ -1,5 +1,6 @@
 # Captain Xendros
 >*Medium humanoid (tiefling), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (chain shirt)
 >- **Hit Points** 27 (5d8 + 5)

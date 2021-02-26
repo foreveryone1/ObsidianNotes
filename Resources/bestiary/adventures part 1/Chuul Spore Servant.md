@@ -1,5 +1,6 @@
 # Chuul Spore Servant
 >*Large plant, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 93 (11d10 + 33)

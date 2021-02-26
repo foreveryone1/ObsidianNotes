@@ -1,5 +1,6 @@
 # Harkina Hunt
 >*Medium humanoid (human), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 4 (1d8)

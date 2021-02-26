@@ -1,5 +1,6 @@
 # Giant White Moray Eel
 >*Huge beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 60 (8d12 + 8)

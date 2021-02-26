@@ -1,5 +1,6 @@
 # Blurg
 >*Medium humanoid (orc), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 42 (5d8 + 20)

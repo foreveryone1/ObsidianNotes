@@ -1,5 +1,6 @@
 # Guard Drake
 >*Medium dragon, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 52 (7d8 + 21)

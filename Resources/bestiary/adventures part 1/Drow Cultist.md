@@ -1,5 +1,6 @@
 # Drow Cultist
 >*Medium humanoid (elf), any non-good alignment*
+# Monster Traits
 >___
 >- **Armor Class** 12 (leather armor)
 >- **Hit Points** 9 (2d8)

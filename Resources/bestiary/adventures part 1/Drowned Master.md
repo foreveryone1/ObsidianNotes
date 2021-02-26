@@ -1,5 +1,6 @@
 # Drowned Master
 >*Medium undead, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 157 (21d8 + 63)

@@ -1,5 +1,6 @@
 # Blagothkus
 >*Huge giant (cloud giant), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 17 (splint armor)
 >- **Hit Points** 138 (12d12 + 60)

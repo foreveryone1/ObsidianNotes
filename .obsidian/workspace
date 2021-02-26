@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1c4c39e912b2ed",
+        "id": "1b9ccd3f79dad0c1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/bestiary/mm/Untitled.md",
+            "file": "Resources/bestiary/mm/Aarakocra.md",
             "mode": "source"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/bestiary/mm/Untitled.md"
+                "file": "Resources/bestiary/mm/Aarakocra.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/bestiary/mm/Untitled.md",
+                "file": "Resources/bestiary/mm/Aarakocra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/bestiary/mm/Untitled.md",
+                "file": "Resources/bestiary/mm/Aarakocra.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resources/bestiary/mm/Untitled.md",
     "Resources/bestiary/mm/Aarakocra.md",
-    "Resources/bestiary/adventures part 2/Untitled.md",
+    "Resources/bestiary/eberron/Bone Knight.md",
+    "Resources/bestiary/eberron/Corrin Delmaco.md",
+    "Resources/bestiary/eberron/Untitled.md",
     "Resources/bestiary/adventures part 1/Untitled.md",
-    "Resources/bestiary/adventures part 1/Untitled 1.md",
-    "Resources/bestiary/mm/Adult Green Dragon.md",
-    "Resources/bestiary/mm/Adult Red Dragon.md",
-    "Resources/bestiary/mm/Air Elemental.md",
-    "Resources/bestiary/mm/Adult Silver Dragon.md",
-    "Resources/bestiary/mm/Ancient Black Dragon.md"
+    "Resources/bestiary/adventures part 1/Abyssal Chicken.md",
+    "Resources/bestiary/adventures part 2/Untitled.md",
+    "Resources/bestiary/adventures part 2/Alastrah.md",
+    "Resources/bestiary/mm/Untitled.md",
+    "Resources/bestiary/mm/Abominable Yeti.md"
   ]
 }

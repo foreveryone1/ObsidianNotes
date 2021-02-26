@@ -1,5 +1,6 @@
 # Harpy Matriarch
 >*Medium monstrosity, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 88 (16d8 + 16)

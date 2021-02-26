@@ -1,5 +1,6 @@
 # Baba Lysaga's Creeping Hut
 >*Gargantuan construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 263 (17d20 + 85)

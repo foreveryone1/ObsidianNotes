@@ -1,5 +1,6 @@
 # Battlehammer Dwarf
 >*Medium humanoid (dwarf), lawful good*
+# Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 16 (3d8 + 3)

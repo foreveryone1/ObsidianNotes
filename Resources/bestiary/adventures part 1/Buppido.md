@@ -1,5 +1,6 @@
 # Buppido
 >*Small humanoid (derro), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 13 (3d6 + 3)

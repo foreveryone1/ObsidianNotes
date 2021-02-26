@@ -1,5 +1,6 @@
 # Dralmorrer Borngray
 >*Medium humanoid (high elf), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 16 (studded leather armor, shield)
 >- **Hit Points** 52 (7d10 + 14)

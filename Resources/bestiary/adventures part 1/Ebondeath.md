@@ -1,5 +1,6 @@
 # Ebondeath
 >*Medium undead, any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 15
 >- **Hit Points** 225 (10d8)

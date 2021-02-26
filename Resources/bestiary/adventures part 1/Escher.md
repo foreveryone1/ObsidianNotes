@@ -1,5 +1,6 @@
 # Escher
 >*Medium undead, neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 82 (11d8 + 33)

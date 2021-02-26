@@ -1,5 +1,6 @@
 # Bitter Breath
 >*Large fiend (devil), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 178 (17d10 + 85)

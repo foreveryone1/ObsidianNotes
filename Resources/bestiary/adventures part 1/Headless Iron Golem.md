@@ -1,5 +1,6 @@
 # Headless Iron Golem
 >*Large construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 150 (10d10 + 50)

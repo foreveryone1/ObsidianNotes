@@ -1,5 +1,6 @@
 # Beucephalus
 >*Large fiend, neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 104 (8d10 + 24)

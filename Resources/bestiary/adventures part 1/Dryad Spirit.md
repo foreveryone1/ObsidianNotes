@@ -1,5 +1,6 @@
 # Dryad Spirit
 >*Medium undead, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 58 (13d8)

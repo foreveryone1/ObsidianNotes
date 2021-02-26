@@ -1,5 +1,6 @@
 # Clovin Belview
 >*Medium humanoid (mongrelfolk), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 26 (4d8 + 8)

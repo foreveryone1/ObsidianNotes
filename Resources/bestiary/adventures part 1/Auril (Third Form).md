@@ -1,5 +1,6 @@
 # Auril (Third Form)
 >*Small elemental, neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 136 (16d6 + 80)

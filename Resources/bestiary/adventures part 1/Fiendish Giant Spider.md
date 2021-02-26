@@ -1,5 +1,6 @@
 # Fiendish Giant Spider
 >*Medium beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 11 (2d8 + 2)

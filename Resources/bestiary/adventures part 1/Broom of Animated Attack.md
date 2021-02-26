@@ -1,5 +1,6 @@
 # Broom of Animated Attack
 >*Small construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 17 (5d6)

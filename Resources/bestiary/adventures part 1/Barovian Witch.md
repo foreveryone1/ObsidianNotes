@@ -1,5 +1,6 @@
 # Barovian Witch
 >*Medium humanoid (human), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 16 (3d8 + 3)

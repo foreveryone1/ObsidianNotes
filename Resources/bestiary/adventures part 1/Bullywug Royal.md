@@ -1,5 +1,6 @@
 # Bullywug Royal
 >*Medium humanoid (bullywug), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (hide armor, shield)
 >- **Hit Points** 52 (8d8 + 16)

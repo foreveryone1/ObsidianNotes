@@ -1,5 +1,6 @@
 # Armored Saber-Toothed Tiger
 >*Large beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 17 (half plate armor)
 >- **Hit Points** 84 (7d10 + 14)

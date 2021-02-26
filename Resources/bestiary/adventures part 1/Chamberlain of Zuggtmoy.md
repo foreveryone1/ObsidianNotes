@@ -1,5 +1,6 @@
 # Chamberlain of Zuggtmoy
 >*Large plant, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 45 (6d10 + 12)

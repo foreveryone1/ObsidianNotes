@@ -1,5 +1,6 @@
 # Auril (First Form)
 >*Medium monstrosity, neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 95 (10d8 + 50)

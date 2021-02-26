@@ -1,5 +1,6 @@
 # Duke Thalamra Vanthampur
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 78 (12d8 + 24)

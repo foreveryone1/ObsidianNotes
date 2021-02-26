@@ -1,5 +1,6 @@
 # Coldlight Walker
 >*Medium undead, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 82 (11d8 + 33)

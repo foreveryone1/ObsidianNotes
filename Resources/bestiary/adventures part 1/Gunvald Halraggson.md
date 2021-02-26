@@ -1,5 +1,6 @@
 # Gunvald Halraggson
 >*Medium humanoid (human), neutral*
+# Monster Traits
 >___
 >- **Armor Class** 13 (hide armor, shield)
 >- **Hit Points** 76 (9d8 + 36)

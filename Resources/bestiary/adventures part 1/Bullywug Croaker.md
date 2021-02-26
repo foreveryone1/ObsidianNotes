@@ -1,5 +1,6 @@
 # Bullywug Croaker
 >*Medium humanoid (bullywug), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (hide armor, shield)
 >- **Hit Points** 33 (6d8 + 6)

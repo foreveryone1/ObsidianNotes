@@ -1,5 +1,6 @@
 # Goblin Gang Member
 >*Small humanoid (goblinoid), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 10 (3d6)

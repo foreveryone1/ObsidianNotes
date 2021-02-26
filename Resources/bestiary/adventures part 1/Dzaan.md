@@ -1,5 +1,6 @@
 # Dzaan
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 49 (9d8 + 9)

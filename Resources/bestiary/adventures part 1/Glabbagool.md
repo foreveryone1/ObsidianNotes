@@ -1,5 +1,6 @@
 # Glabbagool
 >*Large ooze, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 6
 >- **Hit Points** 84 (8d10 + 40)

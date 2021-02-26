@@ -1,5 +1,6 @@
 # Evil Mage
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 22 (5d8)

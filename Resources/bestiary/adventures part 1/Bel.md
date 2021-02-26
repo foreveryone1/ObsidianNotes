@@ -1,5 +1,6 @@
 # Bel
 >*Large fiend (devil), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 364 (27d10 + 216)

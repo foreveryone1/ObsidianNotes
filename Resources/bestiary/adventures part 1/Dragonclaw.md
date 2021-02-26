@@ -1,5 +1,6 @@
 # Dragonclaw
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 16 (3d8 + 3)

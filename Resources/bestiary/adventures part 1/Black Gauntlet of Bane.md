@@ -1,5 +1,6 @@
 # Black Gauntlet of Bane
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 51 (6d8 + 24)

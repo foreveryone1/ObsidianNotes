@@ -1,5 +1,6 @@
 # Goliath Werebear
 >*Medium humanoid (goliath, shapechanger), neutral good*
+# Monster Traits
 >___
 >- **Armor Class** 10 in humanoid form, 12 (natural armor) in bear or hybrid form
 >- **Hit Points** 161 (19d8 + 76)

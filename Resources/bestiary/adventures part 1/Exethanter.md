@@ -1,5 +1,6 @@
 # Exethanter
 >*Medium undead, any evil alignment*
+# Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 99 (18d8 + 54)

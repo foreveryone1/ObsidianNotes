@@ -1,5 +1,6 @@
 # Galvan Magen
 >*Medium construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 68 (8d8 + 32)

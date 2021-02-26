@@ -1,5 +1,6 @@
 # Chwinga
 >*Tiny elemental, neutral*
+# Monster Traits
 >___
 >- **Armor Class** 15
 >- **Hit Points** 5 (2d4)

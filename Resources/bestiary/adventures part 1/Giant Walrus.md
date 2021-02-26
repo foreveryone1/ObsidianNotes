@@ -1,5 +1,6 @@
 # Giant Walrus
 >*Huge beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 85 (9d12 + 27)

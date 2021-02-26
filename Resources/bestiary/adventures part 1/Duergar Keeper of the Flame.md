@@ -1,5 +1,6 @@
 # Duergar Keeper of the Flame
 >*Medium humanoid (dwarf), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 16 (scale mail, shield)
 >- **Hit Points** 26 (4d8 + 4)

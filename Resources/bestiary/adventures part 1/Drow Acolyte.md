@@ -1,5 +1,6 @@
 # Drow Acolyte
 >*Medium humanoid (elf), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 9 (2d8)

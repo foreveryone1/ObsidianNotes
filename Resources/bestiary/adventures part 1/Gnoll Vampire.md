@@ -1,5 +1,6 @@
 # Gnoll Vampire
 >*Medium undead (shapechanger), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 93 (11d8 + 44)

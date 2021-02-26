@@ -1,5 +1,6 @@
 # Cyrus Belview
 >*Medium humanoid (mongrelfolk), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 26 (4d8 + 8)

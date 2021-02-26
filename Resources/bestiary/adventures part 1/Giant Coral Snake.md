@@ -1,5 +1,6 @@
 # Giant Coral Snake
 >*Large beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 90 (12d10 + 24)

@@ -1,5 +1,6 @@
 # Amarith Coppervein
 >*Medium humanoid (dwarf), neutral good*
+# Monster Traits
 >___
 >- **Armor Class** 17 (splint armor)
 >- **Hit Points** 58 (9d8 + 18)

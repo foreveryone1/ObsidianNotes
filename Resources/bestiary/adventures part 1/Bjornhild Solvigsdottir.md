@@ -1,5 +1,6 @@
 # Bjornhild Solvigsdottir
 >*Medium humanoid (human), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 12 (hide armor)
 >- **Hit Points** 102 (12d8 + 48)

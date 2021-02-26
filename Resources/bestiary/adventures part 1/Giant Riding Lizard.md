@@ -1,5 +1,6 @@
 # Giant Riding Lizard
 >*Large beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 19 (3d10 + 3)

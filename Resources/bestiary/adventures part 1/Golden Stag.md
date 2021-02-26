@@ -1,5 +1,6 @@
 # Golden Stag
 >*Large beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 13 (2d10 + 2)

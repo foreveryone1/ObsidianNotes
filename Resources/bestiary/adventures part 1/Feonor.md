@@ -1,5 +1,6 @@
 # Feonor
 >*Medium humanoid (human), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 99 (18d8 + 18)

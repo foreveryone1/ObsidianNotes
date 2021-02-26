@@ -1,5 +1,6 @@
 # Giant Rocktopus
 >*Large beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 52 (8d10 + 8)

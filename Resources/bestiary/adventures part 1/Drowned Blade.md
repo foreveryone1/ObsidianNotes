@@ -1,5 +1,6 @@
 # Drowned Blade
 >*Medium undead, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 10 (leather armor)
 >- **Hit Points** 45 (6d8 + 18)

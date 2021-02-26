@@ -1,5 +1,6 @@
 # Drow Scout
 >*Medium humanoid (elf), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 16 (3d8 + 3)

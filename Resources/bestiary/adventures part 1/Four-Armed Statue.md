@@ -1,5 +1,6 @@
 # Four-Armed Statue
 >*Large construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 178 (17d10 + 85)

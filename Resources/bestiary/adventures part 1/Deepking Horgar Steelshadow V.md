@@ -1,5 +1,6 @@
 # Deepking Horgar Steelshadow V
 >*Medium humanoid (dwarf), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 20 (dwarven plate)
 >- **Hit Points** 52 (8d8 + 16)

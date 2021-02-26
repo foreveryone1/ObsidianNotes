@@ -1,5 +1,6 @@
 # Drow Bandit
 >*Medium humanoid (elf), any non-lawful alignment*
+# Monster Traits
 >___
 >- **Armor Class** 12 (leather armor)
 >- **Hit Points** 11 (2d8 + 2)

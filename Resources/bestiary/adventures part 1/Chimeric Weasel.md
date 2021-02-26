@@ -1,5 +1,6 @@
 # Chimeric Weasel
 >*Tiny beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 1 (1d4 - 1)

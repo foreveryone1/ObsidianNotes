@@ -1,5 +1,6 @@
 # Don-Jon Raskin
 >*Medium humanoid (human), neutral*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 44 (8d8 + 8)

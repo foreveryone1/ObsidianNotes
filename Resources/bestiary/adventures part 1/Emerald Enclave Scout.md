@@ -1,5 +1,6 @@
 # Emerald Enclave Scout
 >*Medium humanoid (dwarf), lawful neutral*
+# Monster Traits
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 19 (3d8 + 6)

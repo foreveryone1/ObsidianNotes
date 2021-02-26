@@ -1,5 +1,6 @@
 # Flying Dagger
 >*Tiny construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 7 (3d4)

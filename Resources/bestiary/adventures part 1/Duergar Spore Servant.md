@@ -1,5 +1,6 @@
 # Duergar Spore Servant
 >*Medium plant, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 16 (scale mail, shield)
 >- **Hit Points** 26 (4d8 + 8)

@@ -1,5 +1,6 @@
 # Baba Lysaga
 >*Medium humanoid (human, shapechanger), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 120 (16d8 + 48)

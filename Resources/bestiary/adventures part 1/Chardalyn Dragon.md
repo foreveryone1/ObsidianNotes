@@ -1,5 +1,6 @@
 # Chardalyn Dragon
 >*Huge construct, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 147 (14d12 + 56)

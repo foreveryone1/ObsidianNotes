@@ -1,5 +1,6 @@
 # Death's Head of Bhaal
 >*Medium humanoid (human), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 15
 >- **Hit Points** 76 (8d8 + 40)

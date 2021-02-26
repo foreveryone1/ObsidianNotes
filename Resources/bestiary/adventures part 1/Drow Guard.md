@@ -1,5 +1,6 @@
 # Drow Guard
 >*Medium humanoid (elf), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 16 (chain shirt, shield)
 >- **Hit Points** 11 (2d8 + 2)

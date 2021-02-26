@@ -1,5 +1,6 @@
 # Gash
 >*Medium humanoid (gnoll), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (hide armor, shield)
 >- **Hit Points** 11 (5d8)

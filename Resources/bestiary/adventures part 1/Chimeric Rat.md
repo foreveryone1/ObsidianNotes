@@ -1,5 +1,6 @@
 # Chimeric Rat
 >*Tiny beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 1 (1d4 - 1)

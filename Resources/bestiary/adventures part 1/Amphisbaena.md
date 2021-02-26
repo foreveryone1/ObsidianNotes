@@ -1,5 +1,6 @@
 # Amphisbaena
 >*Medium monstrosity, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 14
 >- **Hit Points** 11 (2d8 + 2)

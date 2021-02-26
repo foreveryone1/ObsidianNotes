@@ -1,5 +1,6 @@
 # Ash Zombie
 >*Medium undead, neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 8
 >- **Hit Points** 22 (3d8 + 9)

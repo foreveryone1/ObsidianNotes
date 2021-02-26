@@ -1,5 +1,6 @@
 # Barnacle Bess
 >*Medium beast, lawful neutral*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 13 (3d8)

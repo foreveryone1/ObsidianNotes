@@ -1,5 +1,6 @@
 # Archduke Zariel of Avernus
 >*Large fiend (devil), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 580 (40d10 + 360)

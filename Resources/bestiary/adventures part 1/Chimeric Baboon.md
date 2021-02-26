@@ -1,5 +1,6 @@
 # Chimeric Baboon
 >*Small beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 3 (1d6)

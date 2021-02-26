@@ -1,5 +1,6 @@
 # Anchorite of Talos
 >*Medium humanoid (half-orc, shapechanger), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 58 (9d8 + 18)

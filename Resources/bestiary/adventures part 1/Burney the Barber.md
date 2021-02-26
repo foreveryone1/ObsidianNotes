@@ -1,5 +1,6 @@
 # Burney the Barber
 >*Gargantuan dragon, chaotic good*
+# Monster Traits
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 350 (20d20 + 140)

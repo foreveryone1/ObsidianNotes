@@ -1,5 +1,6 @@
 # Awakened Zurkhwood
 >*Huge plant, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 59 (7d12 + 14)

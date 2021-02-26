@@ -1,5 +1,6 @@
 # Gnome Ceremorph
 >*Small aberration, any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 58 (13d6 + 13)

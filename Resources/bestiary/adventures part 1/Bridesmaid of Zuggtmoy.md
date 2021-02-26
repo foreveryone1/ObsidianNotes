@@ -1,5 +1,6 @@
 # Bridesmaid of Zuggtmoy
 >*Medium plant, chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 22 (5d8)

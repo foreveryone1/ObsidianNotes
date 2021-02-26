@@ -1,5 +1,6 @@
 # Abyssal Chicken
 >*Tiny fiend (demon), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 10 (3d4 + 3)

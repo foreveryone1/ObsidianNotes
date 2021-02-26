@@ -1,5 +1,6 @@
 # Frost Druid
 >*Medium humanoid (human), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 67 (9d8 + 27)

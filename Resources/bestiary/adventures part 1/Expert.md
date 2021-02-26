@@ -1,5 +1,6 @@
 # Expert
 >*11th-level Medium humanoid*
+# Monster Traits
 >___
 >- **Armor Class** 17 (studded leather armor)
 >- **Hit Points** 66 (12d8 + 12)

@@ -1,5 +1,6 @@
 # Frulam Mondath
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 44 (8d8 + 8)

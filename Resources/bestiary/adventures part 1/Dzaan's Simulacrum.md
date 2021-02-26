@@ -1,5 +1,6 @@
 # Dzaan's Simulacrum
 >*Medium construct, lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 24 (9d8 + 9)

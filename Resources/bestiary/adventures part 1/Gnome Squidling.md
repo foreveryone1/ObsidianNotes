@@ -1,5 +1,6 @@
 # Gnome Squidling
 >*Small aberration, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 8
 >- **Hit Points** 10 (3d6)

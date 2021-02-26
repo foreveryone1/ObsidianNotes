@@ -1,5 +1,6 @@
 # Droki
 >*Small humanoid (derro), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 31 (7d6 + 7)

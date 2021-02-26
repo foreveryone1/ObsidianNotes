@@ -1,5 +1,6 @@
 # Clonk
 >*Medium humanoid (kenku), chaotic neutral*
+# Monster Traits
 >___
 >- **Armor Class** 13
 >- **Hit Points** 13 (3d8)

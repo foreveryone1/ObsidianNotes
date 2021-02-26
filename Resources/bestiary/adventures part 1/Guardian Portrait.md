@@ -1,5 +1,6 @@
 # Guardian Portrait
 >*Medium construct, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 5 (natural armor)
 >- **Hit Points** 22 (5d8)

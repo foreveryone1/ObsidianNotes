@@ -1,5 +1,6 @@
 # Elliach
 >*Medium humanoid (human), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 40 (9d8)

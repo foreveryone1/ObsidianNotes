@@ -1,5 +1,6 @@
 # Grisha
 >*Medium humanoid (Damaran human), chaotic evil*
+# Monster Traits
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 33 (6d8 + 6)

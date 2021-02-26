@@ -1,5 +1,6 @@
 # Frost Giant Skeleton
 >*Huge undead, lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 14 (armor scraps)
 >- **Hit Points** 102 (12d12 + 24)

@@ -1,5 +1,6 @@
 # Arkhan the Cruel
 >*Medium humanoid (dragonborn), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 23 (obsidian flint dragon plate, shield)
 >- **Hit Points** 221 (26d8 + 104)

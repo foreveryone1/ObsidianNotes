@@ -1,5 +1,6 @@
 # Demogorgon
 >*Medium monstrosity, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 60 (8d8 + 24)

@@ -1,5 +1,6 @@
 # Davian Martikov
 >*Medium humanoid (human, shapechanger), lawful good*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 31 (7d8)

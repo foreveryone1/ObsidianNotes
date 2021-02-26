@@ -1,5 +1,6 @@
 # Aruk Thundercaller Thuunlakalaga
 >*Medium humanoid (goliath), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 12 (hide armor)
 >- **Hit Points** 67 (9d8 + 27)

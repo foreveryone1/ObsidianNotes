@@ -1,5 +1,6 @@
 # Gertruda
 >*Medium humanoid (human), neutral good*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 4 (1d8)

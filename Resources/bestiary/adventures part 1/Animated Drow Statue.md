@@ -1,5 +1,6 @@
 # Animated Drow Statue
 >*Medium elemental, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 33 (6d8 + 6)

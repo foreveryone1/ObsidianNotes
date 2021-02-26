@@ -1,5 +1,6 @@
 # Drow Spy
 >*Medium humanoid (elf), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 27 (6d8)

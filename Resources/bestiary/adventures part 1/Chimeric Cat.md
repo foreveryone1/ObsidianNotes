@@ -1,5 +1,6 @@
 # Chimeric Cat
 >*Tiny beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 12
 >- **Hit Points** 2 (1d4)

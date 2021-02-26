@@ -1,5 +1,6 @@
 # F'yorl
 >*Medium aberration, lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 11
 >- **Hit Points** 9 (13d8 + 13)

@@ -1,5 +1,6 @@
 # Drow Noble
 >*Medium humanoid (elf), any alignment*
+# Monster Traits
 >___
 >- **Armor Class** 15 (breastplate)
 >- **Hit Points** 9 (2d8)

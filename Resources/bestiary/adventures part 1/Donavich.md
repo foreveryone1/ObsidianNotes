@@ -1,5 +1,6 @@
 # Donavich
 >*Medium humanoid (human), lawful good*
+# Monster Traits
 >___
 >- **Armor Class** 10
 >- **Hit Points** 9 (2d8)

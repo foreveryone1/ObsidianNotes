@@ -1,5 +1,6 @@
 # Grandolpha Muzgardt
 >*Medium humanoid (dwarf), lawful evil*
+# Monster Traits
 >___
 >- **Armor Class** 9
 >- **Hit Points** 59 (7d8 + 28)

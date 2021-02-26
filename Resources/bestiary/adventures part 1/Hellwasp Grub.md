@@ -1,5 +1,6 @@
 # Hellwasp Grub
 >*Small beast, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 4 (1d6 + 1)

@@ -1,5 +1,6 @@
 # Ambush Drake
 >*Medium dragon, unaligned*
+# Monster Traits
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 22 (4d6 + 8)

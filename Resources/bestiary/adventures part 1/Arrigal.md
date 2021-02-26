@@ -1,5 +1,6 @@
 # Arrigal
 >*Medium humanoid (human), neutral evil*
+# Monster Traits
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 78 (12d8 + 24)
