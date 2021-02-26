@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "Resources/bestiary/mm/Adult Green Dragon.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Resources/bestiary/mm/Adult Green Dragon.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Resources/bestiary/mm/Adult Green Dragon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Resources/bestiary/mm/Adult Green Dragon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Scratchpad.md",
-    "example monster.md",
-    "Monsters.md",
-    "obsidian.md/Attachments/Weather_effects.png",
-    "obsidian.md/Attachments/Weather effects.md",
-    "Resources/Houserules/GGMM/LVL9.md",
-    "obsidian.md/Templates/ggmonstemplate.md",
-    "obsidian.md/Templates/montemplate.md",
-    "Resources/Houserules/GGMM/type_fiend.md",
-    "Resources/Houserules/GGMM/type_fey.md"
+    "Resources/bestiary/mm/Adult Green Dragon.md",
+    "Resources/bestiary/mm/Adult Red Dragon.md",
+    "Resources/bestiary/mm/Air Elemental.md",
+    "Resources/bestiary/mm/Adult Silver Dragon.md",
+    "Resources/bestiary/mm/Ancient Black Dragon.md",
+    "Resources/bestiary/mm/Allosaurus.md",
+    "Resources/bestiary/mm/Adult White Dragon.md",
+    "Resources/bestiary/mm/Adult Gold Dragon.md",
+    "Resources/bestiary/mm/Adult Bronze Dragon.md",
+    "Resources/bestiary/mm/Adult Black Dragon.md"
   ]
 }
