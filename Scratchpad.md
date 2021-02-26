@@ -2,6 +2,12 @@
 cssclass: kanban
 ---
 
+
+
+![[Weather_effects.png|400]]
+
+
+
 ## Esteban's relationships
 - ##### Friendly
 	- **Silva**

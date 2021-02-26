@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "example monster.md",
+            "file": "Scratchpad.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "example monster.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "example monster.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +152,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "example monster.md",
     "Scratchpad.md",
+    "example monster.md",
     "Monsters.md",
     "obsidian.md/Attachments/Weather_effects.png",
     "obsidian.md/Attachments/Weather effects.md",
