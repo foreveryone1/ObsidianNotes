@@ -14,7 +14,7 @@
 >- **Condition Immunities** charmed, frightened, paralyzed, poisoned
 >- **Senses** blindsight 120 ft., passive Perception 10
 >- **Languages** —
->- #CR30 (155,000 XP)
+>- **Challenge** 30 (155,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.  
 >
@@ -46,13 +46,8 @@
 >- **Attack.** The tarrasque makes one claw attack or tail attack.
 >- **Move.** The tarrasque moves up to half its speed.
 >- **Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow.
-
 ## Tarrasque
-
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
-
 A scaly biped, the tarrasque is fifty feet tall and seventy feet long, weighing hundreds of tons. It carries itself like a bird of prey, leaning forward and using its powerful lashing tail for balance. Its cavernous maw yawns wide enough to swallow all but the largest creatures, and so great is its hunger that it can devour the populations of whole towns.
-
 ***Legendary Destruction.*** The destructive potential of the tarrasque is so vast that some cultures incorporate the monster into religious doctrine, weaving its sporadic appearance into stories of divine judgment and wrath.
-
 Legends tell how the tarrasque slumbers in its secret lair beneath the earth, remaining in a dormant state for decades or centuries. When it awakens in answer to some inscrutable cosmic call, it rises from the depths to obliterate everything in its path.

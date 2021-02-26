@@ -14,7 +14,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan, Terran
->- #CR1_4 (50 XP)
+>- **Challenge** 1/4 (50 XP)
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.  
 >
@@ -24,5 +24,4 @@
 >***Fists.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.  
 >
 >***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
 ## Mud Mephit

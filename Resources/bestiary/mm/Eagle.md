@@ -12,7 +12,7 @@
 >- **Skills** Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.  
 >

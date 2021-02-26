@@ -13,7 +13,7 @@
 >- **Skills** Insight +6, Perception +6, Religion +4, Stealth +5
 >- **Senses** darkvision 120 ft., passive Perception 16
 >- **Languages** Elvish, Undercommon
->- #CR8 (3,900 XP)
+>- **Challenge** 8 (3,900 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -41,9 +41,6 @@
 >***Scourge.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.  
 >
 >***Summon Demon (1/Day).*** The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
-
 ## Drow Priestess of Lolth
-
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
-
 Such priestesses execute the will of the Spider Queen, and as a result, they wield tremendous power and influence in drow society. The matron mothers who rule the drow houses are the most powerful of Lolth's priestesses, but they must constantly balance their devotion to the Spider Queen with their devotion to their families.

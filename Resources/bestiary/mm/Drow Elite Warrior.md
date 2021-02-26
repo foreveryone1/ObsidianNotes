@@ -13,7 +13,7 @@
 >- **Skills** Perception +4, Stealth +10
 >- **Senses** darkvision 120 ft., passive Perception 14
 >- **Languages** Elvish, Undercommon
->- #CR5 (1,800 XP)
+>- **Challenge** 5 (1,800 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -34,5 +34,4 @@
 >
 >### Reactions
 >***Parry.*** The drow adds 3 to its AC against one melee attack that would hit it. To do so, the drow must see the attacker and be wielding a melee weapon.
-
 ## Drow Elite Warrior

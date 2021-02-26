@@ -12,7 +12,7 @@
 >- **Skills** Perception +4, Stealth +6
 >- **Senses** passive Perception 14
 >- **Languages** —
->- #CR1_4 (50 XP)
+>- **Challenge** 1/4 (50 XP)
 >___
 >***Keen Smell.*** The panther has advantage on Wisdom (Perception) checks that rely on smell.  
 >

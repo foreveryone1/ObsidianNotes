@@ -12,7 +12,7 @@
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** understands Common but can't speak
->- #CR1 (200 XP)
+>- **Challenge** 1 (200 XP)
 >___
 >***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.  
 >
@@ -24,7 +24,5 @@
 >***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.  
 >
 >***Talons.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
-
 ## Giant Vulture
-
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.

@@ -11,6 +11,7 @@
 >___
 >- **Senses** passive Perception 12
 >- **Languages** —
->- #CR0 (0 or 10 XP)
->## Actions
+>- **Challenge** 0 (0 or 10 XP)
+>___
+>### Actions
 >***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.

@@ -12,7 +12,7 @@
 >- **Skills** Perception +4, Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** —
->- #CR1 (200 XP)
+>- **Challenge** 1 (200 XP)
 >___
 >***Hold Breath.*** While out of water, the octopus can hold its breath for 1 hour.  
 >

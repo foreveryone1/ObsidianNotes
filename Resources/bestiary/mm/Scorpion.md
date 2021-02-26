@@ -11,6 +11,7 @@
 >___
 >- **Senses** blindsight 10 ft., passive Perception 9
 >- **Languages** —
->- #CR0 (0 or 10 XP)
->## Actions
+>- **Challenge** 0 (0 or 10 XP)
+>___
+>### Actions
 >***Sting.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.

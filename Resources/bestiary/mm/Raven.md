@@ -12,7 +12,7 @@
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.  
 >

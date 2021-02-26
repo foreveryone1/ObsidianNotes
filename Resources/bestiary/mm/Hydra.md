@@ -12,7 +12,7 @@
 >- **Skills** Perception +6
 >- **Senses** darkvision 60 ft., passive Perception 16
 >- **Languages** —
->- #CR8 (3,900 XP)
+>- **Challenge** 8 (3,900 XP)
 >___
 >***Hold Breath.*** The hydra can hold its breath for 1 hour.  
 >
@@ -28,11 +28,7 @@
 >***Multiattack.*** The hydra makes as many bite attacks as it has heads.  
 >
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
-
 ## Hydra
-
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
-
 ***Everlasting Hunger.*** A rapacious and gluttonous monster, a hydra snatches and tears apart its prey in a frenzy of feeding. When a hydra has cleared a territory of food and driven off any creatures smart enough to avoid it, it moves on to seek its meals elsewhere. A hydra's hunger is so great that if it can't feed, it might turn against itself, its heads attacking each other as the creature eats itself alive.
-
 ***Hardy Water Dwellers.*** Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shallows, and in wetland bogs. A hydra rarely requires shelter from the elements, so it doesn't normally have a lair. Only in colder climes are hydras drawn to the protection of sheltered caverns and ruins. When a hydra sleeps, at least one of its heads remains awake and alert, making the creature difficult to catch by surprise.

@@ -12,13 +12,11 @@
 >- **Skills** Deception +2, Religion +2
 >- **Senses** passive Perception 10
 >- **Languages** any one language (usually Common)
->- #CR1_8 (25 XP)
+>- **Challenge** 1/8 (25 XP)
 >___
 >***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.  
 >
 >### Actions
 >***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.
-
 ## Cultist
-
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.

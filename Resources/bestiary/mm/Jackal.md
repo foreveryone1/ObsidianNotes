@@ -12,7 +12,7 @@
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Keen Hearing and Smell.*** The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

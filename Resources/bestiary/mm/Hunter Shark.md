@@ -12,7 +12,7 @@
 >- **Skills** Perception +2
 >- **Senses** blindsight 30 ft., passive Perception 12
 >- **Languages** —
->- #CR2 (450 XP)
+>- **Challenge** 2 (450 XP)
 >___
 >***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >
@@ -20,7 +20,5 @@
 >
 >### Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
-
 ## Hunter Shark
-
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.

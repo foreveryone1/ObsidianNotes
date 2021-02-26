@@ -12,7 +12,7 @@
 >- **Skills** Perception +3, Stealth +3
 >- **Senses** darkvision 120 ft., passive Perception 13
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

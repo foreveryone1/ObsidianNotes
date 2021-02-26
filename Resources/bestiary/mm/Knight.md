@@ -12,7 +12,7 @@
 >- **Saving Throws** Con +4, Wis +2
 >- **Senses** passive Perception 10
 >- **Languages** any one language (usually Common)
->- #CR3 (700 XP)
+>- **Challenge** 3 (700 XP)
 >___
 >***Brave.*** The knight has advantage on saving throws against being frightened.  
 >
@@ -27,7 +27,5 @@
 >
 >### Reactions
 >***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
-
 ## Knight
-
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.

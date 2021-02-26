@@ -11,7 +11,7 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.  
 >

@@ -14,12 +14,10 @@
 >- **Condition Immunities** charmed, frightened, poisoned
 >- **Senses** darkvision 60 ft., passive Perception 9
 >- **Languages** understands Abyssal but can't speak
->- #CR1_8 (25 XP)
->## Actions
+>- **Challenge** 1/8 (25 XP)
+>___
+>### Actions
 >***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
-
 ## Manes
-
 Souls of evil creatures that descend to the Lower Planes are transformed into manes-the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.
-
 Orcus, the Prince of Undeath, has the power to transform manes into undead monsters, most often ghouls and shadows. Other demon lords feed on manes, destroying them utterly. Otherwise, killing a manes causes it to dissipate into a cloud of reeking vapor that reforms into another manes after one day.

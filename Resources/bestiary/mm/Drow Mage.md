@@ -12,7 +12,7 @@
 >- **Skills** Arcana +6, Deception +4, Perception +4, Stealth +5
 >- **Senses** darkvision 120 ft., passive Perception 14
 >- **Languages** Elvish, Undercommon
->- #CR7 (2,900 XP)
+>- **Challenge** 7 (2,900 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -38,5 +38,4 @@
 >***Staff.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands, plus 3 (1d6) poison damage.  
 >
 >***Summon Demon (1/Day).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
-
 ## Drow Mage

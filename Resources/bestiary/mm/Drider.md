@@ -12,7 +12,7 @@
 >- **Skills** Perception +5, Stealth +9
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Elvish, Undercommon
->- #CR6 (2,300 XP)
+>- **Challenge** 6 (2,300 XP)
 >___
 >***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.  
 >
@@ -36,11 +36,7 @@
 >***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.  
 >
 >***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
-
 ## Drider
-
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
-
 ***Scarred for Life.*** Drow transformed into driders return to the Material Plane as twisted and debased creatures. Driven by madness, they disappear into the Underdark to become hermits and hunters, either wandering alone or leading packs of giant spiders.
-
 On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth's will, and a reminder of the fate that awaits all who fail the Spider Queen.

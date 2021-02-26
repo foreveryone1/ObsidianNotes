@@ -14,7 +14,7 @@
 >- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Senses** darkvision 120 ft., passive Perception 17
 >- **Languages** the languages it knew in life
->- #CR15 (13,000 XP)
+>- **Challenge** 15 (13,000 XP)
 >___
 >***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.  
 >While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  
@@ -63,27 +63,18 @@
 >- **Move.** The vampire moves up to its speed without provoking opportunity attacks.
 >- **Unarmed Strike.** The vampire makes one unarmed strike.
 >- **Bite (Costs 2 Actions).** The vampire makes one bite attack.
-
 ## Vampire Spellcaster
-
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
-
 ***Dark Desires.*** Whether or not a vampire retains any memories from its former life, its emotional attachments wither as once-pure feelings become twisted by undeath. Love turns into hungry obsession, while friendship becomes bitter jealousy. In place of emotion, vampires pursue physical symbols of what they crave, so that a vampire seeking love might fixate on a young beauty. A child might become an object of fascination for a vampire obsessed with youth and potential. Others surround themselves with art, books, or sinister items such as torture devices or trophies from creatures they have killed.
-
 ***Born from Death.*** Most of a vampire's victims become vampire spawn-ravenous creatures with a vampire's hunger for blood, but under the control of the vampire that created them. If a true vampire allows a spawn to draw blood from its own body, the spawn transforms into a true vampire no longer under its master's control. Few vampires are willing to relinquish their control in this manner. Vampire spawn become free-willed when their creator dies.
-
 ***Chained to the Grave.*** Every vampire remains bound to its coffin, crypt, or grave site, where it must rest by day. If a vampire didn't receive a formal burial, it must lie beneath a foot of earth at the place of its transition to undeath. A vampire can move its place of burial by transporting its coffin or a significant amount of grave dirt to another location. Some vampires set up multiple resting places this way.
-
 ***Undead Nature.*** Neither a vampire nor a vampire spawn requires air.
-
 ***A Vampire's Lair.*** A vampire chooses a grand yet defensible location for its lair, such as a castle, fortified manor, or walled abbey. It hides its coffin in an underground crypt or vault guarded by vampire spawn or other loyal creatures of the night.
-
 > ##### Player Characters as Vampires
 >The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, darkvision, traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 >
 >The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a wish spell or the character is killed and brought back to life.
 >
-
 > ##### Strahd von Zarovich
 >A brilliant thinker and capable warrior in life, Strahd von Zarovich fought in countless battles for his people. When war and killing finally stripped him of his youth and strength, he settled in the remote valley of Barovia and built a castle on a towering pinnacle, from which he could survey his lands. His brother Sergei came to live with him in Castle Ravenloft, becoming Strahd's adviser and constant companion.
 >
@@ -93,13 +84,10 @@ Awakened to an endless night, vampires hunger for the life they have lost and sa
 >
 >In the centuries since his transformation, Strahd's lust for life and youth have only grown. He broods in his dark castle, cursing the living for stealing away what he lost, and never admitting his hand in the tragedy he created.
 >
-
 #### Regional Effects
 The region surrounding a vampire's lair is warped by the creature's unnatural presence, creating any of the following effects:
-
 - There's a noticeable increase in the populations of bats, rats, and wolves in the region.
 - Plants within 500 feet of the lair wither, and their stems and branches become twisted and thorny.
 - Shadows cast within 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.
 - A creeping fog clings to the ground within 500 feet of the vampire's lair. The fog occasionally takes eerie forms, such as grasping claws and writhing serpents.
-
 If the vampire is destroyed, these effects end after 2d6 days.

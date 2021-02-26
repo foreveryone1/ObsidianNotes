@@ -12,7 +12,7 @@
 >- **Skills** Medicine +4, Nature +3, Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** Druidic plus any two languages
->- #CR2 (450 XP)
+>- **Challenge** 2 (450 XP)
 >___
 >***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:  
 >
@@ -22,7 +22,5 @@
 >
 >### Actions
 >***Quarterstaff.*** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.
-
 ## Druid
-
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.

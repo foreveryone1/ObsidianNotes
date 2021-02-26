@@ -11,6 +11,7 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 9
 >- **Languages** —
->- #CR0 (0 or 10 XP)
->## Actions
+>- **Challenge** 0 (0 or 10 XP)
+>___
+>### Actions
 >***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.

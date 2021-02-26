@@ -11,7 +11,7 @@
 >___
 >- **Senses** darkvision 60 ft., passive Perception 11
 >- **Languages** Aquan, Common, Giant
->- #CR2 (450 XP) or 4 (1,100 XP) when part of a coven
+>- **Challenge** 2 (450 XP) or 4 (1,100 XP) when part of a coven
 >___
 >***Amphibious.*** The hag can breathe air and water.  
 >
@@ -43,13 +43,8 @@
 >
 >***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.  
 >The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
-
 ## Sea Hag
-
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
-
 Beauty drives a sea hag to fits of anger. When confronted with something beautiful, the hag might simply attack it or deface it. If something beautiful gives hope, a sea hag wants it to cause despair. If it inspires courage, the sea hag wants it to cause fear.
-
 ***Ugly Inside and Out.*** Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag's hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll's. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best.
-
 ***Covens.*** A sea hag that is part of a coven (see the "Hag Covens" sidebar) has a challenge rating of 4 (1,100 XP).

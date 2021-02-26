@@ -12,7 +12,7 @@
 >- **Skills** Arcana +4, Perception +3, Stealth +7
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Draconic, Sylvan
->- #CR1 (200 XP)
+>- **Challenge** 1 (200 XP)
 >___
 >***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:  
 >
@@ -41,17 +41,11 @@
 >***Euphoria Breath (Recharge 5–6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:  
 >1–4. The target takes no action or bonus action and uses all of its movement to move in a random direction.  
 >5–6. The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
-
 ## Faerie Dragon (Yellow)
-
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
-
 ***Invisible Tricksters.*** The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
-
 ***Friendly and Bright.*** A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory.
-
 ***The Colors of Age.*** A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
-
 | Dragon Color | Age Range |
 |---|---|
 | Red | 5 years or less |
@@ -61,5 +55,4 @@ A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-too
 | Blue | 31–40 years |
 | Indigo | 41–50 years |
 | Violet | 51 years or more |
-
 CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green, blue, indigo, or violet faerie dragon

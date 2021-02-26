@@ -15,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 13
 >- **Languages** Abyssal, telepathy 120 ft.
->- #CR16 (15,000 XP)
+>- **Challenge** 16 (15,000 XP)
 >___
 >***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.  
 >
@@ -34,9 +34,6 @@
 >
 >### Reactions
 >***Parry.*** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
-
 ## Marilith
-
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
-
 These demons possess keen minds and a finely honed sense of tactics, and they are able to lead and unite other demons in common cause. Mariliths are often encountered as captains at the head of a demonic horde, where they embrace any opportunity to rush headlong into battle.

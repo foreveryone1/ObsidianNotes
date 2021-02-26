@@ -12,7 +12,7 @@
 >- **Skills** Stealth +3
 >- **Senses** blindsight 60 ft., passive Perception 10
 >- **Languages** —
->- #CR1_2 (100 XP)
+>- **Challenge** 1/2 (100 XP)
 >___
 >***Echolocation.*** The darkmantle can't use its blindsight while deafened.  
 >
@@ -24,9 +24,6 @@
 >A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.  
 >
 >***Darkness Aura (1/Day).*** A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
-
 ## Darkmantle
-
 A darkmantle clings to cavern ceilings, remaining perfectly still as it waits for creatures to pass beneath it. From a distance, it can pass itself off as a stalactite or a lump of stone. Then it drops from the ceiling and unfurls, surrounding itself with magical darkness as it engulfs and crushes its prey.
-
 Darkmantles are found throughout the Underdark, but they are equally common on the Shadowfell. Thriving in that dark realm, they fill an ecological niche similar to bats on the Material Plane. Intelligent creatures of the Shadowfell sometimes train darkmantles as guardians or companions.

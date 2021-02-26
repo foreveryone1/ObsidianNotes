@@ -12,7 +12,7 @@
 >- **Skills** Perception +3, Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** —
->- #CR1_8 (25 XP)
+>- **Challenge** 1/8 (25 XP)
 >___
 >***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

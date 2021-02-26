@@ -15,7 +15,7 @@
 >- **Condition Immunities** poisoned
 >- **Senses** truesight 120 ft., passive Perception 11
 >- **Languages** Abyssal, telepathy 120 ft.
->- #CR13 (10,000 XP)
+>- **Challenge** 13 (10,000 XP)
 >___
 >***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.  
 >
@@ -29,9 +29,6 @@
 >***Horror Nimbus (Recharge 5–6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.  
 >
 >***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-
 ## Nalfeshnee
-
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
-
 Nalfeshnees are devastating in combat, using their wings to soar above the front ranks and reach vulnerable adversaries that can be dispatched with little effort. From the thick of battle, they telepathically bellow commands to lesser demons, even as they inspire a sense of dread that forces their foes to scatter and run. Nalfeshnees feed on hatred and despair, but they crave humanoid flesh above all else. They keep their larders filled with humanoids abducted from the Material Plane, then eat those creatures alive during elaborate feasts. Thinking of themselves as refined and cultured, nalfeshnees employ stained and rusted cutlery when they dine.

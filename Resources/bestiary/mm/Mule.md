@@ -11,7 +11,7 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- #CR1_8 (25 XP)
+>- **Challenge** 1/8 (25 XP)
 >___
 >***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.  
 >

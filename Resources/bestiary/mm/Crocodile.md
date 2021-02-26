@@ -12,7 +12,7 @@
 >- **Skills** Stealth +2
 >- **Senses** passive Perception 10
 >- **Languages** —
->- #CR1_2 (100 XP)
+>- **Challenge** 1/2 (100 XP)
 >___
 >***Hold Breath.*** The crocodile can hold its breath for 15 minutes.  
 >

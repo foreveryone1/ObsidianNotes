@@ -11,10 +11,9 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- #CR1_4 (50 XP)
->## Actions
+>- **Challenge** 1/4 (50 XP)
+>___
+>### Actions
 >***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
-
 ## Axe Beak
-
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.

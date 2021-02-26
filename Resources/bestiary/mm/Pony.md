@@ -11,6 +11,7 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- #CR1_8 (25 XP)
->## Actions
+>- **Challenge** 1/8 (25 XP)
+>___
+>### Actions
 >***Hooves.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.

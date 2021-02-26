@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "00324751d648972c",
+        "id": "1f1c4c39e912b2ed",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/bestiary/mm/Adult Green Dragon.md",
-            "mode": "preview"
+            "file": "Resources/bestiary/mm/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/bestiary/mm/Adult Green Dragon.md"
+                "file": "Resources/bestiary/mm/Untitled.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/bestiary/mm/Adult Green Dragon.md",
+                "file": "Resources/bestiary/mm/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/bestiary/mm/Adult Green Dragon.md",
+                "file": "Resources/bestiary/mm/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Resources/bestiary/mm/Untitled.md",
+    "Resources/bestiary/mm/Aarakocra.md",
+    "Resources/bestiary/adventures part 2/Untitled.md",
+    "Resources/bestiary/adventures part 1/Untitled.md",
+    "Resources/bestiary/adventures part 1/Untitled 1.md",
     "Resources/bestiary/mm/Adult Green Dragon.md",
     "Resources/bestiary/mm/Adult Red Dragon.md",
     "Resources/bestiary/mm/Air Elemental.md",
     "Resources/bestiary/mm/Adult Silver Dragon.md",
-    "Resources/bestiary/mm/Ancient Black Dragon.md",
-    "Resources/bestiary/mm/Allosaurus.md",
-    "Resources/bestiary/mm/Adult White Dragon.md",
-    "Resources/bestiary/mm/Adult Gold Dragon.md",
-    "Resources/bestiary/mm/Adult Bronze Dragon.md",
-    "Resources/bestiary/mm/Adult Black Dragon.md"
+    "Resources/bestiary/mm/Ancient Black Dragon.md"
   ]
 }

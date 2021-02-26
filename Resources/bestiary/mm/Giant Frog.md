@@ -12,7 +12,7 @@
 >- **Skills** Perception +2, Stealth +3
 >- **Senses** darkvision 30 ft., passive Perception 12
 >- **Languages** —
->- #CR1_4 (50 XP)
+>- **Challenge** 1/4 (50 XP)
 >___
 >***Amphibious.*** The frog can breathe air and water.  
 >

@@ -11,7 +11,7 @@
 >___
 >- **Senses** blindsight 60 ft., passive Perception 11
 >- **Languages** —
->- #CR1_4 (50 XP)
+>- **Challenge** 1/4 (50 XP)
 >___
 >***Echolocation.*** The bat can't use its blindsight while deafened.  
 >

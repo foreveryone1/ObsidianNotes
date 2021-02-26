@@ -11,8 +11,9 @@
 >___
 >- **Senses** blindsight 60 ft., passive Perception 9
 >- **Languages** —
->- #CR3 (700 XP)
->## Actions
+>- **Challenge** 3 (700 XP)
+>___
+>### Actions
 >***Multiattack.*** The scorpion makes three attacks: two with its claws and one with its sting.  
 >
 >***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.  

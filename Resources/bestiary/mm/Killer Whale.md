@@ -12,7 +12,7 @@
 >- **Skills** Perception +3
 >- **Senses** blindsight 120 ft., passive Perception 13
 >- **Languages** —
->- #CR3 (700 XP)
+>- **Challenge** 3 (700 XP)
 >___
 >***Echolocation.*** The whale can't use its blindsight while deafened.  
 >

@@ -11,6 +11,6 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Water Breathing.*** The sea horse can breathe only underwater.

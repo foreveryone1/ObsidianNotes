@@ -12,7 +12,7 @@
 >- **Skills** Perception +3
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** —
->- #CR2 (450 XP)
+>- **Challenge** 2 (450 XP)
 >___
 >***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.  
 >

@@ -12,7 +12,7 @@
 >- **Skills** Perception +4
 >- **Senses** passive Perception 14
 >- **Languages** Giant Eagle, understands Common and Auran but can't speak them
->- #CR1 (200 XP)
+>- **Challenge** 1 (200 XP)
 >___
 >***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.  
 >
@@ -22,7 +22,5 @@
 >***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  
 >
 >***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
-
 ## Giant Eagle
-
 A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).

@@ -12,7 +12,7 @@
 >- **Skills** Perception +3, Stealth +6
 >- **Senses** passive Perception 13
 >- **Languages** —
->- #CR2 (450 XP)
+>- **Challenge** 2 (450 XP)
 >___
 >***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.  
 >

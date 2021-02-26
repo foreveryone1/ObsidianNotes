@@ -11,7 +11,7 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 11
 >- **Languages** —
->- #CR1_4 (50 XP)
+>- **Challenge** 1/4 (50 XP)
 >___
 >***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.  
 >

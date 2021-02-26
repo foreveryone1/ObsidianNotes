@@ -12,7 +12,7 @@
 >- **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Draconic, Sylvan
->- #CR3 (700 XP) or 5 (1,800 XP) when part of a coven
+>- **Challenge** 3 (700 XP) or 5 (1,800 XP) when part of a coven
 >___
 >***Amphibious.*** The hag can breathe air and water.  
 >
@@ -48,11 +48,7 @@
 >The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.  
 >
 >***Invisible Passage.*** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
-
 ## Green Hag
-
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
-
 ***Obsession with Tragedy.*** Green hags revel in the failings and tragedies of other creatures. They derive joy from bringing people low and seeing hope turn into despair, not just for individuals but also for whole nations.
-
 ***Covens.*** A green hag that is part of a coven (see the "Hag Covens" sidebar) has a challenge rating of 5 (1,800 XP).

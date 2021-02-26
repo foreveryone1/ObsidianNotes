@@ -11,10 +11,9 @@
 >___
 >- **Senses** passive Perception 10
 >- **Languages** any one language (usually Common)
->- #CR0 (0 or 10 XP)
->## Actions
+>- **Challenge** 0 (0 or 10 XP)
+>___
+>### Actions
 >***Club.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
-
 ## Commoner
-
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.

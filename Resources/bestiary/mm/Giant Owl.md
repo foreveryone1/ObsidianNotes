@@ -12,7 +12,7 @@
 >- **Skills** Perception +5, Stealth +4
 >- **Senses** darkvision 120 ft., passive Perception 15
 >- **Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
->- #CR1_4 (50 XP)
+>- **Challenge** 1/4 (50 XP)
 >___
 >***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >
@@ -20,7 +20,5 @@
 >
 >### Actions
 >***Talons.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) slashing damage.
-
 ## Giant Owl
-
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.

@@ -12,12 +12,10 @@
 >- **Skills** Perception +1, Stealth +3
 >- **Senses** darkvision 30 ft., passive Perception 11
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Amphibious.*** The frog can breathe air and water.  
 >
 >***Standing Leap.*** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
-
 ## Frog
-
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.

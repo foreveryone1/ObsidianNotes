@@ -11,13 +11,11 @@
 >___
 >- **Senses** blindsight 10 ft., passive Perception 11
 >- **Languages** —
->- #CR1_8 (25 XP)
+>- **Challenge** 1/8 (25 XP)
 >___
 >***Flyby.*** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >
 >### Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage.
-
 ## Flying Snake
-
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.

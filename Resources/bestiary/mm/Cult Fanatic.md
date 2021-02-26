@@ -12,7 +12,7 @@
 >- **Skills** Deception +4, Persuasion +4, Religion +2
 >- **Senses** passive Perception 11
 >- **Languages** any one language (usually Common)
->- #CR2 (450 XP)
+>- **Challenge** 2 (450 XP)
 >___
 >***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.  
 >
@@ -26,7 +26,5 @@
 >***Multiattack.*** The fanatic makes two melee attacks.  
 >
 >***Dagger.*** Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
-
 ## Cult Fanatic
-
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else

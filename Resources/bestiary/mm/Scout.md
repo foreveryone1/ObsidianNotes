@@ -12,7 +12,7 @@
 >- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
 >- **Senses** passive Perception 15
 >- **Languages** any one language (usually Common)
->- #CR1_2 (100 XP)
+>- **Challenge** 1/2 (100 XP)
 >___
 >***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.  
 >
@@ -22,7 +22,5 @@
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 >
 >***Longbow.*** Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
-
 ## Scout
-
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.

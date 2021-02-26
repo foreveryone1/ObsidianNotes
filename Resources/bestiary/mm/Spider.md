@@ -12,7 +12,7 @@
 >- **Skills** Stealth +4
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

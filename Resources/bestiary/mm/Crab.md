@@ -12,7 +12,7 @@
 >- **Skills** Stealth +2
 >- **Senses** blindsight 30 ft., passive Perception 9
 >- **Languages** —
->- #CR0 (0 or 10 XP)
+>- **Challenge** 0 (0 or 10 XP)
 >___
 >***Amphibious.*** The crab can breathe air and water.  
 >

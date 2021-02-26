@@ -13,7 +13,7 @@
 >- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Senses** darkvision 60 ft., passive Perception 15
 >- **Languages** Common (can't speak in tiger form)
->- #CR4 (1,100 XP)
+>- **Challenge** 4 (1,100 XP)
 >___
 >***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
@@ -31,11 +31,7 @@
 >***Scimitar (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  
 >
 >***Longbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
-
 ## Weretiger
-
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.
-
 They don't like to pass on their curse, because every new weretiger means competition for territory and prey.
-
 Weretigers live in jungles on the fringes of humanoid civilization, traveling to isolated settlements to trade or revel. They live and hunt alone or in small family groups.

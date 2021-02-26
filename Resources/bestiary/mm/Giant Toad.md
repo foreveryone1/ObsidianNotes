@@ -11,7 +11,7 @@
 >___
 >- **Senses** darkvision 30 ft., passive Perception 10
 >- **Languages** —
->- #CR1 (200 XP)
+>- **Challenge** 1 (200 XP)
 >___
 >***Amphibious.*** The toad can breathe air and water.  
 >

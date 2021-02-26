@@ -12,8 +12,9 @@
 >- **Skills** Athletics +5, Perception +3
 >- **Senses** passive Perception 13
 >- **Languages** —
->- #CR1_2 (100 XP)
->## Actions
+>- **Challenge** 1/2 (100 XP)
+>___
+>### Actions
 >***Multiattack.*** The ape makes two fist attacks.  
 >
 >***Fist.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.  

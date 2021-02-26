@@ -12,7 +12,7 @@
 >- **Skills** Perception +3, Stealth +4
 >- **Senses** passive Perception 13
 >- **Languages** —
->- #CR1 (200 XP)
+>- **Challenge** 1 (200 XP)
 >___
 >***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

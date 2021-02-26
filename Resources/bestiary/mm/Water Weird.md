@@ -14,7 +14,7 @@
 >- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 >- **Senses** blindsight 30 ft., passive Perception 10
 >- **Languages** understands Aquan but doesn't speak
->- #CR3 (700 XP)
+>- **Challenge** 3 (700 XP)
 >___
 >***Invisible in Water.*** The water weird is invisible while fully immersed in water.  
 >
@@ -22,15 +22,9 @@
 >
 >### Actions
 >***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target.
-
 ## Water Weird
-
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
-
 Invisible while immersed in water, its serpentine shape becomes clear only when it emerges to attack, using its coils to crush any creature other than its summoner and those its summoner declares as off limits. When slain, a water weird becomes an inanimate pool of water.
-
 ***Good and Evil Weirds.*** Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
-
 A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a purify food and drink spell.
-
 ***Elemental Nature.*** A water weird doesn't require air, food, drink, or sleep.
