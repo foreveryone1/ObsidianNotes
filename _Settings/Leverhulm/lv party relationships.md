@@ -10,5 +10,6 @@ cssclass:  kanban
 		- helped free him from his guilt for inadvertently dooming pando
 	-
 - #### Acquainted
+	- lycanthropes of the sleepy forest
 - #### Neutral
 - #### Hostile
