@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blue Dragon Wyrmling
 >*Medium #dragon , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
->- **Skills** Perception +4, Stealth +2
->- **Damage Immunities** lightning
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Dex +2, Con +4, Wis +2, Cha +4
+>- **Skills**
+>	 - Perception +4, Stealth +2
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.  

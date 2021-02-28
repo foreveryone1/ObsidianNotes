@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spirit Troll
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|13 (+1)|8 (-1)|9 (-1)|16 (+3)|
 >___
->- **Skills** Perception +3
->- **Damage Resistances** acid, cold, fire, lightning, thunder
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Giant
->- #cr11 (7,200 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Giant
+>
+> #cr11 (7,200 XP)
 >___
 >***Incorporeal Movement.*** The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

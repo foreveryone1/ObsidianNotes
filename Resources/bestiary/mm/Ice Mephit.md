@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ice Mephit
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|12 (+1)|
 >___
->- **Skills** Perception +2, Stealth +3
->- **Damage Vulnerabilities** bludgeoning, fire
->- **Damage Immunities** cold, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Aquan, Auran
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +3
+>- **Damage Vulnerabilities**
+>	 - bludgeoning, fire
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Aquan, Auran
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.  
 >

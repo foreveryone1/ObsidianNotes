@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ice Spider Queen
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)|
 >___
->- **Skills** Stealth +7
->- **Damage Resistances** cold
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Stealth +7
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Cold Aura.*** Any creature that starts its turn within 5 feet of the spider takes 5 (2d4) cold damage.  
 >

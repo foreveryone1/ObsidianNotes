@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient Gold Dragon
 >*Gargantuan #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)|
 >___
->- **Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
->- **Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
->- **Damage Immunities** fire
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
->- **Languages** Common, Draconic
->- #cr24 (62,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +16, Wis +10, Cha +16
+>- **Skills**
+>	 - Insight +10, Perception +17, Persuasion +16, Stealth +9
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 27
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr24 (62,000 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
@@ -33,9 +43,10 @@
 >***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.  
 >
 >***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.  
->- **Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
->
->- **Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>- **Fire Breath**
+>	- The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+>- **Weakening Breath**
+>	- The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >
 >***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).  
@@ -44,9 +55,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Ancient Gold Dragon
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.

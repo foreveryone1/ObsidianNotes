@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Fire Giant
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >___
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common, Giant
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Greatclub.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.  

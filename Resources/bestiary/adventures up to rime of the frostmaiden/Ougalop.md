@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ougalop
 >*Medium #humanoid (kuo-toa), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|10 (+0)|11 (+0)|11 (+0)|10 (+0)|8 (-1)|
 >___
->- **Skills** Perception +4
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Undercommon
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Undercommon
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** Ougalop can breathe air and water.  
 >

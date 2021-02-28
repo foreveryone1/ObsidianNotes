@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Crushing Wave Priest
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|10 (+0)|11 (+0)|16 (+3)|
 >___
->- **Skills** Deception +5, Religion +2, Stealth +2
->- **Senses** passive Perception 10
->- **Languages** Aquan, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +5, Religion +2, Stealth +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:  
 >

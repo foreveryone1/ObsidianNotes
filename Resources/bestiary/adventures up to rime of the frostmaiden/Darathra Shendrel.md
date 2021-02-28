@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Darathra Shendrel
 >*Medium #humanoid (Chondathan human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 >___
->- **Skills** History +2, Intimidation +4, Investigation +2, Perception +2, Persuasion +4
->- **Senses** passive Perception 12
->- **Languages** Common
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - History +2, Intimidation +4, Investigation +2, Perception +2, Persuasion +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Brave.*** Darathra has advantage on saving throws against being frightened  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rust Monster
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|13 (+1)|2 (-4)|13 (+1)|6 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Iron Scent.*** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.  
 >

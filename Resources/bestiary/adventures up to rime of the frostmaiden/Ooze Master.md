@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ooze Master
 >*Huge #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|1 (-5)|20 (+5)|17 (+3)|10 (+0)|16 (+3)|
 >___
->- **Saving Throws** Int +7, Wis +4
->- **Skills** Arcana +7, Insight +4
->- **Damage Resistances** lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, cold, poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone
->- **Senses** blindsight 120 ft., passive Perception 10
->- **Languages** Common, Primordial, Thayan
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +4
+>- **Skills**
+>	 - Arcana +7, Insight +4
+>- **Damage Resistances**
+>	 - lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, cold, poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Primordial, Thayan
+>
+> #cr10 (5,900 XP)
 >___
 >***Corrosive Form.*** A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) acid damage. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.  
 >The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 round.  

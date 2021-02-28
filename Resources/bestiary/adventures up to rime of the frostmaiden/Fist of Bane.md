@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fist of Bane
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|13 (+1)|10 (+0)|12 (+1)|11 (+0)|
 >___
->- **Condition Immunities** frightened
->- **Senses** passive Perception 11
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Tactical Discipline.*** The fist of Bane has advantage on all ability checks and saving throws made during combat.  
 >

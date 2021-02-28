@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sanbalet
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|11 (+0)|16 (+3)|13 (+1)|14 (+2)|
 >___
->- **Skills** Arcana +5
->- **Senses** passive Perception 11
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Arcana +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 >***Spellcasting.*** Sanbalet is a 3rd-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Tile Chimera
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|19 (+4)|3 (-4)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +8
->- **Damage Resistances** piercing
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** understands Draconic but can't speak
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +8
+>- **Damage Resistances**
+>	 - piercing
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - understands Draconic but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Rejuvenation.*** If destroyed, the tile creature regains all its hit points and becomes active again in 24 hours unless at least half its tiles are collected and kept separate from the rest of the creature's tiles.  
 >

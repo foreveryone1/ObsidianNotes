@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stonecloak
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|20 (+5)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Abyssal, #celestial , Common, Draconic, Dwarvish, Elvish, Infernal, and Undercommon but can't speak
->- #cr10 (5,900 XP)
+>- **Damage Immunities**
+>	 - poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Abyssal, #celestial , Common, Draconic, Dwarvish, Elvish, Infernal, and Undercommon but can't speak
+>
+> #cr10 (5,900 XP)
 >___
 >***Immutable Form.*** The stonecloak is immune to any spell or effect that would alter its form.  
 >

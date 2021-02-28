@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Broom of Animated Attack
 >*Small #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|10 (+0)|1 (-5)|5 (-3)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 7
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 7
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Antimagic Susceptibility.*** The broom is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >

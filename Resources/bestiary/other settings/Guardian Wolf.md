@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Guardian Wolf
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|14 (+2)|16 (+3)|5 (-3)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Senses** passive Perception 15
->- **Languages** Common, Elvish
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr4 (1,100 XP)
 >___
 >***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

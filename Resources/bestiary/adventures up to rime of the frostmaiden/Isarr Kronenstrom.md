@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Isarr Kronenstrom
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 >___
->- **Skills** Athletics +6, Intimidation +6, Perception +5, Stealth +6, Survival +5
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Athletics +6, Intimidation +6, Perception +5, Stealth +6, Survival +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common
+>
+> #cr8 (3,900 XP)
 >___
 >***Blood Frenzy.*** Isarr has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

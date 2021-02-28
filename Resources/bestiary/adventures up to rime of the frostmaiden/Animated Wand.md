@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Wand
 >*Tiny #construct , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|18 (+4)|10 (+0)|3 (-4)|3 (-4)|1 (-5)|
 >___
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
->- **Languages** —
->- #cr-unavailable
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 6
+>- **Languages**
+>	 - —
+>
+> #cr-unavailable
 >___
 >***Animated.*** If the wand lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the wand is securely attached to a surface or larger wand, such as a chain bolted to a wall, its speed is 0.  
 >When the animated wand drops to 0 hit points, it reverts to its original wand form, and any remaining damage carries over to its original wand form.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Siren
 >*Medium #fey , , chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|12 (+1)|13 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Medicine +4, Nature +3, Stealth +6, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Elvish, Sylvan
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Medicine +4, Nature +3, Stealth +6, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** Siren can breathe air and water.  
 >

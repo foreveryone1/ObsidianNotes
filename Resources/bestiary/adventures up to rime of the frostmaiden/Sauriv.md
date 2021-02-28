@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sauriv
 >*Medium #humanoid (lizardfolk), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|18 (+4)|16 (+3)|
 >___
->- **Skills** Deception +7, Insight +6, Persuasion +7
->- **Senses** passive Perception 14
->- **Languages** Common, Draconic
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +7, Insight +6, Persuasion +7
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Draconic
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Hold Breath.*** The sauriv can hold their breath for up to 15 minutes at a time.  
 >

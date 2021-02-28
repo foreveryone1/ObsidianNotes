@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Morkoth
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|20 (+5)|15 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +6, Int +9, Wis +6
->- **Skills** Arcana +9, History +9, Perception +10, Stealth +6
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 20
->- **Languages** telepathy 120 ft.
->- #cr11 (7,200 XP) or 12 (8,400 XP) when encountered in lair
+>- **Saving Throws**
+>	 - Dex +6, Int +9, Wis +6
+>- **Skills**
+>	 - Arcana +9, History +9, Perception +10, Stealth +6
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 20
+>- **Languages**
+>	 - telepathy 120 ft.
+>
+> #cr11 (7,200 XP) or 12 (8,400 XP) when encountered in lair
 >___
 >***Amphibious.*** The morkoth can breathe air and water.  
 >

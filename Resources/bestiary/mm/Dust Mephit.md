@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dust Mephit
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|14 (+2)|10 (+0)|9 (-1)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Vulnerabilities** fire
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Auran, Terran
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Auran, Terran
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.  
 >

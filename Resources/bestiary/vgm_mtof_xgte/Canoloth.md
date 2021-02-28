@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Canoloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|5 (-3)|17 (+3)|12 (+1)|
 >___
->- **Skills** Investigation +3, Perception +9
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., truesight 120 ft., passive Perception 19
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Investigation +3, Perception +9
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., truesight 120 ft., passive Perception 19
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr8 (3,900 XP)
 >___
 >***Dimensional Lock.*** Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.  
 >

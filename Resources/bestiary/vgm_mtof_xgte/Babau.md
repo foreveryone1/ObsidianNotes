@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Babau
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|16 (+3)|11 (+0)|12 (+1)|13 (+1)|
 >___
->- **Skills** Perception +5, Stealth +5
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Abyssal
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +5
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Abyssal
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:  
 >

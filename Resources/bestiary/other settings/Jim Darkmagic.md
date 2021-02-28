@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jim Darkmagic
 >*Medium #humanoid (human), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|18 (+4)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Int +7, Wis +4
->- **Skills** Acrobatics +5, Animal Handling +4, Arcana +7, History +7, Performance +5
->- **Senses** passive Perception 11
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +4
+>- **Skills**
+>	 - Acrobatics +5, Animal Handling +4, Arcana +7, History +7, Performance +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 >***Special Equipment.*** Jim carries a wand of wonder. Benign Transportation (Recharges after Jim Casts a Conjuration Spell of 1st Level or Higher). As a bonus action, Jim teleports up to 30 feet to a space he can see. The space must be unoccupied or occupied by a willing Small or Medium creature. If the latter, Jim and the willing creature both teleport, swapping places.  
 >

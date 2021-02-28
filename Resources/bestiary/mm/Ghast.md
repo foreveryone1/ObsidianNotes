@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ghast
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)|8 (-1)|
 >___
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 >***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.  
 >

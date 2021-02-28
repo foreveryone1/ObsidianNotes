@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vaasha
 >*Huge #giant , neutral good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)|
 >___
->- **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
->- **Skills** Athletics +14, Perception +9, Survival +9
->- **Damage Resistances** cold
->- **Damage Immunities** lightning, thunder
->- **Senses** passive Perception 19
->- **Languages** Common, Giant
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Str +14, Con +10, Wis +9, Cha +9
+>- **Skills**
+>	 - Athletics +14, Perception +9, Survival +9
+>- **Damage Resistances**
+>	 - cold
+>- **Damage Immunities**
+>	 - lightning, thunder
+>- **Senses**
+>	 - passive Perception 19
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr13 (10,000 XP)
 >___
 >***Amphibious.*** Vaasha can breathe air and water.  
 >

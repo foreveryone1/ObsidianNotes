@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mechachimera
 >*Large #construct , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|19 (+4)|3 (-4)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +8
->- **Damage Immunities** poison, psychic
->- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** understands Draconic but can't speak
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +8
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - understands Draconic but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 ## Actions
 >***Multiattack.*** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.  

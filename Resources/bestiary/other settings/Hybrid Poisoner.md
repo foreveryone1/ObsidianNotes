@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hybrid Poisoner
 >*Medium #humanoid (Simic hybrid), neutral good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|19 (+4)|14 (+2)|12 (+1)|13 (+1)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Con +4
->- **Skills** Athletics +3, Perception +3, Stealth +6
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 30 ft., passive Perception 13
->- **Languages** Common plus any one language
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +4
+>- **Skills**
+>	 - Athletics +3, Perception +3, Stealth +6
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 13
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr1 (200 XP)
 >___
 >***Assassinate.*** During its first turn, the hybrid poisoner has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the hybrid scores against a surprised creature is a critical hit.  
 >

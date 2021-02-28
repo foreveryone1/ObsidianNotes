@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tabaxi Minstrel
 >*Medium #humanoid (tabaxi), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|11 (+0)|14 (+2)|12 (+1)|16 (+3)|
 >___
->- **Skills** Perception +3, Performance +7, Persuasion +5, Stealth +4
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common plus any two languages
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3, Performance +7, Persuasion +5, Stealth +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common plus any two languages
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Feline Agility.*** When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can't use it again until it moves 0 feet on one of its turns.  
 >

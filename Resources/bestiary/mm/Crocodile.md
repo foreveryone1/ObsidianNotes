@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Crocodile
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Skills** Stealth +2
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Hold Breath.*** The crocodile can hold its breath for 15 minutes.  
 >

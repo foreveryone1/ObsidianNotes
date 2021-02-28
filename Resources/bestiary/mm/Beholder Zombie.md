@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Beholder Zombie
 >*Large #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|8 (-1)|16 (+3)|3 (-4)|8 (-1)|5 (-3)|
 >___
->- **Saving Throws** Wis +2
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Deep Speech and Undercommon but can't speak
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Deep Speech and Undercommon but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.  
 >

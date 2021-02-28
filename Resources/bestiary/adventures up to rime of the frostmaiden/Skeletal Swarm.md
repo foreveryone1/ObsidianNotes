@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skeletal Swarm
 >*Large swarm of medium #undead , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Resistances** slashing, piercing
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** —
->- #cr2 (450 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Resistances**
+>	 - slashing, piercing
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Deafening Clatter.*** Creatures are deafened while in the swarm's space.  
 >

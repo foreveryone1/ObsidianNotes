@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Carrion Crawler
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|16 (+3)|1 (-5)|12 (+1)|5 (-3)|
 >___
->- **Skills** Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Keen Smell.*** The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.  
 >

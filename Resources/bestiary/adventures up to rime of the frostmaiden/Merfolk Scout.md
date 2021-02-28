@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Merfolk Scout
 >*Medium #humanoid (merfolk), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
->- **Senses** passive Perception 15
->- **Languages** any one language (usually Common), Aquan
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Nature +4, Perception +5, Stealth +6, Survival +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - any one language (usually Common), Aquan
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** The merfolk scout can breathe air and water.  
 >

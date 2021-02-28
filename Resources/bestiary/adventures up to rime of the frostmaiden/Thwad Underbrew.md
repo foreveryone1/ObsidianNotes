@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thwad Underbrew
 >*Medium #humanoid (dwarf), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Str +9, Con +6
->- **Skills** Athletics +9, Intimidation +5, Perception +6
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** any one language (usually Common), Dwarvish
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +6
+>- **Skills**
+>	 - Athletics +9, Intimidation +5, Perception +6
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - any one language (usually Common), Dwarvish
+>
+> #cr9 (5,000 XP)
 >___
 >***Dwarven Resilience.*** The thwad underbrew has advantage on saving throws against poison, and has resistance against poison damage.  
 >

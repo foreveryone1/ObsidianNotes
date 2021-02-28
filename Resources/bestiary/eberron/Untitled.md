@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 [[Belashyrra]]
 [[Bone Knight]]
 [[Changeling]]

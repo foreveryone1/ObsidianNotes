@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lizardfolk Render
 >*Large #humanoid (lizardfolk), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|7 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +5, Perception +3, Survival +5
->- **Senses** passive Perception 13
->- **Languages** Draconic
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +3, Survival +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Draconic
+>
+> #cr3 (700 XP)
 >___
 >***Blood Frenzy.*** The render has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

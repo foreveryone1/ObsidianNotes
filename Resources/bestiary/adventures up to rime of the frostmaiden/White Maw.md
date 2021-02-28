@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # White Maw
 >*Gargantuan #ooze , chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|1 (-5)|20 (+5)|12 (+1)|10 (+0)|3 (-4)|
 >___
->- **Damage Resistances** acid, cold, fire
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
->- **Languages** telepathy 50 ft.
->- #cr10 (5,900 XP)
+>- **Damage Resistances**
+>	 - acid, cold, fire
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - telepathy 50 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Amorphous Form.*** White Maw can occupy another creature's space and vice versa.  
 >

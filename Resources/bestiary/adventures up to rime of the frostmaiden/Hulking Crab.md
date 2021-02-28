@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hulking Crab
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|3 (-4)|11 (+0)|3 (-4)|
 >___
->- **Skills** Stealth +2
->- **Senses** blindsight 30 ft., passive Perception 10
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Amphibious.*** The crab can breathe air and water.  
 >

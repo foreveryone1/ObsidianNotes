@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Davian Martikov
 >*Medium #humanoid (human, shapechanger), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|11 (+0)|13 (+1)|15 (+2)|14 (+2)|
 >___
->- **Skills** Insight +4, Perception +6
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
->- **Senses** passive Perception 16
->- **Languages** Common (can't speak in raven form)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Insight +4, Perception +6
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common (can't speak in raven form)
+>
+> #cr2 (450 XP)
 >___
 >***Shapechanger.*** Davian can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.  
 >

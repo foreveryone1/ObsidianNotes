@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Warlord
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Dwarvish, Undercommon
->- #cr6 (2,300 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >

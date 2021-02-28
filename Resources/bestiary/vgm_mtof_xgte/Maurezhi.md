@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Maurezhi
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|12 (+1)|11 (+0)|12 (+1)|15 (+2)|
 >___
->- **Skills** Deception +5
->- **Damage Resistances** cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Abyssal, Elvish, telepathy 120 ft.
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Deception +5
+>- **Damage Resistances**
+>	 - cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, Elvish, telepathy 120 ft.
+>
+> #cr7 (2,900 XP)
 >___
 >***Assume Form.*** The maurezhi can assume the appearance of any Medium humanoid it has eaten. It remains in this form for 1d6 days, during which time the form gradually decays until, when the effect ends, the form sloughs from the demon's body.  
 >

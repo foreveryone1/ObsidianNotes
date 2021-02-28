@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Captain Othelstan
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|13 (+1)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Str +7, Con +6
->- **Skills** Athletics +7, Intimidation +7, Perception +5, Religion +4
->- **Senses** passive Perception 15
->- **Languages** Common, Draconic, Giant
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +6
+>- **Skills**
+>	 - Athletics +7, Intimidation +7, Perception +5, Religion +4
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Draconic, Giant
+>
+> #cr5 (1,800 XP)
 >___
 >***Action Surge (Recharges on a Short or Long Rest).*** On his turn, Othelstan can take one additional action.  
 >

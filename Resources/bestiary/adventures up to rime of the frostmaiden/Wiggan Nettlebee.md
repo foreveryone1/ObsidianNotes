@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wiggan Nettlebee
 >*Small #humanoid (halfling), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|12 (+1)|12 (+1)|14 (+2)|15 (+2)|13 (+1)|
 >___
->- **Skills** Deception +3, Insight +4
->- **Senses** passive Perception 12
->- **Languages** Common, Halfling
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +3, Insight +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Halfling
+>
+> #cr2 (450 XP)
 >___
 >***Brave Devotion.*** Wiggan has advantage on saving throws against being charmed or frightened.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Fire Beetle
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|10 (+0)|12 (+1)|1 (-5)|7 (-2)|3 (-4)|
 >___
->- **Senses** blindsight 30 ft., passive Perception 8
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..  
 >

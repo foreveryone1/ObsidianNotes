@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Unicorn
 >*Large #celestial , lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** #celestial , Elvish, Sylvan, telepathy 60 ft.
->- #cr5 (1,800 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - #celestial , Elvish, Sylvan, telepathy 60 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.  
 >
@@ -42,9 +51,12 @@
 ## Legendary Actions
 >The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 >
->- **Hooves.** The unicorn makes one attack with its hooves.
->- **Shimmering Shield (Costs 2 Actions).** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
->- **Heal Self (Costs 3 Actions).** The unicorn magically regains 11 (2d8 + 2) hit points.
+>- **Hooves**
+>	- The unicorn makes one attack with its hooves.
+>- **Shimmering Shield (Costs 2 Actions)**
+>	- The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
+>- **Heal Self (Costs 3 Actions)**
+>	- The unicorn magically regains 11 (2d8 + 2) hit points.
 ## Unicorn
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 A unicorn's brow sports a single spiraling horn of ivory whose magical touch can heal the sick and the injured. Its ears catch the words and whispers of the creatures that share its domain, and it knows the tongues of elves and sylvan folk. Unicorns allow good-hearted creatures to enter their woods to hunt or gather food, but they hold evil ever at bay. Foul-hearted creatures seldom leave a unicorn's domain alive.

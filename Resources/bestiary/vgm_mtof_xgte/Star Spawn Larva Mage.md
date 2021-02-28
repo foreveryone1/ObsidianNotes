@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Star Spawn Larva Mage
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|23 (+6)|18 (+4)|12 (+1)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Wis +6, Cha +8
->- **Skills** Perception +6
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** psychic
->- **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, restrained
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Deep Speech
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +6, Cha +8
+>- **Skills**
+>	 - Perception +6
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, petrified, poisoned, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Deep Speech
+>
+> #cr16 (15,000 XP)
 >___
 >***Innate Spellcasting.*** The larva mage's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >
@@ -40,9 +52,12 @@
 ## Legendary Actions
 >The star spawn larva mage can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The star spawn larva mage regains spent legendary actions at the start of its turn.
 >
->- **Cantrip (Costs 2 Actions).** The larva mage casts one cantrip.
->- **Slam (Costs 2 Actions).** The larva mage makes one slam attack.
->- **Feed (Costs 3 Actions).** Each creature restrained by the larva mage's Plague of Worms takes 13 (3d8) necrotic damage, and the larva mage gains 6 temporary hit points.
+>- **Cantrip (Costs 2 Actions).**  
+>	- The larva mage casts one cantrip.
+>- **Slam (Costs 2 Actions).**  
+>	- The larva mage makes one slam attack.
+>- **Feed (Costs 3 Actions).**  
+>	- Each creature restrained by the larva mage's Plague of Worms takes 13 (3d8) necrotic damage, and the larva mage gains 6 temporary hit points.
 ## Star Spawn Larva Mage
 *Stars don't spawn these creatures. Such beautiful lights shouldn't be blamed for such balefulness.*— Mordenkainen***Star Spawn Larva Mage.*** A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation, so what emerges is wholly alien.
 ***Star Spawn.*** The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms that are lethal to mortal life. Some are so hostile that even a moment's contact with such a place is enough to plunge a mortal mind into madness. Yet beings do exist that are native to these realms: beings that are eternally hungering, searching, warring, sometimes dreaming. These Elder Evils are far older than most of the mortal races and always horrific to humanoid minds.

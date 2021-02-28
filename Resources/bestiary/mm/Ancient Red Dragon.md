@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient Red Dragon
 >*Gargantuan #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
 >___
->- **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
->- **Skills** Perception +16, Stealth +7
->- **Damage Immunities** fire
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
->- **Languages** Common, Draconic
->- #cr24 (62,000 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +16, Wis +9, Cha +13
+>- **Skills**
+>	 - Perception +16, Stealth +7
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr24 (62,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
@@ -35,9 +45,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Ancient Red Dragon
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red #dragon , whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic #dragon , and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 The scales of a red dragon wyrmling are a bright glossy scarlet, turning a dull, deeper red and becoming as thick and strong as metal as the dragon ages. Its pupils also fade as it ages, and the oldest red dragons have eyes that resemble molten lava orbs.

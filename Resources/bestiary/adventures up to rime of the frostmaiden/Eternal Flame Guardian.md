@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Eternal Flame Guardian
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|8 (-1)|11 (+0)|13 (+1)|
 >___
->- **Skills** Intimidation +3, Perception +2
->- **Damage Resistances** fire
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +3, Perception +2
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 >***Flaming Weapon (Recharges after a Short or Long Rest).*** As a bonus action, the guard can wreath one melee weapon it is wielding in flame. The guard is unharmed by this fire, which lasts until the end of the guard's next turn. While wreathed in flame, the weapon deals an extra 3 (1d6) fire damage on a hit.  
 >

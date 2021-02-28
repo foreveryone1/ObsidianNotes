@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Clawfoot
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|4 (-3)|12 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Pack Tactics.*** The clawfoot has advantage on an attack roll against a creature if at least one of the clawfoot's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

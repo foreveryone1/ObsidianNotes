@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Celestial Spirit
 >*Large #celestial , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|10 (+0)|14 (+2)|16 (+3)|
 >___
->- **Damage Resistances** radiant
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** #celestial , understands the languages you speak
->- #cr-unavailable
+>- **Damage Resistances**
+>	 - radiant
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - #celestial , understands the languages you speak
+>
+> #cr-unavailable
 >___
 ## Actions
 >***Multiattack.*** The celestial makes a number of attacks equal to half this spell's level (rounded down).  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stone Cursed
 >*Medium #construct , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|5 (-3)|14 (+2)|5 (-3)|8 (-1)|7 (-2)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, petrified, poisoned
->- **Senses** passive Perception 9
->- **Languages** the languages it knew in life
->- #cr1 (200 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, petrified, poisoned
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr1 (200 XP)
 >___
 >***Cunning Opportunist.*** The stone cursed has advantage on the attack rolls of opportunity attacks.  
 >

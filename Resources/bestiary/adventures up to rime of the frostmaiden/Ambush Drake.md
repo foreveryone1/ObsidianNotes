@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ambush Drake
 >*Medium #dragon , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|14 (+2)|4 (-3)|11 (+0)|6 (-2)|
 >___
->- **Skills** Perception +4, Stealth +4
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** understands Draconic but can't speak it
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +4
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - understands Draconic but can't speak it
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Pack Tactics.*** The drake has advantage on an attack roll against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

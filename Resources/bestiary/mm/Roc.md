@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Roc
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|10 (+0)|20 (+5)|3 (-4)|10 (+0)|9 (-1)|
 >___
->- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** —
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +9, Wis +4, Cha +3
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr11 (7,200 XP)
 >___
 >***Keen Sight.*** The roc has advantage on Wisdom (Perception) checks that rely on sight.  
 >

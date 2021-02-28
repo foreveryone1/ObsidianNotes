@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skittering Horror
 >*Huge #aberration , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|17 (+3)|2 (-4)|14 (+2)|18 (+4)|
 >___
->- **Skills** Perception +7, Stealth +8
->- **Damage Vulnerabilities** radiant
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** —
->- #cr15 (13,000 XP)
+>- **Skills**
+>	 - Perception +7, Stealth +8
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - —
+>
+> #cr15 (13,000 XP)
 >___
 >***Spider Climb.*** The horror can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

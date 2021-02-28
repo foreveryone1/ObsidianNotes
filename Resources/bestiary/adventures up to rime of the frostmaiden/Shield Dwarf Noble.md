@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shield Dwarf Noble
 >*Medium #humanoid (dwarf), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Persuasion +5
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** any two languages, Dwarvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Persuasion +5
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - any two languages, Dwarvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Dwarven Resilience.*** The shield dwarf noble has advantage on saving throws against poison, and has resistance against poison damage.  
 >

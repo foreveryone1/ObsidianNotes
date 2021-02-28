@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Neronvain
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|15 (+2)|16 (+3)|13 (+1)|18 (+4)|
 >___
->- **Saving Throws** Con +6, Wis +5
->- **Skills** Arcana +7, Perception +5
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common, Draconic, Elvish, Infernal
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +6, Wis +5
+>- **Skills**
+>	 - Arcana +7, Perception +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common, Draconic, Elvish, Infernal
+>
+> #cr9 (5,000 XP)
 >___
 >***Draconic Majesty.*** Neronvain adds his Charisma bonus to his AC (included).  
 >

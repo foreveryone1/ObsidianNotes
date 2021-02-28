@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yalah Gralhund
 >*Medium #humanoid (Tethyrian human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|16 (+3)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +5, Persuasion +5
->- **Senses** passive Perception 13
->- **Languages** Common, Infernal
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +5, Insight +5, Persuasion +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Infernal
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Rapier.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  

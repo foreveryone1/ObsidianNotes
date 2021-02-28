@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Langdedrosa Cyanwrath
 >*Medium #humanoid (half-dragon), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|13 (+1)|16 (+3)|10 (+0)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Str +6, Con +5
->- **Skills** Athletics +6, Intimidation +3, Perception +4
->- **Damage Resistances** lightning
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Common, Draconic
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Str +6, Con +5
+>- **Skills**
+>	 - Athletics +6, Intimidation +3, Perception +4
+>- **Damage Resistances**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr4 (1,100 XP)
 >___
 >***Action Surge (Recharges on a Short or Long Rest).*** On his turn, Langdedrosa can take one additional action.  
 >

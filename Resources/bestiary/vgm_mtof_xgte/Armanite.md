@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Armanite
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|18 (+4)|21 (+5)|8 (-1)|12 (+1)|13 (+1)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr7 (2,900 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr7 (2,900 XP)
 >___
 >***Magic Resistance.*** The armanite has advantage on saving throws against spells and other magical effects.  
 >

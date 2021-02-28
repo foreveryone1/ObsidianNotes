@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Allowak Yeti
 >*Large #monstrosity , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|16 (+3)|12 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3, Stealth +3
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Yeti
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +3
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Yeti
+>
+> #cr3 (700 XP)
 >___
 >***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.  
 >

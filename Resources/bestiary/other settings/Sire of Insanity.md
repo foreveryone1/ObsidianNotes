@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sire of Insanity
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|6 (-2)|19 (+4)|14 (+2)|19 (+4)|22 (+6)|
 >___
->- **Saving Throws** Con +8, Int +6, Wis +8, Cha +10
->- **Skills** Deception +10, Intimidation +10
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 14
->- **Languages** Abyssal, Common, telepathy 120 ft.
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Con +8, Int +6, Wis +8, Cha +10
+>- **Skills**
+>	 - Deception +10, Intimidation +10
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common, telepathy 120 ft.
+>
+> #cr12 (8,400 XP)
 >___
 >***Aura of Mind Erosion.*** Any creature that starts its turn within 30 feet of the sire must make a DC 18 Wisdom saving throw. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature has disadvantage for 1 minute on Wisdom and Charisma checks and on Wisdom and Charisma saves. At the start of each of its turns, the sire can suppress this aura until the start of its next turn.  
 >

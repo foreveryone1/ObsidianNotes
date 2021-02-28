@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gildha Duhn
 >*Medium #humanoid (half-orc), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Intimidation +2, Medicine +4, Religion +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** any one language (usually Common), Orc
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Intimidation +2, Medicine +4, Religion +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common), Orc
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Relentless Endurance.*** When reduced to 0 hit points, The gildha duhn drops to 1 hit point instead (but can't do this again until they finish a long rest).  
 >

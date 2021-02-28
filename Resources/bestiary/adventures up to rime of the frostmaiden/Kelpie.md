@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kelpie
 >*Medium #plant , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|16 (+3)|7 (-2)|12 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Damage Resistances** fire, bludgeoning, piercing
->- **Condition Immunities** blinded, deafened, exhaustion
->- **Senses** blindsight 60 ft., passive Perception 13
->- **Languages** Common, Sylvan
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Damage Resistances**
+>	 - fire, bludgeoning, piercing
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr4 (1,100 XP)
 >___
 >***Amphibious.*** The kelpie can breathe air and water.  
 >

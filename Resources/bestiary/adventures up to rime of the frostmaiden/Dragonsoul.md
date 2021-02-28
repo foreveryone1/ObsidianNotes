@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dragonsoul
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|13 (+1)|12 (+1)|16 (+3)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Deception +6, Stealth +7
->- **Damage Resistances** one of the following: acid, cold, fire, lightning, and poison
->- **Senses** passive Perception 11
->- **Languages** Common, Draconic, Infernal
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Deception +6, Stealth +7
+>- **Damage Resistances**
+>	 - one of the following: acid, cold, fire, lightning, and poison
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal
+>
+> #cr7 (2,900 XP)
 >___
 >***Dragon Fanatic.*** The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened.  
 >

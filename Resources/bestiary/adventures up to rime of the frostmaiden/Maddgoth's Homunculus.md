@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Maddgoth's Homunculus
 >*Large #construct , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|11 (+0)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Abyssal, Common, Draconic, Gnomish but can't speak
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Common, Draconic, Gnomish but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.  
 >

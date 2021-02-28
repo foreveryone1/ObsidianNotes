@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zindar
 >*Medium #humanoid (half-dragon), lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|16 (+3)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Con +5, Wis +5
->- **Skills** Arcana +6, History +9, Insight +5, Investigation +9
->- **Damage Resistances** fire
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
->- **Languages** Common, Draconic, Dwarvish, Primordial
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +5, Wis +5
+>- **Skills**
+>	 - Arcana +6, History +9, Insight +5, Investigation +9
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Primordial
+>
+> #cr8 (3,900 XP)
 >___
 >***Dragon Wings.*** As a bonus action on his turn, Zindar can sprout a pair of dragon wings from his back, gaining a flying speed of 30 feet until he dismisses them as a bonus action.  
 >

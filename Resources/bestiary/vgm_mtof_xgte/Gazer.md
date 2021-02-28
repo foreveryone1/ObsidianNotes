@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gazer
 >*Tiny #aberration , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|17 (+3)|14 (+2)|3 (-4)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Wis +2
->- **Skills** Perception +4, Stealth +5
->- **Condition Immunities** prone
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Wis +2
+>- **Skills**
+>	 - Perception +4, Stealth +5
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Aggressive.*** As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.  
 >

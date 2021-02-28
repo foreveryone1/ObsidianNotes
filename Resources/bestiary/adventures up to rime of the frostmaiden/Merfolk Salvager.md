@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Merfolk Salvager
 >*Medium #humanoid (merfolk), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|11 (+0)|10 (+0)|13 (+1)|
 >___
->- **Saving Throws** Dex +4
->- **Skills** Athletics +3, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Aquan, Common
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +4
+>- **Skills**
+>	 - Athletics +3, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The salvager can breathe air and water.  
 >

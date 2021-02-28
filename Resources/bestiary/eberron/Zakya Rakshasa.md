@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zakya Rakshasa
 >*Medium #fiend , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|12 (+1)|13 (+1)|11 (+0)|
 >___
->- **Skills** Athletics +7, Perception +4
->- **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Infernal
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Athletics +7, Perception +4
+>- **Damage Vulnerabilities**
+>	 - piercing from magic weapons wielded by good creatures
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 11). The rakshasa can innately cast the following spells, requiring no material components:  
 >

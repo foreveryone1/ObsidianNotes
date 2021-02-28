@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Centipedes
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** blindsight 10 ft., passive Perception 8
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.  
 >

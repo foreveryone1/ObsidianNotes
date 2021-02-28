@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blurg
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|
 >___
->- **Skills** Intimidation +5, Survival +2
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Orc
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +5, Survival +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, Blurg can move up to its speed toward a hostile creature that it can see.  
 >

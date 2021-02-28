@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Weasel
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|16 (+3)|8 (-1)|2 (-4)|12 (+1)|3 (-4)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** passive Perception 13
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

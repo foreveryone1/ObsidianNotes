@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hellenrae
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|14 (+2)|10 (+0)|15 (+2)|13 (+1)|
 >___
->- **Skills** Acrobatics +7, Athletics +4, Insight +5, Perception +5
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 15
->- **Languages** Common, Terran
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Acrobatics +7, Athletics +4, Insight +5, Perception +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 15
+>- **Languages**
+>	 - Common, Terran
+>
+> #cr5 (1,800 XP)
 >___
 >***Evasion.*** If Hellenrae is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails.  
 >

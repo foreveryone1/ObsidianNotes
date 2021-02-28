@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ogrémoch
 >*Gargantuan #elemental , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|11 (+0)|28 (+9)|11 (+0)|15 (+2)|22 (+6)|
 >___
->- **Saving Throws** Str +14, Con +15, Wis +8
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone
->- **Senses** blindsight 120 ft., tremorsense 120 ft., passive Perception 12
->- **Languages** Common, Terran
->- #cr20 (25,000 XP)
+>- **Saving Throws**
+>	 - Str +14, Con +15, Wis +8
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - blindsight 120 ft., tremorsense 120 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Terran
+>
+> #cr20 (25,000 XP)
 >___
 >***Empowered Attacks.*** Ogrémoch's slam attacks are treated as magical and adamantine for the purpose of bypassing resistance and immunity to nonmagical attacks.  
 >
@@ -43,9 +54,12 @@
 ## Legendary Actions
 >Ogrémoch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Ogrémoch regains spent legendary actions at the start of its turn.
 >
->- **Illuminating Crystals.** Ogrémoch's crystalline protrusions flare. Each creature within 30 feet of Ogrémoch becomes outlined in orange light, shedding dim light in a 10-foot radius. Any attack roll against an affected creature has advantage if the attacker can see it, and the affected creature can't benefit from being invisible.
->- **Stomp (Costs 2 Actions).** Ogrémoch stomps the ground, creating an earth tremor that extends in a 30-foot radius. Other creatures standing on the ground in that radius must succeed on a DC 23 Dexterity saving throw or fall prone.
->- **Create Gargoyle (Costs 3 Actions).** Ogrémoch's hit points are reduced by 50 as he breaks off a chunk of his body and places it on the ground in an unoccupied space within 15 feet of him. The chunk of rock instantly transforms into a gargoyle and acts on the same initiative count as Ogrémoch. Ogrémoch can't use this action if he has 50 hit points or fewer. The gargoyle obeys Ogrémoch's commands and fights until destroyed.
+>- **Illuminating Crystals**
+>	- Ogrémoch's crystalline protrusions flare. Each creature within 30 feet of Ogrémoch becomes outlined in orange light, shedding dim light in a 10-foot radius. Any attack roll against an affected creature has advantage if the attacker can see it, and the affected creature can't benefit from being invisible.
+>- **Stomp (Costs 2 Actions)**
+>	- Ogrémoch stomps the ground, creating an earth tremor that extends in a 30-foot radius. Other creatures standing on the ground in that radius must succeed on a DC 23 Dexterity saving throw or fall prone.
+>- **Create Gargoyle (Costs 3 Actions)**
+>	- Ogrémoch's hit points are reduced by 50 as he breaks off a chunk of his body and places it on the ground in an unoccupied space within 15 feet of him. The chunk of rock instantly transforms into a gargoyle and acts on the same initiative count as Ogrémoch. Ogrémoch can't use this action if he has 50 hit points or fewer. The gargoyle obeys Ogrémoch's commands and fights until destroyed.
 ## Ogrémoch
 The Prince of Evil Earth is Ogremoch (pronounced oh-gray-mock), the Mountain that Walks. His natural form is a shambling, 50-foot-tall colossus of rock, with crystal growths embedded throughout his body. When he bothers to speak, his voice sounds like grinding stones.
 Ogremoch is a miser who regards all the resources and treasures found in the ground as his own. He holds nothing but contempt for mortals (or any other denizens of the Material Plane) and desires nothing more than to crush and subjugate whomever he encounters. What he can't crush, he endures and outlasts.

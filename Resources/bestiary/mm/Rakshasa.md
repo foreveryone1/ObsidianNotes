@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rakshasa
 >*Medium #fiend , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
 >___
->- **Skills** Deception +10, Insight +8
->- **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Infernal
->- #cr13 (10,000 XP)
+>- **Skills**
+>	 - Deception +10, Insight +8
+>- **Damage Vulnerabilities**
+>	 - piercing from magic weapons wielded by good creatures
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr13 (10,000 XP)
 >___
 >***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:  
 >

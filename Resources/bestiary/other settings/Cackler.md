@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cackler
 >*Small #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|11 (+0)|11 (+0)|7 (-2)|12 (+1)|
 >___
->- **Skills** Deception +3, Perception +0, Performance +3
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Abyssal, Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Deception +3, Perception +0, Performance +3
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Innate Spellcasting.*** The cackler's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). The cackler can innately cast the following spells, requiring no material components:  
 >

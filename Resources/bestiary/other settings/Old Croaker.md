@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Old Croaker
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|3 (-4)|
 >___
->- **Damage Immunities** cold
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** —
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** Old Croaker can breathe air and water.  
 >

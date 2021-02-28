@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elok Jaharwon
 >*Medium #humanoid (human, shapechanger), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)|8 (-1)|
 >___
->- **Skills** Perception +2
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** passive Perception 12
->- **Languages** Common (can't speak in boar form)
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common (can't speak in boar form)
+>
+> #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** Elok can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

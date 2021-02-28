@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc War Chief
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|18 (+4)|11 (+0)|11 (+0)|16 (+3)|
 >___
->- **Saving Throws** Str +6, Con +6, Wis +2
->- **Skills** Intimidation +5
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Orc
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Str +6, Con +6, Wis +2
+>- **Skills**
+>	 - Intimidation +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr4 (1,100 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >

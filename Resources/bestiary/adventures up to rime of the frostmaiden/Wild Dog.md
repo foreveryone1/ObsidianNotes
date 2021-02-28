@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wild Dog
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

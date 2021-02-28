@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Panopticus Wizard
 >*Medium #humanoid (dwarf), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)|
 >___
->- **Skills** Arcana +4, History +4
->- **Damage Resistances** poison
->- **Senses** passive Perception 10
->- **Languages** Common, Dwarvish
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and resistance to poison damage.  
 >

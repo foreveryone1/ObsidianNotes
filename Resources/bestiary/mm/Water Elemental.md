@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Water Elemental
 >*Large #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
 >___
->- **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Aquan
->- #cr5 (1,800 XP)
+>- **Damage Resistances**
+>	 - acid; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Aquan
+>
+> #cr5 (1,800 XP)
 >___
 >***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.  
 >

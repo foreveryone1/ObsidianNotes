@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Poisonous Snakes
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|11 (+0)|1 (-5)|10 (+0)|3 (-4)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** blindsight 10 ft., passive Perception 10
->- **Languages** —
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.  
 >

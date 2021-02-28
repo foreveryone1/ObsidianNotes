@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Darz Helgar
 >*Medium #humanoid (Illuskan human), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|12 (+1)|10 (+0)|11 (+0)|11 (+0)|
 >___
->- **Skills** Intimidation +2, Sleight of Hand +4, Stealth +4
->- **Senses** passive Perception 10
->- **Languages** Common
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Intimidation +2, Sleight of Hand +4, Stealth +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.  
 >Ideal: "You can run from your past, but you can't hide from it."  

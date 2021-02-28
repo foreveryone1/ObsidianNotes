@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orcus
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|20 (+5)|20 (+5)|25 (+7)|
 >___
->- **Saving Throws** Dex +10, Con +15, Wis +13
->- **Skills** Arcana +13, Perception +13
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 22
->- **Languages** all, telepathy 120 ft.
->- #cr26 (90,000 XP)
+>- **Saving Throws**
+>	 - Dex +10, Con +15, Wis +13
+>- **Skills**
+>	 - Arcana +13, Perception +13
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 22
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr26 (90,000 XP)
 >___
 >***Innate Spellcasting.*** Orcus's spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). He can innately cast the following spells, requiring no material components:  
 >
@@ -47,9 +59,12 @@
 ## Legendary Actions
 >Orcus can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Orcus regains spent legendary actions at the start of its turn.
 >
->- **Tail.** Orcus makes one tail attack.
->- **A Taste of Undeath.** Orcus casts chill touch (17th level).
->- **Creeping Death (Costs 2 Actions).** Orcus chooses a point on the ground that he can see within 100 feet of him. A cylinder of swirling necrotic energy 60 feet tall and with a 10-foot radius rises from that point and lasts until the end of Orcus's next turn. Creatures in that area have vulnerability to necrotic damage.
+>- **Tail.** 
+> Orcus makes one tail attack.
+>- **A Taste of Undeath.**
+> Orcus casts chill touch (17th level).
+>- **Creeping Death (Costs 2 Actions).**
+> Orcus chooses a point on the ground that he can see within 100 feet of him. A cylinder of swirling necrotic energy 60 feet tall and with a 10-foot radius rises from that point and lasts until the end of Orcus's next turn. Creatures in that area have vulnerability to necrotic damage.
 ## Orcus
 ***Orcus.*** Orcus is the Demon Prince of Undeath, known as the Blood Lord. He takes some pleasure in the sufferings of the living, but far prefers the company and service of the undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by undead creatures under his command.
 Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become ghouls and zombies who serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.

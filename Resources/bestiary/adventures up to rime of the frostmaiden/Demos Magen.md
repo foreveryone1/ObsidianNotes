@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Demos Magen
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|18 (+4)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Fiery End.*** If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.  
 >

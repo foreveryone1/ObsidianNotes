@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hybrid Shocker
 >*Medium #humanoid (Simic hybrid), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|14 (+2)|10 (+0)|12 (+1)|9 (-1)|
 >___
->- **Damage Immunities** lightning
->- **Senses** passive Perception 11
->- **Languages** Common plus any one language
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr1 (200 XP)
 >___
 >***Electrified Body.*** Any creature that touches the hybrid or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage.  
 >

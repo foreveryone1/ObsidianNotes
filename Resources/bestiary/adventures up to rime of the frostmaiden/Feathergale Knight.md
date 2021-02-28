@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Feathergale Knight
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|12 (+1)|11 (+0)|10 (+0)|14 (+2)|
 >___
->- **Skills** Animal Handling +2, History +2
->- **Senses** passive Perception 10
->- **Languages** Auran, Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Animal Handling +2, History +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr1 (200 XP)
 >___
 >***Spellcasting.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Demogorgon
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|16 (+3)|3 (-4)|12 (+1)|5 (-3)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** blindsight 60 ft., passive Perception 13
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 >***Blood Frenzy.*** The demogorgon has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elder Tempest
 >*Gargantuan #elemental , neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|28 (+9)|23 (+6)|2 (-4)|21 (+5)|18 (+4)|
 >___
->- **Saving Throws** Wis +12, Cha +11
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, poison, thunder
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** —
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Wis +12, Cha +11
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, poison, thunder
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - —
+>
+> #cr23 (50,000 XP)
 >___
 >***Air Form.*** The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.  
 >
@@ -39,9 +50,12 @@
 ## Legendary Actions
 >The elder tempest can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The elder tempest regains spent legendary actions at the start of its turn.
 >
->- **Move.** The tempest moves up to its speed.
->- **Lightning Strike (Costs 2 Actions).** The tempest can cause a bolt of lightning to strike a point on the ground anywhere under its storm. Each creature within 5 feet of that point must make a DC 20 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
->- **Screaming Gale (Costs 3 Actions).** The tempest releases a blast of thunder and wind in a line that is 1 mile long and 20 feet wide. Objects in that area take 22 (4d10) thunder damage. Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (4d10) thunder damage and be flung up to 60 feet in a direction away from the line. If a thrown target collides with an immovable object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown before impact. If the target would collide with another creature instead, that other creature must succeed on a DC 19 Dexterity saving throw or take the same damage and be knocked prone.
+>- **Move.**
+> The tempest moves up to its speed.
+>- **Lightning Strike (Costs 2 Actions).**
+> The tempest can cause a bolt of lightning to strike a point on the ground anywhere under its storm. Each creature within 5 feet of that point must make a DC 20 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+>- **Screaming Gale (Costs 3 Actions).**
+> The tempest releases a blast of thunder and wind in a line that is 1 mile long and 20 feet wide. Objects in that area take 22 (4d10) thunder damage. Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (4d10) thunder damage and be flung up to 60 feet in a direction away from the line. If a thrown target collides with an immovable object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown before impact. If the target would collide with another creature instead, that other creature must succeed on a DC 19 Dexterity saving throw or take the same damage and be knocked prone.
 ## Elder Tempest
 ***Elder Tempest.*** Terrifying storms manifest in the body of the elder tempest. A being carved from clouds, wind, rain, and lightning, the elder tempest assumes the shape of a serpent that slithers through the sky. The tempest drowns the land beneath it with rain and stabs the earth with lances of lightning. Punishing winds scream around it as it flies, feeding the chaos it creates.
 ***Elder Elementals.*** On their native planes, elementals sweep across the weird and tempestuous landscape. Some possess greater power, gained by feeding on their lesser kin and adding the essence of creatures they have devoured to their own until they become something extraordinary. When summoned, these elder elementals manifest as beings of apocalyptic capability, entities whose mere existence promises destruction.

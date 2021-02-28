@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Female Steeder
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|2 (-4)|10 (+0)|3 (-4)|
 >___
->- **Skills** Perception +4, Stealth +7
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +7
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Extraordinary Leap.*** The distance of the steeder's long jumps is tripled; every foot of its walking speed that it spends on the jump allows it to move 3 feet.  
 >

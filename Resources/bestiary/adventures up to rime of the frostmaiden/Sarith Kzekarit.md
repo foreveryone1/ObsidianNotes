@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sarith Kzekarit
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Elvish, Undercommon
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Fey Ancestry.*** Sarith has advantage on saving throws against being charmed, and magic can't put Sarith to sleep.  
 >

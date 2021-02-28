@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zorbo
 >*Small #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|13 (+1)|3 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +3
->- **Senses** passive Perception 11
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +3
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Magic Resistance.*** The zorbo has advantage on saving throws against spells and other magical effects.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ortimay Swift and Dark
 >*Small #humanoid (gnome), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Str +4, Dex +5, Wis +2
->- **Skills** Athletics +4, Deception +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any two languages, Gnomish
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +5, Wis +2
+>- **Skills**
+>	 - Athletics +4, Deception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any two languages, Gnomish
+>
+> #cr2 (450 XP)
 >___
 >***Gnome Cunning.*** The ortimay swift and dark has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

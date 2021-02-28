@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chimeric Hare
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|9 (-1)|2 (-4)|11 (+0)|4 (-3)|
 >___
->- **Skills** Perception +2, Stealth +5
->- **Senses** passive Perception 12
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Escape.*** The hare can take the Dash, Disengage, or Hide action as a bonus action on each of its turns.
 ## Chimeric Hare

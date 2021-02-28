@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Varram
 >*Medium #humanoid (dwarf), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|13 (+1)|12 (+1)|16 (+3)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Deception +6, Stealth +7
->- **Damage Resistances** one of the following: acid, cold, fire, lightning, and poison; poison
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Draconic, Infernal, Dwarvish
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Deception +6, Stealth +7
+>- **Damage Resistances**
+>	 - one of the following: acid, cold, fire, lightning, and poison; poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal, Dwarvish
+>
+> #cr7 (2,900 XP)
 >___
 >***5etools Note.*** Varram is presented in The Rise of Tiamat as a male dwarf. The dragonsoul statblock, modified with dwarf racial traits, has been provided here for ease of use.  
 >

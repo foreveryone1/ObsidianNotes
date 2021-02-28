@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Velociraptor
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

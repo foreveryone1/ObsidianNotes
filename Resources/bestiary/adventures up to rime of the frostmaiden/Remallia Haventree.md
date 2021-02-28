@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Remallia Haventree
 >*Medium #humanoid (elf), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|13 (+1)|18 (+4)|15 (+2)|17 (+3)|
 >___
->- **Saving Throws** Int +8, Wis +6
->- **Skills** Arcana +8, Deception +7, History +8, Persuasion +7
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Draconic, Dwarvish, Elvish, Halfling
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +8, Wis +6
+>- **Skills**
+>	 - Arcana +8, Deception +7, History +8, Persuasion +7
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish, Halfling
+>
+> #cr9 (5,000 XP)
 >___
 >***Special Equipment.*** Remallia has a figurine of wondrous power (silver raven).  
 >

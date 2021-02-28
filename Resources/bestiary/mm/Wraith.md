@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wraith
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 >___
->- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** the languages it knew in life
->- #cr5 (1,800 XP)
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr5 (1,800 XP)
 >___
 >***Incorporeal Movement.*** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

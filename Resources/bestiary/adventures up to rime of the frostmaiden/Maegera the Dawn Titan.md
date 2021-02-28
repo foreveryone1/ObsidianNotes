@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Maegera the Dawn Titan
 >*Gargantuan #elemental , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|22 (+6)|20 (+5)|10 (+0)|10 (+0)|19 (+4)|
 >___
->- **Saving Throws** Con +12, Wis +7, Cha +11
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** blindsight 120 ft., passive Perception 10
->- **Languages** Ignan
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Con +12, Wis +7, Cha +11
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 10
+>- **Languages**
+>	 - Ignan
+>
+> #cr23 (50,000 XP)
 >___
 >***Empowered Attacks.*** Maegera's slam attacks are treated as magical for the purpose of overcoming resistance and immunity to damage from nonmagical attacks.  
 >
@@ -41,9 +52,12 @@
 ## Legendary Actions
 >Maegera can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Maegera regains spent legendary actions at the start of its turn.
 >
->- **Quench Magic.** Maegera targets one creature that it can see within 60 feet of it. Any resistance or immunity to fire damage that the target gains from a spell or magic item is suppressed. The effect lasts until the end of Maegera's next turn.
->- **Smoke Cloud (Costs 2 Actions).** Maegera exhales a billowing cloud of hot smoke and embers that fills a 60 feet cube. Each creature in the area takes 11 (2d10) fire damage. The cloud lasts until the end of Maegera's next turn. Creatures completely in the cloud are blinded and can't be seen.
->- **Create Fire Elemental (Costs 3 Actions).** Maegera's hit points are reduced by 50 as part of it separates and becomes a fire elemental with 102 hit points. The fire element appears in an unoccupied space within 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use this action if it has 50 hit points or fewer. The fire element obeys Maegera's commands and fights until destroyed.
+>- **Quench Magic**
+>	- Maegera targets one creature that it can see within 60 feet of it. Any resistance or immunity to fire damage that the target gains from a spell or magic item is suppressed. The effect lasts until the end of Maegera's next turn.
+>- **Smoke Cloud (Costs 2 Actions)**
+>	- Maegera exhales a billowing cloud of hot smoke and embers that fills a 60 feet cube. Each creature in the area takes 11 (2d10) fire damage. The cloud lasts until the end of Maegera's next turn. Creatures completely in the cloud are blinded and can't be seen.
+>- **Create Fire Elemental (Costs 3 Actions)**
+>	- Maegera's hit points are reduced by 50 as part of it separates and becomes a fire elemental with 102 hit points. The fire element appears in an unoccupied space within 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use this action if it has 50 hit points or fewer. The fire element obeys Maegera's commands and fights until destroyed.
 ## Maegera the Dawn Titan
 Maegera is powerful elemental that has been trapped in the forges of Gauntlgrym for millennia. About fifty years ago, Maegera briefly escaped and triggered the eruption of Mount Hotenow. Lava from the volcano flowed toward the coast, laying waste to Neverwinter. The city is still rebuilding in the wake of that catastrophe.
 The fire giant duke Zalto recently sent a team of drow to infiltrate Gauntlgrym and trap Maegera in an iron flask . Zalto needs the primordial to ignite an adamantine forge beneath the Ice Spires. Returning Maegera to Gauntlgrym is one way to thwart the fire giant's plans.

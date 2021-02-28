@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold
 >*Small #humanoid (kobold), lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|9 (-1)|8 (-1)|7 (-2)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common, Draconic
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - Common, Draconic
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Venomfang
 >*Large #dragon , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 >___
->- **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
->- **Skills** Deception +5, Perception +7, Stealth +4
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
->- **Languages** Common, Draconic
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +6, Wis +4, Cha +5
+>- **Skills**
+>	 - Deception +5, Perception +7, Stealth +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr8 (3,900 XP)
 >___
 >***Amphibious.*** Venomfang can breathe air and water.  
 >

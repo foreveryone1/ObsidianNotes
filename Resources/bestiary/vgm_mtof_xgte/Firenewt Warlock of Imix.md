@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Firenewt Warlock of Imix
 >*Medium #humanoid (firenewt), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|9 (-1)|11 (+0)|14 (+2)|
 >___
->- **Damage Immunities** fire
->- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 10
->- **Languages** Draconic, Ignan
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 120 ft. (penetrates magical darkness), passive Perception 10
+>- **Languages**
+>	 - Draconic, Ignan
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The firenewt can breathe air and water.  
 >

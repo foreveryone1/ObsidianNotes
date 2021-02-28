@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Droki
 >*Small #humanoid (derro), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|13 (+1)|10 (+0)|5 (-3)|16 (+3)|
 >___
->- **Skills** Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 7
->- **Languages** Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 7
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Special Equipment.*** Droki wears boots of speed.  
 >

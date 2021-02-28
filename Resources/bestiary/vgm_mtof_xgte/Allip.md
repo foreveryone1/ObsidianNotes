@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Allip
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|17 (+3)|10 (+0)|17 (+3)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +6, Wis +5
->- **Skills** Perception +5, Stealth +6
->- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** the languages it knew in life
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +5
+>- **Skills**
+>	 - Perception +5, Stealth +6
+>- **Damage Resistances**
+>	 - acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr5 (1,800 XP)
 >___
 >***Incorporeal Movement.*** The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

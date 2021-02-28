@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Cloudkill
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|20 (+5)|3 (-4)|11 (+0)|6 (-2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr7 (2,900 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr7 (2,900 XP)
 >___
 >***Amorphous.*** The living spell can move through a space as narrow as 1 inch wide without squeezing.  
 >

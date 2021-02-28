@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yinra Emberwind
 >*Medium #humanoid (elf), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|12 (+1)|14 (+2)|13 (+1)|11 (+0)|
 >___
->- **Skills** Investigation +4, Perception +3, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Elvish
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Investigation +4, Perception +3, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Elvish
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Fey Ancestry.*** Yinra has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >

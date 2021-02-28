@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Prince Derendil
 >*Medium #humanoid (quaggoth), chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +5
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Undercommon
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Wounded Fury.*** While it has 10 hit points or fewer, Prince Derendil has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.  
 >

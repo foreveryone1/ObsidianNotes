@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Laskilar
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Str +4, Dex +5, Wis +2
->- **Skills** Athletics +4, Deception +4
->- **Senses** passive Perception 10
->- **Languages** any two languages
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +5, Wis +2
+>- **Skills**
+>	 - Athletics +4, Deception +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any two languages
+>
+> #cr2 (450 XP)
 >___
 >***Special Equipment.*** Laskilar wears a cape of the mountebank.  
 >

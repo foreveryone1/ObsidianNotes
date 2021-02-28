@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Spiders
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** blindsight 10 ft., passive Perception 8
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Spider Climb.*** The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

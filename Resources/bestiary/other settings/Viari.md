@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Viari
 >*Medium #humanoid (human), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|20 (+5)|14 (+2)|10 (+0)|8 (-1)|14 (+2)|
 >___
->- **Saving Throws** Dex +8, Int +3
->- **Skills** Acrobatics +11, Athletics +7, Perception +5, Performance +5, Persuasion +5, Sleight of Hand +11, Stealth +8
->- **Senses** passive Perception 15
->- **Languages** Common, Draconic, Thieves' cant
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +8, Int +3
+>- **Skills**
+>	 - Acrobatics +11, Athletics +7, Perception +5, Performance +5, Persuasion +5, Sleight of Hand +11, Stealth +8
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Draconic, Thieves' cant
+>
+> #cr5 (1,800 XP)
 >___
 >***Evasion.*** If Viari is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's incapacitated.  
 >

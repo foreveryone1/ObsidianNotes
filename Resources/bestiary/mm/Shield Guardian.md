@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shield Guardian
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|18 (+4)|7 (-2)|10 (+0)|3 (-4)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
->- **Languages** understands commands given in any language but can't speak
->- #cr7 (2,900 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands commands given in any language but can't speak
+>
+> #cr7 (2,900 XP)
 >___
 >***Bound.*** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.  
 >

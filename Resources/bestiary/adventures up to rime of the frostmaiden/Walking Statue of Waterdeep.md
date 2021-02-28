@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Walking Statue of Waterdeep
 >*Gargantuan #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|8 (-1)|27 (+8)|1 (-5)|10 (+0)|1 (-5)|
 >___
->- **Saving Throws** Con +14
->- **Damage Immunities** cold, fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
->- **Senses** truesight 120 ft., passive Perception 10
->- **Languages** —
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Con +14
+>- **Damage Immunities**
+>	 - cold, fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr18 (20,000 XP)
 >___
 >***Crumbling Colossus.*** When the statue drops to 0 hit points, it crumbles and is destroyed. Any creature on the ground within 30 feet of the crumbling statue must make a DC 22 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one.  
 >

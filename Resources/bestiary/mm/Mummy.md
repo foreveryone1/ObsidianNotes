@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mummy
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Wis +2
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** the languages it knew in life
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Wis +2
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.  

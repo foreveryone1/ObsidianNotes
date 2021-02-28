@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deathpact Angel
 >*Medium #celestial , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|18 (+4)|14 (+2)|19 (+4)|20 (+5)|23 (+6)|
 >___
->- **Saving Throws** Int +9, Wis +10, Cha +11
->- **Skills** Insight +10, Intimidation +11, Perception +10, Persuasion +11
->- **Damage Resistances** necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** truesight 120 ft., passive Perception 20
->- **Languages** all
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +10, Cha +11
+>- **Skills**
+>	 - Insight +10, Intimidation +11, Perception +10, Persuasion +11
+>- **Damage Resistances**
+>	 - necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 20
+>- **Languages**
+>	 - all
+>
+> #cr14 (11,500 XP)
 >___
 >***Exploitation of the Debtors.*** As a bonus action, the angel targets a creature charmed by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic damage to the target, and the angel gains temporary hit points equal to the damage dealt.  
 >

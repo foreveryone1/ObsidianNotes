@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Barlgura
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|7 (-2)|14 (+2)|9 (-1)|
 >___
->- **Saving Throws** Dex +5, Con +6
->- **Skills** Perception +5, Stealth +5
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 15
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +6
+>- **Skills**
+>	 - Perception +5, Stealth +5
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:  
 >

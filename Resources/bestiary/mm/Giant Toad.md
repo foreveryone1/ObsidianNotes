@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Toad
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|3 (-4)|
 >___
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** —
->- #cr1 (200 XP)
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The toad can breathe air and water.  
 >

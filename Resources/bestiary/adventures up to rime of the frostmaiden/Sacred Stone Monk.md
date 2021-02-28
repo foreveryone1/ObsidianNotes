@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sacred Stone Monk
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|12 (+1)|10 (+0)|14 (+2)|9 (-1)|
 >___
->- **Skills** Acrobatics +4, Athletics +3, Perception +4
->- **Senses** tremorsense 10 ft., passive Perception 14
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Acrobatics +4, Athletics +3, Perception +4
+>- **Senses**
+>	 - tremorsense 10 ft., passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Unarmored Defense.*** While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >

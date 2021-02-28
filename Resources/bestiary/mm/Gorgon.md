@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gorgon
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|18 (+4)|2 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +4
->- **Condition Immunities** petrified
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Condition Immunities**
+>	 - petrified
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Trampling Charge.*** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.  
 >

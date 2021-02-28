@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Derro Savant
 >*Small #humanoid (derro), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|14 (+2)|
 >___
->- **Skills** Stealth +4
->- **Senses** darkvision 120 ft., passive Perception 7
->- **Languages** Dwarvish, Undercommon
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Stealth +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 7
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Magic Resistance.*** The derro savant has advantage on saving throws against spells and other magical effects.  
 >

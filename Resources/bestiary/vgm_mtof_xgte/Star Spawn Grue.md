@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Star Spawn Grue
 >*Small #aberration , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|6 (-2)|
 >___
->- **Damage Immunities** psychic
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Deep Speech
->- ** #cr1-4 ** (50 XP)
+>- **Damage Immunities**
+>	 - psychic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Deep Speech
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Aura of Madness.*** Creatures within 20 feet of the grue that aren't aberrations have disadvantage on saving throws, as well as on attack rolls against creatures other than a star spawn grue.  
 >

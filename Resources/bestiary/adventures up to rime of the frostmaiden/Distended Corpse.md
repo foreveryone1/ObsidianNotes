@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Distended Corpse
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Condition Immunities** charmed, frightened
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr0 **(0 or 10 XP)
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Snake-Swollen.*** When a corpse is reduced to 0 hit points, it splits open, disgorging a swarm of poisonous snakes. The snakes are hungry and fight until slain.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warhorse
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|13 (+1)|2 (-4)|12 (+1)|7 (-2)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.  
 >

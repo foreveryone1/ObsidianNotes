@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thayan Warrior
 >*Medium #humanoid (human), any non-good alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|
 >___
->- **Skills** Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common, Thayan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Thayan
+>
+> #cr2 (450 XP)
 >___
 >***Doomvault Devotion.*** Within the Doomvault, the warrior has advantage on saving throws against being charmed or frightened.  
 >

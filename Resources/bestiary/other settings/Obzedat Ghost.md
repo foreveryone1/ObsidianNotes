@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Obzedat Ghost
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,25 +14,38 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|13 (+1)|18 (+4)|20 (+5)|17 (+3)|
 >___
->- **Saving Throws** Int +7, Wis +8
->- **Skills** Insight +8, Perception +8
->- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** Common
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +8
+>- **Skills**
+>	 - Insight +8, Perception +8
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - Common
+>
+> #cr8 (3,900 XP)
 >___
 >***Council of Five.*** The ghost has a trait based on who it is, as shown below:  
->- **Enezesku: Enfeebling Ray.** Enezesku's Innate Spellcasting trait includes ray of enfeeblement, which he can cast at will.
+>- **Enezesku: Enfeebling Ray**
+>	- Enezesku's Innate Spellcasting trait includes ray of enfeeblement, which he can cast at will.
 >
->- **Fautomni: Undead Fortitude.** If damage reduces Fautomni to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Fautomni drops to 1 hit point instead.
+>- **Fautomni: Undead Fortitude**
+>	- If damage reduces Fautomni to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Fautomni drops to 1 hit point instead.
 >
->- **Karlov: Unnatural Vigor.** When Karlov regains hit points, he has advantage on attack rolls he makes on his next turn.
+>- **Karlov: Unnatural Vigor**
+>	- When Karlov regains hit points, he has advantage on attack rolls he makes on his next turn.
 >
->- **Vuliev: Teleportation.** Vuliev's Innate Spellcasting trait includes misty step, which he can cast at will.
+>- **Vuliev: Teleportation**
+>	- Vuliev's Innate Spellcasting trait includes misty step, which he can cast at will.
 >
->- **Xil Xaxosz: Lingering Spite.** When Xil Xaxosz is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic energy. Each creature within 5 feet of him must make a DC 16 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>- **Xil Xaxosz: Lingering Spite**
+>	- When Xil Xaxosz is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic energy. Each creature within 5 feet of him must make a DC 16 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
 >
 >
 >***Ethereal Sight.*** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.  
@@ -51,8 +68,10 @@
 ## Legendary Actions
 >If five Obzedat ghosts are all within 30 feet of each other, they can collectively take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Obzedat ghosts regain spent legendary actions at the start of the turn of the ghost with the highest initiative.
 >
->- **Forced Obedience.** A target that all of the Obzedat ghosts can see must succeed on a DC 16 Wisdom saving throw or bow until the end of its next turn. Until this bow ends, the target can't take actions or reactions, and its speed is 0 and can't be increased.
->- **Indentured Spirits (Costs 3 Actions).** The Obzedat ghosts conjure 1d6 indentured spirits (described in this chapter) within 60 feet of one of them.
+>- **Forced Obedience**
+>	- A target that all of the Obzedat ghosts can see must succeed on a DC 16 Wisdom saving throw or bow until the end of its next turn. Until this bow ends, the target can't take actions or reactions, and its speed is 0 and can't be increased.
+>- **Indentured Spirits (Costs 3 Actions)**
+>	- The Obzedat ghosts conjure 1d6 indentured spirits (described in this chapter) within 60 feet of one of them.
 ## Obzedat Ghost
 The ghosts who make up the Obzedat are traditionally called patriarchs, though they can be male or female. They are the oldest, wealthiest, and most influential oligarchs of the Orzhov Syndicate. They have been dead for centuries, but they refuse to let go of the fortunes they amassed in life. Addicted to power and prestige, these patriarchs continue to dominate the guild and accumulate even larger fortunes.
 ***Mostly Unanimous.*** The ghosts of the Obzedat function as a unit, driven by their shared desire to accumulate ever more wealth for the guild. In times of disagreement, the eldest of the council exerts his seniority to bend the council to his will.

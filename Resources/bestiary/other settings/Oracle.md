@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oracle
 >*Medium #humanoid, any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|13 (+1)|16 (+3)|15 (+2)|
 >___
->- **Saving Throws** Wis +5, Cha +4
->- **Skills** Insight +5, Persuasion +4, Religion +5
->- **Senses** passive Perception 13
->- **Languages** #celestial , Common
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +4
+>- **Skills**
+>	 - Insight +5, Persuasion +4, Religion +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - #celestial , Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Blessings of the Gods.*** While the oracle is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the oracle with a melee attack while within 5 feet of it takes 9 (2d8) force damage.  
 >

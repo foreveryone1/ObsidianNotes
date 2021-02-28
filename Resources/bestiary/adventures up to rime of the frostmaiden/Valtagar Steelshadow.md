@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Valtagar Steelshadow
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +9, Wis +6
->- **Skills** Arcana +13, History +13
->- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin); poison
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Common, Dwarvish, Infernal, Terran, Troglodyte, Undercommon
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +6
+>- **Skills**
+>	 - Arcana +13, History +13
+>- **Damage Resistances**
+>	 - damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin); poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish, Infernal, Terran, Troglodyte, Undercommon
+>
+> #cr12 (8,400 XP)
 >___
 >***Dwarven Resilience.*** The valtagar steelshadow has advantage on saving throws against poison, and has resistance against poison damage.  
 >

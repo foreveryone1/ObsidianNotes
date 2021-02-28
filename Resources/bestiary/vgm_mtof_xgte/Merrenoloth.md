@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Merrenoloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|10 (+0)|17 (+3)|14 (+2)|11 (+0)|
 >___
->- **Saving Throws** Dex +5, Int +5
->- **Skills** History +5, Nature +5, Perception +4, Survival +4
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Dex +5, Int +5
+>- **Skills**
+>	 - History +5, Nature +5, Perception +4, Survival +4
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr3 (700 XP)
 >___
 >***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence (spell save DC 13). It can innately cast the following spells, requiring no material components:  
 >

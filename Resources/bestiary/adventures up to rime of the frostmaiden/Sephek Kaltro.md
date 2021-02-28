@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sephek Kaltro
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|11 (+0)|16 (+3)|18 (+4)|
 >___
->- **Skills** Perception +5, Survival +5
->- **Damage Immunities** cold
->- **Condition Immunities** charmed, frightened
->- **Senses** passive Perception 15
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +5, Survival +5
+>- **Damage Immunities**
+>	 - cold
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Cold Regeneration.*** If the temperature around him is 0 degrees Fahrenheit or lower, Sephek regains 5 hit points at the start of his turn. If he takes fire damage, this trait doesn't function at the start of Sephek's next turn. Sephek dies only if he starts his turn with 0 hit points and doesn't regenerate.  
 >

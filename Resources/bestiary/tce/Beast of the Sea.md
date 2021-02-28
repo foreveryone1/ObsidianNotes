@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Beast of the Sea
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|15 (+2)|8 (-1)|14 (+2)|11 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Amphibious.*** The beast can breathe both air and water.  
 >

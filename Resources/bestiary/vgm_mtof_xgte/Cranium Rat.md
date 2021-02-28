@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cranium Rat
 >*Tiny #beast , lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|14 (+2)|10 (+0)|4 (-3)|11 (+0)|8 (-1)|
 >___
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** telepathy 30 ft.
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - telepathy 30 ft.
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Illumination.*** As a bonus action, the cranium rat can shed dim light from its brain in a 5-foot radius or extinguish the light.  
 >

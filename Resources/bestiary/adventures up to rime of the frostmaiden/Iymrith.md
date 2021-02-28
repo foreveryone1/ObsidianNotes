@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Iymrith
 >*Gargantuan #dragon , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
 >___
->- **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
->- **Skills** Perception +17, Stealth +7
->- **Damage Immunities** lightning
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
->- **Languages** Common, Draconic, Giant, Terran
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +15, Wis +10, Cha +12
+>- **Skills**
+>	 - Perception +17, Stealth +7
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 27
+>- **Languages**
+>	 - Common, Draconic, Giant, Terran
+>
+> #cr23 (50,000 XP)
 >___
 >***Innate Spellcasting.*** Iymrith's innate spellcasting ability is Charisma (spell save DC 20). Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:  
 >
@@ -43,9 +53,12 @@
 ## Legendary Actions
 >Iymrith can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Iymrith regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Iymrith makes a Wisdom (Perception) check.
->- **Tail Attack.** Iymrith makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** Iymrith beats her wings. Each creature within 15 feet of Iymrith must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. Iymrith can then fly up to half her flying speed.
+>- **Detect**
+>	- Iymrith makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- Iymrith makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- Iymrith beats her wings. Each creature within 15 feet of Iymrith must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. Iymrith can then fly up to half her flying speed.
 ## Iymrith
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 A blue dragon is recognized by its dramatic frilled ears and the massive ridged horn atop its blunt head. Rows of spikes extend back from its nostrils to line its brow, and cluster on its jutting lower jaw.

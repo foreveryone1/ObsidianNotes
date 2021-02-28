@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ochre Jelly
 >*Large #ooze , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|6 (-2)|14 (+2)|2 (-4)|6 (-2)|1 (-5)|
 >___
->- **Damage Resistances** acid
->- **Damage Immunities** lightning, slashing
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - acid
+>- **Damage Immunities**
+>	 - lightning, slashing
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nalfeshnee
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 11
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Int +9, Wis +6, Cha +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr13 (10,000 XP)
 >___
 >***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blagothkus
 >*Huge giant (cloud giant), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|13 (+1)|20 (+5)|16 (+3)|15 (+2)|15 (+2)|
 >___
->- **Saving Throws** Con +9, Wis +6, Cha +6
->- **Skills** Arcana +7, Insight +6, Intimidation +6, Perception +6
->- **Senses** passive Perception 16
->- **Languages** Common, Draconic, Giant
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +6, Cha +6
+>- **Skills**
+>	 - Arcana +7, Insight +6, Intimidation +6, Perception +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Draconic, Giant
+>
+> #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:  
 >

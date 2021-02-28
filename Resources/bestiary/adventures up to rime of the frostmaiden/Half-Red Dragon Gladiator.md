@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Half-Red Dragon Gladiator
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Str +7, Dex +5, Con +6
->- **Skills** Athletics +10, Intimidation +5
->- **Damage Resistances** fire
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 11
->- **Languages** any one language (usually Common), Draconic
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Dex +5, Con +6
+>- **Skills**
+>	 - Athletics +10, Intimidation +5
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - any one language (usually Common), Draconic
+>
+> #cr5 (1,800 XP)
 >___
 >***Brave.*** The half-dragon has advantage on saving throws against being frightened.  
 >

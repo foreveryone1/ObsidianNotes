@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dining Table Mimic
 >*Large monstrosity (shapechanger), neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|5 (-3)|13 (+1)|8 (-1)|
 >___
->- **Skills** Stealth +5
->- **Damage Immunities** acid
->- **Condition Immunities** prone
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Damage Immunities**
+>	 - acid
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

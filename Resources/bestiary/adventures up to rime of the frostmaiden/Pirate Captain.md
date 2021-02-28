@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pirate Captain
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|11 (+0)|10 (+0)|14 (+2)|
 >___
->- **Skills** Athletics +5, Intimidation +4
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +5, Intimidation +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr2 (450 XP)
 >___
 >***Flourish.*** The captain adds its Charisma modifier to the damage roll for its longsword attacks (included in the attack).  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pidlwick II
 >*Small #construct , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|11 (+0)|8 (-1)|13 (+1)|10 (+0)|
 >___
->- **Skills** Performance +2
->- **Damage Immunities** poison
->- **Condition Immunities** paralyzed, petrified, poisoned
->- **Senses** passive Perception 11
->- **Languages** understands Common but doesn't speak and can't read or write
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Performance +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - paralyzed, petrified, poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - understands Common but doesn't speak and can't read or write
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.  
 >

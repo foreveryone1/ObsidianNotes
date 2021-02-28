@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Guard
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +2
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** any one language (usually Common), Elvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Fey Ancestry.*** The drow guard has advantage on saving throws against being charmed, and magic can't put the drow guard to sleep.  
 >

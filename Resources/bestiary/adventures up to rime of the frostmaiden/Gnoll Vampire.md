@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnoll Vampire
 >*Medium undead (shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|18 (+4)|18 (+4)|6 (-2)|12 (+1)|9 (-1)|
 >___
->- **Saving Throws** Dex +7, Con +7
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Abyssal, Gnoll
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +7
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, Gnoll
+>
+> #cr8 (3,900 XP)
 >___
 >***Shapechanger.*** If the vampire isn't in sunlight, it can use its action to polymorph into a Large hyena or a Medium cloud of mist, or back into its true form.  
 >While in hyena form, the vampire can't speak, and its walking speed is 50 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  

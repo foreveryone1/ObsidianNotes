@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young White Dragon
 >*Large #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|18 (+4)|6 (-2)|11 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
->- **Skills** Perception +6, Stealth +3
->- **Damage Immunities** cold
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
->- **Languages** Common, Draconic
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +7, Wis +3, Cha +4
+>- **Skills**
+>	 - Perception +6, Stealth +3
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr6 (2,300 XP)
 >___
 >***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.  
 >

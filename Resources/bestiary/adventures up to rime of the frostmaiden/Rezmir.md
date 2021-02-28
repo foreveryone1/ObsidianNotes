@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rezmir
 >*Medium #humanoid (half-black dragon), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|16 (+3)|15 (+2)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +6, Wis +4
->- **Skills** Arcana +5, Stealth +9
->- **Damage Immunities** acid
->- **Condition Immunities** charmed, frightened
->- **Senses** blindsight 10 ft., darkvision 120 ft., passive Perception 11
->- **Languages** Common, Draconic, Infernal, Giant, Netherese
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +4
+>- **Skills**
+>	 - Arcana +5, Stealth +9
+>- **Damage Immunities**
+>	 - acid
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal, Giant, Netherese
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws.  
 >
@@ -40,7 +51,10 @@
 ## Legendary Actions
 >Rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rezmir regains spent legendary actions at the start of its turn.
 >
->- **Darkness (Costs 2 Actions).** If she is wearing the Black Dragon Mask, Rezmir can take up to two legendary actions between each of her turns, taking the actions all at once or spreading them over the round. A legendary action can be taken only at the start or end of a turn.
+>- **Darkness (Costs 2 Actions)**
+>	- If she is wearing the Black Dragon Mask, Rezmir can take up to two legendary actions between each of her turns, taking the actions all at once or spreading them over the round. A legendary action can be taken only at the start or end of a turn.
 A 15-foot radius of magical darkness extends from a point Rezmir can see within 60 feet of her and spreads around corners. The darkness lasts as long as Rezmir maintains concentration, up to 1 minute. A creature with darkvision can't see through this darkness, and no natural light can illuminate it. If any of the area overlaps with a area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
->- **Attack.** Rezmir makes one melee attack.
->- **Hide.** Rezmir takes the Hide action.
+>- **Attack**
+>	- Rezmir makes one melee attack.
+>- **Hide**
+>	- Rezmir takes the Hide action.

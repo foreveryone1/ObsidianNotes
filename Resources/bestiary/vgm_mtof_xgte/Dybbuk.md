@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dybbuk
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)|
 >___
->- **Skills** Deception +6, Intimidation +4, Perception +4
->- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Abyssal, Common, telepathy 120 ft.
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +6, Intimidation +4, Perception +4
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common, telepathy 120 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Incorporeal Movement.*** The dybbuk can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

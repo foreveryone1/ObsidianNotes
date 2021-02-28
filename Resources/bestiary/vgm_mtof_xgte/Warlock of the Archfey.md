@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warlock of the Arch#fey , 
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|11 (+0)|11 (+0)|12 (+1)|18 (+4)|
 >___
->- **Saving Throws** Wis +3, Cha +6
->- **Skills** Arcana +2, Deception +6, Nature +2, Persuasion +6
->- **Condition Immunities** charmed
->- **Senses** passive Perception 11
->- **Languages** any two languages (usually Sylvan)
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +3, Cha +6
+>- **Skills**
+>	 - Arcana +2, Deception +6, Nature +2, Persuasion +6
+>- **Condition Immunities**
+>	 - charmed
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any two languages (usually Sylvan)
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:  
 >

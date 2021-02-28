@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Bat
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|11 (+0)|2 (-4)|12 (+1)|6 (-2)|
 >___
->- **Senses** blindsight 60 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Echolocation.*** The bat can't use its blindsight while deafened.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sword Wraith Warrior
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)|
 >___
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, frightened, poisoned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** the languages it knew in life
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr3 (700 XP)
 >___
 >***Martial Fury.*** As a bonus action, the sword wraith can make one weapon attack. If it does so, attack rolls against it have advantage until the start of its next turn.  
 >

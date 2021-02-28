@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skeletal Alchemist
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|
 >___
->- **Skills** Arcana +4
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands all languages it knew in life but can't speak
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Arcana +4
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands all languages it knew in life but can't speak
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Magic Resistance.*** The skeletal alchemist has advantage on saving throws against spells and other magical effects.  
 >

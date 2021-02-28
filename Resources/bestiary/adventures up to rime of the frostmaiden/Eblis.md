@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Eblis
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** Auran, Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The eblis's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:  
 >

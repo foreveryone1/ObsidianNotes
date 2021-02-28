@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Girallon
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 >***Aggressive.*** As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see.  
 >

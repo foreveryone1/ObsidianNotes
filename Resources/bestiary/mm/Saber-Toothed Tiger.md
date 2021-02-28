@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Saber-Toothed Tiger
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +3, Stealth +6
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +6
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.  
 >

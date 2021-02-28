@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hashalaq Quori
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|13 (+1)|18 (+4)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Wis +7, Cha +8
->- **Skills** Arcana +12, History +12, Insight +11, Persuasion +8
->- **Damage Resistances** psychic
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Quori
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Wis +7, Cha +8
+>- **Skills**
+>	 - Arcana +12, History +12, Insight +11, Persuasion +8
+>- **Damage Resistances**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Quori
+>
+> #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The quori's spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:  
 >

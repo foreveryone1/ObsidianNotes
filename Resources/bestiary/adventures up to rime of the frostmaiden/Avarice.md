@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Avarice
 >*Medium #humanoid (tiefling), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|14 (+2)|17 (+3)|10 (+0)|9 (-1)|
 >___
->- **Saving Throws** Int +6, Wis +3
->- **Skills** Arcana +6, History +6
->- **Damage Resistances** cold, fire
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Draconic, Infernal, Orc, Yeti
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +3
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Damage Resistances**
+>	 - cold, fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Draconic, Infernal, Orc, Yeti
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Avarice wields a staff of frost with 10 charges (see "Actions" below).  
 >

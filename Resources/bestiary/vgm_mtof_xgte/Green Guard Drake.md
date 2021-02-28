@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Green Guard Drake
 >*Medium #dragon , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)|
 >___
->- **Skills** Perception +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands Draconic but can't speak it
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands Draconic but can't speak it
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The guard drake can breathe air and water.  
 >

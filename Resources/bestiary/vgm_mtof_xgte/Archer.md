@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Archer
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)|
 >___
->- **Skills** Acrobatics +6, Perception +5
->- **Senses** passive Perception 15
->- **Languages** any one language (usually Common)
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +6, Perception +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr3 (700 XP)
 >___
 >***Archer's Eye (3/Day).*** As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vox Seeker
 >*Tiny #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|10 (+0)|12 (+1)|1 (-5)|10 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Spider Climb.*** The vox seeker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

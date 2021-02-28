@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dimetrodon
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|15 (+2)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Skills** Perception +2
->- **Senses** passive Perception 12
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.

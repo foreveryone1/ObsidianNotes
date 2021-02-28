@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Two-Headed Cerberus
 >*Medium #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|3 (-4)|13 (+1)|6 (-2)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Damage Immunities** fire, necrotic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, stunned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Damage Immunities**
+>	 - fire, necrotic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Setessan Hoplite
 >*Medium #humanoid , any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|
 >___
->- **Saving Throws** Dex +5, Wis +5
->- **Skills** Acrobatics +5, Perception +5, Survival +5
->- **Senses** passive Perception 15
->- **Languages** Common
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +5
+>- **Skills**
+>	 - Acrobatics +5, Perception +5, Survival +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Pack Tactics.*** The hoplite has advantage on an attack roll against a creature if at least one of the hoplite's allies is within 5 feet of the hoplite and the ally isn't incapacitated.  
 >

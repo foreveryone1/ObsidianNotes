@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zilchyn Q'Leptin
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6, Perception +4
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** any four languages, Elvish
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6, Perception +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - any four languages, Elvish
+>
+> #cr6 (2,300 XP)
 >___
 >***Fey Ancestry.*** The zilchyn q'leptin has advantage on saving throws against being charmed, and magic can't put the zilchyn q'leptin to sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nurvureem, The Dark Lady
 >*Huge #dragon , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
 >___
->- **Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
->- **Skills** Perception +11, Stealth +12
->- **Damage Resistances** necrotic
->- **Damage Immunities** acid
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
->- **Languages** Common, Draconic
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +10, Wis +6, Cha +8
+>- **Skills**
+>	 - Perception +11, Stealth +12
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 21
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr14 (11,500 XP)
 >___
 >***Amphibious.*** Nurvureem can breathe air and water.  
 >
@@ -44,6 +55,9 @@
 ## Legendary Actions
 >Nurvureem can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Nurvureem regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Nurvureem makes a Wisdom (Perception) check.
->- **Tail Attack.** Nurvureem makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** Nurvureem beats its wings. Each creature within 10 feet of Nurvureem must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. Nurvureem can then fly up to half its flying speed.
+>- **Detect**
+>	- Nurvureem makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- Nurvureem makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- Nurvureem beats its wings. Each creature within 10 feet of Nurvureem must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. Nurvureem can then fly up to half its flying speed.

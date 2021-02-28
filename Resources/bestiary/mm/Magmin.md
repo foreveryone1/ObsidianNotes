@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Magmin
 >*Small #elemental , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|8 (-1)|11 (+0)|10 (+0)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Ignan
->- ** #cr1-2 ** (100 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Ignan
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.  
 >

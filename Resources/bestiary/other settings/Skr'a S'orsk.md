@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skr'a S'orsk
 >*Medium #humanoid (lizardfolk), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|10 (+0)|15 (+2)|8 (-1)|
 >___
->- **Skills** Perception +4, Stealth +4, Survival +6
->- **Senses** passive Perception 14
->- **Languages** Draconic
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +4, Survival +6
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr2 (450 XP)
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.  
 >

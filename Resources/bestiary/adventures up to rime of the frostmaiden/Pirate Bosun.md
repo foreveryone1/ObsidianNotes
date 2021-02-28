@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pirate Bosun
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|13 (+1)|11 (+0)|10 (+0)|13 (+1)|
 >___
->- **Skills** Athletics +5, Intimidation +3
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +5, Intimidation +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Cargo Hauler.*** The bosun has advantage on Strength checks.  
 >

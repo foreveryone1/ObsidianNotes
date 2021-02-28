@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dragonpriest
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >___
->- **Skills** Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Giant
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Giant
+>
+> #cr5 (1,800 XP)
 >___
 >***Keen Smell.*** The dragonpriest has advantage on Wisdom (Perception) checks that rely on smell.  
 >

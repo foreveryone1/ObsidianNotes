@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dolgaunt
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|
 >___
->- **Skills** Acrobatics +6, Perception +4, Stealth +6
->- **Condition Immunities** blinded
->- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 14
->- **Languages** Deep Speech, Goblin
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +6, Perception +4, Stealth +6
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius), passive Perception 14
+>- **Languages**
+>	 - Deep Speech, Goblin
+>
+> #cr3 (700 XP)
 >___
 >***Evasion.*** If the dolgaunt is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the dolgaunt instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
 >

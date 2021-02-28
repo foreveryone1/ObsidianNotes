@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Minotaur Skeleton
 >*Large #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Abyssal but can't speak
->- #cr2 (450 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.  
 >

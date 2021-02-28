@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Scout
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** any one language (usually Common), Elvish
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Nature +4, Perception +5, Stealth +6, Survival +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Fey Ancestry.*** The drow scout has advantage on saving throws against being charmed, and magic can't put the drow scout to sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vine Blight
 >*Medium #plant , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|8 (-1)|14 (+2)|5 (-3)|10 (+0)|3 (-4)|
 >___
->- **Skills** Stealth +1
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Stealth +1
+>- **Condition Immunities**
+>	 - blinded, deafened
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***False Appearance.*** While the blight remains motionless, it is indistinguishable from a tangle of vines.  
 >

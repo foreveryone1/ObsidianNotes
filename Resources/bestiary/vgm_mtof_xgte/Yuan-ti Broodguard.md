@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yuan-ti Broodguard
 >*Medium #humanoid (yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|6 (-2)|11 (+0)|4 (-3)|
 >___
->- **Saving Throws** Str +4, Dex +4, Wis +2
->- **Skills** Perception +2
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Abyssal, Common, Draconic
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +4, Wis +2
+>- **Skills**
+>	 - Perception +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr2 (450 XP)
 >___
 >***Mental Resistance.*** The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.  
 >

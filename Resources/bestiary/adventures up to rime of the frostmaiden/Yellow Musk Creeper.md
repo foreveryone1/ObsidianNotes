@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yellow Musk Creeper
 >*Medium #plant , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|3 (-4)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
 >___
->- **Condition Immunities** blinded, deafened, exhaustion, prone
->- **Senses** blindsight 30 ft., passive Perception 10
->- **Languages** —
->- #cr2 (450 XP)
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, prone
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***False Appearance.*** While the creeper remains motionless, it is indistinguishable from an ordinary flowering vine.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient White Dragon
 >*Gargantuan #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
->- **Skills** Perception +13, Stealth +6
->- **Damage Immunities** cold
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
->- **Languages** Common, Draconic
->- #cr20 (25,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +14, Wis +7, Cha +8
+>- **Skills**
+>	 - Perception +13, Stealth +6
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 23
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr20 (25,000 XP)
 >___
 >***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.  
 >
@@ -37,9 +47,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Ancient White Dragon
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 A white dragon has feral eyes, a sleek profile, and a spined crest. The scales of a wyrmling white dragon glisten pure white. As the dragon ages, its sheen disappears and some of its scales begin to darken, so that by the time it is old, it is mottled by patches of pale blue and light gray. This patterning helps the dragon blend into the realms of ice and stone in which it hunts, and to fade from view when it soars across a cloud-filled sky.

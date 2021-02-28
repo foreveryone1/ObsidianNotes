@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Inquisitor
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|14 (+2)|16 (+3)|21 (+5)|20 (+5)|
 >___
->- **Saving Throws** Con +7, Wis +10, Cha +10
->- **Skills** Insight +10, Perception +10, Religion +8, Stealth +7
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 20
->- **Languages** Elvish, Undercommon
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Con +7, Wis +10, Cha +10
+>- **Skills**
+>	 - Insight +10, Perception +10, Religion +8, Stealth +7
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 20
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr14 (11,500 XP)
 >___
 >***Discern Lie.*** The drow knows when she hears a creature speak a lie in a language she knows.  
 >

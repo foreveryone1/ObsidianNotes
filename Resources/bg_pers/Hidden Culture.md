@@ -1,6 +1,6 @@
 
 ### Traits
-- Despite its problems, I love my home town, it's the greatest city in the world. The only one for me.
+- Despite its problems, I love my home town, it's the greatest city in the world. The only one for me. ^61949c
 - I move from place to place, never staying anywhere long and leaving nothing behind.
 - I think flattery is the best way to direct attention away from me.
 - I don't make friends easily. They're a liability I cannot afford.

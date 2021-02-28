@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shedrak
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6
->- **Senses** passive Perception 11
->- **Languages** any four languages
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any four languages
+>
+> #cr6 (2,300 XP)
 >___
 >***Eye Tattoos.*** Shedrak has ten small eyes tattooed on his bald head that allow him to see invisible creatures and objects as if they were visible.  
 >

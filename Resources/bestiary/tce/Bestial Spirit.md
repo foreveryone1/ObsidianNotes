@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bestial Spirit
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|4 (-3)|14 (+2)|5 (-3)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Flyby (Air Only).*** The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Strahd's Animated Armor
 >*Medium #construct , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|16 (+3)|9 (-1)|10 (+0)|9 (-1)|
 >___
->- **Skills** Perception +3
->- **Damage Resistances** cold, fire
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 13
->- **Languages** understands Common but can't speak
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Damage Resistances**
+>	 - cold, fire
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 13
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >

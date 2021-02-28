@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Death Kiss
 >*Large #aberration , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Saving Throws** Con +8, Wis +5
->- **Skills** Perception +5
->- **Damage Immunities** lightning
->- **Condition Immunities** prone
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Deep Speech, Undercommon
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +5
+>- **Skills**
+>	 - Perception +5
+>- **Damage Immunities**
+>	 - lightning
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Deep Speech, Undercommon
+>
+> #cr10 (5,900 XP)
 >___
 >***Lightning Blood.*** A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.  
 >

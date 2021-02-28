@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # One-Eyed Shiver
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|13 (+1)|13 (+1)|17 (+3)|
 >___
->- **Skills** Arcana +3, Intimidation +5, Perception +3
->- **Damage Immunities** cold
->- **Senses** passive Perception 13
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Arcana +3, Intimidation +5, Perception +3
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Chilling Mist.*** While it is alive, the one-eyed shiver projects an aura of cold mist within 10 feet of itself. If the one-eyed shiver deals damage to a creature in this area, the creature also takes 5 (1d10) cold damage.  
 >

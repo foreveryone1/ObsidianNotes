@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spellix Romwod
 >*Small #humanoid (gnome), chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|14 (+2)|15 (+2)|9 (-1)|16 (+3)|
 >___
->- **Skills** Arcana +4, Deception +5, History +4
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Draconic, Elvish, Gnomish, Goblin
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Arcana +4, Deception +5, History +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Draconic, Elvish, Gnomish, Goblin
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Gnome Cunning.*** Spellix has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

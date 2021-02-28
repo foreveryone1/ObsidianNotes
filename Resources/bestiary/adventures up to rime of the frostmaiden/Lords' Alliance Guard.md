@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lords' Alliance Guard
 >*Medium #humanoid (dwarf), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Dwarven Resilience.*** The guard has advantage on saving throws against poison.  
 >

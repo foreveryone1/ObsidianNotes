@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elder Brain
 >*Large #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|24 (+7)|
 >___
->- **Saving Throws** Int +10, Wis +9, Cha +12
->- **Skills** Arcana +10, Deception +12, Insight +14, Intimidation +12, Persuasion +12
->- **Senses** blindsight 120 ft., passive Perception 14
->- **Languages** understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Int +10, Wis +9, Cha +12
+>- **Skills**
+>	 - Arcana +10, Deception +12, Insight +14, Intimidation +12, Persuasion +12
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 14
+>- **Languages**
+>	 - understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles
+>
+> #cr14 (11,500 XP)
 >___
 >***Creature Sense.*** The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.  
 >
@@ -42,10 +51,14 @@
 ## Legendary Actions
 >The elder brain can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The elder brain regains spent legendary actions at the start of its turn.
 >
->- **Tentacle.** The elder brain makes a tentacle attack.
->- **Break Concentration.** The elder brain targets a creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's concentration on a spell it has cast. The creature also takes 1d4 psychic damage per level of the spell.
->- **Psychic Pulse.** The elder brain targets a creature within 120 feet of it with which it has a psychic link. Enemies of the elder brain within 10 feet of that creature take 10 (3d6) psychic damage.
->- **Sever Psychic Link.** The elder brain targets a creature within 120 feet of it with which it has a psychic link. The elder brain ends the link, causing the creature to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the creature's next turn.
+>- **Tentacle.**
+> The elder brain makes a tentacle attack.
+>- **Break Concentration.**
+> The elder brain targets a creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's concentration on a spell it has cast. The creature also takes 1d4 psychic damage per level of the spell.
+>- **Psychic Pulse.**
+> The elder brain targets a creature within 120 feet of it with which it has a psychic link. Enemies of the elder brain within 10 feet of that creature take 10 (3d6) psychic damage.
+>- **Sever Psychic Link.**
+> The elder brain targets a creature within 120 feet of it with which it has a psychic link. The elder brain ends the link, causing the creature to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the creature's next turn.
 ## Elder Brain
 The ultimate expression of illithid domination, an elder brain sprawls within a vat of viscous brine, touching the thoughts of creatures near and far. It scrawls upon the canvas of their minds, rewriting their thoughts and authoring their dreams.
 ***Psychic Infiltrators.***  When an elder brain infiltrates a mind, it alters the creature's perception and deceives its senses, causing it to see, hear, touch, taste, or feel reality according to the elder brain's intent. From across great distances, it implants subconscious suggestions or subtly influences dreams to compel creatures toward a course of action that benefits its grand plan.

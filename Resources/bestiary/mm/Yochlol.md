@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yochlol
 >*Medium #fiend (demon, shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|18 (+4)|13 (+1)|15 (+2)|15 (+2)|
 >___
->- **Saving Throws** Dex +6, Int +5, Wis +6, Cha +6
->- **Skills** Deception +10, Insight +6
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Abyssal, Elvish, Undercommon
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +5, Wis +6, Cha +6
+>- **Skills**
+>	 - Deception +10, Insight +6
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Elvish, Undercommon
+>
+> #cr10 (5,900 XP)
 >___
 >***Shapechanger.*** The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

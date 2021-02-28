@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ankylosaurus Zombie
 >*Huge #undead , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|9 (-1)|15 (+2)|2 (-4)|6 (-2)|3 (-4)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.  
 >

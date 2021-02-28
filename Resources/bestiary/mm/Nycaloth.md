@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nycaloth
 >*Large #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)|
 >___
->- **Skills** Intimidation +6, Perception +4, Stealth +4
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Intimidation +6, Perception +4, Stealth +4
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:  
 >

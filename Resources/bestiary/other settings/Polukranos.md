@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Polukranos
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|15 (+2)|21 (+5)|4 (-3)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +14
->- **Damage Immunities** acid
->- **Senses** darkvision 120 ft., passive Perception 24
->- **Languages** —
->- #cr19 (22,000 XP)
+>- **Skills**
+>	 - Perception +14
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 24
+>- **Languages**
+>	 - —
+>
+> #cr19 (22,000 XP)
 >___
 >***Acidic Blood.*** When Polukranos takes piercing or slashing damage, each creature within 5 feet of Polukranos takes 10 (3d6) acid damage.  
 >
@@ -42,9 +51,12 @@
 ## Legendary Actions
 >Polukranos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Polukranos regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Polukranos makes a Wisdom (Perception) check.
->- **Tail Swipe.** Polukranos makes a tail attack.
->- **Trampling Charge (Costs 3 Actions).** Polukranos moves up to 50 feet in a straight line and can move through the space of any creature Huge or smaller. The first time it enters each creature's space during this move, it can make a stomp attack against that creature.
+>- **Detect**
+>	- Polukranos makes a Wisdom (Perception) check.
+>- **Tail Swipe**
+>	- Polukranos makes a tail attack.
+>- **Trampling Charge (Costs 3 Actions)**
+>	- Polukranos moves up to 50 feet in a straight line and can move through the space of any creature Huge or smaller. The first time it enters each creature's space during this move, it can make a stomp attack against that creature.
 ## Polukranos
 Polukranos, called the World Eater, is the mortal manifestation of the eternal ideal of a hydra. In its first incarnation, it fell from Nyx to the mortal world, and so great were its size and strength that the gods Nylea and Heliod combined their power to bind the monster deep within the Nessian Wood. That incarnation was slain, but the eternal ideal remains. A new incarnation of the World Eater is a fearsome omen, as the monster only appears when the pillars of the world tremble and terrible things are afoot in the realm of the gods. Its rampages often presage an age of menace for all civilization.
 What krakens are to the sea and dragons are to the sky, hydras are to the lands of Theros. Various hydras dwell at the fringes of civilization, from the bog-dwelling hydras known across the multiverse to massive ironscale hydras that lurk in deep wildernesses. Beyond even these exist serpentine horrors born of the whims of foul gods, like the legendary hydra Polukranos.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flameskull
 >*Tiny #undead , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)|
 >___
->- **Skills** Arcana +5, Perception +2
->- **Damage Resistances** lightning, necrotic, piercing
->- **Damage Immunities** cold, fire, poison
->- **Condition Immunities** charmed, frightened, paralyzed, poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Arcana +5, Perception +2
+>- **Damage Resistances**
+>	 - lightning, necrotic, piercing
+>- **Damage Immunities**
+>	 - cold, fire, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Illumination.*** The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.  
 >

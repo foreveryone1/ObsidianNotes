@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Redcap
 >*Small #fey , , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|18 (+4)|10 (+0)|12 (+1)|9 (-1)|
 >___
->- **Skills** Athletics +6, Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Sylvan
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +6, Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr3 (700 XP)
 >___
 >***Iron Boots.*** While moving, the redcap has disadvantage on Dexterity (Stealth) checks.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spined Devil
 >*Small #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|8 (-1)|
 >___
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Infernal, telepathy 120 ft.
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr2 (450 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >

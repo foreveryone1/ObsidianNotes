@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Simic Merfolk
 >*Medium #humanoid (merfolk), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
 >___
->- **Skills** Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common, Merfolk
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Merfolk
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Amphibious.*** The merfolk can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hook Horror
 >*Large #monstrosity , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 13
->- **Languages** Hook Horror
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Hook Horror
+>
+> #cr3 (700 XP)
 >___
 >***Echolocation.*** The hook horror can't use its blindsight while deafened.  
 >

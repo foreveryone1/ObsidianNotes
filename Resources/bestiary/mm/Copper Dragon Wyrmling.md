@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Copper Dragon Wyrmling
 >*Medium #dragon , chaotic good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 >___
->- **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
->- **Skills** Perception +4, Stealth +3
->- **Damage Immunities** acid
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +3, Wis +2, Cha +3
+>- **Skills**
+>	 - Perception +4, Stealth +3
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.  

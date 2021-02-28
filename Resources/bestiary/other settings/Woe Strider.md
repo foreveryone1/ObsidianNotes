@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Woe Strider
 >*Large #aberration , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|8 (-1)|14 (+2)|14 (+2)|
 >___
->- **Skills** Intimidation +5, Perception +5
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** telepathy 120 ft.
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Intimidation +5, Perception +5
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - telepathy 120 ft.
+>
+> #cr7 (2,900 XP)
 >___
 >***Antimagic Cone.*** The woe strider's open mouth creates an area of antimagic, as in the antimagic field spell, in a 60-foot cone. At the start of each of its turns, the woe strider decides which way the cone faces and whether its mouth is open or closed.  
 >

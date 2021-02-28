@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Obmi
 >*Medium #humanoid (dwarf), any non-good alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Int +4
->- **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Thieves' cant plus any two languages, Dwarvish
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +4
+>- **Skills**
+>	 - Acrobatics +6, Deception +3, Perception +3, Stealth +9
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Thieves' cant plus any two languages, Dwarvish
+>
+> #cr8 (3,900 XP)
 >___
 >***Assassinate.*** During its first turn, Obmi has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Obmi scores against a surprised creature is a critical hit.  
 >

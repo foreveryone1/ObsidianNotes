@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient Silver Dragon
 >*Gargantuan #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
 >___
->- **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
->- **Skills** Arcana +11, History +11, Perception +16, Stealth +7
->- **Damage Immunities** cold
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
->- **Languages** Common, Draconic
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +16, Wis +9, Cha +13
+>- **Skills**
+>	 - Arcana +11, History +11, Perception +16, Stealth +7
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr23 (50,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
@@ -31,9 +41,10 @@
 >***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.  
 >
 >***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.  
->- **Cold Breath.** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
->
->- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>- **Cold Breath**
+>	- The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+>- **Paralyzing Breath**
+>	- The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >
 >***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).  
@@ -42,9 +53,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	-  The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	-  The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions**
+>	-  The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Ancient Silver Dragon
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury.

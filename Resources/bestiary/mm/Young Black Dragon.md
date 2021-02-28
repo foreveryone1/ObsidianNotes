@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Black Dragon
 >*Large #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
->- **Skills** Perception +6, Stealth +5
->- **Damage Immunities** acid
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
->- **Languages** Common, Draconic
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +6, Wis +3, Cha +5
+>- **Skills**
+>	 - Perception +6, Stealth +5
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr7 (2,900 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >

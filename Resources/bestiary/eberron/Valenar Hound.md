@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Valenar Hound
 >*Medium #fey , , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** understands Common, Elvish, and Sylvan but can't speak
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - understands Common, Elvish, and Sylvan but can't speak
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Bonding.*** The hound can magically bond with one creature it can see, immediately after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the hound bonds with a different creature or until the bonded creature dies. While bonded, the hound and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet.  
 >

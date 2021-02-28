@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Meazel
 >*Medium #humanoid (meazel), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|9 (-1)|14 (+2)|13 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 >***Shadow Stealth.*** While in dim light or darkness, the meazel can take the Hide action as a bonus action.  
 >

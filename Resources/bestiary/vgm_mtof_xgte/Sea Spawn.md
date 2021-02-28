@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sea Spawn
 >*Medium #humanoid , neutral evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|8 (-1)|
 >___
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Aquan and Common but can't speak
->- #cr1 (200 XP)
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Aquan and Common but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Limited Amphibiousness.*** The sea spawn can breathe air and water, but needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating.  
 >

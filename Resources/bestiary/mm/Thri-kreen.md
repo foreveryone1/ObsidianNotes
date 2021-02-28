@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thri-kreen
 >*Medium #humanoid (thri-kreen), chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|13 (+1)|8 (-1)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +4, Survival +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Thri-kreen
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4, Survival +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Thri-kreen
+>
+> #cr1 (200 XP)
 >___
 >***Chameleon Carapace.*** The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.  
 >

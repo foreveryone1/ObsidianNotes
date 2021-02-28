@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jarl Storvald
 >*Huge #giant , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|9 (-1)|21 (+5)|9 (-1)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +8, Wis +6, Cha +6
->- **Skills** Athletics +9, Perception +6
->- **Damage Immunities** cold
->- **Senses** passive Perception 13
->- **Languages** Common, Giant, Giant Owl
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +6, Cha +6
+>- **Skills**
+>	 - Athletics +9, Perception +6
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Giant, Giant Owl
+>
+> #cr8 (3,900 XP)
 >___
 >***Spellcasting.*** Jarl Storvald is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He knows the following ranger spells:  
 >

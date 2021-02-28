@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nimira
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Dwarvish, Undercommon
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Duergar Resilience.*** Nimira has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >

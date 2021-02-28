@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mind Mage
 >*Medium #humanoid (any race), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|20 (+5)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +8, Wis +5
->- **Skills** Arcana +8, Deception +6, Insight +5, Persuasion +6
->- **Senses** passive Perception 12
->- **Languages** Common plus any four languages
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +8, Wis +5
+>- **Skills**
+>	 - Arcana +8, Deception +6, Insight +5, Persuasion +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common plus any four languages
+>
+> #cr5 (1,800 XP)
 >___
 >***Special Equipment.*** The mage wears a spies' murmur (see chapter 5).  
 >

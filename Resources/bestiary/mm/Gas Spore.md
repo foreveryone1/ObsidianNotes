@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gas Spore
 >*Large #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|1 (-5)|3 (-4)|1 (-5)|1 (-5)|1 (-5)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, deafened, frightened, paralyzed, poisoned, prone
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 5
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, deafened, frightened, paralyzed, poisoned, prone
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 5
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (3d6) poison damage and become infected with a disease on a failed save. Creatures immune to the poisoned condition are immune to this disease.  
 >Spores invade an infected creature's system, killing the creature in a number of hours equal to 1d12 + the creature's Constitution score, unless the disease is removed. In half that time, the creature becomes poisoned for the rest of the duration. After the creature dies, it sprouts 2d4 Tiny gas spores that grow to full size in 7 days.  

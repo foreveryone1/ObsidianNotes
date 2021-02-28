@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jenks
 >*Small #humanoid (human), neutral*
 ## Monster Traits
@@ -10,7 +14,10 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- #crUnknown
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #crUnknown
 >___

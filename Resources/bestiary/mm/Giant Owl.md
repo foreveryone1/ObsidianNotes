@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Owl
 >*Large #beast , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|12 (+1)|8 (-1)|13 (+1)|10 (+0)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

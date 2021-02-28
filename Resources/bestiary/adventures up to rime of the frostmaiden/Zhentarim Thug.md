@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zhentarim Thug
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Intimidation +2
->- **Senses** passive Perception 10
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Intimidation +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sildar Hallwinter
 >*Medium #humanoid (human), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|10 (+0)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Str +3, Con +3
->- **Skills** Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Str +3, Con +3
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Multiattack.*** Sildar makes two melee attacks.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stonemelder
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|16 (+3)|12 (+1)|11 (+0)|17 (+3)|
 >___
->- **Skills** Intimidation +5, Perception +2
->- **Senses** tremorsense 30 ft., passive Perception 12
->- **Languages** Common, Terran
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Intimidation +5, Perception +2
+>- **Senses**
+>	 - tremorsense 30 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Terran
+>
+> #cr4 (1,100 XP)
 >___
 >***Death Burst.*** When the Stonemelder dies, it turns to stone and explodes in a burst of rock shards, becoming a smoking pile of rubble. Each creature within 10 feet of the exploding Stonemelder must make a DC 14 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one.  
 >

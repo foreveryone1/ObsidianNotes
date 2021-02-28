@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shago
 >*Medium #humanoid (human), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Str +7, Dex +5, Con +6
->- **Skills** Athletics +10, Intimidation +5, Survival +7
->- **Senses** passive Perception 11
->- **Languages** any one language (usually Common)
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Dex +5, Con +6
+>- **Skills**
+>	 - Athletics +10, Intimidation +5, Survival +7
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr5 (1,800 XP)
 >___
 >***Brave.*** Shago has advantage on saving throws against being frightened.  
 >

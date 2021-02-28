@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Ice Toad
 >*Large #monstrosity , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|8 (-1)|10 (+0)|6 (-2)|
 >___
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Ice Toad
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Ice Toad
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** The toad can breathe air and water.  
 >

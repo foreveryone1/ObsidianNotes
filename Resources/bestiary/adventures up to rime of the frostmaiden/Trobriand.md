@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Trobriand
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|9 (-1)|20 (+5)|20 (+5)|11 (+0)|1 (-5)|
 >___
->- **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr22 (41,000 XP)
+>- **Damage Immunities**
+>	 - fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr22 (41,000 XP)
 >___
 >***Fire Absorption.*** Whenever Trobriand is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.  
 >

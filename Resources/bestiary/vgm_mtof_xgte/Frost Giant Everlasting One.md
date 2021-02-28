@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frost Giant Everlasting One
 >*Huge giant (frost giant), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|24 (+7)|9 (-1)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Str +11, Con +11, Wis +4
->- **Skills** Athletics +11, Perception +4
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Giant
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Str +11, Con +11, Wis +4
+>- **Skills**
+>	 - Athletics +11, Perception +4
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Giant
+>
+> #cr12 (8,400 XP)
 >___
 >***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.  
 >

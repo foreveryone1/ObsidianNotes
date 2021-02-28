@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bullywug Royal
 >*Medium #humanoid (bullywug), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|14 (+2)|10 (+0)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Str +5, Dex +3
->- **Skills** Athletics +5, Intimidation +4, Stealth +3
->- **Senses** passive Perception 10
->- **Languages** Bullywug
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +5, Dex +3
+>- **Skills**
+>	 - Athletics +5, Intimidation +4, Stealth +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Bullywug
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** The royal can breathe air and water.  
 >

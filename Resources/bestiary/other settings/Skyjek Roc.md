@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skyjek Roc
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|13 (+1)|14 (+2)|3 (-4)|10 (+0)|8 (-1)|
 >___
->- **Saving Throws** Dex +3, Wis +2
->- **Skills** Perception +2
->- **Senses** passive Perception 12
->- **Languages** —
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +3, Wis +2
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Keen Sight.*** The roc has advantage on Wisdom (Perception) checks that rely on sight.  
 >

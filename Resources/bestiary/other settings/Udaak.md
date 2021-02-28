@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Udaak
 >*Gargantuan #fiend , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|14 (+2)|22 (+6)|3 (-4)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Str +13, Con +11
->- **Damage Vulnerabilities** thunder
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** frightened, grappled, poisoned, restrained
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** —
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Str +13, Con +11
+>- **Damage Vulnerabilities**
+>	 - thunder
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - frightened, grappled, poisoned, restrained
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr16 (15,000 XP)
 >___
 >***Charge.*** If the udaak moves at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 27 (6d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away from the udaak and knocked prone.  
 >

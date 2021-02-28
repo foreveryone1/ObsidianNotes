@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hydra
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|2 (-4)|10 (+0)|7 (-2)|
 >___
->- **Skills** Perception +6
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Perception +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Hold Breath.*** The hydra can hold its breath for 1 hour.  
 >

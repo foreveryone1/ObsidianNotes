@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ezzat
 >*Medium #undead , any evil alignment*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Int +12, Wis +9
->- **Skills** Arcana +19, History +12, Insight +9, Perception +9
->- **Damage Resistances** cold, lightning, necrotic
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** truesight 120 ft., passive Perception 19
->- **Languages** Common, Dwarvish, Draconic, Elvish, Sylvan, Undercommon
->- #cr21 (33,000 XP) or 22 (41,000 XP) when encountered in lair
+>- **Saving Throws**
+>	 - Con +10, Int +12, Wis +9
+>- **Skills**
+>	 - Arcana +19, History +12, Insight +9, Perception +9
+>- **Damage Resistances**
+>	 - cold, lightning, necrotic
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Dwarvish, Draconic, Elvish, Sylvan, Undercommon
+>
+> #cr21 (33,000 XP) or 22 (41,000 XP) when encountered in lair
 >___
 >***Special Equipment.*** Ezzat wears an amulet of proof against detection and location.  
 >
@@ -47,7 +59,11 @@
 ## Legendary Actions
 >The ezzat can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ezzat regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** Ezzat casts a cantrip.
->- **Paralyzing Touch (Costs 2 Actions).** Ezzat uses its Paralyzing Touch.
->- **Frightening Gaze (Costs 2 Actions).** Ezzat fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Ezzat's gaze for the next 24 hours.
->- **Disrupt Life (Costs 3 Actions).** Each non-undead creature within 20 feet of Ezzat must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>- **Cantrip**
+>	- Ezzat casts a cantrip.
+>- **Paralyzing Touch (Costs 2 Actions)**
+>	- Ezzat uses its Paralyzing Touch.
+>- **Frightening Gaze (Costs 2 Actions)**
+>	- Ezzat fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Ezzat's gaze for the next 24 hours.
+>- **Disrupt Life (Costs 3 Actions)**
+>	- Each non-undead creature within 20 feet of Ezzat must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.

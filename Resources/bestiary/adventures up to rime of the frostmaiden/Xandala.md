@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Xandala
 >*Medium #humanoid (half-elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|11 (+0)|14 (+2)|18 (+4)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Int +7, Wis +6
->- **Skills** Arcana +7, Deception +10, History +7, Insight +6, Survival +6
->- **Senses** passive Perception 13
->- **Languages** Common, Draconic, Dwarvish, Elvish, Halfling
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +6
+>- **Skills**
+>	 - Arcana +7, Deception +10, History +7, Insight +6, Survival +6
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish, Halfling
+>
+> #cr7 (2,900 XP)
 >___
 >***Quickened Spell (3/Day).*** When she casts a spell that has a casting time of 1 action, Xandala changes the casting time to 1 bonus action for that casting.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spellcaster (Healer)
 >*11th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|18 (+4)|13 (+1)|
 >___
->- **Saving Throws** Wis +8
->- **Skills** Arcana +6, Investigation +6, Religion +6
->- **Senses** passive Perception 14
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Wis +8
+>- **Skills**
+>	 - Arcana +6, Investigation +6, Religion +6
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Empowered Spells.*** Whenever the spellcaster casts a spell of the evocation school by expending a spell slot, the spellcaster can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.  
 >

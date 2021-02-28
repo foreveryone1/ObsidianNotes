@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warforged Soldier
 >*Medium #humanoid (warforged), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|16 (+3)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Athletics +5, Perception +4, Survival +4
->- **Damage Resistances** poison
->- **Senses** passive Perception 14
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +4, Survival +4
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 >***Warforged Resilience.*** The warforged has advantage on saving throws against being poisoned and is immune to disease. Magic can't put it to sleep.  
 >

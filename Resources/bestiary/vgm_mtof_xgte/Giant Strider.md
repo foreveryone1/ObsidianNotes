@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Strider
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|4 (-3)|12 (+1)|6 (-2)|
 >___
->- **Damage Immunities** fire
->- **Senses** passive Perception 11
->- **Languages** —
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Fire Absorption.*** Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt.  
 >

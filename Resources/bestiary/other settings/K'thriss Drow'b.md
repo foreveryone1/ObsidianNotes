@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # K'thriss Drow'b
 >*Medium #humanoid (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|18 (+4)|
 >___
->- **Saving Throws** Str +0, Dex +3, Con +2, Int +3, Wis +3, Cha +7
->- **Skills** Arcana +4, Insight +2, Investigation +4, Perception +2, Religion +4
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** #celestial , Common, Elvish, Undercommon; can read all writing
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +0, Dex +3, Con +2, Int +3, Wis +3, Cha +7
+>- **Skills**
+>	 - Arcana +4, Insight +2, Investigation +4, Perception +2, Religion +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - #celestial , Common, Elvish, Undercommon; can read all writing
+>
+> #cr3 (700 XP)
 >___
 >***Special Equipment.*** K'thriss wears a robe of stars (accounted for in his statistics). The robe allows him to cast the following spells: 6/day: magic missile (7 missiles)  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hedrun Arnsfirth
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Arcana +3, Perception +4
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** the languages it knew in life
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Arcana +3, Perception +4
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr3 (700 XP)
 >___
 >***Innate Spellcasting.*** Hedrun's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bel
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|14 (+2)|26 (+8)|25 (+7)|19 (+4)|26 (+8)|
 >___
->- **Saving Throws** Dex +10, Con +16, Wis +12
->- **Skills** Arcana +15, Deception +16, Insight +12, Persuasion +16
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 14
->- **Languages** Common, Infernal, telepathy 120 ft.
->- #cr25 (75,000 XP)
+>- **Saving Throws**
+>	 - Dex +10, Con +16, Wis +12
+>- **Skills**
+>	 - Arcana +15, Deception +16, Insight +12, Persuasion +16
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Infernal, telepathy 120 ft.
+>
+> #cr25 (75,000 XP)
 >___
 >***Fear Aura.*** Any creature hostile to Bel that starts its turn within 20 feet of him must make a DC 23 Wisdom saving throw, unless Bel is incapacitated. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to Bel's Fear Aura for the next 24 hours.  
 >
@@ -44,9 +56,12 @@
 ## Legendary Actions
 >The bel can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The bel regains spent legendary actions at the start of its turn.
 >
->- **Fireball.** Bel casts fireball.
->- **Tactical Edge (Costs 2 Actions).** Roll a d6 for Bel. The number rolled on the die is subtracted from the next attack roll made against Bel or an ally of his choice within the next minute.
->- **Summon Ice Devil (Costs 3 Actions).** Bel magically summons an ice devil with an ice spear (as described in the ice devil's entry in the Monster Manual). The ice devil appears in an unoccupied space within 60 feet of Bel, acts as Bel's ally, and can summon other devils if it has such power. The ice devil remains until Bel dies or until he dismisses it as an action.
+>- **Fireball**
+>	- Bel casts fireball.
+>- **Tactical Edge (Costs 2 Actions)**
+>	- Roll a d6 for Bel. The number rolled on the die is subtracted from the next attack roll made against Bel or an ally of his choice within the next minute.
+>- **Summon Ice Devil (Costs 3 Actions)**
+>	- Bel magically summons an ice devil with an ice spear (as described in the ice devil's entry in the Monster Manual). The ice devil appears in an unoccupied space within 60 feet of Bel, acts as Bel's ally, and can summon other devils if it has such power. The ice devil remains until Bel dies or until he dismisses it as an action.
 ## Bel
 From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
 Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Zariel's rulership of the layer of the Nine Hells that was once his, but he won't challenge her directly as long as he thinks Asmodeus supports Zariel.

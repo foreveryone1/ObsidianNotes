@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Octopus
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|13 (+1)|4 (-3)|10 (+0)|4 (-3)|
 >___
->- **Skills** Perception +4, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Hold Breath.*** While out of water, the octopus can hold its breath for 1 hour.  
 >

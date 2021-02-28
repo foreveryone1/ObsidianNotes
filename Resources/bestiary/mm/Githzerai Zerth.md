@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githzerai Zerth
 >*Medium #humanoid (gith), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|15 (+2)|16 (+3)|17 (+3)|12 (+1)|
 >___
->- **Saving Throws** Str +4, Dex +7, Int +6, Wis +6
->- **Skills** Arcana +6, Insight +6, Perception +6
->- **Senses** passive Perception 16
->- **Languages** Gith
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +7, Int +6, Wis +6
+>- **Skills**
+>	 - Arcana +6, Insight +6, Perception +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Gith
+>
+> #cr6 (2,300 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:  
 >

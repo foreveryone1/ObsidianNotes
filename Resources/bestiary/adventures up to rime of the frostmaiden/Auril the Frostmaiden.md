@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Auril the Frostmaiden
 Auril the Frostmaiden is a neutral evil lesser god of cold indifference who embodies winter's cruelty. (For information on what defines a lesser god, see the "Divine Rank" sidebar in the Dungeon Master's Guide.) Auril's beloved ice grasps all things in her clutches, preserving them against the ravages of time. She hoards beauty in all forms, from art objects and flowers to skilled artisans and their wondrous works, freezing them in magical ice for her pleasure alone.
 Auril was aligned with the gods Talos, Umberlee, and Malar. Together they wrought terrible destruction, inspiring fear that compelled tribute to hold their power at bay. Umberlee, queen of the wrathful sea, grew to despise the enduring nature of the ice and snow Auril created. Umberlee seethed when Auril's frigid cold transformed her chaotic, unpredictable tides into rigid, motionless sheets of ice. Umberlee brought Talos and Malar into an alliance against Auril, who retreated to the coldest corner of Toril to escape their fury.

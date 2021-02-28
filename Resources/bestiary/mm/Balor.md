@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Balor
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
 >___
->- **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
->- **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 13
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr19 (22,000 XP)
+>- **Saving Throws**
+>	 - Str +14, Con +12, Wis +9, Cha +12
+>- **Damage Resistances**
+>	 - cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr19 (22,000 XP)
 >___
 >***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.  
 >

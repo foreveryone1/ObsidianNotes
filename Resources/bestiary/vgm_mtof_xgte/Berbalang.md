@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Berbalang
 >*Medium #aberration , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|9 (-1)|17 (+3)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Dex +5, Int +5
->- **Skills** Arcana +5, History +5, Insight +2, Perception +2, Religion +5
->- **Senses** truesight 120 ft., passive Perception 12
->- **Languages** all but rarely speaks
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +5, Int +5
+>- **Skills**
+>	 - Arcana +5, History +5, Insight +2, Perception +2, Religion +5
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 12
+>- **Languages**
+>	 - all but rarely speaks
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** The berbalang's innate spellcasting ability is Intelligence (spell save DC 13). The berbalang can innately cast the following spells, requiring no material components:  
 >

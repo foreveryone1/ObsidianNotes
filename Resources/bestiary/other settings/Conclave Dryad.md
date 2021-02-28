@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Conclave Dryad
 >*Medium #fey , , lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|19 (+4)|14 (+2)|19 (+4)|20 (+5)|21 (+5)|
 >___
->- **Saving Throws** Int +8, Wis +9, Cha +9
->- **Skills** Arcana +8, Nature +8, Perception +9
->- **Senses** darkvision 60 ft., passive Perception 19
->- **Languages** Common, Elvish, Sylvan
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +8, Wis +9, Cha +9
+>- **Skills**
+>	 - Arcana +8, Nature +8, Perception +9
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 17). The dryad can innately cast the following spells, requiring no material components:  
 >

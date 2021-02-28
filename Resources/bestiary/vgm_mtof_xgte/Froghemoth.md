@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Froghemoth
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|20 (+5)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Saving Throws** Con +9, Wis +5
->- **Skills** Perception +9, Stealth +5
->- **Damage Resistances** fire, lightning
->- **Senses** darkvision 60 ft., passive Perception 19
->- **Languages** —
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +5
+>- **Skills**
+>	 - Perception +9, Stealth +5
+>- **Damage Resistances**
+>	 - fire, lightning
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 19
+>- **Languages**
+>	 - —
+>
+> #cr10 (5,900 XP)
 >___
 >***Amphibious.*** The froghemoth can breathe air and water.  
 >

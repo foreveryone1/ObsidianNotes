@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Wretched
 >*Small #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|12 (+1)|9 (-1)|5 (-3)|6 (-2)|5 (-3)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing while in dim light or darkness
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Wretched Pack Tactics.*** The Wretched has advantage on an attack roll against a creature if at least one of the Wretched's allies is within 5 feet of the creature and the ally isn't incapacitated. The Wretched otherwise has disadvantage on attack rolls.  
 >

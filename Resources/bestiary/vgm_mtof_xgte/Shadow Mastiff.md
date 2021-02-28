@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadow Mastiff
 >*Medium #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)|
 >___
->- **Skills** Perception +3, Stealth +6
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +6
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.  
 >

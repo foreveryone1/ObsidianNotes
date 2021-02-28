@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sacred Statue
 >*Large #construct , as the eidolon's alignment*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|19 (+4)|14 (+2)|19 (+4)|16 (+3)|
 >___
->- **Saving Throws** Wis +8
->- **Damage Resistances** acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** the languages the eidolon knew in life
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Wis +8
+>- **Damage Resistances**
+>	 - acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - the languages the eidolon knew in life
+>
+> #cr-unavailable
 >___
 >***False Appearance.*** While the statue remains motionless, it is indistinguishable from a normal statue.  
 >

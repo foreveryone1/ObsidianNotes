@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kruthik Hive Lord
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|17 (+3)|10 (+0)|14 (+2)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 12
->- **Languages** Kruthik
->- #cr5 (1,800 XP)
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 12
+>- **Languages**
+>	 - Kruthik
+>
+> #cr5 (1,800 XP)
 >___
 >***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Manshoon Simulacrum
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|23 (+6)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Str +3, Dex +5, Con +4, Int +12, Wis +8, Cha +6
->- **Skills** Arcana +12, History +12
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Draconic, Goblin, Infernal, Orc, Undercommon
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Str +3, Dex +5, Con +4, Int +12, Wis +8, Cha +6
+>- **Skills**
+>	 - Arcana +12, History +12
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Goblin, Infernal, Orc, Undercommon
+>
+> #cr8 (3,900 XP)
 >___
 >***Spellcasting.*** Manshoon is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 21, +15 to hit with spell attacks). He has the following wizard spells prepared:  
 >

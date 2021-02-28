@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cow
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Charge.*** If the cow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.  
 >

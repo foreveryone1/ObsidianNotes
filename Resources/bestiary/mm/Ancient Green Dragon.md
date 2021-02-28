@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient Green Dragon
 >*Gargantuan #dragon , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 >___
->- **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
->- **Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
->- **Languages** Common, Draconic
->- #cr22 (41,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +14, Wis +10, Cha +11
+>- **Skills**
+>	 - Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 27
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr22 (41,000 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
@@ -38,9 +49,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Ancient Green Dragon
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 A green dragon is recognized by its curved jawline and the crest that begins near its eyes and continues down its spine, reaching full height just behind the skull. A green dragon has no external ears, but bears leathery spiked plates that run down the sides of its neck.

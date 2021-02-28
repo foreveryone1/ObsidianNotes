@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold Commoner
 >*Small #humanoid (kobold), any alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common), Draconic
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Draconic
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Pack Tactics.*** The kobold commoner has advantage on an attack roll against a creature if at least one of their allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

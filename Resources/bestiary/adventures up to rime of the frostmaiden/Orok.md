@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orok
 >*Small #humanoid (human), chaotic neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|9 (-1)|8 (-1)|7 (-2)|8 (-1)|
 >___
->- **Senses** passive Perception 8
->- **Languages** Bothii, Common
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - passive Perception 8
+>- **Languages**
+>	 - Bothii, Common
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Pack Tactics.*** Orok has advantage on an attack roll against a creature if at least one of Orok's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

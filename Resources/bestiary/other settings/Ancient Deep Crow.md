@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient Deep Crow
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|23 (+6)|10 (+0)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Con +11, Wis +7
->- **Skills** Perception +7, Stealth +13
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 17
->- **Languages** Deep Crow
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +7
+>- **Skills**
+>	 - Perception +7, Stealth +13
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Deep Crow
+>
+> #cr15 (13,000 XP)
 >___
 >***Magic Resistance.*** The ancient deep crow has advantage on saving throws against spells and other magical effects.  
 >
@@ -33,9 +43,15 @@
 ## Legendary Actions
 >The ancient deep crow can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ancient deep crow regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The deep crow makes a Wisdom (Perception) check.
->- **Shadow Caw (Costs 2 Actions).** The ancient deep crow uses Shadow Caw.
->- **Wing Attack (Costs 2 Actions).** The ancient deep crow beats its wings. Each creature within 10 feet of the deep crow must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The ancient deep crow can then fly up to half its flying speed.
+>- **Detect**
+>	- 
+>	- The deep crow makes a Wisdom (Perception) check.
+>- **Shadow Caw (Costs 2 Actions)**
+>	- 
+>	- The ancient deep crow uses Shadow Caw.
+>- **Wing Attack (Costs 2 Actions)**
+>	- 
+>	- The ancient deep crow beats its wings. Each creature within 10 feet of the deep crow must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The ancient deep crow can then fly up to half its flying speed.
 ## Ancient Deep Crow
 So little is known of the deep crows that even less is known of their monstrous leviathan cousins, the ancient deep crows. Whether these gargantuan specimens are elder deep crows grown to great size or some higher form that holds lesser deep crows in thrall remains to be determined. Ideally by someone else. Seriously, stay away from these things.
 #### Regional Effects

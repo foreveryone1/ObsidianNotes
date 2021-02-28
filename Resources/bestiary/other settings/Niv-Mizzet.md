@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Niv-Mizzet
 >*Gargantuan #dragon , chaotic neutral*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|29 (+9)|30 (+10)|17 (+3)|25 (+7)|
 >___
->- **Saving Throws** Con +17, Int +18, Wis +11
->- **Skills** Arcana +18, Insight +11, Perception +11
->- **Damage Resistances** cold, psychic, thunder
->- **Damage Immunities** fire, lightning
->- **Condition Immunities** charmed
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
->- **Languages** Common, Draconic
->- #cr26 (90,000 XP)
+>- **Saving Throws**
+>	 - Con +17, Int +18, Wis +11
+>- **Skills**
+>	 - Arcana +18, Insight +11, Perception +11
+>- **Damage Resistances**
+>	 - cold, psychic, thunder
+>- **Damage Immunities**
+>	 - fire, lightning
+>- **Condition Immunities**
+>	 - charmed
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 21
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr26 (90,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Niv-Mizzet fails a saving throw, he can choose to succeed instead.  
 >
@@ -54,10 +66,14 @@
 ## Legendary Actions
 >Niv-Mizzet can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Niv-Mizzet regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** Niv-Mizzet casts one of his cantrips.
->- **Tail Attack.** Niv-Mizzet makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** Niv-Mizzet beats his wings. Each creature within 15 feet of him must succeed on a DC 25 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning damage and be knocked prone. Niv-Mizzet can then fly up to half his flying speed.
->- **Dracogenius (Costs 3 Actions).** Niv-Mizzet regains a spell slot of 3rd level or lower.
+>- **Cantrip**
+>	- Niv-Mizzet casts one of his cantrips.
+>- **Tail Attack**
+>	- Niv-Mizzet makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- Niv-Mizzet beats his wings. Each creature within 15 feet of him must succeed on a DC 25 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning damage and be knocked prone. Niv-Mizzet can then fly up to half his flying speed.
+>- **Dracogenius (Costs 3 Actions)**
+>	- Niv-Mizzet regains a spell slot of 3rd level or lower.
 ## Niv-Mizzet
 Possessed of arrogance and vanity that matches his vast intellect and tremendous power, Niv-Mizzet is the ancient dragon who founded and continues to control the Izzet League. From his private laboratory at the top of the Izzet guildhall, Niv-Mizzet directs the research and experiments of his countless underlings. He coordinates a tremendous number of apparently unrelated projects, working toward some mysterious end.
 There can be little doubt that this ancient dragon is one of the most intelligent beings on Ravnica and one of the world's most powerful spellcasters. He is just as acquisitive as any #dragon , but his treasure is scientific and magical knowledge. His ambition is a looming threat in the minds of all the other guildmasters, but confronting him directly is almost unthinkable thanks to the combination of his awesome magical power and the sheer physical threat of a fire-breathing, swordtoothed dragon.

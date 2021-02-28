@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Maccath the Crimson
 >*Medium #humanoid (tiefling), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6
->- **Damage Resistances** fire
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** any four languages, Infernal
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - any four languages, Infernal
+>
+> #cr6 (2,300 XP)
 >___
 >***5etools Note.*** Maccath the Crimson is presented in The Rise of Tiamat as a female tiefling sorcerer and member of the Arcane Brotherhood. The mage statblock, modified with tiefling racial traits, has been provided here for ease of use.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Weretiger
 >*Medium #humanoid (human, shapechanger), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common (can't speak in tiger form)
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common (can't speak in tiger form)
+>
+> #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

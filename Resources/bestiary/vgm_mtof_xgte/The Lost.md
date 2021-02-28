@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Lost
 >*Medium #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|6 (-2)|7 (-2)|5 (-3)|
 >___
->- **Skills** Athletics +6
->- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Athletics +6
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing while in dim light or darkness
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - Common
+>
+> #cr7 (2,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The Lost makes two arm spike attacks.  

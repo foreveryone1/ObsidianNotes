@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oren Yogilvy
 >*Small #humanoid (strongheart halfling), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|13 (+1)|12 (+1)|11 (+0)|10 (+0)|16 (+3)|
 >___
->- **Skills** Perception +2, Performance +7, Persuasion +5
->- **Damage Resistances** poison
->- **Senses** passive Perception 12
->- **Languages** Common, Halfling
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +2, Performance +7, Persuasion +5
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Halfling
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Halfling Nimbleness.*** Oren can move through the space of any creature that is of a size larger than his.  
 >

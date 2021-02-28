@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Diviner
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|18 (+4)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +7, Wis +4
->- **Skills** Arcana +7, History +7
->- **Senses** passive Perception 11
->- **Languages** any four languages
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +4
+>- **Skills**
+>	 - Arcana +7, History +7
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any four languages
+>
+> #cr8 (3,900 XP)
 >___
 >***Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher).*** When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.  
 >

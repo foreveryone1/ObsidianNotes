@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grumink the Renegade
 >*Medium #humanoid (dwarf), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Dex +6, Int +4
->- **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Thieves' cant plus any two languages
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +4
+>- **Skills**
+>	 - Acrobatics +6, Deception +3, Perception +3, Stealth +9
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Thieves' cant plus any two languages
+>
+> #cr8 (3,900 XP)
 >___
 >***Assassinate.*** During its first turn, Grumink has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Grumink scores against a surprised creature is a critical hit.  
 >

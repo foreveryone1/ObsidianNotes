@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Baba Lysaga's Creeping Hut
 >*Gargantuan #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|7 (-2)|20 (+5)|1 (-5)|3 (-4)|3 (-4)|
 >___
->- **Saving Throws** Con +9, Wis +0, Cha +0
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone
->- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 6
->- **Languages** —
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +0, Cha +0
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius), passive Perception 6
+>- **Languages**
+>	 - —
+>
+> #cr11 (7,200 XP)
 >___
 >***Antimagic Susceptibility.*** The hut is incapacitated while the magic gem that animates it is in the area of an antimagic field. If targeted by dispel magic, the hut must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >

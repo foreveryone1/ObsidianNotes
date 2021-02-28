@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grell
 >*Medium #aberration , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|9 (-1)|
 >___
->- **Skills** Perception +4, Stealth +6
->- **Damage Immunities** lightning
->- **Condition Immunities** blinded, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 14
->- **Languages** Grell
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +6
+>- **Damage Immunities**
+>	 - lightning
+>- **Condition Immunities**
+>	 - blinded, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 14
+>- **Languages**
+>	 - Grell
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** The grell makes two attacks: one with its tentacles and one with its beak.  

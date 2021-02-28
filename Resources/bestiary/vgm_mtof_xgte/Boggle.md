@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Boggle
 >*Small #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|13 (+1)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Sleight of Hand +6, Stealth +6
->- **Damage Resistances** fire
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Sylvan
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +3, Sleight of Hand +6, Stealth +6
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Sylvan
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Boggle Oil.*** The boggle excretes nonflammable oil from its pores. The boggle chooses whether the oil is slippery or sticky and can change the oil on its skin from one consistency to another as a bonus action.  
 >Slippery Oil: While coated in slippery oil, the boggle gains advantage on Dexterity (Acrobatics) checks made to escape bonds, squeeze through narrow spaces, and end grapples.  

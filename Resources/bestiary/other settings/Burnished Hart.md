@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Burnished Hart
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|16 (+3)|3 (-4)|15 (+2)|1 (-5)|
 >___
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** understands one language of its creator but can't speak
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Charge.*** If the hart moves at least 20 feet straight toward a target and then hits it with an antlers attack on the same turn, the target takes an extra 7 (2d6) fire damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.  
 >

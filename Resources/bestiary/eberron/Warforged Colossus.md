@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warforged Colossus
 >*Gargantuan #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|11 (+0)|30 (+10)|3 (-4)|11 (+0)|8 (-1)|
 >___
->- **Saving Throws** Int +4, Wis +8, Cha +7
->- **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned
->- **Senses** truesight 150 ft., passive Perception 10
->- **Languages** understands Common but can't speak
->- #cr25 (75,000 XP)
+>- **Saving Throws**
+>	 - Int +4, Wis +8, Cha +7
+>- **Damage Immunities**
+>	 - necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned
+>- **Senses**
+>	 - truesight 150 ft., passive Perception 10
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr25 (75,000 XP)
 >___
 >***Immutable Form.*** The colossus is immune to any spell or effect that would alter its form.  
 >

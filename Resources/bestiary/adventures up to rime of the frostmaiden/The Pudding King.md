@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Pudding King
 >*Small #humanoid (gnome, shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|14 (+2)|12 (+1)|8 (-1)|17 (+3)|
 >___
->- **Saving Throws** Con +6, Cha +7
->- **Skills** Arcana +5, Perception +3, Stealth +7, Survival +3
->- **Damage Resistances** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Abyssal, Gnomish, Terran, Undercommon
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +6, Cha +7
+>- **Skills**
+>	 - Arcana +5, Perception +3, Stealth +7, Survival +3
+>- **Damage Resistances**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Gnomish, Terran, Undercommon
+>
+> #cr4 (1,100 XP)
 >___
 >***Gnome Cunning.*** The Pudding King has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

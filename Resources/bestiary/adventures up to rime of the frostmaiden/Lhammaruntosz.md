@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lhammaruntosz
 >*Huge #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
->- **Skills** Insight +7, Perception +12, Stealth +5
->- **Damage Immunities** lightning
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
->- **Languages** Common, Draconic
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +11, Wis +7, Cha +9
+>- **Skills**
+>	 - Insight +7, Perception +12, Stealth +5
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 22
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr16 (15,000 XP)
 >___
 >***Amphibious.*** Lhammaruntosz can breathe air and water.  
 >
@@ -59,9 +69,12 @@
 ## Legendary Actions
 >Lhammaruntosz can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lhammaruntosz regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Lhammaruntosz makes a Wisdom (Perception) check.
->- **Tail Attack.** Lhammaruntosz makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** Lhammaruntosz beats its wings. Each creature within 10 feet of Lhammaruntosz must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Lhammaruntosz can then fly up to half her flying speed.
+>- **Detect**
+>	- Lhammaruntosz makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- Lhammaruntosz makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- Lhammaruntosz beats its wings. Each creature within 10 feet of Lhammaruntosz must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Lhammaruntosz can then fly up to half her flying speed.
 ## Lhammaruntosz
 Lhammaruntosz, a bronze dragon with the ability to heal quickly, spent decades defending Leilon and the surrounding area as the captain of the Scaly Eye, a fleet that battled pirates and other threats. To honor her deeds, the Swords of Leilon constructed the Bronze Shrine, a massive temple to Bahamut, god of metallic dragons, in a cliff overlooking the sea. The shrine's face is carved in Lhammaruntosz's likeness and includes quarters for the rest of the Scaly Eye and a magic statue of Bahamut, which the dragon can use to commune with the deity.
 In recent decades Lhammaruntosz has retreated inside the shrine, becoming reclusive due to a attack by a disguised demon which has driven her mad. She leaves on rare occasions to hunt for food, returning as soon as possible. Members of the Scaly Eye still live within the Bronze Shrine, as Lhammaruntosz has ordered them to stay on as her guardians.

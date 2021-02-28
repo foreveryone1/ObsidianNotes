@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Purple Worm
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|7 (-2)|22 (+6)|1 (-5)|8 (-1)|4 (-3)|
 >___
->- **Saving Throws** Con +11, Wis +4
->- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
->- **Languages** —
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +4
+>- **Senses**
+>	 - blindsight 30 ft., tremorsense 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr15 (13,000 XP)
 >___
 >***Tunneler.*** The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.  
 >

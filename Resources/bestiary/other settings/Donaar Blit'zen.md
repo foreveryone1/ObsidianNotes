@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Donaar Blit'zen
 >*Medium #humanoid (dragonborn), chaotic good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|8 (-1)|14 (+2)|10 (+0)|10 (+0)|16 (+3)|
 >___
->- **Saving Throws** Wis +2, Cha +5
->- **Skills** History +2, Insight +2, Intimidation +5, Persuasion +5
->- **Damage Resistances** acid
->- **Senses** passive Perception 10
->- **Languages** Common, Draconic, Orc
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Wis +2, Cha +5
+>- **Skills**
+>	 - History +2, Insight +2, Intimidation +5, Persuasion +5
+>- **Damage Resistances**
+>	 - acid
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Draconic, Orc
+>
+> #cr3 (700 XP)
 >___
 >***Champion Challenge (Recharges after a Short or Long Rest).*** As a bonus action, Donaar causes each creature of his choice that he can see within 30 feet of him to make a DC 13 Wisdom saving throw. On a failure, a creature can't willingly move more than 30 feet away from Donaar. This effect ends on the creature if Donaar is incapacitated or dies, or if the creature is moved more than 30 feet away from him.  
 >

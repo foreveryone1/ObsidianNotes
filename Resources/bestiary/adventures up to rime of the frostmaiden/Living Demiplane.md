@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Demiplane
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|10 (+0)|10 (+0)|1 (-5)|10 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Dimensional Form.*** The living spell can enter another creature's space and vice versa, and it can move through a space as narrow as 1 inch wide without squeezing. The living spell can't detach from a solid surface, such as a wall, ceiling, or floor. If it has no surface to attach to, the living spell is destroyed (see "Planar Destruction" below).  
 >

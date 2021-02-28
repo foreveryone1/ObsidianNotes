@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ixitxachitl
 >*Small #aberration , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|12 (+1)|13 (+1)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Abyssal, Ixitxachitl
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, Ixitxachitl
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Count Thullen
 >*Huge #giant , neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|22 (+6)|14 (+2)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Wis +7, Cha +7
->- **Skills** Insight +7, Perception +7
->- **Senses** passive Perception 17
->- **Languages** Common, Draconic, Druidic, Giant
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +10, Wis +7, Cha +7
+>- **Skills**
+>	 - Insight +7, Perception +7
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Common, Draconic, Druidic, Giant
+>
+> #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting.*** Thullen's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:  
 >

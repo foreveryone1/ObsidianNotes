@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ogre Chain Brute
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common, Giant
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Fist.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.  

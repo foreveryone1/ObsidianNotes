@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Hatchling Swarm
 >*Large swarm of tiny beasts, chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|18 (+4)|12 (+1)|3 (-4)|10 (+0)|3 (-4)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Blood Frenzy.*** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

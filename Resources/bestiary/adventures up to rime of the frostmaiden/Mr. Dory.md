@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mr. Dory
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|20 (+5)|19 (+4)|14 (+2)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +8, Wis +6
->- **Skills** Athletics +5, Perception +6, Stealth +9
->- **Damage Immunities** necrotic
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Abyssal, Common, Deep Speech, telepathy 60 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +6
+>- **Skills**
+>	 - Athletics +5, Perception +6, Stealth +9
+>- **Damage Immunities**
+>	 - necrotic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Abyssal, Common, Deep Speech, telepathy 60 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting.*** Mr. Dory's innate spellcasting ability is Charisma (save DC 15, +7 to hit with spell attacks). Mr. Dory can innately cast the following spells, requiring no material components:  
 >

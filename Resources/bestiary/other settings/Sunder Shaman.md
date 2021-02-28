@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sunder Shaman
 >*Huge #giant , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|15 (+2)|21 (+5)|10 (+0)|12 (+1)|9 (-1)|
 >___
->- **Saving Throws** Dex +6, Con +9, Wis +5
->- **Skills** Athletics +10, Perception +5
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Giant
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +9, Wis +5
+>- **Skills**
+>	 - Athletics +10, Perception +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Giant
+>
+> #cr10 (5,900 XP)
 >___
 >***Reckless.*** At the start of its turn, the giant can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >

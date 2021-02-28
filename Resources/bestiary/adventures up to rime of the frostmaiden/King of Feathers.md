@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # King of Feathers
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|9 (-1)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Detect Invisibility.*** The King of Feathers can see invisible creatures and objects as if they were visible.  
 >

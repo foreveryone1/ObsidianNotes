@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blue Slaad
 >*Large #aberration , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|7 (-2)|7 (-2)|9 (-1)|
 >___
->- **Skills** Perception +1
->- **Damage Resistances** acid, cold, fire, lightning, thunder
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Slaad, telepathy 60 ft.
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Slaad, telepathy 60 ft.
+>
+> #cr7 (2,900 XP)
 >___
 >***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.  
 >

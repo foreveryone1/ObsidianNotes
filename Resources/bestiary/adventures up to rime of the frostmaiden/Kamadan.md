@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kamadan
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|14 (+2)|3 (-4)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +4, Stealth +7
->- **Senses** passive Perception 14
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +7
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 >***Keen Smell.*** The kamadan has advantage on Wisdom (Perception) checks that rely on smell.  
 >

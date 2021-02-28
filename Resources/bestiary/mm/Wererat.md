@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wererat
 >*Medium #humanoid (human, shapechanger), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** darkvision 60 ft. (rat form only), passive Perception 12
->- **Languages** Common (can't speak in rat form)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - darkvision 60 ft. (rat form only), passive Perception 12
+>- **Languages**
+>	 - Common (can't speak in rat form)
+>
+> #cr2 (450 XP)
 >___
 >***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

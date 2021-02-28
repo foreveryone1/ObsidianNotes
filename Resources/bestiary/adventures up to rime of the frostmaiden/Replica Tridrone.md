@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Replica Tridrone
 >*Medium #construct , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|12 (+1)|9 (-1)|10 (+0)|9 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Modron, can understand Common but speaks only preprogrammed responses
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Modron, can understand Common but speaks only preprogrammed responses
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Axiomatic Mind.*** The tridrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold Vampire Spawn
 >*Small #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|16 (+3)|8 (-1)|8 (-1)|8 (-1)|
 >___
->- **Saving Throws** Dex +6, Wis +1
->- **Skills** Perception +1, Stealth +6
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Draconic
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +1
+>- **Skills**
+>	 - Perception +1, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr3 (700 XP)
 >___
 >***Pack Tactics.*** The vampire has advantage on an attack roll against a creature if at least one of the vampire's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

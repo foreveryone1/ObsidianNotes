@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fire Giant Servant
 >*Huge #giant , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|19 (+4)|5 (-3)|9 (-1)|6 (-2)|
 >___
->- **Skills** Perception +2
->- **Damage Immunities** fire
->- **Senses** passive Perception 12
->- **Languages** Giant
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Giant
+>
+> #cr5 (1,800 XP)
 >___
 ## Actions
 >***Multiattack.*** The giant makes two longsword attacks.  

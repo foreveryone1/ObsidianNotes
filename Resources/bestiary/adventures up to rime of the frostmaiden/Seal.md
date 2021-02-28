@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Seal
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|11 (+0)|3 (-4)|12 (+1)|5 (-3)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Hold Breath.*** The seal can hold its breath for 15 minutes.  
 >

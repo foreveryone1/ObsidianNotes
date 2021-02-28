@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Black Bear
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.  
 >

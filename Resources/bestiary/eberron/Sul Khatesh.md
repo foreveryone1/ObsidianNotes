@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sul Khatesh
 >*Large #fiend , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|21 (+5)|19 (+4)|30 (+10)|22 (+6)|25 (+7)|
 >___
->- **Saving Throws** Con +12, Int +18, Wis +14, Cha +15
->- **Skills** Arcana +18, History +18, Insight +14, Religion +18
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** truesight 120 ft., passive Perception 16
->- **Languages** all, telepathy 150 ft.
->- #cr28 (120,000 XP)
+>- **Saving Throws**
+>	 - Con +12, Int +18, Wis +14, Cha +15
+>- **Skills**
+>	 - Arcana +18, History +18, Insight +14, Religion +18
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 16
+>- **Languages**
+>	 - all, telepathy 150 ft.
+>
+> #cr28 (120,000 XP)
 >___
 >***Innate Spellcasting.*** Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26, +18 to hit with spell attacks). She can innately cast the following spells, requiring no material components:  
 >
@@ -47,9 +59,12 @@
 ## Legendary Actions
 >Sul Khatesh can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Sul Khatesh regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Sul Khatesh makes two attacks with her Arcane Blast or one attack with her magic staff.
->- **Consume Magic (Costs 2 Actions).** Sul Khatesh targets a creature within 120 feet of her who is concentrating on a spell. The target must succeed on a DC 26 Constitution saving throw or its concentration is broken on the spell, and Sul Khatesh gains 5 temporary hit points per level of that spell.
->- **Maddening Secrets (Costs 3 Actions).** Sul Khatesh whispers an arcane secret into the mind of a creature she can see within 60 feet of her. The target must succeed on a DC 26 Wisdom saving throw or expend one of its spell slots of 3rd level or lower and deal 26 (4d12) force damage to each creature within 30 feet of it. A creature that fails the saving throw but can't expend a spell slot is instead stunned until the end of its next turn.
+>- **Attack**
+>	- Sul Khatesh makes two attacks with her Arcane Blast or one attack with her magic staff.
+>- **Consume Magic (Costs 2 Actions)**
+>	- Sul Khatesh targets a creature within 120 feet of her who is concentrating on a spell. The target must succeed on a DC 26 Constitution saving throw or its concentration is broken on the spell, and Sul Khatesh gains 5 temporary hit points per level of that spell.
+>- **Maddening Secrets (Costs 3 Actions)**
+>	- Sul Khatesh whispers an arcane secret into the mind of a creature she can see within 60 feet of her. The target must succeed on a DC 26 Wisdom saving throw or expend one of its spell slots of 3rd level or lower and deal 26 (4d12) force damage to each creature within 30 feet of it. A creature that fails the saving throw but can't expend a spell slot is instead stunned until the end of its next turn.
 ## Sul Khatesh
 Sul Khatesh is known as the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness.
 Sul Khatesh is subtler than the Rage of War. She empowers warlocks and whispers secrets into the minds of wizards and artificers, helping them master spells and create relics they could never shape on their own. But few of those inspired by Sul Khatesh understand what forces they are dealing with, or recognize the danger inherent in her gifts.

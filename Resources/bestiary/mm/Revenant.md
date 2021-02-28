@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Revenant
 >*Medium #undead , neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Str +7, Con +7, Wis +6, Cha +7
->- **Damage Resistances** necrotic, psychic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** the languages it knew in life
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +7, Wis +6, Cha +7
+>- **Damage Resistances**
+>	 - necrotic, psychic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr5 (1,800 XP)
 >___
 >***Regeneration.*** The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.  
 >

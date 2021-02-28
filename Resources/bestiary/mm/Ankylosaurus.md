@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ankylosaurus
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.

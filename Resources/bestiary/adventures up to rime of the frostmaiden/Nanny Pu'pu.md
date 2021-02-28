@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nanny Pu'pu
 >*Medium #fey , , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 >___
->- **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Draconic, Sylvan
->- #cr3 (700 XP) or 5 (1,800 XP) when part of a coven
+>- **Skills**
+>	 - Arcana +3, Deception +4, Perception +4, Stealth +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Draconic, Sylvan
+>
+> #cr3 (700 XP) or 5 (1,800 XP) when part of a coven
 >___
 >***Amphibious.*** Pu'pu can breathe air and water.  
 >

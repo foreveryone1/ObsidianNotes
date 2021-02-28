@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hill Giant Subchief
 >*Huge #giant , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)|9 (-1)|
 >___
->- **Saving Throws** Dex +5, Con +8, Wis +4
->- **Skills** Athletics +12, Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Giant
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +8, Wis +4
+>- **Skills**
+>	 - Athletics +12, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Giant
+>
+> #cr7 (2,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The giant makes two greatclub attacks.  

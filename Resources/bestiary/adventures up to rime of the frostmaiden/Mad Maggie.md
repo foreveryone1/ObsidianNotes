@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mad Maggie
 >*Medium #fiend , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +6, Insight +5, Perception +5, Stealth +5
->- **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Condition Immunities** charmed
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Abyssal, Common, Infernal, Primordial
->- #cr5 (1,800 XP) or 7 (2,900 XP) when part of a coven
+>- **Skills**
+>	 - Deception +6, Insight +5, Perception +5, Stealth +5
+>- **Damage Resistances**
+>	 - cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Condition Immunities**
+>	 - charmed
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Abyssal, Common, Infernal, Primordial
+>
+> #cr5 (1,800 XP) or 7 (2,900 XP) when part of a coven
 >___
 >***Hag Coven.*** When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of Maggies continues to desire more personal power.  
 >A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.  

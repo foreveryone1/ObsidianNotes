@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hybrid Brute
 >*Medium #humanoid (Simic hybrid), neutral good*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|15 (+2)|8 (-1)|11 (+0)|9 (-1)|
 >___
->- **Senses** passive Perception 10
->- **Languages** Common plus any one language
->- #cr2 (450 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The hybrid can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Manticore
 >*Large #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|17 (+3)|7 (-2)|12 (+1)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Tail Spike Regrowth.*** The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.  
 >

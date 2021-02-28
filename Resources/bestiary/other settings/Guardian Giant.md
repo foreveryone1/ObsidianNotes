@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Guardian Giant
 >*Huge #giant , lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|22 (+6)|10 (+0)|18 (+4)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Wis +7
->- **Skills** Insight +7, Perception +10
->- **Senses** passive Perception 20
->- **Languages** Common, Giant
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +7
+>- **Skills**
+>	 - Insight +7, Perception +10
+>- **Senses**
+>	 - passive Perception 20
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr8 (3,900 XP)
 >___
 >***Vigilant.*** The giant can't be surprised.  
 >

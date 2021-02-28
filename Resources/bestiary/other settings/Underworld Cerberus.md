@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Underworld Cerberus
 >*Large #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|18 (+4)|10 (+0)|16 (+3)|9 (-1)|
 >___
->- **Skills** Athletics +7, Perception +9, Stealth +4
->- **Damage Immunities** fire, necrotic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, stunned
->- **Senses** truesight 30 ft., passive Perception 19
->- **Languages** understands all languages but can't speak
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Athletics +7, Perception +9, Stealth +4
+>- **Damage Immunities**
+>	 - fire, necrotic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, stunned
+>- **Senses**
+>	 - truesight 30 ft., passive Perception 19
+>- **Languages**
+>	 - understands all languages but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Aggressive.*** As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.  
 >

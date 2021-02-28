@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nothic
 >*Medium #aberration , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|13 (+1)|10 (+0)|8 (-1)|
 >___
->- **Skills** Arcana +3, Insight +4, Perception +2, Stealth +5
->- **Senses** truesight 120 ft., passive Perception 12
->- **Languages** Undercommon
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +3, Insight +4, Perception +2, Stealth +5
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 12
+>- **Languages**
+>	 - Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Keen Sight.*** The nothic has advantage on Wisdom (Perception) checks that rely on sight.  
 >

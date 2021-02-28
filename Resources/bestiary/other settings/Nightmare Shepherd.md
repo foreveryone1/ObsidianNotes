@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nightmare Shepherd
 >*Large #fiend , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|18 (+4)|14 (+2)|17 (+3)|20 (+5)|
 >___
->- **Saving Throws** Con +8, Wis +7
->- **Skills** Arcana +6, Deception +9, Perception +7, Persuasion +9
->- **Damage Resistances** cold, necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Abyssal, Common, Infernal
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +7
+>- **Skills**
+>	 - Arcana +6, Deception +9, Perception +7, Persuasion +9
+>- **Damage Resistances**
+>	 - cold, necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> #cr11 (7,200 XP)
 >___
 >***Aura of Nightmares.*** Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack and damage rolls. When any other creature that isn't undead or a construct starts its turn within 30 feet of the shepherd, that creature must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage.  
 >

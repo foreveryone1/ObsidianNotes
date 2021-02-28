@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tloques-Popolocas
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Wis +3
->- **Skills** Perception +3, Stealth +6
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** the languages it knew in life
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +3
+>- **Skills**
+>	 - Perception +3, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to Polymorph into a Tiny bat, or back into its true form.  
 >While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its Statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  

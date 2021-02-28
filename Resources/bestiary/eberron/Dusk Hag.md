@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dusk Hag
 >*Medium #fey , , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|17 (+3)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Int +6, Wis +6
->- **Skills** Deception +7, Insight +6, Perception +6
->- **Condition Immunities** blinded, charmed, frightened
->- **Senses** blindsight 60 ft., passive Perception 16
->- **Languages** Common, Giant, Infernal
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +6
+>- **Skills**
+>	 - Deception +7, Insight +6, Perception +6
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Giant, Infernal
+>
+> #cr6 (2,300 XP)
 >___
 >***Innate Spellcasting.*** The hag's spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:  
 >

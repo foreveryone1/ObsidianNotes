@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Embric
 >*Medium #humanoid (Fire genasi), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Str +4, Dex +5, Wis +2
->- **Skills** Athletics +4, Deception +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Primordial
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +5, Wis +2
+>- **Skills**
+>	 - Athletics +4, Deception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Primordial
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** Embric's spellcasting ability is Constitution (+4 to hit with spell attacks). He can innately cast the following spells, requiring no material components:  
 >

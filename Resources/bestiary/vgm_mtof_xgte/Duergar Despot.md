@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Despot
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|5 (-3)|19 (+4)|15 (+2)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Con +8, Wis +6
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Dwarvish, Undercommon
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +6
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The duergar despot's innate spellcasting ability is Intelligence (spell save DC 12). It can cast the following spells, requiring no components:  
 >

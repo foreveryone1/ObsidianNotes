@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mouth of Grolantor
 >*Huge giant (hill giant), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|18 (+4)|5 (-3)|7 (-2)|5 (-3)|
 >___
->- **Skills** Perception +1
->- **Condition Immunities** frightened
->- **Senses** passive Perception 11
->- **Languages** Giant
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Giant
+>
+> #cr6 (2,300 XP)
 >___
 >***Mouth of Madness.*** The giant is immune to confusion spells and similar magic.  
 >On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food. Roll a d10 at the start of each of the giant's turns to determine its action for that turn:  

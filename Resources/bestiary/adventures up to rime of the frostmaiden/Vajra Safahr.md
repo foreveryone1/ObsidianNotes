@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vajra Safahr
 >*Medium #humanoid (human), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|11 (+0)|16 (+3)|
 >___
->- **Saving Throws** Str +2, Dex +4, Con +3, Int +12, Wis +7, Cha +5
->- **Skills** Arcana +10, History +10
->- **Senses** passive Perception 10
->- **Languages** Common, Dwarvish, Elvish, Giant, Halfling, Undercommon
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Str +2, Dex +4, Con +3, Int +12, Wis +7, Cha +5
+>- **Skills**
+>	 - Arcana +10, History +10
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Dwarvish, Elvish, Giant, Halfling, Undercommon
+>
+> #cr13 (10,000 XP)
 >___
 >***Special Equipment.*** Vajra wields the Blackstaff, accounted for in her statistics. Roll 2d10 to determine how many charges the staff has remaining.  
 >

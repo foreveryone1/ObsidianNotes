@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Kavalrachni
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make one melee attack against the same target as a reaction.  
 >

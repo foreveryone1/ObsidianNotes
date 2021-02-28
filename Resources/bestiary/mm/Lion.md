@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lion
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +3, Stealth +6
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +6
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.  
 >

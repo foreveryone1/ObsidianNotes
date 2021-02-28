@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githyanki Kith'rak
 >*Medium #humanoid (gith), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|17 (+3)|
 >___
->- **Saving Throws** Con +7, Int +7, Wis +6
->- **Skills** Intimidation +7, Perception +6
->- **Senses** passive Perception 16
->- **Languages** Gith
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Con +7, Int +7, Wis +6
+>- **Skills**
+>	 - Intimidation +7, Perception +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Gith
+>
+> #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >

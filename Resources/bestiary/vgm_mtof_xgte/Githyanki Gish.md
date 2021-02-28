@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githyanki Gish
 >*Medium #humanoid (gith), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +6, Int +7, Wis +6
->- **Skills** Insight +6, Perception +6, Stealth +6
->- **Senses** passive Perception 16
->- **Languages** Gith
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +6, Int +7, Wis +6
+>- **Skills**
+>	 - Insight +6, Perception +6, Stealth +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Gith
+>
+> #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >

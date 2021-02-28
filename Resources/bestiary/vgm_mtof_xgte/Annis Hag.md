@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Annis Hag
 >*Large #fey , , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)|
 >___
->- **Saving Throws** Con +5
->- **Skills** Deception +5, Perception +5
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common, Giant, Sylvan
->- #cr6 (2,300 XP) or 8 (3,900 XP) when part of a coven
+>- **Saving Throws**
+>	 - Con +5
+>- **Skills**
+>	 - Deception +5, Perception +5
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common, Giant, Sylvan
+>
+> #cr6 (2,300 XP) or 8 (3,900 XP) when part of a coven
 >___
 >***Hag Coven.*** When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.  
 >A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dyrrn
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|21 (+5)|22 (+6)|26 (+8)|23 (+6)|24 (+7)|
 >___
->- **Saving Throws** Int +15, Wis +13, Cha +14
->- **Skills** Arcana +15, History +15, Insight +13, Perception +13
->- **Damage Resistances** poison, psychic
->- **Condition Immunities** blinded, charmed, exhaustion, frightened, poisoned, prone
->- **Senses** truesight 120 ft., passive Perception 23
->- **Languages** Deep Speech, telepathy 120 ft.
->- #cr24 (62,000 XP)
+>- **Saving Throws**
+>	 - Int +15, Wis +13, Cha +14
+>- **Skills**
+>	 - Arcana +15, History +15, Insight +13, Perception +13
+>- **Damage Resistances**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, exhaustion, frightened, poisoned, prone
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 23
+>- **Languages**
+>	 - Deep Speech, telepathy 120 ft.
+>
+> #cr24 (62,000 XP)
 >___
 >***Alien Mind.*** If a creature tries to read Dyrrn's thoughts or deals psychic damage to it, that creature must succeed on a DC 23 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >
@@ -41,9 +52,12 @@
 ## Legendary Actions
 >Dyrrn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Dyrrn regains spent legendary actions at the start of its turn.
 >
->- **Tentacle Whip.** Dyrrn makes one attack with its Tentacle Whip.
->- **Spawn Aberration (Costs 2 Actions).** Dyrrn regurgitates an intellect devourer in an unoccupied space within 5 feet of it. The intellect devourer is under Dyrrn's control and acts immediately after Dyrrn in the initiative order.
->- **Mind Blast (Costs 3 Actions).** Dyrrn magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 23 Intelligence saving throw or take 30 (5d8 + 8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>- **Tentacle Whip**
+>	- Dyrrn makes one attack with its Tentacle Whip.
+>- **Spawn Aberration (Costs 2 Actions)**
+>	- Dyrrn regurgitates an intellect devourer in an unoccupied space within 5 feet of it. The intellect devourer is under Dyrrn's control and acts immediately after Dyrrn in the initiative order.
+>- **Mind Blast (Costs 3 Actions)**
+>	- Dyrrn magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 23 Intelligence saving throw or take 30 (5d8 + 8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ## Dyrrn
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded—the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
 ***Twisting Flesh and Thought.*** The mind flayers of Eberron know Dyrrn as the Overmind, and it serves as the cornerstone of their collective consciousness. Of all the daelkyr, the Corruptor is the most adept at twisting minds and bodies to create monsters. It was Dyrrn who turned goblinoid prisoners into the first dolgaunts and dolgrims, creating the legions that would savage the nations of Khorvaire. Dyrrn is also a prolific creator of symbionts—treasures that tempt people to bind alien entities to their flesh.

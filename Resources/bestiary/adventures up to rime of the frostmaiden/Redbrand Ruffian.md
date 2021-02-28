@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Redbrand Ruffian
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|9 (-1)|9 (-1)|11 (+0)|
 >___
->- **Skills** Intimidation +2
->- **Senses** passive Perception 9
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Intimidation +2
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 ## Actions
 >***Multiattack.*** The ruffian makes two melee attacks.  

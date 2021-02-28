@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Trepsin
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >___
->- **Skills** Perception +2
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Giant
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Giant
+>
+> #cr6 (2,300 XP)
 >___
 >***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.  
 >

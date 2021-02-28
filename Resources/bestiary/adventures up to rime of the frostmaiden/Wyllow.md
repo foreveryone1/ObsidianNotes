@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wyllow
 >*Medium #humanoid (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +9
->- **Skills** Medicine +9, Nature +5, Perception +9
->- **Senses** darkvision 60 ft., passive Perception 19
->- **Languages** Common, Druidic, Elvish
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +9
+>- **Skills**
+>	 - Medicine +9, Nature +5, Perception +9
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Druidic, Elvish
+>
+> #cr12 (8,400 XP)
 >___
 >***Fey Ancestry.*** The wyllow has advantage on saving throws against being charmed, and magic can't put the wyllow to sleep.  
 >

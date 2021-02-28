@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zaroum Al-Saryak
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Str +4, Dex +5, Wis +2
->- **Skills** Athletics +4, Deception +4
->- **Senses** passive Perception 10
->- **Languages** any two languages
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +5, Wis +2
+>- **Skills**
+>	 - Athletics +4, Deception +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any two languages
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Multiattack.*** Zaroum makes three melee attacks: two with its scimitar and one with its dagger. Or Zaroum makes two ranged attacks with its daggers.  

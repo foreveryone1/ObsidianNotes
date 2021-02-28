@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Madam Eva
 >*Medium #humanoid (human), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|11 (+0)|12 (+1)|17 (+3)|20 (+5)|18 (+4)|
 >___
->- **Saving Throws** Con +5
->- **Skills** Arcana +7, Deception +8, Insight +13, Intimidation +8, Perception +9, Religion +7
->- **Senses** passive Perception 19
->- **Languages** Abyssal, Common, Elvish, Infernal
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +5
+>- **Skills**
+>	 - Arcana +7, Deception +8, Insight +13, Intimidation +8, Perception +9, Religion +7
+>- **Senses**
+>	 - passive Perception 19
+>- **Languages**
+>	 - Abyssal, Common, Elvish, Infernal
+>
+> #cr10 (5,900 XP)
 >___
 >***Spellcasting.*** Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following cleric spells prepared:  
 >

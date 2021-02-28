@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grung
 >*Small #humanoid (grung), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|15 (+2)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Dex +4
->- **Skills** Athletics +2, Perception +2, Stealth +4, Survival +2
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 12
->- **Languages** Grung
->- ** #cr1-4 ** (50 XP)
+>- **Saving Throws**
+>	 - Dex +4
+>- **Skills**
+>	 - Athletics +2, Perception +2, Stealth +4, Survival +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Grung
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** The grung can breathe air and water.  
 >

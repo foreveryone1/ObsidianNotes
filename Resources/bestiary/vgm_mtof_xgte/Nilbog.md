@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nilbog
 >*Small #humanoid (goblinoid), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|15 (+2)|
 >___
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Goblin
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The nilbog's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:  
 >

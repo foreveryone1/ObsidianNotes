@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yuan-ti Pureblood
 >*Medium #humanoid (yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|
 >___
->- **Skills** Deception +6, Perception +3, Stealth +3
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Abyssal, Common, Draconic
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Deception +6, Perception +3, Stealth +3
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:  
 >

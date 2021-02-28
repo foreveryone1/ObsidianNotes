@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Blade of Ilneval
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|17 (+3)|10 (+0)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Wis +3
->- **Skills** Insight +3, Intimidation +4, Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Orc
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +3
+>- **Skills**
+>	 - Insight +3, Intimidation +4, Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr4 (1,100 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >

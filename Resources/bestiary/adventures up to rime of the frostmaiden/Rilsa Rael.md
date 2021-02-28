@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rilsa Rael
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|14 (+2)|10 (+0)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Dex +6, Wis +2
->- **Skills** Acrobatics +6, Athletics +4, Deception +4, Perception +2, Sleight of Hand +6, Stealth +6
->- **Senses** passive Perception 12
->- **Languages** Common, Thieves' cant
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +2
+>- **Skills**
+>	 - Acrobatics +6, Athletics +4, Deception +4, Perception +2, Sleight of Hand +6, Stealth +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Thieves' cant
+>
+> #cr3 (700 XP)
 >___
 >***Cunning Action.*** On each of her turns in combat, Rilsa can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

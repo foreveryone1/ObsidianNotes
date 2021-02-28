@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nabassu
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|14 (+2)|21 (+5)|14 (+2)|15 (+2)|17 (+3)|
 >___
->- **Saving Throws** Str +11, Dex +7
->- **Skills** Perception +7
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 17
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Str +11, Dex +7
+>- **Skills**
+>	 - Perception +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr15 (13,000 XP)
 >___
 >***Demonic Shadows.*** The nabassu darkens the area around its body in a 10-foot radius. Nonmagical light can't illuminate this area of dim light.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Peryton
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|13 (+1)|9 (-1)|12 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** passive Perception 15
->- **Languages** understands Common and Elvish but can't speak
->- #cr2 (225 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - understands Common and Elvish but can't speak
+>
+> #cr2 (225 XP)
 >___
 >***Dive Attack.*** If the peryton is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8) damage to the target.  
 >

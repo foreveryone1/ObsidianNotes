@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Three Earrings
 >*Medium #humanoid (tabaxi), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Str +4, Dex +5, Wis +2
->- **Skills** Athletics +4, Deception +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any two languages
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +4, Dex +5, Wis +2
+>- **Skills**
+>	 - Athletics +4, Deception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any two languages
+>
+> #cr2 (450 XP)
 >___
 >***Feline Agility.*** When The three earrings moves on its turn in combat, they can double their speed until the end of the turn. Once they uses this ability, The three earrings can't use it again until they moves 0 feet on one of their turns.  
 >

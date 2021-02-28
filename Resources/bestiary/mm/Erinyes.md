@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Erinyes
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 12
->- **Languages** Infernal, telepathy 120 ft.
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +8, Wis +6, Cha +8
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 12
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr12 (8,400 XP)
 >___
 >***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Homunculus
 >*Tiny #construct , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.  
 >

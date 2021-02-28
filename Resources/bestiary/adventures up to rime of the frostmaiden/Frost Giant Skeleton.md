@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frost Giant Skeleton
 >*Huge #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|9 (-1)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** cold, poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Giant but can't speak
->- #cr6 (2,300 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Giant but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Unusual Nature.*** The skeleton doesn't require air, food, drink, or sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hook Horror Spore Servant
 >*Medium #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|15 (+2)|2 (-4)|6 (-2)|1 (-5)|
 >___
->- **Damage Resistances** poison
->- **Condition Immunities** blinded, charmed, frightened, paralyzed
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened, paralyzed
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** The spore servant makes two hook attacks.  

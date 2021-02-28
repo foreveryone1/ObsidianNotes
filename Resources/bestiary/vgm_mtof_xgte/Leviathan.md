@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Leviathan
 >*Gargantuan #elemental , neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|24 (+7)|30 (+10)|2 (-4)|18 (+4)|17 (+3)|
 >___
->- **Saving Throws** Wis +10, Cha +9
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr20 (25,000 XP)
+>- **Saving Throws**
+>	 - Wis +10, Cha +9
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr20 (25,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the leviathan fails a saving throw, it can choose to succeed instead.  
 >
@@ -40,8 +51,10 @@
 ## Legendary Actions
 >The leviathan can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The leviathan regains spent legendary actions at the start of its turn.
 >
->- **Slam (Costs 2 Actions).** The leviathan makes one slam attack.
->- **Move.** The leviathan moves up to its speed.
+>- **Slam (Costs 2 Actions).**
+> The leviathan makes one slam attack.
+>- **Move.**
+> The leviathan moves up to its speed.
 ## Leviathan
 ***Leviathan.*** A towering wall of water that drags ships down to the ocean's depths and washes away coastal settlements—that phenomenon typifies the destruction a leviathan can unleash on the world. When called forth, a leviathan arises from a large body of water to form an immense serpent-shaped creature.
 ***Elder Elementals.*** On their native planes, elementals sweep across the weird and tempestuous landscape. Some possess greater power, gained by feeding on their lesser kin and adding the essence of creatures they have devoured to their own until they become something extraordinary. When summoned, these elder elementals manifest as beings of apocalyptic capability, entities whose mere existence promises destruction.

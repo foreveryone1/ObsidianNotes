@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mobar
 >*Small #humanoid (goblin, shapechanger), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|10 (+0)|10 (+0)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Goblin (can't speak in bat form)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Goblin (can't speak in bat form)
+>
+> #cr2 (450 XP)
 >___
 >***Shapechanger.*** Mobar can use its action to polymorph into a Medium bat-humanoid hybrid, or into a Large giant bat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

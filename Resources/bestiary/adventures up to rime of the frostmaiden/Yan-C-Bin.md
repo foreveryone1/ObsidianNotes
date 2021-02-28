@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yan-C-Bin
 >*Huge #elemental , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|24 (+7)|24 (+7)|16 (+3)|21 (+5)|23 (+6)|
 >___
->- **Saving Throws** Dex +13, Wis +11, Cha +12
->- **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, poison, thunder
->- **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** blindsight 120 ft., passive Perception 15
->- **Languages** Auran
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Dex +13, Wis +11, Cha +12
+>- **Damage Resistances**
+>	 - cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, poison, thunder
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 15
+>- **Languages**
+>	 - Auran
+>
+> #cr18 (20,000 XP)
 >___
 >***Air Form.*** Yan-C-Bin can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch wide without squeezing if air could pass through that space.  
 >
@@ -46,9 +57,12 @@
 ## Legendary Actions
 >Yan-C-Bin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Yan-C-Bin regains spent legendary actions at the start of its turn.
 >
->- **Peal of Thunder.** Yan-C-Bin unleashes a peal of thunder that can be heard out to a range of 300 feet. Each creature within 30 feet of Yan-C-Bin takes 5 (1d10) thunder damage.
->- **Teleport (Costs 2 Actions).** Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-C-Bin is wearing or carrying is teleported with him.
->- **Suffocate (Costs 3 Actions).** Yan-C-Bin steals the air of one breathing creature he can see within 60 feet of him. The target must make a DC 21 Constitution saving throw. On a failed save, the target drops to 0 hit points and is dying. On a successful save, the target can't breathe or speak until the start of its next turn.
+>- **Peal of Thunder**
+>	- Yan-C-Bin unleashes a peal of thunder that can be heard out to a range of 300 feet. Each creature within 30 feet of Yan-C-Bin takes 5 (1d10) thunder damage.
+>- **Teleport (Costs 2 Actions)**
+>	- Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-C-Bin is wearing or carrying is teleported with him.
+>- **Suffocate (Costs 3 Actions)**
+>	- Yan-C-Bin steals the air of one breathing creature he can see within 60 feet of him. The target must make a DC 21 Constitution saving throw. On a failed save, the target drops to 0 hit points and is dying. On a successful save, the target can't breathe or speak until the start of its next turn.
 ## Yan-C-Bin
 Yan-C-Bin (pronounced yan-see-bin) is the Prince of Evil Air. A being of great wisdom and malice, Yan-C-Bin's plots began at the forging of the worlds. Subtler than the other elemental princes, Yan-C-Bin operates unseen, studying his enemies from afar, ambushing them swiftly, and vanishing before his foes can retaliate.
 His natural form is an invisible vortex of howling, swirling air 30 feet high and 15 feet wide, but Yan-C-Bin sometimes takes the shape of a gaunt, venerable, dark-skinned human with wispy white hair and glowing white eyes. When he wishes to remain unseen, Yan-C-Bin manifests only as a gust of cold wind flowing silently past.

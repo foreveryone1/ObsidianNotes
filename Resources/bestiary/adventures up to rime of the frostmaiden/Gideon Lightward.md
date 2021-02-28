@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gideon Lightward
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,15 +14,24 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|18 (+4)|10 (+0)|18 (+4)|13 (+1)|
 >___
->- **Saving Throws** Dex +4, Con +7, Wis +7
->- **Skills** Insight +7, Religion +6
->- **Damage Vulnerabilities** radiant
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** exhaustion, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +7, Wis +7
+>- **Skills**
+>	 - Insight +7, Religion +6
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - exhaustion, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> #cr6 (2,300 XP)
 >___
 >***Regeneration.*** Gideon regains 10 hit points at the start of each of his turns. If he takes radiant damage, this trait doesn't function at the start of his next turn. Gideon is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.  
 >

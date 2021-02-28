@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Crayfish
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|1 (-5)|9 (-1)|3 (-4)|
 >___
->- **Skills** Stealth +3
->- **Senses** blindsight 30 ft., passive Perception 9
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The giant crayfish can breathe air and water.  
 >

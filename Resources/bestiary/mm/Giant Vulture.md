@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Vulture
 >*Large #beast , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** passive Perception 13
->- **Languages** understands Common but can't speak
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.  
 >

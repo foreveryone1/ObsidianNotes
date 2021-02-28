@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Moorbounder
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|2 (-4)|13 (+1)|5 (-3)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr1 (200 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Standing Leap.*** The moorbounder's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start.  
 >

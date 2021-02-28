@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kostchtchie
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|12 (+1)|27 (+8)|18 (+4)|22 (+6)|19 (+4)|
 >___
->- **Saving Throws** Dex +9, Con +16, Wis +14
->- **Skills** Intimidation +12, Perception +14, Survival +14
->- **Damage Resistances** fire, lightning
->- **Damage Immunities** cold, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** truesight 120 ft, passive Perception 24
->- **Languages** Abyssal, Giant, telepathy 120 ft
->- #cr25 (75,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +16, Wis +14
+>- **Skills**
+>	 - Intimidation +12, Perception +14, Survival +14
+>- **Damage Resistances**
+>	 - fire, lightning
+>- **Damage Immunities**
+>	 - cold, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft, passive Perception 24
+>- **Languages**
+>	 - Abyssal, Giant, telepathy 120 ft
+>
+> #cr25 (75,000 XP)
 >___
 >***Innate Spellcasting.*** Kostchtchie's innate spellcasting ability is Charisma (spell save DC 20). He can innately cast the following spells, requiring no material components:  
 >
@@ -39,9 +51,12 @@
 ## Legendary Actions
 >Kostchtchie can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Kostchtchie regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Kostchtchie makes one melee weapon attack.
->- **Charge.** Kostchtchie moves up to his speed.
->- **Curse (Costs 2 Actions).** Kostchtchie curses one creature he can see within 60 feet of him. The cursed creature gains vulnerability to all damage dealt by Kostchtchie until the end of Kostchtchie's next turn.
+>- **Attack**
+>	- Kostchtchie makes one melee weapon attack.
+>- **Charge**
+>	- Kostchtchie moves up to his speed.
+>- **Curse (Costs 2 Actions)**
+>	- Kostchtchie curses one creature he can see within 60 feet of him. The cursed creature gains vulnerability to all damage dealt by Kostchtchie until the end of Kostchtchie's next turn.
 ## Kostchtchie
 The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.
 Frost giants who forsake their gods and turn to demon worship can summon Kostchtchie with bloody offerings left on altars of hewn ice. If the demon lord chooses to answer the giants' call, he hunts and fights alongside them for a time, infecting the frost giants with savage madness and bloodlust before disappearing back to the Abyss.

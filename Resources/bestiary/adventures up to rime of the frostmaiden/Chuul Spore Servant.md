@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chuul Spore Servant
 >*Large #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|2 (-4)|6 (-2)|1 (-5)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, frightened, paralyzed, poisoned
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 ## Actions
 >***Multiattack.*** The spore servant makes two pincer attacks.  

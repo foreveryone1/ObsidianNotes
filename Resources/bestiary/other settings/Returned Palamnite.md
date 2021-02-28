@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Returned Palamnite
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|14 (+2)|13 (+1)|12 (+1)|15 (+2)|
 >___
->- **Skills** Acrobatics +5, Athletics +2, Stealth +5
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 11
->- **Languages** the languages it knew in life
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Acrobatics +5, Athletics +2, Stealth +5
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr4 (1,100 XP)
 >___
 >***Fleeting Anger.*** If another creature deals damage to the Returned, the Returned makes attack rolls with advantage until the end of its next turn.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dire Wolf
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Smoke Mephit
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Auran, Ignan
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Auran, Ignan
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Death Burst.*** When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.  
 >

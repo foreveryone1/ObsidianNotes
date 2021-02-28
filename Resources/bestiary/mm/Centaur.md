@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Centaur
 >*Large #monstrosity , neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|9 (-1)|13 (+1)|11 (+0)|
 >___
->- **Skills** Athletics +6, Perception +3, Survival +3
->- **Senses** passive Perception 13
->- **Languages** Elvish, Sylvan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +6, Perception +3, Survival +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Elvish, Sylvan
+>
+> #cr2 (450 XP)
 >___
 >***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.  
 >

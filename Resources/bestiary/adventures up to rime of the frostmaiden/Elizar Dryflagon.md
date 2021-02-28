@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elizar Dryflagon
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|14 (+2)|11 (+0)|18 (+4)|10 (+0)|
 >___
->- **Skills** Arcana +3, Deception +3
->- **Senses** passive Perception 14
->- **Languages** Common, Druidic
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Arcana +3, Deception +3
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Druidic
+>
+> #cr5 (1,800 XP)
 >___
 >***Spellcasting.*** Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:  
 >

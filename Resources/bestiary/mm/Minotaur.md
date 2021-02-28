@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Minotaur
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|6 (-2)|16 (+3)|9 (-1)|
 >___
->- **Skills** Perception +7
->- **Senses** darkvision 60 ft., passive Perception 17
->- **Languages** Abyssal
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +7
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal
+>
+> #cr3 (700 XP)
 >___
 >***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.  
 >

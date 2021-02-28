@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Illithilich
 >*Medium #undead , any evil alignment*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Int +12, Wis +9
->- **Skills** Arcana +19, History +12, Insight +9, Perception +9
->- **Damage Resistances** cold, lightning, necrotic
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** truesight 120 ft., passive Perception 19
->- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
->- #cr22 (41,000 XP)
+>- **Saving Throws**
+>	 - Con +10, Int +12, Wis +9
+>- **Skills**
+>	 - Arcana +19, History +12, Insight +9, Perception +9
+>- **Damage Resistances**
+>	 - cold, lightning, necrotic
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 19
+>- **Languages**
+>	 - Deep Speech, Undercommon, telepathy 120 ft.
+>
+> #cr22 (41,000 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.  
 >
@@ -59,10 +71,14 @@
 ## Legendary Actions
 >The illithilich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The illithilich regains spent legendary actions at the start of its turn.
 >
->- **Tentacles.** The illithilich makes one attack with its tentacles.
->- **Extract Brain (Costs 2 Actions).** The illithilich uses Extract Brain.
->- **Mind Blast (Costs 3 Actions).** The illithilich recharges its Mind Blast and uses it.
->- **Cast Spell (Costs 1–3 Actions).** The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell.
+>- **Tentacles.**
+> The illithilich makes one attack with its tentacles.
+>- **Extract Brain (Costs 2 Actions).**
+> The illithilich uses Extract Brain.
+>- **Mind Blast (Costs 3 Actions).**
+> The illithilich recharges its Mind Blast and uses it.
+>- **Cast Spell (Costs 1–3 Actions).**
+> The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell.
 ## Illithilich
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
 ***Arcane Temptation.***  Elder brains forbid mind flayers from pursuing magic power aside from psionics, but it isn't an interdiction they must often enforce. Illithids brook no masters but members of their own kind, so it isn't in their nature to bow to any god or otherworldly patron. However, wizardry remains a rare temptation.

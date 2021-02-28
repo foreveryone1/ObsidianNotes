@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Ravens
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|8 (-1)|3 (-4)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +5
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** passive Perception 15
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.  
 >

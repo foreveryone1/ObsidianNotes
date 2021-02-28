@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pteranodon
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|10 (+0)|2 (-4)|9 (-1)|5 (-3)|
 >___
->- **Skills** Perception +1
->- **Senses** passive Perception 11
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Flyby.*** The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Old Troglodyte
 >*Medium #humanoid (troglodyte), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
 >___
->- **Skills** Stealth +2
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Troglodyte
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Troglodyte
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deep Crow
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|18 (+4)|8 (-1)|15 (+2)|14 (+2)|
 >___
->- **Saving Throws** Con +8, Wis +6
->- **Skills** Perception +6, Stealth +11
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
->- **Languages** Deep Crow
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +6
+>- **Skills**
+>	 - Perception +6, Stealth +11
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Deep Crow
+>
+> #cr9 (5,000 XP)
 >___
 >***Magic Resistance.*** The deep crow has advantage on saving throws against spells and other magical effects.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fiendish Spirit
 >*Large #fiend , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|10 (+0)|10 (+0)|16 (+3)|
 >___
->- **Damage Resistances** fire
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr-unavailable
+>- **Damage Resistances**
+>	 - fire
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr-unavailable
 >___
 >***Magic Resistance.*** The fiend has advantage on saving throws against spells and other magical effects.  
 >

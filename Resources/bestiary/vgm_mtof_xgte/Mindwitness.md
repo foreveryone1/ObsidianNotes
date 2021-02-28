@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mindwitness
 >*Large #aberration , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|15 (+2)|15 (+2)|10 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +5
->- **Skills** Perception +8
->- **Condition Immunities** prone
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Deep Speech, Undercommon, telepathy 600 ft.
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +5
+>- **Skills**
+>	 - Perception +8
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Deep Speech, Undercommon, telepathy 600 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Crystal Golem
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|20 (+5)|3 (-4)|11 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr10 (5,900 XP)
+>- **Damage Immunities**
+>	 - poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr10 (5,900 XP)
 >___
 >***Illumination.*** The golem magically sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light goes out when the golem is destroyed.  
 >

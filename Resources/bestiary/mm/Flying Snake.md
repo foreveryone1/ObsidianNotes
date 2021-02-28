@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flying Snake
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|18 (+4)|11 (+0)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Senses** blindsight 10 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Flyby.*** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

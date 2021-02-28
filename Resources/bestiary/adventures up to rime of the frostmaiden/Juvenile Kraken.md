@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Juvenile Kraken
 >*Huge monstrosity (titan), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|11 (+0)|20 (+5)|19 (+4)|15 (+2)|17 (+3)|
 >___
->- **Saving Throws** Str +12, Dex +5, Con +10, Int +9, Wis +7
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning
->- **Condition Immunities** frightened, paralyzed
->- **Senses** truesight 120 ft., passive Perception 12
->- **Languages** Abyssal, #celestial , Infernal, Primordial, telepathy 60 ft. but can't speak
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Str +12, Dex +5, Con +10, Int +9, Wis +7
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning
+>- **Condition Immunities**
+>	 - frightened, paralyzed
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, #celestial , Infernal, Primordial, telepathy 60 ft. but can't speak
+>
+> #cr14 (11,500 XP)
 >___
 >***Amphibious.*** The kraken can breathe air and water.  
 >
@@ -37,8 +48,11 @@
 ## Legendary Actions
 >The juvenile kraken can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The juvenile kraken regains spent legendary actions at the start of its turn.
 >
->- **Tentacle Attack (Costs 2 Actions).** The kraken makes one tentacle attack.
->- **Fling.** The kraken uses Fling.
->- **Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 40-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 18 Constitution saving throw, taking 11 (2d10) poison damage on a failed save or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
+>- **Tentacle Attack (Costs 2 Actions)**
+>	- The kraken makes one tentacle attack.
+>- **Fling**
+>	- The kraken uses Fling.
+>- **Ink Cloud (Costs 3 Actions)**
+>	- While underwater, the kraken expels an ink cloud in a 40-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 18 Constitution saving throw, taking 11 (2d10) poison damage on a failed save or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
 ## Juvenile Kraken
 Hidden in a deep, dark underwater pit near the Styes, this creature bears the mark of the dark god Tharizdun's madness. Becoming more independent every day, it dreams of freeing itself from its aboleth tenders and wreaking its own foul will upon the seas.

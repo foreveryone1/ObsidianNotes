@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Titivilus
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|22 (+6)|17 (+3)|24 (+7)|22 (+6)|26 (+8)|
 >___
->- **Saving Throws** Dex +11, Con +8, Wis +11, Cha +13
->- **Skills** Deception +13, Insight +11, Intimidation +13, Persuasion +13
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** all, telepathy 120 ft.
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Dex +11, Con +8, Wis +11, Cha +13
+>- **Skills**
+>	 - Deception +13, Insight +11, Intimidation +13, Persuasion +13
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr16 (15,000 XP)
 >___
 >***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:  
 >
@@ -50,9 +62,12 @@
 ## Legendary Actions
 >Titivilus can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Titivilus regains spent legendary actions at the start of its turn.
 >
->- **Assault (Costs 2 Actions).** Titivilus attacks with his silver sword or uses his Frightful Word.
->- **Corrupting Guidance.** Titivilus uses Twisting Words. Alternatively, he targets one creature charmed by him that is within 60 feet of him; that charmed target must make a DC 21 Charisma saving throw. On a failure, Titivilus decides how the target acts during its next turn.
->- **Teleport.** Titivilus uses his Teleport action.
+>- **Assault (Costs 2 Actions).**  
+>	- Titivilus attacks with his silver sword or uses his Frightful Word.
+>- **Corrupting Guidance.**  
+>	- Titivilus uses Twisting Words. Alternatively, he targets one creature charmed by him that is within 60 feet of him; that charmed target must make a DC 21 Charisma saving throw. On a failure, Titivilus decides how the target acts during its next turn.
+>- **Teleport.**  
+>	- Titivilus uses his Teleport action.
 ## Titivilus
 *I actually admire Titivilus. If he weren't so remorselessly evil, he'd be an excellent administrator of the Balance.*— MordenkainenThe gloomy Lord of the Second, Dispater, rules from his iron palace, seeming to hide surrounded by its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. So intense is his paranoia that he almost never travels farther than the sprawling city that lies outside his magnificent palace. Dispater knows he has enemies on all sides—enemies who would do to him what has been done to the likes of Geryon, Moloch, and so many others.
 Dispater is correct to fear, but the true threat comes not from without. The lord's great error was allowing himself to be seduced by Titivilus, who beguiled his way into being the primary advisor in Dispater's household.

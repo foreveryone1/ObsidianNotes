@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Neothelid
 >*Gargantuan #aberration , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|7 (-2)|21 (+5)|3 (-4)|16 (+3)|12 (+1)|
 >___
->- **Saving Throws** Int +1, Wis +8, Cha +6
->- **Senses** blindsight 120 ft., passive Perception 13
->- **Languages** —
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Int +1, Wis +8, Cha +6
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr13 (10,000 XP)
 >___
 >***Creature Sense.*** The neothelid is aware of the presence of creatures within 1 mile of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's Intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.  
 >

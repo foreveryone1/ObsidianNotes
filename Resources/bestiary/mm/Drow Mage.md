@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Mage
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|12 (+1)|
 >___
->- **Skills** Arcana +6, Deception +4, Perception +4, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Elvish, Undercommon
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Arcana +6, Deception +4, Perception +4, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr7 (2,900 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >

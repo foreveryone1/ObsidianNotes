@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lizardfolk Subchief
 >*Medium #humanoid (lizardfolk), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|10 (+0)|16 (+3)|12 (+1)|
 >___
->- **Saving Throws** Wis +5
->- **Skills** Athletics +4, Perception +5, Survival +5
->- **Senses** passive Perception 15
->- **Languages** Draconic
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Wis +5
+>- **Skills**
+>	 - Athletics +4, Perception +5, Survival +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Draconic
+>
+> #cr3 (700 XP)
 >___
 >***Hold Breath.*** The subchief can hold its breath for 15 minutes.  
 >

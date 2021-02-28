@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Venom Troll
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >___
->- **Skills** Perception +2
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Giant
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Giant
+>
+> #cr7 (2,900 XP)
 >___
 >***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.  
 >

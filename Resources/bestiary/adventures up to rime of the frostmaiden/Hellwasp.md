@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hellwasp
 >*Large #fiend , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Dex +5, Wis +3
->- **Damage Vulnerabilities** cold
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +3
+>- **Damage Vulnerabilities**
+>	 - cold
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Infernal, telepathy 300 ft. (with other hellwasps only)
+>
+> #cr5 (1,800 XP)
 >___
 >***Magic Weapons.*** The hellwasp's weapon attacks are magical.  
 >

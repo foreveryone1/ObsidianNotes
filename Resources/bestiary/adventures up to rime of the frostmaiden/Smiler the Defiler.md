@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Smiler the Defiler
 >*Medium #fey ,  (elf), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|20 (+5)|16 (+3)|18 (+4)|11 (+0)|18 (+4)|
 >___
->- **Skills** Deception +7, Persuasion +7
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Elvish, Sylvan
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Deception +7, Persuasion +7
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> #cr7 (2,900 XP)
 >___
 >***Equipment.*** Smiler wears +2 leather armor. He carries seven soul coins in a bag and a +1 shortsword  
 >

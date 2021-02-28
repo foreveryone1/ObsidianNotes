@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mortlock Vanthampur
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|10 (+0)|12 (+1)|13 (+1)|
 >___
->- **Skills** Athletics +6, Intimidation +5
->- **Senses** passive Perception 11
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +6, Intimidation +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Indomitable (2/Day).*** Mortlock can reroll a saving throw that he fails. He must use the new roll.  
 >

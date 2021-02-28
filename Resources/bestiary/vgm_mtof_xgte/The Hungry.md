@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Hungry
 >*Medium #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|6 (-2)|11 (+0)|6 (-2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common
->- #cr11 (7,200 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing while in dim light or darkness
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr11 (7,200 XP)
 >___
 >***Life Hunger.*** If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.  
 >

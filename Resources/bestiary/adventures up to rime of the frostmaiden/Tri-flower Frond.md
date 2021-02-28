@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tri-flower Frond
 >*Medium #plant , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|12 (+1)|9 (-1)|13 (+1)|9 (-1)|
 >___
->- **Condition Immunities** blinded, deafened, exhaustion, prone
->- **Senses** blindsight 30 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, prone
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 ## Actions
 >***Multiattack.*** The tri-flower frond uses its orange blossom, then its yellow blossom, and then its red blossom.  

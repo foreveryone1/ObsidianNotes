@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Adult Red Dracolich
 >*Huge #undead , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
 >___
->- **Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
->- **Skills** Perception +13, Stealth +6
->- **Damage Resistances** necrotic
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
->- **Languages** Common, Draconic
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +13, Wis +7, Cha +11
+>- **Skills**
+>	 - Perception +13, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 23
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr17 (18,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.  
 >
@@ -39,6 +51,9 @@
 ## Legendary Actions
 >The dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dracolich regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dracolich makes a Wisdom (Perception) check.
->- **Tail Attack.** The dracolich makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dracolich beats its wings. Each creature within 10 feet of the dracolich must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dracolich can then fly up to half its flying speed.
+>- **Detect.**
+> The dracolich makes a Wisdom (Perception) check.
+>- **Tail Attack.**
+> The dracolich makes a tail attack.
+>- **Wing Attack (Costs 2 Actions).**
+> The dracolich beats its wings. Each creature within 10 feet of the dracolich must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dracolich can then fly up to half its flying speed.

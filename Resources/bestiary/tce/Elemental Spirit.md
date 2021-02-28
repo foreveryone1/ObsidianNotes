@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elemental Spirit
 >*Medium #elemental , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|17 (+3)|4 (-3)|10 (+0)|16 (+3)|
 >___
->- **Damage Resistances** lightning and thunder (Air only); piercing and slashing (Earth only); acid (Water only)
->- **Damage Immunities** poison; fire (Fire only)
->- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Primordial, understands the languages you speak
->- #cr-unavailable
+>- **Damage Resistances**
+>	 - lightning and thunder (Air only); piercing and slashing (Earth only); acid (Water only)
+>- **Damage Immunities**
+>	 - poison; fire (Fire only)
+>- **Condition Immunities**
+>	 - exhaustion, paralyzed, petrified, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Primordial, understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Amorphous Form (Air, Fire, and Water Only).*** The elemental can move through a space as narrow as 1 inch wide without squeezing.  
 >

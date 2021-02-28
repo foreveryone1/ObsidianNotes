@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Amnizu
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|16 (+3)|20 (+5)|12 (+1)|18 (+4)|
 >___
->- **Saving Throws** Dex +7, Con +9, Wis +7, Cha +10
->- **Skills** Perception +7
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, poisoned
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Common, Infernal, telepathy 1,000 ft.
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +9, Wis +7, Cha +10
+>- **Skills**
+>	 - Perception +7
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Infernal, telepathy 1,000 ft.
+>
+> #cr18 (20,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.  
 >

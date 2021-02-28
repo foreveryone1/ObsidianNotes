@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thayan Apprentice
 >*Medium #humanoid (human), any non-good alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|15 (+2)|13 (+1)|11 (+0)|
 >___
->- **Skills** Arcana +4
->- **Senses** passive Perception 11
->- **Languages** Common, Thayan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +4
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Thayan
+>
+> #cr2 (450 XP)
 >___
 >***Doomvault Devotion.*** Within the Doomvault, the apprentice has advantage on saving throws against being charmed or frightened.  
 >

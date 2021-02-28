@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Eagle
 >*Large #beast , neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|13 (+1)|8 (-1)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** Giant Eagle, understands Common and Auran but can't speak them
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Giant Eagle, understands Common and Auran but can't speak them
+>
+> #cr1 (200 XP)
 >___
 >***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.  
 >

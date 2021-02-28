@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Star Spawn Mangler
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|7 (-2)|
 >___
->- **Saving Throws** Dex +7, Con +4
->- **Skills** Stealth +7
->- **Damage Resistances** cold
->- **Damage Immunities** psychic
->- **Condition Immunities** charmed, frightened, prone
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Deep Speech
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +4
+>- **Skills**
+>	 - Stealth +7
+>- **Damage Resistances**
+>	 - cold
+>- **Damage Immunities**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Deep Speech
+>
+> #cr5 (1,800 XP)
 >___
 >***Ambush.*** On the first round of each combat, the mangler has advantage on attack rolls against a creature that hasn't taken a turn yet.  
 >

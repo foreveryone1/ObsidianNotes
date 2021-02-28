@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Carnivorous Flower
 >*Large #plant , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|19 (+4)|6 (-2)|13 (+1)|6 (-2)|
 >___
->- **Saving Throws** Con +7
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Otyugh
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Con +7
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Otyugh
+>
+> #cr5 (1,800 XP)
 >___
 >***Limited Telepathy.*** The plant can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.  
 >

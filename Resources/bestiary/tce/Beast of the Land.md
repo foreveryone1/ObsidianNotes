@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Beast of the Land
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|15 (+2)|8 (-1)|14 (+2)|11 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Charge.*** If the beast moves at least 20 feet straight toward a target and then hits it with a maul attack on the same turn, the target takes an extra 1d6 slashing damage. If the target is a creature, it must succeed on a Strength saving throw against your spell save DC or be knocked prone.  
 >

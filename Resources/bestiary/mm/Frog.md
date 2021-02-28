@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frog
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|13 (+1)|8 (-1)|1 (-5)|8 (-1)|3 (-4)|
 >___
->- **Skills** Perception +1, Stealth +3
->- **Senses** darkvision 30 ft., passive Perception 11
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +1, Stealth +3
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Amphibious.*** The frog can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Baphomet
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|26 (+8)|18 (+4)|24 (+7)|16 (+3)|
 >___
->- **Saving Throws** Dex +9, Con +15, Wis +14
->- **Skills** Intimidation +17, Perception +14
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 24
->- **Languages** all, telepathy 120 ft.
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +15, Wis +14
+>- **Skills**
+>	 - Intimidation +17, Perception +14
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 24
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr23 (50,000 XP)
 >___
 >***Charge.*** If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.  
 >
@@ -53,8 +65,10 @@
 ## Legendary Actions
 >Baphomet can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Baphomet regains spent legendary actions at the start of its turn.
 >
->- **Heartcleaver Attack.** Baphomet makes a melee attack with Heartcleaver.
->- **Charge (Costs 2 Actions).** Baphomet moves up to his speed, then makes a gore attack.
+>- **Heartcleaver Attack.**
+> Baphomet makes a melee attack with Heartcleaver.
+>- **Charge (Costs 2 Actions).**
+> Baphomet moves up to his speed, then makes a gore attack.
 ## Baphomet
 ***Baphomet.*** Civilization is weakness and savagery is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He rules over minotaurs and others with savage hearts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most savage desires.
 Cults devoted to Baphomet use mazes and complex knots as their emblems, creating secret places to indulge themselves, including labyrinths of the sort their master favors. Bloodstained crowns and weapons of iron and brass decorate their profane altars.

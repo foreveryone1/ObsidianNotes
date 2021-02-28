@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Maw Demon
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|8 (-1)|13 (+1)|5 (-3)|8 (-1)|5 (-3)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Abyssal but can't speak
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.  
 >

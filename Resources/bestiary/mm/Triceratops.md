@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Triceratops
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|17 (+3)|2 (-4)|11 (+0)|5 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Trampling Charge.*** If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.  
 >

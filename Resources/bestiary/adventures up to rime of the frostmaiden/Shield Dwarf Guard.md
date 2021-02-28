@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shield Dwarf Guard
 >*Medium #humanoid (dwarf), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** any one language (usually Common), Dwarvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common), Dwarvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Dwarven Resilience.*** The shield dwarf guard has advantage on saving throws against poison, and has resistance against poison damage.  
 >

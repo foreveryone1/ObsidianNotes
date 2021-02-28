@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hlam
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|24 (+7)|13 (+1)|14 (+2)|21 (+5)|14 (+2)|
 >___
->- **Saving Throws** Str +5, Dex +12
->- **Skills** Athletics +5, Religion +7
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** passive Perception 15
->- **Languages** all spoken languages
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Str +5, Dex +12
+>- **Skills**
+>	 - Athletics +5, Religion +7
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - all spoken languages
+>
+> #cr16 (15,000 XP)
 >___
 >***Evasion.*** If Hlam is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's incapacitated.  
 >
@@ -54,9 +65,12 @@
 ## Legendary Actions
 >Hlam can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Hlam regains spent legendary actions at the start of its turn.
 >
->- **Quick Step.** Hlam moves up to his speed without provoking opportunity attacks.
->- **Unarmed Strike (Costs 2 Actions).** Hlam makes one unarmed strike.
->- **Invisibility (Costs 3 Actions).** Hlam becomes invisible until the end of his next turn. The effect ends if Hlam attacks or casts a spell.
+>- **Quick Step**
+>	- Hlam moves up to his speed without provoking opportunity attacks.
+>- **Unarmed Strike (Costs 2 Actions)**
+>	- Hlam makes one unarmed strike.
+>- **Invisibility (Costs 3 Actions)**
+>	- Hlam becomes invisible until the end of his next turn. The effect ends if Hlam attacks or casts a spell.
 ## Hlam
 This venerable human monk lives in a cave halfway up the side of Mount Waterdeep. Hlam is the grand master of the Order of the Even-Handed, a small monastic group devoted to Tyr. Would-be students periodically visit him to learn the Way of the Sacred Fists, which combines cleric magic and monk training. They usually return to the city confused, bruised, and not inclined to visit again.
 In times of great peril, Hlam can be called on to help. Sometimes he offers pearls of wisdom, and sometimes he descends from his cave to set things right with fisticuffs. He can show up at any point in the story as a helpful figure, and the characters can visit him in his cave if they need guidance or training. The Order of the Gauntlet considers him a staunch ally.

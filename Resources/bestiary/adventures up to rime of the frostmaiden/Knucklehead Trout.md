@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Knucklehead Trout
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|11 (+0)|1 (-5)|6 (-2)|1 (-5)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Water Breathing.*** The trout can breathe only underwater.  
 >

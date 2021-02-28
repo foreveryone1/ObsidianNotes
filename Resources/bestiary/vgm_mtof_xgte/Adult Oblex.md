@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Adult Oblex
 >*Medium #ooze , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|19 (+4)|16 (+3)|19 (+4)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Int +7, Cha +5
->- **Skills** Deception +5, Perception +4, plus one of the following: Arcana +7, History +7, Nature +7, or Religion +7
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, prone
->- **Senses** blindsight 60 ft. (blind beyond this distance), passive Perception 14
->- **Languages** Common plus two more languages
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +7, Cha +5
+>- **Skills**
+>	 - Deception +5, Perception +4, plus one of the following: Arcana +7, History +7, Nature +7, or Religion +7
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this distance), passive Perception 14
+>- **Languages**
+>	 - Common plus two more languages
+>
+> #cr5 (1,800 XP)
 >___
 >***Amorphous.*** The oblex can move through a space as narrow as 1 inch wide without squeezing.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chwinga
 >*Tiny #elemental , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|20 (+5)|10 (+0)|14 (+2)|16 (+3)|16 (+3)|
 >___
->- **Skills** Acrobatics +7, Perception +7, Stealth +7
->- **Senses** blindsight 60 ft., passive Perception 17
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Acrobatics +7, Perception +7, Stealth +7
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 17
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Evasion.*** When the chwinga is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
 >

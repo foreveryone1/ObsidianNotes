@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Manshoon
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|23 (+6)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Str +2, Dex +4, Con +3, Int +13, Wis +9, Cha +5
->- **Skills** Arcana +11, History +11
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Draconic, Goblin, Infernal, Orc, Undercommon
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Str +2, Dex +4, Con +3, Int +13, Wis +9, Cha +5
+>- **Skills**
+>	 - Arcana +11, History +11
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Goblin, Infernal, Orc, Undercommon
+>
+> #cr13 (10,000 XP)
 >___
 >***Special Equipment.*** Manshoon wears a black robe of the archmagi and wields a staff of power (both accounted for in his statistics). Roll 2d10 to determine how many charges the staff has remaining.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cave Fisher
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|3 (-4)|10 (+0)|3 (-4)|
 >___
->- **Skills** Perception +2, Stealth +5
->- **Senses** blindsight 60 ft., passive Perception 12
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +5
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Adhesive Filament.*** The cave fisher can use its action to extend a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature adhered to the filament is grappled by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage), but a weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament causes no damage to the cave fisher, which can extrude a replacement filament on its next turn  
 >

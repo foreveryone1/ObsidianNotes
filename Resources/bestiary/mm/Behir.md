@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Behir
 >*Huge #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|18 (+4)|7 (-2)|14 (+2)|12 (+1)|
 >___
->- **Skills** Perception +6, Stealth +7
->- **Damage Immunities** lightning
->- **Senses** darkvision 90 ft., passive Perception 16
->- **Languages** Draconic
->- #cr11 (7,200 XP)
+>- **Skills**
+>	 - Perception +6, Stealth +7
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - darkvision 90 ft., passive Perception 16
+>- **Languages**
+>	 - Draconic
+>
+> #cr11 (7,200 XP)
 >___
 ## Actions
 >***Multiattack.*** The behir makes two attacks: one with its bite and one to constrict.  

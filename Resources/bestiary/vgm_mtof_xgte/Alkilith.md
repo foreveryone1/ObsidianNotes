@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Alkilith
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|19 (+4)|22 (+6)|6 (-2)|11 (+0)|7 (-2)|
 >___
->- **Saving Throws** Dex +8, Con +10
->- **Skills** Stealth +8
->- **Damage Resistances** acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Abyssal but can't speak
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +10
+>- **Skills**
+>	 - Stealth +8
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> #cr11 (7,200 XP)
 >___
 >***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.  
 >

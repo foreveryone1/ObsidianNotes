@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bitter Breath
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
 >___
->- **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Infernal, telepathy 120 ft.
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Str +10, Dex +7, Wis +7, Cha +7
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr11 (7,200 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede Bitter Breath's darkvision.  
 >

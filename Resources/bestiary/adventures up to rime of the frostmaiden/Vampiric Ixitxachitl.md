@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vampiric Ixitxachitl
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|13 (+1)|12 (+1)|13 (+1)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Abyssal, Ixitxachitl
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, Ixitxachitl
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Vampiric Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. The target must succeed on a DC 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken, and the ixitxachitl regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.  

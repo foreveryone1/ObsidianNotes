@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pegasus
 >*Large #celestial , chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +4, Wis +4, Cha +3
->- **Skills** Perception +6
->- **Senses** passive Perception 16
->- **Languages** understands #celestial , Common, Elvish, and Sylvan but can't speak
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +4, Wis +4, Cha +3
+>- **Skills**
+>	 - Perception +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - understands #celestial , Common, Elvish, and Sylvan but can't speak
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.

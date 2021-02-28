@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frost Salamander
 >*Huge #elemental , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|18 (+4)|7 (-2)|11 (+0)|7 (-2)|
 >___
->- **Saving Throws** Con +8, Wis +4
->- **Skills** Perception +4
->- **Damage Vulnerabilities** fire
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 14
->- **Languages** Primordial
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +4
+>- **Skills**
+>	 - Perception +4
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 14
+>- **Languages**
+>	 - Primordial
+>
+> #cr9 (5,000 XP)
 >___
 >***Burning Fury.*** When the salamander takes fire damage, its Freezing Breath automatically recharges.  
 >

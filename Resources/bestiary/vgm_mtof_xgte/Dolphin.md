@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dolphin
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|13 (+1)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** blindsight 60 ft., passive Perception 13
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Charge.*** If the dolphin moves at least 30 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.  
 >

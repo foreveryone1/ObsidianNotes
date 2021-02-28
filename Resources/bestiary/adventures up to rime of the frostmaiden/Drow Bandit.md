@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Bandit
 >*Medium #humanoid (elf), any non-lawful alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Skills** 
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** any one language (usually Common), Elvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - 
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Fey Ancestry.*** The drow bandit has advantage on saving throws against being charmed, and magic can't put the drow bandit to sleep.  
 >

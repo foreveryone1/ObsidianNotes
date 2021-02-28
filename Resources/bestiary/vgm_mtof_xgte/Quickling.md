@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quickling
 >*Tiny #fey , , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|23 (+6)|13 (+1)|10 (+0)|12 (+1)|7 (-2)|
 >___
->- **Skills** Acrobatics +8, Perception +5, Sleight of Hand +8, Stealth +8
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common, Sylvan
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Acrobatics +8, Perception +5, Sleight of Hand +8, Stealth +8
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr1 (200 XP)
 >___
 >***Blurred Movement.*** Attack rolls against the quickling have disadvantage unless the quickling is incapacitated or restrained.  
 >

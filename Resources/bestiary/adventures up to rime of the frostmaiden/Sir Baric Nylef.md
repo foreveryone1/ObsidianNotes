@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sir Baric Nylef
 >*Medium #humanoid (Illuskan human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|14 (+2)|11 (+0)|15 (+2)|15 (+2)|
 >___
->- **Skills** Insight +4, Investigation +2, Medicine +4, Survival +4
->- **Senses** passive Perception 12
->- **Languages** Common
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Insight +4, Investigation +2, Medicine +4, Survival +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Brave.*** Baric has advantage on saving throws against being frightened.  
 >

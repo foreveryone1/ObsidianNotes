@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tridrone
 >*Medium #construct , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|12 (+1)|9 (-1)|10 (+0)|9 (-1)|
 >___
->- **Senses** truesight 120 ft., passive Perception 10
->- **Languages** Modron
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 10
+>- **Languages**
+>	 - Modron
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Axiomatic Mind.*** The tridrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >

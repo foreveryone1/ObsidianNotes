@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bugbear Gardener
 >*Medium #humanoid (goblinoid), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)|
 >___
->- **Skills** Stealth +6, Survival +2
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Goblin
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +6, Survival +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr1 (200 XP)
 >___
 >***Brute.*** A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).  
 >

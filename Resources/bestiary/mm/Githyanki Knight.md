@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githyanki Knight
 >*Medium #humanoid (gith), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)|
 >___
->- **Saving Throws** Con +5, Int +5, Wis +5
->- **Senses** passive Perception 12
->- **Languages** Gith
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +5, Int +5, Wis +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Gith
+>
+> #cr8 (3,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >

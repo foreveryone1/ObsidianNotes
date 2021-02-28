@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zox Clammersham
 >*Small #humanoid (gnome), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +9, Wis +6
->- **Skills** Arcana +13, History +13
->- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Aquan, Auran, Common, Gnomish, Ignan, Terran
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +6
+>- **Skills**
+>	 - Arcana +13, History +13
+>- **Damage Resistances**
+>	 - damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Aquan, Auran, Common, Gnomish, Ignan, Terran
+>
+> #cr12 (8,400 XP)
 >___
 >***Gnome Cunning.*** The zox clammersham has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

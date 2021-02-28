@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aphemia
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|13 (+1)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Cha +6
->- **Skills** Arcana +4, Intimidation +6, Perception +5
->- **Damage Resistances** necrotic
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +6, Cha +6
+>- **Skills**
+>	 - Arcana +4, Intimidation +6, Perception +5
+>- **Damage Resistances**
+>	 - necrotic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 >***Legendary Resistance (2/Day).*** If Aphemia fails a saving throw, she can choose to succeed instead.  
 >

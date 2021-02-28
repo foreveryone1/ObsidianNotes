@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Efreeti
 >*Large #elemental , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +7, Wis +6, Cha +7
->- **Damage Immunities** fire
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Ignan
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +6, Cha +7
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Ignan
+>
+> #cr11 (7,200 XP)
 >___
 >***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.  
 >

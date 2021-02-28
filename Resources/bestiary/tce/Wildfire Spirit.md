@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wildfire Spirit
 >*Small #elemental , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|13 (+1)|15 (+2)|11 (+0)|
 >___
->- **Damage Immunities** fire
->- **Condition Immunities** charmed, frightened, grappled, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Damage Immunities**
+>	 - fire
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 ## Actions
 >***Flame Seed.*** Ranged Weapon Attack: your spell attack modifier to hit, range 60 ft., one target you can see. Hit: 1d6 + PB fire damage.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blink Dog
 >*Medium #fey , , lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** passive Perception 10
->- **Languages** Blink Dog, understands Sylvan but can't speak it
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Blink Dog, understands Sylvan but can't speak it
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

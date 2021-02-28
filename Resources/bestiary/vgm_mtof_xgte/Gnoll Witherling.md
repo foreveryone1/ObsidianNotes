@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnoll Witherling
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|8 (-1)|12 (+1)|5 (-3)|5 (-3)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 7
->- **Languages** understands Gnoll but can't speak
->- ** #cr1-4 ** (50 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 7
+>- **Languages**
+>	 - understands Gnoll but can't speak
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Rampage.*** When the witherling reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duke Thalamra Vanthampur
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|13 (+1)|16 (+3)|18 (+4)|
 >___
->- **Skills** Deception +6, Insight +5, Intimidation +6, Religion +3
->- **Senses** darkvision 120 ft. (see devil's sight below), passive Perception 13
->- **Languages** Common, Infernal
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +6, Insight +5, Intimidation +6, Religion +3
+>- **Senses**
+>	 - darkvision 120 ft. (see devil's sight below), passive Perception 13
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr4 (1,100 XP)
 >___
 >***Dark Devotion.*** Thalamra has advantage on saving throws against being charmed or frightened.  
 >

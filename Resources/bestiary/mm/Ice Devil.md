@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ice Devil
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison, cold
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
->- **Languages** Infernal, telepathy 120 ft.
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +9, Wis +7, Cha +9
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison, cold
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr14 (11,500 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >

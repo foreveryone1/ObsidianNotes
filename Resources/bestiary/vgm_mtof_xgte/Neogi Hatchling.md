@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Neogi Hatchling
 >*Tiny #aberration , lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|6 (-2)|10 (+0)|9 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Mental Fortitude.*** The hatchling has advantage on saving throws against being charmed or frightened, and magic can't put the hatchling to sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Marlos Urnrayle
 >*Medium #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|18 (+4)|12 (+1)|13 (+1)|17 (+3)|
 >___
->- **Skills** Arcana +4, Deception +6, Perception +4
->- **Damage Resistances** acid
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 14
->- **Languages** Common, Terran
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Arcana +4, Deception +6, Perception +4
+>- **Damage Resistances**
+>	 - acid
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Terran
+>
+> #cr8 (3,900 XP)
 >___
 >***Earth Passage.*** Marlos can move in difficult terrain composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were difficult terrain. If he ends his turn there, he is shunted into the nearest space he last occupied.  
 >

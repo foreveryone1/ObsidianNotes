@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Battleforce Angel
 >*Medium #celestial , lawful good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|13 (+1)|11 (+0)|17 (+3)|18 (+4)|
 >___
->- **Saving Throws** Wis +6, Cha +7
->- **Skills** Investigation +3, Perception +6
->- **Damage Resistances** fire, radiant
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** darkvision 120 ft., truesight 120 ft., passive Perception 16
->- **Languages** all
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +6, Cha +7
+>- **Skills**
+>	 - Investigation +3, Perception +6
+>- **Damage Resistances**
+>	 - fire, radiant
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - darkvision 120 ft., truesight 120 ft., passive Perception 16
+>- **Languages**
+>	 - all
+>
+> #cr5 (1,800 XP)
 >___
 >***Flyby.*** The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.  
 >

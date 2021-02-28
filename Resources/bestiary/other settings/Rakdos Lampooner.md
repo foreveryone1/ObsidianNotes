@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rakdos Lampooner
 >*Medium #humanoid (any race), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|13 (+1)|12 (+1)|9 (-1)|18 (+4)|
 >___
->- **Skills** Deception +6, Performance +6
->- **Senses** passive Perception 9
->- **Languages** Common plus any one language
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +6, Performance +6
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** The lampooner is a 4th-level Rakdos spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following bard spells:  
 >

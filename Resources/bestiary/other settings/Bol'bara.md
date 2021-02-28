@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bol'bara
 >*Small #humanoid (goblinoid), chaotic good (chaotic evil when fully possessed)*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Goblin
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr3 (700 XP)
 >___
 >***Dark One's Blessing.*** When Bol'bara reduces a hostile creature to 0 hit points, she gains 6 temporary hit points.  
 >
@@ -34,5 +41,7 @@
 ## Legendary Actions
 >The bol'bara can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The bol'bara regains spent legendary actions at the start of its turn.
 >
->- **Incorporeal Dash.** Bol'bara moves up to her speed. She can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
->- **Zone of Calamity (Costs 2 Actions).** A 15-foot-radius sphere of magical confusion extends from a point Bol'bara can see within 60 feet of her and spreads around corners. Each creature that starts its turn in that area is treated as if targeted by the confusion spell (save DC 12). The sphere lasts as long as Bol'bara maintains concentration, up to 1 minute (as if concentrating on a spell).
+>- **Incorporeal Dash**
+>	- Bol'bara moves up to her speed. She can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
+>- **Zone of Calamity (Costs 2 Actions)**
+>	- A 15-foot-radius sphere of magical confusion extends from a point Bol'bara can see within 60 feet of her and spreads around corners. Each creature that starts its turn in that area is treated as if targeted by the confusion spell (save DC 12). The sphere lasts as long as Bol'bara maintains concentration, up to 1 minute (as if concentrating on a spell).

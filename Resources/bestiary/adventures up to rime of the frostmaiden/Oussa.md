@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oussa
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >___
->- **Skills** Deception +5, Stealth +4
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Abyssal, Common, Draconic
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +5, Stealth +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr3 (700 XP)
 >___
 >***Shapechanger.*** Oussa can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.  
 >

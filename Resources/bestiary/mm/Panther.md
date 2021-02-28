@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Panther
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|10 (+0)|3 (-4)|14 (+2)|7 (-2)|
 >___
->- **Skills** Perception +4, Stealth +6
->- **Senses** passive Perception 14
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +6
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Keen Smell.*** The panther has advantage on Wisdom (Perception) checks that rely on smell.  
 >

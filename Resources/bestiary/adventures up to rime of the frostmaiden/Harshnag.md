@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Harshnag
 >*Huge #giant , chaotic good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|9 (-1)|21 (+5)|9 (-1)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Con +9, Wis +4, Cha +5
->- **Skills** Athletics +10, Perception +4
->- **Damage Immunities** cold
->- **Senses** passive Perception 13
->- **Languages** Common, Giant
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +4, Cha +5
+>- **Skills**
+>	 - Athletics +10, Perception +4
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr9 (5,000 XP)
 >___
 >***Legendary Resistance (1/Day).*** If Harshnag fails a saving throw, he can choose to succeed instead.  
 >

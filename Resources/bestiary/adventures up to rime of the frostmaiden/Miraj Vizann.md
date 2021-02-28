@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Miraj Vizann
 >*Medium #humanoid (earth genasi), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|17 (+3)|13 (+1)|11 (+0)|18 (+4)|
 >___
->- **Skills** Arcana +4, Deception +7
->- **Senses** passive Perception 10
->- **Languages** Common, Primordial
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Arcana +4, Deception +7
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Primordial
+>
+> #cr6 (2,300 XP)
 >___
 >***Earth Walk.*** Moving through difficult terrain made of earth or stone costs Miraj no extra movement.  
 >

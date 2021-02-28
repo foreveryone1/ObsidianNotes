@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Bigby's Hand
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|10 (+0)|20 (+5)|1 (-5)|10 (+0)|1 (-5)|
 >___
->- **Saving Throws** Dex +2, Wis +2
->- **Skills** Perception +2, Stealth +2
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +2, Wis +2
+>- **Skills**
+>	 - Perception +2, Stealth +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 >***Magic Resistance.*** The living spell has advantage on saving throws against spells and other magical effects.  
 >

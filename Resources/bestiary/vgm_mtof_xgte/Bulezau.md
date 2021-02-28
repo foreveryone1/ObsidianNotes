@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bulezau
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 9
->- **Languages** Abyssal, telepathy 60 ft.
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 9
+>- **Languages**
+>	 - Abyssal, telepathy 60 ft.
+>
+> #cr3 (700 XP)
 >___
 >***Rotting Presence.*** When any creature that isn't a demon starts its turn within 30 feet one or more bulezaus, that creature must succeed on a DC 13 Constitution saving throw or take 1d6 necrotic damage plus 1 necrotic damage for each bulezau within 30 feet of it.  
 >

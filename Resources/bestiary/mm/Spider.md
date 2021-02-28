@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spider
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|14 (+2)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
 >___
->- **Skills** Stealth +4
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Stealth +4
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

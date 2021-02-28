@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Plesiosaurus
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kalaraq Quori
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|21 (+5)|18 (+4)|23 (+6)|24 (+7)|25 (+7)|
 >___
->- **Saving Throws** Int +12, Wis +13, Cha +13
->- **Skills** Deception +13, Perception +13, Persuasion +13
->- **Damage Resistances** cold, necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, prone, restrained
->- **Senses** truesight 120 ft., passive Perception 23
->- **Languages** all, telepathy 120 ft.
->- #cr19 (22,000 XP)
+>- **Saving Throws**
+>	 - Int +12, Wis +13, Cha +13
+>- **Skills**
+>	 - Deception +13, Perception +13, Persuasion +13
+>- **Damage Resistances**
+>	 - cold, necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, prone, restrained
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 23
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr19 (22,000 XP)
 >___
 >***All-Around Vision.*** The quori can't be surprised while it isn't incapacitated.  
 >

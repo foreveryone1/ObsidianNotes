@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thessalhydra
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|20 (+5)|5 (-3)|10 (+0)|7 (-2)|
 >___
->- **Skills** Perception +4
->- **Damage Immunities** acid
->- **Condition Immunities** blinded, charmed, deafened, frightened, stunned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Damage Immunities**
+>	 - acid
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, frightened, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 ## Actions
 >***Multiattack.*** The thessalhydra makes one maw attack and one Flurry of Bites.  
@@ -31,7 +41,9 @@
 ## Legendary Actions
 >The thessalhydra can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The thessalhydra regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The thessalhydra makes a Wisdom (Perception) check with advantage.
->- **Tail Swipe.** The thessalhydra makes a tail pincer attack.
+>- **Detect**
+>	- The thessalhydra makes a Wisdom (Perception) check with advantage.
+>- **Tail Swipe**
+>	- The thessalhydra makes a tail pincer attack.
 ## Thessalhydra
 The thessalhydra is a strange and terrible creature with eight heads surrounding a large, circular mouth rimmed with jagged teeth. Its maw drips with acid, and its tail ends with a pair of sharp pincers. The thessalhydra is gluttonous and damaging to any environment.

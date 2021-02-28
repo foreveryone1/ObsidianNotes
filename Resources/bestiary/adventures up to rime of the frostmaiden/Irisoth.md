@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Irisoth
 >*Medium #humanoid (half-elf), any alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common), Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Fey Ancestry.*** The irisoth has advantage on saving throws against being charmed, and magic can't put The irisoth to sleep.  
 >

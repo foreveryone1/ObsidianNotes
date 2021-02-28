@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Baboon
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|11 (+0)|4 (-3)|12 (+1)|6 (-2)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Books
 >*Medium swarm of tiny constructs, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|15 (+2)|10 (+0)|2 (-4)|12 (+1)|4 (-3)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** blindsight 60 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny book. The swarm can't regain hit points or gain temporary hit points.  
 >

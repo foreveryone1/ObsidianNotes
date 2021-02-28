@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Werebear
 >*Medium #humanoid (human, shapechanger), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
 >___
->- **Skills** Perception +7
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** passive Perception 17
->- **Languages** Common (can't speak in bear form)
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +7
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Common (can't speak in bear form)
+>
+> #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

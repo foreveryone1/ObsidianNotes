@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Ape
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|18 (+4)|7 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +9, Perception +4
->- **Senses** passive Perception 14
->- **Languages** —
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Athletics +9, Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr7 (2,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The ape makes two fist attacks.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skeletal Juggernaut
 >*Large #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Disassemble.*** If the juggernaut is reduced to 0 hit points, twelve skeletons rise from its remains.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tecuziztecatl
 >*Large #monstrosity , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|16 (+3)|15 (+2)|16 (+3)|13 (+1)|
 >___
->- **Skills** Deception +3, Stealth +2
->- **Damage Resistances** bludgeoning from nonmagical attacks
->- **Damage Immunities** acid
->- **Senses** blindsight 30 ft., passive Perception 13
->- **Languages** Olman, Primordial
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +3, Stealth +2
+>- **Damage Resistances**
+>	 - bludgeoning from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 13
+>- **Languages**
+>	 - Olman, Primordial
+>
+> #cr4 (1,100 XP)
 >___
 >***Amphibious.*** Tecuziztecatl can breathe air and water.  
 >

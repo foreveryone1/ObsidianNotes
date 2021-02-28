@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Neogi Master
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|16 (+3)|12 (+1)|18 (+4)|
 >___
->- **Saving Throws** Wis +3
->- **Skills** Arcana +5, Deception +6, Intimidation +6, Perception +3, Persuasion +6
->- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 13
->- **Languages** Common, Deep Speech, Undercommon, telepathy 30 ft.
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +3
+>- **Skills**
+>	 - Arcana +5, Deception +6, Intimidation +6, Perception +3, Persuasion +6
+>- **Senses**
+>	 - darkvision 120 ft. (penetrates magical darkness), passive Perception 13
+>- **Languages**
+>	 - Common, Deep Speech, Undercommon, telepathy 30 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Mental Fortitude.*** The neogi has advantage on saving throws against being charmed or frightened, and magic can't put the neogi to sleep.  
 >

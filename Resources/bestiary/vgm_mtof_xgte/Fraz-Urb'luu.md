@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fraz-Urb'luu
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|12 (+1)|25 (+7)|26 (+8)|24 (+7)|26 (+8)|
 >___
->- **Saving Throws** Dex +8, Con +14, Int +15, Wis +14
->- **Skills** Deception +15, Perception +14, Stealth +8
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 24
->- **Languages** all, telepathy 120 ft.
->- #cr23 (50,000 XP) or 26 (90,000 XP) when encountered in lair
+>- **Saving Throws**
+>	 - Dex +8, Con +14, Int +15, Wis +14
+>- **Skills**
+>	 - Deception +15, Perception +14, Stealth +8
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 24
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr23 (50,000 XP) or 26 (90,000 XP) when encountered in lair
 >___
 >***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma (spell save DC 23). Fraz-Urb'luu can innately cast the following spells, requiring no material components:  
 >
@@ -44,8 +56,10 @@
 ## Legendary Actions
 >Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Fraz-Urb'luu regains spent legendary actions at the start of its turn.
 >
->- **Tail.** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.
->- **Phantasmal Killer (Costs 2 Actions).** Fraz-Urb'luu casts phantasmal killer, no concentration required.
+>- **Tail.**
+> Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+>- **Phantasmal Killer (Costs 2 Actions).**
+> Fraz-Urb'luu casts phantasmal killer, no concentration required.
 ## Fraz-Urb'luu
 ***Fraz-Urb'luu.*** All demons are liars, but Fraz-Urb'luu is the Prince of Deception and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary staff of power taken from him by those who imprisoned him, and commands his servants to do likewise.

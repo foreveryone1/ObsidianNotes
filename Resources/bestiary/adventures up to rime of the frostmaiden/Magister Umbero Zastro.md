@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Magister Umbero Zastro
 >*Medium #humanoid (half-elf), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Persuasion +5
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Persuasion +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Fey Ancestry.*** Umbero has advantage on saving throws against being charmed and magic can't put him to sleep.  
 >

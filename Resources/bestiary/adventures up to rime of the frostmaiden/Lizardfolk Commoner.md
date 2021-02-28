@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lizardfolk Commoner
 >*Medium #humanoid (lizardfolk), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|12 (+1)|7 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +2, Survival +3
->- **Senses** passive Perception 13
->- **Languages** Draconic
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +2, Survival +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Draconic
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.  
 >

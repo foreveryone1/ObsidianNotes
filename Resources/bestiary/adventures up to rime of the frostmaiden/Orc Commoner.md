@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Commoner
 >*Medium #humanoid (orc), any alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common), Orc
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Orc
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Aggressive.*** As a bonus action, The orc commoner can move up to your speed toward a hostile creature that they can see.  
 >

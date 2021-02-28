@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giff
 >*Medium #humanoid , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
 >___
->- **Senses** passive Perception 11
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Firearms Knowledge.*** The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.  
 >

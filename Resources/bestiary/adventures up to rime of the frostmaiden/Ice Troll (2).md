@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ice Troll
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|22 (+6)|7 (-2)|9 (-1)|7 (-2)|
 >___
->- **Skills** Perception +2
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Giant
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Giant
+>
+> #cr8 (3,900 XP)
 >___
 >***Cold Aura.*** While it's alive, the troll generates an aura of bitter cold that fills the area within 10 feet of it. At the start of the troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 10 feet of the troll takes 10 (3d6) cold damage.  
 >

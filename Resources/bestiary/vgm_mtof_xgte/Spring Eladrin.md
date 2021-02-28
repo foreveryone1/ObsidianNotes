@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spring Eladrin
 >*Medium #fey ,  (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|18 (+4)|11 (+0)|18 (+4)|
 >___
->- **Skills** Deception +8, Persuasion +8
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Elvish, Sylvan
->- #cr10 (5,900 XP)
+>- **Skills**
+>	 - Deception +8, Persuasion +8
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> #cr10 (5,900 XP)
 >___
 >***Fey Step (Recharge 4–6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.  
 >

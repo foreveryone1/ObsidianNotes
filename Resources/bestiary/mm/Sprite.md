@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sprite
 >*Tiny #fey , , neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
 >___
->- **Skills** Perception +3, Stealth +8
->- **Senses** passive Perception 13
->- **Languages** Common, Elvish, Sylvan
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +8
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Longsword.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.  

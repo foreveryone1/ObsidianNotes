@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Davil Starsong
 >*Medium #humanoid (elf), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|16 (+3)|12 (+1)|17 (+3)|
 >___
->- **Saving Throws** Dex +5, Cha +6
->- **Skills** Arcana +6, History +6, Insight +4, Perception +4, Performance +6
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Draconic, Dwarvish, Elvish
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Dex +5, Cha +6
+>- **Skills**
+>	 - Arcana +6, History +6, Insight +4, Perception +4, Performance +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish
+>
+> #cr6 (2,300 XP)
 >___
 >***Fey Ancestry.*** Davil has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >

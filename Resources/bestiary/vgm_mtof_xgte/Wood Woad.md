@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wood Woad
 >*Medium #plant , lawful neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|10 (+0)|13 (+1)|8 (-1)|
 >___
->- **Skills** Athletics +7, Perception +4, Stealth +4
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Sylvan
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Athletics +7, Perception +4, Stealth +4
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Sylvan
+>
+> #cr5 (1,800 XP)
 >___
 >***Magic Club.*** In the wood woad's hand, its club is magical and deals 7 (3d4) extra damage (included in its attacks).  
 >

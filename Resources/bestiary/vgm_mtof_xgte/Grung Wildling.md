@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grung Wildling
 >*Small #humanoid (grung), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|15 (+2)|10 (+0)|15 (+2)|11 (+0)|
 >___
->- **Saving Throws** Dex +5
->- **Skills** Athletics +2, Perception +4, Stealth +5, Survival +4
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 14
->- **Languages** Grung
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +5
+>- **Skills**
+>	 - Athletics +2, Perception +4, Stealth +5, Survival +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Grung
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The grung can breathe air and water.  
 >

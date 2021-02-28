@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dretch
 >*Small #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|11 (+0)|12 (+1)|5 (-3)|8 (-1)|3 (-4)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Multiattack.*** The dretch makes two attacks: one with its bite and one with its claws.  

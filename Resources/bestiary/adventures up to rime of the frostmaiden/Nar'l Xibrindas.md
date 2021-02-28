@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nar'l Xibrindas
 >*Medium #humanoid (elf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|12 (+1)|
 >___
->- **Skills** Arcana +6, Deception +5, Perception +4, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Elvish, Undercommon
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Arcana +6, Deception +5, Perception +4, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Nar'l carries a vial containing three doses of eyescratch, a contact poison. A creature that comes into contact with the poison must succeed on a DC 14 Constitution saving throw or be poisoned for 1 hour and blinded while poisoned in this way. A lesser restoration spell or similar magic ends the effect.  
 >

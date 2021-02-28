@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bone Whelk
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|5 (-3)|11 (+0)|6 (-2)|9 (-1)|3 (-4)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Adhesive.*** The bone whelk can cause Medium or smaller objects to adhere to it. A Medium or smaller creature that touches the bone whelk is grappled by it (escape DC 10).  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ghald
 >*Large #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|16 (+3)|14 (+2)|13 (+1)|17 (+3)|
 >___
->- **Saving Throws** Dex +6, Con +6, Int +5, Wis +4
->- **Skills** Insight +4, Perception +7
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Common, Sahuagin
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +6, Int +5, Wis +4
+>- **Skills**
+>	 - Insight +4, Perception +7
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Sahuagin
+>
+> #cr7 (2,900 XP)
 >___
 >***Assassinate.*** During its first turn, Ghald has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Ghald scores against a surprised creature is a critical hit.  
 >

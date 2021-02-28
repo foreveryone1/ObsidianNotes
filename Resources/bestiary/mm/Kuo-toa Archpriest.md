@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kuo-toa Archpriest
 >*Medium #humanoid (kuo-toa), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|14 (+2)|
 >___
->- **Skills** Perception +9, Religion +7
->- **Senses** darkvision 120 ft., passive Perception 19
->- **Languages** Undercommon
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +9, Religion +7
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Amphibious.*** The kuo-toa can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Merrow
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|15 (+2)|8 (-1)|10 (+0)|9 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Abyssal, Aquan
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Aquan
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The merrow can breathe air and water.  
 >

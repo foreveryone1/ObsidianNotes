@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Illusionist
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|12 (+1)|
 >___
->- **Saving Throws** Int +5, Wis +2
->- **Skills** Arcana +5, History +5
->- **Senses** passive Perception 10
->- **Languages** any four languages
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +2
+>- **Skills**
+>	 - Arcana +5, History +5
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any four languages
+>
+> #cr3 (700 XP)
 >___
 >***Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher).*** As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is incapacitated, or its speed becomes 0.  
 >

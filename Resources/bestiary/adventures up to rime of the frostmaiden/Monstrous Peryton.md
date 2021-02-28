@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Monstrous Peryton
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|16 (+3)|9 (-1)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Str +8, Dex +6, Wis +6
->- **Skills** Perception +6
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** understands Common and Elvish but can't speak
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Str +8, Dex +6, Wis +6
+>- **Skills**
+>	 - Perception +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - understands Common and Elvish but can't speak
+>
+> #cr11 (7,200 XP)
 >___
 >***Flyby.*** The peryton doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

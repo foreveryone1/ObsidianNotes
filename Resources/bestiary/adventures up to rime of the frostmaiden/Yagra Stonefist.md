@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yagra Stonefist
 >*Medium #humanoid (half-orc), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Intimidation +2
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Orc
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Intimidation +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Orc
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Pack Tactics.*** Yagra has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

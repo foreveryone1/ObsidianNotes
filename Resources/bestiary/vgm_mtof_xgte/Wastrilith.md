@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wastrilith
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|18 (+4)|21 (+5)|19 (+4)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Str +9, Con +10
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +10
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr13 (10,000 XP)
 >___
 >***Amphibious.*** The wastrilith can breathe air and water.  
 >

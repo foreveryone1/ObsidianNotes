@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Laeral Silverhand
 >*Medium #humanoid (human), chaotic good*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|17 (+3)|20 (+5)|20 (+5)|20 (+5)|19 (+4)|
 >___
->- **Saving Throws** Int +11, Wis +11
->- **Skills** Arcana +17, History +17, Insight +11, Perception +11, Persuasion +10
->- **Damage Resistances** fire
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 60 ft., passive Perception 21
->- **Languages** Common, Draconic, Dwarvish, Elvish, Giant, Infernal
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Int +11, Wis +11
+>- **Skills**
+>	 - Arcana +17, History +17, Insight +11, Perception +11, Persuasion +10
+>- **Damage Resistances**
+>	 - fire
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 60 ft., passive Perception 21
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish, Giant, Infernal
+>
+> #cr17 (18,000 XP)
 >___
 >***Special Equipment.*** Laeral wears a white robe of the archmagi (accounted for in her statistics). She wields a flame tongue longsword.  
 >

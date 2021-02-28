@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Koalinth
 >*Medium #humanoid (goblinoid), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|11 (+0)|10 (+0)|11 (+0)|
 >___
->- **Saving Throws** Dex +2
->- **Skills** Athletics +3, Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Goblin
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Dex +2
+>- **Skills**
+>	 - Athletics +3, Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Goblin
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** The koalinth can breathe air and water.  
 >

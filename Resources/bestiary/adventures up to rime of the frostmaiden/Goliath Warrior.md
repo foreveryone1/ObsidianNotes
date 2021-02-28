@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Goliath Warrior
 >*Medium #humanoid (goliath), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|10 (+0)|15 (+2)|10 (+0)|
 >___
->- **Skills** Athletics +6, Perception +4, Survival +4
->- **Damage Resistances** cold
->- **Senses** passive Perception 14
->- **Languages** Common, Giant
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +6, Perception +4, Survival +4
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr3 (700 XP)
 >___
 >***Mountain Born.*** The goliath is acclimated to high altitude, including elevations above 20,000 feet.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chitine
 >*Small #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Skills** Athletics +4, Stealth +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Undercommon
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +4, Stealth +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Undercommon
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Fey Ancestry.*** The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.  
 >

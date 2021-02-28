@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grick
 >*Medium #monstrosity , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|11 (+0)|3 (-4)|14 (+2)|5 (-3)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dralmorrer Borngray
 >*Medium #humanoid (high elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|16 (+3)|10 (+0)|8 (-1)|
 >___
->- **Saving Throws** Str +6, Con +4
->- **Skills** Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Bullywug, Draconic, Elvish, Goblin, Sylvan
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +6, Con +4
+>- **Skills**
+>	 - Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Bullywug, Draconic, Elvish, Goblin, Sylvan
+>
+> #cr3 (700 XP)
 >___
 >***Fey Ancestry.*** Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >

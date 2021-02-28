@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Graz'zt
 >*Large #fiend (demon, shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|21 (+5)|23 (+6)|21 (+5)|26 (+8)|
 >___
->- **Saving Throws** Dex +9, Con +12, Wis +12
->- **Skills** Deception +15, Insight +12, Perception +12, Persuasion +15
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 22
->- **Languages** all, telepathy 120 ft.
->- #cr24 (62,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +12, Wis +12
+>- **Skills**
+>	 - Deception +15, Insight +12, Perception +12, Persuasion +15
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 22
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr24 (62,000 XP)
 >___
 >***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.  
 >
@@ -44,10 +56,14 @@
 ## Legendary Actions
 >Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Graz'zt regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Graz'zt attacks once with Wave of Sorrow.
->- **Dance, My Puppet.** One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
->- **Sow Discord.** Graz'zt casts crown of madness or dissonant whispers.
->- **Teleport.** Graz'zt uses his Teleport action.
+>- **Attack.**
+> Graz'zt attacks once with Wave of Sorrow.
+>- **Dance, My Puppet.**
+> One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
+>- **Sow Discord.**
+> Graz'zt casts crown of madness or dissonant whispers.
+>- **Teleport.**
+> Graz'zt uses his Teleport action.
 ## Graz'zt
 ***Graz'zt.*** The appearance of the Dark Prince is a warning that not all beautiful things are good. Standing nearly nine feet tall, Graz'zt strikes the perfect figure of untamed desire, every plane and curve of his body, every glance of his burning eyes, promising a mixture of pleasure and pain. A subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot. Graz'zt can also transform himself at will, appearing in any humanoid form that pleases him, or his onlookers, all equally tempting in their own ways.
 Graz'zt surrounds himself with the finest of things and the most attractive of servants, and he adorns himself in silks and leathers both striking and disturbing in their workmanship. His lair, and those of his cultists, are pleasure palaces where nothing is forbidden, save moderation or kindness.

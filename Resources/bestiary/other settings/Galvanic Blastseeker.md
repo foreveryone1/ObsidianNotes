@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Galvanic Blastseeker
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|14 (+2)|19 (+4)|10 (+0)|13 (+1)|
 >___
->- **Saving Throws** Dex +6
->- **Skills** Acrobatics +6, Arcana +7, Perception +3
->- **Damage Resistances** lightning, thunder
->- **Senses** passive Perception 13
->- **Languages** Common and Primordial, plus any one language
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +6
+>- **Skills**
+>	 - Acrobatics +6, Arcana +7, Perception +3
+>- **Damage Resistances**
+>	 - lightning, thunder
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common and Primordial, plus any one language
+>
+> #cr5 (1,800 XP)
 >___
 >***Galvanic Overcast (Recharge 5–6).*** When the blastseeker casts lightning bolt or thunderwave, it can roll a die. On an odd number, the blastseeker takes 9 (2d8) force damage. On an even number, the spell also deals 9 (2d8) lightning damage to each target that fails its saving throw.  
 >

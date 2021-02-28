@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Expert
 >*7th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|12 (+1)|14 (+2)|10 (+0)|14 (+2)|
 >___
->- **Saving Throws** Dex +6
->- **Skills** Acrobatics +9, Performance +5, Persuasion +5, Sleight of Hand +6, Stealth +9
->- **Senses** passive Perception 10
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Dex +6
+>- **Skills**
+>	 - Acrobatics +9, Performance +5, Persuasion +5, Sleight of Hand +6, Stealth +9
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Helpful.*** The expert can take the Help action as a bonus action, and the creature who receives the help gains a 1d6 bonus to the d20 roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.  
 >

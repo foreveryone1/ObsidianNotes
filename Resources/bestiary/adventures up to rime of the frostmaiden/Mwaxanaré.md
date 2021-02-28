@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mwaxanaré
 >*Medium #humanoid (human), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|10 (+0)|11 (+0)|13 (+1)|12 (+1)|16 (+3)|
 >___
->- **Skills** Deception +5, Nature +3, Persuasion +5, Religion +3
->- **Senses** passive Perception 11
->- **Languages** Auran, Common, telepathy 30 ft.
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +5, Nature +3, Persuasion +5, Religion +3
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Auran, Common, telepathy 30 ft.
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Spellcasting.*** Mwaxanaré is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She regains her expended spell slots when she finishes a short or long rest. She knows the following warlock spells:  
 >

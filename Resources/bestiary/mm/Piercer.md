@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Piercer
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|16 (+3)|1 (-5)|7 (-2)|3 (-4)|
 >___
->- **Skills** Stealth +5
->- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 8
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***False Appearance.*** While the piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite.  
 >

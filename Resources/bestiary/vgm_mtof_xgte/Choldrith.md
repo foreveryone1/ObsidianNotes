@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Choldrith
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
 >___
->- **Skills** Athletics +5, Religion +2, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Undercommon
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Religion +2, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Fey Ancestry.*** The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.  
 >

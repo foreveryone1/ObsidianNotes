@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ancient Black Dragon
 >*Gargantuan #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
->- **Skills** Perception +16, Stealth +9
->- **Damage Immunities** acid
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
->- **Languages** Common, Draconic
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +14, Wis +9, Cha +11
+>- **Skills**
+>	 - Perception +16, Stealth +9
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr21 (33,000 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
@@ -37,9 +47,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Ancient Black Dragon
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 With deep-socketed eyes and broad nasal openings, a black dragon's face resembles a skull. Its curving, segmented horns are bone-colored near the base and darken to dead black at the tips. As a black dragon ages, the flesh around its horns and cheekbones deteriorates as though eaten by acid, leaving thin layers of hide that enhance its skeletal appearance. A black dragon's head is marked by spikes and horns. Its tongue is flat with a forked tip, drooling slime whose acidic scent adds to the dragon's reek of rotting vegetation and foul water.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Champion
 >*Medium #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|12 (+1)|12 (+1)|13 (+1)|9 (-1)|
 >___
->- **Skills** Perception +5
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Sahuagin
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr3 (700 XP)
 >___
 >***Blood Frenzy.*** The champion has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

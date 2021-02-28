@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Gray Ooze
 >*Medium #ooze , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|6 (-2)|16 (+3)|1 (-5)|6 (-2)|2 (-4)|
 >___
->- **Skills** Stealth +0
->- **Damage Resistances** acid, cold, fire
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- ** #cr1-2 ** (50 XP)
+>- **Skills**
+>	 - Stealth +0
+>- **Damage Resistances**
+>	 - acid, cold, fire
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (50 XP)
 >___
 >***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.  
 >

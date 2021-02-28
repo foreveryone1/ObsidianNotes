@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duodrone
 >*Medium #construct , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|12 (+1)|6 (-2)|10 (+0)|7 (-2)|
 >___
->- **Senses** truesight 120 ft., passive Perception 10
->- **Languages** Modron
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 10
+>- **Languages**
+>	 - Modron
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Axiomatic Mind.*** The duodrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >

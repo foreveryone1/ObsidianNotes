@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Horned Sister
 >*Medium #humanoid (tiefling), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6
->- **Damage Resistances** fire
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Draconic, Infernal, Undercommon
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal, Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Innate Spellcasting.*** The horned sister's innate spellcasting ability is Charisma (spell save DC 11). The horned sister can innately cast the following spells, requiring no material components:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Goristro
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|11 (+0)|25 (+7)|6 (-2)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Str +13, Dex +6, Con +13, Wis +7
->- **Skills** Perception +7
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Abyssal
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Str +13, Dex +6, Con +13, Wis +7
+>- **Skills**
+>	 - Perception +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal
+>
+> #cr17 (18,000 XP)
 >___
 >***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.  
 >

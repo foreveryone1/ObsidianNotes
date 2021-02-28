@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stirge
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|16 (+3)|11 (+0)|2 (-4)|8 (-1)|6 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Blood Drain.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.  

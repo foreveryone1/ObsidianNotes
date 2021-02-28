@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Expeditious Messenger
 >*Tiny #construct , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|13 (+1)|8 (-1)|12 (+1)|7 (-2)|
 >___
->- **Skills** Acrobatics +5, Stealth +5
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** one language spoken by its creator
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Acrobatics +5, Stealth +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - one language spoken by its creator
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Flyby.*** The messenger doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

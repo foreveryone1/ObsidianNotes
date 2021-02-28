@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Meloon Wardragon
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|15 (+2)|
 >___
->- **Saving Throws** Str +9, Con +6
->- **Skills** Athletics +9, Survival +6
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Deep Speech, telepathy 60 ft.
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +6
+>- **Skills**
+>	 - Athletics +9, Survival +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Deep Speech, telepathy 60 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Special Equipment.*** Meloon wields Azuredge but can't attune to it, and thus gains none of its benefits.  
 >

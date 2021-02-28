@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dark Tide Knight
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|
 >___
->- **Skills** Athletics +7, Stealth +7
->- **Senses** passive Perception 10
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +7, Stealth +7
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Bonded Mount.*** The knight is magically bound to a beast with an innate swimming speed trained to serve as its mount. While mounted on this #beast , the knight gains the beast's senses and ability to breathe underwater. The bonded mount obeys the knight's commands. If its mount dies, the knight can train a new beast to serve as its bonded mount, a process requiring a month.  
 >

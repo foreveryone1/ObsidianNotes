@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Bulette
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- #cr2 (450 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Charge.*** If the bulette moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.  
 >

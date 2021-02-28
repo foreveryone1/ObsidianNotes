@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bael
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|20 (+5)|21 (+5)|24 (+7)|24 (+7)|
 >___
->- **Saving Throws** Dex +9, Con +11, Int +11, Cha +13
->- **Skills** Intimidation +13, Perception +13, Persuasion +13
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 23
->- **Languages** all, telepathy 120 ft.
->- #cr19 (22,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +11, Int +11, Cha +13
+>- **Skills**
+>	 - Intimidation +13, Perception +13, Persuasion +13
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 23
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr19 (22,000 XP)
 >___
 >***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.  
 >
@@ -48,10 +60,14 @@
 ## Legendary Actions
 >Bael can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Bael regains spent legendary actions at the start of its turn.
 >
->- **Attack (Cost 2 Actions).** Bael attacks once with his hellish morningstar.
->- **Awaken Greed.** Bael casts charm person or major image.
->- **Infernal Command.** Bael uses his Infernal Command action.
->- **Teleport.** Bael uses his Teleport action.
+>- **Attack (Cost 2 Actions).**
+> Bael attacks once with his hellish morningstar.
+>- **Awaken Greed.** Bael casts
+> charm person or major image.
+>- **Infernal Command.**
+> Bael uses his Infernal Command action.
+>- **Teleport.**
+> Bael uses his Teleport action.
 ## Bael
 *Bael, Geryon, Hutijin, Moloch—they are pawns. Even the lords of layers such as Zariel and Mammon are merely more powerful pieces. Archdevils may make dramatic moves, but it is Asmodeus who plays the game best.*— Mordenkainen***Bael.*** With the Blood War raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle against the demons. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of barbed devils, Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael, because of his battle acumen, to safeguard his holdings. Mammon has never been ousted during a time when so many other archdevils have lost their positions, which is a testament to Bael's skill on the battlefield.
 For his accomplishments, as well as for the hue of his skin, Baal has been granted the title of Bronze General. His accolades notwithstanding, Bael has had a difficult time navigating the quagmire of infernal politics. His critics call him naive, though never to his face. His primary interest has always been leading soldiers in battle, so he finds it frustrating to have his ambitions of ascending to a higher rank constantly stymied by politically shrewd rivals.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Assassin Vine
 >*Large #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|16 (+3)|1 (-5)|10 (+0)|1 (-5)|
 >___
->- **Damage Resistances** cold, fire
->- **Condition Immunities** blinded, deafened, exhaustion, prone
->- **Senses** blindsight 30 ft., passive Perception 10
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - cold, fire
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, prone
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***False Appearance.*** While the assassin vine remains motionless, it is indistinguishable from a normal plant.  
 >

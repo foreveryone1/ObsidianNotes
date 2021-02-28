@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Liara Portyr
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|15 (+2)|14 (+2)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +4, Wis +4
->- **Skills** Athletics +5, Deception +5, Insight +4, Intimidation +5
->- **Senses** passive Perception 12
->- **Languages** Common, Draconic, Dwarvish
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +4
+>- **Skills**
+>	 - Athletics +5, Deception +5, Insight +4, Intimidation +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Dwarvish
+>
+> #cr4 (1,100 XP)
 >___
 >***Brave.*** Liara has advantage on saving throws against being frightened.  
 >

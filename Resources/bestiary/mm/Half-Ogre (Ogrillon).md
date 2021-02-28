@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Half-Ogre (Ogrillon)
 >*Large #giant , any chaotic alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|14 (+2)|7 (-2)|9 (-1)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Giant
->- #cr1 (200 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Battleaxe.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.  

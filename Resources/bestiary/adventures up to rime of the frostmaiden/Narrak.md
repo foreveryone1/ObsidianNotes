@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Narrak
 >*Small #humanoid (derro), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|13 (+1)|14 (+2)|5 (-3)|16 (+3)|
 >___
->- **Skills** Arcana +4, Stealth +4
->- **Senses** darkvision 120 ft., passive Perception 7
->- **Languages** Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +4, Stealth +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 7
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Insanity.*** Narrak has advantage on saving throws against being charmed or frightened.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ulitharid
 >*Large #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|15 (+2)|21 (+5)|19 (+4)|21 (+5)|
 >___
->- **Saving Throws** Int +9, Wis +8, Cha +9
->- **Skills** Arcana +9, Insight +8, Perception +8, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Deep Speech, Undercommon, telepathy 2 miles
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +8, Cha +9
+>- **Skills**
+>	 - Arcana +9, Insight +8, Perception +8, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Deep Speech, Undercommon, telepathy 2 miles
+>
+> #cr9 (5,000 XP)
 >___
 >***Creature Sense.*** The ulitharid is aware of the presence of creatures within 2 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.  
 >

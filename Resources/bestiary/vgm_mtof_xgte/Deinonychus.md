@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deinonychus
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|14 (+2)|4 (-3)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Pounce.*** If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the deinonychus can make one bite attack against it as a bonus action.  
 >

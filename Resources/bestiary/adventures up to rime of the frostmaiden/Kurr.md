@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kurr
 >*Medium #fiend (gnoll), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|15 (+2)|10 (+0)|11 (+0)|13 (+1)|
 >___
->- **Saving Throws** Con +4, Wis +2, Cha +3
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Abyssal, Gnoll
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +2, Cha +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Gnoll
+>
+> #cr4 (1,100 XP)
 >___
 >***Rampage.*** When Kurr reduces a creature to 0 hit points with a melee attack on its turn, Kurr can take a bonus action to move up to half its speed and make a bite attack.  
 >

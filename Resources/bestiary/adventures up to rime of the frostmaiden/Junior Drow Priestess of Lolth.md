@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Junior Drow Priestess of Lolth
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 >___
->- **Skills** Medicine +7, Perception +5, Persuasion +3, Religion +5
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** any two languages, Elvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Medicine +7, Perception +5, Persuasion +3, Religion +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - any two languages, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Divine Eminence.*** As a bonus action, the priestess can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priestess expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.  
 >

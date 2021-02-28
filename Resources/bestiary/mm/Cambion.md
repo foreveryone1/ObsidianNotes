@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cambion
 >*Medium #fiend , any evil alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|16 (+3)|14 (+2)|12 (+1)|16 (+3)|
 >___
->- **Saving Throws** Str +7, Con +6, Int +5, Cha +6
->- **Skills** Deception +6, Intimidation +6, Perception +4, Stealth +7
->- **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Common, Infernal
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +6, Int +5, Cha +6
+>- **Skills**
+>	 - Deception +6, Intimidation +6, Perception +4, Stealth +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> #cr5 (1,800 XP)
 >___
 >***Fiendish Blessing.*** The AC of the cambion includes its Charisma bonus.  
 >

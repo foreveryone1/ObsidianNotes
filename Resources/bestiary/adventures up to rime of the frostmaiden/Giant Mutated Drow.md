@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Mutated Drow
 >*Huge #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Wis +7, Cha +7
->- **Skills** Insight +7, Perception +7
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Common, Giant, Elvish
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +10, Wis +7, Cha +7
+>- **Skills**
+>	 - Insight +7, Perception +7
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Giant, Elvish
+>
+> #cr9 (5,000 XP)
 >___
 >***Fey Ancestry.*** The giant mutated drow has advantage on saving throws against being charmed, and magic can't put the giant mutated drow to sleep.  
 >

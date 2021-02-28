@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Rats
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|3 (-4)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.  
 >

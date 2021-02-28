@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Sea Horse
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|11 (+0)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Charge.*** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grum'shar
 >*Medium #humanoid (half-orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)|
 >___
->- **Skills** Arcana +4, History +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Orc
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Orc
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Relentless Endurance.*** When reduced to 0 hit points, Grum'shar drops to 1 hit point instead. He can only do this once per long rest.  
 >

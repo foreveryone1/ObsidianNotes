@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Narth Tezrin
 >*Medium #humanoid (Tethyrian human), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Insight +4, Investigation +3, Perception +6, Persuasion +5
->- **Senses** passive Perception 16
->- **Languages** Common, Dwarvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Insight +4, Investigation +3, Perception +6, Persuasion +5
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Cunning Action.*** On each of his turns, Narth can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

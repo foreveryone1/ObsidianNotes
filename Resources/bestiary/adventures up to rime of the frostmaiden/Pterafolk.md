@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pterafolk
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|12 (+1)|9 (-1)|10 (+0)|11 (+0)|
 >___
->- **Skills** Perception +2, Survival +2
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +2, Survival +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 >***Terror Dive.*** If the pterafolk is flying and dives at least 30 feet straight toward a target, and then hits that target with a melee weapon attack, the target is frightened until the end of its next turn.  
 >

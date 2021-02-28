@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kavil
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6
->- **Senses** passive Perception 11
->- **Languages** Dwarvish, Common, Giant, Undercommon
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Dwarvish, Common, Giant, Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Spellcasting.*** Kavil is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Kavil has the following wizard spells prepared:  
 >

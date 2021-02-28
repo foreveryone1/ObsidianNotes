@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Artus Cimber
 >*Medium #humanoid (human), neutral good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|13 (+1)|17 (+3)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Dex +5, Cha +7
->- **Skills** Deception +7, History +9, Insight +6, Survival +9
->- **Damage Immunities** While wearing the Ring of Winter: cold
->- **Senses** passive Perception 13
->- **Languages** Common, Draconic, Dwarvish, Goblin
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +5, Cha +7
+>- **Skills**
+>	 - Deception +7, History +9, Insight +6, Survival +9
+>- **Damage Immunities**
+>	 - While wearing the Ring of Winter: cold
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Goblin
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Artus wears the Ring of Winter. He and the ring can't be targeted by divination magic or perceived through magical scrying sensors. While attuned to and wearing the ring, Artus ceases to age and is immune to cold damage and the effects of extreme cold.  
 >Artus wields Bookmark a +3 dagger with additional magical properties. As a bonus action, Artus can activate any one of the following properties while attuned to the dagger, provided he has the weapon drawn:  

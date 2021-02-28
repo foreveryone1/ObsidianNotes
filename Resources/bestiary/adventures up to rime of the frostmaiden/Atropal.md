@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Atropal
 >*Huge undead (titan), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|5 (-3)|22 (+6)|25 (+7)|19 (+4)|24 (+7)|
 >___
->- **Saving Throws** Con +11, Wis +9
->- **Damage Vulnerabilities** radiant
->- **Damage Immunities** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., truesight 120 ft., passive Perception 14
->- **Languages** understands Celestial but utters only obscene nonsense
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +9
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Damage Immunities**
+>	 - cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - understands Celestial but utters only obscene nonsense
+>
+> #cr13 (10,000 XP)
 >___
 >***Magic Resistance.*** The atropal has advantage on saving throws against spells and other magical effects.  
 >
@@ -36,9 +47,12 @@
 ## Legendary Actions
 >The atropal can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The atropal regains spent legendary actions at the start of its turn.
 >
->- **Touch.** The atropal makes a touch attack.
->- **Ray of Cold (Costs 2 Actions).** The atropal uses its Ray of Cold.
->- **Wail (Costs 3 Actions).** The atropal lets out a withering wail. Any creature within 120 feet of the atropal that can hear the wail must succeed on a DC 19 Constitution saving throw or gain 1 level of exhaustion.
+>- **Touch**
+>	- The atropal makes a touch attack.
+>- **Ray of Cold (Costs 2 Actions)**
+>	- The atropal uses its Ray of Cold.
+>- **Wail (Costs 3 Actions)**
+>	- The atropal lets out a withering wail. Any creature within 120 feet of the atropal that can hear the wail must succeed on a DC 19 Constitution saving throw or gain 1 level of exhaustion.
 ## Atropal
 An atropal is a ghastly, unfinished creation of an evil god, cast adrift and abandoned long ago. Since an atropal was never truly alive, it can't be raised from the dead or resurrected by any means. Even divine intervention can't breathe true life into this hateful, miserable horror.
 An atropal is malformed and unfinished. Its wet, wrinkled, and bloated body is surmounted by a hairless, overlarge head set with glassy, vacant eyes. It constantly drools stinking ichor as it mouths obscenities. Its arms are too slender, with tiny hands ending in cruelly shaped nails. An atropal never walks but always floats, with its atrophied, dead legs hanging useless below it.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Azbara Jos
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|14 (+2)|16 (+3)|13 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +3
->- **Skills** Arcana +5, Deception +2, Insight +3, Stealth +5
->- **Senses** passive Perception 11
->- **Languages** Common, Draconic, Infernal, Primordial, Thayan
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +3
+>- **Skills**
+>	 - Arcana +5, Deception +2, Insight +3, Stealth +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal, Primordial, Thayan
+>
+> #cr4 (1,100 XP)
 >___
 >***Special Equipment.*** Azbara has two scrolls of mage armor.  
 >

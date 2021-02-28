@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Othovir
 >*Medium #humanoid (Illuskan human), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|10 (+0)|13 (+1)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Persuasion +5
->- **Senses** passive Perception 12
->- **Languages** Common, Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Persuasion +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** Othovir is a gifted harness-maker who doesn't talk about his family or where he came from. He cares about his business, his clients, and his good name.  
 >Ideal: "Find what you do well, and do it to the best of your ability."  

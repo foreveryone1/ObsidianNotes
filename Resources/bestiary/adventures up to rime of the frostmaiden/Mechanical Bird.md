@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mechanical Bird
 >*Tiny #construct , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 10
->- **Languages** —
->- #crUnknown
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #crUnknown
 >___
 ## Actions
 >***Slam.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 2 (1d3) piercing damage, and the bird is destroyed by the impact.

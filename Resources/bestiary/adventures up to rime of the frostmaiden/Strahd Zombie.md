@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Strahd Zombie
 >*Medium #undead , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 >___
->- **Saving Throws** Wis +0
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands the languages it knew in life but can't speak
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Wis +0
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Loathsome Limbs.*** Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:  
 >1–8: One leg is severed from the zombie if it has any legs left.  

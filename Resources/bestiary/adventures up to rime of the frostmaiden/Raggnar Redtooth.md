@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Raggnar Redtooth
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Athletics +5, Perception +2
->- **Senses** passive Perception 12
->- **Languages** any one language (usually Common)
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** Raggnar makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.  

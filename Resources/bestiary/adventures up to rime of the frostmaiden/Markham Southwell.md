@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Markham Southwell
 >*Medium #humanoid (Turami human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|11 (+0)|16 (+3)|14 (+2)|
 >___
->- **Skills** Perception +5, Survival +5
->- **Senses** passive Perception 16
->- **Languages** Common
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +5, Survival +5
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** Sheriff Markham of Bryn Shander is a brawny, likable man of few words. Nothing is more important to him than protecting Icewind Dale. He judges others by their actions, not their words.  
 >Ideal: "All people deserve to be treated with dignity."  

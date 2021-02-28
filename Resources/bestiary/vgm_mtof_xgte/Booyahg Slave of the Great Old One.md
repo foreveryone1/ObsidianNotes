@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Booyahg Slave of the Great Old One
 >*Small #humanoid (goblinoid), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|15 (+2)|12 (+1)|12 (+1)|18 (+4)|
 >___
->- **Saving Throws** Wis +4, Cha +7
->- **Skills** Arcana +4, History +4
->- **Damage Resistances** psychic
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** any two languages, telepathy 30 ft., Goblin
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Wis +4, Cha +7
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Damage Resistances**
+>	 - psychic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - any two languages, telepathy 30 ft., Goblin
+>
+> #cr6 (2,300 XP)
 >___
 >***Innate Spellcasting.*** The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:  
 >

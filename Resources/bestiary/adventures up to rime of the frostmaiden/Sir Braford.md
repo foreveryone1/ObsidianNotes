@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sir Braford
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|9 (-1)|14 (+2)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Athletics +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Special Equipment.*** Sir Braford wields Shatterspike, a magic longsword that grants a +1 bonus to attack and damage rolls made with it (included in his attack). See the Shatterspike handout for the item's other properties.  
 >

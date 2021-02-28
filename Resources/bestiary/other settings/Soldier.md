@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Soldier
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|11 (+0)|
 >___
->- **Skills** Athletics +3, Perception +2
->- **Senses** passive Perception 12
->- **Languages** any one language (usually Common)
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +3, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Formation Tactics.*** The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally.  
 >

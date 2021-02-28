@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Statue of Lolth
 >*Huge #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|20 (+5)|3 (-4)|11 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Abyssal but can't speak
->- #cr11 (7,200 XP)
+>- **Damage Immunities**
+>	 - poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> #cr11 (7,200 XP)
 >___
 >***Immutable Form.*** The statue is immune to any spell or effect that would alter its form.  
 >

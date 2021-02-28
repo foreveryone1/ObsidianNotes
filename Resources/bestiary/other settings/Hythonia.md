@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hythonia
 >*Large #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|17 (+3)|19 (+4)|14 (+2)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Str +11, Con +10, Cha +10
->- **Skills** Deception +10, Insight +9, Perception +9, Stealth +9
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 19
->- **Languages** Common
->- #cr17 (18,000 XP, or 36,000 XP as a mythic encounter)
+>- **Saving Throws**
+>	 - Str +11, Con +10, Cha +10
+>- **Skills**
+>	 - Deception +10, Insight +9, Perception +9, Stealth +9
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - Common
+>
+> #cr17 (18,000 XP, or 36,000 XP as a mythic encounter)
 >___
 >***Innate Spellcasting.*** Hythonia's spellcasting ability is Charisma (spell save DC 18). She can innately cast animate objects once per day requiring no material components.  
 >
@@ -41,15 +52,20 @@
 ## Legendary Actions
 >Hythonia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Hythonia regains spent legendary actions at the start of its turn.
 >
->- **Move.** Hythonia moves up to her speed without provoking opportunity attacks.
->- **Snaky Hair.** Hythonia makes one attack with her snaky hair.
->- **Petrified Earth (Costs 2 Actions).** Hythonia causes stone spikes to erupt from the ground in a 30-foot radius centered on her. The area becomes difficult terrain until the start of her next turn. Any creature, other than Hythonia, takes 9 (2d8) piercing damage for every 5 feet it moves on those spikes.
+>- **Move**
+>	- Hythonia moves up to her speed without provoking opportunity attacks.
+>- **Snaky Hair**
+>	- Hythonia makes one attack with her snaky hair.
+>- **Petrified Earth (Costs 2 Actions)**
+>	- Hythonia causes stone spikes to erupt from the ground in a 30-foot radius centered on her. The area becomes difficult terrain until the start of her next turn. Any creature, other than Hythonia, takes 9 (2d8) piercing damage for every 5 feet it moves on those spikes.
 >
 >### Mythic Actions
 >If Hythonia's mythic trait is active, she can use the options below as legendary actions for 1 hour after using Shed Skin.
 >
->- **Numbing Claws.** Hythonia makes two attacks with her claws. If both attacks hit the same creature, it takes an extra 7 (2d6) poison damage and must succeed on a DC 18 Constitution saving throw or become paralyzed until the start of her next turn.
->- **Look at Me (Costs 3 Actions).** Hythonia can force a sighted creature she has grappled to see her eyes and be affected by her gaze.
+>- **Numbing Claws**
+>	- Hythonia makes two attacks with her claws. If both attacks hit the same creature, it takes an extra 7 (2d6) poison damage and must succeed on a DC 18 Constitution saving throw or become paralyzed until the start of her next turn.
+>- **Look at Me (Costs 3 Actions)**
+>	- Hythonia can force a sighted creature she has grappled to see her eyes and be affected by her gaze.
 ## Hythonia
 Theros's reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn't merely a collector; she's an artist.
 When Hythonia came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the medusa's petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, Hythonia formulated a cruel plan. After encouraging them to engage in wild rituals, Hythonia began turning her followers to stone, weaving their forms to create a grisly throne made of their petrified bodies.

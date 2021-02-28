@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Renaer Neverember
 >*Medium #humanoid (Illuskan human), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|12 (+1)|14 (+2)|11 (+0)|15 (+2)|
 >___
->- **Skills** Acrobatics +8, Athletics +5, Persuasion +6
->- **Senses** passive Perception 10
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +8, Athletics +5, Persuasion +6
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Lightfooted.*** The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns.  
 >

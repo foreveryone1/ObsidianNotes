@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mahadi the Rakshasa
 >*Medium #fiend , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|18 (+4)|14 (+2)|18 (+4)|20 (+5)|
 >___
->- **Saving Throws** Wis +9, Cha +10
->- **Skills** Arcana +7, Deception +10, Insight +9, Perception +9
->- **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., passive Perception 19
->- **Languages** all (can read only), Common, Infernal
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Wis +9, Cha +10
+>- **Skills**
+>	 - Arcana +7, Deception +10, Insight +9, Perception +9
+>- **Damage Vulnerabilities**
+>	 - piercing from magic weapons wielded by good creatures
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - all (can read only), Common, Infernal
+>
+> #cr14 (11,500 XP)
 >___
 >***Innate Spellcasting.*** Mahadi's innate spellcasting ability is Charisma (spell save DC 18, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:  
 >

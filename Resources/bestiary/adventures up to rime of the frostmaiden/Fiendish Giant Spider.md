@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fiendish Giant Spider
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|3 (-4)|12 (+1)|4 (-3)|
 >___
->- **Skills** Perception +3, Stealth +7
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

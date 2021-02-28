@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin High Priestess
 >*Medium #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|12 (+1)|16 (+3)|10 (+0)|
 >___
->- **Saving Throws** Wis +6
->- **Skills** Insight +6, Perception +6
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Sahuagin
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +6
+>- **Skills**
+>	 - Insight +6, Perception +6
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr5 (1,800 XP)
 >___
 >***Blood Frenzy.*** The high priestess has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

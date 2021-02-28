@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Table
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|13 (+1)|1 (-5)|3 (-4)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
->- **Languages** —
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 6
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Antimagic Susceptibility.*** The table is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the table must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >

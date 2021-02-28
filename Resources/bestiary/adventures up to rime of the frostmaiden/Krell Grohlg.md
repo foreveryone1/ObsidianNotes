@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Krell Grohlg
 >*Medium #humanoid (half-orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
 >___
->- **Skills** Intimidation +2, Medicine +4, Nature +3, Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Orc
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +2, Medicine +4, Nature +3, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr2 (450 XP)
 >___
 >***Relentless Endurance.*** When reduced to 0 hit points, The krell grohlg drops to 1 hit point instead (but can't do this again until they finish a long rest).  
 >

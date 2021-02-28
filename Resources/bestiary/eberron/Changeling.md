@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Changeling
 >*Medium #humanoid (changeling, shapechanger), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|15 (+2)|12 (+1)|14 (+2)|10 (+0)|16 (+3)|
 >___
->- **Skills** Acrobatics +4, Deception +5, Insight +2, Perception +2, Persuasion +5
->- **Senses** passive Perception 12
->- **Languages** Common, Dwarvish, Elvish, Halfling, Thieves' cant
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Acrobatics +4, Deception +5, Insight +2, Perception +2, Persuasion +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish, Elvish, Halfling, Thieves' cant
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Change Appearance.*** The changeling can use its action to polymorph into a Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

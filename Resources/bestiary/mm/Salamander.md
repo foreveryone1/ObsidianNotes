@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Salamander
 >*Large #elemental , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Damage Vulnerabilities** cold
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Ignan
->- #cr5 (1,800 XP)
+>- **Damage Vulnerabilities**
+>	 - cold
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Ignan
+>
+> #cr5 (1,800 XP)
 >___
 >***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.  
 >

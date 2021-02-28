@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tressym
 >*Tiny #monstrosity , chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|15 (+2)|10 (+0)|11 (+0)|12 (+1)|12 (+1)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** understands Common but can't speak
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Detect Invisibility.*** Within 60 feet of the tressym, magical invisibility fails to conceal anything from the tressym's sight.  
 >

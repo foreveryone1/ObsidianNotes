@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Glabbagool
 >*Large #ooze , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|3 (-4)|20 (+5)|10 (+0)|6 (-2)|1 (-5)|
 >___
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
->- **Languages** telepathy 60 ft.
->- #cr2 (450 XP)
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - telepathy 60 ft.
+>
+> #cr2 (450 XP)
 >___
 >***Ooze Cube.*** Glabbagool takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to Glabbagool's Engulf and has disadvantage on the saving throw.  
 >Creatures inside Glabbagool can be seen but have total cover.  

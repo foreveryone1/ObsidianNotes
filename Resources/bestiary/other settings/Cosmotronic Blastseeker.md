@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cosmotronic Blastseeker
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|16 (+3)|18 (+4)|9 (-1)|12 (+1)|
 >___
->- **Saving Throws** Dex +4, Con +5
->- **Skills** Arcana +6, Intimidation +3, Perception +1
->- **Senses** passive Perception 11
->- **Languages** any one language (usually Common)
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +5
+>- **Skills**
+>	 - Arcana +6, Intimidation +3, Perception +1
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr4 (1,100 XP)
 >___
 >***Empowered Spell (3/Day).*** When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Night Blade
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|12 (+1)|10 (+0)|11 (+0)|14 (+2)|
 >___
->- **Skills** Intimidation +4, Stealth +6
->- **Senses** darkvision 60, passive Perception 10
->- **Languages** Common
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Intimidation +4, Stealth +6
+>- **Senses**
+>	 - darkvision 60, passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Aura of Murder.*** As long as the night blade is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.  
 >

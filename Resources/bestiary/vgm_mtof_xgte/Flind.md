@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flind
 >*Medium #humanoid (gnoll), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|19 (+4)|11 (+0)|13 (+1)|12 (+1)|
 >___
->- **Saving Throws** Con +8, Wis +5
->- **Skills** Intimidation +5, Perception +5
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Abyssal, Gnoll
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +5
+>- **Skills**
+>	 - Intimidation +5, Perception +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Abyssal, Gnoll
+>
+> #cr9 (5,000 XP)
 >___
 >***Aura of Blood Thirst.*** If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.  
 >

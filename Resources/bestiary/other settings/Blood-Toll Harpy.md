@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blood-Toll Harpy
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|10 (+0)|6 (-2)|11 (+0)|13 (+1)|
 >___
->- **Skills** Intimidation +3
->- **Senses** passive Perception 10
->- **Languages** Common
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Intimidation +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Blood Frenzy.*** The harpy has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

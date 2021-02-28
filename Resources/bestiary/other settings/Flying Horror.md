@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flying Horror
 >*Medium #aberration , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|20 (+5)|12 (+1)|2 (-4)|15 (+2)|16 (+3)|
 >___
->- **Skills** Perception +4, Stealth +7
->- **Damage Vulnerabilities** radiant
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +7
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Fear Frenzy.*** The horror has advantage on attack rolls against frightened creatures.  
 >

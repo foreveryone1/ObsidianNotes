@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vegepygmy Chief
 >*Small #plant , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|7 (-2)|12 (+1)|9 (-1)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Damage Resistances** lightning, piercing
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Vegepygmy
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Damage Resistances**
+>	 - lightning, piercing
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Vegepygmy
+>
+> #cr2 (450 XP)
 >___
 >***Plant Camouflage.*** The vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.  
 >

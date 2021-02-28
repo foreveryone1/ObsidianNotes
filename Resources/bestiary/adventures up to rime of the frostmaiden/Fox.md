@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fox
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|11 (+0)|3 (-4)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Hearing.*** The fox has advantage on Wisdom (Perception) checks that rely on hearing.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sea Hag
 >*Medium #fey , , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Aquan, Common, Giant
->- #cr2 (450 XP) or 4 (1,100 XP) when part of a coven
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Aquan, Common, Giant
+>
+> #cr2 (450 XP) or 4 (1,100 XP) when part of a coven
 >___
 >***Amphibious.*** The hag can breathe air and water.  
 >

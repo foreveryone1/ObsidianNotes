@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aeorian Reverser
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|16 (+3)|18 (+4)|6 (-2)|14 (+2)|8 (-1)|
 >___
->- **Saving Throws** Wis +5, Cha +2
->- **Skills** Perception +5, Stealth +6, Survival +5
->- **Damage Immunities** necrotic, radiant
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** understands Draconic but can't speak
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +2
+>- **Skills**
+>	 - Perception +5, Stealth +6, Survival +5
+>- **Damage Immunities**
+>	 - necrotic, radiant
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - understands Draconic but can't speak
+>
+> #cr8 (3,900 XP)
 >___
 >***Magic Resistance.*** The reverser has advantage on saving throws against spells and other magical effects.  
 >

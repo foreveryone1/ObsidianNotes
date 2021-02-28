@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warforged Titan
 >*Huge #construct , lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|8 (-1)|22 (+6)|3 (-4)|11 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr8 (3,900 XP)
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr8 (3,900 XP)
 >___
 >***Platforms.*** The warforged titan has two platforms built into its chassis. One Medium or smaller creature can ride on each platform without squeezing. To make a melee attack against a target within 5 feet of the warforged, they must use spears or weapons with reach and the target must be Large or larger.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rubblebelt Stalker
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|10 (+0)|14 (+2)|8 (-1)|
 >___
->- **Skills** Athletics +2, Perception +4, Stealth +4
->- **Senses** passive Perception 14
->- **Languages** any one language (usually Common)
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +2, Perception +4, Stealth +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Ambusher.*** In the first round of a combat, the stalker has advantage on attack rolls against any creature that hasn't taken a turn yet.  
 >

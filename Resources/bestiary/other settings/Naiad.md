@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Naiad
 >*Medium #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|11 (+0)|15 (+2)|10 (+0)|18 (+4)|
 >___
->- **Skills** Persuasion +6, Sleight of Hand +5
->- **Damage Resistances** psychic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** passive Perception 10
->- **Languages** Common, Sylvan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Persuasion +6, Sleight of Hand +5
+>- **Damage Resistances**
+>	 - psychic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The naiad can breathe air and water.  
 >

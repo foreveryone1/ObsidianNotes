@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Homunculus Servant
 >*Tiny construct*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Dex +2 plus PB
->- **Skills** Perception +0 plus PB × 2, Stealth +2 plus PB
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10 + (PB × 2)
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Dex +2 plus PB
+>- **Skills**
+>	 - Perception +0 plus PB × 2, Stealth +2 plus PB
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10 + (PB × 2)
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
 >

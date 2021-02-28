@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Boar
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|2 (-4)|9 (-1)|5 (-3)|
 >___
->- **Senses** passive Perception 9
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Charge.*** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.  
 >

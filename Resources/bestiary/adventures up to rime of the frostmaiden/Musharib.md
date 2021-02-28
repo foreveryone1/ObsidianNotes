@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Musharib
 >*Medium #humanoid (dwarf), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|13 (+1)|17 (+3)|12 (+1)|14 (+2)|11 (+0)|
 >___
->- **Skills** Perception +4, Stealth +3, Survival +4
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Dwarvish
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +3, Survival +4
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr1 (200 XP)
 >___
 >***Dwarven Resilience.*** Musharib has advantage on saving throws against poison.  
 >

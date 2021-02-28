@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frost Druid
 >*Medium #humanoid (human), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|16 (+3)|10 (+0)|16 (+3)|9 (-1)|
 >___
->- **Saving Throws** Int +3, Wis +6
->- **Skills** Nature +3, Perception +6, Survival +6
->- **Damage Resistances** cold
->- **Senses** darkvision 60ft. (beast form only), passive Perception 16
->- **Languages** Common, Druidic
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +3, Wis +6
+>- **Skills**
+>	 - Nature +3, Perception +6, Survival +6
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60ft. (beast form only), passive Perception 16
+>- **Languages**
+>	 - Common, Druidic
+>
+> #cr5 (1,800 XP)
 >___
 >***Spellcasting (Humanoid Form Only).*** The druid is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14; +6 to hit with spell attacks). It has the following druid spells prepared:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mishka Belview
 >*Medium #humanoid (mongrelfolk), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|9 (-1)|15 (+2)|9 (-1)|10 (+0)|6 (-2)|
 >___
->- **Skills** Deception +2, Perception +2, Stealth +3
->- **Senses** passive Perception 12
->- **Languages** Common
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Deception +2, Perception +2, Stealth +3
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Mimicry.*** Mishka can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.  
 >

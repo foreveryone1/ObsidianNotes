@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ki-rin
 >*Huge #celestial , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|16 (+3)|16 (+3)|19 (+4)|20 (+5)|20 (+5)|
 >___
->- **Skills** Insight +9, Perception +9, Religion +8
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
->- **Languages** all, telepathy 120 ft.
->- #cr12 (8,400 XP)
+>- **Skills**
+>	 - Insight +9, Perception +9, Religion +8
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:  
 >
@@ -52,9 +62,12 @@
 ## Legendary Actions
 >The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ki-rin regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight) check.
->- **Smite.** The ki-rin makes a hoof attack or casts sacred flame.
->- **Move.** The ki-rin moves up to its half its speed without provoking opportunity attacks.
+>- **Detect.**
+> The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight) check.
+>- **Smite.**
+> The ki-rin makes a hoof attack or casts sacred flame.
+>- **Move.**
+> The ki-rin moves up to its half its speed without provoking opportunity attacks.
 ## Ki-rin
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, a ki-rin is celebrated far and wide as a harbinger of destiny, a guardian of the sacred, and a counterbalance to the forces of evil.
 ***Good Personified.***  Ki-rins are the embodiment of good, and simply beholding one can evoke fear or awe in an observer. A typical ki-rin looks like a muscular stag the size of an elephant, covered in golden scales lined in some places with golden fur. It has a dark gold mane and tail, coppery cloven hooves, and a spiral-shaped coppery horn just above and between its luminous violet eyes. In a breeze or when aloft, the creature's scales and hair can create the impression that the ki-rin is ablaze with a holy, golden fire.

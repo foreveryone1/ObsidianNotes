@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hrabbaz
 >*Medium #humanoid (half-orc), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|17 (+3)|10 (+0)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Str +8, Con +6
->- **Skills** Athletics +8, Intimidation +4, Perception +5
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common, Orc
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +8, Con +6
+>- **Skills**
+>	 - Athletics +8, Intimidation +4, Perception +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr5 (1,800 XP)
 >___
 >***Extra Damage.*** As long as Hrabbaz has more than half his hit points left he deals an extra 3 (1d6) damage on all hits.  
 >

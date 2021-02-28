@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vampiric Mist
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|16 (+3)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Saving Throws** Wis +3
->- **Damage Resistances** acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Wis +3
+>- **Damage Resistances**
+>	 - acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Forbiddance.*** The mist can't enter a residence without an invitation from one of the occupants.  
 >

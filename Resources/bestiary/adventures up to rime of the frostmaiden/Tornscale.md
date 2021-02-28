@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tornscale
 >*Medium #humanoid (lizardfolk), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|7 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +4, Survival +5
->- **Senses** passive Perception 13
->- **Languages** Draconic
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4, Survival +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Draconic
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Hold Breath.*** Tornscale can hold its breath for 15 minutes.  
 >

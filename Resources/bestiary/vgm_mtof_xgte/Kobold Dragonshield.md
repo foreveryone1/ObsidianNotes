@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold Dragonshield
 >*Small #humanoid (kobold), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|14 (+2)|8 (-1)|9 (-1)|10 (+0)|
 >___
->- **Skills** Perception +1
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Draconic
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr1 (200 XP)
 >___
 >***Dragon's Resistance.*** The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1–2, acid (black); 3–4, cold (white); 5–6, fire (red); 7–8, lightning (blue); 9–10, poison (green).  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Hand of Yurtrus
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|11 (+0)|16 (+3)|11 (+0)|14 (+2)|9 (-1)|
 >___
->- **Skills** Arcana +2, Intimidation +1, Medicine +4, Religion +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands Common and Orc but can't speak
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +2, Intimidation +1, Medicine +4, Religion +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands Common and Orc but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Karrnathi Undead Soldier
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|12 (+1)|13 (+1)|5 (-3)|
 >___
->- **Skills** Athletics +5, Perception +3
->- **Damage Resistances** cold, poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +3
+>- **Damage Resistances**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Pack Tactics.*** The soldier has advantage on an attack roll against a creature if at least one of the soldier's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

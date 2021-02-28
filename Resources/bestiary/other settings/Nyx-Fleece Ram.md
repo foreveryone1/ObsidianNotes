@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nyx-Fleece Ram
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|12 (+1)|3 (-4)|13 (+1)|10 (+0)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- #cr1 (200 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Charge.*** If the ram moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ox
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Beast of Burden.*** The oxen is considered to be a Huge animal for the purposes of determining its carrying capacity.  
 >

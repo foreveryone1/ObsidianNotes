@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Faerie Dragon (Blue)
 >*Tiny #dragon , chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|20 (+5)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >___
->- **Skills** Arcana +4, Perception +3, Stealth +7
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Draconic, Sylvan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +4, Perception +3, Stealth +7
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Draconic, Sylvan
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:  
 >

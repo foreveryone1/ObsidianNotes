@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Centaur Mummy
 >*Large #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|16 (+3)|5 (-3)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Wis +5
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Sylvan
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Wis +5
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr6 (2,300 XP)
 >___
 >***Charge.*** If the centaur mummy moves at least 20 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.  
 >

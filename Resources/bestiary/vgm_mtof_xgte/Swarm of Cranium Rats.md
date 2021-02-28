@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Cranium Rats
 >*Medium swarm of tiny beasts, lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|14 (+2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** telepathy 30 ft.
->- #cr5 (1,800 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - telepathy 30 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Illumination.*** As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5 to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.  
 >

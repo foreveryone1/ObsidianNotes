@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bodak
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|12 (+1)|
 >___
->- **Skills** Perception +4, Stealth +6
->- **Damage Resistances** cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Abyssal, the languages it knew in life
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +6
+>- **Damage Resistances**
+>	 - cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, the languages it knew in life
+>
+> #cr6 (2,300 XP)
 >___
 >***Aura of Annihilation.*** The bodak can activate or deactivate this feature as a bonus action. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and fiends ignore this effect.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Eye of Gruumsh
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|9 (-1)|13 (+1)|12 (+1)|
 >___
->- **Skills** Intimidation +3, Religion +1
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Orc
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +3, Religion +1
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >

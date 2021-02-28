@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deep Scion
 >*Medium #humanoid (shapechanger), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|10 (+0)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Wis +3, Cha +4
->- **Skills** Deception +6, Insight +3, Sleight of Hand +3, Stealth +3
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Aquan, Common, Thieves' cant
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Wis +3, Cha +4
+>- **Skills**
+>	 - Deception +6, Insight +3, Sleight of Hand +3, Stealth +3
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Aquan, Common, Thieves' cant
+>
+> #cr3 (700 XP)
 >___
 >***Shapechanger.*** The deep scion can use its action to polymorph into a humanoid-piscine hybrid form, or back into its true form. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. The deep scion reverts to its true form if it dies.  
 >

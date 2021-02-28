@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cyclops
 >*Huge #giant , chaotic neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|11 (+0)|20 (+5)|8 (-1)|6 (-2)|10 (+0)|
 >___
->- **Senses** passive Perception 8
->- **Languages** Giant
->- #cr6 (2,300 XP)
+>- **Senses**
+>	 - passive Perception 8
+>- **Languages**
+>	 - Giant
+>
+> #cr6 (2,300 XP)
 >___
 >***Poor Depth Perception.*** The cyclops has disadvantage on any attack roll against a target more than 30 feet away.  
 >

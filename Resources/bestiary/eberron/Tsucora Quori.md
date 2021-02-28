@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tsucora Quori
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|18 (+4)|14 (+2)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Wis +5, Cha +6
->- **Skills** Insight +5, Perception +5
->- **Damage Resistances** psychic
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common, Quori
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +6
+>- **Skills**
+>	 - Insight +5, Perception +5
+>- **Damage Resistances**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common, Quori
+>
+> #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The quori's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components:  
 >

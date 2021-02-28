@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bat
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|15 (+2)|8 (-1)|2 (-4)|12 (+1)|4 (-3)|
 >___
->- **Senses** blindsight 60 ft., passive Perception 11
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Echolocation.*** The bat can't use its blindsight while deafened.  
 >

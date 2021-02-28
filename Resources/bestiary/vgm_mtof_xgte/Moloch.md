@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Moloch
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|19 (+4)|22 (+6)|21 (+5)|18 (+4)|23 (+6)|
 >___
->- **Saving Throws** Dex +11, Con +13, Wis +11, Cha +13
->- **Skills** Deception +13, Intimidation +13, Perception +11
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 21
->- **Languages** all, telepathy 120 ft.
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Dex +11, Con +13, Wis +11, Cha +13
+>- **Skills**
+>	 - Deception +13, Intimidation +13, Perception +11
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 21
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr21 (33,000 XP)
 >___
 >***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:  
 >
@@ -49,9 +61,12 @@
 ## Legendary Actions
 >Moloch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Moloch regains spent legendary actions at the start of its turn.
 >
->- **Stinking Cloud.** Moloch casts stinking cloud.
->- **Teleport.** Moloch uses his Teleport action.
->- **Whip.** Moloch makes one attack with his whip.
+>- **Stinking Cloud.**
+> Moloch casts stinking cloud.
+>- **Teleport.**
+> Moloch uses his Teleport action.
+>- **Whip.**
+> Moloch makes one attack with his whip.
 ## Moloch
 *Moloch obsesses over power he lost rather than thinking of the power he could gain elsewhere in the planes. What a pity he so wastes his potential.*— Mordenkainen***Moloch.*** Exiled from the Nine Hells, Moloch would do anything to reclaim his position. Long ago, Moloch earned his place among the other archdevils through the glory he won driving demons out of the Nine Hells. Asmodeus rewarded him by elevating Moloch to the rulership of Malbolge.
 For eons, Moloch ruled his domain, vying against the other archdevils as he sought still greater power. This animosity worked in Asmodeus's favor, since Asmodeus knew that Moloch's scheming helped keep the other archdevils in check. The arrangement began to unravel, however, when Moloch took the night hag named Malagard for his advisor. Her words were poison, and gradually she convinced Moloch to direct his efforts to topple Asmodeus.

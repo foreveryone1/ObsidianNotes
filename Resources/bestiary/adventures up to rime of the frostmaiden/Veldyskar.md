@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Veldyskar
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|15 (+2)|10 (+0)|8 (-1)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Dwarvish, Giant, Undercommon
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Dwarvish, Giant, Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Innate Spellcasting.*** Veldyskar can innately cast the following spell, requiring no material components:  
 >

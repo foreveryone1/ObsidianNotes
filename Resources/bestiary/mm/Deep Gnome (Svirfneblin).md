@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deep Gnome (Svirfneblin)
 >*Small #humanoid (gnome), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|9 (-1)|
 >___
->- **Skills** Investigation +3, Perception +2, Stealth +4
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Gnomish, Terran, Undercommon
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Investigation +3, Perception +2, Stealth +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Gnomish, Terran, Undercommon
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Gnome Cunning.*** The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

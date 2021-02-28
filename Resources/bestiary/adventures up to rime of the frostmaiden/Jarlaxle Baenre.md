@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jarlaxle Baenre
 >*Medium #humanoid (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|22 (+6)|14 (+2)|20 (+5)|16 (+3)|19 (+4)|
 >___
->- **Saving Throws** Dex +11, Wis +8
->- **Skills** Acrobatics +11, Athletics +6, Deception +14, Perception +8, Sleight of Hand +11, Stealth +16
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Abyssal, Common, Draconic, Dwarvish, Elvish, Undercommon
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Dex +11, Wis +8
+>- **Skills**
+>	 - Acrobatics +11, Athletics +6, Deception +14, Perception +8, Sleight of Hand +11, Stealth +16
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Abyssal, Common, Draconic, Dwarvish, Elvish, Undercommon
+>
+> #cr15 (13,000 XP)
 >___
 >***Special Equipment.*** Jarlaxle wears +3 leather armor, a hat of disguise, a bracer of flying daggers, a cloak of invisibility, a knave's eye patch, and a ring of truth telling. He wields a +3 rapier and carries a portable hole and a wand of web. His hat is adorned with a feather of diatryma summoning.  
 >
@@ -48,8 +57,10 @@
 ## Legendary Actions
 >Jarlaxle can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Jarlaxle regains spent legendary actions at the start of its turn.
 >
->- **Quick Step.** Jarlaxle moves up to his speed without provoking opportunity attacks.
->- **Attack (Costs 2 Actions).** Jarlaxle makes one attack with his +3 rapier or two attacks with daggers created by his bracer of flying daggers.
+>- **Quick Step**
+>	- Jarlaxle moves up to his speed without provoking opportunity attacks.
+>- **Attack (Costs 2 Actions)**
+>	- Jarlaxle makes one attack with his +3 rapier or two attacks with daggers created by his bracer of flying daggers.
 ## Jarlaxle Baenre
 Jarlaxle is a flamboyant, swashbuckling drow iconoclast. He leads a renegade drow faction called Bregan D'aerthe, made up of disenfranchised male drow, most of them culled from destroyed or disgraced houses. Gifted with a sharp mind, a sense of humor, puissant skill with a blade, and a wealth of useful magic items, Jarlaxle infiltrated the city of Luskan, brought a kind of order to its lawlessness, and declared himself its secret lord.
 Jarlaxle likes to weave a tangled web of schemes that leave his enemies baffled-the latest of which is a plan to legitimize Luskan by making it a member of the Lords' Alliance. The city's unsavory reputation has thwarted all previous efforts, and the current leaders of the Lords' Alliance have voiced their opposition to Luskan's admittance. A few have flatly declared that the city will never be welcome in the alliance. Nonetheless, Jarlaxle aims to persuade Laeral Silverhand, the Open Lord of Waterdeep, to champion Luskan's cause-even if that means losing other alliance members in the process. Tying Luskan's fortunes to those of Waterdeep would increase Jarlaxle's political and economic power on the Sword Coast.

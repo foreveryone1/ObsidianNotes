@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Lonely
 >*Medium #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|6 (-2)|11 (+0)|6 (-2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common
->- #cr9 (5,000 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing while in dim light or darkness
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr9 (5,000 XP)
 >___
 >***Psychic Leech.*** At the start of each of the Lonely's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rictavio
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|12 (+1)|13 (+1)|16 (+3)|18 (+4)|16 (+3)|
 >___
->- **Saving Throws** Con +4, Wis +7
->- **Skills** Arcana +9, Insight +7, Medicine +7, Perception +7, Religion +6, Sleight of Hand +4
->- **Senses** passive Perception 17
->- **Languages** Abyssal, Common, Elvish, Infernal
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +7
+>- **Skills**
+>	 - Arcana +9, Insight +7, Medicine +7, Perception +7, Religion +6, Sleight of Hand +4
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Abyssal, Common, Elvish, Infernal
+>
+> #cr5 (1,800 XP)
 >___
 >***Special Equipment.*** In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.  
 >

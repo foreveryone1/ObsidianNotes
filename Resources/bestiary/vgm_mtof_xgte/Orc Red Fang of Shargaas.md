@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Red Fang of Shargaas
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|15 (+2)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Skills** Intimidation +1, Perception +2, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Orc
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Intimidation +1, Perception +2, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr3 (700 XP)
 >___
 >***Cunning Action.*** On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

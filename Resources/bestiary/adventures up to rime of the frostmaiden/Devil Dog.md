@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Devil Dog
 >*Medium #humanoid (tiefling), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Medicine +4, Religion +2
->- **Damage Resistances** fire
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** any one language (usually Common), Infernal
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Medicine +4, Religion +2
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common), Infernal
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Innate Spellcasting.*** The Devil Dog's innate spellcasting ability is Charisma (spell save DC 10). The Devil Dog can innately cast the following spells, requiring no material components:  
 >

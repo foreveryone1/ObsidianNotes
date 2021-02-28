@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Noble
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Perception +4, Persuasion +5
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** any two languages, Elvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Perception +4, Persuasion +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - any two languages, Elvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Fey Ancestry.*** The drow noble has advantage on saving throws against being charmed, and magic can't put the drow noble to sleep.  
 >

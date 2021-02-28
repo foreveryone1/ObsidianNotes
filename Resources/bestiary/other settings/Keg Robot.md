@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Keg Robot
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Skills** Perception +1
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** understands Common but can't speak
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Customizable Storage.*** A keg robot can hold up to three types of liquid payload totaling 12 gallons within its hollow, barrel-shaped body. A full keg robot can make one liquid attack per gallon before the liquid must be refilled. Filling a keg robot takes 2 rounds per gallon. Differing payloads can alter the keg robot's attacks from those presented here.  
 >

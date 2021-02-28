@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gauth
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|16 (+3)|15 (+2)|15 (+2)|13 (+1)|
 >___
->- **Saving Throws** Int +5, Wis +5, Cha +4
->- **Skills** Perception +5
->- **Condition Immunities** prone
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Deep Speech, Undercommon
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +5, Cha +4
+>- **Skills**
+>	 - Perception +5
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Deep Speech, Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.  
 >

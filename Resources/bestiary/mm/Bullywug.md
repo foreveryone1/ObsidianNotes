@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bullywug
 >*Medium #humanoid (bullywug), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|12 (+1)|13 (+1)|7 (-2)|10 (+0)|7 (-2)|
 >___
->- **Skills** Stealth +3
->- **Senses** passive Perception 10
->- **Languages** Bullywug
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Bullywug
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** The bullywug can breathe air and water.  
 >

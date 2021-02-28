@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bugbear Chief
 >*Medium #humanoid (goblinoid), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|14 (+2)|11 (+0)|12 (+1)|11 (+0)|
 >___
->- **Skills** Intimidation +2, Stealth +6, Survival +3
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Goblin
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Intimidation +2, Stealth +6, Survival +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr3 (700 XP)
 >___
 >***Brute.*** A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).  
 >

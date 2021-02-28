@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thunderbeast Skeleton
 >*Huge #undead , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., Hit: 18 (4d6 + 4) piercing damage.  

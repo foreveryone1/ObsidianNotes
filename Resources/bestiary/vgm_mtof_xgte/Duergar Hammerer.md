@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Hammerer
 >*Medium #construct , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|7 (-2)|12 (+1)|5 (-3)|5 (-3)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 7
->- **Languages** understands Dwarvish but can't speak
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 7
+>- **Languages**
+>	 - understands Dwarvish but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Engine of Pain.*** Once per turn, a creature that attacks the hammerer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 5 (1d10) damage to the hammerer, and the hammerer can respond by using its Multiattack with its reaction.  
 >

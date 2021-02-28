@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Istrid Horn
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)|
 >___
->- **Saving Throws** Con +5, Wis +6
->- **Skills** Intimidation +4, Religion +3
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Dwarvish
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +5, Wis +6
+>- **Skills**
+>	 - Intimidation +4, Religion +3
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr8 (3,900 XP)
 >___
 >***Dwarven Resilience.*** Istrid has advantage on saving throws against being poisoned.  
 >

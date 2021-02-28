@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mantrap
 >*Large #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|2 (-4)|
 >___
->- **Skills** Perception +4, Stealth +6
->- **Condition Immunities** blinded, deafened, exhaustion, prone
->- **Senses** tremorsense 30 ft., passive Perception 10
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +6
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, prone
+>- **Senses**
+>	 - tremorsense 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Attractive Pollen (1/Day).*** When the mantrap detects any creatures nearby, it can use its reaction to release pollen out to a radius of 30 feet. Any beast or humanoid within the area must succeed on a DC 11 Wisdom saving throw or be forced to use all its movement on its turns to get as close to the the mantrap as possible. An affected target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >

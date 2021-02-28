@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gold-Forged Sentinel
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|19 (+4)|3 (-4)|16 (+3)|10 (+0)|
 >___
->- **Skills** Perception +6
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** understands one language of its creator but can't speak
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +6
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Charge.*** If the sentinel moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 10 (3d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.  
 >

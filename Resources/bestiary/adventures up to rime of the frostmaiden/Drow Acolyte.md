@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Acolyte
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Medicine +4, Perception +4, Religion +2
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** any one language (usually Common), Elvish
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Medicine +4, Perception +4, Religion +2
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Fey Ancestry.*** The drow acolyte has advantage on saving throws against being charmed, and magic can't put the drow acolyte to sleep.  
 >

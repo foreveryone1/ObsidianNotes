@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vargouille
 >*Tiny #fiend , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|14 (+2)|4 (-3)|7 (-2)|2 (-4)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands Abyssal, Infernal, and any languages it knew before becoming a vargouille but can't speak
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands Abyssal, Infernal, and any languages it knew before becoming a vargouille but can't speak
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 10 (3d6) poison damage.  

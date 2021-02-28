@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jarund Elkhardt
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|15 (+2)|12 (+1)|14 (+2)|18 (+4)|
 >___
->- **Saving Throws** Con +5, Wis +5
->- **Skills** Athletics +7, Intimidation +7, Survival +5
->- **Senses** passive Perception 12
->- **Languages** Common, Dwarvish
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Con +5, Wis +5
+>- **Skills**
+>	 - Athletics +7, Intimidation +7, Survival +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr5 (1,800 XP)
 >___
 >***Brute.*** A melee weapon deals one extra die of its damage when Jarund hits with it (included in the attack).  
 >

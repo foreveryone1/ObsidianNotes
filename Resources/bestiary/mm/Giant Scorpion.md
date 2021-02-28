@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Scorpion
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|15 (+2)|1 (-5)|9 (-1)|3 (-4)|
 >___
->- **Senses** blindsight 60 ft., passive Perception 9
->- **Languages** —
->- #cr3 (700 XP)
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** The scorpion makes three attacks: two with its claws and one with its sting.  

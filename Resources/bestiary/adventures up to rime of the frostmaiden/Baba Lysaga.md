@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Baba Lysaga
 >*Medium #humanoid (human, shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|16 (+3)|20 (+5)|17 (+3)|13 (+1)|
 >___
->- **Saving Throws** Wis +7
->- **Skills** Arcana +13, Religion +13
->- **Senses** passive Perception 13
->- **Languages** Abyssal, Common, Draconic, Dwarvish, Giant
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Wis +7
+>- **Skills**
+>	 - Arcana +13, Religion +13
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Abyssal, Common, Draconic, Dwarvish, Giant
+>
+> #cr11 (7,200 XP)
 >___
 >***Shapechanger.*** Baba Lysaga can use an action to polymorph into a swarm of insects (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.  
 >

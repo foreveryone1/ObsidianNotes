@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Amarith Coppervein
 >*Medium #humanoid (dwarf), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Athletics +5, Perception +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** any one language (usually Common), Dwarvish
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common), Dwarvish
+>
+> #cr3 (700 XP)
 >___
 >***Dwarven Resilience.*** The amarith coppervein has advantage on saving throws against poison, and has resistance against poison damage.  
 >

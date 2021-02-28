@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tashlyn Yafeera
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Str +8, Con +6
->- **Skills** Athletics +8, Intimidation +5, Perception +6
->- **Senses** passive Perception 16
->- **Languages** Common
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Str +8, Con +6
+>- **Skills**
+>	 - Athletics +8, Intimidation +5, Perception +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common
+>
+> #cr9 (5,000 XP)
 >___
 >***Extra Damage.*** Tashlyn deals an extra 7 (2d6) damage to every hit if she has more than half her hit points remaining.  
 >

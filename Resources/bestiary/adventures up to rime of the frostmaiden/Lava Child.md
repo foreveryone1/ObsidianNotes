@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lava Child
 >*Medium #humanoid (lava child), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|11 (+0)|10 (+0)|10 (+0)|
 >___
->- **Skills** Athletics +6, Survival +2
->- **Damage Immunities** fire; bludgeoning, piercing, and slashing from metal weapons
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Ignan
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +6, Survival +2
+>- **Damage Immunities**
+>	 - fire; bludgeoning, piercing, and slashing from metal weapons
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Ignan
+>
+> #cr3 (700 XP)
 >___
 >***Metal Immunity.*** The lava child can move through metal without hindrance, and it has advantage on attack rolls against any creature wearing metal armor or using a metal shield.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stone Giant Dreamwalker
 >*Huge giant (stone giant), chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|10 (+0)|8 (-1)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Con +9, Wis +3
->- **Skills** Athletics +14, Perception +3
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Giant
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +9, Wis +3
+>- **Skills**
+>	 - Athletics +14, Perception +3
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr10 (5,900 XP)
 >___
 >***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't incapacitated. On a failed save, the creature is charmed by the giant. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.  
 >

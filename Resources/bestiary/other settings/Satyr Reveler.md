@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Satyr Reveler
 >*Medium #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|12 (+1)|10 (+0)|16 (+3)|
 >___
->- **Skills** Acrobatics +5, Performance +7, Stealth +5
->- **Senses** passive Perception 10
->- **Languages** Common, Sylvan
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Acrobatics +5, Performance +7, Stealth +5
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr1 (200 XP)
 >___
 >***Enthralling Performance.*** If the satyr performs for at least 1 minute, it chooses up to four humanoids within 60 feet of it who watched or listened to the entire performance. Each target must succeed on a DC 13 Wisdom saving throw or be charmed. While charmed in this way, the target idolizes the satyr and will take part in the satyr's revels. The charmed condition ends for the creature after 1 hour, if it takes any damage, if the satyr attacks the target, or if the target witnesses the satyr attacking or damaging any of the target's allies.  
 >

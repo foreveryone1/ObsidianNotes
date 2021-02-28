@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gar Shatterkeel
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|16 (+3)|12 (+1)|18 (+4)|13 (+1)|
 >___
->- **Skills** Nature +9, Survival +8
->- **Damage Resistances** cold
->- **Senses** passive Perception 14
->- **Languages** Aquan, Common
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Nature +9, Survival +8
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr9 (5,000 XP)
 >___
 >***Amphibious.*** Gar can breathe air and water.  
 >

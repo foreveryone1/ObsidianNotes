@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Anchorite of Talos
 >*Medium #humanoid (half-orc, shapechanger), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|9 (-1)|15 (+2)|12 (+1)|
 >___
->- **Skills** Nature +1, Stealth +3, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Orc
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Nature +1, Stealth +3, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr3 (700 XP)
 >___
 >***Shapechanger.*** The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

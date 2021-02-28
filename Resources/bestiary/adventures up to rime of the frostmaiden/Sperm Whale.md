@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sperm Whale
 >*Gargantuan #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|8 (-1)|17 (+3)|3 (-4)|12 (+1)|5 (-3)|
 >___
->- **Senses** blindsight 120 ft., passive Perception 11
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Echolocation.*** The whale can't use its blindsight while deafened.  
 >

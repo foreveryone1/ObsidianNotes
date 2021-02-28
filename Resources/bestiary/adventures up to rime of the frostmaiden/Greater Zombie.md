@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Greater Zombie
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|4 (-3)|6 (-2)|6 (-2)|
 >___
->- **Saving Throws** Wis +1
->- **Damage Resistances** cold, necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands the languages it knew in life but can't speak
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +1
+>- **Damage Resistances**
+>	 - cold, necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Turn Resistance.*** The zombie has advantage on saving throws against any effect that turns undead.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Green Dragon Wyrmling
 >*Medium #dragon , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 >___
->- **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
->- **Skills** Perception +4, Stealth +3
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +3, Wis +2, Cha +3
+>- **Skills**
+>	 - Perception +4, Stealth +3
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >

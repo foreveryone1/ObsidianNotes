@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Husk Zombie
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 >___
->- **Saving Throws** Con +5, Wis +0
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands the languages it knew in life but can't speak
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Con +5, Wis +0
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Curse of the Husk.*** A humanoid slain by a melee attack from the zombie revives as a husk zombie on its next turn.  
 >

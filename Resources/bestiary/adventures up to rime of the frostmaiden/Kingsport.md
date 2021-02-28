@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kingsport
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|4 (-3)|
 >___
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 10
->- **Languages** Common
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Hold Breath.*** Kingsport can hold its breath for 20 minutes.  
 >

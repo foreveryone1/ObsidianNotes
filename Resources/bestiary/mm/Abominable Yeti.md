@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Abominable Yeti
 >*Huge #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|22 (+6)|9 (-1)|13 (+1)|9 (-1)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Yeti
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Yeti
+>
+> #cr9 (5,000 XP)
 >___
 >***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.  
 >

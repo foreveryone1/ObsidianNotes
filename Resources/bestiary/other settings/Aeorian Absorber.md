@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aeorian Absorber
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|18 (+4)|18 (+4)|6 (-2)|14 (+2)|8 (-1)|
 >___
->- **Saving Throws** Wis +6, Cha +3
->- **Skills** Perception +6, Stealth +8, Survival +6
->- **Damage Immunities** necrotic, radiant
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** understands Draconic but can't speak
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Wis +6, Cha +3
+>- **Skills**
+>	 - Perception +6, Stealth +8, Survival +6
+>- **Damage Immunities**
+>	 - necrotic, radiant
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - understands Draconic but can't speak
+>
+> #cr10 (5,900 XP)
 >___
 >***Magic Resistance.*** The absorber has advantage on saving throws against spells and other magical effects.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Axe of Mirabar Soldier
 >*Medium #humanoid (dwarf), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Athletics +5, Perception +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Dwarvish
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr3 (700 XP)
 >___
 >***Dwarven Resilience.*** The axe of mirabar soldier has advantage on saving throws against poison, and has resistance against poison damage.  
 >

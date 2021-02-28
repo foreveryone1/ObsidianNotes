@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnome Ceremorph
 >*Small #aberration , any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|12 (+1)|19 (+4)|17 (+3)|17 (+3)|
 >___
->- **Saving Throws** Int +7, Wis +6, Cha +6
->- **Skills** Arcana +7, Deception +6, Insight +6, Perception +6, Persuasion +6, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Deep Speech, Gnomish, telepathy 120 ft., Undercommon
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +6, Cha +6
+>- **Skills**
+>	 - Arcana +7, Deception +6, Insight +6, Perception +6, Persuasion +6, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Deep Speech, Gnomish, telepathy 120 ft., Undercommon
+>
+> #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The ceremorph's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:  
 >

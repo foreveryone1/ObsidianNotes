@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shoalar Quanderil
 >*Medium #humanoid (water genasi), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|16 (+3)|14 (+2)|10 (+0)|17 (+3)|
 >___
->- **Skills** Arcana +4, Deception +5, Insight +2, Persuasion +5
->- **Damage Resistances** acid
->- **Senses** passive Perception 10
->- **Languages** Aquan, Common
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Arcana +4, Deception +5, Insight +2, Persuasion +5
+>- **Damage Resistances**
+>	 - acid
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Amphibious.*** Shoalar can breathe air and water.  
 >

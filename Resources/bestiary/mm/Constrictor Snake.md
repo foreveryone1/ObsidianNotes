@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Constrictor Snake
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
 >___
->- **Senses** blindsight 10 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.  

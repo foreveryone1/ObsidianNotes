@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Category 1 Krasis
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|14 (+2)|2 (-4)|13 (+1)|8 (-1)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- #cr1 (200 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The krasis can breathe air and water.  
 >

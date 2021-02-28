@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sirac of Suzail
 >*Medium #humanoid (Chondathan human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|11 (+0)|12 (+1)|13 (+1)|16 (+3)|
 >___
->- **Skills** Athletics +4, Insight +3, Survival +3
->- **Senses** passive Perception 11
->- **Languages** Common, Orc
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Athletics +4, Insight +3, Survival +3
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Orc
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fisher but instead found religion. The misbegotten son of Artus Cimber, a renowned human adventurer, Sirac hasn't seen his father since he was a baby.  
 >Ideal: "Without duty or loyalty, a man is nothing."  

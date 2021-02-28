@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Augrek Brighthelm
 >*Medium #humanoid (shield dwarf), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|15 (+2)|10 (+0)|11 (+0)|11 (+0)|
 >___
->- **Skills** Athletics +4, Perception +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Dwarvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Athletics +4, Perception +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Dwarven Resilience.*** Augrek has advantage on saving throws against poison.  
 >

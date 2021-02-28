@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hutijin
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|15 (+2)|25 (+7)|23 (+6)|19 (+4)|25 (+7)|
 >___
->- **Saving Throws** Dex +9, Con +14, Wis +11
->- **Skills** Intimidation +14, Perception +11
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 21
->- **Languages** all, telepathy 120 ft.
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +14, Wis +11
+>- **Skills**
+>	 - Intimidation +14, Perception +11
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 21
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr21 (33,000 XP)
 >___
 >***Infernal Despair.*** Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.  
 >
@@ -55,9 +67,12 @@
 ## Legendary Actions
 >Hutijin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Hutijin regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Hutijin attacks once with his mace.
->- **Lightning Storm (Costs 2 Actions).** Hutijin releases lightning in a 20-foot radius. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
->- **Teleport.** Hutijin uses his Teleport action.
+>- **Attack.**
+> Hutijin attacks once with his mace.
+>- **Lightning Storm (Costs 2 Actions).**
+> Hutijin releases lightning in a 20-foot radius. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
+>- **Teleport.**
+> Hutijin uses his Teleport action.
 ## Hutijin
 *What price would you put on your life? How much then, for your soul? Bargain with Hutijin, and it will cost you both. I hope it is worth it.*— Mordenkainen***Hutijin.*** Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, the devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of pit fiends, which make up Cania's aristocracy. With such soldiers under his command, Hutijin can easily crush any rival who gets in his way, while also providing Mephistopheles with security against armies that might seek to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.

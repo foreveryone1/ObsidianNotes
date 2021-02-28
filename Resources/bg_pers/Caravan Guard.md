@@ -20,7 +20,7 @@
 - My brother has a farm TOWN and I've helped him and his neigbors move their goods to OTHER TOWN and other surrounding towns. Those are good people.
 - A caravan I lead was attacked by bandits and many innocents died. I swear that I will avenge them by killing any bandits I encounter.
 - The Soldiery are mostly good guys who understand the importance of protecting the roads. The City Watch is who you have to look out for. If they are inspecting your goods, get ready to pay a fine.
-- The new commander of POST, NAME, understands the importance of safe roads. He's hired me for several jobs and I'm grateful.
+- The new commander of POST, NAME, understands the importance of safe roads. He's hired me for several jobs and I'm grateful. ^f96dfe
 - There's always a road I haven't traveled before. I'm always looking for new places to explore.
 - Wealth and power mean little without the freedom to go where and when you want.
 

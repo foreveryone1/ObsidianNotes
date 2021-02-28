@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Razerblast
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|16 (+3)|9 (-1)|10 (+0)|13 (+1)|
 >___
->- **Skills** Intimidation +4, Perception +3
->- **Damage Immunities** fire
->- **Senses** passive Perception 13
->- **Languages** Common, Ignan
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Intimidation +4, Perception +3
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Ignan
+>
+> #cr5 (1,800 XP)
 >___
 >***Searing Armor.*** The razerblast's armor is hot. Any creature grappling the razerblast or grappled by it takes 5 (1d10) fire damage at the end of that creature's turn.  
 >

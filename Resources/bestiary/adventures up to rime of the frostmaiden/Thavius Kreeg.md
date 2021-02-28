@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thavius Kreeg
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|11 (+0)|15 (+2)|18 (+4)|16 (+3)|
 >___
->- **Skills** Deception +5, Medicine +6, Persuasion +5, Religion +4
->- **Senses** passive Perception 14
->- **Languages** Abyssal, Common, Infernal
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Deception +5, Medicine +6, Persuasion +5, Religion +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Shadow of Guilt.*** Thavius's shadow is that of a pudgy, horned devil with small wings.  
 >

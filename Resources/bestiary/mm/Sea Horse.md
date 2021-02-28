@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sea Horse
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,8 +14,11 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Water Breathing.*** The sea horse can breathe only underwater.

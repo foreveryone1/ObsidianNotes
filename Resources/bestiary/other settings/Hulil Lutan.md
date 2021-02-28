@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hulil Lutan
 >*Medium #humanoid (dwarf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Deception +4, Persuasion +4, Religion +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** any one language (usually Common), Dwarvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +4, Persuasion +4, Religion +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - any one language (usually Common), Dwarvish
+>
+> #cr2 (450 XP)
 >___
 >***Dark Devotion.*** Hulil has advantage on saving throws against being charmed or frightened.  
 >

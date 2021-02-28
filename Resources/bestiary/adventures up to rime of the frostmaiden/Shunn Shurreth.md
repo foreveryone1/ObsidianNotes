@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shunn Shurreth
 >*Medium #humanoid (elf), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|12 (+1)|
 >___
->- **Saving Throws** Dex +7, Con +5, Wis +4
->- **Skills** Perception +4, Stealth +10
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Elvish, Undercommon
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +5, Wis +4
+>- **Skills**
+>	 - Perception +4, Stealth +10
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr5 (1,800 XP)
 >___
 >***Fey Ancestry.*** Shunn has advantage on saving throws against being charmed, and magic can't put Shunn to sleep.  
 >

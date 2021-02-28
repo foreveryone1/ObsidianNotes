@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Remorhaz
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|17 (+3)|3 (-4)|10 (+0)|4 (-3)|
 >___
->- **Damage Immunities** cold, fire
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Damage Immunities**
+>	 - cold, fire
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.  
 >

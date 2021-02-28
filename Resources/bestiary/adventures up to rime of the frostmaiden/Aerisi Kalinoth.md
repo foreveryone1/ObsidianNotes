@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aerisi Kalinoth
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|12 (+1)|17 (+3)|10 (+0)|16 (+3)|
 >___
->- **Skills** Arcana +6, History +6, Perception +3
->- **Damage Resistances** lightning
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Auran, Common, Elvish
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Arcana +6, History +6, Perception +3
+>- **Damage Resistances**
+>	 - lightning
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Auran, Common, Elvish
+>
+> #cr7 (2,900 XP)
 >___
 >***Fey Ancestry.*** Aerisi has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >

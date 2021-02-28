@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aberrant Spirit
 >*Medium #aberration , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|15 (+2)|16 (+3)|10 (+0)|6 (-2)|
 >___
->- **Damage Immunities** psychic
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Deep Speech, understands the languages you speak
->- #cr-unavailable
+>- **Damage Immunities**
+>	 - psychic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Deep Speech, understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Regeneration (Slaadi Only).*** The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.  
 >

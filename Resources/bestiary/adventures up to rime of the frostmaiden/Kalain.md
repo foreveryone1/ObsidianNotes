@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kalain
 >*Medium #humanoid (half-elf), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +4, Wis +3
->- **Skills** Acrobatics +4, Perception +5, Performance +6
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Common, Elvish
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +4, Wis +3
+>- **Skills**
+>	 - Acrobatics +4, Perception +5, Performance +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Art Imitates Life (3/Day).*** Kalain touches one of her paintings and causes its subject to spring forth, becoming a creature of that kind provided its CR is 3 or lower. The creature appears in an unoccupied space within 5 feet of the painting, which becomes blank. The creature is friendly toward Kalain and hostile toward all others. It rolls initiative to determine when it acts. It disappears after 1 minute, when it is reduced to 0 hit points, or when Kalain dies or falls unconscious.  
 >

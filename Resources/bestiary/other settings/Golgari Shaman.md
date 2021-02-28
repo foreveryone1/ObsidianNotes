@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Golgari Shaman
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|12 (+1)|12 (+1)|17 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +4, Wis +6
->- **Skills** Arcana +4, Insight +6, Nature +4, Religion +4
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Elvish
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +6
+>- **Skills**
+>	 - Arcana +4, Insight +6, Nature +4, Religion +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr5 (1,800 XP)
 >___
 >***Fey Ancestry.*** The shaman has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >

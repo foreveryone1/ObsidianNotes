@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hybrid Spy
 >*Medium #humanoid (Simic hybrid), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|12 (+1)|13 (+1)|14 (+2)|9 (-1)|
 >___
->- **Skills** Perception +4, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common plus any one language
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common plus any one language
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Chameleon Skin.*** The hybrid has advantage on Dexterity (Stealth) checks made to hide.  
 >

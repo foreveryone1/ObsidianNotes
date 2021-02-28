@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Necromite of Myrkul
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|15 (+2)|16 (+3)|11 (+0)|10 (+0)|
 >___
->- **Skills** Arcana +5, Religion +5
->- **Senses** passive Perception 10
->- **Languages** Abyssal, Common, Infernal
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Arcana +5, Religion +5
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> ** #cr1-2 ** (100 XP)
 >___
 ## Actions
 >***Skull Flail.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage.  

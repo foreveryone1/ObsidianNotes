@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Xardorok Sunblight
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|18 (+4)|12 (+1)|13 (+1)|18 (+4)|
 >___
->- **Saving Throws** Wis +4, Cha +7
->- **Skills** Arcana +4, Deception +7, Intimidation +7
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Common, Dwarvish
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +4, Cha +7
+>- **Skills**
+>	 - Arcana +4, Deception +7, Intimidation +7
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr5 (1,800 XP)
 >___
 >***Duergar Resilience.*** Xardorok has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >

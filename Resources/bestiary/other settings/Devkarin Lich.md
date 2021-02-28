@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Devkarin Lich
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|19 (+4)|16 (+3)|15 (+2)|
 >___
->- **Saving Throws** Con +7, Int +9, Wis +8
->- **Skills** Arcana +14, Insight +8, Perception +8
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** truesight 120 ft., passive Perception 18
->- **Languages** Common, Elvish, Kraul
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Con +7, Int +9, Wis +8
+>- **Skills**
+>	 - Arcana +14, Insight +8, Perception +8
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 18
+>- **Languages**
+>	 - Common, Elvish, Kraul
+>
+> #cr14 (11,500 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.  
 >
@@ -45,9 +57,12 @@
 ## Legendary Actions
 >The devkarin lich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The devkarin lich regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** The lich casts one of its cantrips.
->- **Noxious Touch (Costs 2 Actions).** The lich uses Noxious Touch.
->- **Disrupt Life (Costs 3 Actions).** Each creature within 30 feet of the lich must make a DC 17 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>- **Cantrip**
+>	- The lich casts one of its cantrips.
+>- **Noxious Touch (Costs 2 Actions)**
+>	- The lich uses Noxious Touch.
+>- **Disrupt Life (Costs 3 Actions)**
+>	- Each creature within 30 feet of the lich must make a DC 17 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 ## Devkarin Lich
 Powerful spellcasters of the Devkarin elves, steeped in Golgari magic, can transcend death to become liches. For them, life and death don't merely chase each other in an inevitable cycle; the two can intersect, and at that nexus the liches find immense power, which commands the awe, envy, and fear of other Golgari.
 Unlike the shambling zombies they command, liches retain their memories, their personalities, and especially their ambition. They also retain the grace and stature of living elves, but their bodies are in a constant state of slow decay. Various forms of fungus grow in and over the rotting flesh to hold the body together.

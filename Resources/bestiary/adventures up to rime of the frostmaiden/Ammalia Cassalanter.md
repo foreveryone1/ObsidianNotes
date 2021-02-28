@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ammalia Cassalanter
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6, Insight +4, Persuasion +5
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 11
->- **Languages** Common, Draconic, Elvish, Infernal
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6, Insight +4, Persuasion +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Elvish, Infernal
+>
+> #cr5 (1,800 XP)
 >___
 >***Spellcasting.*** Ammalia is a 9th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). She has the following wizard spells prepared:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Uthgardt Shaman
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|13 (+1)|10 (+0)|15 (+2)|12 (+1)|
 >___
->- **Skills** Medicine +4, Nature +4, Perception +4, Survival +6
->- **Senses** passive Perception 14
->- **Languages** Bothii, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Medicine +4, Nature +4, Perception +4, Survival +6
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Bothii, Common
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).  
 >

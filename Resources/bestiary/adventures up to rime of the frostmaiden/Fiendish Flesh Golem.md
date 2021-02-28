@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fiendish Flesh Golem
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|9 (-1)|20 (+5)|7 (-2)|10 (+0)|5 (-3)|
 >___
->- **Damage Resistances** cold, fire
->- **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine or silvered
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr8 (3,900 XP)
+>- **Damage Resistances**
+>	 - cold, fire
+>- **Damage Immunities**
+>	 - lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine or silvered
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr8 (3,900 XP)
 >___
 >***Berserk.*** Whenever the golem starts its turn with 100 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points. If the golem's creator is within 60 feet of the berserk golem, the creator can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 100 hit points or fewer, the golem might go berserk again.  
 >

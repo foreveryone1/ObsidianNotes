@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Archon of the Triumvirate
 >*Medium #celestial , lawful neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|19 (+4)|15 (+2)|21 (+5)|18 (+4)|
 >___
->- **Saving Throws** Con +9, Wis +10, Cha +9
->- **Skills** Insight +10, Perception +10
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** darkvision 120 ft., passive Perception 20
->- **Languages** all
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +10, Cha +9
+>- **Skills**
+>	 - Insight +10, Perception +10
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 20
+>- **Languages**
+>	 - all
+>
+> #cr14 (11,500 XP)
 >___
 >***Eye of the Law.*** As a bonus action, the archon can target a creature it can see within 120 feet of it and determine which laws that creature has broken in the last 24 hours.  
 >
@@ -37,9 +48,12 @@
 ## Legendary Actions
 >The archon of the triumvirate can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The archon of the triumvirate regains spent legendary actions at the start of its turn.
 >
->- **Rejoin Mount.** If the archon isn't mounted, it magically teleports to its steed and mounts it as long as the archon and its steed are on the same plane of existence.
->- **Smite (Costs 2 Actions).** The archon makes a Hammer of Justice attack, and then its mount can use its reaction to make a melee weapon attack.
->- **Detention (Costs 3 Actions).** The archon targets a creature it can see within 60 feet of it. The target must succeed on a DC 18 Charisma saving throw or be magically teleported to a harmless demiplane until the end of the archon's next turn, whereupon the target reappears in the space it left or the nearest unoccupied space if that space is occupied.
+>- **Rejoin Mount**
+>	- If the archon isn't mounted, it magically teleports to its steed and mounts it as long as the archon and its steed are on the same plane of existence.
+>- **Smite (Costs 2 Actions)**
+>	- The archon makes a Hammer of Justice attack, and then its mount can use its reaction to make a melee weapon attack.
+>- **Detention (Costs 3 Actions)**
+>	- The archon targets a creature it can see within 60 feet of it. The target must succeed on a DC 18 Charisma saving throw or be magically teleported to a harmless demiplane until the end of the archon's next turn, whereupon the target reappears in the space it left or the nearest unoccupied space if that space is occupied.
 ## Archon of the Triumvirate
 Archons are enigmatic, supernatural embodiments of the harshest aspects of law and order. They espouse a rigid sense of justice and deal ruthless punishment to those who break the law. This nature often aligns them with the Azorius Senate, and they are commonly seen circling above the Azorius guildhall astride their winged felidar mounts, soaring alongside griffon-mounted hussars.
 An archon appears as an armored humanoid figure, nearly always mounted. Its face is usually shadowed beneath a large hood; those who have seen beneath the hood describe a face of celestial beauty with a stern expression and blank white eyes.

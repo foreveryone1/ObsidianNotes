@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Red Dragon
 >*Large #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 >___
->- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
->- **Skills** Perception +8, Stealth +4
->- **Damage Immunities** fire
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
->- **Languages** Common, Draconic
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +9, Wis +4, Cha +8
+>- **Skills**
+>	 - Perception +8, Stealth +4
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr10 (5,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  

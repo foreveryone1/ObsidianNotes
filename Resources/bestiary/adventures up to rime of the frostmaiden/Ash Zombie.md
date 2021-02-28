@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ash Zombie
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 >___
->- **Saving Throws** Wis +0
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands all languages it spoke in life but can't speak
->- ** #cr1-4 ** (50 XP)
+>- **Saving Throws**
+>	 - Wis +0
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands all languages it spoke in life but can't speak
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Ash Puff.*** The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a DC 10 Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tarkanan Assassin
 >*Medium #humanoid (any race), any non-good alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Athletics +3, Deception +2, Perception +4, Sleight of Hand +5, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Thieves' cant
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +3, Deception +2, Perception +4, Sleight of Hand +5, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Thieves' cant
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting.*** The assassin's spellcasting ability is Constitution (+4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >

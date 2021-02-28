@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Spy
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|12 (+1)|12 (+1)|10 (+0)|13 (+1)|
 >___
->- **Skills** Deception +5, Insight +2, Investigation +5, Perception +4, Persuasion +3, Sleight of Hand +5, Stealth +7
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +5, Insight +2, Investigation +5, Perception +4, Persuasion +3, Sleight of Hand +5, Stealth +7
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

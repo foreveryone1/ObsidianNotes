@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lemure
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|5 (-3)|11 (+0)|1 (-5)|11 (+0)|3 (-4)|
 >___
->- **Damage Resistances** cold
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Infernal but can't speak
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Resistances**
+>	 - cold
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Infernal but can't speak
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.  
 >

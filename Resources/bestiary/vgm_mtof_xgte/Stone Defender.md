@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stone Defender
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|3 (-4)|10 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands one language of its creator but can't speak
->- #cr4 (1,100 XP)
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***False Appearance.*** While the stone defender remains motionless against an uneven earthen or stone surface, it is indistinguishable from that surface.  
 >

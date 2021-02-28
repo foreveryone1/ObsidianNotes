@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Air Elemental
 >*Large #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
 >___
->- **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Auran
->- #cr5 (1,800 XP)
+>- **Damage Resistances**
+>	 - lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Auran
+>
+> #cr5 (1,800 XP)
 >___
 >***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.  
 >

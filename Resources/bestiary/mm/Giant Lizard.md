@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Lizard
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Anvilwrought Raptor
 >*Tiny #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|3 (-4)|14 (+2)|1 (-5)|
 >___
->- **Skills** Perception +4
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** understands one language of its creator but can't speak
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Keen Sight.*** The raptor has advantage on Wisdom (Perception) checks that rely on sight.  
 >

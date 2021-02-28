@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cassiok Shadowdusk
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Str +2, Dex +4, Con +3, Int +11, Wis +8, Cha +5
->- **Skills** Arcana +13, History +13
->- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
->- **Senses** passive Perception 12
->- **Languages** Common, Deep Speech, Infernal, Undercommon
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Str +2, Dex +4, Con +3, Int +11, Wis +8, Cha +5
+>- **Skills**
+>	 - Arcana +13, History +13
+>- **Damage Resistances**
+>	 - damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Deep Speech, Infernal, Undercommon
+>
+> #cr12 (8,400 XP)
 >___
 >***Special Equipment.*** Cassiok carries a staff of power that grants him a +2 bonus to Armor Class, spell attack rolls, and saving throws. His insectoid physiology prevents him from making melee attacks with the staff. If reduced to 20 hit points or fewer, Cassiok uses his next action to break his staff in a retributive strike.  
 >

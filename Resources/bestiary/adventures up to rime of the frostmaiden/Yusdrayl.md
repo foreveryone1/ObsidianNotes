@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yusdrayl
 >*Small #humanoid (kobold), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|15 (+2)|14 (+2)|10 (+0)|10 (+0)|16 (+3)|
 >___
->- **Skills** Arcana +2, Insight +2, Stealth +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Draconic
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Arcana +2, Insight +2, Stealth +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr1 (200 XP)
 >___
 >***Pack Tactics.*** Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

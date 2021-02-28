@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vasilka
 >*Medium #construct , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >___
->- **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr5 (1,800 XP)
+>- **Damage Immunities**
+>	 - lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Aversion of Fire.*** If Vasilka takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.  
 >

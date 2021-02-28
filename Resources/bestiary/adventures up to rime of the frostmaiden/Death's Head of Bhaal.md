@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Death's Head of Bhaal
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|20 (+5)|20 (+5)|14 (+2)|13 (+1)|16 (+3)|
 >___
->- **Skills** Intimidation +6, Perception +4, Persuasion +6, Stealth +11
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Intimidation +6, Perception +4, Persuasion +6, Stealth +11
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 >***Aura of Murder.*** As long as the death's head is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.  
 >

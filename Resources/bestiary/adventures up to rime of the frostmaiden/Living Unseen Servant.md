@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Unseen Servant
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|10 (+0)|11 (+0)|1 (-5)|10 (+0)|1 (-5)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 12
->- **Languages** understands one language (usually Common) but can't speak
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, paralyzed, petrified, poisoned, unconscious
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 12
+>- **Languages**
+>	 - understands one language (usually Common) but can't speak
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Invisibility.*** The unseen servant is invisible.  
 >

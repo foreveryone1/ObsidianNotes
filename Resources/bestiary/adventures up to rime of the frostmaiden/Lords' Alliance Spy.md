@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lords' Alliance Spy
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
->- **Senses** passive Perception 16
->- **Languages** Common, Dwarvish
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr1 (200 XP)
 >___
 >***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

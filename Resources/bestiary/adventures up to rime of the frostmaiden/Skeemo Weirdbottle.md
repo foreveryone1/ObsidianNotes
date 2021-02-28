@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skeemo Weirdbottle
 >*Small #humanoid (gnome), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6, Perception +4, Performance +5
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Common, Gnomish, Undercommon
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6, Perception +4, Performance +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common, Gnomish, Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Gnome Cunning.*** Skeemo has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

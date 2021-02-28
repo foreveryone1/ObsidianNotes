@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bandit
 >*Medium #humanoid (any race), any non-lawful alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadowghast
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|20 (+5)|12 (+1)|12 (+1)|11 (+0)|8 (-1)|
 >___
->- **Skills** Perception +3, Stealth +8
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +8
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Shadow Stealth.*** While in dim light or darkness, the shadowghast can take the Hide action as a bonus action.  
 >

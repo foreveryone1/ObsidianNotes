@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Red Abishai
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|19 (+4)|14 (+2)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Str +12, Con +10, Wis +8
->- **Skills** Intimidation +10, Perception +8
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Draconic, Infernal, telepathy 120 ft.
->- #cr19 (22,000 XP)
+>- **Saving Throws**
+>	 - Str +12, Con +10, Wis +8
+>- **Skills**
+>	 - Intimidation +10, Perception +8
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Draconic, Infernal, telepathy 120 ft.
+>
+> #cr19 (22,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.  
 >

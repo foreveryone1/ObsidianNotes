@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Azer
 >*Medium #elemental , lawful neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
 >___
->- **Saving Throws** Con +4
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 11
->- **Languages** Ignan
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Con +4
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Ignan
+>
+> #cr2 (450 XP)
 >___
 >***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.  
 >

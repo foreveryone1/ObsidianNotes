@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Brahma Lutier
 >*Medium #humanoid (elf), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|12 (+1)|11 (+0)|13 (+1)|16 (+3)|
 >___
->- **Skills** Perception +3, Performance +5, Persuasion +5
->- **Senses** passive Perception 13
->- **Languages** Common, Elvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +3, Performance +5, Persuasion +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Fey Ancestry.*** Brahma has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >

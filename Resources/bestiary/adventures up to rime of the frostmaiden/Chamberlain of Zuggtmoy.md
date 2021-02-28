@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chamberlain of Zuggtmoy
 >*Large #plant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|7 (-2)|14 (+2)|11 (+0)|8 (-1)|12 (+1)|
 >___
->- **Damage Resistances** bludgeoning, piercing
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Abyssal, Undercommon
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Abyssal, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Mushroom Portal.*** The chamberlain counts as a mushroom for the Fungus Stride feature of the bridesmaid of Zuggtmoy.  
 >

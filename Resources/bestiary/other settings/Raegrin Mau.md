@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Raegrin Mau
 >*Medium #humanoid (elf), any non-good alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Deception +2, Perception +2, Religion +2
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common), Elvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +2, Perception +2, Religion +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Dark Devotion.*** Raegrin has advantage on saving throws against being charmed or frightened.  
 >

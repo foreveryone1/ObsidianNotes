@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thorvin Twinbeard
 >*Medium #humanoid (dwarf), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|16 (+3)|10 (+0)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Dwarvish
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Dwarven Resilience.*** Thorvin has advantage on saving throws against poison and resistance to poison damage.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnome Squidling
 >*Small #aberration , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|7 (-2)|10 (+0)|4 (-3)|10 (+0)|3 (-4)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands Deep Speech and Gnomish but can't speak, telepathy 60 ft.
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands Deep Speech and Gnomish but can't speak, telepathy 60 ft.
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The squidling's innate spellcasting ability is Intelligence (spell save DC 7). It can innately cast levitate at will, requiring no components.  
 >

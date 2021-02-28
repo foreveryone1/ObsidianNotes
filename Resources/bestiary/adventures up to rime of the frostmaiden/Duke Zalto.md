@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duke Zalto
 >*Huge #giant , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +3, Con +10, Cha +5
->- **Skills** Athletics +11, Perception +6
->- **Damage Resistances** lightning
->- **Damage Immunities** fire
->- **Senses** passive Perception 16
->- **Languages** Common, Elvish, Giant
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +10, Cha +5
+>- **Skills**
+>	 - Athletics +11, Perception +6
+>- **Damage Resistances**
+>	 - lightning
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Elvish, Giant
+>
+> #cr9 (5,000 XP)
 >___
 >***Special Equipment.*** Zalto wears a ring of lightning resistance.  
 >

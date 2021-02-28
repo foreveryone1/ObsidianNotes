@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Naergoth Bladelord
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|16 (+3)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Dex +5, Wis +6
->- **Skills** Perception +6, Stealth +5
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Common, Draconic
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +6
+>- **Skills**
+>	 - Perception +6, Stealth +5
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr11 (7,200 XP)
 >___
 >***Sunlight Sensitivity.*** While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Brain in a Jar
 >*Small #undead , any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|3 (-4)|15 (+2)|19 (+4)|10 (+0)|15 (+2)|
 >___
->- **Saving Throws** Int +6, Cha +4
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, paralyzed, poisoned, prone
->- **Senses** blindsight 120 ft. (blind beyond this radius); see also "detect sentience" below, passive Perception 10
->- **Languages** the languages it knew in life
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Int +6, Cha +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, paralyzed, poisoned, prone
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius); see also "detect sentience" below, passive Perception 10
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr3 (700 XP)
 >___
 >***Detect Sentience.*** The brain can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.  
 >

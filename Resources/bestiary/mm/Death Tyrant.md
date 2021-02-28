@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Death Tyrant
 >*Large #undead , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|19 (+4)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Str +5, Con +7, Int +9, Wis +7, Cha +9
->- **Skills** Perception +12
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned, prone
->- **Senses** darkvision 120 ft., passive Perception 22
->- **Languages** Deep Speech, Undercommon
->- #cr14 (11,500 XP) or 15 (13,000 XP) when encountered in lair
+>- **Saving Throws**
+>	 - Str +5, Con +7, Int +9, Wis +7, Cha +9
+>- **Skills**
+>	 - Perception +12
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 22
+>- **Languages**
+>	 - Deep Speech, Undercommon
+>
+> #cr14 (11,500 XP) or 15 (13,000 XP) when encountered in lair
 >___
 >***Negative Energy Cone.*** The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.  
 >Any creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.  
@@ -48,7 +59,8 @@ If the target is a Large or smaller nonmagical object or creation of magical for
 ## Legendary Actions
 >The death tyrant can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The death tyrant regains spent legendary actions at the start of its turn.
 >
->- **Eye Ray.** The death tyrant uses one random eye ray.
+>- **Eye Ray**
+>	-  The death tyrant uses one random eye ray.
 ## Death Tyrant
 On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
 ***Deathly Despot.*** As they did when they were beholders, death tyrants lord their power over other creatures. Moreover, a beholder's ability to quash magical energy with its central eye gives way to a more sinister power in a death tyrant, which can transform former slaves and enemies into undead servants.

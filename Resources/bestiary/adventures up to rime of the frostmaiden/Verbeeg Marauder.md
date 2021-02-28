@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Verbeeg Marauder
 >*Large #giant , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|16 (+3)|11 (+0)|10 (+0)|9 (-1)|
 >___
->- **Saving Throws** Dex +2, Con +5
->- **Skills** Animal Handling +2, Athletics +6, Stealth +2
->- **Senses** passive Perception 10
->- **Languages** Common, Giant
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +2, Con +5
+>- **Skills**
+>	 - Animal Handling +2, Athletics +6, Stealth +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr4 (1,100 XP)
 >___
 >***Simple Weapon Wielder.*** A simple weapon deals one extra die of its damage when the verbeeg hits with it (included in the attack).  
 >

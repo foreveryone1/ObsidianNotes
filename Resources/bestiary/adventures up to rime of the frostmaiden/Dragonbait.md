@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dragonbait
 >*Medium #humanoid (saurial), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|17 (+3)|14 (+2)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Wis +6, Cha +7
->- **Skills** Athletics +5, Medicine +6
->- **Senses** passive Perception 13
->- **Languages** understands Common but can't speak
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +6, Cha +7
+>- **Skills**
+>	 - Athletics +5, Medicine +6
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Divine Health.*** Dragonbait is immune to disease.  
 >

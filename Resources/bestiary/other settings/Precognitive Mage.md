@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Precognitive Mage
 >*Medium #humanoid (any race), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|10 (+0)|18 (+4)|13 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +3
->- **Skills** Perception +3
->- **Senses** truesight 120 ft., passive Perception 13
->- **Languages** Common plus any one language
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +3
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 13
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr3 (700 XP)
 >___
 >***Innate Spellcasting.*** The mage's innate spellcasting ability is Intelligence (spell save DC 14). It can cast the following spells, requiring no material components:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Soulblade
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Dwarvish, Undercommon
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr1 (200 XP)
 >___
 >***Create Soulblade.*** As a bonus action, the duergar can create a shortsword-sized, visible blade of psionic energy. The weapon appears in the duergar's hand and vanishes if it leaves the duergar's grip, or if the duergar dies or is incapacitated.  
 >

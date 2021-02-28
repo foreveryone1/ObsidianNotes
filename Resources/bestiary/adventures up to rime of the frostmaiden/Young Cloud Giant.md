@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Cloud Giant
 >*Huge #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|19 (+4)|10 (+0)|12 (+1)|12 (+1)|
 >___
->- **Skills** Insight +4, Perception +4
->- **Senses** passive Perception 14
->- **Languages** Common, Giant
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Insight +4, Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:  
 >

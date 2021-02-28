@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Soul Monger
 >*Medium #humanoid (elf), neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|14 (+2)|19 (+4)|15 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +7, Wis +6, Cha +5
->- **Skills** Perception +6
->- **Damage Immunities** necrotic, psychic
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** darkvision 60 ft., passive Perception 17
->- **Languages** Common, Elvish
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +7, Wis +6, Cha +5
+>- **Skills**
+>	 - Perception +6
+>- **Damage Immunities**
+>	 - necrotic, psychic
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr11 (7,200 XP)
 >___
 >***Fey Ancestry.*** The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >

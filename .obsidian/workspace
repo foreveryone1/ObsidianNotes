@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "_Settings/Leverhulm/lv factions/summer remnants.md",
             "mode": "source"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "6b21e83ce3fccc7a",
         "type": "tabs",
-        "dimension": 33.22884012539185,
+        "dimension": 49.895615866388304,
         "children": [
           {
             "id": "5454cef8376b7ed7",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "_Settings/Leverhulm/lv factions/summer remnants.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "_Settings/Leverhulm/lv factions/summer remnants.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,7 +85,7 @@
       {
         "id": "397bba701bd8cc32",
         "type": "tabs",
-        "dimension": 66.77115987460816,
+        "dimension": 50.104384133611696,
         "children": [
           {
             "id": "93f0b28a0d2319c1",
@@ -112,12 +112,22 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "_Settings/Leverhulm/lv factions/summer remnants.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4b1b546d28358b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Settings/Leverhulm/lv factions/summer remnants.md"
               }
             }
           },
@@ -137,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_Settings/Leverhulm/lv factions/Untitled.md",
+    "_Settings/Leverhulm/Untitled.md",
+    "example monster.md",
+    "Monsters.md",
     "Scratchpad.md",
-    "Resources/Tools.md",
-    "Resources/Skills/Wisdom.md",
-    "Resources/Skills/Survival.md",
-    "Resources/Skills/Strength.md",
-    "Resources/Skills/Stealth.md",
-    "Resources/Skills/Sleight of Hand.md",
-    "Resources/Skills/Religion.md",
-    "Resources/Skills/Persuasion.md",
-    "Resources/Skills/Performance.md"
+    "Resources/Houserules/GGMM/LVL0.md",
+    "Resources/Manoeuvres.md",
+    "Resources/Movement Types.md",
+    "Resources/Tools/_Tools.md",
+    "Resources/Tools/Alchemist's Supplies.md"
   ]
 }

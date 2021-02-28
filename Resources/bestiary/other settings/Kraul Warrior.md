@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kraul Warrior
 >*Medium #humanoid (kraul), neutral evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|10 (+0)|11 (+0)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Kraul, understands Common but can't speak it
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Kraul, understands Common but can't speak it
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Hive Mind.*** The kraul is immune to the charmed and frightened conditions while within 30 feet of at least one other kraul.  
 >

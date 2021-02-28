@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold Underling
 >*Small #humanoid (kobold), lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|9 (-1)|8 (-1)|9 (-1)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Draconic
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Draconic
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Messy End.*** The kobold explodes 3 rounds after it dies, or immediately if it was killed by a critical hit. The explosion destroys the kobold's body, leaving its equipment behind. Each creature within 5 feet of the exploding kobold must make a DC 10 Dexterity saving throw, taking 4 (1d8) bludgeoning damage on a failed save, or half as much damage on a successful one.  
 >

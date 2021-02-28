@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # King Snurre
 >*Huge #giant , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +3, Con +10, Cha +5
->- **Skills** Athletics +11, Perception +6
->- **Damage Resistances** cold
->- **Damage Immunities** fire
->- **Senses** passive Perception 16
->- **Languages** Common, Giant
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +10, Cha +5
+>- **Skills**
+>	 - Athletics +11, Perception +6
+>- **Damage Resistances**
+>	 - cold
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr11 (7,200 XP)
 >___
 ## Actions
 >***Multiattack.*** Snurre makes two greatsword attacks.  

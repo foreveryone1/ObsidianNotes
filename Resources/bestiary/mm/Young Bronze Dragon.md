@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Bronze Dragon
 >*Large #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 >___
->- **Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
->- **Skills** Insight +4, Perception +7, Stealth +3
->- **Damage Immunities** lightning
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
->- **Languages** Common, Draconic
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +7, Wis +4, Cha +6
+>- **Skills**
+>	 - Insight +4, Perception +7, Stealth +3
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr8 (3,900 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skulk
 >*Medium #humanoid , chaotic neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|10 (+0)|10 (+0)|7 (-2)|1 (-5)|
 >___
->- **Saving Throws** Con +2
->- **Skills** Stealth +8
->- **Damage Immunities** radiant
->- **Condition Immunities** blinded
->- **Senses** darkvision 120 ft., passive Perception 8
->- **Languages** understands Common but can't speak
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Con +2
+>- **Skills**
+>	 - Stealth +8
+>- **Damage Immunities**
+>	 - radiant
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 8
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Fallible Invisibility.*** The skulk is invisible. This invisibility can be circumvented by three things:  
 >- The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.

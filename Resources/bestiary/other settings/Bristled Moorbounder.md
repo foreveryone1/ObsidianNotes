@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bristled Moorbounder
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|2 (-4)|13 (+1)|5 (-3)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Bladed Hide.*** At the start of each of its turns, the moorbounder deals 5 (2d4) piercing damage to any creature grappling it.  
 >

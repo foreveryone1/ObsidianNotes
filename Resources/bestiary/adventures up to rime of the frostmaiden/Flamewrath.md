@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flamewrath
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|16 (+3)|11 (+0)|10 (+0)|16 (+3)|
 >___
->- **Skills** Arcana +3, Religion +3
->- **Damage Immunities** fire
->- **Senses** passive Perception 10
->- **Languages** Common, Ignan
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Arcana +3, Religion +3
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Ignan
+>
+> #cr6 (2,300 XP)
 >___
 >***Spellcasting.*** The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:  
 >

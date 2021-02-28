@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Summer Eladrin
 >*Medium #fey ,  (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|21 (+5)|16 (+3)|14 (+2)|12 (+1)|18 (+4)|
 >___
->- **Skills** Athletics +8, Intimidation +8
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Elvish, Sylvan
->- #cr10 (5,900 XP)
+>- **Skills**
+>	 - Athletics +8, Intimidation +8
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> #cr10 (5,900 XP)
 >___
 >***Fearsome Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.  
 >

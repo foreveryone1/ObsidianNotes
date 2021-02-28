@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Merregon
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|6 (-2)|12 (+1)|8 (-1)|
 >___
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** understands Infernal but can't speak, telepathy 120 ft.
->- #cr4 (1,100 XP)
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - understands Infernal but can't speak, telepathy 120 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the merregon's darkvision.  
 >

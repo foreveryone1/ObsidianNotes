@@ -4,12 +4,12 @@
   flex-direction: row;
   background-color: var(--background-secondary);
   padding-left, padding-right: 1rem;
-  padding-bottom: 0.3rem;
+  padding-bottom: 0.9rem;
   padding-top: 0.9rem;
 }
 
 .kanban .list-collapse-indicator.collapse-indicator.collapse-icon{
-	padding-left: 3rem;
+  padding-left: 3rem;
  /* padding-right: 0.3rem; */
  margin-right: 0.5rem
 }
@@ -32,6 +32,7 @@ margin-right: 0.75rem;
 
 .kanban ul li {
   flex: 1;
+  padding-left: 2px;
   list-style: none;
 }
 
@@ -44,8 +45,8 @@ margin-right: 0.75rem;
   margin-top: 1rem;
   border-radius: 0;
   border: 0;
-  background: #ffffff20;
 }
+
 
 .kanban ul ul li {
   width: 100%;
@@ -55,18 +56,40 @@ margin-right: 0.75rem;
 }
 
 
-.kanban ul ul li:nth-child(odd) {
+.theme-light .kanban ul ul li:nth-child(odd) {
   background: #ffffff70;
-  border:1px solid var(--background-secondary);
+  border-top:1px solid var(--background-secondary);
 }
 
-.kanban ul ul li:nth-child(even) {
+.theme-light .kanban ul ul li:nth-child(even) {
   background: #ffffff10;
-  border:1px solid var(--background-secondary);
+  border-top: :1px solid var(--background-secondary);
 }
 
-.kanban ul ul li:hover {
-  background: #C7C8C920;
+.theme-light .kanban ul ul {
+  background: #ffffff04;
+}
+
+.theme-light .kanban ul ul li:hover {
+  background: #C7C8C910;
+}
+
+.theme-dark .kanban ul ul li:nth-child(odd) {
+  background: #4F4F4F01;
+  border-top:1px solid var(--background-secondary);
+}
+
+.theme-dark .kanban ul ul li:nth-child(even) {
+  background: #4F4F4F10;
+  border-top:1px solid var(--background-secondary);
+}
+
+.theme-dark .kanban ul ul {
+  background: #20202090;
+}
+
+.theme-dark .kanban ul ul li:hover {
+  background: #4F4F4F09;
 }
 
 .kanban ul ul ul {

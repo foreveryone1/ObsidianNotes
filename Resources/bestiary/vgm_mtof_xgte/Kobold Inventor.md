@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold Inventor
 >*Small #humanoid (kobold), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|8 (-1)|7 (-2)|8 (-1)|
 >___
->- **Skills** Perception +0
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Draconic
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +0
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Draconic
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

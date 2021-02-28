@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Undead Bulette
 >*Large #undead , unaligned*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|21 (+5)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Skills** Perception +6
->- **Damage Vulnerabilities** radiant
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +6
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Standing Leap.*** The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.  
 >

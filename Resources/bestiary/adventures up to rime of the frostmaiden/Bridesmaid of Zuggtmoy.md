@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bridesmaid of Zuggtmoy
 >*Medium #plant , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|11 (+0)|14 (+2)|8 (-1)|18 (+4)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Abyssal but can't speak
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Fungus Stride.*** Once on its turn, the bridesmaid can use 10 feet of its movement to step magically into one living mushroom or fungus patch within 5 feet and emerge from another within 60 feet of the first one, appearing in an unoccupied space within 5 feet of the second mushroom or fungus patch. The mushrooms and patches must be large or bigger.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hippogriff
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|13 (+1)|2 (-4)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +5
->- **Senses** passive Perception 15
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.  
 >

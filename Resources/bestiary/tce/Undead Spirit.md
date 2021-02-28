@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Undead Spirit
 >*Medium #undead , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|15 (+2)|4 (-3)|10 (+0)|9 (-1)|
 >___
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Festering Aura (Putrid Only).*** Any creature, other than you, that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be poisoned until the start of its next turn.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Demilich
 >*Tiny #undead , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|20 (+5)|10 (+0)|20 (+5)|17 (+3)|20 (+5)|
 >___
->- **Saving Throws** Con +6, Int +11, Wis +9, Cha +11
->- **Damage Resistances** bludgeoning, piercing, and slashing from magic weapons
->- **Damage Immunities** necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
->- **Senses** truesight 120 ft., passive Perception 13
->- **Languages** —
->- #cr18 (20,000 XP) or 20 (25,000 XP) when encountered in lair
+>- **Saving Throws**
+>	 - Con +6, Int +11, Wis +9, Cha +11
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from magic weapons
+>- **Damage Immunities**
+>	 - necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr18 (20,000 XP) or 20 (25,000 XP) when encountered in lair
 >___
 >***Avoidance.*** If the demilich is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
 >
@@ -32,10 +43,14 @@
 ## Legendary Actions
 >The demilich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of its turn.
 >
->- **Flight.** The demilich flies up to half its flying speed.
->- **Cloud of Dust.** The demilich magically swirls its dusty remains. Each creature within 10 feet of the demilich, including around a corner, must succeed on a DC 15 Constitution saving throw or be blinded until the end of the demilich's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the demilich's next turn.
->- **Energy Drain (Costs 2 Actions).** Each creature with in 30 feet of the demilich must make a DC 15 Constitution saving throw. On a failed save, the creature's hit point maximum is magically reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by this effect, the creature dies. A creature's hit point maximum can be restored with the  greater restoration spell or similar magic.
->- **Vile Curse (Costs 3 Actions).** The demilich targets one creature it can see within 30 feet of it. The target must succeed on a DC 15 Wisdom saving throw or be magically cursed. Until the curse ends, the target has disadvantage on attack rolls and saving throws. The target can repeat the saving throw at the end of each of its turns, ending the curse on a success.
+>- **Flight**
+>	- The demilich flies up to half its flying speed.
+>- **Cloud of Dust**
+>	- The demilich magically swirls its dusty remains. Each creature within 10 feet of the demilich, including around a corner, must succeed on a DC 15 Constitution saving throw or be blinded until the end of the demilich's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the demilich's next turn.
+>- **Energy Drain (Costs 2 Actions)**
+>	- Each creature with in 30 feet of the demilich must make a DC 15 Constitution saving throw. On a failed save, the creature's hit point maximum is magically reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by this effect, the creature dies. A creature's hit point maximum can be restored with the  greater restoration spell or similar magic.
+>- **Vile Curse (Costs 3 Actions)**
+>	- The demilich targets one creature it can see within 30 feet of it. The target must succeed on a DC 15 Wisdom saving throw or be magically cursed. Until the curse ends, the target has disadvantage on attack rolls and saving throws. The target can repeat the saving throw at the end of each of its turns, ending the curse on a success.
 ## Demilich
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
 Few liches seek to become demiliches, for it means an end to the existence they hoped to preserve by becoming undead. However, time can erode the lich's reason and memory, causing it to retreat into its ancient tomb and forget to feed on souls. The spells it once knew fade from its mind, and it no longer channels the arcane energy it wielded as a lich. However, even as a mere skull it remains a deadly and vexing enemy.

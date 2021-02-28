@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kalashtar
 >*Medium #humanoid (kalashtar), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|13 (+1)|15 (+2)|15 (+2)|
 >___
->- **Skills** Acrobatics +4, Insight +4, Persuasion +6
->- **Damage Resistances** psychic
->- **Senses** passive Perception 12
->- **Languages** Common, telepathy 20 ft.
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Acrobatics +4, Insight +4, Persuasion +6
+>- **Damage Resistances**
+>	 - psychic
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, telepathy 20 ft.
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Dual Mind.*** The kalashtar has advantage on Wisdom saving throws.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sword Wraith Commander
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 >___
->- **Skills** Perception +4
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, frightened, poisoned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** the languages it knew in life
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr8 (3,900 XP)
 >___
 >***Martial Fury.*** As a bonus action, the sword wraith can make one weapon attack, which deals an extra 9 (2d8) necrotic damage on a hit. If it does so, attack rolls against it have advantage until the start of its next turn.  
 >

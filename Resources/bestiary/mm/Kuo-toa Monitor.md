@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kuo-toa Monitor
 >*Medium #humanoid (kuo-toa), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|
 >___
->- **Skills** Perception +6, Religion +5
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Undercommon
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +6, Religion +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** The kuo-toa can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Brontosaurus
 >*Gargantuan #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|17 (+3)|2 (-4)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Con +6
->- **Senses** passive Perception 10
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Con +6
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 ## Actions
 >***Stomp.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.  

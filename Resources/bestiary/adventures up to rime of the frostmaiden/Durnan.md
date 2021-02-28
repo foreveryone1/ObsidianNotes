@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Durnan
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|18 (+4)|13 (+1)|12 (+1)|10 (+0)|
 >___
->- **Saving Throws** Str +8, Con +8
->- **Skills** Athletics +8, Perception +5
->- **Senses** passive Perception 15
->- **Languages** Common, Dwarvish
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Str +8, Con +8
+>- **Skills**
+>	 - Athletics +8, Perception +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr9 (5,000 XP)
 >___
 >***Special Equipment.*** Durnan wields a sword of sharpness (greatsword) called Grimvault. He wears boots of striding and springing, elven chain, and a ring of spell turning.  
 >

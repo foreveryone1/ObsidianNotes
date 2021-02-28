@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tanarukk
 >*Medium #fiend (demon, orc), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|9 (-1)|9 (-1)|9 (-1)|
 >___
->- **Skills** Intimidation +2, Perception +2
->- **Damage Resistances** fire, poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Abyssal, Common, Orc
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Intimidation +2, Perception +2
+>- **Damage Resistances**
+>	 - fire, poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Common, Orc
+>
+> #cr5 (1,800 XP)
 >___
 >***Aggressive.*** As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.  
 >

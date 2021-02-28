@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pirate Deck Wizard
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|16 (+3)|13 (+1)|11 (+0)|
 >___
->- **Skills** Arcana +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** any one language (usually Common)
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Arcana +5, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr1 (200 XP)
 >___
 >***Sea Legs.*** The deck wizard has advantage on ability checks and saving throws to resist being knocked prone.  
 >

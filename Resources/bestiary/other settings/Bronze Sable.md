@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bronze Sable
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|3 (-4)|14 (+2)|1 (-5)|
 >___
->- **Skills** Stealth +5
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** understands one language of its creator but can't speak
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***False Appearance.*** While the sable remains motionless, it is indistinguishable from a normal statue.  
 >

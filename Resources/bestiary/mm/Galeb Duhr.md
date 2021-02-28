@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Galeb Duhr
 >*Medium #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|20 (+5)|11 (+0)|12 (+1)|11 (+0)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
->- **Languages** Terran
->- #cr6 (2,300 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 11
+>- **Languages**
+>	 - Terran
+>
+> #cr6 (2,300 XP)
 >___
 >***False Appearance.*** While the galeb duhr remains motionless, it is indistinguishable from a normal boulder.  
 >

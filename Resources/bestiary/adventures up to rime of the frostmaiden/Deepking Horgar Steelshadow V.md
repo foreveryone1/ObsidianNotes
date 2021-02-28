@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deepking Horgar Steelshadow V
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Con +4, Wis +2
->- **Senses** passive Perception 10
->- **Languages** Draconic, Giant, Dwarvish
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Draconic, Giant, Dwarvish
+>
+> #cr3 (700 XP)
 >___
 >***(Optional) Indefinite Madness.*** Horgar has been affected by the demon lords let loose in the Abyss during the Rage of Demons storyline. Roll on the [variantrules.html#madness_dmg](Indefinite Madness table) to determine Horgar's flaw.
 >***Brave.*** Horgar has advantage on saving throws against being frightened.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Master of Cruelties
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|17 (+3)|16 (+3)|19 (+4)|16 (+3)|21 (+5)|
 >___
->- **Saving Throws** Con +7, Int +8, Wis +7, Cha +9
->- **Skills** Deception +9, Intimidation +9, Performance +9, Persuasion +9
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 13
->- **Languages** Abyssal, Common, telepathy 120 ft.
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +7, Int +8, Wis +7, Cha +9
+>- **Skills**
+>	 - Deception +9, Intimidation +9, Performance +9, Persuasion +9
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Common, telepathy 120 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Aura of Blood Lust.*** When any other creature starts its turn within 30 feet of the master, that creature must succeed on a DC 17 Wisdom saving throw, or it must immediately take the Attack action, making one melee attack against a random creature within reach. If no creatures are within reach, it makes a ranged attack against a random creature within range, throwing its weapon if necessary.  
 >

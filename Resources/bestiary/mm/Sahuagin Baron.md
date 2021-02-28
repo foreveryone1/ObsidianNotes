@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Baron
 >*Large #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|16 (+3)|14 (+2)|13 (+1)|17 (+3)|
 >___
->- **Saving Throws** Dex +5, Con +6, Int +5, Wis +4
->- **Skills** Perception +7
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Sahuagin
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +6, Int +5, Wis +4
+>- **Skills**
+>	 - Perception +7
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr5 (1,800 XP)
 >___
 >***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

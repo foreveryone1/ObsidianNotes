@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Doomwake Giant
 >*Huge #giant , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|12 (+1)|22 (+6)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Wis +6
->- **Skills** Intimidation +7, Perception +6
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Giant
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Con +10, Wis +6
+>- **Skills**
+>	 - Intimidation +7, Perception +6
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Giant
+>
+> #cr11 (7,200 XP)
 >___
 >***Aura of Erebos.*** Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can't regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.  
 >

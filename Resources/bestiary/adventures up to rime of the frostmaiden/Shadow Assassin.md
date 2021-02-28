@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadow Assassin
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,15 +14,24 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|14 (+2)|13 (+1)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +8, Int +5
->- **Skills** Perception +9, Stealth +12
->- **Damage Vulnerabilities** radiant
->- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 19
->- **Languages** understands the languages it knew in life but can't speak
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Int +5
+>- **Skills**
+>	 - Perception +9, Stealth +12
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 19
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr9 (5,000 XP)
 >___
 >***Amorphous.*** The assassin can move through a space as narrow as 1 inch wide without squeezing.  
 >

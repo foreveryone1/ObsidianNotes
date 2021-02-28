@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnoll Flesh Gnawer
 >*Medium #humanoid (gnoll), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|8 (-1)|
 >___
->- **Saving Throws** Dex +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Gnoll
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Gnoll
+>
+> #cr1 (200 XP)
 >___
 >***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.  
 >

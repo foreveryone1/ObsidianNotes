@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Expert
 >*11th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|20 (+5)|12 (+1)|14 (+2)|10 (+0)|14 (+2)|
 >___
->- **Saving Throws** Dex +9
->- **Skills** Acrobatics +13, Performance +6, Persuasion +6, Sleight of Hand +9, Stealth +13
->- **Senses** passive Perception 10
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Dex +9
+>- **Skills**
+>	 - Acrobatics +13, Performance +6, Persuasion +6, Sleight of Hand +9, Stealth +13
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Evasion.*** When the expert is not incapacitated and subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed.  
 >

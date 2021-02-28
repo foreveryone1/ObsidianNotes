@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Typhon
 >*Huge #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|20 (+5)|7 (-2)|12 (+1)|13 (+1)|
 >___
->- **Saving Throws** Con +10
->- **Damage Immunities** acid, necrotic
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Con +10
+>- **Damage Immunities**
+>	 - acid, necrotic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr15 (13,000 XP)
 >___
 >***Keen Smell.*** The typhon has advantage on Wisdom (Perception) checks that rely on smell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Snapping Turtle
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|5 (-3)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** The turtle can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skyswimmer
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|15 (+2)|16 (+3)|7 (-2)|12 (+1)|6 (-2)|
 >___
->- **Saving Throws** Con +8
->- **Skills** Perception +6
->- **Senses** passive Perception 16
->- **Languages** —
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +8
+>- **Skills**
+>	 - Perception +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - —
+>
+> #cr13 (10,000 XP)
 >___
 >***Amphibious.*** The skyswimmer can breathe air and water.  
 >

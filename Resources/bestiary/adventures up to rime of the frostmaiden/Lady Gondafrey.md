@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lady Gondafrey
 >*Medium #elemental , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|16 (+3)|10 (+0)|11 (+0)|7 (-2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 >***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.  
 >

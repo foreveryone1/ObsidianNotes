@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Leucrotta
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|9 (-1)|12 (+1)|6 (-2)|
 >___
->- **Skills** Deception +2, Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Abyssal, Gnoll
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +2, Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Gnoll
+>
+> #cr3 (700 XP)
 >___
 >***Keen Smell.*** The leucrotta has advantage on Wisdom (Perception) checks that rely on smell.  
 >

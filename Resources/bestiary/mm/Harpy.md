@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Harpy
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|12 (+1)|7 (-2)|10 (+0)|13 (+1)|
 >___
->- **Senses** passive Perception 10
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Multiattack.*** The harpy makes two attacks: one with its claws and one with its club.  

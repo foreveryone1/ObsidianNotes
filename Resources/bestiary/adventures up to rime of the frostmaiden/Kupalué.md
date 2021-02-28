@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kupalué
 >*Small #plant , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|13 (+1)|6 (-2)|11 (+0)|7 (-2)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Resistances** lightning, piercing
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Vegepygmy
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Resistances**
+>	 - lightning, piercing
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Vegepygmy
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Plant Camouflage.*** Kupalué has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.  
 >

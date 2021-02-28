@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oblex Spawn
 >*Tiny #ooze , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|15 (+2)|14 (+2)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Int +4, Cha +2
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, prone
->- **Senses** blindsight 60 ft. (blind beyond this distance), passive Perception 12
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Saving Throws**
+>	 - Int +4, Cha +2
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this distance), passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Amorphous.*** The oblex can move through a space as narrow as 1 inch wide without squeezing.  
 >

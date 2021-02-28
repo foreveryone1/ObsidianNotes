@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Djinni
 >*Large #elemental , chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
 >___
->- **Saving Throws** Dex +6, Wis +7, Cha +9
->- **Damage Immunities** lightning, thunder
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Auran
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +7, Cha +9
+>- **Damage Immunities**
+>	 - lightning, thunder
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Auran
+>
+> #cr11 (7,200 XP)
 >___
 >***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.  
 >

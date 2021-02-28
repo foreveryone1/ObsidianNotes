@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Splugoth the Returned
 >*Small #humanoid (goblinoid), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Int +4, Wis +2
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Draconic, Elvish, Goblin
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Int +4, Wis +2
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Draconic, Elvish, Goblin
+>
+> #cr2 (450 XP)
 >___
 >***Defensive Advantage.*** As long as two or more of Splugoth's allies are within 5 feet of him and are not incapacitated, attack rolls against him are made with disadvantage.  
 >

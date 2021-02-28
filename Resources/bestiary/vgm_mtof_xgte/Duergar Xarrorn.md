@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Xarrorn
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Juvenile Mimic
 >*Tiny monstrosity (shapechanger), unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|12 (+1)|13 (+1)|10 (+0)|13 (+1)|10 (+0)|
 >___
->- **Skills** Stealth +3
->- **Damage Immunities** acid
->- **Condition Immunities** prone
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Undercommon, telepathy 120 ft.
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Damage Immunities**
+>	 - acid
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Undercommon, telepathy 120 ft.
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Spider Climb.*** The mimic can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

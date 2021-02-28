@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Angry
 >*Medium #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|19 (+4)|8 (-1)|13 (+1)|6 (-2)|
 >___
->- **Skills** Perception +6
->- **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Common
->- #cr13 (10,000 XP)
+>- **Skills**
+>	 - Perception +6
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing while in dim light or darkness
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common
+>
+> #cr13 (10,000 XP)
 >___
 >***Rising Anger.*** If another creature deals damage to the Angry, the Angry's attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack's target takes an extra 19 (3d12) psychic damage.  
 >On its turn, the Angry has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ettin
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|17 (+3)|6 (-2)|10 (+0)|8 (-1)|
 >___
->- **Skills** Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Giant, Orc
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Giant, Orc
+>
+> #cr4 (1,100 XP)
 >___
 >***Two Heads.*** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ulder Ravengard
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|16 (+3)|11 (+0)|10 (+0)|17 (+3)|
 >___
->- **Saving Throws** Con +6, Wis +3
->- **Skills** Athletics +6, Intimidation +6, Perception +3
->- **Senses** passive Perception 13
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Con +6, Wis +3
+>- **Skills**
+>	 - Athletics +6, Intimidation +6, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 ## Actions
 >***Multiattack.*** Ulder makes three melee attacks, only one of which can be with his shield.  

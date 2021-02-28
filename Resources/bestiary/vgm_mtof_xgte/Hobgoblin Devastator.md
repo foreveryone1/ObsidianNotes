@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hobgoblin Devastator
 >*Medium #humanoid (goblinoid), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|14 (+2)|16 (+3)|13 (+1)|11 (+0)|
 >___
->- **Skills** Arcana +5
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Goblin
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Arcana +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr4 (1,100 XP)
 >___
 >***Arcane Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.  
 >

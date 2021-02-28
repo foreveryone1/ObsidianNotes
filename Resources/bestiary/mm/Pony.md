@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pony
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|2 (-4)|11 (+0)|7 (-2)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Hooves.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.

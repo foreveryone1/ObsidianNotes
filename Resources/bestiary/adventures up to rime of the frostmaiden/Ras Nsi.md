@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ras Nsi
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|17 (+3)|18 (+4)|18 (+4)|21 (+5)|
 >___
->- **Saving Throws** Con +6, Wis +7
->- **Skills** Deception +8, Persuasion +5, Religion +7, Stealth +6
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Common, Draconic
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Con +6, Wis +7
+>- **Skills**
+>	 - Deception +8, Persuasion +5, Religion +7, Stealth +6
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Ras Nsi wears bracers of defense, wields a flame tongue longsword, and carries a sending stone matched to the one carried by the guide Salida (see chapter 1).  
 >

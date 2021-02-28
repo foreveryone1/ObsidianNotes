@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frulam Mondath
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|13 (+1)|11 (+0)|18 (+4)|15 (+2)|
 >___
->- **Saving Throws** Wis +6, Cha +4
->- **Skills** Deception +4, History +2, Religion +2
->- **Senses** passive Perception 14
->- **Languages** Common, Draconic, Infernal
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Wis +6, Cha +4
+>- **Skills**
+>	 - Deception +4, History +2, Religion +2
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Draconic, Infernal
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:  
 >

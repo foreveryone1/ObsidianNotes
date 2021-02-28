@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gloom Weaver
 >*Medium #humanoid (elf), neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|15 (+2)|12 (+1)|18 (+4)|
 >___
->- **Saving Throws** Dex +8, Con +6
->- **Damage Immunities** necrotic
->- **Condition Immunities** charmed, exhaustion
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Elvish
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +6
+>- **Damage Immunities**
+>	 - necrotic
+>- **Condition Immunities**
+>	 - charmed, exhaustion
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr9 (5,000 XP)
 >___
 >***Burden of Time.*** Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.  
 >

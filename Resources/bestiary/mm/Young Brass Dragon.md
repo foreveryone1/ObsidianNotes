@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Brass Dragon
 >*Large #dragon , chaotic good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
->- **Skills** Perception +6, Persuasion +5, Stealth +3
->- **Damage Immunities** fire
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
->- **Languages** Common, Draconic
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +6, Wis +3, Cha +5
+>- **Skills**
+>	 - Perception +6, Persuasion +5, Stealth +3
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr6 (2,300 XP)
 >___
 ## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  

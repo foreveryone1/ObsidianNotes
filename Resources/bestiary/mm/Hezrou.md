@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hezrou
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|20 (+5)|5 (-3)|12 (+1)|13 (+1)|
 >___
->- **Saving Throws** Str +7, Con +8, Wis +4
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +8, Wis +4
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr8 (3,900 XP)
 >___
 >***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.  
 >

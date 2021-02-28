@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Red Dragon Wyrmling
 >*Medium #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
->- **Skills** Perception +4, Stealth +2
->- **Damage Immunities** fire
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +2, Con +5, Wis +2, Cha +4
+>- **Skills**
+>	 - Perception +4, Stealth +2
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr4 (1,100 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.  

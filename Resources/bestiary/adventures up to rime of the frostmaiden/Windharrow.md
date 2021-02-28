@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Windharrow
 >*Medium #humanoid (half-elf), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|12 (+1)|14 (+2)|10 (+0)|17 (+3)|
 >___
->- **Skills** Acrobatics +5, Deception +7, Performance +7, Persuasion +5, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Auran, Common, Elvish
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +5, Deception +7, Performance +7, Persuasion +5, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Auran, Common, Elvish
+>
+> #cr3 (700 XP)
 >___
 >***Fey Ancestry.*** Windharrow has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >

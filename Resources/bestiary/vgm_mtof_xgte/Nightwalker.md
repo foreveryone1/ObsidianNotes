@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nightwalker
 >*Huge #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|19 (+4)|24 (+7)|6 (-2)|9 (-1)|8 (-1)|
 >___
->- **Saving Throws** Con +13
->- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 120 ft., passive Perception 9
->- **Languages** —
->- #cr20 (25,000 XP)
+>- **Saving Throws**
+>	 - Con +13
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr20 (25,000 XP)
 >___
 >***Annihilating Aura.*** Any creature that starts its turn within 30 feet of the nightwalker must succeed on a DC 21 Constitution saving throw or take 14 (4d6) necrotic damage and grant the nightwalker advantage on attack rolls against it until the start of the creature's next turn. Undead are immune to this aura.  
 >

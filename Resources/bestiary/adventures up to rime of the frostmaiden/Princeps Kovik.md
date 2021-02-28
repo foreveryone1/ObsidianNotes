@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Princeps Kovik
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Con +7, Wis +4, Cha +5
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 8
->- **Languages** Infernal, telepathy 120 ft.
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +7, Wis +4, Cha +5
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 8
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr8 (3,900 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede Kovik's darkvision.  
 >

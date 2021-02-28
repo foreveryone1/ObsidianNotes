@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Runed Behir
 >*Huge #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|18 (+4)|7 (-2)|14 (+2)|12 (+1)|
 >___
->- **Skills** Perception +6, Stealth +7
->- **Damage Immunities** lightning
->- **Senses** darkvision 90 ft., passive Perception 16
->- **Languages** Draconic
->- #cr11 (7,200 XP)
+>- **Skills**
+>	 - Perception +6, Stealth +7
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - darkvision 90 ft., passive Perception 16
+>- **Languages**
+>	 - Draconic
+>
+> #cr11 (7,200 XP)
 >___
 ## Actions
 >***Multiattack.*** The behir makes two attacks: one with its bite and one to constrict.  
@@ -31,5 +40,7 @@
 ## Legendary Actions
 >The runed behir can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The runed behir regains spent legendary actions at the start of its turn.
 >
->- **Lesser Magic.** The behir casts color spray or sleep, requiring no components.
->- **Greater Magic (Costs 2 Actions).** The behir casts invisibility or misty step, requiring no components.
+>- **Lesser Magic**
+>	- The behir casts color spray or sleep, requiring no components.
+>- **Greater Magic (Costs 2 Actions)**
+>	- The behir casts invisibility or misty step, requiring no components.

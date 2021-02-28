@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bone Naga (Guardian)
 >*Large #undead , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|12 (+1)|15 (+2)|15 (+2)|16 (+3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common plus one other language
->- #cr4 (1,100 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common plus one other language
+>
+> #cr4 (1,100 XP)
 >___
 >***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Skeleton
 >*Huge #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|20 (+5)|4 (-3)|6 (-2)|6 (-2)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands Giant but can't speak
->- #cr7 (2,900 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands Giant but can't speak
+>
+> #cr7 (2,900 XP)
 >___
 >***Evasion.*** If the skeleton is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Draegloth
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|13 (+1)|11 (+0)|11 (+0)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Abyssal, Elvish, Undercommon
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Elvish, Undercommon
+>
+> #cr7 (2,900 XP)
 >___
 >***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >

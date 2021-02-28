@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lahnis
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +7, Wis +5
->- **Skills** Arcana +7, History +7
->- **Senses** passive Perception 11
->- **Languages** any four languages
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +5
+>- **Skills**
+>	 - Arcana +7, History +7
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any four languages
+>
+> #cr9 (5,000 XP)
 >___
 >***Sculpt Spells.*** When Lahnis casts an evocation spell that forces other creatures it can see to make a saving throw, it can choose a number of them equal to 1 + the spell's level. These creatures automatically succeed on their saving throws against the spell. If a successful save means a chosen creature would take half damage from the spell, it instead takes no damage from it.  
 >

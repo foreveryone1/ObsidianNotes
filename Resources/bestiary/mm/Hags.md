@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hags
 Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.
 ### Faces of Evil

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shalvus Martholio
 >*Medium #humanoid (Turami human), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|14 (+2)|
 >___
->- **Skills** Deception +4, Insight +4, Investigation +3, Perception +4, Sleight of Hand +4, Stealth +4
->- **Senses** passive Perception 12
->- **Languages** Common, Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Deception +4, Insight +4, Investigation +3, Perception +4, Sleight of Hand +4, Stealth +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus with an important assignment: to figure out the best way by which Goldenfields can be brought under the Black Network's control. Shalvus believes that success will ensure his swift rise through the Zhentarim ranks.  
 >Ideal: "I'll do what it takes to prove myself to the Zhentarim."  

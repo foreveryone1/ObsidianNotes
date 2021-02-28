@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rahadin
 >*Medium #humanoid (elf), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|22 (+6)|17 (+3)|15 (+2)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Con +7, Wis +7
->- **Skills** Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14
->- **Senses** darkvision 60 ft., passive Perception 21
->- **Languages** Common, Elvish
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +7, Wis +7
+>- **Skills**
+>	 - Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 21
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr10 (5,900 XP)
 >___
 >***Deathly Choir.*** Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one.  
 >

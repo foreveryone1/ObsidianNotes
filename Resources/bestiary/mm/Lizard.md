@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lizard
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|3 (-4)|
 >___
->- **Senses** darkvision 30 ft., passive Perception 9
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.

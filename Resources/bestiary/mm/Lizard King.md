@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lizard King
 >*Medium #humanoid (lizardfolk), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|11 (+0)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Con +4, Wis +2
->- **Skills** Perception +4, Stealth +5, Survival +4
->- **Condition Immunities** frightened
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Draconic
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +2
+>- **Skills**
+>	 - Perception +4, Stealth +5, Survival +4
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Draconic
+>
+> #cr4 (1,100 XP)
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.  
 >

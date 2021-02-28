@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chimeric Rat
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|4 (-3)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Chimeric Creation.*** The rat has gills, iridescent scales, and the ability to breathe air and water.  
 >

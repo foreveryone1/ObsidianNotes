@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pixie
 >*Tiny #fey , , neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|20 (+5)|8 (-1)|10 (+0)|14 (+2)|15 (+2)|
 >___
->- **Skills** Perception +4, Stealth +7
->- **Senses** passive Perception 14
->- **Languages** Sylvan
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +7
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Sylvan
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:  
 >

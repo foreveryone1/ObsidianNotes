@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Red Shadow Dragon
 >*Large #dragon , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 >___
->- **Saving Throws** Dex +5, Con +10, Wis +5, Cha +9
->- **Skills** Perception +10, Stealth +10
->- **Damage Resistances** necrotic
->- **Damage Immunities** fire
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
->- **Languages** Common, Draconic
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +10, Wis +5, Cha +9
+>- **Skills**
+>	 - Perception +10, Stealth +10
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr13 (10,000 XP)
 >___
 >***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zi Liang
 >*Medium #humanoid (Shou human), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|11 (+0)|14 (+2)|16 (+3)|11 (+0)|
 >___
->- **Skills** Acrobatics +4, Athletics +3, Perception +5, Stealth +4
->- **Senses** passive Perception 15
->- **Languages** Common, Elvish, Goblin
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Acrobatics +4, Athletics +3, Perception +5, Stealth +4
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Elvish, Goblin
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** Zi Liang is a devout worshiper of Chauntea, the Earth Mother. She has considerably less faith in Goldenfields' defenders, so she patrols the temple-farm during her off-duty hours.  
 >Ideal: "If we faithfully tend to our gardens and our fields, Chauntea will smile upon us."  

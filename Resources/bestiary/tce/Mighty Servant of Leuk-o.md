@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mighty Servant of Leuk-o
 >*Huge #construct , unaligned*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|20 (+5)|1 (-5)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Wis +9, Cha +7
->- **Skills** Perception +9
->- **Damage Resistances** piercing, slashing
->- **Damage Immunities** acid, bludgeoning, cold, fire, lightning, necrotic, poison, psychic, radiant
->- **Condition Immunities** blinded, charmed, deafened, frightened, grappled, incapacitated, paralyzed, petrified, poisoned, restrained, stunned
->- **Senses** blindsight 120 ft., passive Perception 19
->- **Languages** understands the languages of creatures attuned to it but can't speak
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Wis +9, Cha +7
+>- **Skills**
+>	 - Perception +9
+>- **Damage Resistances**
+>	 - piercing, slashing
+>- **Damage Immunities**
+>	 - acid, bludgeoning, cold, fire, lightning, necrotic, poison, psychic, radiant
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, frightened, grappled, incapacitated, paralyzed, petrified, poisoned, restrained, stunned
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 19
+>- **Languages**
+>	 - understands the languages of creatures attuned to it but can't speak
+>
+> #cr-unavailable
 >___
 >***Immutable Existence.*** The servant is immune to any spell or effect that would alter its form or send it to another plane of existence.  
 >

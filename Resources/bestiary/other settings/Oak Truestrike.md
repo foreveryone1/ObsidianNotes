@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oak Truestrike
 >*Medium #humanoid (elf), neutral good or neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|10 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Nature +4, Perception +3, Performance +2, Stealth +5, Survival +3
->- **Senses** passive Perception 13
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Nature +4, Perception +3, Performance +2, Stealth +5, Survival +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 >***Fey Ancestry.*** Oak has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >

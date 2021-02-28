@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Auspicia Dran
 >*Medium #humanoid (half-elf), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|15 (+2)|12 (+1)|10 (+0)|
 >___
->- **Skills** Athletics +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** Common, Elvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting (Psionics).*** Auspicia's innate spellcasting ability is Intelligence. She can innately cast the following spells, requiring no components:  
 >

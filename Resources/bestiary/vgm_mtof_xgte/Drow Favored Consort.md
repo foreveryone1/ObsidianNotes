@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Favored Consort
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|20 (+5)|16 (+3)|18 (+4)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +11, Con +9, Cha +10
->- **Skills** Acrobatics +11, Athletics +8, Perception +8, Stealth +11
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Elvish, Undercommon
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Dex +11, Con +9, Cha +10
+>- **Skills**
+>	 - Acrobatics +11, Athletics +8, Perception +8, Stealth +11
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr18 (20,000 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >

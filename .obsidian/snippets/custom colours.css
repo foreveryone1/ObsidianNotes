@@ -1,10 +1,11 @@
-.nav-action-button.is-active,
-.nav-action-button.is-active .widget-icon {
+
+.theme-light .nav-action-button.is-active,
+.theme-light .nav-action-button.is-active .widget-icon {
   background-color: #E3E5E8 !important;
   fill: var(--text-muted) !important;
   color: var(--text-muted) !important;
 }
-.markdown-preview-view .task-list-item-checkbox {
+.theme-light .markdown-preview-view .task-list-item-checkbox {
 filter: hue-rotate(-11deg) brightness(100%) saturate(17%);
 }
 

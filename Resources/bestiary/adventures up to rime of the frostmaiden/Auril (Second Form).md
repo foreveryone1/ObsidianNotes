@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Auril (Second Form)
 >*Large #elemental , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|21 (+5)|24 (+7)|26 (+8)|28 (+9)|
 >___
->- **Saving Throws** Con +9, Wis +12
->- **Skills** Deception +13, Insight +12, Intimidation +13, Perception +16
->- **Damage Vulnerabilities** fire
->- **Damage Immunities** cold, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
->- **Senses** darkvision 120 ft., truesight 120 ft., passive Perception 26
->- **Languages** all, telepathy 1000 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +12
+>- **Skills**
+>	 - Deception +13, Insight +12, Intimidation +13, Perception +16
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+>- **Senses**
+>	 - darkvision 120 ft., truesight 120 ft., passive Perception 26
+>- **Languages**
+>	 - all, telepathy 1000 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Divine Being.*** Auril can't be surprised and can't be changed into another form against her will.  
 >
@@ -45,9 +57,12 @@
 ## Legendary Actions
 >Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Auril regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Auril makes one weapon attack.
->- **Ice Flurry (Costs 2 Actions).** Each creature within 30 feet of Auril takes 5 (2d4) piercing damage from swirling ice, and nonmagical, open flames in that area are extinguished.
->- **Splinter (Costs 3 Actions).** Auril uses Create Ice Mephit or causes one to ice mephit she can see within 60 feet of her to explode and die. A mephit that dies in this way does not use its Death Burst. Instead, each creature within 10 feet of the exploding mephit must succeed on a DC 21 Dexterity saving throw, taking 13 (3d8) piercing damage on a failed saving throw, and half as much damage on a successful one.
+>- **Attack**
+>	- Auril makes one weapon attack.
+>- **Ice Flurry (Costs 2 Actions)**
+>	- Each creature within 30 feet of Auril takes 5 (2d4) piercing damage from swirling ice, and nonmagical, open flames in that area are extinguished.
+>- **Splinter (Costs 3 Actions)**
+>	- Auril uses Create Ice Mephit or causes one to ice mephit she can see within 60 feet of her to explode and die. A mephit that dies in this way does not use its Death Burst. Instead, each creature within 10 feet of the exploding mephit must succeed on a DC 21 Dexterity saving throw, taking 13 (3d8) piercing damage on a failed saving throw, and half as much damage on a successful one.
 ## Auril (Second Form)
 Auril's second form, known to her worshipers as Lady Icekiss or the Brittle Maiden, is that of a 10-foot-tall woman of fearsome aspect made entirely of ice and frost. Her eyes burn with a cold blue light, and a thin cloak of mist forms around her. Blades of ice grow out of her body at odd angles, breaking off before they get too long. When she moves, her body crackles.
 In this form, Auril creates weapons of ice with which to combat foes. These weapons are supernaturally resilient until Auril discards them, whereupon they break and melt like normal ice.

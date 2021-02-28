@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Umber Hulk
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|13 (+1)|16 (+3)|9 (-1)|10 (+0)|10 (+0)|
 >___
->- **Senses** darkvision 120 ft., tremorsense 60 ft., passive Perception 10
->- **Languages** Umber Hulk
->- #cr5 (1,800 XP)
+>- **Senses**
+>	 - darkvision 120 ft., tremorsense 60 ft., passive Perception 10
+>- **Languages**
+>	 - Umber Hulk
+>
+> #cr5 (1,800 XP)
 >___
 >***Confusing Gaze.*** When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk's eyes, the umber hulk can magically force it to make a DC 15 Charisma saving throw, unless the umber hulk is incapacitated.  
 >On a failed saving throw, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action but uses all its movement to move in a random direction. On a 7 or 8, the creature makes one melee attack against a random creature, or it does nothing if no creature is within reach.  

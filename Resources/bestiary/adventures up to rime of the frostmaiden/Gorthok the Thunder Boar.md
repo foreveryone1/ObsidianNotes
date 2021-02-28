@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gorthok the Thunder Boar
 >*Huge #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|19 (+4)|6 (-2)|10 (+0)|14 (+2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, thunder
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr6 (2,300 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, thunder
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr6 (2,300 XP)
 >___
 >***Relentless (Recharges after a Short or Long Rest).*** If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.  
 >

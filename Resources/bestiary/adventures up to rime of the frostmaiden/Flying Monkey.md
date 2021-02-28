@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flying Monkey
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|11 (+0)|5 (-3)|12 (+1)|6 (-2)|
 >___
->- **Senses** passive Perception 11
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Familiar.*** With the DM's permission, the find familiar spell can summon a flying monkey.  
 >

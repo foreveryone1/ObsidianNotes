@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Core Spawn Crawler
 >*Small #aberration , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|10 (+0)|9 (-1)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +5
->- **Damage Immunities** psychic
->- **Condition Immunities** blinded
->- **Senses** blindsight 30 ft. (blind beyond this radius), tremorsense 60 ft., passive Perception 15
->- **Languages** understands Deep Speech but can't speak
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Damage Immunities**
+>	 - psychic
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), tremorsense 60 ft., passive Perception 15
+>- **Languages**
+>	 - understands Deep Speech but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Pack Tactics.*** The crawler has advantage on an attack roll against a creature if at least one of the crawler's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

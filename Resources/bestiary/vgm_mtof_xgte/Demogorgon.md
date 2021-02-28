@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Demogorgon
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|26 (+8)|20 (+5)|17 (+3)|25 (+7)|
 >___
->- **Saving Throws** Dex +10, Con +16, Wis +11, Cha +15
->- **Skills** Insight +11, Perception +19
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 29
->- **Languages** all, telepathy 120 ft.
->- #cr26 (90,000 XP)
+>- **Saving Throws**
+>	 - Dex +10, Con +16, Wis +11, Cha +15
+>- **Skills**
+>	 - Insight +11, Perception +19
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 29
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr26 (90,000 XP)
 >___
 >***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma (spell save DC 23). Demogorgon can innately cast the following spells, requiring no material components:  
 >
@@ -48,8 +60,10 @@
 ## Legendary Actions
 >Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of its turn.
 >
->- **Tail.** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.
->- **Maddening Gaze.** Demogorgon uses his Gaze action, and must choose either the Beguiling Gaze or the Insanity Gaze effect.
+>- **Tail.**
+> Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.
+>- **Maddening Gaze.**
+> Demogorgon uses his Gaze action, and must choose either the Beguiling Gaze or the Insanity Gaze effect.
 ## Demogorgon
 ***Demogorgon.*** Prince of Demons, the Sibilant #beast , and Master of the Spiraling Depths, Demogorgon is the embodiment of chaos, madness, and destruction, seeking to corrupt all that is good and undermine order in the multiverse, to see everything dragged howling into the infinite depths of the Abyss.
 The demon lord is a meld of different forms, with a saurian lower body and clawed, webbed feet, as well as suckered tentacles sprouting from the shoulders of a great apelike torso, surmounted by two hideous simian heads, named Aameul and Hathradiah, both equally mad. Their gaze brings madness and confusion to any who confront it.

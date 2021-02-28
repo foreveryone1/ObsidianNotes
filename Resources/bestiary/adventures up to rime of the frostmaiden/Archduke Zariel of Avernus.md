@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Archduke Zariel of Avernus
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|24 (+7)|28 (+9)|26 (+8)|27 (+8)|30 (+10)|
 >___
->- **Saving Throws** Int +16, Wis +16, Cha +18
->- **Skills** Intimidation +18, Perception +16
->- **Damage Resistances** fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 26
->- **Languages** all, telepathy 120 ft.
->- #cr26 (90,000 XP)
+>- **Saving Throws**
+>	 - Int +16, Wis +16, Cha +18
+>- **Skills**
+>	 - Intimidation +18, Perception +16
+>- **Damage Resistances**
+>	 - fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr26 (90,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede Zariel's darkvision.  
 >
@@ -49,8 +61,10 @@
 ## Legendary Actions
 >Archduke can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Archduke regains spent legendary actions at the start of its turn.
 >
->- **Immolating Gaze (Costs 2 Actions).** Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
->- **Teleport.** Zariel uses her Teleport action.
+>- **Immolating Gaze (Costs 2 Actions)**
+>	- Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
+>- **Teleport**
+>	- Zariel uses her Teleport action.
 ## Archduke Zariel of Avernus
 Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.
 Zariel's "rise" came at the expense of Bel, her pit fiend predecessor. Zariel and Bel hate each other. To keep Bel busy and out of her sight, Zariel tasks him with forging weapons, armor, and gruesome demon-slaying machines.

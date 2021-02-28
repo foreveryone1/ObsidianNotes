@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Will-o'-Wisp
 >*Tiny #undead , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 >___
->- **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** the languages it knew in life
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr2 (450 XP)
 >___
 >***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.  
 >

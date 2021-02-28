@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Muiral
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|16 (+3)|18 (+4)|13 (+1)|18 (+4)|
 >___
->- **Saving Throws** Con +8, Int +9
->- **Skills** Arcana +9, Athletics +9, Perception +6, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Common, Dwarvish, Elvish, Goblin, Undercommon
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +8, Int +9
+>- **Skills**
+>	 - Arcana +9, Athletics +9, Perception +6, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Dwarvish, Elvish, Goblin, Undercommon
+>
+> #cr13 (10,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Muiral fails a saving throw, he can choose to succeed instead.  
 >
@@ -39,8 +48,11 @@
 ## Legendary Actions
 >Muiral can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Muiral regains spent legendary actions at the start of its turn.
 >
->- **Cast Cantrip.** Muiral casts a cantrip.
->- **Lunging Attack (Costs 2 Actions).** Muiral makes one longsword attack that has a reach of 10 feet.
->- **Retreating Strike (Costs 3 Actions).** Muiral moves up to his speed without provoking opportunity attacks. Before the move, he can make one longsword attack.
+>- **Cast Cantrip**
+>	- Muiral casts a cantrip.
+>- **Lunging Attack (Costs 2 Actions)**
+>	- Muiral makes one longsword attack that has a reach of 10 feet.
+>- **Retreating Strike (Costs 3 Actions)**
+>	- Muiral moves up to his speed without provoking opportunity attacks. Before the move, he can make one longsword attack.
 ## Muiral
 Muiral was an accomplished human warrior who long served as Halaster's bodyguard. His descent into madness began when he asked the Mad Mage to tutor him in the wizardly arts. Muiral learned enough magic to transform himself into a half-scorpion #monstrosity , becoming known as Muiral the Misshapen. He then retired to the level of Undermountain that would later be called Muiral's Gauntlet, driving out and slaying its original drow denizens. Muiral now spends his days hunting adventurers and other interlopers for fun. Long years alone—and Halaster's influence—have rendered him utterly insane.

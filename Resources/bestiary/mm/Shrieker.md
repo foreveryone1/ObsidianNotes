@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shrieker
 >*Medium #plant , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)|
 >___
->- **Condition Immunities** blinded, deafened, frightened
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Condition Immunities**
+>	 - blinded, deafened, frightened
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 6
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Clay Golem
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|1 (-5)|
 >___
->- **Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands the languages of its creator but can't speak
->- #cr9 (2,500 XP)
+>- **Damage Immunities**
+>	 - acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr9 (2,500 XP)
 >___
 >***Acid Absorption.*** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.  
 >

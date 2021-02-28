@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Barovian Witch
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|11 (+0)|13 (+1)|14 (+2)|11 (+0)|12 (+1)|
 >___
->- **Skills** Arcana +4, Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Arcana +4, Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Spellcasting.*** The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:  
 >

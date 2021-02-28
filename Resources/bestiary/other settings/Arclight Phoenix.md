@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Arclight Phoenix
 >*Medium #elemental , chaotic neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|22 (+6)|17 (+3)|5 (-3)|12 (+1)|7 (-2)|
 >___
->- **Saving Throws** Dex +10
->- **Damage Resistances** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Dex +10
+>- **Damage Resistances**
+>	 - thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr12 (8,400 XP)
 >___
 >***Crackling Death.*** When the arclight phoenix dies, it explodes. Each creature within 30 feet of it must make a DC 18 Dexterity saving throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one. The explosion destroys the phoenix but leaves behind a Tiny, warm egg with a mizzium shell. The egg contains the embryo of a new arclight phoenix. It hatches when it is in the area of a spell that deals lightning damage, or if a creature touches the egg and expends spell slots whose combined levels equal 13 or more. When it hatches, the egg releases a new arclight phoenix that appears in the egg's space.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jalester Silvermane
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|13 (+1)|12 (+1)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Str +4, Con +3
->- **Skills** Athletics +4, Survival +4
->- **Senses** passive Perception 12
->- **Languages** Common, Elvish
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Str +4, Con +3
+>- **Skills**
+>	 - Athletics +4, Survival +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr4 (1,100 XP)
 >___
 >***Special Equipment.*** Jalester carries a badge of the Watch.  
 >

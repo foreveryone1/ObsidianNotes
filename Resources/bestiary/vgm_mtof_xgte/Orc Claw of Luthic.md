@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Claw of Luthic
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|11 (+0)|
 >___
->- **Skills** Intimidation +2, Medicine +4, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Orc
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +2, Medicine +4, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr2 (450 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >

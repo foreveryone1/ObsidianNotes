@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drider
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
 >___
->- **Skills** Perception +5, Stealth +9
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Elvish, Undercommon
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +9
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr6 (2,300 XP)
 >___
 >***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.  
 >

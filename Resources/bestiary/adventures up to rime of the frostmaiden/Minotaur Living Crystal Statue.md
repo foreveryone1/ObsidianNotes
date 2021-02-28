@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Minotaur Living Crystal Statue
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|9 (-1)|16 (+3)|6 (-2)|10 (+0)|5 (-3)|
 >___
->- **Damage Vulnerabilities** force
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr6 (2,300 XP)
+>- **Damage Vulnerabilities**
+>	 - force
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Immutable Form.*** The statue is immune to any spell or effect that would alter its form.  
 >

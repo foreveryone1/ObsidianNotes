@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pendragon Beestinger
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|17 (+3)|10 (+0)|11 (+0)|
 >___
->- **Skills** Arcana +5, Investigation +5, Performance +2
->- **Senses** passive Perception 10
->- **Languages** Common, Draconic, Elvish, Halfling
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +5, Investigation +5, Performance +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Draconic, Elvish, Halfling
+>
+> #cr2 (450 XP)
 >___
 >***Echo Spell (1/Day).*** Pendragon can cast the spell he cast on his last turn, whose casting time becomes 1 bonus action. This bonus casting uses a spell slot as normal.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drowned Blade
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|16 (+3)|3 (-4)|9 (-1)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands the languages it knew in life but can't speak
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Bottom Treader.*** The drowned blade cannot swim, and it sinks to the bottom of any body of water. It takes no penalties to its movement or attacks underwater. It is immune to the effects of being underwater at a depth greater than 100 feet.  
 >

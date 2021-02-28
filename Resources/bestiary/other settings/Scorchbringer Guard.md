@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Scorchbringer Guard
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|12 (+1)|10 (+0)|9 (-1)|10 (+0)|
 >___
->- **Senses** passive Perception 9
->- **Languages** any one language (usually Common)
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Explosive Tank.*** When the guard dies, or if it rolls a 1 when checking whether its Scorchbringer action recharges, the tank on its back explodes in a 10-foot radius sphere. Each creature in that area must make a DC 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects that aren't being worn or carried, and it destroys the scorchbringer.  
 >

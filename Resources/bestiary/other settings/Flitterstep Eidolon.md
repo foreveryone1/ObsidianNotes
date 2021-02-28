@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flitterstep Eidolon
 >*Medium #undead , any alignment*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|13 (+1)|11 (+0)|12 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3, Stealth +8
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
->- **Senses** passive Perception 13
->- **Languages** the languages it knew in life
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +8
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr3 (700 XP)
 >___
 >***Blurred Form.*** Attack rolls against the eidolon are made with disadvantage unless the eidolon is incapacitated.  
 >

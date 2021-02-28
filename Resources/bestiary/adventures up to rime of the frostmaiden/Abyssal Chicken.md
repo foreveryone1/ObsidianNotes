@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Abyssal Chicken
 >*Tiny #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|4 (-3)|9 (-1)|5 (-3)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, poisoned
->- **Senses** blindsight 30ft. (blind beyond this radius), passive Perception 9
->- **Languages** understands Abyssal but can't speak
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, poisoned
+>- **Senses**
+>	 - blindsight 30ft. (blind beyond this radius), passive Perception 9
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Bad Flier.*** The abyssal chicken falls at the end of a turn if it's airborne and the only thing holding it aloft is its flying speed.  
 >

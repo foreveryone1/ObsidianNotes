@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Snow Maiden
 >*Medium #undead , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands all languages it knew in life but can't speak
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands all languages it knew in life but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

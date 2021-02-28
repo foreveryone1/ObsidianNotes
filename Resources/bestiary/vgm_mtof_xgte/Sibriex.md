@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sibriex
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|3 (-4)|23 (+6)|25 (+7)|24 (+7)|25 (+7)|
 >___
->- **Saving Throws** Int +13, Cha +13
->- **Skills** Arcana +13, History +13, Perception +13
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 23
->- **Languages** all, telepathy 120 ft.
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Int +13, Cha +13
+>- **Skills**
+>	 - Arcana +13, History +13, Perception +13
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 23
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr18 (20,000 XP)
 >___
 >***Contamination.*** The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is difficult terrain for other creatures. Any creature that starts its turn in the aura must succeed on a DC 20 Constitution saving throw or take 14 (4d6) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours.  
 >
@@ -45,9 +57,12 @@
 ## Legendary Actions
 >The sibriex can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The sibriex regains spent legendary actions at the start of its turn.
 >
->- **Cast a Spell.** The sibriex casts a spell.
->- **Spray Bile.** The sibriex uses Squirt Bile.
->- **Warp (Costs 2 Actions).** The sibriex uses Warp Creature.
+>- **Cast a Spell.**  
+>	- The sibriex casts a spell.
+>- **Spray Bile.**  
+>	- The sibriex uses Squirt Bile.
+>- **Warp (Costs 2 Actions).**  
+>	- The sibriex uses Warp Creature.
 ## Sibriex
 *No creature embodies the chaotic nature of the Abyss so well as the sibriex. Although the realm of the demons is already a place of infinite horrors, sibriexes for some reason make even more of these monstrosities.*— Mordenkainen***Sibriex.*** Thought to be as old as the Abyss itself, sibriexes haunt remote parts of the plane, where they use their vile abilities to breed new horrors and apprehend forbidden lore. Rivulets of blood and bile cascade from a sibriex's body. Where these noxious fluids hit the ground, the land scape becomes polluted.
 ***Keepers of Forbidden Lore.*** Sibriexes have spent eons amassing information from across the planes, hoarding knowledge for when it might be useful. Such is their incredible intellect that many seek them out, including demon lords. Some sibriexes act as advisors and oracles, manipulating demons into serving their ends, while other sibriexes cling to their secrets, parceling out lore only when doing so would advance their plans.

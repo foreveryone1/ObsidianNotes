@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mud Mephit
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|7 (-2)|
 >___
->- **Skills** Stealth +3
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Aquan, Terran
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Aquan, Terran
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.  
 >

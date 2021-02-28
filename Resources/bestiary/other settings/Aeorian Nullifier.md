@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aeorian Nullifier
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|18 (+4)|7 (-2)|14 (+2)|18 (+4)|
 >___
->- **Saving Throws** Wis +6, Cha +8
->- **Skills** Perception +6, Survival +6
->- **Damage Immunities** necrotic, radiant
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** understands Draconic but can't speak
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Wis +6, Cha +8
+>- **Skills**
+>	 - Perception +6, Survival +6
+>- **Damage Immunities**
+>	 - necrotic, radiant
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - understands Draconic but can't speak
+>
+> #cr12 (8,400 XP)
 >___
 >***Horrid Gnashing.*** The nullifier's mouths gnash incoherently while it can see any enemies. Each creature that starts its turn within 20 feet of the nullifier and can hear it must make a DC 16 Wisdom saving throw. Unless the save succeeds, the creature rolls a d8 to determine what it does during the current turn:  
 >1-4: The creature is stunned until the end of the turn.  

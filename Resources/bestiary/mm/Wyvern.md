@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wyvern
 >*Large #dragon , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|5 (-3)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr6 (2,300 XP)
 >___
 ## Actions
 >***Multiattack.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.  

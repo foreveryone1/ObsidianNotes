@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Volothamp "Volo" Geddarm
 >*Medium #humanoid (human), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|12 (+1)|10 (+0)|15 (+2)|11 (+0)|16 (+3)|
 >___
->- **Saving Throws** Con +2, Wis +2
->- **Skills** Animal Handling +4, Arcana +4, Deception +5, History +4, Insight +2, Investigation +4, Perception +2, Performance +7, Persuasion +7, Sleight of Hand +3, Survival +2
->- **Senses** passive Perception 12
->- **Languages** Common, Dwarvish, Elvish
->- ** #cr1-4 ** (50 XP)
+>- **Saving Throws**
+>	 - Con +2, Wis +2
+>- **Skills**
+>	 - Animal Handling +4, Arcana +4, Deception +5, History +4, Insight +2, Investigation +4, Perception +2, Performance +7, Persuasion +7, Sleight of Hand +3, Survival +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish, Elvish
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Spellcasting.*** Volo is a 1st-level spellcaster. His spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). He has the following wizard spells prepared:  
 >

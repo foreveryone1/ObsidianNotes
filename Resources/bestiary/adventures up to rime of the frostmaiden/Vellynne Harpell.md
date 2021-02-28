@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vellynne Harpell
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|17 (+3)|18 (+4)|15 (+2)|13 (+1)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6
->- **Senses** passive Perception 12
->- **Languages** Common, Draconic, Dwarvish, Elvish, Orc
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish, Orc
+>
+> #cr4 (1,100 XP)
 >___
 >***Special Equipment.*** Vellynne wears bracers of defense and carries a wand of magic missiles (see "Actions" below).  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Undying Soldier
 >*Medium #undead , neutral good*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|14 (+2)|11 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Athletics +5, History +4, Perception +3, Religion +4
->- **Damage Vulnerabilities** necrotic
->- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Elvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +5, History +4, Perception +3, Religion +4
+>- **Damage Vulnerabilities**
+>	 - necrotic
+>- **Damage Resistances**
+>	 - radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Illumination.*** The soldier magically sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The soldier can extinguish or restore this light as a bonus action.  
 >

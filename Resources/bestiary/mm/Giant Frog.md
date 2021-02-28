@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Frog
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|11 (+0)|2 (-4)|10 (+0)|3 (-4)|
 >___
->- **Skills** Perception +2, Stealth +3
->- **Senses** darkvision 30 ft., passive Perception 12
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +3
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Amphibious.*** The frog can breathe air and water.  
 >

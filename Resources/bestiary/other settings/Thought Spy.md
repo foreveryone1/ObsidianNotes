@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thought Spy
 >*Medium #humanoid (any race), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|10 (+0)|16 (+3)|13 (+1)|14 (+2)|
 >___
->- **Skills** Deception +6, Insight +3, Investigation +5, Perception +3, Sleight of Hand +4, Stealth +4
->- **Senses** darkvision 30 ft., passive Perception 13
->- **Languages** Common plus any one language
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Deception +6, Insight +3, Investigation +5, Perception +3, Sleight of Hand +4, Stealth +4
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 13
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr1 (200 XP)
 >___
 >***Cunning Action.*** On each of its turns, the thought spy can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

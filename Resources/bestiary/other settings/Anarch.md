@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Anarch
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|12 (+1)|9 (-1)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +2, Survival +2
->- **Senses** passive Perception 12
->- **Languages** any one language (usually Common)
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +2, Survival +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Aggressive.*** As a bonus action, the anarch can move up to its speed toward a hostile creature it can see.  
 >

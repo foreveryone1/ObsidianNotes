@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Warlock of Uk'otoa
 >*Medium #humanoid (sahuagin), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|11 (+0)|8 (-1)|8 (-1)|16 (+3)|
 >___
->- **Skills** Arcana +1, Persuasion +5
->- **Senses** darkvision 120 ft., passive Perception 9
->- **Languages** Common, Sahuagin
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Arcana +1, Persuasion +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Sahuagin
+>
+> #cr3 (700 XP)
 >___
 >***Blood Frenzy.*** The warlock has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

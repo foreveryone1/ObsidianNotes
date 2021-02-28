@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Talisolvanar "Tally" Fellbranch
 >*Medium #humanoid (half-elf), chaotic good*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Fey Ancestry.*** Tally has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >

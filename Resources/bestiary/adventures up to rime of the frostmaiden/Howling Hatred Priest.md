@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Howling Hatred Priest
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|10 (+0)|14 (+2)|10 (+0)|14 (+2)|
 >___
->- **Skills** Acrobatics +5, Intimidation +4, Religion +4
->- **Senses** passive Perception 10
->- **Languages** Auran, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Acrobatics +5, Intimidation +4, Religion +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr2 (450 XP)
 >___
 >***Hold Breath.*** The priest can hold its breath for 30 minutes.  
 >

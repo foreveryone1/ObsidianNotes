@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ontharr Frume
 >*Medium #humanoid (human), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)|
 >___
->- **Saving Throws** Con +6, Wis +7
->- **Skills** Intimidation +5, Religion +4
->- **Senses** passive Perception 13
->- **Languages** any two languages
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +6, Wis +7
+>- **Skills**
+>	 - Intimidation +5, Religion +4
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any two languages
+>
+> #cr9 (5,000 XP)
 >___
 >***5etools Note.*** Ontharr Frume is presented in Hoard of the Dragon Queen and The Rise of Tiamat as a lawful good, human paladin of Torm. The war priest statblock from Volo's Guide to Monsters has been provided here for ease of use.  
 >

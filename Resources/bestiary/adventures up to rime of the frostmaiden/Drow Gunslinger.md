@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Gunslinger
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +6, Con +4, Wis +3
->- **Skills** Perception +3, Stealth +8
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Elvish, Undercommon
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +4, Wis +3
+>- **Skills**
+>	 - Perception +3, Stealth +8
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr4 (1,100 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Winged Bull
 >*Large #celestial , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** understands Celestial but can't speak
->- #cr4 (1,100 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - understands Celestial but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Charge.*** If the bull moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, the target takes an extra 19 (3d12) piercing damage.  
 >

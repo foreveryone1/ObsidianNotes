@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Death Knight
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Dex +6, Wis +9, Cha +10
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Abyssal, Common
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +9, Cha +10
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr17 (18,000 XP)
 >___
 >***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.  
 >

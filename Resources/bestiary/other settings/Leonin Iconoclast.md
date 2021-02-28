@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Leonin Iconoclast
 >*Medium #humanoid (leonin), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|16 (+3)|13 (+1)|17 (+3)|10 (+0)|
 >___
->- **Saving Throws** Dex +7, Wis +6
->- **Skills** Arcana +4, Insight +6, Intimidation +3, Stealth +7, Survival +6
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Leonin
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +7, Wis +6
+>- **Skills**
+>	 - Arcana +4, Insight +6, Intimidation +3, Stealth +7, Survival +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Leonin
+>
+> #cr5 (1,800 XP)
 >___
 >***Evasion.*** If the leonin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aurelia
 >*Medium celestial (angel), lawful good*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|24 (+7)|25 (+7)|17 (+3)|25 (+7)|30 (+10)|
 >___
->- **Saving Throws** Dex +14, Con +14, Cha +17
->- **Skills** Insight +14, Perception +14
->- **Damage Resistances** necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** truesight 120 ft., passive Perception 24
->- **Languages** all
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +14, Con +14, Cha +17
+>- **Skills**
+>	 - Insight +14, Perception +14
+>- **Damage Resistances**
+>	 - necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 24
+>- **Languages**
+>	 - all
+>
+> #cr23 (50,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Aurelia fails a saving throw, she can choose to succeed instead.  
 >
@@ -40,9 +52,12 @@
 ## Legendary Actions
 >Aurelia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Aurelia regains spent legendary actions at the start of its turn.
 >
->- **Command Allies.** Aurelia chooses up to three creatures she can see within 30 feet of her. If a chosen creature can see or hear Aurelia, it can immediately use its reaction to make one weapon attack, with advantage on the attack roll.
->- **Longsword Attack (Costs 2 Actions).** Aurelia makes one longsword attack.
->- **Frighten Foes (Costs 3 Actions).** Aurelia targets up to five creatures she can see within 30 feet of her. Each target must succeed on a DC 25 Wisdom saving throw or be frightened of her until the end of her next turn. Any target within 5 feet of Aurelia has disadvantage on the saving throw.
+>- **Command Allies**
+>	- Aurelia chooses up to three creatures she can see within 30 feet of her. If a chosen creature can see or hear Aurelia, it can immediately use its reaction to make one weapon attack, with advantage on the attack roll.
+>- **Longsword Attack (Costs 2 Actions)**
+>	- Aurelia makes one longsword attack.
+>- **Frighten Foes (Costs 3 Actions)**
+>	- Aurelia targets up to five creatures she can see within 30 feet of her. Each target must succeed on a DC 25 Wisdom saving throw or be frightened of her until the end of her next turn. Any target within 5 feet of Aurelia has disadvantage on the saving throw.
 ## Aurelia
 The angel Aurelia leads the Boros Legion. During the years of her leadership, she has shown a strong appreciation for the ordinary citizens who are often caught in the middle of interguild violence.
 True justice, Aurelia argues, isn't merely the enforcement of the letter of existing laws (let the Azorius fret over that), but the establishment of equitable and compassionate relationships among all of Ravnica's people. That means protecting the weak from the depredations of the strong, sheltering the innocents who are threatened by war, and ensuring that enforcement of the law doesn't become oppressive. Aurelia actively supports efforts to establish a lasting peace among the guilds in the absence of the Guildpact.

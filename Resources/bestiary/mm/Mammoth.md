@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mammoth
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|9 (-1)|21 (+5)|3 (-4)|11 (+0)|6 (-2)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- #cr6 (2,300 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr6 (2,300 XP)
 >___
 >***Trampling Charge.*** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.  
 >

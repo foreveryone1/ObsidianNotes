@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Retriever
 >*Large #construct , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|20 (+5)|3 (-4)|11 (+0)|4 (-3)|
 >___
->- **Saving Throws** Dex +8, Con +10, Wis +5
->- **Skills** Perception +5, Stealth +8
->- **Damage Immunities** necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 15
->- **Languages** understands Abyssal, Elvish, and Undercommon but can't speak
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +10, Wis +5
+>- **Skills**
+>	 - Perception +5, Stealth +8
+>- **Damage Immunities**
+>	 - necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - understands Abyssal, Elvish, and Undercommon but can't speak
+>
+> #cr14 (11,500 XP)
 >___
 >***Faultless Tracker.*** The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.  
 >

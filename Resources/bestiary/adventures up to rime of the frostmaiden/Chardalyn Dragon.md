@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chardalyn Dragon
 >*Huge #construct , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|11 (+0)|19 (+4)|10 (+0)|10 (+0)|3 (-4)|
 >___
->- **Saving Throws** Str +11, Con +8
->- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** the languages known by its creator
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Str +11, Con +8
+>- **Damage Resistances**
+>	 - radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - the languages known by its creator
+>
+> #cr11 (7,200 XP)
 >___
 >***Immutable Form.*** The dragon is immune to any spell or effect that would alter its form.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Adult Blue Dragon
 >*Huge #dragon , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
->- **Skills** Perception +12, Stealth +5
->- **Damage Immunities** lightning
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
->- **Languages** Common, Draconic
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +11, Wis +7, Cha +9
+>- **Skills**
+>	 - Perception +12, Stealth +5
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 22
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr16 (15,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.  
 >
@@ -35,9 +45,12 @@
 ## Legendary Actions
 >The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 ## Adult Blue Dragon
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 A blue dragon is recognized by its dramatic frilled ears and the massive ridged horn atop its blunt head. Rows of spikes extend back from its nostrils to line its brow, and cluster on its jutting lower jaw.

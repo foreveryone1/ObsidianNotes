@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reflection
 >*Medium #fey , , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|6 (-2)|10 (+0)|8 (-1)|
 >___
->- **Skills** Stealth +4
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Resistances** acid, cold, fire, lightning, thunder; piercing and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Stealth +4
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; piercing and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amorphous.*** The reflection can move through a space as narrow as 1 inch wide without squeezing.  
 >

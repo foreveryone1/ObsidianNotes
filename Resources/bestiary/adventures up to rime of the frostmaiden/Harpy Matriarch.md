@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Harpy Matriarch
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|12 (+1)|9 (-1)|10 (+0)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Cha +6
->- **Skills** Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +6, Cha +6
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 >***Luring Maestro.*** While within 60 feet of the matriarch, creatures have disadvantage on saving throws against the matriarch's Luring Song.  
 >

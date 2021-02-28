@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blinded Troll
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >___
->- **Skills** Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Giant
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Giant
+>
+> #cr4 (1,100 XP)
 >___
 >***Blinded.*** The troll is wearing an eyeless helm, and is blinded.  
 >

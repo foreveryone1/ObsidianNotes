@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elder Oblex
 >*Huge #ooze , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|21 (+5)|22 (+6)|13 (+1)|18 (+4)|
 >___
->- **Saving Throws** Int +10, Cha +8
->- **Skills** Arcana +10, Deception +8, History +10, Nature +10, Perception +5, Religion +10
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, prone
->- **Senses** blindsight 60 ft. (blind beyond this distance), passive Perception 15
->- **Languages** Common plus six more
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Int +10, Cha +8
+>- **Skills**
+>	 - Arcana +10, Deception +8, History +10, Nature +10, Perception +5, Religion +10
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this distance), passive Perception 15
+>- **Languages**
+>	 - Common plus six more
+>
+> #cr10 (5,900 XP)
 >___
 >***Amorphous.*** The oblex can move through a space as narrow as 1 inch wide without squeezing.  
 >

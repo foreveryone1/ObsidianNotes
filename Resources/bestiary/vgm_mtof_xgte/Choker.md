@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Choker
 >*Small #aberration , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|7 (-2)|
 >___
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Deep Speech
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Deep Speech
+>
+> #cr1 (200 XP)
 >___
 >***Aberrant Quickness (Recharges after a Short or Long Rest).*** The choker can take an extra action on its turn.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Withers
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|16 (+3)|16 (+3)|13 (+1)|15 (+2)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** the languages he knew in life
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - the languages he knew in life
+>
+> #cr4 (1,100 XP)
 >___
 >***Special Equipment.*** Withers carries the amulet of the black skull.  
 >

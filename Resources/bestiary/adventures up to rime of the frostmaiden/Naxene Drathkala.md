@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Naxene Drathkala
 >*Medium #humanoid (Turami human), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|11 (+0)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Skills** Arcana +5, History +5
->- **Senses** passive Perception 11
->- **Languages** Common, Draconic, Dwarvish, Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Arcana +5, History +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** Goldenfields' crops are vital Waterdeep's survival, which is why the Watchful Order of Magists and Protectors sent Naxene to make sure the temple-farm is adequately defended. At first she regarded the task as a punishment, but now she appreciates the peace and quiet.  
 >Ideal: "There's no problem that can't be solved with magic."  

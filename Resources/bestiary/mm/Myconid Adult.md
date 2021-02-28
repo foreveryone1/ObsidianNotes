@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Myconid Adult
 >*Medium #plant , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|12 (+1)|10 (+0)|13 (+1)|7 (-2)|
 >___
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Distress Spores.*** When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.  
 >

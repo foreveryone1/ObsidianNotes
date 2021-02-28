@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Martial Arts Adept
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|13 (+1)|11 (+0)|16 (+3)|10 (+0)|
 >___
->- **Skills** Acrobatics +5, Insight +5, Stealth +5
->- **Senses** passive Perception 13
->- **Languages** any one language (usually Common)
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +5, Insight +5, Stealth +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr3 (700 XP)
 >___
 >***Unarmored Defense.*** While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >

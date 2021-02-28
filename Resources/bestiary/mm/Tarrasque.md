@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tarrasque
 >*Gargantuan monstrosity (titan), unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|11 (+0)|30 (+10)|3 (-4)|11 (+0)|11 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +9, Cha +9
->- **Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, frightened, paralyzed, poisoned
->- **Senses** blindsight 120 ft., passive Perception 10
->- **Languages** —
->- #cr30 (155,000 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +9, Cha +9
+>- **Damage Immunities**
+>	 - fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr30 (155,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.  
 >
@@ -44,9 +54,12 @@
 ## Legendary Actions
 >The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 >
->- **Attack.** The tarrasque makes one claw attack or tail attack.
->- **Move.** The tarrasque moves up to half its speed.
->- **Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow.
+>- **Attack**
+>	- The tarrasque makes one claw attack or tail attack.
+>- **Move**
+>	- The tarrasque moves up to half its speed.
+>- **Chomp (Costs 2 Actions)**
+>	- The tarrasque makes one bite attack or uses its Swallow.
 ## Tarrasque
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
 A scaly biped, the tarrasque is fifty feet tall and seventy feet long, weighing hundreds of tons. It carries itself like a bird of prey, leaning forward and using its powerful lashing tail for balance. Its cavernous maw yawns wide enough to swallow all but the largest creatures, and so great is its hunger that it can devour the populations of whole towns.

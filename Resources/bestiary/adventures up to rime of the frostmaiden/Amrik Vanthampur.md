@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Amrik Vanthampur
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|15 (+2)|
 >___
->- **Skills** Acrobatics +6, Athletics +3, Deception +6, Insight +6
->- **Senses** passive Perception 12
->- **Languages** Common, Infernal
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +6, Athletics +3, Deception +6, Insight +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr3 (700 XP)
 >___
 >***Suave Defense.*** While Amrik is wearing light or no armor and wielding no shield, his AC includes his Charisma modifier.  
 >

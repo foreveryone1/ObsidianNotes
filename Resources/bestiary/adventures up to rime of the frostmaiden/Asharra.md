@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Asharra
 >*Medium #humanoid (aarakocra), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|14 (+2)|17 (+3)|11 (+0)|
 >___
->- **Skills** History +4, Insight +5, Perception +7
->- **Senses** passive Perception 17
->- **Languages** Auran, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - History +4, Insight +5, Perception +7
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr2 (450 XP)
 >___
 >
 > ##### Dance of the Seven Winds

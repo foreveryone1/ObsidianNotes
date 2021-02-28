@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orthon
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|21 (+5)|15 (+2)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Dex +7, Con +9, Wis +6
->- **Skills** Perception +10, Stealth +11, Survival +10
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** darkvision 120 ft., truesight 30 ft., passive Perception 20
->- **Languages** Common, Infernal, telepathy 120 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +9, Wis +6
+>- **Skills**
+>	 - Perception +10, Stealth +11, Survival +10
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., truesight 30 ft., passive Perception 20
+>- **Languages**
+>	 - Common, Infernal, telepathy 120 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Invisibility Field.*** The orthon can use a bonus action to become invisible. Any equipment the orthon wears or carries is also invisible as long as the equipment is on its person. This invisibility ends immediately after the orthon makes an attack roll or is hit by an attack.  
 >

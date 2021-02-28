@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dire Troll
 >*Huge #giant , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|21 (+5)|9 (-1)|11 (+0)|5 (-3)|
 >___
->- **Saving Throws** Wis +5, Cha +2
->- **Skills** Perception +5
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Giant
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +2
+>- **Skills**
+>	 - Perception +5
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Giant
+>
+> #cr13 (10,000 XP)
 >___
 >***Keen Senses.*** The troll has advantage on Wisdom (Perception) checks that rely on smell or sight.  
 >

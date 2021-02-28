@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gloamwing
 >*Large #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|17 (+3)|2 (-4)|11 (+0)|6 (-2)|
 >___
->- **Saving Throws** Str +8, Dex +6
->- **Skills** Perception +3, Stealth +6
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** understands Common
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Str +8, Dex +6
+>- **Skills**
+>	 - Perception +3, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - understands Common
+>
+> #cr8 (3,900 XP)
 >___
 >***Death Link.*** If its specter rider is reduced to 0 hit points, the gloamwing is destroyed.  
 >

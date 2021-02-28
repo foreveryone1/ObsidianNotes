@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Undying Councilor
 >*Medium #undead , neutral good*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|17 (+3)|21 (+5)|16 (+3)|
 >___
->- **Saving Throws** Con +6, Int +7, Wis +9
->- **Skills** Arcana +7, History +11, Insight +9, Perception +9, Religion +7
->- **Damage Vulnerabilities** necrotic
->- **Damage Immunities** poison, radiant
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 120 ft., passive Perception 19
->- **Languages** Common, Elvish
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +6, Int +7, Wis +9
+>- **Skills**
+>	 - Arcana +7, History +11, Insight +9, Perception +9, Religion +7
+>- **Damage Vulnerabilities**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison, radiant
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr10 (5,900 XP)
 >___
 >***Aura of Radiance.*** The councilor magically sheds bright light in a 15-foot radius and dim light for an additional 15 feet. The councilor can extinguish or restore this light as a bonus action. If the bright light overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created that darkness is dispelled.  
 >
@@ -46,8 +58,10 @@
 ## Legendary Actions
 >The undying councilor can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undying councilor regains spent legendary actions at the start of its turn.
 >
->- **Touch.** The councilor makes one attack with its Radiant Touch.
->- **Shimmering Aura (Costs 2 Actions).** The councilor channels positive energy into its Aura of Radiance. Until the end of the councilor's next turn, it sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Any creature that starts its turn in the bright light must succeed on a DC 17 Constitution saving throw or be blinded until the end of the councilor's next turn.
+>- **Touch**
+>	- The councilor makes one attack with its Radiant Touch.
+>- **Shimmering Aura (Costs 2 Actions)**
+>	- The councilor channels positive energy into its Aura of Radiance. Until the end of the councilor's next turn, it sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Any creature that starts its turn in the bright light must succeed on a DC 17 Constitution saving throw or be blinded until the end of the councilor's next turn.
 ## Undying Councilor
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
 The undying are undead creatures sustained by positive energy or the devotion of mortal beings. Where strong negative emotions can trap a spirit as a ghost or wraith, the undying are spirits who linger because they are cherished and who in turn seek to protect and guide the people of their community.

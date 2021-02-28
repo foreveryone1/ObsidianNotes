@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zariel
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|24 (+7)|28 (+9)|26 (+8)|27 (+8)|30 (+10)|
 >___
->- **Saving Throws** Int +16, Wis +16, Cha +18
->- **Skills** Intimidation +18, Perception +16
->- **Damage Resistances** cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 26
->- **Languages** all, telepathy 120 ft.
->- #cr26 (90,000 XP)
+>- **Saving Throws**
+>	 - Int +16, Wis +16, Cha +18
+>- **Skills**
+>	 - Intimidation +18, Perception +16
+>- **Damage Resistances**
+>	 - cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr26 (90,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede Zariel's darkvision.  
 >
@@ -49,8 +61,10 @@
 ## Legendary Actions
 >Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of its turn.
 >
->- **Immolating Gaze (Costs 2 Actions).** Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
->- **Teleport.** Zariel uses her Teleport action.
+>- **Immolating Gaze (Costs 2 Actions).**  
+>	- Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
+>- **Teleport.**  
+>	- Zariel uses her Teleport action.
 ## Zariel
 *Do not pity the fallen angel. Fallen angels survive the fall. How many other souls did Zariel bring down with her?*— Mordenkainen***Zariel.*** Zariel rules Avernus, the first layer of the Nine Hells. Once a mighty angel charged with watching the tides of the Blood War, she succumbed to the plane's corrupting influence and fell from grace. She recently reclaimed her position as archdevil of Avernus after the cautious Bel proved inadequate at marshaling his forces to launch offensives against the encroaching demons. Now Bel advises her and helps her manage the war, though many whisper that her true agenda is vengeance against Asmodeus, and her true plan is to drive him from the Nine Hells.
 All who enter and exit the Nine Hells must pass through Avernus, so the infernal armies muster on this layer. Here, the amnizus guard the citadels overlooking the River Styx, much of the fighting of the Blood War takes place, and devils gather to invade the Abyss. Anyone hoping to reach the lower layers must first contend with the darkness of this layer and the myriad threats it houses. Zariel manages it all and has the ultimate say over who comes and goes.

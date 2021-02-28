@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Empyrean
 >*Huge celestial (titan), chaotic good (75%) or neutral evil (25%)*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|21 (+5)|30 (+10)|21 (+5)|22 (+6)|27 (+8)|
 >___
->- **Saving Throws** Str +17, Int +12, Wis +13, Cha +15
->- **Skills** Insight +13, Persuasion +15
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** truesight 120 ft., passive Perception 16
->- **Languages** all
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Str +17, Int +12, Wis +13, Cha +15
+>- **Skills**
+>	 - Insight +13, Persuasion +15
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 16
+>- **Languages**
+>	 - all
+>
+> #cr23 (50,000 XP)
 >___
 >***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >
@@ -37,9 +47,12 @@
 ## Legendary Actions
 >The empyrean can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The empyrean regains spent legendary actions at the start of its turn.
 >
->- **Attack.** The empyrean makes one attack.
->- **Bolster.** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be charmed or frightened, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
->- **Trembling Strike (Costs 2 Actions).** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked prone.
+>- **Attack**
+>	- The empyrean makes one attack.
+>- **Bolster**
+>	- The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be charmed or frightened, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
+>- **Trembling Strike (Costs 2 Actions)**
+>	- The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked prone.
 ## Empyrean
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
 ***Manifest Emotion.*** An empyrean can experience deity-like fits of serenity or rage. It can affect the environment around it by its mood. When an empyrean is unhappy, the clouds might cry tears of salt water, the wildflowers in surrounding meadows might wilt, dead fish might wash ashore in lakes or rivers, or a nearby forest might lose the leaves from its trees. When an empyrean is jubilant, sunlight follows it everywhere, small animals frolic in its footsteps, and birds fill the sky with their pleasing songs.

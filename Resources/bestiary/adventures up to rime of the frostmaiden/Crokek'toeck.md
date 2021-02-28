@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Crokek'toeck
 >*Gargantuan #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|10 (+0)|24 (+7)|6 (-2)|10 (+0)|13 (+1)|
 >___
->- **Saving Throws** Con +12, Wis +5
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Abyssal but can't speak
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Con +12, Wis +5
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> #cr14 (11,500 XP)
 >___
 >***Amphibious.*** Crokek'toeck can breathe air and water.  
 >

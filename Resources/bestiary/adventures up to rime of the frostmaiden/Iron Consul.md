@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Iron Consul
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|16 (+3)|12 (+1)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Intimidation +5, Perception +4
->- **Condition Immunities** frightened
->- **Senses** passive Perception 14
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Intimidation +5, Perception +4
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 >***Tactical Discipline.*** The iron consul has advantage on all ability checks and saving throws made during combat.  
 >

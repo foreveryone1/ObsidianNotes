@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Intellect Devourer
 >*Tiny #aberration , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** blinded
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 12
->- **Languages** understands Deep Speech but can't speak, telepathy 60 ft.
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 12
+>- **Languages**
+>	 - understands Deep Speech but can't speak, telepathy 60 ft.
+>
+> #cr2 (450 XP)
 >___
 >***Detect Sentience.*** The intellect devourer can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.  
 >

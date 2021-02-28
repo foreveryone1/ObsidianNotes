@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sea Lion
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +4, Stealth +5
->- **Senses** passive Perception 14
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +5
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Amphibious.*** The sea lion can breathe air and water.  
 >

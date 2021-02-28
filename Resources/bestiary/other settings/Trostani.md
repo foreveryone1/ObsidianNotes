@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Trostani
 >*Large #fey , , neutral good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|20 (+5)|16 (+3)|30 (+10)|25 (+7)|
 >___
->- **Saving Throws** Con +11, Wis +16, Cha +13
->- **Skills** Arcana +9, Insight +16, Nature +9, Perception +16, Persuasion +13
->- **Condition Immunities** charmed, grappled
->- **Senses** darkvision 120 ft., passive Perception 26
->- **Languages** Common, Druidic, Elvish, Sylvan
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +16, Cha +13
+>- **Skills**
+>	 - Arcana +9, Insight +16, Nature +9, Perception +16, Persuasion +13
+>- **Condition Immunities**
+>	 - charmed, grappled
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - Common, Druidic, Elvish, Sylvan
+>
+> #cr18 (20,000 XP)
 >___
 >***Innate Spellcasting.*** Trostani's innate spellcasting ability is Wisdom (spell save DC 24). She can innately cast the following spells, requiring no material components:  
 >
@@ -46,11 +56,16 @@
 ## Legendary Actions
 >Trostani can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Trostani regains spent legendary actions at the start of its turn.
 >
->- **Voice of Harmony.** Trostani makes one melee attack, with advantage on the attack roll.
->- **Voice of Life.** Trostani bestows 20 temporary hit points on another creature she can see within 120 feet of her.
->- **Voice of Order.** Trostani casts dispel magic.
->- **Chorus of the Conclave (Costs 2 Actions).** Trostani casts suggestion. This counts as one of her daily uses of the spell.
->- **Awaken Grove Guardians (Costs 3 Actions).** Trostani animates one or two trees she can see within 120 feet of her, causing them to uproot themselves and become awakened trees (see the Monster Manual for their stat blocks) for 1 minute or until Trostani uses a bonus action to end the effect. These trees understand Druidic and obey Trostani's spoken commands, but can't speak. If she issues no commands to them, the trees do nothing but follow her and take the Dodge action.
+>- **Voice of Harmony.**
+> Trostani makes one melee attack, with advantage on the attack roll.
+>- **Voice of Life.**
+> Trostani bestows 20 temporary hit points on another creature she can see within 120 feet of her.
+>- **Voice of Order.**
+> Trostani casts dispel magic.
+>- **Chorus of the Conclave (Costs 2 Actions).**
+> Trostani casts suggestion. This counts as one of her daily uses of the spell.
+>- **Awaken Grove Guardians (Costs 3 Actions).**
+> Trostani animates one or two trees she can see within 120 feet of her, causing them to uproot themselves and become awakened trees (see the Monster Manual for their stat blocks) for 1 minute or until Trostani uses a bonus action to end the effect. These trees understand Druidic and obey Trostani's spoken commands, but can't speak. If she issues no commands to them, the trees do nothing but follow her and take the Dodge action.
 ## Trostani
 The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad's body extends from a central trunk, so while they possess independent minds, they share a single name-Trostani and a single life force. Usually Trostani communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.
 Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesnya guildhall. There she communes with Mat'Selesnya and with the dryads who lead individual Selesnya communities across Ravnica.

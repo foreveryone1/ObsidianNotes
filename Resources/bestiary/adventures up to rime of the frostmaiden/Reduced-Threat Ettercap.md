@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Ettercap
 >*Medium #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|13 (+1)|7 (-2)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +1, Stealth +2, Survival +1
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- #cr2 (225 XP)
+>- **Skills**
+>	 - Perception +1, Stealth +2, Survival +1
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr2 (225 XP)
 >___
 >***Spider Climb.*** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Archon of Falling Stars
 >*Medium #celestial , lawful good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|19 (+4)|15 (+2)|21 (+5)|19 (+4)|
 >___
->- **Saving Throws** Str +9, Con +8, Wis +9, Cha +8
->- **Skills** Arcana +6, History +6, Insight +9, Perception +9
->- **Damage Immunities** radiant
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** truesight 120 ft., passive Perception 19
->- **Languages** all
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +8, Wis +9, Cha +8
+>- **Skills**
+>	 - Arcana +6, History +6, Insight +9, Perception +9
+>- **Damage Immunities**
+>	 - radiant
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 19
+>- **Languages**
+>	 - all
+>
+> #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The archon's spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The archon can innately cast the following spells, requiring no material components:  
 >
@@ -38,9 +49,12 @@
 ## Legendary Actions
 >The archon of falling stars can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The archon of falling stars regains spent legendary actions at the start of its turn.
 >
->- **Attack.** The archon makes a radiant spear attack or casts guiding bolt.
->- **Coordinated Assault (Costs 2 Actions).** The archon makes a radiant spear attack, and then its mount can use its reaction to make a melee weapon attack.
->- **Return to Nyx (Costs 3 Actions).** The archon causes a corpse it can see within 30 feet of it to burst into a shower of radiant stars leaving no trace of it behind. Everything it is wearing or carrying remains. Each creature within 10 feet of the corpse when it bursts must succeed on a DC 16 Dexterity saving throw or take 22 (4d10) radiant damage.
+>- **Attack**
+>	- The archon makes a radiant spear attack or casts guiding bolt.
+>- **Coordinated Assault (Costs 2 Actions)**
+>	- The archon makes a radiant spear attack, and then its mount can use its reaction to make a melee weapon attack.
+>- **Return to Nyx (Costs 3 Actions)**
+>	- The archon causes a corpse it can see within 30 feet of it to burst into a shower of radiant stars leaving no trace of it behind. Everything it is wearing or carrying remains. Each creature within 10 feet of the corpse when it bursts must succeed on a DC 16 Dexterity saving throw or take 22 (4d10) radiant damage.
 ## Archon of Falling Stars
 The epic accounting of the world's earliest histories called The Cosmogony recounts the battle between a group of the gods' champions and a mighty archon, which took place at the mysterious eastern edge of the world. Defeated, the falling archon is said to have met the rising sun. But Heliod showed mercy to the penitent archon, who swore to uphold justice and righteousness in the world's wildest places. As a sign of his mercy, Heliod gave the archon a spear that rivaled his own in its brilliance. This was the first archon of falling stars.
 The mysterious conquerors known as archons once ruled vast empires. These armored warlords saw themselves as champions of merciless justice, and they ruled with iron fists. But their dominance ultimately came to an end. As the archon overlords toppled, they scattered to the fringes of the world, and their holdings developed into the poleis of today.

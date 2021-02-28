@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Autumn Eladrin
 >*Medium #fey ,  (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|16 (+3)|14 (+2)|17 (+3)|18 (+4)|
 >___
->- **Skills** Insight +7, Medicine +7
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Elvish, Sylvan
->- #cr10 (5,900 XP)
+>- **Skills**
+>	 - Insight +7, Medicine +7
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> #cr10 (5,900 XP)
 >___
 >***Enchanting Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature is charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Enchanting Presence for 24 hours.  
 >Whenever the eladrin deals damage to the charmed creature, the creature can repeat the saving throw, ending the effect on itself on a success.  

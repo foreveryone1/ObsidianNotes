@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hobgoblin Captain
 >*Medium #humanoid (goblinoid), lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Goblin
->- #cr3 (700 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr3 (700 XP)
 >___
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.  
 >

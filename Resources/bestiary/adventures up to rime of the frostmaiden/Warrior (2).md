@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warrior
 >*11th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Saving Throws** Con +6
->- **Skills** Athletics +8, Perception +5, Survival +5
->- **Senses** passive Perception 15
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Con +6
+>- **Skills**
+>	 - Athletics +8, Perception +5, Survival +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Attacker.*** The warrior gains a +2 bonus to attack rolls.  
 >

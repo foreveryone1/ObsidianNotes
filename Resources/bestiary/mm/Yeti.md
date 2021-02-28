@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yeti
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +3
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Yeti
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +3
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Yeti
+>
+> #cr3 (700 XP)
 >___
 >***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.  
 >

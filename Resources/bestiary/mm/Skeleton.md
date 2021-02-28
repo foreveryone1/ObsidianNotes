@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skeleton
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Damage Vulnerabilities** bludgeoning
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands all languages it spoke in life but can't speak
->- ** #cr1-4 ** (50 XP)
+>- **Damage Vulnerabilities**
+>	 - bludgeoning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands all languages it spoke in life but can't speak
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  

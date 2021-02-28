@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Juiblex
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|23 (+6)|20 (+5)|20 (+5)|16 (+3)|
 >___
->- **Saving Throws** Dex +7, Con +13, Wis +12
->- **Skills** Perception +12
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
->- **Senses** truesight 120 ft., passive Perception 22
->- **Languages** all, telepathy 120 ft.
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +13, Wis +12
+>- **Skills**
+>	 - Perception +12
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 22
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr23 (50,000 XP)
 >___
 >***Foul.*** Any creature, other than an #ooze , that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.  
 >
@@ -47,9 +59,12 @@
 ## Legendary Actions
 >Juiblex can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Juiblex regains spent legendary actions at the start of its turn.
 >
->- **Acid Splash.** Juiblex casts acid splash.
->- **Attack.** Juiblex makes one acid lash attack.
->- **Corrupting Touch (Costs 2 Actions).** Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an #ooze , is poisoned while within 10 feet of the target.
+>- **Acid Splash.**
+> Juiblex casts acid splash.
+>- **Attack.**
+> Juiblex makes one acid lash attack.
+>- **Corrupting Touch (Costs 2 Actions).**
+> Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an #ooze , is poisoned while within 10 feet of the target.
 ## Juiblex
 ***Juiblex.*** Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and #ooze , a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
 A true horror, Juiblex is a mass of bubbling slime, swirling black and green, with glaring red eyes floating and shifting within it. It can rise up like a 20-foot hill, lashing out with dripping pseudopods to drag victims into its bulk. Those consumed by Juiblex are obliterated.

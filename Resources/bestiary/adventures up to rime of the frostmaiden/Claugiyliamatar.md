@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Claugiyliamatar
 >*Gargantuan #dragon , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 >___
->- **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
->- **Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
->- **Languages** Common, Draconic
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +14, Wis +10, Cha +11
+>- **Skills**
+>	 - Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 27
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr23 (50,000 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >
@@ -51,6 +62,9 @@
 ## Legendary Actions
 >Claugiyliamatar can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Claugiyliamatar regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dragon makes a Wisdom (Perception) check.
->- **Tail Attack.** The dragon makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>- **Detect**
+>	- The dragon makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dragon makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.

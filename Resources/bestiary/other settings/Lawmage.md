@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lawmage
 >*Medium #humanoid (any race), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|14 (+2)|17 (+3)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Int +6, Wis +5
->- **Skills** Arcana +6, Perception +5, Persuasion +4
->- **Senses** passive Perception 15
->- **Languages** Common plus any one language
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +5
+>- **Skills**
+>	 - Arcana +6, Perception +5, Persuasion +4
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr6 (2,300 XP)
 >___
 >***Spellcasting.*** The lawmage is an 8th-level Azorius spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The lawmage has the following wizard spells prepared:  
 >

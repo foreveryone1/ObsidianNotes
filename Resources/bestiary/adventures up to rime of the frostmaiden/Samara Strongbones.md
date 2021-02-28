@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Samara Strongbones
 >*Small #humanoid (halfling), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
->- **Senses** passive Perception 16
->- **Languages** any two languages, Halfling
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - any two languages, Halfling
+>
+> #cr1 (200 XP)
 >___
 >***Brave.*** The samara strongbones has advantage on saving throws against being frightened.  
 >

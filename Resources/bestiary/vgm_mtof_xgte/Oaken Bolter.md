@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oaken Bolter
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|15 (+2)|3 (-4)|10 (+0)|1 (-5)|
 >___
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands one language of its creator but can't speak
->- #cr5 (1,800 XP)
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Magic Resistance.*** The oaken bolter has advantage on saving throws against spells and other magical effects.  
 >

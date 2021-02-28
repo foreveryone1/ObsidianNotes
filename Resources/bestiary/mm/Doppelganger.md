@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Doppelganger
 >*Medium monstrosity (shapechanger), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
 >___
->- **Skills** Deception +6, Insight +3
->- **Condition Immunities** charmed
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +6, Insight +3
+>- **Condition Immunities**
+>	 - charmed
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Shapechanger.*** The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

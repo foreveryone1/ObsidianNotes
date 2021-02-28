@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fazrian
 >*Large #celestial , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
 >___
->- **Saving Throws** Con +12, Wis +11, Cha +12
->- **Skills** Perception +11
->- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** truesight 120 ft., passive Perception 21
->- **Languages** all, telepathy 120 ft.
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Con +12, Wis +11, Cha +12
+>- **Skills**
+>	 - Perception +11
+>- **Damage Resistances**
+>	 - radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 21
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr16 (15,000 XP)
 >___
 >***Angelic Weapons.*** Fazrian's weapon attacks are magical. When Fazrian hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).  
 >

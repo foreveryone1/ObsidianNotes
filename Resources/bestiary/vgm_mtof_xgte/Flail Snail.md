@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flail Snail
 >*Large #elemental , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|5 (-3)|20 (+5)|3 (-4)|10 (+0)|5 (-3)|
 >___
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Antimagic Shell.*** The snail has advantage on saving throws against spells, and any creature making a spell attack against the snail has disadvantage on the attack roll. If the snail succeeds on its saving throw against a spell or a spell attack misses it, an additional effect might occur, as determined by rolling a d6:  
 >- **1–2.** If the spell affects an area or has multiple targets, it fails and has no effect. If the spell targets only the snail, it has no effect on the snail and is reflected back at the caster, using the spell slot level, spell save DC, attack bonus, and spellcasting ability of the caster.

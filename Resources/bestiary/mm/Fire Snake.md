@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fire Snake
 >*Medium #elemental , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|11 (+0)|7 (-2)|10 (+0)|8 (-1)|
 >___
->- **Damage Vulnerabilities** cold
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands Ignan but can't speak
->- #cr1 (200 XP)
+>- **Damage Vulnerabilities**
+>	 - cold
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands Ignan but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.  
 >

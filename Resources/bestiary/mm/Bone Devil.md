@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bone Devil
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +5, Wis +6, Cha +7
->- **Skills** Deception +7, Insight +6
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Infernal, telepathy 120 ft.
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +6, Cha +7
+>- **Skills**
+>	 - Deception +7, Insight +6
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >

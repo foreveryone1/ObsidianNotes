@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Succubus
 >*Medium #fiend (shapechanger), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
 >___
->- **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
->- **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Abyssal, Common, Infernal, telepathy 60 ft.
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Abyssal, Common, Infernal, telepathy 60 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

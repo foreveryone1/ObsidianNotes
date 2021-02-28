@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spectator
 >*Medium #aberration , lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|14 (+2)|13 (+1)|14 (+2)|11 (+0)|
 >___
->- **Skills** Perception +6
->- **Condition Immunities** prone
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +6
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Deep Speech, Undercommon, telepathy 120 ft.
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) piercing damage.  

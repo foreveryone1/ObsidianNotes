@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jamna Gleamsilver
 >*Small #humanoid (gnome), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +5, Int +4
->- **Skills** Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Gnomish, Goblin, Sylvan
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +5, Int +4
+>- **Skills**
+>	 - Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Gnomish, Goblin, Sylvan
+>
+> #cr1 (200 XP)
 >___
 >***Cunning Action.*** Jamna can take a bonus action to take the Dash, Disengage, or Hide action.  
 >

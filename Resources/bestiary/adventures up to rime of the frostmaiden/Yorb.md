@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yorb
 >*Small #humanoid (grung), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|15 (+2)|10 (+0)|11 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +5
->- **Skills** Athletics +2, Perception +2, Stealth +5, Survival +2
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 12
->- **Languages** Grung
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +5
+>- **Skills**
+>	 - Athletics +2, Perception +2, Stealth +5, Survival +2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Grung
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** Yorb can breathe air and water.  
 >

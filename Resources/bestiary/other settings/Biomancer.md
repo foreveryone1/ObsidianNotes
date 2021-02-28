@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Biomancer
 >*Medium #humanoid (any race), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|14 (+2)|20 (+5)|14 (+2)|15 (+2)|
 >___
->- **Saving Throws** Int +9, Wis +6
->- **Skills** Arcana +9, Nature +9
->- **Senses** passive Perception 12
->- **Languages** Common plus any one language
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +6
+>- **Skills**
+>	 - Arcana +9, Nature +9
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr10 (5,900 XP)
 >___
 >***Bolstering Presence.*** The biomancer magically emanates life-giving energy within 30 feet of itself. Any ally of the biomancer that starts its turn there regains 5 (1d10) hit points.  
 >

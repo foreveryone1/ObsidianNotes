@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quetzalcoatlus
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Skills** Perception +2
->- **Senses** passive Perception 12
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Dive Attack.*** If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mattrim "Threestrings" Mereg
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +4, Wis +3
->- **Skills** Acrobatics +4, Perception +5, Performance +6
->- **Senses** passive Perception 15
->- **Languages** any two languages
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +4, Wis +3
+>- **Skills**
+>	 - Acrobatics +4, Perception +5, Performance +6
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - any two languages
+>
+> #cr2 (450 XP)
 >___
 >***Song of Rest.*** Mattrim can perform a song while taking a short rest. Any ally who hears the song regains an extra 1d6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. Mattrim can confer this benefit on itself as well.  
 >

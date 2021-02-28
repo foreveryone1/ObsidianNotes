@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sundeth
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Str +9, Con +6
->- **Skills** Athletics +9, Intimidation +5, Perception +6
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Common, Giant
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +6
+>- **Skills**
+>	 - Athletics +9, Intimidation +5, Perception +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr9 (5,000 XP)
 >___
 >***Indomitable (2/Day).*** Sundeth rerolls a failed saving throw.  
 >

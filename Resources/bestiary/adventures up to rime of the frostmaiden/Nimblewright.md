@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nimblewright
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|17 (+3)|8 (-1)|10 (+0)|6 (-2)|
 >___
->- **Saving Throws** Dex +6
->- **Skills** Acrobatics +8, Perception +2
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** exhaustion, frightened, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands one language known to its creator but can't speak
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +6
+>- **Skills**
+>	 - Acrobatics +8, Perception +2
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - exhaustion, frightened, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands one language known to its creator but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Magic Resistance.*** The nimblewright has advantage on saving throws against spells and other magical effects.  
 >

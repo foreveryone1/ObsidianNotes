@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grandolpha Muzgardt
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|9 (-1)|18 (+4)|13 (+1)|17 (+3)|16 (+3)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** Common, Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Duergar Resilience.*** Grandolpha has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >

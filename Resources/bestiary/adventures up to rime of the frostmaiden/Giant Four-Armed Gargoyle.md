@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Four-Armed Gargoyle
 >*Large #elemental , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|20 (+5)|6 (-2)|11 (+0)|9 (-1)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Perception +4
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Terran
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Perception +4
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Terran
+>
+> #cr10 (5,900 XP)
 >___
 >***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.  
 >

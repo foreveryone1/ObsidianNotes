@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Rat
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|11 (+0)|2 (-4)|10 (+0)|4 (-3)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.  
 >

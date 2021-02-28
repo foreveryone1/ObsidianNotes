@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tlincalli
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +4, Stealth +4, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Tlincalli
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +4, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Tlincalli
+>
+> #cr5 (1,800 XP)
 >___
 ## Actions
 >***Multiattack.*** The tlincalli makes two attacks: one with its longsword or spiked chain, and one with its sting.  

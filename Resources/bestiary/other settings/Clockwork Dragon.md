@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Clockwork Dragon
 >*Medium #construct , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|12 (+1)|10 (+0)|11 (+0)|13 (+1)|
 >___
->- **Skills** Acrobatics +2, Perception +4
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Common, Draconic
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Acrobatics +2, Perception +4
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr1 (200 XP)
 >___
 >***False Appearance.*** While the clockwork dragon remains motionless, it is indistinguishable from a metal statue.  
 >

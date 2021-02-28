@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Auril (First Form)
 >*Medium #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|21 (+5)|24 (+7)|26 (+8)|28 (+9)|
 >___
->- **Saving Throws** Con +9, Wis +12
->- **Skills** Deception +13, Insight +12, Intimidation +13, Perception +16
->- **Damage Vulnerabilities** radiant
->- **Damage Immunities** cold, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
->- **Senses** darkvision 120 ft., truesight 120 ft., passive Perception 26
->- **Languages** all, telepathy 1000 ft.
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +12
+>- **Skills**
+>	 - Deception +13, Insight +12, Intimidation +13, Perception +16
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+>- **Senses**
+>	 - darkvision 120 ft., truesight 120 ft., passive Perception 26
+>- **Languages**
+>	 - all, telepathy 1000 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Divine Being.*** Auril can't be surprised and can't be changed into another form against her will.  
 >
@@ -47,8 +59,11 @@
 ## Legendary Actions
 >Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Auril regains spent legendary actions at the start of its turn.
 >
->- **Talons.** Auril attacks once with her talons.
->- **Teleport.** Auril teleports to an unoccupied space she can see within 30 feet of her.
->- **Touch of Frost (Costs 2 Actions).** Auril uses Touch of Frost.
+>- **Talons**
+>	- Auril attacks once with her talons.
+>- **Teleport**
+>	- Auril teleports to an unoccupied space she can see within 30 feet of her.
+>- **Touch of Frost (Costs 2 Actions)**
+>	- Auril uses Touch of Frost.
 ## Auril (First Form)
 In her first form, Auril appears as a hunched, 7-foot-tall biped with the head of a snowy owl, black talons, cloven hooves, and grayish-white wolf fur covering her body from the neck down. Protruding from her feathery owl's head is a pair of curved goat horns. A cloak and cowl made of pristine white snow conceals much of her tripartite form, which her worshipers refer to as the Cold Crone. This cloak can transform into a pair of owl's wings when Auril sees fit.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flying Trident
 >*Small #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|11 (+0)|1 (-5)|5 (-3)|1 (-5)|
 >___
->- **Saving Throws** Dex +4
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Saving Throws**
+>	 - Dex +4
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 7
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Antimagic Susceptibility.*** The trident is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the trident must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Firefist
 >*Medium #humanoid (any race), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)|
 >___
->- **Saving Throws** Con +5, Wis +6
->- **Skills** Intimidation +4, Religion +3
->- **Senses** passive Perception 13
->- **Languages** any one language (usually Common)
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Con +5, Wis +6
+>- **Skills**
+>	 - Intimidation +4, Religion +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr7 (2,900 XP)
 >___
 >***Spellcasting.*** The firefist is a 9th-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:  
 >

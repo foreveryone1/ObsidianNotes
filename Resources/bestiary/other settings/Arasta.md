@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Arasta
 >*Huge #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|16 (+3)|23 (+6)|15 (+2)|22 (+6)|17 (+3)|
 >___
->- **Saving Throws** Dex +10, Con +13, Wis +13
->- **Skills** Arcana +9, Deception +10, Intimidation +10, Nature +9, Perception +13, Stealth +10
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
->- **Languages** #celestial , Common, Sylvan
->- #cr21 (33,000 XP, or 66,000 XP as a mythic encounter)
+>- **Saving Throws**
+>	 - Dex +10, Con +13, Wis +13
+>- **Skills**
+>	 - Arcana +9, Deception +10, Intimidation +10, Nature +9, Perception +13, Stealth +10
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 23
+>- **Languages**
+>	 - #celestial , Common, Sylvan
+>
+> #cr21 (33,000 XP, or 66,000 XP as a mythic encounter)
 >___
 >***Armor of Spiders (Mythic Trait; Recharges after a Short or Long Rest).*** If Arasta is reduced to 0 hit points, she doesn't die or fall unconscious. Instead, she regains 200 hit points. In addition, Arasta's children immediately swarm over her body to protect her, granting her 100 temporary hit points.  
 >
@@ -41,16 +53,22 @@
 ## Legendary Actions
 >Arasta can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Arasta regains spent legendary actions at the start of its turn.
 >
->- **Claws.** Arasta makes one attack with her claws.
->- **Swarm (Costs 2 Actions).** Arasta causes two swarms of spiders to appear in unoccupied spaces within 5 feet of her.
->- **Toxic Web (Costs 3 Actions).** Each creature restrained by Arasta's Web of Hair takes 18 (4d8) poison damage.
+>- **Claws**
+>	- Arasta makes one attack with her claws.
+>- **Swarm (Costs 2 Actions)**
+>	- Arasta causes two swarms of spiders to appear in unoccupied spaces within 5 feet of her.
+>- **Toxic Web (Costs 3 Actions)**
+>	- Each creature restrained by Arasta's Web of Hair takes 18 (4d8) poison damage.
 >
 >### Mythic Actions
 >If Arasta's mythic trait is active, she can use the options below as legendary actions, as long as she has temporary hit points from her Armor of Spiders.
 >
->- **Swipe.** Arasta makes two attacks with her claws.
->- **Web of Hair (Costs 2 Actions).** Arasta recharges Web of Hair and uses it.
->- **Nyx Weave (Costs 2 Actions).** Each creature restrained by Arasta's Web of Hair must succeed on a DC 21 Constitution saving throw, or the creature takes 26 (4d12) force damage and any spell of 6th level or lower on it ends.
+>- **Swipe**
+>	- Arasta makes two attacks with her claws.
+>- **Web of Hair (Costs 2 Actions)**
+>	- Arasta recharges Web of Hair and uses it.
+>- **Nyx Weave (Costs 2 Actions)**
+>	- Each creature restrained by Arasta's Web of Hair must succeed on a DC 21 Constitution saving throw, or the creature takes 26 (4d12) force damage and any spell of 6th level or lower on it ends.
 ## Arasta
 A victim of the gods' petty rivalries, Arasta was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
 Arasta appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, Arasta broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.

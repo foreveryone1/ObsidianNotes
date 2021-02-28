@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Catoblepas
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|21 (+5)|3 (-4)|14 (+2)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Keen Smell.*** The catoblepas has advantage on Wisdom (Perception) checks that rely on smell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mirt
 >*Medium #humanoid (human), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|15 (+2)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Dex +8, Wis +5
->- **Skills** Acrobatics +8, Athletics +8, Perception +5, Persuasion +6, Stealth +8
->- **Senses** passive Perception 15
->- **Languages** Common, Dwarvish
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Wis +5
+>- **Skills**
+>	 - Acrobatics +8, Athletics +8, Perception +5, Persuasion +6, Stealth +8
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr9 (5,000 XP)
 >___
 >***Special Equipment.*** Mirt wears bracers of defense and a ring of regeneration. He wields a +1 longsword and a +1 dagger.  
 >

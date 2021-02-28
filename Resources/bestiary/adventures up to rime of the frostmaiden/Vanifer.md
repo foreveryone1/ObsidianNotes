@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vanifer
 >*Medium #humanoid (tiefling), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|17 (+3)|12 (+1)|13 (+1)|19 (+4)|
 >___
->- **Skills** Arcana +5, Deception +8, Performance +8
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Ignan, Infernal
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Arcana +5, Deception +8, Performance +8
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Ignan, Infernal
+>
+> #cr9 (5,000 XP)
 >___
 >***Funeral Pyre.*** When Vanifer drops to 0 hit points, her body is consumed in a flash of fire and smoke. Anything she was wearing or carrying is left behind among ashes.  
 >

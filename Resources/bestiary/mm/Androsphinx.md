@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Androsphinx
 >*Large #monstrosity , lawful neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)|
 >___
->- **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
->- **Skills** Arcana +9, Perception +10, Religion +15
->- **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, frightened
->- **Senses** truesight 120 ft., passive Perception 20
->- **Languages** Common, Sphinx
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +11, Int +9, Wis +10
+>- **Skills**
+>	 - Arcana +9, Perception +10, Religion +15
+>- **Damage Immunities**
+>	 - psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 20
+>- **Languages**
+>	 - Common, Sphinx
+>
+> #cr17 (18,000 XP)
 >___
 >***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.  
 >
@@ -47,9 +58,12 @@
 ## Legendary Actions
 >The androsphinx can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The androsphinx regains spent legendary actions at the start of its turn.
 >
->- **Claw Attack.** The sphinx makes one claw attack.
->- **Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
->- **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+>- **Claw Attack.**
+>	- The sphinx makes one claw attack.
+>- **Teleport (Costs 2 Actions).** 
+>	- The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>- **Cast a Spell (Costs 3 Actions).** 
+>	- The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 ## Androsphinx
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
 An androsphinx tests the courage and valor of supplicants, not only by forcing them to complete quests but also with its terrible roar, which echoes for miles as it terrifies and deafens nearby creatures. Those who pass its tests may be rewarded with a heroes' feast.

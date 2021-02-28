@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Falcon the Hunter
 >*Medium #humanoid (human), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|16 (+3)|11 (+0)|16 (+3)|15 (+2)|
 >___
->- **Saving Throws** Dex +4, Wis +5
->- **Skills** Athletics +4, Perception +7, Survival +5
->- **Senses** passive Perception 17
->- **Languages** Common
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +4, Wis +5
+>- **Skills**
+>	 - Athletics +4, Perception +7, Survival +5
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Archer.*** A longbow or shortbow deals one extra die of its damage when Falcon hits with it (included in his longbow attack).  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Xvart
 >*Small #humanoid (xvart), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|8 (-1)|7 (-2)|7 (-2)|
 >___
->- **Skills** Stealth +4
->- **Senses** darkvision 30 ft., passive Perception 8
->- **Languages** Abyssal
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Stealth +4
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 8
+>- **Languages**
+>	 - Abyssal
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Low Cunning.*** The xvart can take the Disengage action as a bonus action on each of its turns.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blistercoil Weird
 >*Medium #elemental , chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|15 (+2)|5 (-3)|10 (+0)|7 (-2)|
 >___
->- **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Draconic
->- #cr4 (1,100 XP)
+>- **Damage Resistances**
+>	 - cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Draconic
+>
+> #cr4 (1,100 XP)
 >___
 >***Feed on Fire.*** If the weird takes fire damage from a spell or other magical effect, its size increases by one category. If there isn't enough room for the weird to increase in size, it attains the maximum size possible in the space available. While the weird is Large or bigger, it makes Strength checks and saving throws with advantage. If the weird starts its turn at Gargantuan size, the weird releases energy in an explosion. Each creature within 30 feet of the weird must make a DC 12 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in the area that aren't being worn or carried. The weird's size then becomes Medium.  
 >

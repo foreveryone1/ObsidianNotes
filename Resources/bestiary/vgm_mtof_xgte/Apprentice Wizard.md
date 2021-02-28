@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Apprentice Wizard
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)|
 >___
->- **Skills** Arcana +4, History +4
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Spellcasting.*** The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:  
 >

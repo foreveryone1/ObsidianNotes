@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Slithering Tracker
 >*Medium #ooze , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|19 (+4)|15 (+2)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Stealth +8
->- **Damage Vulnerabilities** cold, fire
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
->- **Senses** blindsight 120 ft., passive Perception 12
->- **Languages** understands languages it knew in its previous form but can't speak
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Stealth +8
+>- **Damage Vulnerabilities**
+>	 - cold, fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 12
+>- **Languages**
+>	 - understands languages it knew in its previous form but can't speak
+>
+> #cr3 (700 XP)
 >___
 >***Ambusher.*** In the first round of a combat, the slithering tracker has advantage on attack rolls against any creature it surprised.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rot Troll
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|22 (+6)|5 (-3)|8 (-1)|4 (-3)|
 >___
->- **Skills** Perception +3
->- **Damage Immunities** necrotic
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Giant
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Damage Immunities**
+>	 - necrotic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Giant
+>
+> #cr9 (5,000 XP)
 >___
 >***Rancid Degeneration.*** At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.  
 >

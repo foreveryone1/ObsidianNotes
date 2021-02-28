@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deadstone Cleft Stone Giant
 >*Huge #giant , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)|9 (-1)|
 >___
->- **Saving Throws** Dex +5, Con +8, Wis +4
->- **Skills** Athletics +12, Perception +4
->- **Senses** darkvision 60 ft., tremorsense 30 ft., passive Perception 14
->- **Languages** Giant
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +8, Wis +4
+>- **Skills**
+>	 - Athletics +12, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 30 ft., passive Perception 14
+>- **Languages**
+>	 - Giant
+>
+> #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting.*** The giant's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no material components:  
 >

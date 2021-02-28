@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Troglodyte Champion of Laogzed
 >*Medium #humanoid (troglodyte), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|18 (+4)|8 (-1)|12 (+1)|12 (+1)|
 >___
->- **Skills** Athletics +6, Intimidation +3, Stealth +3
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Troglodyte
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +6, Intimidation +3, Stealth +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Troglodyte
+>
+> #cr3 (700 XP)
 >___
 >***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.  
 >

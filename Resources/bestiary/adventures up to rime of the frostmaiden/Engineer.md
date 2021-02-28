@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Engineer
 >*Small #humanoid (Rock gnome), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)|
 >___
->- **Skills** Arcana +4, History +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Gnomish
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Gnomish
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Gnome Cunning.*** The gnome has advantage on all Intelligence, Wisdom and Charisma saving throws against magic.  
 >

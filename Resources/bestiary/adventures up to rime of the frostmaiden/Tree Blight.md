@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tree Blight
 >*Huge #plant , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|20 (+5)|6 (-2)|10 (+0)|3 (-4)|
 >___
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
->- **Languages** understands Common and Druidic but doesn't speak
->- #cr7 (2,900 XP)
+>- **Condition Immunities**
+>	 - blinded, deafened
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - understands Common and Druidic but doesn't speak
+>
+> #cr7 (2,900 XP)
 >___
 >***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead tree.  
 >

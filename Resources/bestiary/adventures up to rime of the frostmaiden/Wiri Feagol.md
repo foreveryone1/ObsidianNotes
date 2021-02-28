@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wiri Feagol
 >*Small #humanoid (gnome), chaotic good*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common), Gnomish
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Gnomish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Gnome Cunning.*** The wiri feagol has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

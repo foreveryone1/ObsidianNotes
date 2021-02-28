@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yuan-ti Abomination
 >*Large monstrosity (shapechanger, yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|17 (+3)|17 (+3)|15 (+2)|18 (+4)|
 >___
->- **Skills** Perception +5, Stealth +6
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Abyssal, Common, Draconic
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +6
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr7 (2,900 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Horizonback Tortoise
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|3 (-4)|25 (+7)|4 (-3)|10 (+0)|5 (-3)|
 >___
->- **Saving Throws** Str +12, Con +10
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft, passive Perception 10
->- **Languages** understands Goblin but can't speak
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Str +12, Con +10
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft, passive Perception 10
+>- **Languages**
+>	 - understands Goblin but can't speak
+>
+> #cr7 (2,900 XP)
 >___
 >***Amphibious.*** The tortoise can breathe air and water.  
 >

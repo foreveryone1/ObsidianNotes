@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Subterranean Lizard
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|17 (+3)|2 (-4)|10 (+0)|7 (-2)|
 >___
->- **Skills** Stealth +3
->- **Senses** passive Perception 10
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 ## Actions
 >***Multiattack.*** The lizard makes two attacks: one with its bite and one with its tail. One attack can be replaced by Swallow.  

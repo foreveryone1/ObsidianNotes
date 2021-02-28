@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skull Lasher of Myrkul
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|16 (+3)|13 (+1)|10 (+0)|
 >___
->- **Saving Throws** Wis +3
->- **Skills** Arcana +5, Religion +5
->- **Senses** passive Perception 11
->- **Languages** Abyssal, Common, Infernal
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Wis +3
+>- **Skills**
+>	 - Arcana +5, Religion +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> #cr1 (200 XP)
 >___
 >***Spellcasting.*** The skull lasher is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lampad
 >*Medium #fey , , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|14 (+2)|11 (+0)|12 (+1)|18 (+4)|
 >___
->- **Skills** Deception +6, Intimidation +6
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** passive Perception 11
->- **Languages** Common, Sylvan
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +6, Intimidation +6
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr3 (700 XP)
 >___
 >***Corpse Stride.*** Once on its turn, the lampad can use 10 feet of its movement to step magically into one creature's corpse within its reach and emerge from a second creature's corpse within 60 feet of the first corpse, appearing in an unoccupied space within 5 feet of the second corpse. Both corpses must be Medium or bigger.  
 >

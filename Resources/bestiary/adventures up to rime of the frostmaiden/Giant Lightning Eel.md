@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Lightning Eel
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|16 (+3)|2 (-4)|12 (+1)|3 (-4)|
 >___
->- **Damage Resistances** lightning
->- **Senses** blindsight 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Water Breathing.*** The eel can breathe only underwater.  
 >

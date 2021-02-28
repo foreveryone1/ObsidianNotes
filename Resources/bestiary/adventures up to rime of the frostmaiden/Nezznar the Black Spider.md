@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nezznar the Black Spider
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|10 (+0)|16 (+3)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Int +5, Wis +4
->- **Skills** Arcana +5, Perception +4, Stealth +3
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Elvish, Undercommon
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +4
+>- **Skills**
+>	 - Arcana +5, Perception +4, Stealth +3
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Special Equipment.*** Nezznar has a spider staff.  
 >

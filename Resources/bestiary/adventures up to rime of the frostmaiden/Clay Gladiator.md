@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Clay Gladiator
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Str +7, Dex +5, Con +6
->- **Skills** Athletics +10, Intimidation +5
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** passive Perception 11
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Dex +5, Con +6
+>- **Skills**
+>	 - Athletics +10, Intimidation +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).  
 >

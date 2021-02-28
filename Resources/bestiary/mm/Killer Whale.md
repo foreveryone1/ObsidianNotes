@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Killer Whale
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|13 (+1)|3 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** blindsight 120 ft., passive Perception 13
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Echolocation.*** The whale can't use its blindsight while deafened.  
 >

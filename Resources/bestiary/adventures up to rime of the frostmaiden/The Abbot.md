@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Abbot
 >*Medium #celestial , lawful good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
 >___
->- **Saving Throws** Wis +9, Cha +9
->- **Skills** Insight +9, Perception +9
->- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** darkvision 120 ft., passive Perception 19
->- **Languages** all, telepathy 120 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Wis +9, Cha +9
+>- **Skills**
+>	 - Insight +9, Perception +9
+>- **Damage Resistances**
+>	 - radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Angelic Weapons.*** The Abbot's weapon attacks are magical. When The Abbot hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).  
 >

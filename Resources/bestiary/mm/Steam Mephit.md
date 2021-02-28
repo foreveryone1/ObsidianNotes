@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Steam Mephit
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Aquan, Ignan
->- ** #cr1-4 ** (50 XP)
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Aquan, Ignan
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.  
 >

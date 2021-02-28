@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chuul
 >*Large #aberration , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|5 (-3)|11 (+0)|5 (-3)|
 >___
->- **Skills** Perception +4
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** understands Deep Speech but can't speak
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - understands Deep Speech but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Amphibious.*** The chuul can breathe air and water.  
 >

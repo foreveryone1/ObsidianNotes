@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Izek Strazni
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|9 (-1)|15 (+2)|
 >___
->- **Skills** Intimidation +8, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Intimidation +8, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 >***Brute.*** A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).  
 >

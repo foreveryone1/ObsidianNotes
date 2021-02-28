@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yellow Musk Zombie
 >*Medium #undead , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|9 (-1)|12 (+1)|1 (-5)|6 (-2)|3 (-4)|
 >___
->- **Condition Immunities** charmed, exhaustion
->- **Senses** blindsight 30 ft., passive Perception 8
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Condition Immunities**
+>	 - charmed, exhaustion
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is fire or from a critical hit. On a success, the zombie drops to 1 hit point instead.  
 >

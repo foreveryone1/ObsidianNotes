@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blood Hawk
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|10 (+0)|3 (-4)|14 (+2)|5 (-3)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.  
 >

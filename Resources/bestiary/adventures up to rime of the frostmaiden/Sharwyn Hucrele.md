@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sharwyn Hucrele
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|14 (+2)|16 (+3)|14 (+2)|9 (-1)|
 >___
->- **Skills** Arcana +5, Insight +4, Persuasion +1
->- **Senses** passive Perception 12
->- **Languages** Common, Draconic, Goblin
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Arcana +5, Insight +4, Persuasion +1
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Goblin
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Special Equipment.*** Sharwyn has a spellbook that contains the spells listed in her Spellcasting trait, plus detect magic and silent image.  
 >

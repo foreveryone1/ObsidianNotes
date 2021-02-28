@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mossback Steward
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|3 (-4)|25 (+7)|12 (+1)|17 (+3)|5 (-3)|
 >___
->- **Saving Throws** Str +12, Con +10
->- **Skills** Arcana +5, Insight +7, Nature +5, Perception +7, Persuasion +5
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft, passive Perception 10
->- **Languages** telepathy 120 ft, understands Goblin, Common, and Primordial but can't speak
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Str +12, Con +10
+>- **Skills**
+>	 - Arcana +5, Insight +7, Nature +5, Perception +7, Persuasion +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft, passive Perception 10
+>- **Languages**
+>	 - telepathy 120 ft, understands Goblin, Common, and Primordial but can't speak
+>
+> #cr7 (2,900 XP)
 >___
 >***Amphibious.*** Mossback Steward can breathe air and water.  
 >

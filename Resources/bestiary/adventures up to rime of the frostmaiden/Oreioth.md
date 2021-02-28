@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oreioth
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|13 (+1)|14 (+2)|16 (+3)|9 (-1)|11 (+0)|
 >___
->- **Saving Throws** Wis +1
->- **Skills** Arcana +5, Investigation +5, Medicine +1
->- **Senses** passive Perception 9
->- **Languages** Abyssal, Common
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Wis +1
+>- **Skills**
+>	 - Arcana +5, Investigation +5, Medicine +1
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr2 (450 XP)
 >___
 >***Grim Harvest.*** Once per turn when Oreioth kills one or more creatures with a spell of 1st level or higher, he regains hit points equal to twice the spell's level.  
 >

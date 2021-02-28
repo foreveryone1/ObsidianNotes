@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githzerai Monk
 >*Medium #humanoid (gith), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Str +3, Dex +4, Int +3, Wis +4
->- **Skills** Insight +4, Perception +4
->- **Senses** passive Perception 14
->- **Languages** Gith
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +3, Dex +4, Int +3, Wis +4
+>- **Skills**
+>	 - Insight +4, Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Gith
+>
+> #cr2 (450 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:  
 >

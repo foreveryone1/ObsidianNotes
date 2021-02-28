@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Stove
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|10 (+0)|3 (-4)|3 (-4)|1 (-5)|
 >___
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
->- **Languages** —
->- #cr3 (700 XP)
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 6
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage.  

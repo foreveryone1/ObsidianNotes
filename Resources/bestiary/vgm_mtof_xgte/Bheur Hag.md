@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bheur Hag
 >*Medium #fey , , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Nature +4, Perception +4, Stealth +6, Survival +4
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Auran, Common, Giant
->- #cr7 (2,900 XP) or 9 (5,000 XP) when part of a coven
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Nature +4, Perception +4, Stealth +6, Survival +4
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Auran, Common, Giant
+>
+> #cr7 (2,900 XP) or 9 (5,000 XP) when part of a coven
 >___
 >***Graystaff Magic.*** The hag carries a graystaff, a length of gray wood that is a focus for her inner power. She can ride the staff as if it were a broom of flying. While holding the staff, she can cast additional spells with her Innate Spellcasting trait (these spells are marked with an asterisk). If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.  
 >

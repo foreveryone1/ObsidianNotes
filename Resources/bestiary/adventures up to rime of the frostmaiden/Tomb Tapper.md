@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tomb Tapper
 >*Huge #construct , lawful neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|10 (+0)|21 (+5)|14 (+2)|14 (+2)|11 (+0)|
 >___
->- **Skills** Perception +6
->- **Damage Resistances** lightning
->- **Damage Immunities** cold, fire
->- **Condition Immunities** charmed, frightened
->- **Senses** blindsight 240 ft. (blind beyond this radius), passive Perception 16
->- **Languages** understands Common and Undercommon but doesn't speak, telepathy 60 ft.
->- #cr10 (5,900 XP)
+>- **Skills**
+>	 - Perception +6
+>- **Damage Resistances**
+>	 - lightning
+>- **Damage Immunities**
+>	 - cold, fire
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - blindsight 240 ft. (blind beyond this radius), passive Perception 16
+>- **Languages**
+>	 - understands Common and Undercommon but doesn't speak, telepathy 60 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Petrified Death.*** A tomb tapper reduced to 0 hit points turns into a lifeless stone statue. Anything it's wearing or carrying is not transformed.  
 >

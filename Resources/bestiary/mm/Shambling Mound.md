@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shambling Mound
 >*Large #plant , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|16 (+3)|5 (-3)|10 (+0)|5 (-3)|
 >___
->- **Skills** Stealth +2
->- **Damage Resistances** cold, fire
->- **Damage Immunities** lightning
->- **Condition Immunities** blinded, deafened, exhaustion
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Damage Resistances**
+>	 - cold, fire
+>- **Damage Immunities**
+>	 - lightning
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Lightning Absorption.*** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.  
 >

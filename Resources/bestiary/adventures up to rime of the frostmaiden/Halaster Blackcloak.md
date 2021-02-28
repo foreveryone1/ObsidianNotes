@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Halaster Blackcloak
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|18 (+4)|24 (+7)|18 (+4)|18 (+4)|
 >___
->- **Saving Throws** Int +14, Wis +11
->- **Skills** Arcana +21, History +21, Perception +11
->- **Damage Resistances** fire; lightning (granted by the blast scepter, see "Special Equipment" below)
->- **Senses** darkvision 120 ft., passive Perception 21
->- **Languages** Abyssal, #celestial , Common, Draconic, Dwarvish, Elvish, Infernal, Undercommon
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Int +14, Wis +11
+>- **Skills**
+>	 - Arcana +21, History +21, Perception +11
+>- **Damage Resistances**
+>	 - fire; lightning (granted by the blast scepter, see "Special Equipment" below)
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 21
+>- **Languages**
+>	 - Abyssal, #celestial , Common, Draconic, Dwarvish, Elvish, Infernal, Undercommon
+>
+> #cr23 (50,000 XP)
 >___
 >***Special Equipment.*** Halaster wears a robe of eyes that lets him see in all directions, gives him darkvision out to a range of 120 feet, grants advantage on Wisdom (Perception) checks that rely on sight, and allows him to see invisible creatures and objects, as well as into the Ethereal Plane, out to a range of 120 feet.  
 >Halaster wields a blast scepter (a very rare magic item that requires attunement). It can be used as an arcane focus. Whoever is attuned to the blast scepter gains resistance to fire and lightning damage and can, as an action, use it to cast thunderwave as a 4th-level spell (save DC 16) without expending a spell slot.  
@@ -46,8 +56,10 @@
 ## Legendary Actions
 >Halaster can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Halaster regains spent legendary actions at the start of its turn.
 >
->- **Cast Spell.** Halaster casts a spell of 3rd level or lower.
->- **Spell Ward (Costs 2 Actions).** Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot.
+>- **Cast Spell**
+>	- Halaster casts a spell of 3rd level or lower.
+>- **Spell Ward (Costs 2 Actions)**
+>	- Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot.
 ## Halaster Blackcloak
 As the master of Undermountain, Halaster can alter the entire dungeon to some extent. His lair actions and regional effects don't extend beyond Undermountain.
 Halaster, the Mad Mage of Undermountain, is the deranged individual behind most of the traps and horrors found in the great dungeon under Waterdeep. Undermountain is his home, an amusement gallery in which others perform to entertain him.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Blade of Disaster
 >*Small #construct , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|19 (+4)|6 (-2)|10 (+0)|3 (-4)|
 >___
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** blinded, deafened, exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Magic Resistance.*** The living spell has advantage on saving throws against spells and other magical effects.  
 >

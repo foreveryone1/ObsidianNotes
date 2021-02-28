@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Elder Giant Lizard
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|17 (+3)|2 (-4)|10 (+0)|7 (-2)|
 >___
->- **Skills** Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Hold Breath.*** The lizard can hold its breath for 30 minutes.  
 >

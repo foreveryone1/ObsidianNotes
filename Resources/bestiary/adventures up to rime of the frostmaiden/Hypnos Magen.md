@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hypnos Magen
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|18 (+4)|14 (+2)|10 (+0)|7 (-2)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** passive Perception 10
->- **Languages** understands the languages of its creator but can't speak, telepathy 30 ft.
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak, telepathy 30 ft.
+>
+> #cr1 (200 XP)
 >___
 >***Fiery End.*** If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.  
 >

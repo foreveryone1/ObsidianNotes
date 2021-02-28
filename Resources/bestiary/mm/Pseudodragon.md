@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pseudodragon
 >*Tiny #dragon , neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
->- **Languages** understands Common and Draconic but can't speak
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - understands Common and Draconic but can't speak
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Keen Senses.*** The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warlock of the Fiend
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|12 (+1)|12 (+1)|18 (+4)|
 >___
->- **Saving Throws** Wis +4, Cha +7
->- **Skills** Arcana +4, Deception +7, Persuasion +7, Religion +4
->- **Damage Resistances** slashing from nonmagical attacks not made with silvered weapons
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** any two languages (usually Abyssal or Infernal)
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Wis +4, Cha +7
+>- **Skills**
+>	 - Arcana +4, Deception +7, Persuasion +7, Religion +4
+>- **Damage Resistances**
+>	 - slashing from nonmagical attacks not made with silvered weapons
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - any two languages (usually Abyssal or Infernal)
+>
+> #cr7 (2,900 XP)
 >___
 >***Dark One's Own Luck (Recharges after a Short or Long Rest).*** When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Adult Blue Dracolich
 >*Huge #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +6, Con +12, Wis +8, Cha +10
->- **Skills** Perception +14, Stealth +6
->- **Damage Resistances** necrotic
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
->- **Languages** Common, Draconic
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +12, Wis +8, Cha +10
+>- **Skills**
+>	 - Perception +14, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 24
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr17 (18,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.  
 >
@@ -39,9 +51,12 @@
 ## Legendary Actions
 >The dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dracolich regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dracolich makes a Wisdom (Perception) check.
->- **Tail Attack.** The dracolich makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.
+>- **Detect**
+>	- The dracolich makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dracolich makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.
 ## Adult Blue Dracolich
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
 ***Beyond Death.*** A dracolich retains its shape and size upon transforming, its skin and scales drawing tight to its bones or sloughing away to leave a skeletal form behind. Its eyes appear as glowing points of light floating in shadowy sockets, hinting at the malevolence of its undead mind.

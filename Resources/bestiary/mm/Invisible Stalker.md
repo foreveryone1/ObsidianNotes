@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Invisible Stalker
 >*Medium #elemental , neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 >___
->- **Skills** Perception +8, Stealth +10
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** Auran, understands Common but doesn't speak it
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Perception +8, Stealth +10
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - Auran, understands Common but doesn't speak it
+>
+> #cr6 (2,300 XP)
 >___
 >***Faultless Tracker.*** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.  
 >

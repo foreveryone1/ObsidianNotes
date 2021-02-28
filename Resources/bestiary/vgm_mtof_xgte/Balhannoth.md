@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Balhannoth
 >*Large #aberration , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|8 (-1)|18 (+4)|6 (-2)|15 (+2)|8 (-1)|
 >___
->- **Saving Throws** Con +8
->- **Skills** Perception +6
->- **Condition Immunities** blinded
->- **Senses** blindsight 500 ft. (blind beyond this radius), passive Perception 16
->- **Languages** understands Deep Speech, telepathy 1 mile
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Con +8
+>- **Skills**
+>	 - Perception +6
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - blindsight 500 ft. (blind beyond this radius), passive Perception 16
+>- **Languages**
+>	 - understands Deep Speech, telepathy 1 mile
+>
+> #cr11 (7,200 XP)
 >___
 >***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.  
 >
@@ -29,9 +39,12 @@
 ## Legendary Actions
 >The balhannoth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The balhannoth regains spent legendary actions at the start of its turn.
 >
->- **Bite Attack.** The balhannoth makes one bite attack against one creature it has grappled.
->- **Teleport.** The balhannoth magically teleports, along with any equipment it is wearing or carrying and any creatures it has grappled, up to 60 feet to an unoccupied space it can see.
->- **Vanish.** The balhannoth magically becomes invisible for up to 10 minutes or until immediately after it makes an attack roll.
+>- **Bite Attack.**
+> The balhannoth makes one bite attack against one creature it has grappled.
+>- **Teleport.**
+> The balhannoth magically teleports, along with any equipment it is wearing or carrying and any creatures it has grappled, up to 60 feet to an unoccupied space it can see.
+>- **Vanish.**
+> The balhannoth magically becomes invisible for up to 10 minutes or until immediately after it makes an attack roll.
 ## Balhannoth
 *There are no virtues in the Shadowfell. Thanks to the balhannoth, even hope is punished with death.*— Mordenkainen***Balhannoth.*** Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. Once they step inside, the balhannoth springs its trap.
 ***False Hope.*** Thanks to a limited form of telepathy, a balhannoth can sense the desires of other creatures and identify images of places where they expect those desires to be met. The balhannoth then warps reality around it, remaking its environment so that it matches the appearance of the place the creature seeks.

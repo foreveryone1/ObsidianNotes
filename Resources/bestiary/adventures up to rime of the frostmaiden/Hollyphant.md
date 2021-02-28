@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hollyphant
 >*Small #celestial , lawful good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|11 (+0)|12 (+1)|16 (+3)|19 (+4)|16 (+3)|
 >___
->- **Saving Throws** Dex +3, Con +4, Cha +6
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 14
->- **Languages** #celestial , telepathy 120 ft.
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +4, Cha +6
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - #celestial , telepathy 120 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Aura of Invulnerability.*** An invisible aura forms a 10-foot-radius sphere around the hollyphant for as long as it lives. Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells. The hollyphant can use an action to suppress this trait until its concentration ends (as if concentrating on a spell).  
 >

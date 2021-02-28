@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Xvart Warlock of Raxivort
 >*Small #humanoid (xvart), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|12 (+1)|8 (-1)|11 (+0)|12 (+1)|
 >___
->- **Skills** Stealth +4
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** Abyssal
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +4
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal
+>
+> #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The xvart's innate spellcasting ability is Charisma. it can innately cast the following spells, requiring no material components:  
 >

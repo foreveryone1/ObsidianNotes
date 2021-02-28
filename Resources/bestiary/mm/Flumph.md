@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flumph
 >*Small #aberration , lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|10 (+0)|14 (+2)|14 (+2)|11 (+0)|
 >___
->- **Skills** Arcana +4, History +4, Religion +4
->- **Damage Vulnerabilities** psychic
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands Undercommon but can't speak, telepathy 60 ft.
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Arcana +4, History +4, Religion +4
+>- **Damage Vulnerabilities**
+>	 - psychic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands Undercommon but can't speak, telepathy 60 ft.
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Advanced Telepathy.*** The flumph can perceive the content of any telepathic communication used within 60 feet of it, and it can't be surprised by creatures with any form of telepathy.  
 >

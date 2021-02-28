@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Strahd von Zarovich
 >*Medium undead (shapechanger), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|20 (+5)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +9, Wis +7, Cha +9
->- **Skills** Arcana +15, Perception +12, Religion +10, Stealth +14
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., passive Perception 22
->- **Languages** Abyssal, Common, Draconic, Elvish, Giant, Infernal
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Wis +7, Cha +9
+>- **Skills**
+>	 - Arcana +15, Perception +12, Religion +10, Stealth +14
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 22
+>- **Languages**
+>	 - Abyssal, Common, Draconic, Elvish, Giant, Infernal
+>
+> #cr15 (13,000 XP)
 >___
 >***Shapechanger.*** If Strahd isn't in running water or sunlight, he can use his action to polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back into his true form.  
 >While in bat or wolf form, Strahd can't speak. In bat form, his walking speed is 5 feet, and he has a flying speed of 30 feet. In wolf form, his walking speed is 40 feet. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies.  
@@ -61,9 +71,12 @@
 ## Legendary Actions
 >Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of its turn.
 >
->- **Move.** Strahd moves up to his speed without provoking opportunity attacks.
->- **Unarmed Strike.** Strahd makes one unarmed strike.
->- **Bite (Costs 2 Actions).** Strahd makes one bite attack.
+>- **Move**
+>	- Strahd moves up to his speed without provoking opportunity attacks.
+>- **Unarmed Strike**
+>	- Strahd makes one unarmed strike.
+>- **Bite (Costs 2 Actions)**
+>	- Strahd makes one bite attack.
 ## Strahd von Zarovich
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Ballista
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|10 (+0)|3 (-4)|3 (-4)|1 (-5)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 6
->- **Languages** —
->- #cr2 (450 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius), passive Perception 6
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Magic Bolt.*** Ranged Weapon Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d10) fire damage

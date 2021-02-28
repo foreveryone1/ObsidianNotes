@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cult Fanatic
 >*Medium #humanoid (any race), any non-good alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Deception +4, Persuasion +4, Religion +2
->- **Senses** passive Perception 11
->- **Languages** any one language (usually Common)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +4, Persuasion +4, Religion +2
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr2 (450 XP)
 >___
 >***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.  
 >

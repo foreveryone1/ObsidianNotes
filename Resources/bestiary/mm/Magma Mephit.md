@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Magma Mephit
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|12 (+1)|12 (+1)|7 (-2)|10 (+0)|10 (+0)|
 >___
->- **Skills** Stealth +3
->- **Damage Vulnerabilities** cold
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Ignan, Terran
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Damage Vulnerabilities**
+>	 - cold
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Ignan, Terran
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.  
 >

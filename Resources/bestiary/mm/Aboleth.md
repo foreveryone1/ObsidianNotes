@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aboleth
 >*Large #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Con +6, Int +8, Wis +6
->- **Skills** History +12, Perception +10
->- **Senses** darkvision 120 ft., passive Perception 20
->- **Languages** Deep Speech, telepathy 120 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +6, Int +8, Wis +6
+>- **Skills**
+>	 - History +12, Perception +10
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 20
+>- **Languages**
+>	 - Deep Speech, telepathy 120 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Amphibious.*** The aboleth can breathe air and water.  
 >
@@ -35,9 +44,12 @@
 ## Legendary Actions
 >The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The aboleth makes a Wisdom (Perception) check.
->- **Tail Swipe.** The aboleth makes one tail attack.
->- **Psychic Drain (Costs 2 Actions).** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+>- **Detect**
+>	- The aboleth makes a Wisdom (Perception) check.
+>- **Tail Swipe**
+>	- The aboleth makes one tail attack.
+>- **Psychic Drain (Costs 2 Actions)**
+>	- One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 ## Aboleth
 Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
 ***Eternal Memories.*** Aboleths have flawless memories. They pass on their knowledge and experience from generation to generation. Thus, the injury of their defeat by the gods remains perfectly preserved in their minds.

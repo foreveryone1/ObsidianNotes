@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zorak Lightdrinker
 >*Medium undead (shapechanger), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +9, Wis +7, Cha +9
->- **Skills** Perception +7, Stealth +9
->- **Damage Resistances** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Common, Dwarvish
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Wis +7, Cha +9
+>- **Skills**
+>	 - Perception +7, Stealth +9
+>- **Damage Resistances**
+>	 - necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr13 (10,000 XP)
 >___
 >***Shapechanger.*** If Zorak isn't in sunlight or running water, he can use his action to polymorph into a Tiny bat or a Medium cloud of mist, or back into his true form.  
 >While in bat form, Zorak can't speak, his walking speed is 5 feet, and he has a flying speed of 30 feet. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with it, but nothing he is carrying does. He reverts to his true form if he dies.  
@@ -57,6 +67,9 @@
 ## Legendary Actions
 >Zorak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zorak regains spent legendary actions at the start of its turn.
 >
->- **Move.** Zorak moves up to his speed without provoking opportunity attacks.
->- **Unarmed Strike.** Zorak makes one unarmed strike.
->- **Bite (Costs 2 Actions).** Zorak makes one bite attack.
+>- **Move**
+>	- Zorak moves up to his speed without provoking opportunity attacks.
+>- **Unarmed Strike**
+>	- Zorak makes one unarmed strike.
+>- **Bite (Costs 2 Actions)**
+>	- Zorak makes one bite attack.

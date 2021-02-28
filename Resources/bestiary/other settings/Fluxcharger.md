@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fluxcharger
 >*Large #elemental , chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|18 (+4)|15 (+2)|6 (-2)|10 (+0)|7 (-2)|
 >___
->- **Damage Resistances** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Draconic
->- #cr7 (2,900 XP)
+>- **Damage Resistances**
+>	 - thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Draconic
+>
+> #cr7 (2,900 XP)
 >___
 >***Amplify Lightning.*** Whenever a spell that deals lightning damage includes one or more fluxchargers in its area, the spell deals an extra 9 (2d8) lightning damage.  
 >

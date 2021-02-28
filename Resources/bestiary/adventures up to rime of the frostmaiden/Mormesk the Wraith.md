@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mormesk the Wraith
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 >___
->- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Infernal
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr3 (700 XP)
 >___
 >***Incorporeal Movement.*** The wraith can move through an object or another creature, but can't stop there.  
 >

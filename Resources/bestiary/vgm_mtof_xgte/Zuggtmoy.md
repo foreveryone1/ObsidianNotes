@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zuggtmoy
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|18 (+4)|20 (+5)|19 (+4)|24 (+7)|
 >___
->- **Saving Throws** Dex +9, Con +11, Wis +11
->- **Skills** Perception +11
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 21
->- **Languages** all, telepathy 120 ft.
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +11, Wis +11
+>- **Skills**
+>	 - Perception +11
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 21
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr23 (50,000 XP)
 >___
 >***Innate Spellcasting.*** Zuggtmoy's spellcasting ability is Charisma (spell save DC 22). She can innately cast the following spells, requiring no material components:  
 >
@@ -47,8 +59,10 @@
 ## Legendary Actions
 >Zuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zuggtmoy regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Zuggtmoy makes one pseudopod attack.
->- **Exert Will.** One creature charmed by Zuggtmoy that she can see must use its reaction to move up to its speed as she directs or to make a weapon attack against a target that she designates.
+>- **Attack.**  
+>	- Zuggtmoy makes one pseudopod attack.
+>- **Exert Will.**  
+>	- One creature charmed by Zuggtmoy that she can see must use its reaction to move up to its speed as she directs or to make a weapon attack against a target that she designates.
 ## Zuggtmoy
 ***Zuggtmoy.*** The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
 Utterly inhuman, Zuggtmoy can mold her fungoid form into an approximation of a humanoid shape, including the skeletal-thin figure depicted in grimoires and ancient art, draped and veiled in mycelia and lichen. Indeed, much of her appearance and manner, and that of her servants, is a soulless mockery of mortal life and its many facets.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Darkling
 >*Small #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Skills** Acrobatics +5, Deception +2, Perception +5, Stealth +7
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 15
->- **Languages** Elvish, Sylvan
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Acrobatics +5, Deception +2, Perception +5, Stealth +7
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Elvish, Sylvan
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 10 Constitution saving throw or be blinded until the end of the creature's next turn.  
 >

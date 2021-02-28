@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Eku
 >*Medium #celestial , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
 >___
->- **Saving Throws** Con +5, Wis +7, Cha +6
->- **Damage Resistances** radiant
->- **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** truesight 120 ft., passive Perception 15
->- **Languages** all, telepathy 120 ft.
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +5, Wis +7, Cha +6
+>- **Damage Resistances**
+>	 - radiant
+>- **Damage Immunities**
+>	 - psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 15
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** Eku's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:  
 >

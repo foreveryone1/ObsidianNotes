@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Arkhan the Cruel
 >*Medium #humanoid (dragonborn), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|18 (+4)|10 (+0)|10 (+0)|18 (+4)|
 >___
->- **Saving Throws** Wis +5, Cha +9
->- **Skills** Athletics +10, Deception +9, Intimidation +9
->- **Damage Resistances** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** frightened
->- **Senses** darkvision 60 ft. (can see invisible creatures out to the same range), passive Perception 10
->- **Languages** Common, Draconic
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +9
+>- **Skills**
+>	 - Athletics +10, Deception +9, Intimidation +9
+>- **Damage Resistances**
+>	 - fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 60 ft. (can see invisible creatures out to the same range), passive Perception 10
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr16 (15,000 XP)
 >___
 >***Special Equipment.*** Arkhan wields Fane-Eater and wears a suit of Obsidian Flint Dragon Plate. The armor gives Arkhan advantage on ability checks and saving throws made to avoid or end the grappled condition on him.  
 >

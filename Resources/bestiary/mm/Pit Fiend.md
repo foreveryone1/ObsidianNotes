@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pit Fiend
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
 >___
->- **Saving Throws** Dex +8, Con +13, Wis +10
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 14
->- **Languages** Infernal, telepathy 120 ft.
->- #cr20 (25,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +13, Wis +10
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr20 (25,000 XP)
 >___
 >***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.  
 >

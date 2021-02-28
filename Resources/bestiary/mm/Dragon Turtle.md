@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dragon Turtle
 >*Gargantuan #dragon , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Con +11, Wis +7
->- **Damage Resistances** fire
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Aquan, Draconic
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +11, Wis +7
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Aquan, Draconic
+>
+> #cr17 (18,000 XP)
 >___
 >***Amphibious.*** The dragon turtle can breathe air and water.  
 >

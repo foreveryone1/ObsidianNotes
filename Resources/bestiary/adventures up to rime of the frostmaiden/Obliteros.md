@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Obliteros
 >*Huge #beast , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|11 (+0)|21 (+5)|10 (+0)|10 (+0)|5 (-3)|
 >___
->- **Skills** Perception +3
->- **Senses** blindsight 60 ft., passive Perception 13
->- **Languages** Aquan
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 13
+>- **Languages**
+>	 - Aquan
+>
+> #cr5 (1,800 XP)
 >___
 >***Blood Frenzy.*** Obliteros has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

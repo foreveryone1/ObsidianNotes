@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frost Giant Zombie
 >*Huge #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|6 (-2)|21 (+5)|3 (-4)|6 (-2)|5 (-3)|
 >___
->- **Saving Throws** Wis +2
->- **Damage Immunities** cold, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands Giant but can't speak
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Wis +2
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands Giant but can't speak
+>
+> #cr9 (5,000 XP)
 >___
 >***Numbing Aura.*** Any creature that starts its turn within 10 feet of the zombie must make a DC 17 Constitution saving throw. Unless the save succeeds, the creature can't make more than one attack, or take a bonus action on that turn.  
 >

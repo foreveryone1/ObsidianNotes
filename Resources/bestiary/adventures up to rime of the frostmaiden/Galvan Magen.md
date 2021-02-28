@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Galvan Magen
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|18 (+4)|12 (+1)|10 (+0)|7 (-2)|
 >___
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr3 (700 XP)
 >___
 >***Fiery End.*** If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.  
 >

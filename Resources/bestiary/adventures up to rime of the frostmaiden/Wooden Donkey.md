@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wooden Donkey
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 10
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Beast of Burden.*** The donkey is considered to be a Large animal for the purpose of determining its carrying capacity.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Berserker
 >*Medium #humanoid (any race), any chaotic alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- #cr2 (450 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr2 (450 XP)
 >___
 >***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >

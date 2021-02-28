@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ape
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 ## Actions
 >***Multiattack.*** The ape makes two fist attacks.  

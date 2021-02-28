@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Parriwimple
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|6 (-2)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Str +7, Dex +5, Con +6
->- **Skills** Athletics +10, Intimidation +5
->- **Senses** passive Perception 11
->- **Languages** any one language (usually Common)
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Dex +5, Con +6
+>- **Skills**
+>	 - Athletics +10, Intimidation +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr5 (1,800 XP)
 >___
 >***Brave.*** Parriwimple has advantage on saving throws against being frightened.  
 >

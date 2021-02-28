@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Abjurer
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|14 (+2)|18 (+4)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +8, Wis +5
->- **Skills** Arcana +8, History +8
->- **Senses** passive Perception 11
->- **Languages** any four languages
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +8, Wis +5
+>- **Skills**
+>	 - Arcana +8, History +8
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any four languages
+>
+> #cr9 (5,000 XP)
 >___
 >***Arcane Ward.*** The abjurer has a magical ward that has 30 hit points. Whenever the abjurer takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the abjurer takes any remaining damage. When the abjurer casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.  
 >

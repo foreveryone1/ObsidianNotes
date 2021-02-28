@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Magewright
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|10 (+0)|14 (+2)|14 (+2)|12 (+1)|
 >___
->- **Skills** Arcana +4
->- **Senses** passive Perception 12
->- **Languages** Common plus any two languages
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Arcana +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common plus any two languages
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Spellcasting.*** The magewright's spellcasting ability is Intelligence (spell save DC 12). To cast one of its rituals, the magewright must provide additional material components whose value in gold pieces is 20 times the spell's level. These components are consumed when the ritual is finished. The magewright knows the following spells:  
 >

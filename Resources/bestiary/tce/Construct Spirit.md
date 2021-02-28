@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Construct Spirit
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|18 (+4)|14 (+2)|11 (+0)|5 (-3)|
 >___
->- **Damage Resistances** poison
->- **Condition Immunities** charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Damage Resistances**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Heated Body (Metal Only).*** A creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage.  
 >

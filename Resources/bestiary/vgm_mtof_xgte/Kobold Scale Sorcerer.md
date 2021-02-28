@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kobold Scale Sorcerer
 >*Small #humanoid (kobold), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|14 (+2)|
 >___
->- **Skills** Arcana +2, Medicine +1
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Draconic
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Arcana +2, Medicine +1
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr1 (200 XP)
 >___
 >***Pack Tactics.*** The kobold has advantage on an attack roll against a creature it at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

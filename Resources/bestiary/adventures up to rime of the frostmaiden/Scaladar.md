@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Scaladar
 >*Huge #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|25 (+7)|1 (-5)|12 (+1)|1 (-5)|
 >___
->- **Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** force, lightning, poison
->- **Condition Immunities** charmed, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Damage Resistances**
+>	 - fire; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - force, lightning, poison
+>- **Condition Immunities**
+>	 - charmed, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Lightning Absorption.*** Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) lightning damage until the end of its next turn.  
 >

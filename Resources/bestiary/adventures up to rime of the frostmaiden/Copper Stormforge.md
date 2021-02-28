@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Copper Stormforge
 >*Medium #humanoid (dwarf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** any one language (usually Common), Dwarvish
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Nature +4, Perception +5, Stealth +6, Survival +5
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - any one language (usually Common), Dwarvish
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Dwarven Resilience.*** The copper stormforge has advantage on saving throws against poison, and has resistance against poison damage.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sylvira Savikas
 >*Medium #humanoid (tiefling), lawful neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +9, Wis +6
->- **Skills** Arcana +13, History +13, Investigation +13
->- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin); fire
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Abyssal, #celestial , Common, Draconic, Infernal, Primordial
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +6
+>- **Skills**
+>	 - Arcana +13, History +13, Investigation +13
+>- **Damage Resistances**
+>	 - damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin); fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, #celestial , Common, Draconic, Infernal, Primordial
+>
+> #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The sylvira savikas's innate spellcasting ability is Charisma (spell save DC 15). The sylvira savikas can innately cast the following spells, requiring no material components:  
 >

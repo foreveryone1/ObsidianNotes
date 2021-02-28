@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dancing Item
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|16 (+3)|4 (-3)|10 (+0)|6 (-2)|
 >___
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Immutable Form.*** The item is immune to any spell or effect that would alter its form.  
 >

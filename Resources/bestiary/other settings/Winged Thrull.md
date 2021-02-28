@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Winged Thrull
 >*Small #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|15 (+2)|12 (+1)|8 (-1)|9 (-1)|8 (-1)|
 >___
->- **Saving Throws** Dex +4
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Common but can't speak
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Dex +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> ** #cr1-2 ** (100 XP)
 >___
 ## Actions
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.  

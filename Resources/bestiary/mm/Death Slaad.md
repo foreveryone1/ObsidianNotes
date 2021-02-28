@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Death Slaad
 >*Medium aberration (shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)|
 >___
->- **Skills** Arcana +6, Perception +8
->- **Damage Resistances** acid, cold, fire, lightning, thunder
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 18
->- **Languages** Slaad, telepathy 60 ft.
->- #cr10 (5,900 XP)
+>- **Skills**
+>	 - Arcana +6, Perception +8
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - Slaad, telepathy 60 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spellcaster (Mage)
 >*7th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|16 (+3)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Wis +5
->- **Skills** Arcana +6, Investigation +6, Religion +6
->- **Senses** passive Perception 12
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Wis +5
+>- **Skills**
+>	 - Arcana +6, Investigation +6, Religion +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Potent Cantrip.*** The spellcaster can add its spellcasting ability modifier to the damage it deals with any cantrip.  
 >

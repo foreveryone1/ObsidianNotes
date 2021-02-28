@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Snarla
 >*Medium #humanoid (human, shapechanger), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|16 (+3)|11 (+0)|10 (+0)|
 >___
->- **Skills** Perception +3
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** passive Perception 14
->- **Languages** Common (can't speak in wolf form)
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common (can't speak in wolf form)
+>
+> #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

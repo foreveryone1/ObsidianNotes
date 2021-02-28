@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mister Threadneedle
 >*Medium #construct , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|13 (+1)|
 >___
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr1 (200 XP)
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***False Appearance.*** While Mister Threadneedle remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow.  
 >

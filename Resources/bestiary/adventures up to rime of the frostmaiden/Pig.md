@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pig
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,7 +14,10 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|2 (-4)|9 (-1)|5 (-3)|
 >___
->- **Senses** passive Perception 9
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Bats
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|15 (+2)|10 (+0)|2 (-4)|12 (+1)|4 (-3)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** blindsight 60 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Echolocation.*** The swarm can't use its blindsight while deafened.  
 >

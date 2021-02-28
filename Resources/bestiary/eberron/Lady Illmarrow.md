@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lady Illmarrow
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|20 (+5)|27 (+8)|21 (+5)|24 (+7)|
 >___
->- **Saving Throws** Con +12, Int +15, Wis +12
->- **Skills** Arcana +15, History +15, Insight +12, Perception +12
->- **Damage Resistances** cold, lightning
->- **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
->- **Senses** truesight 120 ft., passive Perception 22
->- **Languages** Common, Draconic, Elvish
->- #cr22 (41,000 XP)
+>- **Saving Throws**
+>	 - Con +12, Int +15, Wis +12
+>- **Skills**
+>	 - Arcana +15, History +15, Insight +12, Perception +12
+>- **Damage Resistances**
+>	 - cold, lightning
+>- **Damage Immunities**
+>	 - necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 22
+>- **Languages**
+>	 - Common, Draconic, Elvish
+>
+> #cr22 (41,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Illmarrow fails a saving throw, she can choose to succeed instead.  
 >
@@ -49,10 +61,14 @@
 ## Legendary Actions
 >Lady can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lady regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** Illmarrow casts a cantrip.
->- **Paralyzing Claw.** Illmarrow uses her Paralyzing Claw.
->- **Frightening Presence (Costs 2 Actions).** Illmarrow targets up to three creatures she can see within 30 feet of her. Each target must succeed on a DC 20 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Illmarrow's Frightening Presence for the next 24 hours.
->- **Poison Breath (Costs 3 Actions).** Illmarrow recharges her Poison Breath and uses it.
+>- **Cantrip**
+>	- Illmarrow casts a cantrip.
+>- **Paralyzing Claw**
+>	- Illmarrow uses her Paralyzing Claw.
+>- **Frightening Presence (Costs 2 Actions)**
+>	- Illmarrow targets up to three creatures she can see within 30 feet of her. Each target must succeed on a DC 20 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Illmarrow's Frightening Presence for the next 24 hours.
+>- **Poison Breath (Costs 3 Actions)**
+>	- Illmarrow recharges her Poison Breath and uses it.
 ## Lady Illmarrow
 Lady Illmarrow is a legend—an ancient lich said to dwell in a castle of bone and ice in the coldest regions of the Lhazaar Principalities. Some stories say that she is served by a legion of undead and that she maintains a court of vampires and ghosts in her palace of ice. Other tales claim that when anyone dies in Lhazaar, Illmarrow chooses whether to take their soul before it passes on to the Keeper and Dolurrh.
 But Lady Illmarrow is no folk tale. She is the greatest necromancer in Eberron, and after centuries of silence, she is setting ancient plots into motion at last. She is the power behind the Order of the Emerald Claw, but her motives for founding the order are buried in her past. Lady Illmarrow has no interest in ruling the living. Rather, she seeks to become Queen of the Dead.

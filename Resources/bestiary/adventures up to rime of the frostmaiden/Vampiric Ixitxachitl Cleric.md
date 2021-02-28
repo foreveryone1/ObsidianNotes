@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vampiric Ixitxachitl Cleric
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|13 (+1)|12 (+1)|13 (+1)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Abyssal, Ixitxachitl
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, Ixitxachitl
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl has the following cleric spells prepared:  
 >

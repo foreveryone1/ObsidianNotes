@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Malformed Kraken
 >*Huge #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|11 (+0)|20 (+5)|11 (+0)|15 (+2)|15 (+2)|
 >___
->- **Saving Throws** Str +11, Con +9, Int +4, Wis +6, Cha +6
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** lightning
->- **Condition Immunities** frightened, paralyzed
->- **Senses** truesight 60 ft., passive Perception 12
->- **Languages** understands Common but can't speak, telepathy 60 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Str +11, Con +9, Int +4, Wis +6, Cha +6
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - lightning
+>- **Condition Immunities**
+>	 - frightened, paralyzed
+>- **Senses**
+>	 - truesight 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands Common but can't speak, telepathy 60 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Amphibious.*** The kraken can breathe air and water.  
 >

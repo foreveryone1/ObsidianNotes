@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flux Blastseeker
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|20 (+5)|9 (-1)|14 (+2)|
 >___
->- **Saving Throws** Dex +5, Int +8
->- **Skills** Arcana +8, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common plus any one language
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +5, Int +8
+>- **Skills**
+>	 - Arcana +8, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr5 (1,800 XP)
 >___
 >***Fluxbending Overcast (Recharge 5–6).*** The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect: 1-3. The blastseeker teleports, swapping places with a creature it can see within 30 feet of it. 4-6. The blastseeker and each creature within 10 feet of it must succeed on a DC 16 Constitution saving throw or take 11 (2d10) thunder damage.  
 >

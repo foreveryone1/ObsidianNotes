@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Necrotic Centipede
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|13 (+1)|21 (+5)|4 (-3)|10 (+0)|5 (-3)|
 >___
->- **Damage Immunities** necrotic, fire
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
->- **Languages** —
->- #cr11 (7,200 XP)
+>- **Damage Immunities**
+>	 - necrotic, fire
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr11 (7,200 XP)
 >___
 >***Necrotic Body.*** A creature that touches the centipede or hits it with a melee attack while within 5 feet of it takes 10 (3d6) necrotic damage.  
 >

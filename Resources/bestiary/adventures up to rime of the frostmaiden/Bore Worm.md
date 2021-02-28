@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bore Worm
 >*Gargantuan #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|7 (-2)|22 (+6)|1 (-5)|8 (-1)|4 (-3)|
 >___
->- **Saving Throws** Con +11, Wis +4
->- **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
->- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
->- **Languages** —
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +4
+>- **Damage Immunities**
+>	 - fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - blindsight 30 ft., tremorsense 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr16 (15,000 XP)
 >___
 >***Regeneration.*** The worm regains 10 hit points at the start of each of its turns if it has at least 1 hit point.  
 >

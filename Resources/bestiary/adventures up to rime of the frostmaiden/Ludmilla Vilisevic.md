@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ludmilla Vilisevic
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Wis +3
->- **Skills** Perception +3, Stealth +6
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** the languages it knew in life
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +6, Wis +3
+>- **Skills**
+>	 - Perception +3, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr5 (1,800 XP)
 >___
 >***Regeneration.*** Ludmilla regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Ludmilla takes radiant damage or damage from holy water, this trait doesn't function at the start of Ludmilla's next turn.  
 >

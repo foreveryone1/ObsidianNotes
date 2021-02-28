@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Archdruid
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +9
->- **Skills** Medicine +9, Nature +5, Perception +9
->- **Senses** passive Perception 19
->- **Languages** Druidic plus any two languages
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +9
+>- **Skills**
+>	 - Medicine +9, Nature +5, Perception +9
+>- **Senses**
+>	 - passive Perception 19
+>- **Languages**
+>	 - Druidic plus any two languages
+>
+> #cr12 (8,400 XP)
 >___
 >***Spellcasting.*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:  
 >

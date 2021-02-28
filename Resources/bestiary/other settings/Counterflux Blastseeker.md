@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Counterflux Blastseeker
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|18 (+4)|11 (+0)|14 (+2)|
 >___
->- **Saving Throws** Con +4, Wis +2
->- **Skills** Arcana +6, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common plus any one language
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +2
+>- **Skills**
+>	 - Arcana +6, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr2 (450 XP)
 >___
 >***Counterflux Overcast (Recharge 5–6).*** The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect: 1-3. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have disadvantage on saving throws against spells and other magical effects. 4-6. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have advantage on saving throws against spells and other magical effects.  
 >

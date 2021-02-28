@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stench Kow
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
 >___
->- **Damage Resistances** cold, fire, poison
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - cold, fire, poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Charge.*** If the kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.  
 >

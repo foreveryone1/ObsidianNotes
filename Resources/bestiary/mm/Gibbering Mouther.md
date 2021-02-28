@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gibbering Mouther
 >*Medium #aberration , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|8 (-1)|16 (+3)|3 (-4)|10 (+0)|6 (-2)|
 >___
->- **Condition Immunities** prone
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr2 (450 XP)
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Aberrant Ground.*** The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.  
 >

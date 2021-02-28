@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Slaad Tadpole
 >*Tiny #aberration , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|10 (+0)|3 (-4)|5 (-3)|3 (-4)|
 >___
->- **Skills** Stealth +4
->- **Damage Resistances** acid, cold, fire, lightning, thunder
->- **Senses** darkvision 60 ft., passive Perception 7
->- **Languages** understands Slaad but can't speak
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Stealth +4
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 7
+>- **Languages**
+>	 - understands Slaad but can't speak
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Booyahg Wielder
 >*Small #humanoid (goblinoid), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
 >___
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Goblin
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Goblin
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Special Equipment.*** The goblin found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.  
 >

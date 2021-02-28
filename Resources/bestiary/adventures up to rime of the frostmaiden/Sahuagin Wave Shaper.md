@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Wave Shaper
 >*Medium #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|12 (+1)|16 (+3)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Int +6
->- **Skills** Arcana +6, Intimidation +4, Perception +5
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Sahuagin
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Int +6
+>- **Skills**
+>	 - Arcana +6, Intimidation +4, Perception +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr5 (1,800 XP)
 >___
 >***Blood Frenzy.*** The wave shaper has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

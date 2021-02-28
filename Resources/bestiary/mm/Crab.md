@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Crab
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|2 (-4)|
 >___
->- **Skills** Stealth +2
->- **Senses** blindsight 30 ft., passive Perception 9
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Amphibious.*** The crab can breathe air and water.  
 >

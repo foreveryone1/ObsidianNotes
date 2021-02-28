@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shockerstomper
 >*Gargantuan #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|20 (+5)|1 (-5)|1 (-5)|1 (-5)|
 >___
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 5
->- **Languages** —
->- #cr14 (11,500 XP)
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 5
+>- **Languages**
+>	 - —
+>
+> #cr14 (11,500 XP)
 >___
 >***Control Module.*** A creature atop or above Shockerstomper's platform can locate its control module with a successful DC 15 Intelligence (Investigation) check or Wisdom (Perception) check. As an action, a character can try to open the control module's access panel, either by tearing it off with a successful DC 25 Strength (Athletics) check or by dislodging it with thieves' tools and a successful DC 25 Dexterity check. Behind the panel, embedded in the floor of the control module, is a 5-foot-diameter pulsating crystal hemisphere with AC 10, 25 hit points, and immunity to poison and psychic damage. Destroying the crystal hemisphere shuts down Shockerstomper.  
 >

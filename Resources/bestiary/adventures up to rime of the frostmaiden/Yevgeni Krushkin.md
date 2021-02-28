@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yevgeni Krushkin
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 >___
->- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
->- **Senses** passive Perception 15
->- **Languages** any one language (usually Common)
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Nature +4, Perception +5, Stealth +6, Survival +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Keen Hearing and Sight.*** Yevgeni has advantage on Wisdom (Perception) checks that rely on hearing or sight.  
 >

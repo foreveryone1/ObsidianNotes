@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yakfolk Priest
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|15 (+2)|14 (+2)|18 (+4)|14 (+2)|
 >___
->- **Skills** Deception +4, Medicine +6, Survival +6
->- **Senses** passive Perception 14
->- **Languages** Common, Yikaria
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +4, Medicine +6, Survival +6
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Yikaria
+>
+> #cr4 (1,100 XP)
 >___
 >***Possession (Recharges after a Short or Long Rest).*** The yakfolk attempts to magically possess a humanoid or giant. The yakfolk must touch the target throughout a short rest, or the attempt fails. At the end of the rest, the target must succeed on a DC 12 Constitution saving throw or be possessed by the yakfolk, which disappears with everything it is carrying and wearing. Until the possession ends, the target is incapacitated, loses control of its body, and is unaware of its surroundings. The yakfolk now controls the body and can't be targeted by any attack, spell, or other effect, and it retains its alignment; its Intelligence, Wisdom, and Charisma scores; and its proficiencies. It otherwise uses the target's statistics, except the target's knowledge, class features, feats, and proficiencies.  
 >The possession lasts until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as the dispel evil and good spell. When the possession ends, the yakfolk reappears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well, and its body doesn't reappear.  

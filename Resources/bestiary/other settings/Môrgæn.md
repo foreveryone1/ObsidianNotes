@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Môrgæn
 >*Medium #humanoid (elf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|12 (+1)|12 (+1)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Str +3, Dex +6
->- **Skills** Athletics +3, Insight +4, Nature +3, Perception +4, Stealth +6, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Draconic, Dwarvish, Giant, Goblin
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Str +3, Dex +6
+>- **Skills**
+>	 - Athletics +3, Insight +4, Nature +3, Perception +4, Stealth +6, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Giant, Goblin
+>
+> #cr4 (1,100 XP)
 >___
 >***Fey Ancestry.*** Môrgæn has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >

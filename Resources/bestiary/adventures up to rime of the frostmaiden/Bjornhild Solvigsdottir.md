@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bjornhild Solvigsdottir
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|18 (+4)|14 (+2)|11 (+0)|14 (+2)|
 >___
->- **Skills** Athletics +7, Intimidation +5, Survival +3
->- **Senses** passive Perception 10
->- **Languages** Common, Yeti
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Athletics +7, Intimidation +5, Survival +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Yeti
+>
+> #cr5 (1,800 XP)
 >___
 >***Auril's Blessing (3/Day).*** When Bjornhild hits a creature with a weapon attack, the attack deals an extra 11 (2d10) cold damage.  
 >

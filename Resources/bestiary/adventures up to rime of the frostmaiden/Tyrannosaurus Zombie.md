@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tyrannosaurus Zombie
 >*Huge #undead , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|6 (-2)|19 (+4)|1 (-5)|3 (-4)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 6
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 6
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Disgorge Zombie.*** As a bonus action, the tyrannosaurus zombie can disgorge a normal zombie, which appears in an unoccupied space within 10 feet of it. The disgorged zombie acts on its own initiative count. After a zombie is disgorged, roll a d6. On a roll of 1, the tyrannosaurus zombie runs out of zombies to disgorge and loses this trait. If the tyrannosaurus zombie still has this trait when it dies, 1d4 normal zombies erupt from its corpse at the start of its next turn. These zombies act on their own initiative count.  
 >

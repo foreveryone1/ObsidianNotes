@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Su-monster
 >*Medium #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|12 (+1)|9 (-1)|13 (+1)|9 (-1)|
 >___
->- **Skills** Athletics +6, Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Athletics +6, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Multiattack.*** The su-monster makes two attacks: one with its bite and one with its claws.  

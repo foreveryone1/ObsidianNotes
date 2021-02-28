@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Star Spawn Hulk
 >*Large #aberration , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|8 (-1)|21 (+5)|7 (-2)|12 (+1)|9 (-1)|
 >___
->- **Saving Throws** Dex +3, Wis +5
->- **Skills** Perception +5
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** Deep Speech
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +3, Wis +5
+>- **Skills**
+>	 - Perception +5
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Deep Speech
+>
+> #cr10 (5,900 XP)
 >___
 >***Psychic Mirror.*** If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk's thoughts and location can't be discerned by magic.  
 >

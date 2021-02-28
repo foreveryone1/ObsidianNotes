@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Worg
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|13 (+1)|7 (-2)|11 (+0)|8 (-1)|
 >___
->- **Skills** Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Goblin, Worg
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Goblin, Worg
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

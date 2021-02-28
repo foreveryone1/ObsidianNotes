@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Red Slaad
 >*Large #aberration , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|16 (+3)|6 (-2)|6 (-2)|7 (-2)|
 >___
->- **Skills** Perception +1
->- **Damage Resistances** acid, cold, fire, lightning, thunder
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Slaad, telepathy 60 ft.
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Slaad, telepathy 60 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.  
 >

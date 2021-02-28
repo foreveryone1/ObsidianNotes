@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Iron Statue
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >___
->- **Damage Vulnerabilities** acid
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr5 (1,800 XP)
+>- **Damage Vulnerabilities**
+>	 - acid
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Immutable Form.*** The statue is immune to any spell or effect that would alter its form.  
 >

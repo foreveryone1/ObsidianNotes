@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rosie Beestinger
 >*Small #humanoid (halfling), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|14 (+2)|
 >___
->- **Saving Throws** Str +1, Dex +5
->- **Skills** Acrobatics +5, History +3, Intimidation +4, Stealth +5
->- **Senses** passive Perception 12
->- **Languages** Common, Draconic, Elvish, Halfling
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +1, Dex +5
+>- **Skills**
+>	 - Acrobatics +5, History +3, Intimidation +4, Stealth +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Elvish, Halfling
+>
+> #cr3 (700 XP)
 >___
 >***Brave.*** Rosie has advantage on saving throws against being frightened.  
 >

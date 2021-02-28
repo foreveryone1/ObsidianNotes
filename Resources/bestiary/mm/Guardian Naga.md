@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Guardian Naga
 >*Large #monstrosity , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
 >___
->- **Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** #celestial , Common
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +7, Int +7, Wis +8, Cha +8
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - #celestial , Common
+>
+> #cr10 (5,900 XP)
 >___
 >***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quadrone
 >*Medium #construct , lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Perception +2
->- **Senses** truesight 120 ft., passive Perception 12
->- **Languages** Modron
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 12
+>- **Languages**
+>	 - Modron
+>
+> #cr1 (200 XP)
 >___
 >***Axiomatic Mind.*** The quadrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >

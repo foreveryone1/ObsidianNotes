@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Master of Souls
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|17 (+3)|19 (+4)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Arcana +6, Religion +6
->- **Senses** passive Perception 12
->- **Languages** Abyssal, Common, Infernal
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Arcana +6, Religion +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> #cr4 (1,100 XP)
 >___
 >***Grave Magic.*** When the master of souls cast a spell that deals damage, it can change the spell's damage type to necrotic.  
 >

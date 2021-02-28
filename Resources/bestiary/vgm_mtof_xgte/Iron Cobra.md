@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Iron Cobra
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|3 (-4)|10 (+0)|1 (-5)|
 >___
->- **Skills** Stealth +7
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands one language of its creator but can't speak
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Stealth +7
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Magic Resistance.*** The iron cobra has advantage on saving throws against spells and other magical effects.  
 >

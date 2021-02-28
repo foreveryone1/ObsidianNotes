@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Goliath Werebear
 >*Medium #humanoid (goliath, shapechanger), neutral good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|18 (+4)|10 (+0)|15 (+2)|10 (+0)|
 >___
->- **Skills** Athletics +8, Perception +8, Survival +5
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** cold
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** passive Perception 18
->- **Languages** Common, Giant (can't speak in bear form)
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Athletics +8, Perception +8, Survival +5
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - cold
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - passive Perception 18
+>- **Languages**
+>	 - Common, Giant (can't speak in bear form)
+>
+> #cr8 (3,900 XP)
 >___
 >***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large polar bear, or back into its goliath form. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bastian Thermandar
 >*Medium #humanoid (fire genasi), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|15 (+2)|11 (+0)|9 (-1)|18 (+4)|
 >___
->- **Skills** Arcana +3, Deception +7
->- **Damage Resistances** fire
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Ignan
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Arcana +3, Deception +7
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Ignan
+>
+> #cr8 (3,900 XP)
 >___
 >***Innate Spellcasting.*** Bastian's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:  
 >

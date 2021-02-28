@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yeenoghu
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|16 (+3)|26 (+8)|15 (+2)|24 (+7)|15 (+2)|
 >___
->- **Saving Throws** Dex +10, Con +15, Wis +14
->- **Skills** Intimidation +9, Perception +14
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 24
->- **Languages** all, telepathy 120 ft.
->- #cr24 (62,000 XP)
+>- **Saving Throws**
+>	 - Dex +10, Con +15, Wis +14
+>- **Skills**
+>	 - Intimidation +9, Perception +14
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 24
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr24 (62,000 XP)
 >___
 >***Innate Spellcasting.*** Yeenoghu's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:  
 >
@@ -47,9 +59,12 @@
 ## Legendary Actions
 >Yeenoghu can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Yeenoghu regains spent legendary actions at the start of its turn.
 >
->- **Charge.** Yeenoghu moves up to his speed.
->- **Swat Away.** Yeenoghu makes a flail attack. If the attack hits, the target must succeed on a DC 24 Strength saving throw or be pushed 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target falls prone.
->- **Savage (Costs 2 Actions).** Yeenoghu makes a bite attack against each creature within 10 feet of him.
+>- **Charge.**  
+>	- Yeenoghu moves up to his speed.
+>- **Swat Away.** Y 
+>	- eenoghu makes a flail attack. If the attack hits, the target must succeed on a DC 24 Strength saving throw or be pushed 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target falls prone.
+>- **Savage (Costs 2 Actions).**  
+>	- Yeenoghu makes a bite attack against each creature within 10 feet of him.
 ## Yeenoghu
 ***Yeenoghu.*** The Beast of Butchery appears as a great battle-scarred gnoll, towering 14 feet tall. Yeenoghu is the Gnoll Lord, and his creations are made in his twisted image. When the demon lord hunted across the Material Plane, packs of hyenas followed in his wake. Those that ate of great Yeenoghu's kills became gnolls, emulating their master's ways. Few others worship the Beast of Butchery, but those who do tend to take on a gnoll-like aspect, hunched over, and filing their teeth down to points.
 Yeenoghu wants nothing more than slaughter and senseless destruction. The gnolls are his instruments, and he drives them to ever-greater atrocities in his name. Yeenoghu takes pleasure in causing fear before death, and he sows sorrow and despair through destroying beloved things. He doesn't parlay; to meet him is to do battle with him—unless he becomes bored. The Beast of Butchery has a long rivalry with Baphomet, the Horned King, and the two demon lords and their followers attack one another on sight.

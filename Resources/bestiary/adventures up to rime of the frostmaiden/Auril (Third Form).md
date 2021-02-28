@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Auril (Third Form)
 >*Small #elemental , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|12 (+1)|21 (+5)|24 (+7)|26 (+8)|28 (+9)|
 >___
->- **Saving Throws** Con +9, Wis +12
->- **Skills** Deception +13, Insight +12, Intimidation +13, Perception +16
->- **Damage Vulnerabilities** thunder
->- **Damage Immunities** cold, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
->- **Senses** blindsight 120 ft. (blind beyond this radius), truesight 120 ft., passive Perception 26
->- **Languages** all, telepathy 1,000 ft.
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +12
+>- **Skills**
+>	 - Deception +13, Insight +12, Intimidation +13, Perception +16
+>- **Damage Vulnerabilities**
+>	 - thunder
+>- **Damage Immunities**
+>	 - cold, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius), truesight 120 ft., passive Perception 26
+>- **Languages**
+>	 - all, telepathy 1,000 ft.
+>
+> #cr11 (7,200 XP)
 >___
 >***Divine Being.*** Auril can't be surprised and can't be changed into another form against her will.  
 >
@@ -41,9 +53,12 @@
 ## Legendary Actions
 >Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Auril regains spent legendary actions at the start of its turn.
 >
->- **Polar Ray.** Auril uses Polar Ray.
->- **Intensify Aura (Costs 2 Actions).** Auril's Frigid Aura deals an extra 10 cold damage until the end of her next turn.
->- **Blinding Gleam (Costs 2 Actions).** Auril's form flares with a blue light. Each creature that can see Auril and is within 10 feet of her must succeed on a DC 17 Wisdom saving throw or be blinded by Auril's magical gleam for 1 minute. The blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>- **Polar Ray**
+>	- Auril uses Polar Ray.
+>- **Intensify Aura (Costs 2 Actions)**
+>	- Auril's Frigid Aura deals an extra 10 cold damage until the end of her next turn.
+>- **Blinding Gleam (Costs 2 Actions)**
+>	- Auril's form flares with a blue light. Each creature that can see Auril and is within 10 feet of her must succeed on a DC 17 Wisdom saving throw or be blinded by Auril's magical gleam for 1 minute. The blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ## Auril (Third Form)
 Auril's third form, called Winter's Womb or the Queen of Frozen Tears by her most ardent followers, is a 3-foot-diameter ice diamond containing the god's divine spark. The diamond has facets and a sharp point at the bottom. It hovers in the air, radiating intense cold all around it. When Auril speaks, her voice seems to emanate from the heart of the diamond.
 If Auril is killed in her third and final form, she is dead until the next winter solstice. While she is dead, her mortal worshipers lose their god-granted spells and abilities.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Locathah Hunter
 >*Medium #humanoid (locathah), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|12 (+1)|11 (+0)|14 (+2)|11 (+0)|
 >___
->- **Saving Throws** Dex +4, Wis +4
->- **Skills** Athletics +3, Perception +4
->- **Senses** passive Perception 14
->- **Languages** Aquan, Common
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +4, Wis +4
+>- **Skills**
+>	 - Athletics +3, Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr2 (450 XP)
 >___
 >***Leviathan Will.*** The hunter has advantage on saving throws against spells and effects that control its actions.  
 >

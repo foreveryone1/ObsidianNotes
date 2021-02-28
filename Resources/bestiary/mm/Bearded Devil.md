@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bearded Devil
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|15 (+2)|9 (-1)|11 (+0)|11 (+0)|
 >___
->- **Saving Throws** Str +5, Con +4, Wis +2
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Infernal, telepathy 120 ft.
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +5, Con +4, Wis +2
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr3 (700 XP)
 >___
 >***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.  
 >

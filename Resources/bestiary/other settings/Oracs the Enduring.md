@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oracs the Enduring
 >*Gargantuan #undead , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
->- **Skills** Perception +16, Stealth +9
->- **Damage Resistances** necrotic
->- **Damage Immunities** acid, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
->- **Languages** Common, Draconic
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +14, Wis +9, Cha +11
+>- **Skills**
+>	 - Perception +16, Stealth +9
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 26
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr21 (33,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.  
 >
@@ -39,6 +51,9 @@
 ## Legendary Actions
 >Oracs can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Oracs regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The dracolich makes a Wisdom (Perception) check.
->- **Tail Attack.** The dracolich makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** The dracolich beats its wings. Each creature within 15 feet of the dracolich must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dracolich can then fly up to half its flying speed.
+>- **Detect**
+>	- The dracolich makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- The dracolich makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- The dracolich beats its wings. Each creature within 15 feet of the dracolich must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dracolich can then fly up to half its flying speed.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cadaver Collector
 >*Large #construct , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|14 (+2)|20 (+5)|5 (-3)|11 (+0)|8 (-1)|
 >___
->- **Damage Immunities** necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands all languages but can't speak
->- #cr14 (11,500 XP)
+>- **Damage Immunities**
+>	 - necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands all languages but can't speak
+>
+> #cr14 (11,500 XP)
 >___
 >***Magic Resistance.*** The cadaver collector has advantage on saving throws against spells and other magical effects.  
 >

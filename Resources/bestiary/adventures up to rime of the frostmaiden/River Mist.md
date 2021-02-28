@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # River Mist
 >*Medium #humanoid (tabaxi), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|11 (+0)|13 (+1)|14 (+2)|15 (+2)|
 >___
->- **Skills** Athletics +2, Perception +4, Stealth +5, Survival +6
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common plus any one language
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Athletics +2, Perception +4, Stealth +5, Survival +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr1 (200 XP)
 >___
 >***Feline Agility.*** When River Mist moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, River Mist can't use it again until it moves 0 feet on one of its turns.  
 >

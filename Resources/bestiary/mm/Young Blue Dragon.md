@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Blue Dragon
 >*Large #dragon , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 >___
->- **Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
->- **Skills** Perception +9, Stealth +4
->- **Damage Immunities** lightning
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
->- **Languages** Common, Draconic
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +8, Wis +5, Cha +7
+>- **Skills**
+>	 - Perception +9, Stealth +4
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr9 (5,000 XP)
 >___
 ## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  

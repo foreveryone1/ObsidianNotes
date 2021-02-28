@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rak Tulkhesh
 >*Huge #fiend , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|19 (+4)|27 (+8)|21 (+5)|22 (+6)|26 (+8)|
 >___
->- **Saving Throws** Str +17, Con +16, Wis +14, Cha +16
->- **Skills** Athletics +17, Intimidation +16, Perception +14
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
->- **Senses** truesight 120 ft., passive Perception 24
->- **Languages** all, telepathy 120 ft.
->- #cr28 (120,000 XP)
+>- **Saving Throws**
+>	 - Str +17, Con +16, Wis +14, Cha +16
+>- **Skills**
+>	 - Athletics +17, Intimidation +16, Perception +14
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned, stunned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 24
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr28 (120,000 XP)
 >___
 >***Deadly Critical.*** Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the damage dice three times, instead of twice.  
 >
@@ -46,9 +58,12 @@
 ## Legendary Actions
 >Rak Tulkhesh can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rak Tulkhesh regains spent legendary actions at the start of its turn.
 >
->- **Attack.** Rak Tulkhesh makes one weapon attack.
->- **End Magic (Costs 2 Actions).** Rak Tulkhesh casts dispel magic.
->- **Provoke Rage (Costs 3 Actions).** Each creature within 60 feet of Rak Tulkhesh must succeed on a DC 24 Wisdom saving throw or use its reaction to make a melee weapon attack against a random creature within reach. If no creatures are within reach, it makes a ranged weapon attack against a random creature within range, throwing its weapon if necessary. This attack is made with advantage and gains a +4 bonus to the damage roll.
+>- **Attack**
+>	- Rak Tulkhesh makes one weapon attack.
+>- **End Magic (Costs 2 Actions)**
+>	- Rak Tulkhesh casts dispel magic.
+>- **Provoke Rage (Costs 3 Actions)**
+>	- Each creature within 60 feet of Rak Tulkhesh must succeed on a DC 24 Wisdom saving throw or use its reaction to make a melee weapon attack against a random creature within reach. If no creatures are within reach, it makes a ranged weapon attack against a random creature within range, throwing its weapon if necessary. This attack is made with advantage and gains a +4 bonus to the damage roll.
 ## Rak Tulkhesh
 Called the Rage of War, Rak Tulkhesh is the incarnation of impulses that drives many mortals to battle. Fear, greed, hatred—these are seeds that the Rage of War sows in the hopes of producing a bloody harvest.
 Rak Tulkhesh typically takes the form of a vaguely draconic creature twisted by demonic rage. Covered in iron spikes protruding from his bleeding flesh, this overlord looms fifteen feet high at the shoulders, and his wings span over forty feet. While in combat, Rak Tulkhesh roars in rage as new weapons are spawned from his body, called forth by the Rage of War to slaughter all who dare stand before him.

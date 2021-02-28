@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yuan-ti Nightmare Speaker
 >*Medium monstrosity (shapechanger, yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >___
->- **Saving Throws** Wis +3, Cha +5
->- **Skills** Deception +5, Stealth +4
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft. (penetrates magical darkness), passive Perception 11
->- **Languages** Abyssal, Common, Draconic
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +3, Cha +5
+>- **Skills**
+>	 - Deception +5, Stealth +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft. (penetrates magical darkness), passive Perception 11
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.  
 >

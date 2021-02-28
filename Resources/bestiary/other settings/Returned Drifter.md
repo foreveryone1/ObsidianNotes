@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Returned Drifter
 >*Medium #undead , lawful neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|12 (+1)|10 (+0)|12 (+1)|11 (+0)|
 >___
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 11
->- **Languages** the languages it knew in life
->- ** #cr1-4 ** (50 XP)
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - the languages it knew in life
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Turn Resistance.*** The Returned has advantage on saving throws against any effect that turns undead.  
 >

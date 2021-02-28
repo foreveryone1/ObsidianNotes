@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spitting Mimic
 >*Large monstrosity (shapechanger), neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|17 (+3)|9 (-1)|15 (+2)|10 (+0)|
 >___
->- **Skills** Stealth +7
->- **Damage Immunities** acid
->- **Condition Immunities** prone
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Stealth +7
+>- **Damage Immunities**
+>	 - acid
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Steel Predator
 >*Large #construct , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|22 (+6)|4 (-3)|14 (+2)|6 (-2)|
 >___
->- **Skills** Perception +7, Stealth +8, Survival +7
->- **Damage Resistances** cold, lightning, necrotic, thunder
->- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
->- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 17
->- **Languages** understands Modron and the language of its owner but can't speak
->- #cr16 (15,000 XP)
+>- **Skills**
+>	 - Perception +7, Stealth +8, Survival +7
+>- **Damage Resistances**
+>	 - cold, lightning, necrotic, thunder
+>- **Damage Immunities**
+>	 - poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - understands Modron and the language of its owner but can't speak
+>
+> #cr16 (15,000 XP)
 >___
 >***Innate Spellcasting.*** The steel predator's innate spellcasting ability is Wisdom. The steel predator can innately cast the following spells, requiring no components:  
 >

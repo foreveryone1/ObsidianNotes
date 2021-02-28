@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Glabrezu
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
 >___
->- **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 13
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +9, Wis +7, Cha +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:  
 >

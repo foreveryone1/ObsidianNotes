@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thurstwell Vanthampur
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|8 (-1)|6 (-2)|15 (+2)|17 (+3)|12 (+1)|
 >___
->- **Skills** Deception +3, Insight +5, Perception +5, Religion +4
->- **Senses** passive Perception 15
->- **Languages** Common, Elvish, Infernal
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +3, Insight +5, Perception +5, Religion +4
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Elvish, Infernal
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Dark Devotion.*** Thurstwell has advantage on saving throws against being charmed or frightened.  
 >

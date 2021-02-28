@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Death Dog
 >*Medium #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|3 (-4)|13 (+1)|6 (-2)|
 >___
->- **Skills** Perception +5, Stealth +4
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Two-Headed.*** The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.  
 >

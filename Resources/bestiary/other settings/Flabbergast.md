@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Flabbergast
 >*Medium #humanoid (human), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|13 (+1)|
 >___
->- **Saving Throws** Int +5, Wis +3
->- **Skills** Arcana +5, History +5, Perception +3, Persuasion +3
->- **Senses** passive Perception 13
->- **Languages** Common, Draconic, Elvish, Gnomish
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +3
+>- **Skills**
+>	 - Arcana +5, History +5, Perception +3, Persuasion +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Draconic, Elvish, Gnomish
+>
+> #cr4 (1,100 XP)
 >___
 >***Spellcasting.*** Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:  
 >

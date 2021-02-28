@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Conjurer
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +6, Wis +4
->- **Skills** Arcana +6, History +6
->- **Senses** passive Perception 11
->- **Languages** any four languages
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +6, Wis +4
+>- **Skills**
+>	 - Arcana +6, History +6
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any four languages
+>
+> #cr6 (2,300 XP)
 >___
 >***Benign Transportation (Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher).*** As a bonus action, the conjurer teleports up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.  
 >

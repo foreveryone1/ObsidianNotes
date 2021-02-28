@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Verbeeg Longstrider
 >*Large #giant , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|16 (+3)|13 (+1)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Dex +5, Con +6, Wis +5
->- **Skills** Animal Handling +5, Athletics +7, Stealth +5
->- **Senses** passive Perception 12
->- **Languages** Common, Giant
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +6, Wis +5
+>- **Skills**
+>	 - Animal Handling +5, Athletics +7, Stealth +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The verbeeg's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:  
 >

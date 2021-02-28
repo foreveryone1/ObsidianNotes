@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Alseid
 >*Medium #fey , , chaotic good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|12 (+1)|13 (+1)|14 (+2)|18 (+4)|
 >___
->- **Skills** Persuasion +6
->- **Damage Resistances** radiant
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** passive Perception 12
->- **Languages** Common, Sylvan
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Persuasion +6
+>- **Damage Resistances**
+>	 - radiant
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr1 (200 XP)
 >___
 >***Hide in Plain Sight.*** The alseid has advantage on Dexterity (Stealth) checks made to hide while it is in grassland.  
 >

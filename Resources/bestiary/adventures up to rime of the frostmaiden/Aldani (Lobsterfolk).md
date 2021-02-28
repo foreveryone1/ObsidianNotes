@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aldani (Lobsterfolk)
 >*Medium #monstrosity , lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|8 (-1)|12 (+1)|10 (+0)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +4, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The aldani can breathe air and water.  
 >

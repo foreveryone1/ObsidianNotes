@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Awakened Rat
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|9 (-1)|10 (+0)|10 (+0)|4 (-3)|
 >___
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** Common
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.  
 >

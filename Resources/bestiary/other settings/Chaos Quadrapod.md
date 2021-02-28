@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chaos Quadrapod
 >*Large #aberration , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|15 (+2)|6 (-2)|10 (+0)|4 (-3)|
 >___
->- **Skills** Acrobatics +5, Perception +4
->- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 14
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Acrobatics +5, Perception +4
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius), passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 >***Magic Resistance.*** The chaos quadrapod has advantage on saving throws against spells and other magical effects.  
 >

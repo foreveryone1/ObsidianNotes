@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cyrus Belview
 >*Medium #humanoid (mongrelfolk), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|9 (-1)|15 (+2)|9 (-1)|10 (+0)|6 (-2)|
 >___
->- **Skills** Deception +2, Perception +2, Stealth +3
->- **Senses** passive Perception 12
->- **Languages** Common
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Deception +2, Perception +2, Stealth +3
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Keen Hearing and Smell.*** The mongrelfolk has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

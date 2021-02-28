@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Corpse Flower
 >*Large #plant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|16 (+3)|7 (-2)|15 (+2)|3 (-4)|
 >___
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 12
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Condition Immunities**
+>	 - blinded, deafened
+>- **Senses**
+>	 - blindsight 120 ft. (blind beyond this radius), passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Corpses.*** When first encountered, a corpse flower contains the corpses of 1d6 + 3 humanoids. A corpse flower can hold the remains of up to nine dead humanoids. These remains have total cover against attacks and other effects outside the corpse flower. If the corpse flower dies, the corpses within it can be pulled free.  
 >While it has at least one humanoid corpse in its body, the corpse flower can use a bonus action to do one of the following:  

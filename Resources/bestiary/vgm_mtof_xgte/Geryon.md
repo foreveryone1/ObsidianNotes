@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Geryon
 >*Huge #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|17 (+3)|22 (+6)|19 (+4)|16 (+3)|23 (+6)|
 >___
->- **Saving Throws** Dex +10, Con +13, Wis +10, Cha +13
->- **Skills** Deception +13, Intimidation +13, Perception +10
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** cold, fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 20
->- **Languages** all, telepathy 120 ft.
->- #cr22 (41,000 XP)
+>- **Saving Throws**
+>	 - Dex +10, Con +13, Wis +10, Cha +13
+>- **Skills**
+>	 - Deception +13, Intimidation +13, Perception +10
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - cold, fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 20
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr22 (41,000 XP)
 >___
 >***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:  
 >
@@ -45,9 +57,12 @@
 ## Legendary Actions
 >Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of its turn.
 >
->- **Infernal Glare.** Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
->- **Swift Sting (Costs 2 Actions).** Geryon attacks with his stinger.
->- **Teleport.** Geryon uses his Teleport action.
+>- **Infernal Glare.**
+> Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
+>- **Swift Sting (Costs 2 Actions).**
+> Geryon attacks with his stinger.
+>- **Teleport.**
+> Geryon uses his Teleport action.
 ## Geryon
 *Which is less worthy: the archdevil who leads a layer while being trapped in a block of ice, or the archdevil who can't outmaneuver a frozen adversary?*— Mordenkainen***Geryon.*** Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought each other for centuries, each displacing the other innumerable times. Currently, Geryon occupies an odd position in the infernal hierarchy. Although Levistus still claims lordship over Stygia, he has been trapped in an enormous block of ice at the command of Asmodeus. For his part, Geryon marshals his followers and seeks to discover the means to replace his hated rival.
 Among the archdevils, Geryon and Zariel are especially known for martial prowess. He is a ferocious hunter and a relentless tracker. Other devils command legions and bid their followers to battle their enemies. Geryon loves the feeling of flesh and steel being sundered beneath his claws, and the taste of his foes' blood.

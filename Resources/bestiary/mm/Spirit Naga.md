@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spirit Naga
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Abyssal, Common
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +5, Wis +5, Cha +6
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr8 (3,900 XP)
 >___
 >***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.  
 >

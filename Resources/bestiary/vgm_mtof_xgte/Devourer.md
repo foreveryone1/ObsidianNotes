@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Devourer
 >*Large #fiend , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|13 (+1)|10 (+0)|16 (+3)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr13 (10,000 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr13 (10,000 XP)
 >___
 ## Actions
 >***Multiattack.*** The devourer makes two claw attacks and can use either Imprison Soul or Soul Rend.  

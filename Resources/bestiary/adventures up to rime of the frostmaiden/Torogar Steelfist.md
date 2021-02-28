@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Torogar Steelfist
 >*Large #monstrosity , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|17 (+3)|20 (+5)|8 (-1)|9 (-1)|16 (+3)|
 >___
->- **Saving Throws** Str +11, Con +9
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Abyssal, Common
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Str +11, Con +9
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr11 (7,200 XP)
 >___
 >***Special Equipment.*** Torogar wears gauntlets of flaming fury and a belt of fire giant strength. Without the belt, his Strength is 21. He also carries a soul coin.  
 >

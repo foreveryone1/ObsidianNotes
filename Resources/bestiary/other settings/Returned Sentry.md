@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Returned Sentry
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|12 (+1)|10 (+0)|12 (+1)|11 (+0)|
 >___
->- **Damage Resistances** necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** passive Perception 11
->- **Languages** the languages it knew in life
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr1 (200 XP)
 >___
 >***Pack Tactics.*** The Returned has advantage on an attack roll against a creature if at least one of the Returned's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

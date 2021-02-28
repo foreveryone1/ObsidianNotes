@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Urgala Meltimer
 >*Medium #humanoid (Turami human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|12 (+1)|14 (+2)|13 (+1)|
 >___
->- **Skills** Athletics +5, Intimidation +3
->- **Senses** passive Perception 12
->- **Languages** Common, Giant
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Athletics +5, Intimidation +3
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Giant
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Giant Slayer.*** Any weapon attack that Urgala makes against a giant deals an extra 7 (2d6) damage on a hit.  
 >

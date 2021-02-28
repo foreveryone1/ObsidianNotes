@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spellcaster (Healer)
 >*7th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)|
 >___
->- **Saving Throws** Wis +6
->- **Skills** Arcana +5, Investigation +5, Religion +5
->- **Senses** passive Perception 13
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Wis +6
+>- **Skills**
+>	 - Arcana +5, Investigation +5, Religion +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Potent Cantrip.*** The spellcaster can add its spellcasting ability modifier to the damage it deals with any cantrip.  
 >

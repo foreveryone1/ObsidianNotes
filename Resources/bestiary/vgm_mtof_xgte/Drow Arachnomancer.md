@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Arachnomancer
 >*Medium #humanoid (elf), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|19 (+4)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +7, Int +9, Cha +8
->- **Skills** Arcana +9, Nature +9, Perception +7, Stealth +8
->- **Damage Resistances** poison
->- **Senses** blindsight 10 ft., darkvision 120 ft., passive Perception 17
->- **Languages** Elvish, Undercommon, can speak with spiders
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +7, Int +9, Cha +8
+>- **Skills**
+>	 - Arcana +9, Nature +9, Perception +7, Stealth +8
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Elvish, Undercommon, can speak with spiders
+>
+> #cr13 (10,000 XP)
 >___
 >***Change Shape (Recharges after a Short or Long Rest).*** The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.  
 >

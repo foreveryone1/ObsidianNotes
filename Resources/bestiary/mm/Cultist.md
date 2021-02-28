@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cultist
 >*Medium #humanoid (any race), any non-good alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Deception +2, Religion +2
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +2, Religion +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.  
 >

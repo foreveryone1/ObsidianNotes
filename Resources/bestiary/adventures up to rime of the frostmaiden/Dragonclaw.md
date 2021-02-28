@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dragonclaw
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Wis +2
->- **Skills** Deception +3, Stealth +5
->- **Senses** passive Perception 10
->- **Languages** Common, Draconic
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Wis +2
+>- **Skills**
+>	 - Deception +3, Stealth +5
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr1 (200 XP)
 >___
 >***Dragon Fanatic.*** The dragonclaw has advantage on saving throws against being charmed or frightened. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened.  
 >

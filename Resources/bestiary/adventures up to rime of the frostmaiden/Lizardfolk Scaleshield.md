@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lizardfolk Scaleshield
 >*Medium #humanoid (lizardfolk), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|14 (+2)|7 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +4, Perception +3, Survival +5
->- **Senses** passive Perception 13
->- **Languages** Draconic
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Athletics +4, Perception +3, Survival +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Draconic
+>
+> #cr1 (200 XP)
 >___
 >***Hold Breath.*** The scaleshield can hold its breath for 15 minutes.  
 >

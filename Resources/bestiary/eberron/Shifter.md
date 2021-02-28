@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shifter
 >*Medium #humanoid (shifter), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|11 (+0)|15 (+2)|10 (+0)|
 >___
->- **Skills** Acrobatics +5, Insight +4, Nature +2, Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Acrobatics +5, Insight +4, Nature +2, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Shifting (Recharges after a Short or Long Rest).*** As a bonus action, the shifter takes on a more bestial form for 1 minute or until it dies. The shifter gains 5 temporary hit points. It can make a bite attack when it activates this trait and also as a bonus action on each of its turns while in its bestial form.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thousand Teeth
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|2 (-4)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Str +7, Con +6
->- **Skills** Athletics +7, Stealth +3
->- **Senses** passive Perception 10
->- **Languages** —
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +6
+>- **Skills**
+>	 - Athletics +7, Stealth +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr6 (2,300 XP)
 >___
 >***Hold Breath.*** Thousand Teeth can hold its breath for 30 minutes.  
 >
@@ -30,8 +39,11 @@
 ## Legendary Actions
 >Thousand Teeth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Thousand Teeth regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Thousand Teeth makes a Wisdom (Perception) check.
->- **Lunge.** Thousand Teeth moves up to half its speed.
->- **Bite (Costs 2 Actions).** Thousand Teeth makes a bite attack.
+>- **Detect**
+>	- Thousand Teeth makes a Wisdom (Perception) check.
+>- **Lunge**
+>	- Thousand Teeth moves up to half its speed.
+>- **Bite (Costs 2 Actions)**
+>	- Thousand Teeth makes a bite attack.
 ## Thousand Teeth
 Thousand Teeth is an ancient crocodilian nightmare that has served as the apex predator in the swamps near Saltmarsh for as long as anyone can remember. This monster recently fought a number of lizardfolk and lost one of its teeth. Angered and hungry, it sulks in its lair, lost in primal dreams of rending and tearing. It is found in the deep marshes in Danger at Dunwater.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pentadrone
 >*Large #construct , lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|13 (+1)|
 >___
->- **Skills** Perception +4
->- **Senses** truesight 120 ft., passive Perception 14
->- **Languages** Modron
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Modron
+>
+> #cr2 (450 XP)
 >___
 >***Axiomatic Mind.*** The pentadrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >

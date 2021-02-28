@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orc Nurtured One of Yurtrus
 >*Medium #humanoid (orc), chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|8 (-1)|16 (+3)|7 (-2)|11 (+0)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Orc
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Orc
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
 >

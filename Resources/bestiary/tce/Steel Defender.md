@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Steel Defender
 >*Medium construct*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|6 (-2)|
 >___
->- **Saving Throws** Dex +1 plus PB, Con +2 plus PB
->- **Skills** Athletics +2 plus PB, Perception +0 plus PB × 2
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10 + (PB × 2)
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Dex +1 plus PB, Con +2 plus PB
+>- **Skills**
+>	 - Athletics +2 plus PB, Perception +0 plus PB × 2
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10 + (PB × 2)
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Vigilant.*** The defender can't be surprised.  
 >

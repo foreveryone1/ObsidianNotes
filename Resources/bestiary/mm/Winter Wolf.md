@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Winter Wolf
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|7 (-2)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +5, Stealth +3
->- **Damage Immunities** cold
->- **Senses** passive Perception 15
->- **Languages** Common, Giant, Winter Wolf
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +5, Stealth +3
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Giant, Winter Wolf
+>
+> #cr3 (700 XP)
 >___
 >***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

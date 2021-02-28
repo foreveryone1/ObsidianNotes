@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Satyr
 >*Medium #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
 >___
->- **Skills** Perception +2, Performance +6, Stealth +5
->- **Senses** passive Perception 12
->- **Languages** Common, Elvish, Sylvan
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +2, Performance +6, Stealth +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Elvish, Sylvan
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.  
 >

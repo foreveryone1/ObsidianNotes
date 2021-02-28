@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Manes
 >*Small #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|9 (-1)|13 (+1)|3 (-4)|8 (-1)|4 (-3)|
 >___
->- **Damage Resistances** cold, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Abyssal but can't speak
->- ** #cr1-8 ** (25 XP)
+>- **Damage Resistances**
+>	 - cold, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Abyssal but can't speak
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.

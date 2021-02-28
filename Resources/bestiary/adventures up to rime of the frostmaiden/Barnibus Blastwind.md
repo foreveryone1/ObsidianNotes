@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Barnibus Blastwind
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|10 (+0)|9 (-1)|17 (+3)|15 (+2)|11 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +4
->- **Skills** Arcana +5, Insight +6, Investigation +7, Perception +4
->- **Senses** passive Perception 14
->- **Languages** Common, Draconic, Dwarvish, Halfling
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +4
+>- **Skills**
+>	 - Arcana +5, Insight +6, Investigation +7, Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Halfling
+>
+> #cr2 (450 XP)
 >___
 >***Special Equipment.*** Barnibus carries a wand of magic detection. (spell included in spell list below but does not use a slot when cast from the wand)  
 >

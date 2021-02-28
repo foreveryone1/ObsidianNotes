@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Half-Green Dragon Assassin
 >*Medium #humanoid (any race), any non-good alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Dex +6, Int +4
->- **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
->- **Damage Resistances** poison
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
->- **Languages** Thieves' cant plus any two languages, Draconic
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +4
+>- **Skills**
+>	 - Acrobatics +6, Deception +3, Perception +3, Stealth +9
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Thieves' cant plus any two languages, Draconic
+>
+> #cr8 (3,900 XP)
 >___
 >***Assassinate.*** During its first turn, the half-dragon has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the half-dragon scores against a surprised creature is a critical hit.  
 >

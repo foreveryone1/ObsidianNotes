@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Beldora
 >*Medium #humanoid (Illuskan human), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|16 (+3)|12 (+1)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +3, Investigation +5, Perception +5, Persuasion +5
->- **Senses** passive Perception 13
->- **Languages** Common, Draconic, Dwarvish, Halfling
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Deception +5, Insight +3, Investigation +5, Perception +5, Persuasion +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Halfling
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** Beldora is a member of the harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.  
 >Ideal: "We should all strive to help one another"  

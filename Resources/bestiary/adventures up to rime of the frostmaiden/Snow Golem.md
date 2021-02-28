@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Snow Golem
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|6 (-2)|14 (+2)|1 (-5)|6 (-2)|1 (-5)|
 >___
->- **Damage Vulnerabilities** fire
->- **Damage Immunities** cold, poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Immunities**
+>	 - cold, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Cold Absorption.*** Whenever the golem is subjected to cold damage, it takes no damage and instead regains a number of hit points equal to the cold damage dealt.  
 >

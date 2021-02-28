@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aurinax
 >*Huge #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)|
 >___
->- **Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
->- **Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
->- **Damage Immunities** fire
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
->- **Languages** Common, Draconic
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +13, Wis +8, Cha +13
+>- **Skills**
+>	 - Insight +8, Perception +14, Persuasion +13, Stealth +8
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 24
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr17 (18,000 XP)
 >___
 >***Amphibious.*** Aurinax can breathe air and water.  
 >
@@ -33,9 +43,11 @@
 >***Frightful Presence.*** Each creature of Aurinax's choice that is within 120 feet of Aurinax and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Aurinax's Frightful Presence for the next 24 hours.  
 >
 >***Breath Weapons (Recharge 5–6).*** Aurinax uses one of the following breath weapons.  
->- **Fire Breath.** Aurinax exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+>- **Fire Breath**
+>	- Aurinax exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
 >
->- **Weakening Breath.** Aurinax exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>- **Weakening Breath**
+>	- Aurinax exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >
 >***Change Shape.*** Aurinax magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (Aurinax's choice).  
@@ -44,6 +56,9 @@
 ## Legendary Actions
 >Aurinax can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Aurinax regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Aurinax makes a Wisdom (Perception) check.
->- **Tail Attack.** Aurinax makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** Aurinax beats its wings. Each creature within 10 feet of Aurinax must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. Aurinax can then fly up to half its flying speed.
+>- **Detect**
+>	- Aurinax makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- Aurinax makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- Aurinax beats its wings. Each creature within 10 feet of Aurinax must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. Aurinax can then fly up to half its flying speed.

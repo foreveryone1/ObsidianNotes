@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kysh
 >*Medium #humanoid (triton), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Persuasion +4, Survival +3
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Primordial
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Persuasion +4, Survival +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Primordial
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** Kysh can breathe air and water.  
 >

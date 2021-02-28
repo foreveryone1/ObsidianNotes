@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Banderhobb
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|11 (+0)|14 (+2)|8 (-1)|
 >___
->- **Skills** Athletics +8, Stealth +7
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Common and the languages of its creator but can't speak
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Athletics +8, Stealth +7
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Common and the languages of its creator but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Resonant Connection.*** If the banderhobb has even a tiny piece of a creature or an object in its possession, such as a lock of hair or a splinter of wood, it knows the most direct route to that creature or object if it is within 1 mile of the banderhobb.  
 >

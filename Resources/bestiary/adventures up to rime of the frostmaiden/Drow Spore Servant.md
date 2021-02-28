@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Spore Servant
 >*Medium #plant , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|2 (-4)|6 (-2)|1 (-5)|
 >___
->- **Condition Immunities** blinded, charmed, frightened, paralyzed
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened, paralyzed
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.

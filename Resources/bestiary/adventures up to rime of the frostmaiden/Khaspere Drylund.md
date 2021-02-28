@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Khaspere Drylund
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Persuasion +5
->- **Senses** passive Perception 12
->- **Languages** Common, Dwarvish, Elvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Persuasion +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish, Elvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 ## Actions
 >***Rapier.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  

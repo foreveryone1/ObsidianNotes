@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Alhoon
 >*Medium #undead , any evil alignment*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|16 (+3)|19 (+4)|17 (+3)|17 (+3)|
 >___
->- **Saving Throws** Con +7, Int +8, Wis +7, Cha +7
->- **Skills** Arcana +8, Deception +7, History +8, Insight +7, Perception +7, Stealth +5
->- **Damage Resistances** cold, lightning, necrotic
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** truesight 120 ft., passive Perception 17
->- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +7, Int +8, Wis +7, Cha +7
+>- **Skills**
+>	 - Arcana +8, Deception +7, History +8, Insight +7, Perception +7, Stealth +5
+>- **Damage Resistances**
+>	 - cold, lightning, necrotic
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 17
+>- **Languages**
+>	 - Deep Speech, Undercommon, telepathy 120 ft.
+>
+> #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The alhoon's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:  
 >

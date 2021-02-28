@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thurl Merosska
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|11 (+0)|10 (+0)|15 (+2)|
 >___
->- **Skills** Animal Handling +2, Athletics +5, Deception +4, Persuasion +4
->- **Senses** passive Perception 10
->- **Languages** Auran, Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Animal Handling +2, Athletics +5, Deception +4, Persuasion +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr3 (700 XP)
 >___
 >***Spellcasting.*** Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:  
 >

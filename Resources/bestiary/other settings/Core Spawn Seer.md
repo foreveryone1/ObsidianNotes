@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Core Spawn Seer
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|18 (+4)|22 (+6)|19 (+4)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Int +11, Wis +9, Cha +8
->- **Skills** Perception +9
->- **Damage Immunities** psychic
->- **Condition Immunities** charmed, frightened
->- **Senses** blindsight 60 ft., tremorsense 60 ft., passive Perception 19
->- **Languages** Common, Deep Speech, telepathy 120 ft., Undercommon
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +11, Wis +9, Cha +8
+>- **Skills**
+>	 - Perception +9
+>- **Damage Immunities**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - blindsight 60 ft., tremorsense 60 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Deep Speech, telepathy 120 ft., Undercommon
+>
+> #cr13 (10,000 XP)
 >___
 >***Earth Glide.*** The seer can traverse through nonmagical, unworked earth and stone. While doing so, the seer doesn't disturb the material it moves through.  
 >

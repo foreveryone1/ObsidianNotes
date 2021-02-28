@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shapechanged Roper
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|17 (+3)|7 (-2)|16 (+3)|6 (-2)|
 >___
->- **Skills** Perception +6, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +6, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Shapechanger.*** The roper can use its action to polymorph into a stone object or back to its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

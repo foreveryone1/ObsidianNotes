@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nivix Cyclops
 >*Large #giant , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|9 (-1)|22 (+6)|7 (-2)|10 (+0)|9 (-1)|
 >___
->- **Saving Throws** Con +9, Wis +3
->- **Damage Immunities** poison, psychic
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Giant
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +3
+>- **Damage Immunities**
+>	 - poison, psychic
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr8 (3,900 XP)
 >___
 >***Magic Resistance.*** The cyclops has advantage on saving throws against spells and other magical effects.  
 >

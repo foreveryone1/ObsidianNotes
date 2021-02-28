@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gray Render
 >*Large #monstrosity , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|13 (+1)|20 (+5)|3 (-4)|6 (-2)|8 (-1)|
 >___
->- **Saving Throws** Str +8, Con +9
->- **Skills** Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Str +8, Con +9
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr12 (8,400 XP)
 >___
 ## Actions
 >***Multiattack.*** The gray render makes three attacks: one with its bite and two with its claws.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rath Modar
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|18 (+4)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Int +7, Wis +5
->- **Skills** Arcana +7, Deception +3, Insight +5, Stealth +6
->- **Senses** passive Perception 12
->- **Languages** Common, Draconic, Infernal, Primordial, Thayan
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +5
+>- **Skills**
+>	 - Arcana +7, Deception +3, Insight +5, Stealth +6
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Infernal, Primordial, Thayan
+>
+> #cr6 (2,300 XP)
 >___
 >***Special Equipment.*** Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball.  
 >

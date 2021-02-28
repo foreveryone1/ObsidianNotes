@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bosco Daggerhand
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Intimidation +2
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Intimidation +2
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Special Equipment.*** Bosco wears a ring of animal influence.  
 >

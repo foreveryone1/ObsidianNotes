@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thorny
 >*Medium #plant , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|6 (-2)|
 >___
->- **Skills** Perception +4, Stealth +3
->- **Damage Resistances** lightning, piercing
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +3
+>- **Damage Resistances**
+>	 - lightning, piercing
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Plant Camouflage.*** The thorny has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.  
 >

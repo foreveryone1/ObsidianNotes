@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jaculi
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|11 (+0)|2 (-4)|8 (-1)|3 (-4)|
 >___
->- **Skills** Athletics +4, Perception +1, Stealth +4
->- **Senses** blindsight 30 ft., passive Perception 11
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Athletics +4, Perception +1, Stealth +4
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Camouflage.*** The jaculi has advantage on Dexterity (Stealth) checks made to hide.  
 >

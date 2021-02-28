@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reckoner
 >*Medium #humanoid (any race), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|15 (+2)|15 (+2)|12 (+1)|10 (+0)|
 >___
->- **Skills** Arcana +4, Intimidation +2, Perception +3
->- **Senses** passive Perception 13
->- **Languages** Common plus any one language
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Arcana +4, Intimidation +2, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr4 (1,100 XP)
 >___
 >***First Strike.*** The reckoner has advantage on initiative rolls.  
 >

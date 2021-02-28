@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Theran Chimera
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|19 (+4)|3 (-4)|14 (+2)|10 (+0)|
 >___
->- **Saving Throws** Con +7, Wis +5
->- **Skills** Perception +5
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** understands Draconic but can't speak
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Con +7, Wis +5
+>- **Skills**
+>	 - Perception +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - understands Draconic but can't speak
+>
+> #cr7 (2,900 XP)
 >___
 >***Spell Turning.*** The chimera has advantage on a saving throw against any spell that targets only the chimera (not an area). If the chimera's saving throw is successful and the spell is of 4th level or lower, the spell has no effect on the chimera and instead targets the caster.  
 >

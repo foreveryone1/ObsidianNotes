@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yeth Hound
 >*Large #fey , , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|17 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)|
 >___
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** understands Common, Elvish, and Sylvan but can't speak
->- #cr4 (1,100 XP)
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - understands Common, Elvish, and Sylvan but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Keen Hearing and Smell.*** The yeth hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

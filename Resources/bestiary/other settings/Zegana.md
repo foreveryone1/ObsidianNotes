@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zegana
 >*Medium #humanoid (merfolk), lawful neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|14 (+2)|20 (+5)|18 (+4)|16 (+3)|
 >___
->- **Saving Throws** Int +10, Wis +9
->- **Skills** Insight +9, Nature +10, Perception +9
->- **Damage Resistances** cold, poison
->- **Senses** darkvision 60 ft., passive Perception 19
->- **Languages** Common, Elvish, Merfolk
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Int +10, Wis +9
+>- **Skills**
+>	 - Insight +9, Nature +10, Perception +9
+>- **Damage Resistances**
+>	 - cold, poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Elvish, Merfolk
+>
+> #cr16 (15,000 XP)
 >___
 >***Amphibious.*** Zegana can breathe air and water.  
 >
@@ -43,9 +53,13 @@
 ## Legendary Actions
 >Zegana can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zegana regains spent legendary actions at the start of its turn.
 >
->- **Adaptive Skin.** Zegana gains resistance to one damage type of her choice-acid, fire, lightning, or thunder-until the start of her next turn.
->- **Trident.** Zegana makes one melee attack with the Prime Speaker's Trident.
->- **Enlarge (Costs 2 Actions).** Zegana casts enlarge/reduce on herself, using the enlarge option, without expending a spell slot.
->- **Deluge (Costs 3 Actions).** Zegana uses Deluge, if available.
+>- **Adaptive Skin.**
+> Zegana gains resistance to one damage type of her choice-acid, fire, lightning, or thunder-until the start of her next turn.
+>- **Trident.**
+> Zegana makes one melee attack with the Prime Speaker's Trident.
+>- **Enlarge (Costs 2 Actions).**
+> Zegana casts enlarge/reduce on herself, using the enlarge option, without expending a spell slot.
+>- **Deluge (Costs 3 Actions).**
+> Zegana uses Deluge, if available.
 ## Zegana
 The regal and reticent Prime Speaker Zegana is the merfolk guildmaster of the Simic Combine. She upholds the traditional ways of the guild and its utopian philosophy, which espouses a vision of an ideal world in which nature and civilization coexist in perfect balance. Some people in the guild-members of the Adaptationist faction in particular-argue that her ways are outdated and the guild requires more practical leadership. In response, Zegana maintains that she serves as prime speaker only at the sufferance of the Speakers' Chamber, and if the other speakers wish to replace her, they are certainly within their rights to do so.

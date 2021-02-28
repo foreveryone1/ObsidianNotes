@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Deathlock
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|10 (+0)|14 (+2)|12 (+1)|16 (+3)|
 >___
->- **Saving Throws** Int +4, Cha +5
->- **Skills** Arcana +4, History +4
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** the languages it knew in life
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Int +4, Cha +5
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:  
 >

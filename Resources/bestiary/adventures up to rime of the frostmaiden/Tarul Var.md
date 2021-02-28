@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tarul Var
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|16 (+3)|19 (+4)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +8, Int +9, Wis +7
->- **Skills** Arcana +9, History +9, Insight +7, Perception +7
->- **Damage Resistances** cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 17
->- **Languages** Abyssal, Common, Infernal, Primordial, Thayan
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +8, Int +9, Wis +7
+>- **Skills**
+>	 - Arcana +9, History +9, Insight +7, Perception +7
+>- **Damage Resistances**
+>	 - cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal, Common, Infernal, Primordial, Thayan
+>
+> #cr13 (10,000 XP)
 >___
 >***Focused Conjuration.*** While Var is concentrating on a conjuration spell, his concentration can't be broken as a result of taking damage.  
 >
@@ -47,9 +59,12 @@
 ## Legendary Actions
 >Tarul can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tarul regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** Var casts a cantrip.
->- **Paralyzing Touch (Costs 2 Actions).** Var uses Paralyzing Touch.
->- **Frightening Gaze (Costs 2 Actions).** Var fixes his gaze on one creature he can see within 10 feet of him. The target must succeed on a DC 17 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
+>- **Cantrip**
+>	- Var casts a cantrip.
+>- **Paralyzing Touch (Costs 2 Actions)**
+>	- Var uses Paralyzing Touch.
+>- **Frightening Gaze (Costs 2 Actions)**
+>	- Var fixes his gaze on one creature he can see within 10 feet of him. The target must succeed on a DC 17 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
 ## Tarul Var
 After failing in an earlier task for the Red Wizards, the lich Tarul Var is sequestered within the Doomvault (Dead in Thay), where he tries to avoid the attention of Szass Tam. Interlopers who discover his quarters are set upon by the lich and his dread warrior guards, but if Var is brought to the brink of death, he might bargain for a chance to escape the dungeon.
 ***Undead Nature.*** A lich doesn't require air, food, drink, or sleep.

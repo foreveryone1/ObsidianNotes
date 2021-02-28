@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Undercity Medusa
 >*Medium #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|18 (+4)|16 (+3)|17 (+3)|12 (+1)|15 (+2)|
 >___
->- **Skills** Deception +5, Insight +4, Perception +4, Stealth +7
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Elvish
->- #cr6 (2,300 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Perception +4, Stealth +7
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr6 (2,300 XP)
 >___
 >***Innate Spellcasting.*** The medusa's innate spellcasting ability is Intelligence (spell save DC 14). The medusa can innately cast the following spells, requiring no material components:  
 >

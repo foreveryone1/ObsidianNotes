@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ashdra
 >*Medium #humanoid (elf), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Skills** 
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** any one language (usually Common), Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - 
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Fey Ancestry.*** The ashdra has advantage on saving throws against being charmed, and magic can't put the ashdra to sleep.  
 >

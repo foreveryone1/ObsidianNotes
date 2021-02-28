@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Severin
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|16 (+3)|17 (+3)|12 (+1)|20 (+5)|
 >___
->- **Saving Throws** Dex +5, Wis +5
->- **Skills** Arcana +7, Religion +7
->- **Damage Resistances** While wearing the mask of the Dragon Queen: acid, cold, lightning, poison, and bludgeoning; piercing; slashing from nonmagical attacks
->- **Damage Immunities** While wearing the mask of the Dragon Queen: fire
->- **Condition Immunities** While wearing the mask of the Dragon Queen: charmed, frightened, poisoned
->- **Senses** While wearing the Mask of the Dragon Queen: darkvision 60 ft., passive Perception 11
->- **Languages** Common, Draconic, Infernal
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +5
+>- **Skills**
+>	 - Arcana +7, Religion +7
+>- **Damage Resistances**
+>	 - While wearing the mask of the Dragon Queen: acid, cold, lightning, poison, and bludgeoning; piercing; slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - While wearing the mask of the Dragon Queen: fire
+>- **Condition Immunities**
+>	 - While wearing the mask of the Dragon Queen: charmed, frightened, poisoned
+>- **Senses**
+>	 - While wearing the Mask of the Dragon Queen: darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal
+>
+> #cr11 (7,200 XP)
 >___
 >***Special Equipment.*** Severin has the Mask of the Dragon Queen.  
 >
@@ -39,6 +51,9 @@
 >
 >- If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature's turn. Severin regains spent legendary actions at the start of his turn.  
 >
->- **Attack.** Severin makes one attack.
->- **Fiery Teleport (Costs 2 Actions).** Severin, along with any objects he is wearing or carrying, teleports up to 60 feet to an unoccupied space he can see. Each creature within 5 feet of Severin before he teleports takes 5 (1d10) fire damage.
->- **Hellish Chains (Costs 3 Actions).** Severin targets one creature he can see within 30 feet of him. The target is wrapped in magical chains of fire and restrained. The restrained target takes 21 (6d6) fire damage at the start of each of its turns. At the end of its turns, the target can make a DC 17 Strength saving throw, ending the effect on itself on a success.
+>- **Attack**
+>	- Severin makes one attack.
+>- **Fiery Teleport (Costs 2 Actions)**
+>	- Severin, along with any objects he is wearing or carrying, teleports up to 60 feet to an unoccupied space he can see. Each creature within 5 feet of Severin before he teleports takes 5 (1d10) fire damage.
+>- **Hellish Chains (Costs 3 Actions)**
+>	- Severin targets one creature he can see within 30 feet of him. The target is wrapped in magical chains of fire and restrained. The restrained target takes 21 (6d6) fire damage at the start of each of its turns. At the end of its turns, the target can make a DC 17 Strength saving throw, ending the effect on itself on a success.

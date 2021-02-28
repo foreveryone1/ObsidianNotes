@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hybrid Flier
 >*Medium #humanoid (Simic hybrid), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|11 (+0)|10 (+0)|11 (+0)|
 >___
->- **Damage Resistances** acid
->- **Senses** passive Perception 10
->- **Languages** Common plus any one language
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - acid
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Multiattack.*** The hybrid makes two javelin attacks. It can replace one javelin attack with Spit Acid.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Owlbear
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|17 (+3)|3 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pharblex Spattergoo
 >*Medium #humanoid (bullywug), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|18 (+4)|11 (+0)|16 (+3)|7 (-2)|
 >___
->- **Saving Throws** Str +4, Con +6
->- **Skills** Perception +5, Religion +2, Stealth +3
->- **Senses** passive Perception 15
->- **Languages** Common, Bullywug
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +4, Con +6
+>- **Skills**
+>	 - Perception +5, Religion +2, Stealth +3
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Bullywug
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** Pharblex can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Satyr Thornbearer
 >*Medium #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|12 (+1)|11 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Perception +5, Performance +6, Stealth +6
->- **Senses** passive Perception 15
->- **Languages** Common, Sylvan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +5, Performance +6, Stealth +6
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr2 (450 XP)
 >___
 >***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.  
 >

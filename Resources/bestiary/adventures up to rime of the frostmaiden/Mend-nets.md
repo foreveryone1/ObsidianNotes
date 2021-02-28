@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mend-nets
 >*Medium #humanoid (human), any alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|8 (-1)|11 (+0)|8 (-1)|
 >___
->- **Senses** passive Perception 10
->- **Languages** any one language
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

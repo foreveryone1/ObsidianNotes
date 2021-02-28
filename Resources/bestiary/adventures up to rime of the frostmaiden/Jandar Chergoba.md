@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jandar Chergoba
 >*Medium #humanoid (tiefling), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
->- **Skills** Deception +4, Persuasion +4, Religion +2
->- **Damage Resistances** fire
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Infernal
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Deception +4, Persuasion +4, Religion +2
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr2 (450 XP)
 >___
 >***Dark Devotion.*** Jandar has advantage on saving throws against being charmed or frightened.  
 >

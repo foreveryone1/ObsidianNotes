@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reaper of Bhaal
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|20 (+5)|13 (+1)|15 (+2)|12 (+1)|16 (+3)|
 >___
->- **Skills** Intimidation +5, Perception +3, Persuasion +5, Stealth +9
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +5, Perception +3, Persuasion +5, Stealth +9
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 >***Aura of Murder.*** As long as the reaper is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nergaliid
 >*Large #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|20 (+5)|12 (+1)|10 (+0)|12 (+1)|
 >___
->- **Skills** Deception +5, Perception +2, Stealth +5
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Common, Infernal
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +5, Perception +2, Stealth +5
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Infernal
+>
+> #cr3 (700 XP)
 >___
 >***Shadow Stealth.*** While in dim light or darkness, the nergaliid can take the Hide action as a bonus action.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nundro Rockseeker
 >*Medium #humanoid (dwarf), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common), Dwarvish
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Dwarvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Dwarven Resilience.*** The nundro rockseeker has advantage on saving throws against poison, and has resistance against poison damage.  
 >

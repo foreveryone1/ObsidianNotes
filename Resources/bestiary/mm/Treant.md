@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Treant
 >*Huge #plant , chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 >___
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing
->- **Senses** passive Perception 13
->- **Languages** Common, Druidic, Elvish, Sylvan
->- #cr9 (5,000 XP)
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Druidic, Elvish, Sylvan
+>
+> #cr9 (5,000 XP)
 >___
 >***False Appearance.*** While the treant remains motionless, it is indistinguishable from a normal tree.  
 >

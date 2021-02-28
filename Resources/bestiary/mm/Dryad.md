@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dryad
 >*Medium #fey , , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
 >___
->- **Skills** Perception +4, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Elvish, Sylvan
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Elvish, Sylvan
+>
+> #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:  
 >

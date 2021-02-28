@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cloud Giant Smiling One
 >*Huge giant (cloud giant), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|12 (+1)|22 (+6)|15 (+2)|16 (+3)|17 (+3)|
 >___
->- **Saving Throws** Con +10, Int +6, Wis +7
->- **Skills** Deception +11, Insight +7, Perception +7, Sleight of Hand +9
->- **Senses** passive Perception 17
->- **Languages** Common, Giant
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Con +10, Int +6, Wis +7
+>- **Skills**
+>	 - Deception +11, Insight +7, Perception +7, Sleight of Hand +9
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr11 (7,200 XP)
 >___
 >***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:  
 >

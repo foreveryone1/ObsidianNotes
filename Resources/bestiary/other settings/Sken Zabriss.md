@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sken Zabriss
 >*Medium #humanoid (goliath), lawful evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|
 >___
->- **Senses** passive Perception 10
->- **Languages** Common, Draconic, Giant
->- #cr1 (200 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Draconic, Giant
+>
+> #cr1 (200 XP)
 >___
 >***Special Equipment.*** Sken wears a ring of obscuring. With it, she can cast the fog cloud spell centered on herself three times per day. The cloud lasts for 1 minute (no concentration required).  
 >

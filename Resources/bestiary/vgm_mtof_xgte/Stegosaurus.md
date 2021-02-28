@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stegosaurus
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|9 (-1)|17 (+3)|2 (-4)|11 (+0)|5 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- #cr4 (1,100 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr4 (1,100 XP)
 >___
 ## Actions
 >***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6 + 5) piercing damage.

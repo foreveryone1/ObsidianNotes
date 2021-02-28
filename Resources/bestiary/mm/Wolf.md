@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wolf
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Senses** passive Perception 13
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

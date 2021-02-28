@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Guardian Portrait
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|1 (-5)|10 (+0)|14 (+2)|10 (+0)|10 (+0)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, plus up to two other languages
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, plus up to two other languages
+>
+> #cr1 (200 XP)
 >___
 >***Antimagic Susceptibility.*** The portrait is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the portrait must succeed on a Constitution saving throw against the caster's spell save DC or become unconscious for 1 minute.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Don-Jon Raskin
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|10 (+0)|13 (+1)|12 (+1)|10 (+0)|14 (+2)|
 >___
->- **Saving Throws** Dex +2, Con +3
->- **Skills** Deception +4, Persuasion +4
->- **Senses** passive Perception 10
->- **Languages** Common, Dwarvish
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Dex +2, Con +3
+>- **Skills**
+>	 - Deception +4, Persuasion +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Brave.*** Don-Jon has advantage on saving throws against being frightened.  
 >

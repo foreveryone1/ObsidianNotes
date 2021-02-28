@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jarad Vod Savo
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|20 (+5)|16 (+3)|15 (+2)|
 >___
->- **Saving Throws** Con +10, Int +12, Wis +10
->- **Skills** Arcana +12, Insight +10, Perception +10
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 120 ft., passive Perception 20
->- **Languages** Common, Elvish, Kraul
->- #cr22 (41,000 XP)
+>- **Saving Throws**
+>	 - Con +10, Int +12, Wis +10
+>- **Skills**
+>	 - Arcana +12, Insight +10, Perception +10
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 20
+>- **Languages**
+>	 - Common, Elvish, Kraul
+>
+> #cr22 (41,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Jarad fails a saving throw, he can choose to succeed instead.  
 >
@@ -53,9 +65,12 @@
 ## Legendary Actions
 >Jarad can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Jarad regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** Jarad casts one of his cantrips.
->- **Noxious Touch (Costs 2 Actions).** Jarad uses Noxious Touch.
->- **Disrupt Life (Costs 3 Actions).** Each creature within 30 feet of Jarad must make a DC 20 Constitution saving throw, taking 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>- **Cantrip**
+>	- Jarad casts one of his cantrips.
+>- **Noxious Touch (Costs 2 Actions)**
+>	- Jarad uses Noxious Touch.
+>- **Disrupt Life (Costs 3 Actions)**
+>	- Each creature within 30 feet of Jarad must make a DC 20 Constitution saving throw, taking 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one.
 ## Jarad Vod Savo
 The Golgari guildmaster is a Devkarin necromancer and lich named Jarad Vod Savo. In life, Jarad was an archer and accomplished hunter, as well as the brother of the previous guildmaster, the ambitious Savra. Jarad mastered the ways of necromancy so he could rise as a lich after he sacrificed himself to save his son from the demon Rakdos.
 As head of the Golgari Swarm, Jarad commands elf and medusa assassins, legions of kraul, brutish trolls, and masses of undercity-dwelling creatures. Thanks to the necromantic power he wields-and with the support of his loyal guards and soldiers-he has survived a number of assassination attempts from various upstarts.

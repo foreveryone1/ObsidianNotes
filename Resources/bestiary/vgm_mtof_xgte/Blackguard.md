@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blackguard
 >*Medium #humanoid (any race), any non-good alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|18 (+4)|11 (+0)|14 (+2)|15 (+2)|
 >___
->- **Saving Throws** Wis +5, Cha +5
->- **Skills** Athletics +7, Deception +5, Intimidation +5
->- **Senses** passive Perception 12
->- **Languages** any one language (usually Common)
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +5
+>- **Skills**
+>	 - Athletics +7, Deception +5, Intimidation +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr8 (3,900 XP)
 >___
 >***Spellcasting.*** The blackguard is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the following paladin spells prepared:  
 >

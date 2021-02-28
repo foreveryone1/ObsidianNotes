@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Sea Eel
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|7 (-2)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Dex +4
->- **Skills** Perception +2, Stealth +4
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Dex +4
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Water Breathing.*** The eel can breathe only underwater.  
 >

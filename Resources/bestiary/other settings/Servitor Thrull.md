@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Servitor Thrull
 >*Small #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|14 (+2)|6 (-2)|6 (-2)|3 (-4)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands Common but can't speak
->- ** #cr1-4 ** (50 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.  

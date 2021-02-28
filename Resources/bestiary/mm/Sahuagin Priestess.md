@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Priestess
 >*Medium #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|12 (+1)|14 (+2)|13 (+1)|
 >___
->- **Skills** Perception +6, Religion +3
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Sahuagin
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +6, Religion +3
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr2 (450 XP)
 >___
 >***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fire Elemental Myrmidon
 >*Medium #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|15 (+2)|9 (-1)|10 (+0)|10 (+0)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire, poison
->- **Condition Immunities** paralyzed, petrified, poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Ignan, one language of its creator's choice
->- #cr7 (2,900 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Ignan, one language of its creator's choice
+>
+> #cr7 (2,900 XP)
 >___
 >***Illumination.*** The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.  
 >

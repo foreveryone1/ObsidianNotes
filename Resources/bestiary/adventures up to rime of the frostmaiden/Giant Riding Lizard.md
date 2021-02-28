@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Riding Lizard
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Senses** darkvision 30 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Spider Climb.*** The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

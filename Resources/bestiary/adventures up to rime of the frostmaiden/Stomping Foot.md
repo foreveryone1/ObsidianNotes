@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stomping Foot
 >*Tiny #undead , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|11 (+0)|5 (-3)|10 (+0)|4 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 10
->- **Languages** understands Common but can't speak
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 10
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Turn Immunity.*** The foot is immune to effects that turn undead.  
 >

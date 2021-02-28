@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Howling Hatred Initiate
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|10 (+0)|9 (-1)|11 (+0)|
 >___
->- **Skills** Deception +2, Religion +2, Stealth +4
->- **Senses** passive Perception 9
->- **Languages** Common
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +2, Religion +2, Stealth +4
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Guiding Wind (Recharges after a Short or Long Rest).*** As a bonus action, the initiate gains advantage on the next ranged attack roll it makes before the end of its next turn.  
 >

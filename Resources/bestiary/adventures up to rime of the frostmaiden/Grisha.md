@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grisha
 >*Medium #humanoid (Damaran human), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|12 (+1)|11 (+0)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Wis +4, Cha +5
->- **Skills** Persuasion +5, Religion +2
->- **Senses** passive Perception 12
->- **Languages** Common, Undercommon
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Wis +4, Cha +5
+>- **Skills**
+>	 - Persuasion +5, Religion +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** Grisha is a 6th-level-spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:  
 >

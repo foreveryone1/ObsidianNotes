@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ice Toad
 >*Medium #monstrosity , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|10 (+0)|14 (+2)|8 (-1)|10 (+0)|6 (-2)|
 >___
->- **Skills** Perception +2
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Ice Toad
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Ice Toad
+>
+> #cr1 (200 XP)
 >___
 >***Amphibious.*** The toad can breathe air or water.  
 >

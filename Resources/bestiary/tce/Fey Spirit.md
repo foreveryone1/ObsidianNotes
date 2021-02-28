@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fey Spirit
 >*Small #fey , , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|16 (+3)|
 >___
->- **Condition Immunities** charmed
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Sylvan, understands the languages you speak
->- #cr-unavailable
+>- **Condition Immunities**
+>	 - charmed
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Sylvan, understands the languages you speak
+>
+> #cr-unavailable
 >___
 ## Actions
 >***Multiattack.*** The #fey ,  makes a number of attacks equal to half this spell's level (rounded down).  

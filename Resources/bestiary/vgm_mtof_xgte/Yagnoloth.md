@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yagnoloth
 >*Large #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +6, Int +7, Wis +6, Cha +8
->- **Skills** Deception +8, Insight +6, Perception +6, Persuasion +8
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 16
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +7, Wis +6, Cha +8
+>- **Skills**
+>	 - Deception +8, Insight +6, Perception +6, Persuasion +8
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr11 (7,200 XP)
 >___
 >***Innate Spellcasting.*** The yagnoloth's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:  
 >

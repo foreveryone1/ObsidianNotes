@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Felgolos
 >*Huge #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
->- **Skills** Insight +7, Perception +12, Stealth +5
->- **Damage Immunities** lightning
->- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
->- **Languages** Common, Draconic
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +11, Wis +7, Cha +9
+>- **Skills**
+>	 - Insight +7, Perception +12, Stealth +5
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 120 ft., passive Perception 22
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr15 (13,000 XP)
 >___
 >***Amphibious.*** Felgolos can breathe air and water.  
 >
@@ -33,9 +43,11 @@
 >***Frightful Presence.*** Each creature of Felgolos's choice that is within 120 feet of Felgolos and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Felgolos's Frightful Presence for the next 24 hours.  
 >
 >***Breath Weapons (Recharge 5–6).*** Felgolos uses one of the following breath weapons.  
->- **Lightning Breath.** Felgolos exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+>- **Lightning Breath**
+>	- Felgolos exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 >
->- **Repulsion Breath.** Felgolos exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from Felgolos.
+>- **Repulsion Breath**
+>	- Felgolos exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from Felgolos.
 >
 >
 >***Change Shape.*** Felgolos magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (Felgolos's choice).  
@@ -44,6 +56,9 @@
 ## Legendary Actions
 >Felgolos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Felgolos regains spent legendary actions at the start of its turn.
 >
->- **Detect.** Felgolos makes a Wisdom (Perception) check.
->- **Tail Attack.** Felgolos makes a tail attack.
->- **Wing Attack (Costs 2 Actions).** Felgolos beats its wings. Each creature within 10 feet of Felgolos must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Felgolos can then fly up to half its flying speed.
+>- **Detect**
+>	- Felgolos makes a Wisdom (Perception) check.
+>- **Tail Attack**
+>	- Felgolos makes a tail attack.
+>- **Wing Attack (Costs 2 Actions)**
+>	- Felgolos beats its wings. Each creature within 10 feet of Felgolos must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Felgolos can then fly up to half its flying speed.

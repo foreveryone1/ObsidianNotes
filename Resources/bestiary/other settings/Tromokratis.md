@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tromokratis
 >*Gargantuan monstrosity (titan), any alignment*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|11 (+0)|29 (+9)|22 (+6)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Int +14, Wis +8
->- **Damage Resistances** cold, lightning, thunder
->- **Damage Immunities** fire; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, frightened, paralyzed, restrained
->- **Senses** blindsight 120 ft., passive Perception 10
->- **Languages** —
->- #cr26 (90,000 XP, or 180,000 XP as a mythic encounter)
+>- **Saving Throws**
+>	 - Int +14, Wis +8
+>- **Damage Resistances**
+>	 - cold, lightning, thunder
+>- **Damage Immunities**
+>	 - fire; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, restrained
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr26 (90,000 XP, or 180,000 XP as a mythic encounter)
 >___
 >***Amphibious.*** Tromokratis can breathe air and water.  
 >
@@ -44,15 +55,20 @@
 ## Legendary Actions
 >Tromokratis can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tromokratis regains spent legendary actions at the start of its turn.
 >
->- **Move.** Tromokratis moves up to half its speed.
->- **Tail.** Tromokratis makes one tail attack.
->- **Bite (Costs 3 Actions).** Tromokratis makes one bite attack.
+>- **Move.** 
+> Tromokratis moves up to half its speed.
+>- **Tail.** 
+>	- Tromokratis makes one tail attack.
+>- **Bite (Costs 3 Actions).** 
+> Tromokratis makes one bite attack.
 >
->### Mythic Actions
+### Mythic Actions
 >If Tromokratis's mythic trait is active, it can use the options below as legendary actions for 1 hour after using Hearts of the Kraken.
 >
->- **Rampage.** Tromokratis makes two attacks: one with its tail and one with its tentacle grasp.
->- **Coral Growth (Costs 2 Actions).** Each creature within 10 feet of Tromokratis must make a DC 25 Dexterity saving throw, taking 13 (3d8) slashing damage on a failed save, or half as much damage on a successful one. Until the start of its next turn, Tromokratis and its hearts gain a +2 bonus to AC.
+>- **Rampage.** 
+> Tromokratis makes two attacks: one with its tail and one with its tentacle grasp.
+>- **Coral Growth (Costs 2 Actions).** 
+> Each creature within 10 feet of Tromokratis must make a DC 25 Dexterity saving throw, taking 13 (3d8) slashing damage on a failed save, or half as much damage on a successful one. Until the start of its next turn, Tromokratis and its hearts gain a +2 bonus to AC.
 ## Tromokratis
 Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken Tromokratis notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, Tromokratis numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for Tromokratis.
 #### Tromokratis as a Mythic Encounter

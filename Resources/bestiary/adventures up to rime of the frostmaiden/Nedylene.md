@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nedylene
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|13 (+1)|17 (+3)|18 (+4)|
 >___
->- **Saving Throws** Con +4, Wis +6, Cha +7
->- **Skills** Insight +6, Perception +6, Religion +4, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Elvish, Undercommon
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +6, Cha +7
+>- **Skills**
+>	 - Insight +6, Perception +6, Religion +4, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr8 (3,900 XP)
 >___
 >***Special Equipment.*** Nedylene carries a staff of swarming insects.  
 >

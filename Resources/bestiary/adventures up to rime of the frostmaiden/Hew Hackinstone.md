@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hew Hackinstone
 >*Medium #humanoid (dwarf), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Skills** Survival +4
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** any one language (usually Common)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Survival +4
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr2 (450 XP)
 >___
 >***Dwarven Resilience.*** Hew has resistance to poison damage and advantage on saving throws against being poisoned.  
 >

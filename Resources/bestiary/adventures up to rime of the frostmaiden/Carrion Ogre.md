@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Carrion Ogre
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|1 (-5)|7 (-2)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common, Giant
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr2 (450 XP)
 >___
 >***Tied Down.*** While lashed to the floor, the creature is prone and restrained. It also suffers from two levels of exhaustion.  
 >

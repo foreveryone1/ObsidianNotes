@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giants
 Ancient empires once cast long shadows over a world that quaked beneath the giants' feet. In those lost days, these towering figures were dragon slayers, dreamers, crafters, and kings, but their kind fell from glory long ago. However, even divided among secluded clans scattered throughout the world, the giants maintain the customs and traditions of old.
 ### Old as Legend

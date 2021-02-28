@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Core Spawn Emissary
 >*Medium #aberration , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|18 (+4)|8 (-1)|13 (+1)|8 (-1)|
 >___
->- **Saving Throws** Dex +5, Wis +4, Cha +2
->- **Skills** Perception +4
->- **Damage Immunities** psychic
->- **Condition Immunities** blinded
->- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 14
->- **Languages** telepathy 120 ft., understands Deep Speech but can't speak
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +4, Cha +2
+>- **Skills**
+>	 - Perception +4
+>- **Damage Immunities**
+>	 - psychic
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - blindsight 30 ft., tremorsense 60 ft., passive Perception 14
+>- **Languages**
+>	 - telepathy 120 ft., understands Deep Speech but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Magic Resistance.*** The emissary has advantage on saving throws against spells and other magical effects.  
 >

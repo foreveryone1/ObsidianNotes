@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ott Steeltoes
 >*Medium #humanoid (dwarf), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|10 (+0)|6 (-2)|11 (+0)|10 (+0)|
 >___
->- **Skills** Deception +2, Religion +0
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Dwarvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Deception +2, Religion +0
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.  
 >

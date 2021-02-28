@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Colossus of Akros
 >*Gargantuan #construct , unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|10 (+0)|25 (+7)|3 (-4)|11 (+0)|1 (-5)|
 >___
->- **Saving Throws** Str +16, Con +14
->- **Skills** Athletics +16, Perception +7
->- **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** understands Common and Celestial but can't speak
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Str +16, Con +14
+>- **Skills**
+>	 - Athletics +16, Perception +7
+>- **Damage Immunities**
+>	 - fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - understands Common and Celestial but can't speak
+>
+> #cr23 (50,000 XP)
 >___
 >***Crumbling Destruction.*** When the colossus drops to 0 hit points, it crumbles and is destroyed. Any creature on the ground within 30 feet of the crumbling statue must make a DC 22 Dexterity saving throw, taking 22 (4d10) bludgeoning damage and 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.  
 >

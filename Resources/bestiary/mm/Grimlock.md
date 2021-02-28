@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Grimlock
 >*Medium #humanoid (grimlock), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|12 (+1)|9 (-1)|8 (-1)|6 (-2)|
 >___
->- **Skills** Athletics +5, Perception +3, Stealth +3
->- **Condition Immunities** blinded
->- **Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
->- **Languages** Undercommon
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Athletics +5, Perception +3, Stealth +3
+>- **Condition Immunities**
+>	 - blinded
+>- **Senses**
+>	 - blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
+>- **Languages**
+>	 - Undercommon
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Blind Senses.*** The grimlock can't use its blindsight while deafened and unable to smell.  
 >

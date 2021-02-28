@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vampire
 >*Medium undead (shapechanger), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +9, Wis +7, Cha +9
->- **Skills** Perception +7, Stealth +9
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** the languages it knew in life
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Wis +7, Cha +9
+>- **Skills**
+>	 - Perception +7, Stealth +9
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr13 (10,000 XP)
 >___
 >***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.  
 >While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  
@@ -51,9 +61,12 @@
 ## Legendary Actions
 >The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
 >
->- **Move.** The vampire moves up to its speed without provoking opportunity attacks.
->- **Unarmed Strike.** The vampire makes one unarmed strike.
->- **Bite (Costs 2 Actions).** The vampire makes one bite attack.
+>- **Move**
+>	- The vampire moves up to its speed without provoking opportunity attacks.
+>- **Unarmed Strike**
+>	- The vampire makes one unarmed strike.
+>- **Bite (Costs 2 Actions)**
+>	- The vampire makes one bite attack.
 ## Vampire
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 ***Dark Desires.*** Whether or not a vampire retains any memories from its former life, its emotional attachments wither as once-pure feelings become twisted by undeath. Love turns into hungry obsession, while friendship becomes bitter jealousy. In place of emotion, vampires pursue physical symbols of what they crave, so that a vampire seeking love might fixate on a young beauty. A child might become an object of fascination for a vampire obsessed with youth and potential. Others surround themselves with art, books, or sinister items such as torture devices or trophies from creatures they have killed.

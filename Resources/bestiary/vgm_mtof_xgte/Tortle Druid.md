@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tortle Druid
 >*Medium #humanoid (tortle), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|12 (+1)|11 (+0)|15 (+2)|12 (+1)|
 >___
->- **Skills** Animal Handling +4, Nature +2, Survival +4
->- **Senses** passive Perception 12
->- **Languages** Aquan, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Animal Handling +4, Nature +2, Survival +4
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr2 (450 XP)
 >___
 >***Hold Breath.*** The tortle can hold its breath for 1 hour.  
 >

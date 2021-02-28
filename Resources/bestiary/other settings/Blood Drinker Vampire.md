@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blood Drinker Vampire
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|18 (+4)|17 (+3)|16 (+3)|13 (+1)|19 (+4)|
 >___
->- **Saving Throws** Dex +7, Con +6, Wis +4
->- **Skills** Intimidation +7, Perception +4, Stealth +7
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** the languages it knew in life
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +6, Wis +4
+>- **Skills**
+>	 - Intimidation +7, Perception +4, Stealth +7
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr8 (3,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The vampire makes three melee attacks, only one of which can be a bite attack.  

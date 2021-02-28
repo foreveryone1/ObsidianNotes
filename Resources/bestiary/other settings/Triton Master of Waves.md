@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Triton Master of Waves
 >*Medium #humanoid (triton), neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|16 (+3)|10 (+0)|12 (+1)|19 (+4)|
 >___
->- **Saving Throws** Dex +3, Int +3, Cha +7
->- **Skills** Athletics +6, Nature +6, Survival +4
->- **Damage Resistances** cold, fire
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Primordial
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +3, Int +3, Cha +7
+>- **Skills**
+>	 - Athletics +6, Nature +6, Survival +4
+>- **Damage Resistances**
+>	 - cold, fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Primordial
+>
+> #cr8 (3,900 XP)
 >___
 >***Amphibious.*** The triton can breathe air and water.  
 >

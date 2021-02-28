@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Awakened Shrub
 >*Small #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|8 (-1)|11 (+0)|10 (+0)|10 (+0)|6 (-2)|
 >___
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** piercing
->- **Senses** passive Perception 10
->- **Languages** one language known by its creator
->- ** #cr0 **(0 or 10 XP)
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - piercing
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - one language known by its creator
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***False Appearance.*** While the shrub remains motionless, it is indistinguishable from a normal shrub.  
 >

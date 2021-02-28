@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vladimir Horngaard
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Str +7, Con +7, Wis +6, Cha +7
->- **Damage Resistances** necrotic, psychic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Draconic
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +7, Wis +6, Cha +7
+>- **Damage Resistances**
+>	 - necrotic, psychic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth.   
 >

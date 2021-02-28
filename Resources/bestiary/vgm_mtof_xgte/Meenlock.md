@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Meenlock
 >*Small #fey , , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)|
 >___
->- **Skills** Perception +4, Stealth +6, Survival +2
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** telepathy 120 ft.
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +6, Survival +2
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - telepathy 120 ft.
+>
+> #cr2 (450 XP)
 >___
 >***Fear Aura.*** Any beast or humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be frightened until the start of the creature's next turn.  
 >

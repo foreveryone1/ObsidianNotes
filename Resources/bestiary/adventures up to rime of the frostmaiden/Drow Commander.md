@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Commander
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|12 (+1)|
 >___
->- **Saving Throws** Dex +7, Con +5, Wis +4
->- **Skills** Perception +4, Stealth +10
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Elvish, Undercommon
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +5, Wis +4
+>- **Skills**
+>	 - Perception +4, Stealth +10
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr5 (1,800 XP)
 >___
 >***Special Equipment.*** The drow carries three magical bolts, as follows:  
 >- A bolt of holding, which casts hold person on a target hit with the bolt, as well as up to two other targets within 30 feet of that target

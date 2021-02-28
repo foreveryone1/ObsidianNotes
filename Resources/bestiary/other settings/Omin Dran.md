@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Omin Dran
 >*Medium #humanoid (half-elf), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|14 (+2)|11 (+0)|18 (+4)|12 (+1)|
 >___
->- **Saving Throws** Wis +7, Cha +4
->- **Skills** Deception +4, Insight +7, Intimidation +4, Medicine +7, Perception +7, Persuasion +4
->- **Senses** darkvision 60 ft., passive Perception 17
->- **Languages** Common, Dwarvish, Elvish, Goblin
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +7, Cha +4
+>- **Skills**
+>	 - Deception +4, Insight +7, Intimidation +4, Medicine +7, Perception +7, Persuasion +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Dwarvish, Elvish, Goblin
+>
+> #cr5 (1,800 XP)
 >___
 >***Divine Strike.*** Once on each of his turns when he hits a creature with a weapon attack, Omin can cause the attack to deal an extra 4 (1d8) damage of the same type dealt by the weapon.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Awakened White Moose
 >*Large #beast , neutral evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|16 (+3)|10 (+0)|12 (+1)|6 (-2)|
 >___
->- **Senses** passive Perception 11
->- **Languages** Druidic
->- #cr3 (700 XP)
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Druidic
+>
+> #cr3 (700 XP)
 >___
 >***Charge.*** If the moose moves at least 20 feet straight toward a target and then hits it with an antlers attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.  
 >

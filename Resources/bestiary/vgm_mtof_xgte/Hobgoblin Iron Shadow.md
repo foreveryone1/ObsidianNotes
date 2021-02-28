@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hobgoblin Iron Shadow
 >*Medium #humanoid (goblinoid), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)|
 >___
->- **Skills** Acrobatics +5, Athletics +4, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Goblin
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Acrobatics +5, Athletics +4, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:  
 >

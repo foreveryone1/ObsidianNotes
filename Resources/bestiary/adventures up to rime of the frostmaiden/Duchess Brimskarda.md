@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duchess Brimskarda
 >*Huge #giant , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|23 (+6)|14 (+2)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +3, Con +10, Cha +5
->- **Skills** Athletics +11, Perception +6
->- **Damage Immunities** fire
->- **Senses** passive Perception 16
->- **Languages** Common, Giant, Goblin
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +10, Cha +5
+>- **Skills**
+>	 - Athletics +11, Perception +6
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Giant, Goblin
+>
+> #cr9 (5,000 XP)
 >___
 >***Special Equipment.*** Brimskarda carries a potion of invisibility, which she quaffs on her first turn in combat.  
 >

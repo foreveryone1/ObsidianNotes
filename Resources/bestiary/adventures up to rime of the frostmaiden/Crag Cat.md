@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Crag Cat
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|16 (+3)|4 (-3)|14 (+2)|8 (-1)|
 >___
->- **Skills** Perception +4, Stealth +7
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +7
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Nondetection.*** The cat cannot be targeted or detected by any divination magic or perceived through magical scrying sensors.  
 >

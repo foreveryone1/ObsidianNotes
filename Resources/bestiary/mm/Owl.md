@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Owl
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|8 (-1)|2 (-4)|12 (+1)|7 (-2)|
 >___
->- **Skills** Perception +3, Stealth +3
->- **Senses** darkvision 120 ft., passive Perception 13
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +3
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

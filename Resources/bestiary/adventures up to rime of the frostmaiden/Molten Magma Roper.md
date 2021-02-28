@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Molten Magma Roper
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|17 (+3)|7 (-2)|16 (+3)|6 (-2)|
 >___
->- **Skills** Perception +6, Stealth +5
->- **Damage Vulnerabilities** cold
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +6, Stealth +5
+>- **Damage Vulnerabilities**
+>	 - cold
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***False Appearance.*** While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chardalyn Berserker
 >*Medium #fiend , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Skills** Survival +4
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Survival +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr4 (1,100 XP)
 >___
 >***Chardalyn Madness.*** The berserker must roll a d6 at the start of each of its turns. On a 1, the berserker does nothing on its turn except speak to a nonexistent, evil master whom it has pledged to serve.  
 >

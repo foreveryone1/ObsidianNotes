@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yestabrod
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|14 (+2)|13 (+1)|15 (+2)|10 (+0)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Abyssal, telepathy 60 ft.
->- #cr4 (1,100 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, telepathy 60 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Legendary Resistance (1/Day).*** If Yestabrod fails a saving throw, it can choose to succeed instead.  
 >
@@ -28,5 +37,7 @@
 ## Legendary Actions
 >Yestabrod can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Yestabrod regains spent legendary actions at the start of its turn.
 >
->- **Corpse Burst.** Gore, offal, and acid erupt from a corpse within 20 feet of Yestabrod. Creatures within 10 feet of the corpse must succeed on a DC 12 Dexterity saving throw or take 7 (2d6) acid damage.
->- **Foul Absorption.** Yestabrod absorbs putrescence from a corpse within 5 feet of it, regaining 1d8 + 2 hit points
+>- **Corpse Burst**
+>	- Gore, offal, and acid erupt from a corpse within 20 feet of Yestabrod. Creatures within 10 feet of the corpse must succeed on a DC 12 Dexterity saving throw or take 7 (2d6) acid damage.
+>- **Foul Absorption**
+>	- Yestabrod absorbs putrescence from a corpse within 5 feet of it, regaining 1d8 + 2 hit points

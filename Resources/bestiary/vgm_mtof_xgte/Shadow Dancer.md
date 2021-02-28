@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadow Dancer
 >*Medium #humanoid (elf), neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|11 (+0)|12 (+1)|12 (+1)|
 >___
->- **Saving Throws** Dex +6, Cha +4
->- **Skills** Stealth +6
->- **Damage Resistances** necrotic
->- **Condition Immunities** charmed, exhaustion
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Elvish
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Cha +4
+>- **Skills**
+>	 - Stealth +6
+>- **Damage Resistances**
+>	 - necrotic
+>- **Condition Immunities**
+>	 - charmed, exhaustion
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr7 (2,900 XP)
 >___
 >***Fey Ancestry.*** The shadow dancer has advantage on saving throws against being charmed, and magic can't put it to sleep.  
 >

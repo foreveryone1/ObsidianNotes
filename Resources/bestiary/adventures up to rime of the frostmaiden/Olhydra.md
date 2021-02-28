@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Olhydra
 >*Huge #elemental , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|22 (+6)|24 (+7)|17 (+3)|18 (+4)|23 (+6)|
 >___
->- **Saving Throws** Str +11, Con +13, Wis +10
->- **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, cold, poison
->- **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** blindsight 120 ft., passive Perception 14
->- **Languages** Aquan
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Str +11, Con +13, Wis +10
+>- **Damage Resistances**
+>	 - lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, cold, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Aquan
+>
+> #cr18 (20,000 XP)
 >___
 >***Empowered Attacks.*** Olhydra's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical attacks.  
 >
@@ -45,9 +56,12 @@
 ## Legendary Actions
 >Olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Olhydra regains spent legendary actions at the start of its turn.
 >
->- **Crush.** One creature that Olhydra is grappling is crushed for 21 (3d10 + 5) bludgeoning damage.
->- **Fling (Costs 2 Actions).** Olhydra releases one creature she is grappling by flinging the creature up to 60 feet away from her, in a direction of her choice. If the flung creature comes into contact with a solid surface, such as a wall or floor, the creature takes 1d6 bludgeoning damage for every 10 feet it was flung.
->- **Water to Acid (Costs 3 Actions).** Olhydra transforms her watery body into acid. This effect lasts until Olhydra's next turn. Any creature that comes into contact with Olhydra or hits her with a melee attack while standing within 5 feet of her takes 11 (2d10) acid damage. Any creature grappled by Olhydra takes 22 (4d10) acid damage at the start of its turn.
+>- **Crush**
+>	- One creature that Olhydra is grappling is crushed for 21 (3d10 + 5) bludgeoning damage.
+>- **Fling (Costs 2 Actions)**
+>	- Olhydra releases one creature she is grappling by flinging the creature up to 60 feet away from her, in a direction of her choice. If the flung creature comes into contact with a solid surface, such as a wall or floor, the creature takes 1d6 bludgeoning damage for every 10 feet it was flung.
+>- **Water to Acid (Costs 3 Actions)**
+>	- Olhydra transforms her watery body into acid. This effect lasts until Olhydra's next turn. Any creature that comes into contact with Olhydra or hits her with a melee attack while standing within 5 feet of her takes 11 (2d10) acid damage. Any creature grappled by Olhydra takes 22 (4d10) acid damage at the start of its turn.
 ## Olhydra
 Olhydra is the Princess of Evil Water. Sometimes known as the Crushing Wave, the Dark Tide, or the Well of Endless Anguish, she takes the form of a great wave, 20 feet high and 15 feet wide, with opalescent eyes. She prefers to remain in or near large bodies of water-seas, lakes, rivers, or sometimes great subterranean pools. When she needs to, she can surge onto dry land, moving much like a wave rushing up onto the shore, but only great anger or desperation would drive Olhydra to move more than a few hundred feet from her native element.
 Olhydra surges forth tirelessly and relentlessly. She delights in creating dangerous and destructive manifestations of elemental water, especially maelstroms and floods. She is eager to assert her power by smashing any vessel that dares to venture into her realm, and lays waste to villages or towns established within her reach. Olhydra erodes that which she can't batter and drown; she is patient, retreating in the face of adversity only to return stronger than before.

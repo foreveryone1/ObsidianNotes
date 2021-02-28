@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # The Lord of Blades
 >*Medium #humanoid (warforged), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|19 (+4)|17 (+3)|18 (+4)|
 >___
->- **Saving Throws** Str +11, Con +10, Int +10, Wis +9
->- **Skills** Arcana +10, Athletics +11, History +10, Perception +9
->- **Damage Resistances** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** passive Perception 19
->- **Languages** Common, Draconic, Dwarvish, Elvish
->- #cr18 (20,000 XP)
+>- **Saving Throws**
+>	 - Str +11, Con +10, Int +10, Wis +9
+>- **Skills**
+>	 - Arcana +10, Athletics +11, History +10, Perception +9
+>- **Damage Resistances**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - passive Perception 19
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish
+>
+> #cr18 (20,000 XP)
 >___
 >***Adamantine Plating.*** Any critical hit against the Lord of Blades becomes a normal hit.  
 >
@@ -48,10 +59,14 @@
 ## Legendary Actions
 >The Lord of Blades can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The Lord of Blades regains spent legendary actions at the start of its turn.
 >
->- **Attack.** The Lord of Blades makes one weapon attack.
->- **Cantrip.** The Lord of Blades casts one of his cantrips.
->- **Cast a Spell (Costs 2 Actions).** The Lord of Blades casts a spell of 2nd level or lower from his spell list that takes 1 action to cast.
->- **Blade Dash (Costs 3 Actions).** The Lord of Blades moves up to his speed without provoking opportunity attacks, then makes one attack with his adamantine sixblade. He can make one bladed wings attack against each creature he moves past.
+>- **Attack**
+>	- The Lord of Blades makes one weapon attack.
+>- **Cantrip**
+>	- The Lord of Blades casts one of his cantrips.
+>- **Cast a Spell (Costs 2 Actions)**
+>	- The Lord of Blades casts a spell of 2nd level or lower from his spell list that takes 1 action to cast.
+>- **Blade Dash (Costs 3 Actions)**
+>	- The Lord of Blades moves up to his speed without provoking opportunity attacks, then makes one attack with his adamantine sixblade. He can make one bladed wings attack against each creature he moves past.
 ## The Lord of Blades
 The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
 Some tales assert that the Lord of Blades led the warforged armies of Cyre in the Last War. Others cast him as a newer warforged, perhaps the last to come out of the Cannith creation forges before the Thronehold Accords led to their dismantling. One story claims the Lord of Blades caused the destruction of Cyre and warns that he plans to repeat the Day of Mourning in each of the remaining Five Nations. Whatever the truth, he has become a beacon for warforged everywhere.

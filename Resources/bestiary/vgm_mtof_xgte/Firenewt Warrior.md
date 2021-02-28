@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Firenewt Warrior
 >*Medium #humanoid (firenewt), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|7 (-2)|11 (+0)|8 (-1)|
 >___
->- **Damage Immunities** fire
->- **Senses** passive Perception 10
->- **Languages** Draconic, Ignan
->- ** #cr1-2 ** (100 XP)
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Draconic, Ignan
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** The firenewt can breathe air and water.  
 >

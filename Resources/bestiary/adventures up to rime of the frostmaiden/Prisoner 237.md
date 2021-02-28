@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Prisoner 237
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|14 (+2)|17 (+3)|10 (+0)|15 (+2)|
 >___
->- **Skills** Arcana +5, Deception +4, Persuasion +4
->- **Senses** passive Perception 10
->- **Languages** Common, Draconic, Infernal, Orc
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Arcana +5, Deception +4, Persuasion +4
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Draconic, Infernal, Orc
+>
+> #cr1 (200 XP)
 >___
 >***Spellcasting.*** Prisoner 237 is a 5th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). He has the following wizard spells prepared:  
 >

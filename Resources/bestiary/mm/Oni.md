@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oni
 >*Large #giant , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
 >___
->- **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
->- **Skills** Arcana +5, Deception +8, Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Giant
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +3, Con +6, Wis +4, Cha +5
+>- **Skills**
+>	 - Arcana +5, Deception +8, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:  
 >

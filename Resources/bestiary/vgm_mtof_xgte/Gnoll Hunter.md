@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnoll Hunter
 >*Medium #humanoid (gnoll), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|12 (+1)|8 (-1)|12 (+1)|8 (-1)|
 >___
->- **Skills** Perception +3, Stealth +4
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Gnoll
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Gnoll
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.  
 >

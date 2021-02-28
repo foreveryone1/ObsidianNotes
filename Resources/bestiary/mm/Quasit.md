@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quasit
 >*Tiny #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|17 (+3)|10 (+0)|7 (-2)|10 (+0)|10 (+0)|
 >___
->- **Skills** Stealth +5
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Abyssal, Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr1 (200 XP)
 >___
 >***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

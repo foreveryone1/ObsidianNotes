@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Xorn
 >*Medium #elemental , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Perception +6, Stealth +3
->- **Damage Resistances** piercing and slashing from nonmagical attacks that aren't adamantine
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
->- **Languages** Terran
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +6, Stealth +3
+>- **Damage Resistances**
+>	 - piercing and slashing from nonmagical attacks that aren't adamantine
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+>- **Languages**
+>	 - Terran
+>
+> #cr5 (1,800 XP)
 >___
 >***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.  
 >

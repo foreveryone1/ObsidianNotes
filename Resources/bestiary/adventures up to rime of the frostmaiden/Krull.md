@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Krull
 >*Medium #humanoid (tortle), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|15 (+2)|12 (+1)|20 (+5)|12 (+1)|
 >___
->- **Saving Throws** Wis +8, Cha +4
->- **Skills** Arcana +4, Medicine +8, Nature +4, Survival +8
->- **Senses** passive Perception 15
->- **Languages** Aquan, Common, Draconic
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Wis +8, Cha +4
+>- **Skills**
+>	 - Arcana +4, Medicine +8, Nature +4, Survival +8
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Aquan, Common, Draconic
+>
+> #cr6 (2,300 XP)
 >___
 >***Hold Breath.*** Krull can hold his breath for 1 hour.  
 >

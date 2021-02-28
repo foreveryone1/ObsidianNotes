@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Noska Ur'gray
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 >___
->- **Skills** Intimidation +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Dwarvish
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Intimidation +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Difficult Climber.*** Noska has disadvantage on Strength checks made to climb, due to his disability.  
 >

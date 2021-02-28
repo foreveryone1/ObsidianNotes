@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Darkling Elder
 >*Medium #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|13 (+1)|
 >___
->- **Skills** Acrobatics +5, Deception +3, Perception +6, Stealth +7
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
->- **Languages** Elvish, Sylvan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Acrobatics +5, Deception +3, Perception +6, Stealth +7
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Elvish, Sylvan
+>
+> #cr2 (450 XP)
 >___
 >***Death Burn.*** When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failure, the creature takes 7 (2d6) radiant damage and, if the creature can see the light, is blinded until the end of its next turn. If the saving throw is successful, the creature takes half the damage and isn't blinded.  
 >

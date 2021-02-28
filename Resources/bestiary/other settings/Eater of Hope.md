@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Eater of Hope
 >*Large #fiend , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|14 (+2)|12 (+1)|11 (+0)|16 (+3)|
 >___
->- **Saving Throws** Con +5, Cha +6
->- **Skills** Deception +6, Intimidation +6, Persuasion +6
->- **Damage Resistances** cold, necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Abyssal, Common, Infernal
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Con +5, Cha +6
+>- **Skills**
+>	 - Deception +6, Intimidation +6, Persuasion +6
+>- **Damage Resistances**
+>	 - cold, necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> #cr6 (2,300 XP)
 >___
 >***Insatiable Greed.*** The eater of hope can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.  
 >

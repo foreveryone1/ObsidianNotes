@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Keresta Delvingstone
 >*Medium undead (shapechanger), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +9, Wis +7, Cha +9
->- **Skills** Perception +7, Stealth +9
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** the languages it knew in life
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Wis +7, Cha +9
+>- **Skills**
+>	 - Perception +7, Stealth +9
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr13 (10,000 XP)
 >___
 >***Shapechanger.*** If Keresta isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.  
 >While in bat form, Keresta can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  
@@ -61,9 +71,12 @@
 ## Legendary Actions
 >Keresta can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Keresta regains spent legendary actions at the start of its turn.
 >
->- **Move.** Keresta moves up to its speed without provoking opportunity attacks.
->- **Unarmed Strike.** Keresta makes one unarmed strike.
->- **Bite (Costs 2 Actions).** Keresta makes one bite attack.
+>- **Move**
+>	- Keresta moves up to its speed without provoking opportunity attacks.
+>- **Unarmed Strike**
+>	- Keresta makes one unarmed strike.
+>- **Bite (Costs 2 Actions)**
+>	- Keresta makes one bite attack.
 ## Keresta Delvingstone
 Keresta Delvingstone grew up in the streets of Waterdeep and is no stranger to hardship. Hoping to make a better life for herself, she became an adventurer and sought fame and fortune in Undermountain. Keresta met her end in the lair of a vampire and became a vampire spawn under its command.
 After Vanrak destroyed the vampire and conquered its lair, he took Keresta under his wing. Consumed by darkness and loss, Keresta was drawn to Shar like a moth to a flame and rose to become a vampire cleric of the evil god. She now leads Shar's debased cult in Vanrakdoom and intends to send the group on a mission to destroy the Spires of the Morning, the temple of Lathander (god of birth and renewal) in Waterdeep. She also has her sights set on destroying the House of the Moon—Waterdeep's temple of Selûne, whom she blames for the destruction of Vanrak Moonstar.

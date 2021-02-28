@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Eidolon
 >*Medium #undead , any alignment*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|8 (-1)|9 (-1)|14 (+2)|19 (+4)|16 (+3)|
 >___
->- **Saving Throws** Wis +8
->- **Skills** Perception +8
->- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** the languages it knew in life
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Wis +8
+>- **Skills**
+>	 - Perception +8
+>- **Damage Resistances**
+>	 - acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr12 (8,400 XP)
 >___
 >***Incorporeal Movement.*** The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dolgrim
 >*Small #aberration , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Deep Speech, Goblin
->- ** #cr1-2 ** (100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Deep Speech, Goblin
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Dual Consciousness.*** The dolgrim has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.  
 >

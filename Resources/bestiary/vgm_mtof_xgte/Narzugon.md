@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Narzugon
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|17 (+3)|16 (+3)|14 (+2)|19 (+4)|
 >___
->- **Saving Throws** Dex +5, Con +8, Cha +9
->- **Skills** Perception +7
->- **Damage Resistances** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** Common, Infernal, telepathy 120 ft.
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +8, Cha +9
+>- **Skills**
+>	 - Perception +7
+>- **Damage Resistances**
+>	 - acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Infernal, telepathy 120 ft.
+>
+> #cr13 (10,000 XP)
 >___
 >***Diabolical Sense.*** The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.  
 >

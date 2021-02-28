@@ -1,0 +1,13 @@
+/*--Blockquote--*/
+.markdown-preview-view blockquote {
+    background-color: var(--background-secondary);
+    border-left-width: 8px;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-radius: var(--border-radius);
+    position: relative;
+    margin: 2%;
+    padding-right: 0%; /*Don't overlap with "*/
+}
+

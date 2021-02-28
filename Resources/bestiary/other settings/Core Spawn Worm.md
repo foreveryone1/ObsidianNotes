@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Core Spawn Worm
 >*Gargantuan #aberration , chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|5 (-3)|20 (+5)|6 (-2)|8 (-1)|4 (-3)|
 >___
->- **Saving Throws** Con +10, Wis +4
->- **Skills** Perception +4
->- **Damage Vulnerabilities** cold
->- **Damage Immunities** fire, psychic
->- **Condition Immunities** charmed, frightened
->- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 14
->- **Languages** understands Deep Speech but can't speak
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Con +10, Wis +4
+>- **Skills**
+>	 - Perception +4
+>- **Damage Vulnerabilities**
+>	 - cold
+>- **Damage Immunities**
+>	 - fire, psychic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - blindsight 30 ft., tremorsense 60 ft., passive Perception 14
+>- **Languages**
+>	 - understands Deep Speech but can't speak
+>
+> #cr15 (13,000 XP)
 >___
 >***Illumination.*** The worm sheds dim light in a 20-foot radius.  
 >

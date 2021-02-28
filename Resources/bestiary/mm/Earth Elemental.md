@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Earth Elemental
 >*Large #elemental , neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|8 (-1)|20 (+5)|5 (-3)|10 (+0)|5 (-3)|
 >___
->- **Damage Vulnerabilities** thunder
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
->- **Languages** Terran
->- #cr5 (1,800 XP)
+>- **Damage Vulnerabilities**
+>	 - thunder
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, paralyzed, petrified, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+>- **Languages**
+>	 - Terran
+>
+> #cr5 (1,800 XP)
 >___
 >***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duvessa Shane
 >*Medium #humanoid (Illuskan human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|11 (+0)|10 (+0)|16 (+3)|14 (+2)|16 (+3)|
 >___
->- **Skills** Deception +5, Insight +4, Persuasion +5
->- **Senses** passive Perception 12
->- **Languages** Common, Dwarvish, Giant, Orc
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Deception +5, Insight +4, Persuasion +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish, Giant, Orc
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Roleplaying Information.*** The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of Bryn Shander, and a young one at that, she has much to prove.  
 >Ideal: "The people of Icewind Dale are survivors. They can weather any storm."  

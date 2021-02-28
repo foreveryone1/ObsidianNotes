@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thane Kayalithica
 >*Huge #giant , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +5, Con +8, Wis +4
->- **Skills** Athletics +12, Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Giant
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +8, Wis +4
+>- **Skills**
+>	 - Athletics +12, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Giant
+>
+> #cr7 (2,900 XP)
 >___
 >***Olach Morrah.*** The giant meditates for 1 hour, during which time it can do nothing else. At the end of the hour, provided the giant's meditation has been uninterrupted, it becomes petrified for 8 hours. At the end of this time, the giant is no longer petrified and gains tremorsense out to a range of 30 feet, as well as a measure of innate spellcasting ability based on Wisdom. For the next 24 hours, it can innately cast the following spells, requiring no material components:  
 >3/day: meld into stone, stone shape  

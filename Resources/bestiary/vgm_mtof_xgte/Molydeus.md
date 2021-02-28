@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Molydeus
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|22 (+6)|25 (+7)|21 (+5)|24 (+7)|24 (+7)|
 >___
->- **Saving Throws** Str +16, Con +14, Wis +14, Cha +14
->- **Skills** Perception +21
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, frightened, poisoned, stunned
->- **Senses** truesight 120 ft., passive Perception 31
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Str +16, Con +14, Wis +14, Cha +14
+>- **Skills**
+>	 - Perception +21
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, frightened, poisoned, stunned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 31
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr21 (33,000 XP)
 >___
 >***Innate Spellcasting.*** The molydeus's innate spellcasting ability is Charisma (spell save DC 22). It can innately cast the following spells, requiring no material components:  
 >
@@ -44,9 +56,12 @@
 ## Legendary Actions
 >The molydeus can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The molydeus regains spent legendary actions at the start of its turn.
 >
->- **Attack.** The molydeus makes one attack, either with its demonic weapon or with its snakebite.
->- **Move.** The molydeus moves without provoking opportunity attacks.
->- **Cast a Spell.** The molydeus casts one spell from its Innate Spellcasting trait.
+>- **Attack.**
+> The molydeus makes one attack, either with its demonic weapon or with its snakebite.
+>- **Move.**
+> The molydeus moves without provoking opportunity attacks.
+>- **Cast a Spell.**
+> The molydeus casts one spell from its Innate Spellcasting trait.
 ## Molydeus
 ***Molydeus.*** The most ruthless and dangerous of demons—more feared than the dreaded balor—the molydeus speaks with the authority of the demon lord it serves as it enforces its master's will. Standing some 12 feet tall, a molydeus has a red-skinned, humanoid body and two heads—one that of a slavering wolf and the other that of a serpent with dripping fangs perched atop a long neck.
 Molydei might guard their masters' possessions, roam the battlefields of the Abyss to ensure the loyalty of troops, or bring swift death to their enemies.

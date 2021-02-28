@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quaggoth Thonot
 >*Medium #humanoid (quaggoth), chaotic neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|6 (-2)|12 (+1)|7 (-2)|
 >___
->- **Skills** Athletics +5
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Undercommon
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:  
 >

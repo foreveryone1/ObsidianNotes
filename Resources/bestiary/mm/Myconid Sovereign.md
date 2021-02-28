@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Myconid Sovereign
 >*Large #plant , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|14 (+2)|13 (+1)|15 (+2)|10 (+0)|
 >___
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** —
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Distress Spores.*** When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.  
 >

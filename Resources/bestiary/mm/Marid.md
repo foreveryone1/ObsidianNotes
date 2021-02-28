@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Marid
 >*Large #elemental , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|12 (+1)|26 (+8)|18 (+4)|17 (+3)|18 (+4)|
 >___
->- **Saving Throws** Dex +5, Wis +7, Cha +8
->- **Damage Resistances** acid, cold, lightning
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 13
->- **Languages** Aquan
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +7, Cha +8
+>- **Damage Resistances**
+>	 - acid, cold, lightning
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 13
+>- **Languages**
+>	 - Aquan
+>
+> #cr11 (7,200 XP)
 >___
 >***Amphibious.*** The marid can breathe air and water.  
 >

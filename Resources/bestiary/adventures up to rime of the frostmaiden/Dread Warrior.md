@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dread Warrior
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|16 (+3)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Saving Throws** Wis +3
->- **Skills** Athletics +4, Perception +3
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Wis +3
+>- **Skills**
+>	 - Athletics +4, Perception +3
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 >***Undead Fortitude.*** If damage reduces the dread warrior to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the dread warrior drops to 1 hit point instead.  
 >

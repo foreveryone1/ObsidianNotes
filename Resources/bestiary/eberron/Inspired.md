@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Inspired
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|10 (+0)|16 (+3)|10 (+0)|16 (+3)|
 >___
->- **Saving Throws** Int +5, Wis +2
->- **Skills** Deception +7, Insight +2, Persuasion +7
->- **Damage Resistances** psychic
->- **Condition Immunities** charmed, frightened
->- **Senses** passive Perception 10
->- **Languages** Common, Quori
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +2
+>- **Skills**
+>	 - Deception +7, Insight +2, Persuasion +7
+>- **Damage Resistances**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Quori
+>
+> #cr2 (450 XP)
 >___
 >***Dual Mind.*** The Inspired has advantage on Wisdom saving throws.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kraken
 >*Gargantuan monstrosity (titan), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
 >___
->- **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
->- **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** frightened, paralyzed
->- **Senses** truesight 120 ft., passive Perception 14
->- **Languages** Abyssal, #celestial , Infernal, Primordial, telepathy 120 ft. but can't speak
->- #cr23 (50,000 XP)
+>- **Saving Throws**
+>	 - Str +17, Dex +7, Con +14, Int +13, Wis +11
+>- **Damage Immunities**
+>	 - lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - frightened, paralyzed
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, #celestial , Infernal, Primordial, telepathy 120 ft. but can't speak
+>
+> #cr23 (50,000 XP)
 >___
 >***Amphibious.*** The kraken can breathe air and water.  
 >
@@ -37,9 +47,12 @@
 ## Legendary Actions
 >The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 >
->- **Tentacle Attack or Fling.** The kraken makes one tentacle attack or uses its Fling.
->- **Lightning Storm (Costs 2 Actions).** The kraken uses Lightning Storm.
->- **Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
+>- **Tentacle Attack or Fling**
+>	- The kraken makes one tentacle attack or uses its Fling.
+>- **Lightning Storm (Costs 2 Actions)**
+>	- The kraken uses Lightning Storm.
+>- **Ink Cloud (Costs 3 Actions)**
+>	- While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
 ## Kraken
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
 ***Leviathans of Legend.*** At the beginning of time, krakens served as fierce warriors of the gods. When the gods' wars ended, the krakens shrugged free of their servitude, never again to be bound by other beings. Whole nations quake in fear when the kraken emerges from its dark demesne, and even in the middle of the deepest oceans, storms rise or abate according to its will. The kraken is a primeval force that obliterates the greatest achievements of civilization as if they were castles in the sand. Its devastating attacks can destroy ocean trade and halt communication between coastal cities.

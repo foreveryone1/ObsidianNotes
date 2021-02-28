@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Marilith
 >*Large #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
 >___
->- **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** truesight 120 ft., passive Perception 13
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +10, Wis +8, Cha +10
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr16 (15,000 XP)
 >___
 >***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.  
 >

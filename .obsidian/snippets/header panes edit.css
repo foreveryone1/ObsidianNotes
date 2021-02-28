@@ -16,8 +16,5 @@ body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf
     border-right: 0 !important;
 }
 
-body.plugin-sliding-panes-rotate-header.plugin-sliding-panes-header-alt .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-header-title-container {
-  text-align: left !important;
-}
 
 

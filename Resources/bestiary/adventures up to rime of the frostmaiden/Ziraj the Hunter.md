@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ziraj the Hunter
 >*Medium #humanoid (half-orc), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|11 (+0)|14 (+2)|15 (+2)|
 >___
->- **Saving Throws** Wis +5, Cha +5
->- **Skills** Athletics +7, Intimidation +5, Stealth +7, Survival +5
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Orc
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +5
+>- **Skills**
+>	 - Athletics +7, Intimidation +5, Stealth +7, Survival +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Orc
+>
+> #cr8 (3,900 XP)
 >___
 >***Spellcasting.*** Ziraj is a 10th-level spellcaster. His spellcasting ability is Charisma. He has the following paladin spells prepared:  
 >

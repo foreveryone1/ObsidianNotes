@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Barovian Commoner
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 ## Actions
 >***Pitchfork.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.

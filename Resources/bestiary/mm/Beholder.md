@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Beholder
 >*Large #aberration , lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|18 (+4)|17 (+3)|15 (+2)|17 (+3)|
 >___
->- **Saving Throws** Int +8, Wis +7, Cha +8
->- **Skills** Perception +12
->- **Condition Immunities** prone
->- **Senses** darkvision 120 ft., passive Perception 22
->- **Languages** Deep Speech, Undercommon
->- #cr13 (10,000 XP) or 14 (11,500 XP) when encountered in lair
+>- **Saving Throws**
+>	 - Int +8, Wis +7, Cha +8
+>- **Skills**
+>	 - Perception +12
+>- **Condition Immunities**
+>	 - prone
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 22
+>- **Languages**
+>	 - Deep Speech, Undercommon
+>
+> #cr13 (10,000 XP) or 14 (11,500 XP) when encountered in lair
 >___
 >***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.  
 >
@@ -46,7 +56,8 @@ If the target is a Large or smaller nonmagical object or creation of magical for
 ## Legendary Actions
 >The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.
 >
->- **Eye Ray.** The beholder uses one random eye ray.
+>- **Eye Ray**
+>	-  The beholder uses one random eye ray.
 ## Beholder
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert.

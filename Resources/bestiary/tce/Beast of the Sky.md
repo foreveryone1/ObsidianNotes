@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Beast of the Sky
 >*Small #beast , neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|13 (+1)|8 (-1)|14 (+2)|11 (+0)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Flyby.*** The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.  
 >

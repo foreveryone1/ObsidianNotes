@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Saeth Cromley
 >*Medium #humanoid (Illuskan human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|14 (+2)|
 >___
->- **Skills** Athletics +5, Intimidation +4, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Athletics +5, Intimidation +4, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** Saeth makes two longsword attacks. If he has a shortsword drawn, he can also make a shortsword attack.  

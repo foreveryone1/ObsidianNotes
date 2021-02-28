@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow House Captain
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|15 (+2)|12 (+1)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +8, Con +6, Wis +6
->- **Skills** Perception +6, Stealth +8
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Elvish, Undercommon
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Con +6, Wis +6
+>- **Skills**
+>	 - Perception +6, Stealth +8
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr9 (5,000 XP)
 >___
 >***Battle Command.*** As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.  
 >

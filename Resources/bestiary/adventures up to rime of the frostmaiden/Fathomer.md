@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fathomer
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 >___
->- **Skills** Arcana +2, Perception +4, Stealth +4
->- **Senses** passive Perception 14
->- **Languages** Aquan, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Arcana +2, Perception +4, Stealth +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Aquan, Common
+>
+> #cr2 (450 XP)
 >___
 >***Shapechanger (2/Day).*** The fathomer can use its action to polymorph into a Medium serpent composed of water, or back into its true form. Anything the fathomer is wearing or carrying is subsumed into the serpent form during the change, inaccessible until the fathomer returns to its true form. The fathomer reverts to its true form after 4 hours, unless it can expend another use of this trait. If the fathomer is knocked unconscious or dies, it also reverts to its true form.  
 >While in serpent form, the fathomer gains a swimming speed of 40 feet, the ability to breathe underwater, immunity to poison damage, as well as resistance to fire damage and bludgeoning, piercing, and slashing damage from nonmagical attacks. It also has immunity to the following conditions: exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious. The serpent form can enter a hostile creature's space and stop there. In addition, if water can pass through a space, the serpent can do so without squeezing.  

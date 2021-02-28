@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Amphisbaena
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|18 (+4)|12 (+1)|3 (-4)|10 (+0)|3 (-4)|
 >___
->- **Skills** Perception +2
->- **Senses** blindsight 10 ft., passive Perception 12
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Two Heads.*** The amphisbaena has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.  
 >

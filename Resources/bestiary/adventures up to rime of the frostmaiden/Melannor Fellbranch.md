@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Melannor Fellbranch
 >*Medium #humanoid (half-elf), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
 >___
->- **Skills** Medicine +4, Nature +3, Perception +4
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Elvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Medicine +4, Nature +3, Perception +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Fey Ancestry.*** Melannor has advantage on saving throws against being charmed, and magic can't put him to sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hobgoblin Warlord
 >*Medium #humanoid (goblinoid), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|14 (+2)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Int +5, Wis +3, Cha +5
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Goblin
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +3, Cha +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr6 (2,300 XP)
 >___
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.  
 >

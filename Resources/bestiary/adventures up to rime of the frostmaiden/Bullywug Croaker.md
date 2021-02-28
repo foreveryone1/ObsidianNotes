@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bullywug Croaker
 >*Medium #humanoid (bullywug), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|12 (+1)|7 (-2)|15 (+2)|10 (+0)|
 >___
->- **Saving Throws** Con +3
->- **Skills** Perception +4, Stealth +3
->- **Senses** passive Perception 14
->- **Languages** Bullywug
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Con +3
+>- **Skills**
+>	 - Perception +4, Stealth +3
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Bullywug
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The croaker can breathe air and water.  
 >

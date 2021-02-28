@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Lamia
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 >___
->- **Skills** Deception +7, Insight +4, Stealth +3
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Abyssal, Common
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +7, Insight +4, Stealth +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Merrow Shallowpriest
 >*Large #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|16 (+3)|9 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Abyssal, Aquan
->- #cr4 (1,100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Aquan
+>
+> #cr4 (1,100 XP)
 >___
 >***Amphibious.*** The merrow can breathe air and water.  
 >

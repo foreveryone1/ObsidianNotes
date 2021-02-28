@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ghoul
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|10 (+0)|7 (-2)|10 (+0)|6 (-2)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.  

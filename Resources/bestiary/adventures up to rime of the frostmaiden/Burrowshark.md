@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Burrowshark
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|10 (+0)|11 (+0)|13 (+1)|
 >___
->- **Skills** Animal Handling +2, Athletics +6, Intimidation +3, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Animal Handling +2, Athletics +6, Intimidation +3, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr4 (1,100 XP)
 >___
 >***Bond of the Black Earth.*** The burrowshark is magically bound to a bulette trained to serve as its mount. While mounted on its bulette, the burrowshark shares the bulette's senses and can ride the bulette while it burrows. The bonded bulette obeys the burrowshark's commands. If its mount dies, the burrowshark can train a new bulette to serve as its bonded mount, a process requiring a month.  
 >

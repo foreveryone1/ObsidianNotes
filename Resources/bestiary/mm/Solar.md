@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Solar
 >*Large #celestial , lawful good*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
 >___
->- **Saving Throws** Int +14, Wis +14, Cha +17
->- **Skills** Perception +14
->- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 24
->- **Languages** all, telepathy 120 ft.
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Int +14, Wis +14, Cha +17
+>- **Skills**
+>	 - Perception +14
+>- **Damage Resistances**
+>	 - radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 24
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr21 (33,000 XP)
 >___
 >***Angelic Weapons.*** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).  
 >
@@ -46,9 +58,12 @@
 ## Legendary Actions
 >The solar can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.
 >
->- **Teleport.** The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
->- **Searing Burst (Costs 2 Actions).** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
->- **Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
+>- **Teleport**
+>	- The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>- **Searing Burst (Costs 2 Actions)**
+>	- The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
+>- **Blinding Gaze (Costs 3 Actions)**
+>	- The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
 ## Solar
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 ***Shards of the Divine.*** Angels are formed from the astral essence of benevolent gods and are thus divine beings of great power and foresight.

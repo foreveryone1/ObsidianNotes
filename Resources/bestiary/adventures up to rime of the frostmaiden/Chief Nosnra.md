@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Chief Nosnra
 >*Huge #giant , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|9 (-1)|21 (+5)|9 (-1)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Con +8, Wis +3, Cha +4
->- **Skills** Athletics +9, Perception +3
->- **Senses** passive Perception 13
->- **Languages** Giant
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +3, Cha +4
+>- **Skills**
+>	 - Athletics +9, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Giant
+>
+> #cr8 (3,900 XP)
 >___
 ## Actions
 >***Multiattack.*** Chief Nosnra makes two greataxe attacks.  

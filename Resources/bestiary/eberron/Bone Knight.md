@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bone Knight
 >*Medium #humanoid (any race), any non-good alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|12 (+1)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Wis +5, Cha +6
->- **Skills** Athletics +7, Deception +6, Intimidation +6
->- **Damage Resistances** necrotic, poison
->- **Senses** passive Perception 12
->- **Languages** any one language (usually Common)
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +5, Cha +6
+>- **Skills**
+>	 - Athletics +7, Deception +6, Intimidation +6
+>- **Damage Resistances**
+>	 - necrotic, poison
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr5 (1,800 XP)
 >___
 >***Commander of Bones.*** As a bonus action, the knight can target one skeleton or zombie it can see within 30 feet of it. The target must make a DC 14 Wisdom saving throw. On a failed save, the target must obey the knight's commands until the knight dies or until the knight releases it as a bonus action. The knight can command up to twelve undead at a time this way.  
 >

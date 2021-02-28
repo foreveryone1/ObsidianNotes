@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blood Hunter
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|15 (+2)|9 (-1)|16 (+3)|11 (+0)|
 >___
->- **Saving Throws** Str +7, Wis +6
->- **Skills** Acrobatics +4, Insight +6, Perception +6
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** any one language (usually Common)
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +7, Wis +6
+>- **Skills**
+>	 - Acrobatics +4, Insight +6, Perception +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr5 (1,800 XP)
 >___
 >***Blood Curse of Binding (1/Day).*** As a bonus action, the blood hunter targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Strength saving throw or have its speed reduced to 0 and be unable to take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 >

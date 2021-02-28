@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skum
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|18 (+4)|7 (-2)|12 (+1)|9 (-1)|
 >___
->- **Skills** Perception +4
->- **Damage Resistances** psychic
->- **Senses** darkvision 120 ft., passive Perception 14
->- **Languages** Common, Deep Speech, telepathy 60 ft.
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Damage Resistances**
+>	 - psychic
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Deep Speech, telepathy 60 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Abolethic Vassal.*** The skum is permanently charmed by its aboleth master.  
 >

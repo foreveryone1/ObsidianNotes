@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Black Earth Guard
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|9 (-1)|
 >___
->- **Skills** Intimidation +1, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Intimidation +1, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Multiattack.*** The guard makes two melee attacks.  

@@ -1,14 +1,21 @@
-Number of monster points = party size (normal)
-Double = very hard
+#### Encounter Difficulty
+
+| Difficulty | Total Monster Points (MP) |
+| ---------- | ------------------------- |
+| Easy       | Number of players x 0.5   |
+| Normal     | Number of players         |
+| Hard       | Number of players x 1.5   |
+| Extreme    | Number of players x 2     |
+
+
 
 StandardMonster of same level (3 levels above or below) as party = 1 monster point
-Make your own solos by gluing together monsters until they reach monster points equal to or greater than the party
 Elites = 2 points
 4 minions = 1 point
 
-12 levels lower = 1/16
-8 levels lower = quarter points
-4 levels lower = half points
-4 levels higher = double points
-8 levels higher = quadruple points
+12 levels lower = 1/8 point multiplier
+8 levels lower = 1/4 point multiplier
+4 levels lower = 1/2 point multiplier
+4 levels higher = x2 point multiplier
+8 levels higher = x4 point multiplier
 etc.

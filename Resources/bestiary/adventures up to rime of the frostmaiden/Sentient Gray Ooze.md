@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sentient Gray Ooze
 >*Medium #ooze , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|6 (-2)|16 (+3)|5 (-3)|6 (-2)|2 (-4)|
 >___
->- **Skills** Stealth +2
->- **Damage Resistances** acid, cold, fire
->- **Condition Immunities** blinded, deafened, exhaustion, frightened, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
->- **Languages** Common
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Damage Resistances**
+>	 - acid, cold, fire
+>- **Condition Immunities**
+>	 - blinded, deafened, exhaustion, frightened, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githzerai Enlightened
 >*Medium #humanoid (gith), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|16 (+3)|17 (+3)|19 (+4)|13 (+1)|
 >___
->- **Saving Throws** Str +6, Dex +8, Int +7, Wis +8
->- **Skills** Arcana +7, Insight +8, Perception +8
->- **Senses** passive Perception 18
->- **Languages** Gith
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Str +6, Dex +8, Int +7, Wis +8
+>- **Skills**
+>	 - Arcana +7, Insight +8, Perception +8
+>- **Senses**
+>	 - passive Perception 18
+>- **Languages**
+>	 - Gith
+>
+> #cr10 (5,900 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >

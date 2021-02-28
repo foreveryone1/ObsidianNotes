@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Phylaskia
 >*Large #undead , lawful neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|10 (+0)|16 (+3)|14 (+2)|
 >___
->- **Saving Throws** Con +8, Wis +7
->- **Skills** Insight +7, Perception +7
->- **Damage Immunities** necrotic, poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 17
->- **Languages** all
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +7
+>- **Skills**
+>	 - Insight +7, Perception +7
+>- **Damage Immunities**
+>	 - necrotic, poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 17
+>- **Languages**
+>	 - all
+>
+> #cr9 (5,000 XP)
 >___
 >***Gatekeeper's Aura.*** Any creature that starts its turn within 10 feet of the phylaskia must make a DC 15 Wisdom saving throw. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature has disadvantage on saving throws and its speed is halved until the start of its next turn.  
 >

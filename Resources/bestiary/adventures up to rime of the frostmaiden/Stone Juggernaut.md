@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Stone Juggernaut
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|15 (+2)|14 (+2)|14 (+2)|16 (+3)|
 >___
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
->- **Senses** blindsight 120 ft., passive Perception 10
->- **Languages** —
->- #cr12 (8,400 XP)
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - blindsight 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr12 (8,400 XP)
 >___
 >***Devastating Roll.*** The juggernaut can move through the space of a prone creature. A creature whose space the juggernaut enters for the first time on a turn must make a DC 17 Dexterity saving throw, taking 55 (10d10) bludgeoning damage on a failed save, or half as much damage on a successful one.  
 >

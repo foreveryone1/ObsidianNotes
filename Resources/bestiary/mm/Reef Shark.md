@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reef Shark
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|13 (+1)|1 (-5)|10 (+0)|4 (-3)|
 >___
->- **Skills** Perception +2
->- **Senses** blindsight 30 ft., passive Perception 12
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.  
 >

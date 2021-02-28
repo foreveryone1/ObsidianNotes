@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mind Drinker Vampire
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|18 (+4)|12 (+1)|19 (+4)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +6, Int +6, Wis +3
->- **Skills** Deception +4, Insight +3, Perception +3, Stealth +6
->- **Damage Resistances** necrotic
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** the languages it knew in life
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +6, Wis +3
+>- **Skills**
+>	 - Deception +4, Insight +3, Perception +3, Stealth +6
+>- **Damage Resistances**
+>	 - necrotic
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The vampire's innate spellcasting ability is Intelligence (spell save DC 14). It can innately cast the following spells, requiring no components:  
 >

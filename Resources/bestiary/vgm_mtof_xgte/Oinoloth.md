@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oinoloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|18 (+4)|17 (+3)|16 (+3)|19 (+4)|
 >___
->- **Saving Throws** Con +8, Wis +7
->- **Skills** Deception +8, Intimidation +8, Perception +7
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 17
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Con +8, Wis +7
+>- **Skills**
+>	 - Deception +8, Intimidation +8, Perception +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr12 (8,400 XP)
 >___
 >***Bringer of Plagues (Recharge 5–6).*** As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.  
 >Furthermore, when a creature moves into the blighted area or starts its turn there, that creature must make a DC 16 Constitution saving throw. On a successful save, the creature is immune to the oinoloth's Bringer of Plagues for the next 24 hours. On a failed save, the creature takes 14 (4d6) necrotic damage and is poisoned.  

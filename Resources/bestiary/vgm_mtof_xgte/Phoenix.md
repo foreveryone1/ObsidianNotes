@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Phoenix
 >*Gargantuan #elemental , neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|26 (+8)|25 (+7)|2 (-4)|21 (+5)|18 (+4)|
 >___
->- **Saving Throws** Wis +10, Cha +9
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire, poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** —
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Wis +10, Cha +9
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - —
+>
+> #cr16 (15,000 XP)
 >___
 >***Fiery Death and Rebirth.*** When the phoenix dies, it explodes. Each creature within 60-feet of it must make a DC 20 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't worn or carried.  
 >The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder that weighs 5 pounds. The cinder is blazing hot, dealing 21 (6d6) fire damage to any creature that touches it, though no more than once per round. The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix.  
@@ -41,9 +52,12 @@
 ## Legendary Actions
 >The phoenix can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The phoenix regains spent legendary actions at the start of its turn.
 >
->- **Peck.** The phoenix makes one beak attack.
->- **Move.** The phoenix moves up to its speed.
->- **Swoop (Costs 2 Actions).** The phoenix moves up to its speed and attacks with its fiery talons.
+>- **Peck.**  
+>	- The phoenix makes one beak attack.
+>- **Move.**  
+>	- The phoenix moves up to its speed.
+>- **Swoop (Costs 2 Actions).**  
+>	- The phoenix moves up to its speed and attacks with its fiery talons.
 ## Phoenix
 *To rise like a phoenix from the ashes—so many use that quaint colloquialism. Little do they know about the true horror of such a rebirth.*— Mordenkainen***Phoenix.*** Releasing a phoenix from the Inner Planes creates an explosion of fire that spreads across the sky. An enormous fiery bird forms in the center of the flames and smoke—an elder elemental possessed by a need to burn everything to ash. The phoenix rarely stays in one place for long as it strives to transform the world into an inferno.
 ***Elder Elementals.*** On their native planes, elementals sweep across the weird and tempestuous landscape. Some possess greater power, gained by feeding on their lesser kin and adding the essence of creatures they have devoured to their own until they become something extraordinary. When summoned, these elder elementals manifest as beings of apocalyptic capability, entities whose mere existence promises destruction.

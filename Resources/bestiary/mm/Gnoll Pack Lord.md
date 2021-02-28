@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gnoll Pack Lord
 >*Medium #humanoid (gnoll), chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Gnoll
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Gnoll
+>
+> #cr2 (450 XP)
 >___
 >***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.  
 >

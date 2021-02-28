@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Elk
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|14 (+2)|7 (-2)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** Giant Elk, understands Common, Elvish, Sylvan but can't speak them
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Giant Elk, understands Common, Elvish, Sylvan but can't speak them
+>
+> #cr2 (450 XP)
 >___
 >***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.  
 >

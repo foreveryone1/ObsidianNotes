@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ogre Zombie
 >*Large #undead , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|6 (-2)|18 (+4)|3 (-4)|6 (-2)|5 (-3)|
 >___
->- **Saving Throws** Wis +0
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands Common and Giant but can't speak
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Wis +0
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands Common and Giant but can't speak
+>
+> #cr2 (450 XP)
 >___
 >***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.  
 >

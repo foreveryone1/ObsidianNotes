@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ankheg
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|13 (+1)|1 (-5)|13 (+1)|6 (-2)|
 >___
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
->- **Languages** —
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.  

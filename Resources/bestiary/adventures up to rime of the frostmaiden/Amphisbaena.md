@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Amphisbaena
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
 >___
->- **Skills** Perception +2
->- **Senses** blindsight 10 ft., passive Perception 12
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 ## Actions
 >***Multiattack.*** The amphisbaena makes two attacks, only one of which can be a constrict attack.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Griffon Cavalry Rider
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|14 (+2)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Skills** Animal Handling +3, Athletics +4, Perception +3
->- **Senses** passive Perception 13
->- **Languages** any one language (usually Common)
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Animal Handling +3, Athletics +4, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Lance.*** Melee Weapon Attack: +4 to hit (with disadvantage against a target within 5 ft.), reach 10 ft., one target. Hit: 8 (1d12 + 2) piercing damage, or 11 (1d12 + 5) piercing damage while mounted.  

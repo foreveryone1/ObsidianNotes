@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Earth Elemental Myrmidon
 >*Medium #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|8 (-1)|10 (+0)|10 (+0)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** paralyzed, petrified, poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Terran, one language of its creator's choice
->- #cr7 (2,900 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Terran, one language of its creator's choice
+>
+> #cr7 (2,900 XP)
 >___
 >***Magic Weapons.*** The myrmidon's weapon attacks are magical.  
 >

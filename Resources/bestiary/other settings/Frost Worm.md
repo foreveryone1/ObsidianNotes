@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frost Worm
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|8 (-1)|22 (+6)|1 (-5)|5 (-3)|5 (-3)|
 >___
->- **Saving Throws** Con +12, Wis +3
->- **Damage Vulnerabilities** fire
->- **Damage Immunities** cold
->- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 7
->- **Languages** —
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Con +12, Wis +3
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - blindsight 30 ft., tremorsense 60 ft., passive Perception 7
+>- **Languages**
+>	 - —
+>
+> #cr17 (18,000 XP)
 >___
 >***Death Burst.*** When the worm dies, it explodes in a burst of frigid energy. Each creature within 60 feet of it must make a DC 20 Dexterity saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one. Creatures inside the worm when it dies automatically fail this saving throw.  
 >

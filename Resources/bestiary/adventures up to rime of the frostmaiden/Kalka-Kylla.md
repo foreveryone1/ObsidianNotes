@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kalka-Kylla
 >*Large #monstrosity , neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|15 (+2)|16 (+3)|12 (+1)|
 >___
->- **Skills** Deception +3, Insight +5, Stealth +3
->- **Senses** blindsight 30 ft., passive Perception 13
->- **Languages** Olman
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +3, Insight +5, Stealth +3
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 13
+>- **Languages**
+>	 - Olman
+>
+> #cr3 (700 XP)
 >___
 >***Amphibious.*** Kalka-Kylla can breathe air and water.  
 >

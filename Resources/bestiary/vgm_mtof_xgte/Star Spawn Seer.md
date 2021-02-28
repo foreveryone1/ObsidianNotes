@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Star Spawn Seer
 >*Medium #aberration , lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|18 (+4)|22 (+6)|19 (+4)|16 (+3)|
 >___
->- **Saving Throws** Dex +6, Int +11, Wis +9, Cha +8
->- **Skills** Perception +9
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** psychic
->- **Condition Immunities** charmed, frightened
->- **Senses** darkvision 60 ft., passive Perception 19
->- **Languages** Common, Deep Speech, Undercommon
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +11, Wis +9, Cha +8
+>- **Skills**
+>	 - Perception +9
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - psychic
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Deep Speech, Undercommon
+>
+> #cr13 (10,000 XP)
 >___
 >***Out-of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain. Each creature it moves through takes 5 (1d10) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

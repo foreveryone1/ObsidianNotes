@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Walrus
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|9 (-1)|14 (+2)|3 (-4)|11 (+0)|4 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Hold Breath.*** The walrus can hold its breath for 10 minutes.  
 >

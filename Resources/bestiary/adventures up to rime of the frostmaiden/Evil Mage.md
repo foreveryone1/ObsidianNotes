@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Evil Mage
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +5, Wis +3
->- **Skills** Arcana +5, History +5
->- **Senses** passive Perception 11
->- **Languages** Common, Draconic, Dwarvish, Elvish
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +3
+>- **Skills**
+>	 - Arcana +5, History +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Elvish
+>
+> #cr1 (200 XP)
 >___
 >***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:  
 >

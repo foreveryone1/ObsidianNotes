@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Barbed Devil
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
 >___
->- **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
->- **Skills** Deception +5, Insight +5, Perception +8
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Infernal, telepathy 120 ft.
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Str +6, Con +7, Wis +5, Cha +5
+>- **Skills**
+>	 - Deception +5, Insight +5, Perception +8
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Infernal, telepathy 120 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.  
 >

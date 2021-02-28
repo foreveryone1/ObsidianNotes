@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Therzt
 >*Medium #humanoid (elf), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Skills** 
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** any one language (usually Common), Elvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - 
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Elvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Fey Ancestry.*** The therzt has advantage on saving throws against being charmed, and magic can't put the therzt to sleep.  
 >

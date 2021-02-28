@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Living Burning Hands
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|16 (+3)|3 (-4)|6 (-2)|6 (-2)|
 >___
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Amorphous.*** The living spell can move through a space as narrow as 1 inch wide without squeezing.  
 >

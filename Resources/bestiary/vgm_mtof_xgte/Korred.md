@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Korred
 >*Small #fey , , chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|20 (+5)|10 (+0)|15 (+2)|9 (-1)|
 >___
->- **Skills** Athletics +9, Perception +5, Stealth +5
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** darkvision 120 ft., tremorsense 120 ft., passive Perception 15
->- **Languages** Dwarvish, Gnomish, Sylvan, Terran, Undercommon
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Athletics +9, Perception +5, Stealth +5
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - darkvision 120 ft., tremorsense 120 ft., passive Perception 15
+>- **Languages**
+>	 - Dwarvish, Gnomish, Sylvan, Terran, Undercommon
+>
+> #cr7 (2,900 XP)
 >___
 >***Command Hair.*** The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.  
 >A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while it has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.  

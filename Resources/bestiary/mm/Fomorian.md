@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fomorian
 >*Huge #giant , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|20 (+5)|9 (-1)|14 (+2)|6 (-2)|
 >___
->- **Skills** Perception +8, Stealth +3
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Giant, Undercommon
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Perception +8, Stealth +3
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Giant, Undercommon
+>
+> #cr8 (3,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The fomorian attacks twice with its greatclub or makes one greatclub attack and uses Evil Eye once.  

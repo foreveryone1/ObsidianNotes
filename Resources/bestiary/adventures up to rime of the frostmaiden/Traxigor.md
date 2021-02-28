@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Traxigor
 >*Tiny #beast , chaotic good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 >___
->- **Saving Throws** Int +9, Wis +6
->- **Skills** Arcana +13, History +13
->- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
->- **Senses** passive Perception 12
->- **Languages** Common, Draconic, Dwarvish, Gnomish, Halfling, Troglodyte
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Int +9, Wis +6
+>- **Skills**
+>	 - Arcana +13, History +13
+>- **Damage Resistances**
+>	 - damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common, Draconic, Dwarvish, Gnomish, Halfling, Troglodyte
+>
+> #cr12 (8,400 XP)
 >___
 >***Magic Resistance.*** Traxigor has advantage on saving throws against spells and other magical effects.  
 >

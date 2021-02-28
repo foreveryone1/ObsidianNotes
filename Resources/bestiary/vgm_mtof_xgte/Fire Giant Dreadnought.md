@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fire Giant Dreadnought
 >*Huge giant (fire giant), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|9 (-1)|23 (+6)|8 (-1)|10 (+0)|11 (+0)|
 >___
->- **Saving Throws** Dex +4, Con +11, Cha +5
->- **Skills** Athletics +13, Perception +5
->- **Damage Immunities** fire
->- **Senses** passive Perception 15
->- **Languages** Giant
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +11, Cha +5
+>- **Skills**
+>	 - Athletics +13, Perception +5
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Giant
+>
+> #cr14 (11,500 XP)
 >___
 >***Dual Shields.*** The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks.  
 >

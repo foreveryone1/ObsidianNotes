@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Koalinth Sergeant
 >*Medium #humanoid (goblinoid), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|12 (+1)|11 (+0)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +2, Wis +2
->- **Skills** Athletics +4, Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Goblin
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +2, Wis +2
+>- **Skills**
+>	 - Athletics +4, Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Goblin
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The koalinth can breathe air and water.  
 >

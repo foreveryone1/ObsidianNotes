@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Deep Diver
 >*Medium #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|15 (+2)|12 (+1)|13 (+1)|9 (-1)|
 >___
->- **Saving Throws** Con +4, Wis +3
->- **Skills** Perception +5, Stealth +5
->- **Senses** darkvision 120 ft., passive Perception 15
->- **Languages** Sahuagin
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +3
+>- **Skills**
+>	 - Perception +5, Stealth +5
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 15
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr4 (1,100 XP)
 >___
 >***Blood Frenzy.*** The deep diver has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

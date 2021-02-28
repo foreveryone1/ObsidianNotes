@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Phantom Warrior
 >*Medium #undead , any alignment*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|16 (+3)|8 (-1)|10 (+0)|15 (+2)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** any languages it knew in life
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - any languages it knew in life
+>
+> #cr3 (700 XP)
 >___
 >***Ethereal Sight.*** The phantom warrior can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.  
 >

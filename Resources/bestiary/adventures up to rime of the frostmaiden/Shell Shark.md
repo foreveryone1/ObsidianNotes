@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shell Shark
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|14 (+2)|3 (-4)|10 (+0)|7 (-2)|
 >___
->- **Saving Throws** Str +6
->- **Skills** Athletics +6
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** —
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Str +6
+>- **Skills**
+>	 - Athletics +6
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

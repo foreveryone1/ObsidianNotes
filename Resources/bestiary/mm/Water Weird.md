@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Water Weird
 >*Large #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
 >___
->- **Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
->- **Senses** blindsight 30 ft., passive Perception 10
->- **Languages** understands Aquan but doesn't speak
->- #cr3 (700 XP)
+>- **Damage Resistances**
+>	 - fire; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 10
+>- **Languages**
+>	 - understands Aquan but doesn't speak
+>
+> #cr3 (700 XP)
 >___
 >***Invisible in Water.*** The water weird is invisible while fully immersed in water.  
 >

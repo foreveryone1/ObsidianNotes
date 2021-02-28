@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Firemane Angel
 >*Medium #celestial , chaotic good*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|17 (+3)|12 (+1)|14 (+2)|23 (+6)|
 >___
->- **Saving Throws** Str +10, Wis +6, Cha +10
->- **Skills** Insight +6, Perception +6
->- **Damage Resistances** fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened
->- **Senses** truesight 120 ft., passive Perception 16
->- **Languages** all
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Str +10, Wis +6, Cha +10
+>- **Skills**
+>	 - Insight +6, Perception +6
+>- **Damage Resistances**
+>	 - fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 16
+>- **Languages**
+>	 - all
+>
+> #cr12 (8,400 XP)
 >___
 >***Flyby.*** The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.  
 >

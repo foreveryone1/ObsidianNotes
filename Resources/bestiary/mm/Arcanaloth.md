@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Arcanaloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|14 (+2)|20 (+5)|16 (+3)|17 (+3)|
 >___
->- **Saving Throws** Dex +5, Int +9, Wis +7, Cha +7
->- **Skills** Arcana +13, Deception +11, Insight +11, Perception +7
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** charmed, poisoned
->- **Senses** truesight 120 ft., passive Perception 17
->- **Languages** all, telepathy 120 ft.
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Dex +5, Int +9, Wis +7, Cha +7
+>- **Skills**
+>	 - Arcana +13, Deception +11, Insight +11, Perception +7
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - charmed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 17
+>- **Languages**
+>	 - all, telepathy 120 ft.
+>
+> #cr12 (8,400 XP)
 >___
 >***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:  
 >

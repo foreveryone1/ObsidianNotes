@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Booyahg Caster
 >*Small #humanoid (goblinoid), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
 >___
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Goblin
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Goblin
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.  
 >

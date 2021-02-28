@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Astral Dreadnought
 >*Gargantuan monstrosity (titan), unaligned*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|7 (-2)|25 (+7)|5 (-3)|14 (+2)|18 (+4)|
 >___
->- **Saving Throws** Dex +5, Wis +9
->- **Skills** Perception +9
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
->- **Senses** darkvision 120 ft., passive Perception 19
->- **Languages** —
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Dex +5, Wis +9
+>- **Skills**
+>	 - Perception +9
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - —
+>
+> #cr21 (33,000 XP)
 >___
 >***Antimagic Cone.*** The astral dreadnought's opened eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the dreadnought decides which way the cone faces. The cone doesn't function while the dreadnought's eye is closed or while the dreadnought is blinded.  
 >
@@ -41,9 +52,12 @@
 ## Legendary Actions
 >The astral dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The astral dreadnought regains spent legendary actions at the start of its turn.
 >
->- **Claw.** The astral dreadnought makes one claw attack.
->- **Donjon Visit (Costs 2 Actions).** One creature that is Huge or smaller that the astral dreadnought can see within 60 feet of it must succeed on a DC 19 Charisma saving throw or be magically teleported to an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon. At the end of the target's next turn, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
->- **Psychic Projection (Costs 3 Actions).** Each creature within 60 feet of the astral dreadnought must make a DC 19 Wisdom saving throw, taking 15 (2d10 + 4) psychic damage on a failed save, or half as much damage on a successful one.
+>- **Claw.**
+> The astral dreadnought makes one claw attack.
+>- **Donjon Visit (Costs 2 Actions).**
+> One creature that is Huge or smaller that the astral dreadnought can see within 60 feet of it must succeed on a DC 19 Charisma saving throw or be magically teleported to an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon. At the end of the target's next turn, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+>- **Psychic Projection (Costs 3 Actions).**
+> Each creature within 60 feet of the astral dreadnought must make a DC 19 Wisdom saving throw, taking 15 (2d10 + 4) psychic damage on a failed save, or half as much damage on a successful one.
 ## Astral Dreadnought
 *Astral dreadnoughts exist for one reason: hubris. Not the hubris of mortals, but the hubris of gods who deem themselves too mighty to be approached and looked upon.*— Mordenkainen***Astral Dreadnought.*** Enormous and terrifying monstrosities known as astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. They have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
 As big as an ancient red dragon and covered from head to tail in layers of thick, spiked plates, a dreadnought has two gnarled limbs that end in razor-sharp pincer claws. Constellations appear to swirl in the depths of its single eye, and its serpentine, armored tail trails off into the silvery void.

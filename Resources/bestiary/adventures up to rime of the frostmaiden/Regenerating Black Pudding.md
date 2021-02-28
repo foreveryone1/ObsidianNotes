@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Regenerating Black Pudding
 >*Large #ooze , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|5 (-3)|16 (+3)|6 (-2)|6 (-2)|1 (-5)|
 >___
->- **Damage Immunities** acid, cold, lightning, slashing
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Damage Immunities**
+>	 - acid, cold, lightning, slashing
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Phase Spider
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|12 (+1)|6 (-2)|10 (+0)|6 (-2)|
 >___
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Ethereal Jaunt.*** As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.  
 >

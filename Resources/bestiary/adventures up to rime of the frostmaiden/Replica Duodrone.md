@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Replica Duodrone
 >*Medium #construct , lawful neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|12 (+1)|6 (-2)|10 (+0)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Modron, can understand Common but speaks only preprogrammed responses
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Modron, can understand Common but speaks only preprogrammed responses
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Axiomatic Mind.*** The duodrone can't be compelled to act in a manner contrary to its nature or its instructions.  
 >

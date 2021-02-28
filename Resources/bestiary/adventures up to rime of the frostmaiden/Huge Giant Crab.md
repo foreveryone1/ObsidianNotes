@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Huge Giant Crab
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|20 (+5)|1 (-5)|9 (-1)|3 (-4)|
 >___
->- **Skills** Stealth +5
->- **Condition Immunities** charmed, frightened, paralyzed
->- **Senses** blindsight 30 ft., passive Perception 9
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 >***Amphibious.*** The crab can breathe air and water.  
 >

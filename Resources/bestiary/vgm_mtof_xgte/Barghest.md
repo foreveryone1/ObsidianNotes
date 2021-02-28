@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Barghest
 >*Large #fiend (shapechanger), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|14 (+2)|13 (+1)|12 (+1)|14 (+2)|
 >___
->- **Skills** Deception +4, Intimidation +4, Perception +5, Stealth +4
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 15
->- **Languages** Abyssal, Common, Goblin, Infernal, telepathy 60 ft.
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Deception +4, Intimidation +4, Perception +5, Stealth +4
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - Abyssal, Common, Goblin, Infernal, telepathy 60 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Shapechanger.*** The barghest can use its action to polymorph into a Small goblin or back into its true form. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. The barghest reverts to its true form if it dies.  
 >

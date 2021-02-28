@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ironscale Hydra
 >*Gargantuan #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|10 (+0)|22 (+6)|2 (-4)|10 (+0)|7 (-2)|
 >___
->- **Skills** Perception +8
->- **Damage Immunities** acid
->- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** —
->- #cr12 (8,400 XP)
+>- **Skills**
+>	 - Perception +8
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 18
+>- **Languages**
+>	 - —
+>
+> #cr12 (8,400 XP)
 >___
 >***Acidic Blood.*** When the hydra takes piercing or slashing damage, each creature within 5 feet of the hydra takes 9 (2d8) acid damage.  
 >

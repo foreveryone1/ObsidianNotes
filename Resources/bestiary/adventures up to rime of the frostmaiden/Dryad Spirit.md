@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dryad Spirit
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)|
 >___
->- **Saving Throws** Wis +2, Cha +5
->- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Elvish
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Wis +2, Cha +5
+>- **Damage Resistances**
+>	 - acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr4 (1,100 XP)
 >___
 >***Detect Life.*** The dryad can magically sense the presence of living creatures up to 5 miles away that aren't undead or constructs. She knows the general direction they're in but not their exact locations.  
 >

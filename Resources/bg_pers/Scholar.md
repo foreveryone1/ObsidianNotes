@@ -20,7 +20,7 @@
 - I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
 - I work to preserve a library, university, scriptorium, or monastery.
 - My life's work is a series of tomes related to a specific field of lore.
-- I've been searching my whole life for the answer to a certain question.
+- I've been searching my whole life for the answer to a certain question. ^ce33e0
 - I sold my soul for knowledge. I hope to do great deeds and win it back.
 ### Flaws
 - I am easily distracted by the promise of information.

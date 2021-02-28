@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yuan-ti Anathema
 >*Huge monstrosity (shapechanger, yuan-ti), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|19 (+4)|19 (+4)|17 (+3)|20 (+5)|
 >___
->- **Skills** Perception +7, Stealth +5
->- **Damage Resistances** acid, fire, lightning
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., blindsight 30 ft., passive Perception 17
->- **Languages** Abyssal, Common, Draconic
->- #cr12 (8,400 XP)
+>- **Skills**
+>	 - Perception +7, Stealth +5
+>- **Damage Resistances**
+>	 - acid, fire, lightning
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., blindsight 30 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal, Common, Draconic
+>
+> #cr12 (8,400 XP)
 >___
 >***Shapechanger.*** The anathema can use its action to polymorph into a Huge giant constrictor snake, or back into its true form. its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.  
 >

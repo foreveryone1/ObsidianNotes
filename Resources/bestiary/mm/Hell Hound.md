@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hell Hound
 >*Medium #fiend , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)|6 (-2)|
 >___
->- **Skills** Perception +5
->- **Damage Immunities** fire
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** understands Infernal but can't speak it
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - understands Infernal but can't speak it
+>
+> #cr3 (700 XP)
 >___
 >***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

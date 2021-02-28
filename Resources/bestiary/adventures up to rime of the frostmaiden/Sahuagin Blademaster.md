@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sahuagin Blademaster
 >*Medium #humanoid (sahuagin), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|14 (+2)|12 (+1)|11 (+0)|12 (+1)|
 >___
->- **Saving Throws** Str +6, Con +5
->- **Skills** Athletics +6, Intimidation +4
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** Sahuagin
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Str +6, Con +5
+>- **Skills**
+>	 - Athletics +6, Intimidation +4
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - Sahuagin
+>
+> #cr6 (2,300 XP)
 >___
 >***Blood Frenzy.*** The blademaster has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

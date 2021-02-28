@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nightveil Specter
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|19 (+4)|16 (+3)|6 (-2)|17 (+3)|11 (+0)|
 >___
->- **Saving Throws** Dex +8, Wis +7
->- **Skills** Insight +7, Perception +7, Stealth +8
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** understands Common but can't speak
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +8, Wis +7
+>- **Skills**
+>	 - Insight +7, Perception +7, Stealth +8
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr10 (5,900 XP)
 >___
 >***Mount.*** If the specter isn't mounted, it can use a bonus action to magically teleport onto its gloamwing mount, provided the specter and the gloamwing are on the same plane of existence. When it teleports, the specter appears astride the gloamwing along with any equipment it is wearing or carrying. While mounted and not incapacitated, the specter can't be surprised, and both it and its mount gain advantage on Dexterity saving throws.  
 >

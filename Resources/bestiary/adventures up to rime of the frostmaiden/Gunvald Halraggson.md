@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gunvald Halraggson
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|8 (-1)|18 (+4)|9 (-1)|10 (+0)|16 (+3)|
 >___
->- **Skills** Athletics +8, Intimidation +6, Survival +3
->- **Senses** passive Perception 10
->- **Languages** Common
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Athletics +8, Intimidation +6, Survival +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> #cr5 (1,800 XP)
 >___
 >***Indomitable (3/Day).*** Gunvald can reroll a saving throw he fails. He must use the new roll.  
 >

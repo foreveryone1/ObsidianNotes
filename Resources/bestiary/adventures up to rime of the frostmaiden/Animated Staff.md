@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Staff
 >*Medium #construct , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|12 (+1)|10 (+0)|18 (+4)|14 (+2)|10 (+0)|
 >___
->- **Damage Resistances** cold
->- **Damage Immunities** poison
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 12
->- **Languages** Common
->- #cr-unavailable
+>- **Damage Resistances**
+>	 - cold
+>- **Damage Immunities**
+>	 - poison
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr-unavailable
 >___
 >***Wielder Domination.*** A creature can grab the staff out of the air with a successful grapple check against the staff, and grappling the staff does not reduce the creature's speed. Any creature that successfully grapples the staff must succeed on a DC 12 Charisma saving throw or be charmed by the staff until the staff is no longer in its grasp. While the creature is charmed, the staff can issue commands to it, which the creature does its best to obey. The creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. A creature that successfully resists the staff's control can't be charmed by it for 24 hours.  
 >A creature holding the staff that isn't charmed by it can use an action to attempt to break the staff over a knee or against a solid surface, doing so with a successful DC 17 Strength (Athletics) check. Breaking the staff in this manner destroys it.  

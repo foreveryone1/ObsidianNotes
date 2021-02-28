@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Phaia
 >*Medium #humanoid (human), any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)|
 >___
->- **Saving Throws** Int +7, Wis +5
->- **Skills** Arcana +7, History +7
->- **Damage Resistances** necrotic
->- **Senses** passive Perception 11
->- **Languages** any four languages
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Int +7, Wis +5
+>- **Skills**
+>	 - Arcana +7, History +7
+>- **Damage Resistances**
+>	 - necrotic
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - any four languages
+>
+> #cr9 (5,000 XP)
 >___
 >***Grim Harvest (1/Turn).*** When necromancer kills a creature that is neither a construct nor undead with a spell of 1st level or higher, Phaia regains hit points equal to twice the spell's level, or three times if it is a necromancy spell.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Dragon Turtle
 >*Large #dragon , neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
 >___
->- **Saving Throws** Dex +4, Con +9, Wis +5
->- **Damage Resistances** fire
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Aquan, Draconic
->- #cr17 (9,000 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +9, Wis +5
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Aquan, Draconic
+>
+> #cr17 (9,000 XP)
 >___
 >***Amphibious.*** The dragon turtle can breathe air and water.  
 >

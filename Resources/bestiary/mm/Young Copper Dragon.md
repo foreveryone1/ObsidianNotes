@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Copper Dragon
 >*Large #dragon , chaotic good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 >___
->- **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
->- **Skills** Deception +5, Perception +7, Stealth +4
->- **Damage Immunities** acid
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
->- **Languages** Common, Draconic
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +6, Wis +4, Cha +5
+>- **Skills**
+>	 - Deception +5, Perception +7, Stealth +4
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr7 (2,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  

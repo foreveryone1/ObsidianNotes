@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Walnut Dankgrass
 >*Medium #humanoid (elf), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|14 (+2)|10 (+0)|18 (+4)|10 (+0)|
 >___
->- **Saving Throws** Int +2, Wis +6
->- **Skills** Athletics +1, Insight +6, Perception +6, Stealth +5, Survival +6
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Common, Druidic, Elvish, Sylvan
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Int +2, Wis +6
+>- **Skills**
+>	 - Athletics +1, Insight +6, Perception +6, Stealth +5, Survival +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Druidic, Elvish, Sylvan
+>
+> #cr3 (700 XP)
 >___
 >***Fey Ancestry.*** Walnut has advantage on saving throws against being charmed, and magic can't put her to sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oceanus
 >*Medium #humanoid (elf), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|
 >___
->- **Saving Throws** Con +5
->- **Skills** Athletics +4, Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Aquan, Elvish
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Con +5
+>- **Skills**
+>	 - Athletics +4, Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Aquan, Elvish
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** Oceanus can breathe air and water.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quipper
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Blood Frenzy.*** The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

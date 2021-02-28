@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nereid
 >*Medium #fey , , any chaotic alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|12 (+1)|13 (+1)|14 (+2)|16 (+3)|
 >___
->- **Skills** Acrobatics +5, Nature +3, Stealth +5, Survival +4
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Aquan, Common, Elvish, Sylvan
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Acrobatics +5, Nature +3, Stealth +5, Survival +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Aquan, Common, Elvish, Sylvan
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The nereid can breathe air and water.  
 >

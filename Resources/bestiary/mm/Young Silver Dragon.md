@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Silver Dragon
 >*Large #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 >___
->- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
->- **Skills** Arcana +6, History +6, Perception +8, Stealth +4
->- **Damage Immunities** cold
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
->- **Languages** Common, Draconic
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +9, Wis +4, Cha +8
+>- **Skills**
+>	 - Arcana +6, History +6, Perception +8, Stealth +4
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr9 (5,000 XP)
 >___
 ## Actions
 >***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.  

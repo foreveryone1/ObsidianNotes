@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hurricane
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Skills** Acrobatics +5
->- **Senses** passive Perception 11
->- **Languages** Auran, Common
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Acrobatics +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr2 (450 XP)
 >___
 >***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dao
 >*Large #elemental , neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|24 (+7)|12 (+1)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Int +5, Wis +5, Cha +6
->- **Condition Immunities** petrified
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Terran
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +5, Cha +6
+>- **Condition Immunities**
+>	 - petrified
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Terran
+>
+> #cr11 (7,200 XP)
 >___
 >***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Quaggoth Spore Servant
 >*Medium #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|2 (-4)|6 (-2)|1 (-5)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, frightened, paralyzed, poisoned
->- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 8
->- **Languages** —
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - blindsight 30 ft. (blind beyond this radius), passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Multiattack.*** The spore servant makes two claw attacks.  

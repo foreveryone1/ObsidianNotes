@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Maxeene
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|12 (+1)|10 (+0)|11 (+0)|7 (-2)|
 >___
->- **Senses** passive Perception 10
->- **Languages** Common
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common
+>
+> ** #cr1-4 ** (50 XP)
 >___
 ## Actions
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.

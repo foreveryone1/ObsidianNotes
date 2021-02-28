@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Aboleth
 >*Large #aberration , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Con +4, Int +6, Wis +4
->- **Skills** History +10, Perception +8
->- **Senses** darkvision 120 ft., passive Perception 20
->- **Languages** Deep Speech, telepathy 120 ft.
->- #cr10 (2,950 XP)
+>- **Saving Throws**
+>	 - Con +4, Int +6, Wis +4
+>- **Skills**
+>	 - History +10, Perception +8
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 20
+>- **Languages**
+>	 - Deep Speech, telepathy 120 ft.
+>
+> #cr10 (2,950 XP)
 >___
 >***Amphibious.*** The aboleth can breathe air and water.  
 >
@@ -35,6 +44,9 @@
 ## Legendary Actions
 >The reduced-threat aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The reduced-threat aboleth regains spent legendary actions at the start of its turn.
 >
->- **Detect.** The aboleth makes a Wisdom (Perception) check.
->- **Tail Swipe.** The aboleth makes one tail attack.
->- **Psychic Drain (Costs 2 Actions).** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+>- **Detect**
+>	- The aboleth makes a Wisdom (Perception) check.
+>- **Tail Swipe**
+>	- The aboleth makes one tail attack.
+>- **Psychic Drain (Costs 2 Actions)**
+>	- One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.

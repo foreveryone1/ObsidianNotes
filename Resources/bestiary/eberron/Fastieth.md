@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Fastieth
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|10 (+0)|4 (-3)|11 (+0)|4 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-4 ** (50 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Quickness (Recharge 5–6).*** The fastieth can take the Dodge action as a bonus action.  
 >

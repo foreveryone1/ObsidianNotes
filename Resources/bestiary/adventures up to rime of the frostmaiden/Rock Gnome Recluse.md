@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rock Gnome Recluse
 >*Small #humanoid (gnome), chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|11 (+0)|10 (+0)|15 (+2)|10 (+0)|13 (+1)|
 >___
->- **Skills** Arcana +4, History +4
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Gnomish
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Arcana +4, History +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Common, Gnomish
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Gnome Cunning.*** The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.  
 >

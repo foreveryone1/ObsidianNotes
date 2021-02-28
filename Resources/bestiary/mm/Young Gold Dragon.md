@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Gold Dragon
 >*Large #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)|
 >___
->- **Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
->- **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
->- **Damage Immunities** fire
->- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
->- **Languages** Common, Draconic
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Con +9, Wis +5, Cha +9
+>- **Skills**
+>	 - Insight +5, Perception +9, Persuasion +9, Stealth +6
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 120 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr10 (5,900 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >

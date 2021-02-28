@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadow Demon
 >*Medium #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,15 +14,24 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|
 >___
->- **Saving Throws** Dex +5, Cha +4
->- **Skills** Stealth +7
->- **Damage Vulnerabilities** radiant
->- **Damage Resistances** acid, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, lightning, poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Abyssal, telepathy 120 ft.
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +5, Cha +4
+>- **Skills**
+>	 - Stealth +7
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Damage Resistances**
+>	 - acid, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, lightning, poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Abyssal, telepathy 120 ft.
+>
+> #cr4 (1,100 XP)
 >___
 >***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

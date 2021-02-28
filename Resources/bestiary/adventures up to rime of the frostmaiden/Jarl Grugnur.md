@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Jarl Grugnur
 >*Huge #giant , neutral good (50%) or neutral evil (50%)*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Wis +7, Cha +7
->- **Skills** Insight +7, Perception +7
->- **Damage Immunities** cold
->- **Senses** passive Perception 17
->- **Languages** Common, Giant
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +10, Wis +7, Cha +7
+>- **Skills**
+>	 - Insight +7, Perception +7
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr9 (5,000 XP)
 >___
 ## Actions
 >***Multiattack.*** Grugnur makes two longsword attacks.  

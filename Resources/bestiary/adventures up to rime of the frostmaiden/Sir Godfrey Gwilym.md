@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sir Godfrey Gwilym
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)|
 >___
->- **Saving Throws** Str +7, Con +7, Wis +6, Cha +7
->- **Damage Resistances** necrotic, psychic
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** the languages it knew in life
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Str +7, Con +7, Wis +6, Cha +7
+>- **Damage Resistances**
+>	 - necrotic, psychic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr6 (2,300 XP)
 >___
 >***Regeneration.*** The knight regains 10 hit points at the start of its turn. If the knight takes fire or radiant damage, this trait doesn't function at the start of the knight's next turn. The knight's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.  
 >

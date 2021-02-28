@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ezmerelda d'Avenir
 >*Medium #humanoid (human), chaotic good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|16 (+3)|16 (+3)|11 (+0)|17 (+3)|
 >___
->- **Saving Throws** Wis +3
->- **Skills** Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicine +3, Perception +6, Performance +6, Sleight of Hand +7, Stealth +7, Survival +6
->- **Senses** passive Perception 16
->- **Languages** Common, Elvish
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Wis +3
+>- **Skills**
+>	 - Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicine +3, Perception +6, Performance +6, Sleight of Hand +7, Stealth +7, Survival +6
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr8 (3,900 XP)
 >___
 >***Special Equipment.*** In addition to her magic armor and weapons, Ezmerelda has two potions of greater healing, six vials of holy water, and three wooden stakes.  
 >

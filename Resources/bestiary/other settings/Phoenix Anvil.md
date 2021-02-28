@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Phoenix Anvil
 >*Medium #humanoid (human), lawful neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 >___
->- **Skills** Athletics +4, Performance +3, Persuasion +3, Religion +3
->- **Senses** passive Perception 13
->- **Languages** Common, Elvish
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Athletics +4, Performance +3, Persuasion +3, Religion +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Divine Display (1/Day).*** As a bonus action, Phoenix causes his shield to flare with divine light. Each creature of his choice within 30 feet of him must succeed on a DC 13 Wisdom saving throw or be blinded for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself with a success.  
 >

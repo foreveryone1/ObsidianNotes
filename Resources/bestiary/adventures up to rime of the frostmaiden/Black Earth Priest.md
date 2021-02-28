@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Black Earth Priest
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|12 (+1)|10 (+0)|16 (+3)|
 >___
->- **Skills** Intimidation +5, Persuasion +5, Religion +3
->- **Senses** passive Perception 10
->- **Languages** Common, Terran
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Intimidation +5, Persuasion +5, Religion +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Terran
+>
+> #cr3 (700 XP)
 >___
 >***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:  
 >

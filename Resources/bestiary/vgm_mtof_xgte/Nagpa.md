@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nagpa
 >*Medium #humanoid (nagpa), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|15 (+2)|12 (+1)|23 (+6)|18 (+4)|21 (+5)|
 >___
->- **Saving Throws** Int +12, Wis +10, Cha +11
->- **Skills** Arcana +12, Deception +11, History +12, Insight +10, Perception +10
->- **Senses** truesight 120 ft., passive Perception 20
->- **Languages** Common plus up to five other languages
->- #cr17 (18,000 XP)
+>- **Saving Throws**
+>	 - Int +12, Wis +10, Cha +11
+>- **Skills**
+>	 - Arcana +12, Deception +11, History +12, Insight +10, Perception +10
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 20
+>- **Languages**
+>	 - Common plus up to five other languages
+>
+> #cr17 (18,000 XP)
 >___
 >***Corruption.*** As a bonus action, the nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is charmed by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.  
 >

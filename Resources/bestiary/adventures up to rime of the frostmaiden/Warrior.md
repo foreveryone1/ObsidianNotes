@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Warrior
 >*7th-level Medium humanoid*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|10 (+0)|12 (+1)|10 (+0)|
 >___
->- **Saving Throws** Con +5
->- **Skills** Athletics +6, Perception +4, Survival +4
->- **Senses** passive Perception 14
->- **Languages** Common, plus one of your choice
->- #cr-unavailable
+>- **Saving Throws**
+>	 - Con +5
+>- **Skills**
+>	 - Athletics +6, Perception +4, Survival +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common, plus one of your choice
+>
+> #cr-unavailable
 >___
 >***Battle Readiness.*** The warrior has advantage on initiative rolls.  
 >

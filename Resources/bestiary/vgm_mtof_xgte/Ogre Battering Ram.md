@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ogre Battering Ram
 >*Large #giant , chaotic evil*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common, Giant
->- #cr4 (1,100 XP)
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr4 (1,100 XP)
 >___
 >***Siege Monster.*** The ogre deals double damage to objects and structures.  
 >

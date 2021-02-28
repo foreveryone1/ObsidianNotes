@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Valindra Shadowmantle
 >*Medium #undead , neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +10, Int +12, Wis +9
->- **Skills** Arcana +19, History +12, Insight +9, Perception +9
->- **Damage Resistances** cold, lightning, necrotic
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** truesight 120 ft., passive Perception 19
->- **Languages** Common, Abyssal, Draconic, Dwarvish, Elvish, Infernal
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Con +10, Int +12, Wis +9
+>- **Skills**
+>	 - Arcana +19, History +12, Insight +9, Perception +9
+>- **Damage Resistances**
+>	 - cold, lightning, necrotic
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 19
+>- **Languages**
+>	 - Common, Abyssal, Draconic, Dwarvish, Elvish, Infernal
+>
+> #cr21 (33,000 XP)
 >___
 >***Legendary Resistance (3/Day).*** If Valindra fails a saving throw, she can choose to succeed instead.  
 >
@@ -49,10 +61,14 @@
 ## Legendary Actions
 >Valindra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Valindra regains spent legendary actions at the start of its turn.
 >
->- **Cantrip.** Valindra casts a cantrip.
->- **Paralyzing Touch (Costs 2 Actions).** Valindra uses her Paralyzing Touch.
->- **Frightening Gaze (Costs 2 Actions).** Valindra fixes her gaze on one creature she can see within 10 feet of her. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the Valindra's gaze for the next 24 hours.
->- **Disrupt Life (Costs 3 Actions).** Each non-undead creature within 20 feet of Valindra must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>- **Cantrip**
+>	- Valindra casts a cantrip.
+>- **Paralyzing Touch (Costs 2 Actions)**
+>	- Valindra uses her Paralyzing Touch.
+>- **Frightening Gaze (Costs 2 Actions)**
+>	- Valindra fixes her gaze on one creature she can see within 10 feet of her. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the Valindra's gaze for the next 24 hours.
+>- **Disrupt Life (Costs 3 Actions)**
+>	- Each non-undead creature within 20 feet of Valindra must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 ## Valindra Shadowmantle
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
 A lich is a gaunt and skeletal humanoid with withered flesh stretched tight across its bones. Its eyes succumbed to decay long ago, but points of light burn in its empty sockets. It is often garbed in the moldering remains of fine clothing and jewelry worn and dulled by the passage of time.

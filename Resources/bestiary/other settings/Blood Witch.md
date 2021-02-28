@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Blood Witch
 >*Medium #humanoid (any race), chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|15 (+2)|13 (+1)|9 (-1)|19 (+4)|
 >___
->- **Saving Throws** Wis +2, Cha +7
->- **Skills** Arcana +4, Intimidation +7, Perception +2, Stealth +5
->- **Damage Resistances** psychic
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Abyssal plus any one language (usually Common)
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Wis +2, Cha +7
+>- **Skills**
+>	 - Arcana +4, Intimidation +7, Perception +2, Stealth +5
+>- **Damage Resistances**
+>	 - psychic
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal plus any one language (usually Common)
+>
+> #cr7 (2,900 XP)
 >___
 >***Blood Witch Dance.*** The witch can use a bonus action to control the movement of one creature cursed by its hex spell that it can see within 30 feet of it. The creature must succeed on a DC 15 Charisma saving throw or use its reaction to move up to 30 feet in a direction of the witch's choice.  
 >

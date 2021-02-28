@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zhent Martial Arts Adept
 >*Small #humanoid (Lightfoot halfling), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|13 (+1)|11 (+0)|16 (+3)|10 (+0)|
 >___
->- **Skills** Acrobatics +5, Insight +5, Stealth +5
->- **Senses** passive Perception 13
->- **Languages** Common, Halfling
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Acrobatics +5, Insight +5, Stealth +5
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Halfling
+>
+> #cr3 (700 XP)
 >___
 >***Brave.*** The adept has advantage on any saving throws against being frightened.  
 >

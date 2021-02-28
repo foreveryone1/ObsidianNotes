@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Animated Tree
 >*Huge #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 >___
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing, necrotic, radiant
->- **Senses** passive Perception 13
->- **Languages** understands Common, Druidic, Elvish, and Sylvan but cannot speak
->- #cr9 (5,000 XP)
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, necrotic, radiant
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - understands Common, Druidic, Elvish, and Sylvan but cannot speak
+>
+> #cr9 (5,000 XP)
 >___
 >***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.  
 >

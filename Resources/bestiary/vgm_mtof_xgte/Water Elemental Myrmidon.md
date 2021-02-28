@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Water Elemental Myrmidon
 >*Medium #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|8 (-1)|10 (+0)|10 (+0)|
 >___
->- **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** paralyzed, petrified, poisoned, prone
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Aquan, one language of its creator's choice
->- #cr7 (2,900 XP)
+>- **Damage Resistances**
+>	 - acid; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - paralyzed, petrified, poisoned, prone
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Aquan, one language of its creator's choice
+>
+> #cr7 (2,900 XP)
 >___
 >***Magic Weapons.*** The myrmidon's weapon attacks are magical.  
 >

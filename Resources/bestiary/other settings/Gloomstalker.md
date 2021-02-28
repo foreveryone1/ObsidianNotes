@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Gloomstalker
 >*Large #monstrosity , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|14 (+2)|5 (-3)|17 (+3)|14 (+2)|
 >___
->- **Saving Throws** Str +9, Dex +6
->- **Skills** Athletics +9, Intimidation +5, Perception +6, Stealth +6
->- **Damage Vulnerabilities** radiant
->- **Senses** darkvision 240 ft, passive Perception 16
->- **Languages** understands Common but can't speak
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Str +9, Dex +6
+>- **Skills**
+>	 - Athletics +9, Intimidation +5, Perception +6, Stealth +6
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Senses**
+>	 - darkvision 240 ft, passive Perception 16
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> #cr6 (2,300 XP)
 >___
 >***Shadowstep.*** As a bonus action, the gloomstalker can teleport up to 40 feet to an unoccupied space it can see.  
 >

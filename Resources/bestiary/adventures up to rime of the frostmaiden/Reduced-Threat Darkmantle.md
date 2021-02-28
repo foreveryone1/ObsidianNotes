@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Reduced-Threat Darkmantle
 >*Small #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Skills** Stealth +1
->- **Senses** blindsight 60 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-2 ** (50 XP)
+>- **Skills**
+>	 - Stealth +1
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (50 XP)
 >___
 >***Echolocation.*** The darkmantle can't use its blindsight while deafened.  
 >

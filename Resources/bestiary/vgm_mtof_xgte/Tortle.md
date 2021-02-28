@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tortle
 >*Medium #humanoid (tortle), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|
 >___
->- **Skills** Athletics +4, Survival +3
->- **Senses** passive Perception 11
->- **Languages** Aquan, Common
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Athletics +4, Survival +3
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Aquan, Common
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Hold Breath.*** The tortle can hold its breath for 1 hour.  
 >

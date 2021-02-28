@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Scorpion
 >*Tiny #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|8 (-1)|1 (-5)|8 (-1)|2 (-4)|
 >___
->- **Senses** blindsight 10 ft., passive Perception 9
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 ## Actions
 >***Sting.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hydroloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)|
 >___
->- **Skills** Insight +4, Perception +4
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Insight +4, Perception +4
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr9 (5,000 XP)
 >___
 >***Amphibious.*** The hydroloth can breathe air and water.  
 >

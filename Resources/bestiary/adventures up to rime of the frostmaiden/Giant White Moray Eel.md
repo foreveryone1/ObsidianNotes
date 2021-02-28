@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant White Moray Eel
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Senses** blindsight 10 ft., passive Perception 12
->- **Languages** —
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 12
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 >***Water Breathing.*** The eel can breathe only underwater.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Almiraj
 >*Small #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|10 (+0)|2 (-4)|14 (+2)|10 (+0)|
 >___
->- **Skills** Perception +4, Stealth +5
->- **Senses** darkvision 30 ft., passive Perception 14
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +5
+>- **Senses**
+>	 - darkvision 30 ft., passive Perception 14
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Familiar.*** With the DM's permission, the find familiar spell can summon an almiraj.  
 >

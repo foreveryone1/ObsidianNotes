@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ultroloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|18 (+4)|18 (+4)|15 (+2)|19 (+4)|
 >___
->- **Skills** Intimidation +9, Perception +7, Stealth +8
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 17
->- **Languages** Abyssal, Infernal, telepathy 120 ft.
->- #cr13 (10,000 XP)
+>- **Skills**
+>	 - Intimidation +9, Perception +7, Stealth +8
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 17
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 120 ft.
+>
+> #cr13 (10,000 XP)
 >___
 >***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:  
 >

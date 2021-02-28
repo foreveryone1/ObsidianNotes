@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Quippers
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
 >___
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Blood Frenzy.*** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

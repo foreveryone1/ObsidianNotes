@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nightmare
 >*Large #fiend , neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 >___
->- **Damage Immunities** fire
->- **Senses** passive Perception 11
->- **Languages** understands Abyssal, Common, and Infernal but can't speak 
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - understands Abyssal, Common, and Infernal but can't speak 
+>
+> #cr3 (700 XP)
 >___
 >***Confer Fire Resistance.*** The nightmare can grant resistance to fire damage to anyone riding it.  
 >

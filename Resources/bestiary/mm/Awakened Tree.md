@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Awakened Tree
 >*Huge #plant , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|6 (-2)|15 (+2)|10 (+0)|10 (+0)|7 (-2)|
 >___
->- **Damage Vulnerabilities** fire
->- **Damage Resistances** bludgeoning, piercing
->- **Senses** passive Perception 10
->- **Languages** one language known by its creator
->- #cr2 (450 XP)
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Damage Resistances**
+>	 - bludgeoning, piercing
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - one language known by its creator
+>
+> #cr2 (450 XP)
 >___
 >***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.  
 >

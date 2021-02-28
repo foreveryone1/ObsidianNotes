@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dragonfang
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|12 (+1)|12 (+1)|14 (+2)|
 >___
->- **Saving Throws** Wis +4
->- **Skills** Deception +5, Stealth +6
->- **Damage Resistances** one of the following: acid, cold, fire, lightning, and poison
->- **Senses** passive Perception 11
->- **Languages** Common, Draconic, Infernal
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +4
+>- **Skills**
+>	 - Deception +5, Stealth +6
+>- **Damage Resistances**
+>	 - one of the following: acid, cold, fire, lightning, and poison
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Draconic, Infernal
+>
+> #cr5 (1,800 XP)
 >___
 >***Dragon Fanatic.*** The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened.  
 >

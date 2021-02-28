@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Oread
 >*Medium #fey , , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|18 (+4)|
 >___
->- **Skills** Acrobatics +4, Athletics +4, Performance +6
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** passive Perception 11
->- **Languages** Common, Sylvan
->- #cr4 (1,100 XP)
+>- **Skills**
+>	 - Acrobatics +4, Athletics +4, Performance +6
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Common, Sylvan
+>
+> #cr4 (1,100 XP)
 >___
 >***Innate Spellcasting.*** The oread's spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:  
 >

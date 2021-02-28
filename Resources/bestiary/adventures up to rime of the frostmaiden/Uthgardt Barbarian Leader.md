@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Uthgardt Barbarian Leader
 >*Medium #humanoid (human), chaotic neutral*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Senses** passive Perception 10
->- **Languages** Bothii, Common, Elvish
->- #cr2 (450 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Bothii, Common, Elvish
+>
+> #cr2 (450 XP)
 >___
 >***Reckless.*** At the start of its turn, the barbarian can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.  
 >

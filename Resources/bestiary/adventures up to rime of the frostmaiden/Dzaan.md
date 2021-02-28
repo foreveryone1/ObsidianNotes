@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dzaan
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|11 (+0)|12 (+1)|16 (+3)|13 (+1)|15 (+2)|
 >___
->- **Saving Throws** Int +5, Wis +3
->- **Skills** Arcana +5, Deception +4, History +5
->- **Senses** passive Perception 11
->- **Languages** Abyssal, Common, Giant, Infernal
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Int +5, Wis +3
+>- **Skills**
+>	 - Arcana +5, Deception +4, History +5
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Abyssal, Common, Giant, Infernal
+>
+> #cr4 (1,100 XP)
 >___
 >***Spellcasting.*** Dzaan is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:  
 >

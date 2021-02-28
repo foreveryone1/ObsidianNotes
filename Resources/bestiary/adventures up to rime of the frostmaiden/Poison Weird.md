@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Poison Weird
 >*Large #elemental , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
 >___
->- **Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
->- **Senses** blindsight 30 ft., passive Perception 10
->- **Languages** understands Aquan but doesn't speak
->- #cr4 (1,100 XP)
+>- **Damage Resistances**
+>	 - fire; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+>- **Senses**
+>	 - blindsight 30 ft., passive Perception 10
+>- **Languages**
+>	 - understands Aquan but doesn't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Brew Bound.*** The weird dies if forced to leave the basin of toxic brew it inhabits, or if a purify food and drink spell is cast on the brew.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Thrakkus
 >*Medium #humanoid (dragonborn), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
 >___
->- **Damage Resistances** fire
->- **Senses** passive Perception 10
->- **Languages** Common, Draconic
->- #cr2 (450 XP)
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr2 (450 XP)
 >___
 >***Reckless.*** At the start of his turn, Thrakkus can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hundred-Handed One
 >*Huge #giant , lawful neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|15 (+2)|25 (+7)|14 (+2)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +12, Wis +8
->- **Skills** Intimidation +8, Perception +8
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 18
->- **Languages** Giant
->- #cr15 (13,000 XP)
+>- **Saving Throws**
+>	 - Con +12, Wis +8
+>- **Skills**
+>	 - Intimidation +8, Perception +8
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 18
+>- **Languages**
+>	 - Giant
+>
+> #cr15 (13,000 XP)
 >___
 >***Reactive.*** The giant can take one reaction on every turn in a combat.  
 >

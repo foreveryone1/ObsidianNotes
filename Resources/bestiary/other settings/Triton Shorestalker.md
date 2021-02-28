@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Triton Shorestalker
 >*Medium #humanoid (triton), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 >___
->- **Skills** Nature +4, Perception +4, Stealth +5
->- **Damage Resistances** cold
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Primordial
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Nature +4, Perception +4, Stealth +5
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Common, Primordial
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The triton can breathe air and water.  
 >

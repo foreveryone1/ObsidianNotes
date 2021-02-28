@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kraken Priest
 >*Medium #humanoid (any race), any evil alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|16 (+3)|10 (+0)|15 (+2)|14 (+2)|
 >___
->- **Skills** Perception +5
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
->- **Senses** passive Perception 15
->- **Languages** any two languages
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - any two languages
+>
+> #cr5 (1,800 XP)
 >___
 >***Amphibious.*** The priest can breathe air and water.  
 >

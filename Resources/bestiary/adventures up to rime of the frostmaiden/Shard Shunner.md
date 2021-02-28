@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shard Shunner
 >*Small #humanoid (halfling, shapechanger), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)|
 >___
->- **Skills** Perception +2, Stealth +4
->- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Senses** darkvision 60 ft. (rat form only), passive Perception 12
->- **Languages** Common, Halfling, Thieves' cant
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Perception +2, Stealth +4
+>- **Damage Immunities**
+>	 - bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Senses**
+>	 - darkvision 60 ft. (rat form only), passive Perception 12
+>- **Languages**
+>	 - Common, Halfling, Thieves' cant
+>
+> #cr2 (450 XP)
 >___
 >***Shapechanger.*** The Shard Shunner can use their action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into their true form, which is humanoid. Their statistics, other than their size, are the same in each form. Any equipment they are wearing or carrying isn't transformed. They revert to their true form if they die.  
 >

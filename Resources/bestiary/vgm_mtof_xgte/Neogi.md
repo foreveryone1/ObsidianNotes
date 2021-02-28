@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Neogi
 >*Small #aberration , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|13 (+1)|12 (+1)|15 (+2)|
 >___
->- **Skills** Intimidation +4, Perception +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Deep Speech, Undercommon
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Intimidation +4, Perception +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Deep Speech, Undercommon
+>
+> #cr3 (700 XP)
 >___
 >***Mental Fortitude.*** The neogi has advantage on saving throws against being charmed or frightened, and magic can't put the neogi to sleep.  
 >

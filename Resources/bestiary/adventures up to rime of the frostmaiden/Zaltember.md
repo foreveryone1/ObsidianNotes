@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zaltember
 >*Large #giant , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Damage Immunities** fire
->- **Senses** passive Perception 10
->- **Languages** Common, Giant
->- #cr1 (200 XP)
+>- **Damage Immunities**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr1 (200 XP)
 >___
 ## Actions
 >***Battleaxe.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.  

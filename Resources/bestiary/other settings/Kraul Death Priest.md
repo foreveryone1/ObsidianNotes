@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Kraul Death Priest
 >*Medium #humanoid (kraul), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|14 (+2)|12 (+1)|15 (+2)|10 (+0)|
 >___
->- **Saving Throws** Con +4, Wis +4
->- **Skills** Insight +4, Nature +3, Religion +3
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Kraul
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Con +4, Wis +4
+>- **Skills**
+>	 - Insight +4, Nature +3, Religion +3
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Kraul
+>
+> #cr4 (1,100 XP)
 >___
 >***Feed on Death.*** When a creature within 30 feet of the kraul drops to 0 hit points, the kraul or another creature of its choice within 30 feet of it gains 5 (1d10) temporary hit points, provided the kraul isn't incapacitated.  
 >

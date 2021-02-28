@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swavain Basilisk
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|2 (-4)|8 (-1)|7 (-2)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** —
->- #cr7 (2,900 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - —
+>
+> #cr7 (2,900 XP)
 >___
 >***Amphibious.*** The basilisk can breathe air and water.  
 >

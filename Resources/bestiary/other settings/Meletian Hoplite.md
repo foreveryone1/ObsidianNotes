@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Meletian Hoplite
 >*Medium #humanoid, any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|12 (+1)|16 (+3)|13 (+1)|11 (+0)|
 >___
->- **Saving Throws** Dex +4, Int +5
->- **Skills** Arcana +5, History +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Dex +4, Int +5
+>- **Skills**
+>	 - Arcana +5, History +5, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Spellcasting.*** The hoplite is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:  
 >

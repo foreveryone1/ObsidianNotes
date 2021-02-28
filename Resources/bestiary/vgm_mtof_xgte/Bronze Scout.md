@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bronze Scout
 >*Medium #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|11 (+0)|3 (-4)|14 (+2)|1 (-5)|
 >___
->- **Skills** Perception +6, Stealth +7
->- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** understands one language of its creator but can't speak
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +6, Stealth +7
+>- **Damage Immunities**
+>	 - poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - understands one language of its creator but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Earth Armor.*** The bronze scout doesn't provoke opportunity attacks when it burrows.  
 >

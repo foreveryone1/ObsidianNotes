@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadow Spirit
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|4 (-3)|10 (+0)|16 (+3)|
 >___
->- **Damage Resistances** necrotic
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands the languages you speak
->- #cr-unavailable
+>- **Damage Resistances**
+>	 - necrotic
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages you speak
+>
+> #cr-unavailable
 >___
 >***Terror Frenzy (Fury Only).*** The spirit has advantage on attack rolls against frightened creatures.  
 >

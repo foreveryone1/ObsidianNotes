@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hippocamp
 >*Large #monstrosity , chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|11 (+0)|5 (-3)|10 (+0)|6 (-2)|
 >___
->- **Damage Resistances** cold
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Amphibious.*** The hippocamp can breathe air and water.  
 >

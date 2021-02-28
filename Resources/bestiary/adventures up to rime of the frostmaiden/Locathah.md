@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Locathah
 >*Medium #humanoid (locathah), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|11 (+0)|10 (+0)|11 (+0)|
 >___
->- **Saving Throws** Dex +3
->- **Skills** Athletics +3, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Aquan, Common
->- ** #cr1-2 ** (100 XP)
+>- **Saving Throws**
+>	 - Dex +3
+>- **Skills**
+>	 - Athletics +3, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Aquan, Common
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Leviathan Will.*** The locathah has advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.  
 >

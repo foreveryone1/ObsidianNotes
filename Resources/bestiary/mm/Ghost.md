@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ghost
 >*Medium #undead , any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)|
 >___
->- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** any languages it knew in life
->- #cr4 (1,100 XP)
+>- **Damage Resistances**
+>	 - acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - any languages it knew in life
+>
+> #cr4 (1,100 XP)
 >___
 >***Ethereal Sight.*** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Girallon Zombie
 >*Large #undead , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|3 (-4)|7 (-2)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** —
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***Aggressive.*** As a bonus action, the zombie can move up to its speed toward a hostile creature that it can see.  
 >

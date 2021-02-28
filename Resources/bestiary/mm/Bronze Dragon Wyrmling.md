@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bronze Dragon Wyrmling
 >*Medium #dragon , lawful good*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 >___
->- **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
->- **Skills** Perception +4, Stealth +2
->- **Damage Immunities** lightning
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +2, Con +4, Wis +2, Cha +4
+>- **Skills**
+>	 - Perception +4, Stealth +2
+>- **Damage Immunities**
+>	 - lightning
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >

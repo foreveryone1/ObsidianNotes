@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nupperibo
 >*Medium #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|13 (+1)|3 (-4)|8 (-1)|1 (-5)|
 >___
->- **Skills** Perception +1
->- **Damage Resistances** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** blinded, charmed, frightened, poisoned
->- **Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 11
->- **Languages** understands Infernal but can't speak
->- ** #cr1-2 ** (100 XP)
+>- **Skills**
+>	 - Perception +1
+>- **Damage Resistances**
+>	 - acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - blinded, charmed, frightened, poisoned
+>- **Senses**
+>	 - blindsight 10 ft. (blind beyond this radius), passive Perception 11
+>- **Languages**
+>	 - understands Infernal but can't speak
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Cloud of Vermin.*** Any creature, other than a devil, that starts its turn within 20 feet of the nupperibo must make a DC 11 Constitution saving throw. A creature within the areas of two or more nupperibos makes the saving throw with disadvantage. On a failure, the creature takes 2 (1d4) piercing damage.  
 >

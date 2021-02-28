@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Matron Mother
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|16 (+3)|17 (+3)|21 (+5)|22 (+6)|
 >___
->- **Saving Throws** Con +9, Wis +11, Cha +12
->- **Skills** Insight +11, Perception +11, Religion +9, Stealth +10
->- **Condition Immunities** charmed, frightened, poisoned
->- **Senses** darkvision 120 ft., passive Perception 21
->- **Languages** Elvish, Undercommon
->- #cr20 (25,000 XP)
+>- **Saving Throws**
+>	 - Con +9, Wis +11, Cha +12
+>- **Skills**
+>	 - Insight +11, Perception +11, Religion +9, Stealth +10
+>- **Condition Immunities**
+>	 - charmed, frightened, poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 21
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr20 (25,000 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >
@@ -57,8 +67,11 @@
 ## Legendary Actions
 >The drow matron mother can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The drow matron mother regains spent legendary actions at the start of its turn.
 >
->- **Demon Staff.** The drow makes one attack with her demon staff.
->- **Compel Demon (Costs 2 Actions).** An allied demon within 30 feet of the drow uses its reaction to make one attack against a target of the drow's choice that she can see.
->- **Cast a Spell (Costs 1–3 Actions).** The drow expends a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that she has prepared. Doing so costs 1 legendary action per level of the spell.
+>- **Demon Staff.**
+> The drow makes one attack with her demon staff.
+>- **Compel Demon (Costs 2 Actions).**
+> An allied demon within 30 feet of the drow uses its reaction to make one attack against a target of the drow's choice that she can see.
+>- **Cast a Spell (Costs 1–3 Actions).**
+> The drow expends a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that she has prepared. Doing so costs 1 legendary action per level of the spell.
 ## Drow Matron Mother
 *Matron mother is a strange title for a cruel tyrant, but given what drow consider to be a goddess, perhaps we shouldn't be surprised.*— Mordenkainen***Drow Matron Mother.*** At the head of each drow noble house sits a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, drow, spiders, and slaves positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the dark god sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.

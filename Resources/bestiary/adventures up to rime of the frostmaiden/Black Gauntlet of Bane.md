@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Black Gauntlet of Bane
 >*Medium #humanoid (human), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|18 (+4)|12 (+1)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Wis +5
->- **Skills** Intimidation +7, Perception +5
->- **Condition Immunities** frightened
->- **Senses** passive Perception 15
->- **Languages** Common
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Wis +5
+>- **Skills**
+>	 - Intimidation +7, Perception +5
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Common
+>
+> #cr6 (2,300 XP)
 >___
 >***Aura of Terror.*** When a hostile creature within 5 feet of the black gauntlet makes an attack roll or a saving throw, it has disadvantage on the roll. Creatures that are immune to the frightened condition are immune to this trait.  
 >

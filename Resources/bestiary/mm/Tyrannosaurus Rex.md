@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Tyrannosaurus Rex
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|9 (-1)|
 >___
->- **Skills** Perception +4
->- **Senses** passive Perception 14
->- **Languages** —
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - —
+>
+> #cr8 (3,900 XP)
 >___
 ## Actions
 >***Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.  

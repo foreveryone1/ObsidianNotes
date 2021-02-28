@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Mechanical Spiders
 >*Medium swarm of tiny constructs, unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >___
->- **Damage Vulnerabilities** lightning
->- **Damage Resistances** bludgeoning, piercing, slashing
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
->- **Senses** blindsight 10 ft., passive Perception 8
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Damage Vulnerabilities**
+>	 - lightning
+>- **Damage Resistances**
+>	 - bludgeoning, piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Constructed Nature.*** The swarm doesn't require air, food, drink, or sleep.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Bloodfray Giant
 >*Huge #giant , chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|9 (-1)|20 (+5)|7 (-2)|8 (-1)|9 (-1)|
 >___
->- **Saving Throws** Str +9, Con +8, Wis +2
->- **Skills** Athletics +9, Perception +2
->- **Senses** passive Perception 12
->- **Languages** Giant
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Str +9, Con +8, Wis +2
+>- **Skills**
+>	 - Athletics +9, Perception +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Giant
+>
+> #cr6 (2,300 XP)
 >___
 ## Actions
 >***Chain.*** Melee Weapon Attack: +9 to hit, reach 20 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage. If the target is a creature, it is grappled (escape DC 17). Until the grapple ends, the target is restrained, and the giant can't use this attack on anyone else.  

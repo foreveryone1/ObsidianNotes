@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mountain Goat
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|5 (-3)|
 >___
->- **Senses** passive Perception 10
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Charge.*** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.  
 >

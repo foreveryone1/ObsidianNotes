@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Screamer
 >*Medium #construct , lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|7 (-2)|12 (+1)|5 (-3)|5 (-3)|5 (-3)|
 >___
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 7
->- **Languages** understands Dwarvish but can't speak
->- #cr3 (700 XP)
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 7
+>- **Languages**
+>	 - understands Dwarvish but can't speak
+>
+> #cr3 (700 XP)
 >___
 >***Engine of Pain.*** Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.  
 >

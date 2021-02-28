@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Calcryx
 >*Medium #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|5 (-3)|10 (+0)|11 (+0)|
 >___
->- **Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
->- **Skills** Perception +4, Stealth +2
->- **Damage Immunities** cold
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +2, Con +4, Wis +2, Cha +2
+>- **Skills**
+>	 - Perception +4, Stealth +2
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.  

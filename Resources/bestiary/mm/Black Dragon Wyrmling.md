@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Black Dragon Wyrmling
 >*Medium #dragon , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
 >___
->- **Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
->- **Skills** Perception +4, Stealth +4
->- **Damage Immunities** acid
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
->- **Languages** Draconic
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +3, Wis +2, Cha +3
+>- **Skills**
+>	 - Perception +4, Stealth +4
+>- **Damage Immunities**
+>	 - acid
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 14
+>- **Languages**
+>	 - Draconic
+>
+> #cr2 (450 XP)
 >___
 >***Amphibious.*** The dragon can breathe air and water.  
 >

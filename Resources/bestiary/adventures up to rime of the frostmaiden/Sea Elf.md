@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Sea Elf
 >*Medium #humanoid (elf), chaotic good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
 >___
->- **Skills** Perception +2
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Elvish
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +2
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Elvish
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Amphibious.*** The sea elf can breathe air and water.  
 >

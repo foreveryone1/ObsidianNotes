@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Shadow Horror
 >*Large #aberration , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|2 (-4)|17 (+3)|18 (+4)|
 >___
->- **Skills** Perception +7, Stealth +11
->- **Damage Vulnerabilities** radiant
->- **Condition Immunities** frightened
->- **Senses** darkvision 120 ft., passive Perception 17
->- **Languages** —
->- #cr9 (5,000 XP)
+>- **Skills**
+>	 - Perception +7, Stealth +11
+>- **Damage Vulnerabilities**
+>	 - radiant
+>- **Condition Immunities**
+>	 - frightened
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 17
+>- **Languages**
+>	 - —
+>
+> #cr9 (5,000 XP)
 >___
 >***Incorporeal Movement.*** The horror can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

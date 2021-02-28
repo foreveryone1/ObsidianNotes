@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hellfire Engine
 >*Huge #construct , lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|24 (+7)|2 (-4)|10 (+0)|1 (-5)|
 >___
->- **Saving Throws** Dex +8, Wis +5, Cha +0
->- **Damage Resistances** cold, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
->- **Senses** darkvision 120 ft., passive Perception 10
->- **Languages** understands Infernal but can't speak
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Dex +8, Wis +5, Cha +0
+>- **Damage Resistances**
+>	 - cold, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 10
+>- **Languages**
+>	 - understands Infernal but can't speak
+>
+> #cr16 (15,000 XP)
 >___
 >***Immutable Form.*** The hellfire engine is immune to any spell or effect that would alter its form.  
 >

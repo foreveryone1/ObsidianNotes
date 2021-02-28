@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Zephyros
 >*Huge #giant , neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|22 (+6)|18 (+4)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Con +11, Wis +8, Cha +8
->- **Skills** Insight +8, Perception +8
->- **Senses** passive Perception 17
->- **Languages** Common, Giant
->- #cr13 (10,000 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +8, Cha +8
+>- **Skills**
+>	 - Insight +8, Perception +8
+>- **Senses**
+>	 - passive Perception 17
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr13 (10,000 XP)
 >___
 >***Innate Spellcasting.*** Zephyros's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:  
 >

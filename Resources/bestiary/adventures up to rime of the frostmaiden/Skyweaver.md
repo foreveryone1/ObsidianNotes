@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skyweaver
 >*Medium #humanoid (human), chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|12 (+1)|11 (+0)|10 (+0)|16 (+3)|
 >___
->- **Skills** Deception +5, Persuasion +5
->- **Senses** passive Perception 10
->- **Languages** Auran, Common
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +5, Persuasion +5
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Auran, Common
+>
+> #cr3 (700 XP)
 >___
 >***Spellcasting.*** The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:  
 >

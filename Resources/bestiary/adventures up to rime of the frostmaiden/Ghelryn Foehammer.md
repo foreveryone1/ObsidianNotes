@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ghelryn Foehammer
 >*Medium #humanoid (shield dwarf), lawful good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|7 (-2)|17 (+3)|10 (+0)|11 (+0)|11 (+0)|
 >___
->- **Skills** Athletics +6, Intimidation +2, Perception +2
->- **Damage Resistances** poison
->- **Senses** darkvision 60 ft., passive Perception 12
->- **Languages** Common, Dwarvish
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Athletics +6, Intimidation +2, Perception +2
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Dwarven Resilience.*** Ghelryn has advantage on saving throws against poison.  
 >

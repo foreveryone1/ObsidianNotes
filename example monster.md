@@ -13,7 +13,6 @@ Con
 ![[LVL9#Stats|stats]]![[LVL9#Standard Striker]]![[size_gargantuan|narrow]]![[type_monstrosity|narrow]]![[speed_walk|narrow]]![[speed_burrow|narrow]]<div><br><h6>20 ft.
 40 ft.</h6> </div>
 
-
 ### Skills
 [[Tools#Athletics]], **[[Tools#Religion]]**
 ### Spellcasting: Charisma
@@ -44,3 +43,6 @@ Con
 ![[mpowers#Blocker]]![[mpowers#Counterattack]]![[mtraits#Redirect]]
 ### Actions
 
+<q>quote
+- test
+	- test </q>

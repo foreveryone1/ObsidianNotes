@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drowned Assassin
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|16 (+3)|9 (-1)|9 (-1)|16 (+3)|
 >___
->- **Saving Throws** Dex +5, Con +5
->- **Skills** Intimidation +5, Stealth +5
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands the languages it knew in life but can't speak
->- #cr4 (1,100 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +5
+>- **Skills**
+>	 - Intimidation +5, Stealth +5
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr4 (1,100 XP)
 >___
 >***Bottom Treader.*** The drowned assassin cannot swim, and it sinks to the bottom of any body of water. It takes no penalties to its movement or attacks underwater. It is immune to the effects of being underwater at a depth greater than 100 feet.  
 >

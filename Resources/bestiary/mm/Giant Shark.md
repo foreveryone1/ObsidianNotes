@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Shark
 >*Huge #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|11 (+0)|21 (+5)|1 (-5)|10 (+0)|5 (-3)|
 >___
->- **Skills** Perception +3
->- **Senses** blindsight 60 ft., passive Perception 13
->- **Languages** —
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Senses**
+>	 - blindsight 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> #cr5 (1,800 XP)
 >___
 >***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.  
 >

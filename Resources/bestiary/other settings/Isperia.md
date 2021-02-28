@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Isperia
 >*Gargantuan #monstrosity , lawful neutral*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|18 (+4)|23 (+6)|26 (+8)|20 (+5)|
 >___
->- **Saving Throws** Dex +9, Con +11, Int +13, Wis +15
->- **Skills** Arcana +13, History +13, Insight +15, Perception +15
->- **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, frightened
->- **Senses** truesight 120 ft., passive Perception 25
->- **Languages** Common, Sphinx
->- #cr21 (33,000 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +11, Int +13, Wis +15
+>- **Skills**
+>	 - Arcana +13, History +13, Insight +15, Perception +15
+>- **Damage Immunities**
+>	 - psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, frightened
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 25
+>- **Languages**
+>	 - Common, Sphinx
+>
+> #cr21 (33,000 XP)
 >___
 >***Innate Spellcasting.*** Isperia's innate spellcasting ability is Wisdom (spell save DC 23). Isperia can innately cast imprisonment twice per day, requiring no material components.  
 >
@@ -48,9 +59,12 @@
 ## Legendary Actions
 >Isperia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Isperia regains spent legendary actions at the start of its turn.
 >
->- **Claw Attack.** Isperia makes one claw attack.
->- **Cast a Spell (Costs 2 Actions).** Isperia casts a spell of 3rd level or lower from her list of prepared spells, using a spell slot as normal.
->- **Supreme Legal Authority (Costs 3 Actions).** Isperia uses Supreme Legal Authority.
+>- **Claw Attack**
+>	- Isperia makes one claw attack.
+>- **Cast a Spell (Costs 2 Actions)**
+>	- Isperia casts a spell of 3rd level or lower from her list of prepared spells, using a spell slot as normal.
+>- **Supreme Legal Authority (Costs 3 Actions)**
+>	- Isperia uses Supreme Legal Authority.
 ## Isperia
 Isperia is the current guildmaster of the Azorius Senate. As a sphinx, she is aloof and values solitude above all. However, she has been forced to give up her privacy to deal with the increased crime and chaos on Ravnica.
 Isperia is devoted to her guild's belief that law is the ultimate bulwark against chaos, and it is her steady hand that guides the Azorius through these uncertain times. As guildmaster, Isperia serves as the supreme judge, a role that takes advantage of her encyclopedic knowledge of Ravnica's labyrinthine legal system.

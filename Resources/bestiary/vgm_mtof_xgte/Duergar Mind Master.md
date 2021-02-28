@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Duergar Mind Master
 >*Medium #humanoid (dwarf), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)|
 >___
->- **Saving Throws** Wis +2
->- **Skills** Perception +2, Stealth +5
->- **Damage Resistances** poison
->- **Senses** darkvision 120 ft., truesight 30 ft., passive Perception 12
->- **Languages** Dwarvish, Undercommon
->- #cr2 (450 XP)
+>- **Saving Throws**
+>	 - Wis +2
+>- **Skills**
+>	 - Perception +2, Stealth +5
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - darkvision 120 ft., truesight 30 ft., passive Perception 12
+>- **Languages**
+>	 - Dwarvish, Undercommon
+>
+> #cr2 (450 XP)
 >___
 >***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Mezzoloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|7 (-2)|10 (+0)|11 (+0)|
 >___
->- **Skills** Perception +3
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 13
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Perception +3
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr5 (1,800 XP)
 >___
 >***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:  
 >

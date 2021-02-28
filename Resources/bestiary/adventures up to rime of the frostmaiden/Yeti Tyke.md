@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Yeti Tyke
 >*Small #monstrosity , chaotic evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|11 (+0)|12 (+1)|6 (-2)|8 (-1)|5 (-3)|
 >___
->- **Damage Immunities** cold
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** understands Yeti but can't speak
->- ** #cr1-8 ** (25 XP)
+>- **Damage Immunities**
+>	 - cold
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - understands Yeti but can't speak
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Keen Smell.*** The yeti has advantage on Wisdom (Perception) checks that rely on smell.  
 >

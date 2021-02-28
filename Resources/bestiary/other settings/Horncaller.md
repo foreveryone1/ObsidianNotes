@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Horncaller
 >*Medium #humanoid (any race), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|14 (+2)|10 (+0)|14 (+2)|13 (+1)|
 >___
->- **Skills** Animal Handling +4, Nature +2, Perception +4
->- **Senses** passive Perception 14
->- **Languages** Common plus any one language
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Animal Handling +4, Nature +2, Perception +4
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - Common plus any one language
+>
+> #cr1 (200 XP)
 >___
 >***Innate Spellcasting.*** The horncaller's innate spellcasting ability is Wisdom (spell save DC 14). The horncaller can innately cast the following spells, requiring no material components:  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drannin Splithelm
 >*Medium #humanoid (shield dwarf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|18 (+4)|11 (+0)|8 (-1)|12 (+1)|
 >___
->- **Skills** Athletics +7, Intimidation +4
->- **Damage Resistances** cold, poison
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Dwarvish
->- #cr7 (2,900 XP)
+>- **Skills**
+>	 - Athletics +7, Intimidation +4
+>- **Damage Resistances**
+>	 - cold, poison
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Dwarvish
+>
+> #cr7 (2,900 XP)
 >___
 >***Special Equipment.*** Drannin wears a control amulet for his shield guardian (see the Monster Manual) and a ring of cold resistance. He also carries a potion of frost giant strength.  
 >

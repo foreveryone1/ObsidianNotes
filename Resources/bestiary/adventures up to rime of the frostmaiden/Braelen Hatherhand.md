@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Braelen Hatherhand
 >*Medium #humanoid (human), any alignment*
 ## Monster Traits
@@ -10,7 +14,10 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr0 **(0 or 10 XP)
 >___

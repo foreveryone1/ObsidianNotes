@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Akroan Hoplite
 >*Medium #humanoid, any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|14 (+2)|11 (+0)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Str +5, Dex +5
->- **Senses** passive Perception 12
->- **Languages** Common
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Str +5, Dex +5
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - Common
+>
+> #cr3 (700 XP)
 >___
 >***Hold the Line.*** While the hoplite is holding a spear, other creatures provoke an opportunity attack from the hoplite when they move within 5 feet of it. When the hoplite hits a creature with an opportunity attack using its spear, the creature takes an extra 4 (1d8) piercing damage, and the creature's speed becomes 0 for the rest of the turn.  
 >

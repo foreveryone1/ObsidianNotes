@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Urstul Floxin
 >*Medium #humanoid (Illuskan human), lawful evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
 >___
->- **Saving Throws** Dex +6, Int +4
->- **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
->- **Damage Resistances** poison
->- **Senses** passive Perception 13
->- **Languages** Common, Orc, Thieves' cant
->- #cr8 (3,900 XP)
+>- **Saving Throws**
+>	 - Dex +6, Int +4
+>- **Skills**
+>	 - Acrobatics +6, Deception +3, Perception +3, Stealth +9
+>- **Damage Resistances**
+>	 - poison
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Orc, Thieves' cant
+>
+> #cr8 (3,900 XP)
 >___
 >***Assassinate.*** During its first turn, Urstul has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Urstul scores against a surprised creature is a critical hit.  
 >

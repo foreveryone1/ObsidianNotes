@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Marut
 >*Large construct (inevitable), lawful neutral*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|12 (+1)|26 (+8)|19 (+4)|15 (+2)|18 (+4)|
 >___
->- **Saving Throws** Int +12, Wis +10, Cha +12
->- **Skills** Insight +10, Intimidation +12, Perception +10
->- **Damage Resistances** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, frightened, paralyzed, poisoned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 20
->- **Languages** all but rarely speaks
->- #cr25 (75,000 XP)
+>- **Saving Throws**
+>	 - Int +12, Wis +10, Cha +12
+>- **Skills**
+>	 - Insight +10, Intimidation +12, Perception +10
+>- **Damage Resistances**
+>	 - thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, frightened, paralyzed, poisoned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 20
+>- **Languages**
+>	 - all but rarely speaks
+>
+> #cr25 (75,000 XP)
 >___
 >***Immutable Form.*** The marut is immune to any spell or effect that would alter its form.  
 >

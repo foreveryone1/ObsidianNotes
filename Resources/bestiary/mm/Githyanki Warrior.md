@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githyanki Warrior
 >*Medium #humanoid (gith), lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|13 (+1)|13 (+1)|10 (+0)|
 >___
->- **Saving Throws** Con +3, Int +3, Wis +3
->- **Senses** passive Perception 11
->- **Languages** Gith
->- #cr3 (700 XP)
+>- **Saving Throws**
+>	 - Con +3, Int +3, Wis +3
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - Gith
+>
+> #cr3 (700 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:  
 >

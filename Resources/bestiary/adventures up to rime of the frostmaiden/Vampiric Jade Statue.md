@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Vampiric Jade Statue
 >*Large #construct , unaligned*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >___
->- **Damage Vulnerabilities** force
->- **Damage Immunities** lightning, poison
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** understands the languages of its creator but can't speak
->- #cr8 (3,900 XP)
+>- **Damage Vulnerabilities**
+>	 - force
+>- **Damage Immunities**
+>	 - lightning, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr8 (3,900 XP)
 >___
 >***Immutable Form.*** The statue is immune to any spell or effect that would alter its form.  
 >
@@ -31,8 +41,11 @@
 ## Legendary Actions
 >The vampiric jade statue can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The vampiric jade statue regains spent legendary actions at the start of its turn.
 >
->- **Bite.** The statue makes one bite attack.
->- **Blood Reaper.** All creatures currently cursed by the statue and within 20 feet of it take 5 necrotic damage.
->- **Move.** The statue moves up to its speed without provoking opportunity attacks.
+>- **Bite**
+>	- The statue makes one bite attack.
+>- **Blood Reaper**
+>	- All creatures currently cursed by the statue and within 20 feet of it take 5 necrotic damage.
+>- **Move**
+>	- The statue moves up to its speed without provoking opportunity attacks.
 ## Vampiric Jade Statue
 A large, exquisitely carved jade statue of a vampire guards the tunnels in Isle of the Abbey, having been brought to life by dark magic. Its stone fangs draw blood that it then uses to work a curse on its victims.

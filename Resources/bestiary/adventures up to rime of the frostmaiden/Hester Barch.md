@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Hester Barch
 >*Medium #humanoid (human), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 >___
->- **Skills** Insight +4, Medicine +4, Religion +2
->- **Senses** passive Perception 12
->- **Languages** any one language (usually Common)
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Insight +4, Medicine +4, Religion +2
+>- **Senses**
+>	 - passive Perception 12
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Spellcasting.*** Hester is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). Hester has following cleric spells prepared:  
 >

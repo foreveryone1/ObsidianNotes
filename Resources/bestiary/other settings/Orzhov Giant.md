@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Orzhov Giant
 >*Large #giant , lawful evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|21 (+5)|12 (+1)|13 (+1)|8 (-1)|
 >___
->- **Saving Throws** Dex +4, Con +8, Wis +4
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common, Giant
->- #cr6 (2,300 XP)
+>- **Saving Throws**
+>	 - Dex +4, Con +8, Wis +4
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Common, Giant
+>
+> #cr6 (2,300 XP)
 >___
 >***Focus.*** As a bonus action, the giant can target a creature it can see within 30 feet of it and make that creature its focus. The target remains the giant's focus for 1 minute, or until either the target or the giant drops to 0 hit points. When the giant makes an attack roll against its focus, it adds a d4 to its attack roll. If the giant attacks a different target while it has a focus, it subtracts a d4 from its attack roll.  
 >

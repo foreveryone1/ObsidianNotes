@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Green Slaad
 >*Large aberration (shapechanger), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|11 (+0)|8 (-1)|12 (+1)|
 >___
->- **Skills** Arcana +3, Perception +2
->- **Damage Resistances** acid, cold, fire, lightning, thunder
->- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 12
->- **Languages** Slaad, telepathy 60 ft.
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Arcana +3, Perception +2
+>- **Damage Resistances**
+>	 - acid, cold, fire, lightning, thunder
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Slaad, telepathy 60 ft.
+>
+> #cr8 (3,900 XP)
 >___
 >***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drow Shadowblade
 >*Medium #humanoid (elf), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|21 (+5)|16 (+3)|12 (+1)|14 (+2)|13 (+1)|
 >___
->- **Saving Throws** Dex +9, Con +7, Wis +6
->- **Skills** Perception +6, Stealth +9
->- **Senses** darkvision 120 ft., passive Perception 16
->- **Languages** Elvish, Undercommon
->- #cr11 (7,200 XP)
+>- **Saving Throws**
+>	 - Dex +9, Con +7, Wis +6
+>- **Skills**
+>	 - Perception +6, Stealth +9
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 16
+>- **Languages**
+>	 - Elvish, Undercommon
+>
+> #cr11 (7,200 XP)
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.  
 >

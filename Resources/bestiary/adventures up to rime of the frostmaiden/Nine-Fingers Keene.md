@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Nine-Fingers Keene
 >*Medium #humanoid (human), neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|14 (+2)|13 (+1)|17 (+3)|14 (+2)|
 >___
->- **Saving Throws** Dex +7, Int +4
->- **Skills** Acrobatics +10, Deception +5, Insight +6, Intimidation +5, Perception +6, Sleight of Hand +10, Stealth +10
->- **Senses** passive Perception 16
->- **Languages** Common, Thieves' cant
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +7, Int +4
+>- **Skills**
+>	 - Acrobatics +10, Deception +5, Insight +6, Intimidation +5, Perception +6, Sleight of Hand +10, Stealth +10
+>- **Senses**
+>	 - passive Perception 16
+>- **Languages**
+>	 - Common, Thieves' cant
+>
+> #cr5 (1,800 XP)
 >___
 >***Cunning Action.*** On each of her turns in combat, Nine-Fingers can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

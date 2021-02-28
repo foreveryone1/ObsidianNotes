@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Master Thief
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|11 (+0)|11 (+0)|12 (+1)|
 >___
->- **Saving Throws** Dex +7, Int +3
->- **Skills** Acrobatics +7, Athletics +3, Perception +3, Sleight of Hand +7, Stealth +7
->- **Senses** passive Perception 13
->- **Languages** any one language (usually Common) plus Thieves' cant
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Dex +7, Int +3
+>- **Skills**
+>	 - Acrobatics +7, Athletics +3, Perception +3, Sleight of Hand +7, Stealth +7
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any one language (usually Common) plus Thieves' cant
+>
+> #cr5 (1,800 XP)
 >___
 >***Cunning Action.*** On each of its turns, the thief can use a bonus action to take the Dash, Disengage, or Hide action.  
 >

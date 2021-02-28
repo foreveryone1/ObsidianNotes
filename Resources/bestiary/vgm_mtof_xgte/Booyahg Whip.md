@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Booyahg Whip
 >*Small #humanoid (goblinoid), neutral evil*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
 >___
->- **Skills** Stealth +6
->- **Senses** darkvision 60 ft., passive Perception 9
->- **Languages** Common, Goblin
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Stealth +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 9
+>- **Languages**
+>	 - Common, Goblin
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Khurgorbaeyag's Gift.*** Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.  
 >

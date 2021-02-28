@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Spawn of Kyuss
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|18 (+4)|5 (-3)|7 (-2)|3 (-4)|
 >___
->- **Saving Throws** Wis +1
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** understands the languages it knew in life but can't speak
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +1
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 8
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr5 (1,800 XP)
 >___
 >***Regeneration.*** The spawn of Kyuss regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or a body of running water. If the spawn takes acid, fire, or radiant damage, this trait doesn't function at the start of the spawn's next turn. The spawn is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.  
 >

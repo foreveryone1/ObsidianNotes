@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Cloaker
 >*Large #aberration , chaotic neutral*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 >___
->- **Skills** Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Deep Speech, Undercommon
->- #cr8 (3,900 XP)
+>- **Skills**
+>	 - Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - Deep Speech, Undercommon
+>
+> #cr8 (3,900 XP)
 >___
 >***Damage Transfer.*** While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down). and that creature takes the other half.  
 >

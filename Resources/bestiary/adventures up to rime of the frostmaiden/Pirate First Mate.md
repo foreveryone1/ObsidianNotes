@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Pirate First Mate
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|13 (+1)|
 >___
->- **Skills** Athletics +4, Intimidation +3
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common)
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Athletics +4, Intimidation +3
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr1 (200 XP)
 >___
 >***Sea Legs.*** The first mate has advantage on ability checks and saving throws to resist being knocked prone.  
 >

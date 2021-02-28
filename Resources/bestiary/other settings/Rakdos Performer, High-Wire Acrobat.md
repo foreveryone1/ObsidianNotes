@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rakdos Performer, High-Wire Acrobat
 >*Medium #humanoid (any race), chaotic evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|17 (+3)|12 (+1)|10 (+0)|8 (-1)|15 (+2)|
 >___
->- **Saving Throws** Dex +5, Cha +4
->- **Skills** Acrobatics +7, Performance +4
->- **Senses** passive Perception 9
->- **Languages** any one language (usually Common)
->- #cr1 (200 XP)
+>- **Saving Throws**
+>	 - Dex +5, Cha +4
+>- **Skills**
+>	 - Acrobatics +7, Performance +4
+>- **Senses**
+>	 - passive Perception 9
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> #cr1 (200 XP)
 >___
 >***Nimble.*** The performer can take the Disengage action as a bonus action on each of its turns.  
 >

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Eternal Flame Priest
 >*Medium #humanoid (human), neutral evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|14 (+2)|10 (+0)|11 (+0)|16 (+3)|
 >___
->- **Skills** Deception +5, Intimidation +5, Religion +2
->- **Damage Resistances** fire
->- **Senses** passive Perception 10
->- **Languages** Common, Ignan
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Deception +5, Intimidation +5, Religion +2
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - Common, Ignan
+>
+> #cr3 (700 XP)
 >___
 >***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:  
 >

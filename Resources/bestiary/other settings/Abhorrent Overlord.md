@@ -1,7 +1,10 @@
+---
+cssclass: kanban
+---
+
 # Abhorrent Overlord
 >*Large #fiend , lawful evil*
 ## Monster Traits
->___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 136 (16d10 + 48)
 >- **Speed** 30 ft., fly 60 ft.
@@ -10,14 +13,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|18 (+4)|16 (+3)|15 (+2)|14 (+2)|16 (+3)|
 >___
->- **Saving Throws** Con +7, Cha +7
->- **Skills** Deception +7, Intimidation +7, Persuasion +7
->- **Damage Resistances** cold, necrotic
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 12
->- **Languages** Abyssal, Common, Infernal
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +7, Cha +7
+>- **Skills**
+>	 - Deception +7, Intimidation +7, Persuasion +7
+>- **Damage Resistances**
+>	 - cold, necrotic
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 12
+>- **Languages**
+>	 - Abyssal, Common, Infernal
+>
+> #cr9 (5,000 XP)
 >___
 >***Innate Spellcasting.*** The abhorrent overlord's spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:  
 >

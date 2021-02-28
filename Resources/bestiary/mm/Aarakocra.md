@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Aarakocra
 >*Medium #humanoid (aarakocra), neutral good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|	:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)|
 >___
->- **Skills** Perception +5
->- **Senses** passive Perception 15
->- **Languages** Auran, Aarakocra
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Senses**
+>	 - passive Perception 15
+>- **Languages**
+>	 - Auran, Aarakocra
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Dive Attack.*** If the aarakocra is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 (1d6) damage to the target.  
 >

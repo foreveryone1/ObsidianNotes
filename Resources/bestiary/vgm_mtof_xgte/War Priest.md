@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # War Priest
 >*Medium #humanoid (any race), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)|
 >___
->- **Saving Throws** Con +6, Wis +7
->- **Skills** Intimidation +5, Religion +4
->- **Senses** passive Perception 13
->- **Languages** any two languages
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +6, Wis +7
+>- **Skills**
+>	 - Intimidation +5, Religion +4
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any two languages
+>
+> #cr9 (5,000 XP)
 >___
 >***Spellcasting.*** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:  
 >

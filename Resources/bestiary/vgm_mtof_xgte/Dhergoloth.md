@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Dhergoloth
 >*Medium #fiend (yugoloth), neutral evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|19 (+4)|7 (-2)|10 (+0)|9 (-1)|
 >___
->- **Saving Throws** Str +6
->- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** acid, poison
->- **Condition Immunities** poisoned
->- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 10
->- **Languages** Abyssal, Infernal, telepathy 60 ft.
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Str +6
+>- **Damage Resistances**
+>	 - cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - acid, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - blindsight 60 ft., darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - Abyssal, Infernal, telepathy 60 ft.
+>
+> #cr7 (2,900 XP)
 >___
 >***Innate Spellcasting.*** The dhergoloth's innate spellcasting ability is Charisma (spell save DC 10). It can innately cast the following spells, requiring no material components:  
 >

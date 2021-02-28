@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Skull Lord
 >*Medium #undead , lawful evil*
 ## Monster Traits
@@ -10,21 +14,32 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|21 (+5)|
 >___
->- **Skills** Athletics +7, History +8, Perception +12, Stealth +8
->- **Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious
->- **Senses** darkvision 60 ft., passive Perception 22
->- **Languages** all the languages it knew in life
->- #cr15 (13,000 XP)
+>- **Skills**
+>	 - Athletics +7, History +8, Perception +12, Stealth +8
+>- **Damage Resistances**
+>	 - cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 22
+>- **Languages**
+>	 - all the languages it knew in life
+>
+> #cr15 (13,000 XP)
 >___
->***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
+>***Evasion.***  
+>	- If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
 >
->***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.  
+>***Legendary Resistance (3/Day).***  
+>	- If the skull lord fails a saving throw, it can choose to succeed instead.  
 >
->***Master of the Grave.*** While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.  
+>***Master of the Grave.***  
+>	- While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.  
 >
->***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:  
+>***Spellcasting.***  
+>	- The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:  
 >
 >Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp  
 >1st level (4 slots): magic missile, expeditious retreat, thunderwave  

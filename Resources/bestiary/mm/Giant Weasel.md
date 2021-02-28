@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Giant Weasel
 >*Medium #beast , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|5 (-3)|
 >___
->- **Skills** Perception +3, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** —
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Perception +3, Stealth +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - —
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.  
 >

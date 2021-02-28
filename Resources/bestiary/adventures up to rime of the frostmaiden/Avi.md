@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Avi
 >*Medium #humanoid (Water genasi), neutral good*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 >___
->- **Skills** Medicine +7, Persuasion +3, Religion +5
->- **Damage Resistances** acid
->- **Senses** passive Perception 13
->- **Languages** Common, Primordial
->- #cr2 (450 XP)
+>- **Skills**
+>	 - Medicine +7, Persuasion +3, Religion +5
+>- **Damage Resistances**
+>	 - acid
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - Common, Primordial
+>
+> #cr2 (450 XP)
 >___
 >***Control Water.*** At will, Avi can control the flow and shape of water in a 5-foot cube, or cause the water to freeze for up to 1 hour.  
 >

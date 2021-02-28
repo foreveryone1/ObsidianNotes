@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Half-Red Dragon Veteran
 >*Medium #humanoid (human), any alignment*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 >___
->- **Skills** Athletics +6, Perception +3
->- **Damage Resistances** fire
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
->- **Languages** Common, Draconic
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Athletics +6, Perception +3
+>- **Damage Resistances**
+>	 - fire
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 12
+>- **Languages**
+>	 - Common, Draconic
+>
+> #cr5 (1,800 XP)
 >___
 ## Actions
 >***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.  

@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Young Griffon (Tiny)
 >*Tiny #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|15 (+2)|16 (+3)|2 (-4)|13 (+1)|8 (-1)|
 >___
->- **Skills** Perception +5
->- **Senses** darkvision 60 ft., passive Perception 15
->- **Languages** —
->- ** #cr0 **(0 or 10 XP)
+>- **Skills**
+>	 - Perception +5
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 15
+>- **Languages**
+>	 - —
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Keen Sight.*** The griffon has advantage on Wisdom (Perception) checks that rely on sight.  
 >

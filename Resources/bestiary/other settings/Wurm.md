@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Wurm
 >*Huge #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|22 (+6)|3 (-4)|12 (+1)|4 (-3)|
 >___
->- **Saving Throws** Con +11, Wis +6
->- **Senses** blindsight 60 ft., tremorsense 60 ft., passive Perception 11
->- **Languages** —
->- #cr14 (11,500 XP)
+>- **Saving Throws**
+>	 - Con +11, Wis +6
+>- **Senses**
+>	 - blindsight 60 ft., tremorsense 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr14 (11,500 XP)
 >___
 >***Earth Tremors.*** The wurm creates earth tremors as it moves overland or underground. Any creature that comes within 30 feet of the moving wurm for the first time on a turn must succeed on a DC 20 Dexterity saving throw or take 10 (3d6) bludgeoning damage and fall prone. Any structure or object anchored to the ground that comes within 30 feet of the moving wurm for the first time on a turn takes 10 (3d6) force damage.  
 >

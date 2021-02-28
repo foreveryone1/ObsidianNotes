@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Boneclaw
 >*Large #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|15 (+2)|13 (+1)|15 (+2)|9 (-1)|
 >___
->- **Saving Throws** Dex +7, Con +6, Wis +6
->- **Skills** Perception +6, Stealth +7
->- **Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Common plus the main language of its master
->- #cr12 (8,400 XP)
+>- **Saving Throws**
+>	 - Dex +7, Con +6, Wis +6
+>- **Skills**
+>	 - Perception +6, Stealth +7
+>- **Damage Resistances**
+>	 - cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common plus the main language of its master
+>
+> #cr12 (8,400 XP)
 >___
 >***Rejuvenation.*** While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.  
 >

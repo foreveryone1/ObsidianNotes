@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Trapper
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|17 (+3)|2 (-4)|13 (+1)|4 (-3)|
 >___
->- **Skills** Stealth +2
->- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 11
->- **Languages** —
->- #cr3 (700 XP)
+>- **Skills**
+>	 - Stealth +2
+>- **Senses**
+>	 - blindsight 30 ft., darkvision 60 ft., passive Perception 11
+>- **Languages**
+>	 - —
+>
+> #cr3 (700 XP)
 >___
 >***False Appearance.*** While the trapper is attached to a ceiling, floor, or wall and remains motionless, it is almost indistinguishable from an ordinary section of ceiling, floor, or wall. A creature that can see it and succeeds on a DC 20 Intelligence (Investigation) or Intelligence (Nature) check can discern its presence.  
 >

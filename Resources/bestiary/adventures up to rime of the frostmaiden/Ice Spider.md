@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ice Spider
 >*Large #beast , unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)|
 >___
->- **Skills** Stealth +7
->- **Damage Resistances** cold
->- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
->- **Languages** —
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Stealth +7
+>- **Damage Resistances**
+>	 - cold
+>- **Senses**
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 10
+>- **Languages**
+>	 - —
+>
+> #cr1 (200 XP)
 >___
 >***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >

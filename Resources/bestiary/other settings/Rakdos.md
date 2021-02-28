@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Rakdos
 >*Huge #fiend (demon), chaotic evil*
 ## Monster Traits
@@ -10,14 +14,22 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|15 (+2)|22 (+6)|14 (+2)|18 (+4)|30 (+10)|
 >___
->- **Saving Throws** Str +15, Con +13, Wis +11, Cha +17
->- **Skills** Intimidation +17, Performance +17, Persuasion +17
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** fire, poison
->- **Condition Immunities** charmed, exhaustion, frightened, poisoned
->- **Senses** truesight 120 ft., passive Perception 14
->- **Languages** Abyssal, Common
->- #cr24 (62,000 XP)
+>- **Saving Throws**
+>	 - Str +15, Con +13, Wis +11, Cha +17
+>- **Skills**
+>	 - Intimidation +17, Performance +17, Persuasion +17
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, poisoned
+>- **Senses**
+>	 - truesight 120 ft., passive Perception 14
+>- **Languages**
+>	 - Abyssal, Common
+>
+> #cr24 (62,000 XP)
 >___
 >***Captivating Presence.*** Any creature that starts its turn within 30 feet of Rakdos must make a DC 25 Wisdom saving throw. On a failed save, the creature becomes charmed by Rakdos for 1 minute or until the creature is farther than 30 feet away from him. On a successful save, the creature becomes immune to Rakdos's Captivating Presence for 24 hours.  
 >
@@ -41,8 +53,10 @@
 ## Legendary Actions
 >Rakdos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rakdos regains spent legendary actions at the start of its turn.
 >
->- **Sadistic Revelry.** Each creature within 60 feet of Rakdos that is his ally or is charmed by him must use its reaction to move up to half its speed toward the creature closest to it that it can see, provided it isn't already within 5 feet of that creature. It then must make one melee attack against that creature if it is able to do so.
->- **Scythe (Costs 2 Actions).** Rakdos uses Curtain-Call Scythe.
+>- **Sadistic Revelry**
+>	- Each creature within 60 feet of Rakdos that is his ally or is charmed by him must use its reaction to move up to half its speed toward the creature closest to it that it can see, provided it isn't already within 5 feet of that creature. It then must make one melee attack against that creature if it is able to do so.
+>- **Scythe (Costs 2 Actions)**
+>	- Rakdos uses Curtain-Call Scythe.
 >- **Touch of Pain (Costs 3 Actions).** Rakdos makes a claw attack against one creature within 10 feet of him. The target must succeed on a DC 25 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the creature can't maintain concentration on a spell or any other effect that requires concentration. The poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ## Rakdos
 Rakdos, the demon for whom his cult is named, embodies hedonism. He is also the consummate entertainer, whose mere appearance is an act of grisly performance art. A monstrous figure standing thirty feet tall, spreading enormous wings, crowned with fire and swinging a flaming scythe, Rakdos demands the spotlight. His every entrance is a showstopper.

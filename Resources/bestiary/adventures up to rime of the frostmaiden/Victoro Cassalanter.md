@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Victoro Cassalanter
 >*Medium #humanoid (half-elf), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|13 (+1)|14 (+2)|16 (+3)|17 (+3)|18 (+4)|
 >___
->- **Saving Throws** Con +6, Wis +7
->- **Skills** History +7, Insight +7, Persuasion +8, Religion +7
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Draconic, Elvish, Infernal
->- #cr10 (5,900 XP)
+>- **Saving Throws**
+>	 - Con +6, Wis +7
+>- **Skills**
+>	 - History +7, Insight +7, Persuasion +8, Religion +7
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - Common, Draconic, Elvish, Infernal
+>
+> #cr10 (5,900 XP)
 >___
 >***Special Equipment.*** Victoro wears a ring of protection and glamoured studded leather disguised to look like fine clothing. He carries a rod of rulership shaped like a ruby-tipped cane.  
 >

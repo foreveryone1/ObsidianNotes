@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Druid of the Old Ways
 >*Medium #humanoid (any race), chaotic neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|16 (+3)|10 (+0)|20 (+5)|14 (+2)|
 >___
->- **Saving Throws** Dex +5, Con +6, Wis +8
->- **Skills** Nature +3, Perception +8, Survival +8
->- **Senses** passive Perception 18
->- **Languages** Common, Druidic
->- #cr7 (2,900 XP)
+>- **Saving Throws**
+>	 - Dex +5, Con +6, Wis +8
+>- **Skills**
+>	 - Nature +3, Perception +8, Survival +8
+>- **Senses**
+>	 - passive Perception 18
+>- **Languages**
+>	 - Common, Druidic
+>
+> #cr7 (2,900 XP)
 >___
 >***Siege Monster.*** The druid deals double damage to objects and structures.  
 >

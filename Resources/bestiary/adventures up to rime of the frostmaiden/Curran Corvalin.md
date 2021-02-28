@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Curran Corvalin
 >*Small #humanoid (halfling), any alignment*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >___
->- **Senses** passive Perception 10
->- **Languages** any one language (usually Common), Halfling
->- ** #cr0 **(0 or 10 XP)
+>- **Senses**
+>	 - passive Perception 10
+>- **Languages**
+>	 - any one language (usually Common), Halfling
+>
+> ** #cr0 **(0 or 10 XP)
 >___
 >***Brave.*** The curran corvalin has advantage on saving throws against being frightened.  
 >

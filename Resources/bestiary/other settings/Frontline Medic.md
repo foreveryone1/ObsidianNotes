@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Frontline Medic
 >*Medium #humanoid (any race), lawful good*
 ## Monster Traits
@@ -10,10 +14,14 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|14 (+2)|10 (+0)|13 (+1)|12 (+1)|
 >___
->- **Skills** Medicine +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** any one language (usually Common)
->- ** #cr1-4 ** (50 XP)
+>- **Skills**
+>	 - Medicine +5, Perception +3
+>- **Senses**
+>	 - passive Perception 13
+>- **Languages**
+>	 - any one language (usually Common)
+>
+> ** #cr1-4 ** (50 XP)
 >___
 >***Spellcasting.*** The medic is a 3rd-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 11). The medic has the following cleric spells prepared:  
 >

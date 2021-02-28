@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Purple Wormling
 >*Large #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|7 (-2)|16 (+3)|1 (-5)|6 (-2)|2 (-4)|
 >___
->- **Senses** blindsight 30 ft., tremorsense 30 ft., passive Perception 8
->- **Languages** —
->- #cr2 (450 XP)
+>- **Senses**
+>	 - blindsight 30 ft., tremorsense 30 ft., passive Perception 8
+>- **Languages**
+>	 - —
+>
+> #cr2 (450 XP)
 >___
 ## Actions
 >***Multiattack.*** The wormling makes two attacks: one with its bite and one with its stinger.  

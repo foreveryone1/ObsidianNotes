@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Twig Blight
 >*Small #plant , neutral evil*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)|
 >___
->- **Skills** Stealth +3
->- **Damage Vulnerabilities** fire
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
->- **Languages** understands Common but can't speak
->- ** #cr1-8 ** (25 XP)
+>- **Skills**
+>	 - Stealth +3
+>- **Damage Vulnerabilities**
+>	 - fire
+>- **Condition Immunities**
+>	 - blinded, deafened
+>- **Senses**
+>	 - blindsight 60 ft. (blind beyond this radius), passive Perception 9
+>- **Languages**
+>	 - understands Common but can't speak
+>
+> ** #cr1-8 ** (25 XP)
 >___
 >***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.  
 >

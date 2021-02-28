@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Drowned Master
 >*Medium #undead , chaotic evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|9 (-1)|14 (+2)|12 (+1)|
 >___
->- **Saving Throws** Con +7, Wis +6
->- **Skills** Perception +10
->- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 20
->- **Languages** understands the languages it knew in life but can't speak
->- #cr9 (5,000 XP)
+>- **Saving Throws**
+>	 - Con +7, Wis +6
+>- **Skills**
+>	 - Perception +10
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 20
+>- **Languages**
+>	 - understands the languages it knew in life but can't speak
+>
+> #cr9 (5,000 XP)
 >___
 >***Bound Together.*** The drowned master shares its mind with every other drowned one within 1 mile of it, and can communicate its thoughts and observations to them instantaneously and without limitation.  
 >

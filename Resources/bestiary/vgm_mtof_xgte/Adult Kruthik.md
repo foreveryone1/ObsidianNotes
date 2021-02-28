@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Adult Kruthik
 >*Medium #monstrosity , unaligned*
 ## Monster Traits
@@ -10,9 +14,12 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|8 (-1)|
 >___
->- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
->- **Languages** Kruthik
->- #cr2 (450 XP)
+>- **Senses**
+>	 - darkvision 60 ft., tremorsense 60 ft., passive Perception 11
+>- **Languages**
+>	 - Kruthik
+>
+> #cr2 (450 XP)
 >___
 >***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.  
 >

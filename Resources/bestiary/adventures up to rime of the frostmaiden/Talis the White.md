@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Talis the White
 >*Medium #humanoid (half-elf), lawful evil*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|10 (+0)|16 (+3)|16 (+3)|
 >___
->- **Saving Throws** Wis +6, Cha +6
->- **Skills** Deception +6, Insight +6, Perception +6, Persuasion +6
->- **Senses** darkvision 60 ft., passive Perception 16
->- **Languages** Common, Draconic, Elvish, Infernal
->- #cr5 (1,800 XP)
+>- **Saving Throws**
+>	 - Wis +6, Cha +6
+>- **Skills**
+>	 - Deception +6, Insight +6, Perception +6, Persuasion +6
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 16
+>- **Languages**
+>	 - Common, Draconic, Elvish, Infernal
+>
+> #cr5 (1,800 XP)
 >___
 >***Special Equipment.*** Talis has +1 scale mail and a wand of winter.  
 >

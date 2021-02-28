@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Indentured Spirit
 >*Medium #undead , any alignment*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|11 (+0)|
 >___
->- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** cold, necrotic, poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
->- **Senses** passive Perception 11
->- **Languages** the languages it knew in life
->- #cr1 (200 XP)
+>- **Damage Resistances**
+>	 - acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - cold, necrotic, poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Senses**
+>	 - passive Perception 11
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr1 (200 XP)
 >___
 >***Incorporeal Movement.*** The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.  
 >

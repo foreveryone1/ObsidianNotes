@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Ghostblade Eidolon
 >*Medium #undead , any alignment*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 >___
->- **Skills** Acrobatics +5, Athletics +6, Perception +4
->- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
->- **Damage Immunities** poison
->- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
->- **Senses** passive Perception 14
->- **Languages** the languages it knew in life
->- #cr5 (1,800 XP)
+>- **Skills**
+>	 - Acrobatics +5, Athletics +6, Perception +4
+>- **Damage Resistances**
+>	 - necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
+>- **Senses**
+>	 - passive Perception 14
+>- **Languages**
+>	 - the languages it knew in life
+>
+> #cr5 (1,800 XP)
 >___
 >***Blurred Form.*** Attack rolls against the eidolon are made with disadvantage unless the eidolon is incapacitated.  
 >

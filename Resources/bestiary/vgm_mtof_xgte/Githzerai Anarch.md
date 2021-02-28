@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Githzerai Anarch
 >*Medium #humanoid (gith), lawful neutral*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|21 (+5)|18 (+4)|18 (+4)|20 (+5)|14 (+2)|
 >___
->- **Saving Throws** Str +8, Dex +10, Int +9, Wis +10
->- **Skills** Arcana +9, Insight +10, Perception +10
->- **Senses** passive Perception 20
->- **Languages** Gith
->- #cr16 (15,000 XP)
+>- **Saving Throws**
+>	 - Str +8, Dex +10, Int +9, Wis +10
+>- **Skills**
+>	 - Arcana +9, Insight +10, Perception +10
+>- **Senses**
+>	 - passive Perception 20
+>- **Languages**
+>	 - Gith
+>
+> #cr16 (15,000 XP)
 >___
 >***Innate Spellcasting (Psionics).*** The anarch's innate spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no components:  
 >
@@ -33,9 +42,12 @@
 ## Legendary Actions
 >The githzerai anarch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The githzerai anarch regains spent legendary actions at the start of its turn.
 >
->- **Strike.** The anarch makes one unarmed strike.
->- **Teleport.** The anarch magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it.
->- **Change Gravity (Costs 3 Actions).** The anarch casts the reverse gravity spell. The spell has the normal effect, except that the anarch can orient the area in any direction and creatures and objects fall toward the end of the area.
+>- **Strike.**
+> The anarch makes one unarmed strike.
+>- **Teleport.**
+> The anarch magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it.
+>- **Change Gravity (Costs 3 Actions).**
+> The anarch casts the reverse gravity spell. The spell has the normal effect, except that the anarch can orient the area in any direction and creatures and objects fall toward the end of the area.
 ## Githzerai Anarch
 *The githzerai are a check on the githyanki and the illithids. The githyanki are a check on the githzerai and the illithids. Thus, three unequal forces enforce the Balance.*— Mordenkainen***Githzerai Anarch.*** The most powerful of the githzerai, anarchs lead communities and maintain the adamantine citadels that serve as strong points in planes beyond Limbo. They have formidable psionic capabilities, able to manipulate the unformed substance of their adopted plane with a thought. These rare githzerai are sages and mystics, and their word is law.
 ***Gith.*** The descendants of an ancient people—so old their original name has been lost—have turned against each other, becoming vicious enemies divided over mortality, purpose, and the machinations of their leaders. The bellicose githyanki terrorize the Astral Plane, raiding into other worlds to plunder the multiverse of its magic and riches. The githzerai live apart from the rest of the cosmos, content within the confines of their fortresses floating through the chaos of Limbo. Although the two groups of gith despise each other, their hatred for the mind flayers from whom they escaped endures, and both githyanki and githzerai are dedicated to hunting their ancestral foes.

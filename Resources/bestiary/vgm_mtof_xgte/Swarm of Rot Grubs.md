@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Swarm of Rot Grubs
 >*Medium swarm of tiny beasts, unaligned*
 ## Monster Traits
@@ -10,11 +14,16 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|7 (-2)|10 (+0)|1 (-5)|2 (-4)|1 (-5)|
 >___
->- **Damage Resistances** piercing, slashing
->- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained
->- **Senses** blindsight 10 ft., passive Perception 6
->- **Languages** —
->- ** #cr1-2 ** (100 XP)
+>- **Damage Resistances**
+>	 - piercing, slashing
+>- **Condition Immunities**
+>	 - charmed, frightened, grappled, paralyzed, petrified, prone, restrained
+>- **Senses**
+>	 - blindsight 10 ft., passive Perception 6
+>- **Languages**
+>	 - —
+>
+> ** #cr1-2 ** (100 XP)
 >___
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points.  
 >

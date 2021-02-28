@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Iron Defender
 >*Medium #construct , neutral*
 ## Monster Traits
@@ -10,12 +14,18 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|8 (-1)|11 (+0)|7 (-2)|
 >___
->- **Skills** Perception +4, Stealth +4
->- **Damage Immunities** poison
->- **Condition Immunities** exhaustion, poisoned
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** understands the languages of its creator but can't speak
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Perception +4, Stealth +4
+>- **Damage Immunities**
+>	 - poison
+>- **Condition Immunities**
+>	 - exhaustion, poisoned
+>- **Senses**
+>	 - darkvision 60 ft., passive Perception 13
+>- **Languages**
+>	 - understands the languages of its creator but can't speak
+>
+> #cr1 (200 XP)
 >___
 >***Keen Senses.*** The defender has advantage on Wisdom (Perception) checks.  
 >

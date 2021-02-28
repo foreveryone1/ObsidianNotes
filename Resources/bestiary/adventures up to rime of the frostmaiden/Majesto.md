@@ -1,3 +1,7 @@
+---
+cssclass: kanban
+---
+
 # Majesto
 >*Tiny #fiend (devil), lawful evil*
 ## Monster Traits
@@ -10,13 +14,20 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 >___
->- **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
->- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
->- **Damage Immunities** fire, poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 120 ft., passive Perception 11
->- **Languages** Infernal, Common
->- #cr1 (200 XP)
+>- **Skills**
+>	 - Deception +4, Insight +3, Persuasion +4, Stealth +5
+>- **Damage Resistances**
+>	 - cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+>- **Damage Immunities**
+>	 - fire, poison
+>- **Condition Immunities**
+>	 - poisoned
+>- **Senses**
+>	 - darkvision 120 ft., passive Perception 11
+>- **Languages**
+>	 - Infernal, Common
+>
+> #cr1 (200 XP)
 >___
 >***Shapechanger.*** Majesto can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
 >
