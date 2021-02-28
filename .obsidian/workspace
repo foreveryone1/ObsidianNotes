@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "baa430d4536627f5",
+        "id": "ae11ddf58aea63e4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Settings/Leverhulm/lv factions/summer remnants.md",
+            "file": "_Settings/Leverhulm/lv party relationships.md",
             "mode": "source"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "6b21e83ce3fccc7a",
         "type": "tabs",
-        "dimension": 49.895615866388304,
+        "dimension": 69.90595611285266,
         "children": [
           {
             "id": "5454cef8376b7ed7",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/summer remnants.md"
+                "file": "_Settings/Leverhulm/lv party relationships.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/summer remnants.md",
+                "file": "_Settings/Leverhulm/lv party relationships.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,7 +85,7 @@
       {
         "id": "397bba701bd8cc32",
         "type": "tabs",
-        "dimension": 50.104384133611696,
+        "dimension": 30.094043887147336,
         "children": [
           {
             "id": "93f0b28a0d2319c1",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/summer remnants.md",
+                "file": "_Settings/Leverhulm/lv party relationships.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/summer remnants.md"
+                "file": "_Settings/Leverhulm/lv party relationships.md"
               }
             }
           },
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.01499938964844
+    "width": 366.01499938964844
   },
   "right": {
     "id": "3ab63e9a8e394489",
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_Settings/Leverhulm/lv factions/Untitled.md",
+    "_Settings/Leverhulm/lv party relationships.md",
+    "_Settings/Leverhulm/Dryads of the abandoned forest.md",
+    "obsidian.md/Templates/LVL.md",
+    "obsidian.md/Templates/checkboxes.md",
+    "obsidian.md/Templates/ggmonstemplate.md",
     "_Settings/Leverhulm/Untitled.md",
+    "_Settings/Leverhulm/lv factions/Untitled.md",
     "example monster.md",
     "Monsters.md",
-    "Scratchpad.md",
-    "Resources/Houserules/GGMM/LVL0.md",
-    "Resources/Manoeuvres.md",
-    "Resources/Movement Types.md",
-    "Resources/Tools/_Tools.md",
-    "Resources/Tools/Alchemist's Supplies.md"
+    "Scratchpad.md"
   ]
 }
