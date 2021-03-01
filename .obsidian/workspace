@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monsters.md",
+            "file": "Scratchpad.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monsters.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Monsters.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monsters.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monsters.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -162,8 +162,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Monsters.md",
     "Scratchpad.md",
+    "Monsters.md",
     "_Settings/Leverhulm/lv party relationships.md",
     "_Settings/Leverhulm/Dryads of the abandoned forest.md",
     "obsidian.md/Templates/LVL.md",

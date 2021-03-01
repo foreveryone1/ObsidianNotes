@@ -1,0 +1,18 @@
+.titlebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    background-color: var(--background-secondary-alt);
+}
+
+
+.titlebar-button,
+.titlebar-text {
+	color : var(--text-accent-hover);
+}
+
+.titlebar-button.mod-close:hover {
+  background-color: var(--interactive-accent);
+}
