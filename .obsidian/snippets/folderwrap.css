@@ -1,0 +1,24 @@
+.nav-file-title, .nav-folder-title {
+    white-space: normal;
+    width: auto;
+    border-radius: var(--border-radius);
+    word-wrap: break-word;
+}
+
+.nav-folder-children .nav-folder-title-content::before {
+    content: '📁'/*\1F5BF*/;
+    text-shadow: 0 0 0 var(--interactive-accent);
+    margin-right: 4px;
+    font-size: 13px;
+    color: transparent;
+}
+
+.nav-folder-children .nav-file-title-content::before {
+    content: "📄"/*\1F5D0*/;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.tree-item-inner {
+    word-wrap: break-word;
+    width: 100%;
+}

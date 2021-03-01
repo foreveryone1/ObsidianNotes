@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Settings/Leverhulm/lv party relationships.md",
-            "mode": "source"
+            "file": "Monsters.md",
+            "mode": "preview"
           }
         }
       }
@@ -25,7 +25,7 @@
       {
         "id": "6b21e83ce3fccc7a",
         "type": "tabs",
-        "dimension": 69.90595611285266,
+        "dimension": 45.40229885057471,
         "children": [
           {
             "id": "5454cef8376b7ed7",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Settings/Leverhulm/lv party relationships.md"
+                "file": "Monsters.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Settings/Leverhulm/lv party relationships.md",
+                "file": "Monsters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,7 +85,7 @@
       {
         "id": "397bba701bd8cc32",
         "type": "tabs",
-        "dimension": 30.094043887147336,
+        "dimension": 54.59770114942529,
         "children": [
           {
             "id": "93f0b28a0d2319c1",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Settings/Leverhulm/lv party relationships.md",
+                "file": "Monsters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Settings/Leverhulm/lv party relationships.md"
+                "file": "Monsters.md"
               }
             }
           },
@@ -147,11 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 366.01499938964844
+    "width": 281.01219177246094
   },
   "right": {
     "id": "3ab63e9a8e394489",
@@ -162,6 +162,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Monsters.md",
+    "Scratchpad.md",
     "_Settings/Leverhulm/lv party relationships.md",
     "_Settings/Leverhulm/Dryads of the abandoned forest.md",
     "obsidian.md/Templates/LVL.md",
@@ -169,8 +171,6 @@
     "obsidian.md/Templates/ggmonstemplate.md",
     "_Settings/Leverhulm/Untitled.md",
     "_Settings/Leverhulm/lv factions/Untitled.md",
-    "example monster.md",
-    "Monsters.md",
-    "Scratchpad.md"
+    "example monster.md"
   ]
 }
