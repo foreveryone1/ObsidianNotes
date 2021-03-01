@@ -43,3 +43,12 @@ Con
 ![[mpowers#Blocker]]![[mpowers#Counterattack]]![[mtraits#Redirect]]
 ### Actions
 
+- **Save Prof**
+	- Str<br>Dex<br>Wis<br>Cha<br>Int<br>Con
+- ![[LVL9#Stats|stats]]
+- ![[LVL9#Standard Striker]]
+- ![[size_gargantuan|narrow]]
+- ![[type_monstrosity|narrow]]
+- ![[speed_walk|narrow]]
+	- 40 ft.
+- ![[speed_burrow|narrow]]

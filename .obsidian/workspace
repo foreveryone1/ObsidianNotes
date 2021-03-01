@@ -7,12 +7,14 @@
         "id": "ae11ddf58aea63e4",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "example monster.md",
             "mode": "preview"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -163,6 +165,7 @@
   },
   "lastOpenFiles": [
     "example monster.md",
+    "Resources/Houserules/GGMM/LVL9.md",
     "Scratchpad.md",
     "Resources/bestiary/adventures up to rime of the frostmaiden/Zuleika Toranescu.md",
     "Monsters.md",
@@ -170,7 +173,6 @@
     "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md",
     "Resources/Manoeuvres.md",
     "Resources/Movement Types.md",
-    "Resources/Tools/Forgery Kit.md",
-    "_Settings/Leverhulm/lv party relationships.md"
+    "Resources/Tools/Forgery Kit.md"
   ]
 }
