@@ -43,6 +43,3 @@ Con
 ![[mpowers#Blocker]]![[mpowers#Counterattack]]![[mtraits#Redirect]]
 ### Actions
 
-<q>quote
-- test
-	- test </q>

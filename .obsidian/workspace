@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "example monster.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "example monster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +75,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.6554983534946917,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "example monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -139,7 +139,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -147,11 +147,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 281.01219177246094
+    "width": 297.51499938964844
   },
   "right": {
     "id": "3ab63e9a8e394489",
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "example monster.md",
     "Scratchpad.md",
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Zuleika Toranescu.md",
     "Monsters.md",
-    "_Settings/Leverhulm/lv party relationships.md",
-    "_Settings/Leverhulm/Dryads of the abandoned forest.md",
-    "obsidian.md/Templates/LVL.md",
-    "obsidian.md/Templates/checkboxes.md",
-    "obsidian.md/Templates/ggmonstemplate.md",
-    "_Settings/Leverhulm/Untitled.md",
-    "_Settings/Leverhulm/lv factions/Untitled.md",
-    "example monster.md"
+    "Resources/bestiary/vgm_mtof_xgte/Archer.md",
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md",
+    "Resources/Manoeuvres.md",
+    "Resources/Movement Types.md",
+    "Resources/Tools/Forgery Kit.md",
+    "_Settings/Leverhulm/lv party relationships.md"
   ]
 }

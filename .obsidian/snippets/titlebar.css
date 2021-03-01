@@ -14,5 +14,6 @@
 }
 
 .titlebar-button.mod-close:hover {
-  background-color: var(--interactive-accent);
+  background-color: var(--interactive-accent-hover);
+  filter: hue-rotate(-11deg) brightness(170%) saturate(17%);
 }
