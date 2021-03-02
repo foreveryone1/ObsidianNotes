@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "example monster.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -163,12 +163,12 @@
   },
   "lastOpenFiles": [
     "example monster.md",
-    "Resources/bestiary/mm/Rust Monster.md",
+    "Monsters.md",
+    "Scratchpad.md",
     "obsidian.md/Templates/ggmonstemplate.md",
     "obsidian.md/Templates/montemplate.md",
+    "Resources/bestiary/mm/Rust Monster.md",
     "Resources/bestiary/adventures up to rime of the frostmaiden/Dragonfang.md",
-    "Scratchpad.md",
-    "Monsters.md",
     "Resources/Houserules/GGMM/LVL9.md",
     "Resources/bestiary/adventures up to rime of the frostmaiden/Zuleika Toranescu.md",
     "Resources/bestiary/vgm_mtof_xgte/Archer.md"

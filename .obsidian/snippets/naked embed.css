@@ -4,7 +4,7 @@
 .markdown-preview-view .markdown-embed-content>:last-child { margin-bottom: 0;}
 
 /*remove the following two line, you will get border and scroll*/
-.markdown-preview-view .markdown-embed { border:none; padding:0; margin:0; }
+.markdown-preview-view .markdown-embed { border:none; padding:0; margin:0; margin-bottom: -10px}
 .markdown-preview-view .markdown-embed-content { 
   max-height: unset;
   background-color: var(--background-secondary); /*define different bg color*/

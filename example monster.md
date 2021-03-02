@@ -52,4 +52,4 @@ cssclass: grid, kanban
 <br>
 
  %%kanban%%
-![[Rust Monster|short]]
+![[Rust Monster|tall]]
