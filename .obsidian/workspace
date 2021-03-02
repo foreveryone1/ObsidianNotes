@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "example monster.md",
-            "mode": "source"
+            "file": "obsidian.md/Templates/chart.md",
+            "mode": "preview"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "obsidian.md/Templates/chart.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "example monster.md",
+                "file": "obsidian.md/Templates/chart.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "example monster.md",
+                "file": "obsidian.md/Templates/chart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "obsidian.md/Templates/chart.md"
               }
             }
           },
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "obsidian.md/Templates/chart.md",
     "example monster.md",
+    "obsidian.md/Attachments/Weather effects.md",
+    "obsidian.md/Attachments/Weather_effects.png",
+    "Resources/Houserules/GGMM/LVL9.md",
     "Monsters.md",
     "Scratchpad.md",
     "obsidian.md/Templates/ggmonstemplate.md",
     "obsidian.md/Templates/montemplate.md",
-    "Resources/bestiary/mm/Rust Monster.md",
-    "Resources/bestiary/adventures up to rime of the frostmaiden/Dragonfang.md",
-    "Resources/Houserules/GGMM/LVL9.md",
-    "Resources/bestiary/adventures up to rime of the frostmaiden/Zuleika Toranescu.md",
-    "Resources/bestiary/vgm_mtof_xgte/Archer.md"
+    "Resources/bestiary/mm/Rust Monster.md"
   ]
 }

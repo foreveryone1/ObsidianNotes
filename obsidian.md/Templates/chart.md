@@ -8,7 +8,7 @@
 %% Class A,B,C,D internal-link
 %% has to have the same name as the target link
 graph TD
-	A["Checks#Strength|Test"]
+	A["Athletics"]
 	B[name example 2]
 	C[name]
 	A-->|message example|B

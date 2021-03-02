@@ -3,6 +3,7 @@ cssclass: grid, kanban
 ---
 ## Monster Name
 
+%%still functional side by side transclusion%%
 - ## Attributes
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
@@ -40,10 +41,11 @@ cssclass: grid, kanban
 	
 ### Traits and Powers
 
+%%broken side by side transclusion%%
 
-![[mpowers#Blocker|stats3]]
-![[mpowers#Counterattack|stats3]]
-![[mtraits#Redirect|stats3]]
+-  ![[mpowers#Blocker|stats3]]
+- ![[mpowers#Counterattack|stats3]]
+- ![[mtraits#Redirect|stats3]]
 
 ### Actions
 
@@ -51,5 +53,7 @@ cssclass: grid, kanban
 
 <br>
 
- %%kanban%%
-![[Rust Monster|tall]]
+%%kanban%%
+![[Rust Monster|short]]
+
+![[Rust Monster|short]]
