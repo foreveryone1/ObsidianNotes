@@ -3,18 +3,19 @@ cssclass: grid, kanban
 ---
 ## Monster Name
 
-**Save Prof**
-Str
-Dex
-Wis
-Cha
-Int
-Con
-![[LVL9#Stats|stats]]![[LVL9#Standard Striker]]![[size_gargantuan|narrow]]![[type_monstrosity|narrow]]![[speed_walk|narrow]]![[speed_burrow|narrow]]<div><br><h6>20 ft.
-40 ft.</h6> </div>
+- ## Attributes
+	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
+- ![[LVL9#Stats|stats]]
+- ![[LVL9#Standard Striker|stats2]]
+- ![[size_gargantuan|narrow]]
+- ![[type_monstrosity|narrow]]
+- ![[speed_walk|narrow]]
+	- ###### 40 ft.
+- ![[speed_burrow|narrow]]
+- ![[speed_burrow|narrow]]
 
 ### Skills
-[[Tools#Athletics]], **[[Tools#Religion]]**
+**[[Athletics]]**, **[[Tools#Religion]]**
 ### Spellcasting: Charisma
 - #### Cantrips
 	- [[Mage Hand]]
@@ -40,14 +41,15 @@ Con
 ### Traits and Powers
 
 
-![[mpowers#Blocker]]![[mpowers#Counterattack]]![[mtraits#Redirect]]
+![[mpowers#Blocker|stats3]]
+![[mpowers#Counterattack|stats3]]
+![[mtraits#Redirect|stats3]]
+
 ### Actions
 
-- **Save Prof**
-	- Str<br>Dex<br>Wis<br>Cha<br>Int<br>Con
-- ![[LVL9#Stats|stats]]
-- ![[LVL9#Standard Striker]]
-- ![[size_gargantuan|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[speed_walk|narrow]] <br> 40 ft.
-- ![[speed_burrow|narrow]]
+
+
+<br>
+
+ %%kanban%%
+![[Rust Monster|short]]

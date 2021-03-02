@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae11ddf58aea63e4",
+        "id": "36cd38ed800b339c",
         "type": "leaf",
         "active": true,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "example monster.md",
             "mode": "preview"
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -165,14 +163,14 @@
   },
   "lastOpenFiles": [
     "example monster.md",
-    "Resources/Houserules/GGMM/LVL9.md",
+    "Resources/bestiary/mm/Rust Monster.md",
+    "obsidian.md/Templates/ggmonstemplate.md",
+    "obsidian.md/Templates/montemplate.md",
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Dragonfang.md",
     "Scratchpad.md",
-    "Resources/bestiary/adventures up to rime of the frostmaiden/Zuleika Toranescu.md",
     "Monsters.md",
-    "Resources/bestiary/vgm_mtof_xgte/Archer.md",
-    "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md",
-    "Resources/Manoeuvres.md",
-    "Resources/Movement Types.md",
-    "Resources/Tools/Forgery Kit.md"
+    "Resources/Houserules/GGMM/LVL9.md",
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Zuleika Toranescu.md",
+    "Resources/bestiary/vgm_mtof_xgte/Archer.md"
   ]
 }

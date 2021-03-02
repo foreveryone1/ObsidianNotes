@@ -3,7 +3,8 @@
   width:100%;
   flex-direction: row;
   background-color: var(--background-secondary);
-  padding-left, padding-right: 1rem;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
   padding-bottom: 0.9rem;
   padding-top: 0.9rem;
 }
@@ -32,7 +33,8 @@ margin-right: 0.75rem;
 
 .kanban ul li {
   flex: 1;
-  padding-left: 2px;
+  padding-left: 0px;
+  padding-right: 9px;
   list-style: none;
 }
 
@@ -52,9 +54,21 @@ margin-right: 0.75rem;
   width: 100%;
   display: block;
   margin-bottom: 0;
-  padding: 0.625rem;
+  padding: 0.525rem;
 }
 
+.kanban ul .markdown-preview-sizer.markdown-preview-section{
+  min-height: 0!important;
+  padding: 0!important;
+}
+
+.kanban ul .internal-embed.is-loaded {
+  padding: 0 !important;
+}
+
+.kanban ul .markdown-preview-view{
+    padding: 0px 1px 1px 10px;
+}
 
 .theme-light .kanban ul ul li:nth-child(odd) {
   background: #ffffff70;

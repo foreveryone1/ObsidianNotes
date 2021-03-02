@@ -32,6 +32,12 @@
 .nav-action-button svg {
   width:15px;
 }
+
+.view-action svg {
+width:17px;
+
+}
+
 .workspace-ribbon-collapse-btn svg path {
   stroke-width:3px;
 }
