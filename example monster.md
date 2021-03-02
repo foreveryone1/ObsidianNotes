@@ -49,6 +49,5 @@ Con
 - ![[LVL9#Standard Striker]]
 - ![[size_gargantuan|narrow]]
 - ![[type_monstrosity|narrow]]
-- ![[speed_walk|narrow]]
-	- 40 ft.
+- ![[speed_walk|narrow]] <br> 40 ft.
 - ![[speed_burrow|narrow]]
