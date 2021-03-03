@@ -12,4 +12,3 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 #sorcerer
 #wizard
-[[SRD]]

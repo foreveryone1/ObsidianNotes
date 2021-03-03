@@ -17,4 +17,3 @@ Undead and creatures immune to being [[Charmed]] aren't affected by this spell.
 #bard
 #sorcerer
 #wizard
-[[SRD]]

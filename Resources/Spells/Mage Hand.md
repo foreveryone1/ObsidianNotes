@@ -17,4 +17,3 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 #warlock
 #wizard
 #artificer
-[[SRD]]

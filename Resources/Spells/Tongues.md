@@ -13,4 +13,3 @@ This spell grants the creature you touch the ability to understand any spoken la
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

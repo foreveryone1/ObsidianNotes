@@ -15,4 +15,3 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 #bard
 #sorcerer
 #wizard
-[[SRD]]

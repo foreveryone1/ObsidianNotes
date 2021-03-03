@@ -17,4 +17,3 @@ Creatures with truesight can see through the illusion to the terrain's true form
 #bard
 #druid
 #wizard
-[[SRD]]

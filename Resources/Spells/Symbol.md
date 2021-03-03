@@ -35,4 +35,3 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 #bard
 #cleric
 #wizard
-[[SRD]]

@@ -17,4 +17,3 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 #bard
 #druid
 #ranger
-[[SRD]]

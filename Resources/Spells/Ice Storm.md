@@ -15,4 +15,3 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 #druid
 #sorcerer
 #wizard
-[[SRD]]

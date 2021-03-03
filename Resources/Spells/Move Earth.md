@@ -19,4 +19,3 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 #druid
 #sorcerer
 #wizard
-[[SRD]]

@@ -13,4 +13,3 @@ An affected creature is aware of the spell and can thus avoid answering question
 #bard
 #cleric
 #paladin
-[[SRD]]

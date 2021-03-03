@@ -14,4 +14,3 @@ This spell immediately ends if you cast it again before its duration ends.
 #druid
 #warlock
 #wizard
-[[SRD]]

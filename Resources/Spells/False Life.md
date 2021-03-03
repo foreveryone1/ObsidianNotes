@@ -13,4 +13,3 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

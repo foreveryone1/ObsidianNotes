@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "36cd38ed800b339c",
+        "id": "3421f81e56392c27",
         "type": "leaf",
         "active": true,
         "state": {
@@ -74,8 +74,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6554983534946917,
-                  "close": false
+                  "scale": 0.42967809143425173,
+                  "close": true
                 }
               }
             }
@@ -156,21 +156,246 @@
   "right": {
     "id": "3ab63e9a8e394489",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "51464752914edd0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9ec920413d08ed",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d96eeb743923ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeecf2a9e22be6eb",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d148d8f18c91157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0289212659a00c",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a57f6b317d577ef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3f1e24caa4020d",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dae51b2b940aeea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096de9e49b69b273",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "992f12a682eb32b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c2491238e940ab0",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e08e11a4d93128c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373084a0b128d44d",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5b1786a2ed85c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c8a4a91d22929f",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e3f4d38341bd339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d6883039c2646b",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f74edbd499d08b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a53cea4cbb5fb39",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d95507ac47cb2ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8341598bd60241",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2eb3ff227ebc7141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6600ed71d7043d40",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "926510e7a8900371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73091c3a5d2d558a",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "36205f20fa6add7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccd964dbfd0c800a",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "681c11a42b03a4fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dacecc79af1d80f",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "edb35ff0ad4b2b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09f80411294faf50",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 264,
     "collapsed": true
   },
   "lastOpenFiles": [
     "SRD.md",
-    "Resources/Spells/Heroes' Feast.md",
-    "Resources/Spells/EnlargeReduce.md",
-    "Resources/Spells/Drawmij's Instant Summons.md",
-    "Resources/Spells/Contact Other Plane.md",
-    "Resources/Spells/AntipathySympathy.md",
-    "Resources/Spells/BlindnessDeafness.md",
-    "Untitled.md",
-    "example monster.md",
-    "Scratchpad.md"
+    "Resources/bestiary/mm/Medusa.md",
+    "Resources/bg_pers/Noble.md",
+    "Resources/bestiary/mm/Spy (Creature).md",
+    "Resources/bg_pers/Spy.md",
+    "Resources/bestiary/mm/Adult Bronze Dragon.md",
+    "Resources/bestiary/other settings/Medusa1.md",
+    "Resources/bg_pers/Bandit.md",
+    "Resources/bestiary/mm/Bandit (Creature).md",
+    "Resources/bestiary/other settings/Medusa.md"
   ]
 }

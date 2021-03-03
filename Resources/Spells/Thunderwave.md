@@ -16,4 +16,3 @@ In addition, unsecured objects that are completely within the area of effect are
 #druid
 #sorcerer
 #wizard
-[[SRD]]

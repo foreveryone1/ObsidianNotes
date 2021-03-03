@@ -17,4 +17,3 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 #bard
 #sorcerer
 #wizard
-[[SRD]]

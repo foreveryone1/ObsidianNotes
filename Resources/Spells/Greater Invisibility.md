@@ -11,4 +11,3 @@ You or a creature you touch becomes [[Invisible]] until the spell ends. Anything
 #bard
 #sorcerer
 #wizard
-[[SRD]]

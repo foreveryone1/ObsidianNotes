@@ -18,4 +18,3 @@ The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 #druid
 #warlock
 #wizard
-[[SRD]]

@@ -19,4 +19,3 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

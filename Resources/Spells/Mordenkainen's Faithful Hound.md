@@ -14,4 +14,3 @@ The hound is [[Invisible]] to all creatures except you and can't be harmed. When
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals 4d8 piercing damage.
 #wizard
 #artificer
-[[SRD]]

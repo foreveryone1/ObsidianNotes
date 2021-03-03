@@ -16,4 +16,3 @@ To discern that you are disguised, a creature can use its action to inspect your
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

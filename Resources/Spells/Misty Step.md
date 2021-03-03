@@ -11,4 +11,3 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

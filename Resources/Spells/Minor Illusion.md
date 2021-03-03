@@ -18,4 +18,3 @@ If a creature uses its action to examine the sound or image, the creature can de
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

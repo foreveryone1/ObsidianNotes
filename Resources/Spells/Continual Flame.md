@@ -11,4 +11,3 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 #cleric
 #wizard
 #artificer
-[[SRD]]

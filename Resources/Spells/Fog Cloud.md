@@ -14,4 +14,3 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 #ranger
 #sorcerer
 #wizard
-[[SRD]]

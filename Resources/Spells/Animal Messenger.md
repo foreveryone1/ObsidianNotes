@@ -15,4 +15,3 @@ When the messenger arrives, it delivers your message to the creature that you de
 #bard
 #druid
 #ranger
-[[SRD]]

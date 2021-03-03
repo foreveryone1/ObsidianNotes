@@ -14,4 +14,3 @@ Starting with the creature that has the lowest current hit points, each creature
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 6d10 for each slot level above 1st.
 #sorcerer
 #wizard
-[[SRD]]

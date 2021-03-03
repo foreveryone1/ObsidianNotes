@@ -20,4 +20,3 @@ If the object is worn or carried by a creature, you must make an ability check w
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 #sorcerer
 #wizard
-[[SRD]]

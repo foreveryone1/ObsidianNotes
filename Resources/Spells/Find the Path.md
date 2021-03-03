@@ -13,4 +13,3 @@ For the duration, as long as you are on the same plane of existence as the desti
 #bard
 #cleric
 #druid
-[[SRD]]

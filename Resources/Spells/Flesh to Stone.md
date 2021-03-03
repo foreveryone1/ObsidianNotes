@@ -16,4 +16,3 @@ If the creature is physically broken while [[Petrified]], it suffers from simila
 If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 #warlock
 #wizard
-[[SRD]]

@@ -13,4 +13,3 @@ You touch a creature. The creature's *jump distance* is tripled until the spell 
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

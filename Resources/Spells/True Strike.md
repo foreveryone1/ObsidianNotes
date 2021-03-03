@@ -12,4 +12,3 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

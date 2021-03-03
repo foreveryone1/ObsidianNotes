@@ -12,4 +12,3 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 #druid
 #wizard
 #artificer
-[[SRD]]

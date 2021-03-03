@@ -15,4 +15,3 @@ For the duration, the target has advantage on saving throws against being [[Pois
 #paladin
 #ranger
 #artificer
-[[SRD]]

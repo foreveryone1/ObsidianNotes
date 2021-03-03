@@ -18,4 +18,3 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 #warlock
 #wizard
 #artificer
-[[SRD]]

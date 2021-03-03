@@ -12,4 +12,3 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

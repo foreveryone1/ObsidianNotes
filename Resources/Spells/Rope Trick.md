@@ -16,4 +16,3 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 Anything inside the extradimensional space drops out when the spell ends.
 #wizard
 #artificer
-[[SRD]]

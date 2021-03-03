@@ -17,4 +17,3 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 #cleric
 #sorcerer
 #wizard
-[[SRD]]

@@ -26,4 +26,3 @@ Using any material created by this spell as another spell's material component c
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

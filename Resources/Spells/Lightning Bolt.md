@@ -14,4 +14,3 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 8d6 for each slot level above 3rd.
 #sorcerer
 #wizard
-[[SRD]]

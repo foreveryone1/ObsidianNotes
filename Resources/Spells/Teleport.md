@@ -38,4 +38,3 @@ The destination you choose must be known to you, and it must be on the same plan
 #bard
 #sorcerer
 #wizard
-[[SRD]]

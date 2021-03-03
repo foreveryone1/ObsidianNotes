@@ -19,4 +19,3 @@ Once you detect the presence of a creature in this way, you can read its thought
 #bard
 #sorcerer
 #wizard
-[[SRD]]

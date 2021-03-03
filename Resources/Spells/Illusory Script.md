@@ -17,4 +17,3 @@ A creature with truesight can read the hidden message.
 #bard
 #warlock
 #wizard
-[[SRD]]

@@ -13,4 +13,3 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 #bard
 #cleric
 #druid
-[[SRD]]

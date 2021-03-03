@@ -11,4 +11,3 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 4d4;2d4 for each slot level above 2nd.
 #wizard
-[[SRD]]

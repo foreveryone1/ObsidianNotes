@@ -16,4 +16,3 @@ The triggering condition can be as general or as detailed as you like, though it
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 #bard
 #wizard
-[[SRD]]

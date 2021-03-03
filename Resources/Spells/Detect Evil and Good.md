@@ -12,4 +12,3 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 #cleric
 #paladin
-[[SRD]]

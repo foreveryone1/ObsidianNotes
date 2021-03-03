@@ -14,4 +14,3 @@ While merged with the stone, you can't see what occurs outside it, and any Wisdo
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.
 #cleric
 #druid
-[[SRD]]

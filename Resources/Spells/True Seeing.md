@@ -13,4 +13,3 @@ This spell gives the willing creature you touch the ability to see things as the
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

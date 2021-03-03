@@ -16,4 +16,3 @@ If you would arrive in a place already occupied by an object or a creature, you 
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

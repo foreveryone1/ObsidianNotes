@@ -13,4 +13,3 @@ A creature of your choice that you can see within range regains hit points equal
 #bard
 #cleric
 #druid
-[[SRD]]

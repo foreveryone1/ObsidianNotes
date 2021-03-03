@@ -15,4 +15,3 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 #druid
 #sorcerer
 #wizard
-[[SRD]]

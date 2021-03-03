@@ -12,4 +12,3 @@ After spending the casting time tracing magical pathways within a precious gemst
 The awakened beast or plant is [[Charmed]] by you for 30 days or until you or your companions do anything harmful to it. When the [[Charmed]] condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was [[Charmed]].
 #bard
 #druid
-[[SRD]]

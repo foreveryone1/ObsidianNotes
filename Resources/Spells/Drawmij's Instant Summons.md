@@ -15,4 +15,3 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 *Dispel magic* or a similar effect successfully applied to the sapphire ends this spell's effect.
 #wizard
-[[SRD]]

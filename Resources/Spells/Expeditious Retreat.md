@@ -12,4 +12,3 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 #warlock
 #wizard
 #artificer
-[[SRD]]

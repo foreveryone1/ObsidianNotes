@@ -13,4 +13,3 @@ A humanoid killed by this spell rises at the start of your next turn as a **zomb
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

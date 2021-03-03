@@ -12,4 +12,3 @@ You utter a word of power that can compel one creature you can see within range 
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

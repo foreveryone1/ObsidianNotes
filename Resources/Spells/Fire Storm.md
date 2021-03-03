@@ -13,4 +13,3 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 #cleric
 #druid
 #sorcerer
-[[SRD]]

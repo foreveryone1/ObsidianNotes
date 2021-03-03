@@ -12,4 +12,3 @@ Slick grease covers the ground in a 10-foot square centered on a point within ra
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall [[Prone]]. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall [[Prone]].
 #wizard
 #artificer
-[[SRD]]

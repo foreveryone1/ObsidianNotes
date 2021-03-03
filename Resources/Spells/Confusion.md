@@ -26,4 +26,3 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 #druid
 #sorcerer
 #wizard
-[[SRD]]

@@ -22,4 +22,3 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 #warlock
 #wizard
 #artificer
-[[SRD]]

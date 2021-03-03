@@ -14,4 +14,3 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

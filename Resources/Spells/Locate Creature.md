@@ -18,4 +18,3 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 #paladin
 #ranger
 #wizard
-[[SRD]]

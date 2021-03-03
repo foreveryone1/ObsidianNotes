@@ -15,4 +15,3 @@ The DM has **the celestial**'s statistics.
 
 ***At Higher Levels.*** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 #cleric
-[[SRD]]

@@ -15,4 +15,3 @@ At the end of the duration, affected objects and creatures fall back down.
 #druid
 #sorcerer
 #wizard
-[[SRD]]

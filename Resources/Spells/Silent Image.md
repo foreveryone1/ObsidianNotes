@@ -15,4 +15,3 @@ Physical interaction with the image reveals it to be an illusion, because things
 #bard
 #sorcerer
 #wizard
-[[SRD]]

@@ -15,4 +15,3 @@ A creature you touch becomes [[Invisible]] until the spell ends. Anything the ta
 #warlock
 #wizard
 #artificer
-[[SRD]]

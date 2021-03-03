@@ -16,4 +16,3 @@ A creature that can see the sensor (such as a creature benefiting from *see invi
 #cleric
 #sorcerer
 #wizard
-[[SRD]]

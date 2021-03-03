@@ -32,4 +32,3 @@ The whole warded area radiates magic. A *dispel magic* cast on a specific effect
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
 #bard
 #wizard
-[[SRD]]

@@ -12,4 +12,3 @@ Choose a creature that you can see within range. A surge of positive energy wash
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 #cleric
 #druid
-[[SRD]]

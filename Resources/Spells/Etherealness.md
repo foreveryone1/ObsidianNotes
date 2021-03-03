@@ -23,4 +23,3 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

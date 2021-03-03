@@ -18,4 +18,3 @@ If you or any of your companions damage the target, the spell ends.
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

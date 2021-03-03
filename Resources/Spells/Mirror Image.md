@@ -19,4 +19,3 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

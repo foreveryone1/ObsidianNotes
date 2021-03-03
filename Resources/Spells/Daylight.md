@@ -17,4 +17,3 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 #paladin
 #ranger
 #sorcerer
-[[SRD]]

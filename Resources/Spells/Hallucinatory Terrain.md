@@ -14,4 +14,3 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 #druid
 #warlock
 #wizard
-[[SRD]]

@@ -18,4 +18,3 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 #paladin
 #ranger
 #wizard
-[[SRD]]

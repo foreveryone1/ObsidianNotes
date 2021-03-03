@@ -21,4 +21,3 @@ This spell can't be dispelled by *dispel magic*.
 #bard
 #warlock
 #wizard
-[[SRD]]

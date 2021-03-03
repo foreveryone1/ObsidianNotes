@@ -13,4 +13,3 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 #cleric
 #paladin
 #artificer
-[[SRD]]

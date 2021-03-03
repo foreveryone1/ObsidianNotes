@@ -13,4 +13,3 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 
 When the spell ends, the conjured plants wilt away.
 #druid
-[[SRD]]

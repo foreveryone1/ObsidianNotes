@@ -12,4 +12,3 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 #druid
 #paladin
 #artificer
-[[SRD]]

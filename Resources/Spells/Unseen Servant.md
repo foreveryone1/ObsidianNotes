@@ -15,4 +15,3 @@ If you command the servant to perform a task that would move it more than 60 fee
 #bard
 #warlock
 #wizard
-[[SRD]]

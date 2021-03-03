@@ -13,4 +13,3 @@ This spell merely reveals that a trap is present. You don't learn the location o
 #cleric
 #druid
 #ranger
-[[SRD]]

@@ -11,4 +11,3 @@ For the duration, you hide a target that you touch from divination magic. The ta
 #bard
 #ranger
 #wizard
-[[SRD]]

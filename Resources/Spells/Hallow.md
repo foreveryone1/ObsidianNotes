@@ -33,4 +33,3 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 ***Tongues.*** Affected creatures can communicate with any other creature in the area, even if they don't share a common language.
 #cleric
-[[SRD]]

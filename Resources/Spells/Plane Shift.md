@@ -17,4 +17,3 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

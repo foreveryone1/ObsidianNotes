@@ -29,4 +29,3 @@ If you command an object to attack, it can make a single melee attack against a 
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

@@ -18,4 +18,3 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 #sorcerer
 #warlock
 #wizard
-[[SRD]]

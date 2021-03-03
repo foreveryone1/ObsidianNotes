@@ -13,4 +13,3 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 #sorcerer
 #wizard
 #artificer
-[[SRD]]

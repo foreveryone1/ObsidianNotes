@@ -15,4 +15,3 @@ This spell dispels any darkness in its area that was created by a spell.
 #druid
 #sorcerer
 #wizard
-[[SRD]]

@@ -11,4 +11,3 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 #bard
 #cleric
 #ranger
-[[SRD]]

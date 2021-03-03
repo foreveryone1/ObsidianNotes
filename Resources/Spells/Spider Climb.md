@@ -12,4 +12,3 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 #warlock
 #wizard
 #artificer
-[[SRD]]

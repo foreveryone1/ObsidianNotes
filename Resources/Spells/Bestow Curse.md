@@ -20,4 +20,3 @@ A *remove curse* spell ends this effect. At the DM's option, you may choose an a
 #bard
 #cleric
 #wizard
-[[SRD]]

@@ -13,4 +13,3 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 #sorcerer
 #wizard
 #artificer
-[[SRD]]
