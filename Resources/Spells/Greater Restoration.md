@@ -17,3 +17,4 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 #cleric
 #druid
 #artificer
+[[SRD]]

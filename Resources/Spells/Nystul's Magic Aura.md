@@ -15,3 +15,4 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 ***Mask.*** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a symbol spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 #wizard
+[[SRD]]

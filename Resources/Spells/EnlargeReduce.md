@@ -20,3 +20,4 @@ If the target is a creature, everything it is wearing and carrying changes size 
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

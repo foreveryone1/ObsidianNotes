@@ -17,3 +17,4 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 #druid
 #sorcerer
 #wizard
+[[SRD]]

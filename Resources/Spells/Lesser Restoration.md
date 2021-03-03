@@ -14,3 +14,4 @@ You touch a creature and can end either one disease or one condition afflicting 
 #paladin
 #ranger
 #artificer
+[[SRD]]

@@ -20,3 +20,4 @@ When you transform, you choose whether your equipment falls to the ground, merge
 During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 #druid
 #wizard
+[[SRD]]

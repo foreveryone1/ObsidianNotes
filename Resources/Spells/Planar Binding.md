@@ -16,3 +16,4 @@ A bound creature must follow your instructions to the best of its ability. You m
 #cleric
 #druid
 #wizard
+[[SRD]]

@@ -12,3 +12,4 @@ At your touch, all curses affecting one creature or object end. If the object is
 #paladin
 #warlock
 #wizard
+[[SRD]]

@@ -13,3 +13,4 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 #bard
 #druid
 #ranger
+[[SRD]]

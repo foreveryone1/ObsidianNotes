@@ -20,3 +20,4 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

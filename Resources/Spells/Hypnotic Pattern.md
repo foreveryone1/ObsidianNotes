@@ -14,3 +14,4 @@ The spell ends for an affected creature if it takes any damage or if someone els
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

@@ -18,3 +18,4 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

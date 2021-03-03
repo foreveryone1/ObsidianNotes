@@ -12,3 +12,4 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 #druid
 #ranger
+[[SRD]]

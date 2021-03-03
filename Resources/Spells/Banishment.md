@@ -19,3 +19,4 @@ If the target is native to a different plane of existence than the one you're on
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

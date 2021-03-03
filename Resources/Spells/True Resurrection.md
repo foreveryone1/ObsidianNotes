@@ -14,3 +14,4 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 #cleric
 #druid
+[[SRD]]

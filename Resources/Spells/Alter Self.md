@@ -17,3 +17,4 @@ You assume a different form. When you cast the spell, choose one of the followin
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

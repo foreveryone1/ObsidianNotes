@@ -13,3 +13,4 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature [[Restrained]] by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 #wizard
+[[SRD]]

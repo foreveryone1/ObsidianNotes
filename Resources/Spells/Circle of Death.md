@@ -13,3 +13,4 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

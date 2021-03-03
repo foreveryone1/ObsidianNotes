@@ -14,3 +14,4 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

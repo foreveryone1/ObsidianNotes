@@ -15,3 +15,4 @@ If any of this spell's area overlaps with an area of light created by a spell of
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

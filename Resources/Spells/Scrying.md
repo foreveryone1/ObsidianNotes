@@ -33,3 +33,4 @@ Instead of targeting a creature, you can choose a location you have seen before 
 #druid
 #warlock
 #wizard
+[[SRD]]

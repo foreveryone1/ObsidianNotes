@@ -27,3 +27,4 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 #druid
 #sorcerer
 #artificer
+[[SRD]]

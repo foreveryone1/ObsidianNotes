@@ -27,3 +27,4 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 #bard
 #warlock
 #wizard
+[[SRD]]

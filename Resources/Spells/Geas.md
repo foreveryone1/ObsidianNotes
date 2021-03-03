@@ -19,3 +19,4 @@ You can end the spell early by using an action to dismiss it. A *remove curse*, 
 #druid
 #paladin
 #wizard
+[[SRD]]

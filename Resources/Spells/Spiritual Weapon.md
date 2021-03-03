@@ -15,3 +15,4 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 #cleric
+[[SRD]]

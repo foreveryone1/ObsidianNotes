@@ -12,3 +12,4 @@ A black beam of enervating energy springs from your finger toward a creature wit
 At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 #warlock
 #wizard
+[[SRD]]

@@ -17,3 +17,4 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 #cleric
 #sorcerer
 #wizard
+[[SRD]]

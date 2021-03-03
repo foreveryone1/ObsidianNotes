@@ -15,3 +15,4 @@ When the area appears, each creature in it must make a Constitution saving throw
 #cleric
 #druid
 #sorcerer
+[[SRD]]

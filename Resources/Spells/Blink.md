@@ -13,3 +13,4 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

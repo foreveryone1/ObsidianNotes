@@ -14,3 +14,4 @@ The [[Stunned]] target must make a Constitution saving throw at the end of each 
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

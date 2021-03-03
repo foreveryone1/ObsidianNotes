@@ -26,3 +26,4 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 #cleric
 #wizard
 #artificer
+[[SRD]]

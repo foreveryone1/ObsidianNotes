@@ -14,3 +14,4 @@ You can use your action to move your illusory double up to twice your speed and 
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [[Blinded]] and [[Deafened]] in regard to your own surroundings.
 #bard
 #wizard
+[[SRD]]

@@ -13,3 +13,4 @@ When the spell ends, the target can't move or take actions until after its next 
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

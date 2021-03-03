@@ -18,3 +18,4 @@ Physical interaction with the image reveals it to be an illusion, because things
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

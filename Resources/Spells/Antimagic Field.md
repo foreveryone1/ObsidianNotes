@@ -28,3 +28,4 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 ***Dispel Magic.*** Spells and magical effects such as *dispel magic* have no effect on the sphere. Likewise, the spheres created by different *antimagic field* spells don't nullify each other.
 #cleric
 #wizard
+[[SRD]]

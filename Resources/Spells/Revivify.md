@@ -11,3 +11,4 @@ You touch a creature that has died within the last minute. That creature returns
 #cleric
 #paladin
 #artificer
+[[SRD]]

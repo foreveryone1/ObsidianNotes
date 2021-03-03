@@ -15,3 +15,4 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 #druid
 #sorcerer
 #wizard
+[[SRD]]

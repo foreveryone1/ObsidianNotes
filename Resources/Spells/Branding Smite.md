@@ -11,3 +11,4 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 2d6 for each slot level above 2nd.
 #paladin
+[[SRD]]

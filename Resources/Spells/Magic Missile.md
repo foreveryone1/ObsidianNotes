@@ -12,3 +12,4 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 #sorcerer
 #wizard
+[[SRD]]

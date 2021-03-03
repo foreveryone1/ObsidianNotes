@@ -22,3 +22,4 @@ If you maintain your concentration on this spell for its whole duration, the wal
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

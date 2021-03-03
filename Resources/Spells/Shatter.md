@@ -16,3 +16,4 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

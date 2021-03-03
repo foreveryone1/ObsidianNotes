@@ -15,3 +15,4 @@ If a creature is holding or wearing the object and takes the damage from it, the
 #bard
 #druid
 #artificer
+[[SRD]]

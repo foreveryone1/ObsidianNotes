@@ -13,3 +13,4 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 #paladin
 #wizard
 #artificer
+[[SRD]]

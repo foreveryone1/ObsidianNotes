@@ -15,3 +15,4 @@ You can create a permanent teleportation circle by casting this spell in the sam
 #bard
 #sorcerer
 #wizard
+[[SRD]]

@@ -13,3 +13,4 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 #bard
 #cleric
 #druid
+[[SRD]]

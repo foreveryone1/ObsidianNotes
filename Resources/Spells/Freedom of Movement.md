@@ -15,3 +15,4 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 #druid
 #ranger
 #artificer
+[[SRD]]

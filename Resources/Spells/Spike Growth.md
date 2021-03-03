@@ -12,3 +12,4 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 #druid
 #ranger
+[[SRD]]

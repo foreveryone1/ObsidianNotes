@@ -18,3 +18,4 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

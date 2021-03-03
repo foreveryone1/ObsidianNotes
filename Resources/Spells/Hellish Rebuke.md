@@ -11,3 +11,4 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d10 for each slot level above 1st.
 #warlock
+[[SRD]]

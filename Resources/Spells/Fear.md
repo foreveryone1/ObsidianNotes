@@ -14,3 +14,4 @@ While [[Frightened]] by this spell, a creature must take the Dash action and mov
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

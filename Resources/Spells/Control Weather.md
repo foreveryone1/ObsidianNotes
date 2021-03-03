@@ -43,3 +43,4 @@ When you change the weather conditions, find a current condition on the followin
 #cleric
 #druid
 #wizard
+[[SRD]]

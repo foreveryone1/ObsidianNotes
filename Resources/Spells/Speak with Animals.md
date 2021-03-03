@@ -11,3 +11,4 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 #bard
 #druid
 #ranger
+[[SRD]]

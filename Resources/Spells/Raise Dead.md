@@ -17,3 +17,4 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 #bard
 #cleric
 #paladin
+[[SRD]]

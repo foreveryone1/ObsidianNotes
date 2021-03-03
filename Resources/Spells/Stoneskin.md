@@ -13,3 +13,4 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

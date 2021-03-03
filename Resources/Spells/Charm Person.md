@@ -15,3 +15,4 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

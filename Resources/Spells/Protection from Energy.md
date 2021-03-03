@@ -14,3 +14,4 @@ For the duration, the willing creature you touch has resistance to one damage ty
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

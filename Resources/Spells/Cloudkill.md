@@ -16,3 +16,4 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 5d8 for each slot level above 5th.
 #sorcerer
 #wizard
+[[SRD]]

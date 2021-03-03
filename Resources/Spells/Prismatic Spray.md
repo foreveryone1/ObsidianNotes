@@ -26,3 +26,4 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 ***8-Special.*** The target is struck by two rays. Roll twice more, rerolling any 8.
 #sorcerer
 #wizard
+[[SRD]]

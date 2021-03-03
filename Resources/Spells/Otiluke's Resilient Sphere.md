@@ -16,3 +16,4 @@ The sphere is weightless and just large enough to contain the creature or object
 A *disintegrate* spell targeting the globe destroys it without harming anything inside it.
 #wizard
 #artificer
+[[SRD]]

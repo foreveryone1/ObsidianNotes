@@ -16,3 +16,4 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 #paladin
 #ranger
 #artificer
+[[SRD]]

@@ -15,3 +15,4 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 10d6, and the damage from passing through the sheet of frigid air increases by 5d6, for each slot level above 6th.
 #wizard
+[[SRD]]

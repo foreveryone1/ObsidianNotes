@@ -22,3 +22,4 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 #paladin
 #warlock
 #wizard
+[[SRD]]

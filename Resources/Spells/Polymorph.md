@@ -20,3 +20,4 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 #druid
 #sorcerer
 #wizard
+[[SRD]]

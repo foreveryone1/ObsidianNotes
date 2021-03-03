@@ -11,3 +11,4 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 #cleric
+[[SRD]]

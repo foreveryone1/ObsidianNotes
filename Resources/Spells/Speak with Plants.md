@@ -19,3 +19,4 @@ This spell can cause the plants created by the entangle spell to release a [[Res
 #bard
 #druid
 #ranger
+[[SRD]]

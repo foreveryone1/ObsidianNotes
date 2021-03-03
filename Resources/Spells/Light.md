@@ -15,3 +15,4 @@ If you target an object held or worn by a hostile creature, that creature must s
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

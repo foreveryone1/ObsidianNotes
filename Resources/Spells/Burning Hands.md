@@ -14,3 +14,4 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 3d6 for each slot level above 1st.
 #sorcerer
 #wizard
+[[SRD]]

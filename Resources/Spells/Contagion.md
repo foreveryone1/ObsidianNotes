@@ -26,3 +26,4 @@ Since this spell induces a natural disease in its target, any effect that remove
 ***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [[Stunned]] until the end of its next turn.
 #cleric
 #druid
+[[SRD]]

@@ -17,3 +17,4 @@ The creature is under your control for 24 hours, after which it stops obeying an
 #cleric
 #warlock
 #wizard
+[[SRD]]

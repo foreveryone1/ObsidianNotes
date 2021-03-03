@@ -12,3 +12,4 @@ For the duration, you see [[Invisible]] creatures and objects as if they were vi
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

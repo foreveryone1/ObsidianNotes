@@ -14,3 +14,4 @@ The protection grants several benefits. Creatures of those types have disadvanta
 #paladin
 #warlock
 #wizard
+[[SRD]]

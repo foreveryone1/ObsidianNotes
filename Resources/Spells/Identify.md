@@ -13,3 +13,4 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 #bard
 #wizard
 #artificer
+[[SRD]]

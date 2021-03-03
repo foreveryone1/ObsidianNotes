@@ -16,3 +16,4 @@ The creature is under your control for 24 hours, after which it stops obeying an
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 #cleric
 #wizard
+[[SRD]]

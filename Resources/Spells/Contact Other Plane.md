@@ -12,3 +12,4 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other my
 On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 #warlock
 #wizard
+[[SRD]]

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md/Templates/chart.md",
-            "mode": "preview"
+            "file": "SRD.md",
+            "mode": "source"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md/Templates/chart.md"
+                "file": "SRD.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian.md/Templates/chart.md",
+                "file": "SRD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md/Templates/chart.md",
+                "file": "SRD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md/Templates/chart.md"
+                "file": "SRD.md"
               }
             }
           },
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "obsidian.md/Templates/chart.md",
+    "SRD.md",
+    "Resources/Spells/Heroes' Feast.md",
+    "Resources/Spells/EnlargeReduce.md",
+    "Resources/Spells/Drawmij's Instant Summons.md",
+    "Resources/Spells/Contact Other Plane.md",
+    "Resources/Spells/AntipathySympathy.md",
+    "Resources/Spells/BlindnessDeafness.md",
+    "Untitled.md",
     "example monster.md",
-    "obsidian.md/Attachments/Weather effects.md",
-    "obsidian.md/Attachments/Weather_effects.png",
-    "Resources/Houserules/GGMM/LVL9.md",
-    "Monsters.md",
-    "Scratchpad.md",
-    "obsidian.md/Templates/ggmonstemplate.md",
-    "obsidian.md/Templates/montemplate.md",
-    "Resources/bestiary/mm/Rust Monster.md"
+    "Scratchpad.md"
   ]
 }

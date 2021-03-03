@@ -20,3 +20,4 @@ If you or any of your companions damage a creature affected by this spell, the s
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

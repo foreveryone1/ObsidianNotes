@@ -15,3 +15,4 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 #sorcerer
 #warlock
 #wizard
+[[SRD]]

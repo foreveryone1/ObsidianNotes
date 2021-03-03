@@ -13,3 +13,4 @@ This spell grants up to ten willing creatures you can see within range the abili
 #sorcerer
 #wizard
 #artificer
+[[SRD]]

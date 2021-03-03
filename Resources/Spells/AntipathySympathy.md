@@ -23,3 +23,4 @@ If the target damages or otherwise harms an affected creature, the affected crea
 A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 #druid
 #wizard
+[[SRD]]

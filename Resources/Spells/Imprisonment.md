@@ -38,3 +38,4 @@ A *dispel magic* spell can end the spell only if it is cast as a 9th-level spell
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
 #warlock
 #wizard
+[[SRD]]

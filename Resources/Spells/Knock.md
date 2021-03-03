@@ -17,3 +17,4 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 #bard
 #sorcerer
 #wizard
+[[SRD]]

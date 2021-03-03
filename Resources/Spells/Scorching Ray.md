@@ -14,3 +14,4 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 #sorcerer
 #wizard
+[[SRD]]
