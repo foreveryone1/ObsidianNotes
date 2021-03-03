@@ -16,7 +16,7 @@ cssclass: grid, kanban
 - ![[speed_burrow|narrow]]
 
 ### Skills
-**[[Athletics]]**, **[[Tools#Religion]]**
+**[[Athletics]]**, **[[Religion]]**
 ### Spellcasting: Charisma
 - #### Cantrips
 	- [[Mage Hand]]
@@ -54,6 +54,6 @@ cssclass: grid, kanban
 <br>
 
 %%kanban%%
-![[Rust Monster|short]]
+- ![[Rust Monster|short]]
 
-![[Rust Monster|short]]
+- ![[Rust Monster|short]]

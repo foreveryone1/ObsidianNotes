@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRD.md",
-            "mode": "source"
+            "file": "example monster.md",
+            "mode": "preview"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRD.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SRD.md",
+                "file": "example monster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRD.md",
+                "file": "example monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRD.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "example monster.md",
     "SRD.md",
+    "Scratchpad.md",
+    "Resources/Houserules/GGMM/LVL0.md",
+    "Resources/Houserules/GGMM/LVL1.md",
+    "Resources/Houserules/GGMM/_ Encounter Building.md",
     "Resources/bestiary/mm/Medusa.md",
     "Resources/bg_pers/Noble.md",
     "Resources/bestiary/mm/Spy (Creature).md",
-    "Resources/bg_pers/Spy.md",
-    "Resources/bestiary/mm/Adult Bronze Dragon.md",
-    "Resources/bestiary/other settings/Medusa1.md",
-    "Resources/bg_pers/Bandit.md",
-    "Resources/bestiary/mm/Bandit (Creature).md",
-    "Resources/bestiary/other settings/Medusa.md"
+    "Resources/bg_pers/Spy.md"
   ]
 }

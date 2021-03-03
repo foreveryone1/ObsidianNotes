@@ -1,7 +1,7 @@
 /* Updated for Obsidian 0.9.22 and up */
 
 table{
-    width: 100%;
+    width: auto;
     display: table;
 }
 
