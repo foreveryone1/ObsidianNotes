@@ -57,3 +57,17 @@ cssclass: grid, kanban
 - ![[Rust Monster|short]]
 
 - ![[Rust Monster|short]]
+<br><br><br><br><br>
+
+##### This man once jogged for 48 hours, covering a distance equivalent to 250 kilometers
+Some admirable guy
+
+##### Example of a multiple choice question
+
+- **Question: What substance, outlawed for human consumption by the FDA, gives anteaters swollen tongues, starving them to death?**
+	- Dandelion Honey
+	- Fig Trimmings
+	- Absinthe
+	- Candy Jenever
+- **Answer**
+	- Dandelion Honey

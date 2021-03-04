@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "example monster.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "lastOpenFiles": [
     "example monster.md",
+    "Untitled.md",
     "SRD.md",
     "Scratchpad.md",
     "Resources/Houserules/GGMM/LVL0.md",
@@ -170,7 +171,6 @@
     "Resources/Houserules/GGMM/_ Encounter Building.md",
     "Resources/bestiary/mm/Medusa.md",
     "Resources/bg_pers/Noble.md",
-    "Resources/bestiary/mm/Spy (Creature).md",
-    "Resources/bg_pers/Spy.md"
+    "Resources/bestiary/mm/Spy (Creature).md"
   ]
 }
