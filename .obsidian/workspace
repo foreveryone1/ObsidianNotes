@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "example monster.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -163,14 +163,14 @@
   },
   "lastOpenFiles": [
     "example monster.md",
-    "Untitled.md",
     "SRD.md",
+    "Untitled.md",
+    "Monsters.md",
     "Scratchpad.md",
+    "obsidian.md/Templates/chart.md",
     "Resources/Houserules/GGMM/LVL0.md",
     "Resources/Houserules/GGMM/LVL1.md",
     "Resources/Houserules/GGMM/_ Encounter Building.md",
-    "Resources/bestiary/mm/Medusa.md",
-    "Resources/bg_pers/Noble.md",
-    "Resources/bestiary/mm/Spy (Creature).md"
+    "Resources/bestiary/mm/Medusa.md"
   ]
 }

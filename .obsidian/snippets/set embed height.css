@@ -23,7 +23,12 @@ margin-bottom: 20px;
   max-height: 10.866666rem;
   min-width: 9.625rem;
   overflow: hidden !important;
-  padding-left: 2rem!important;
+}
+.internal-embed.is-loaded[alt="statblock"] {
+  min-width: 28rem;
+  max-height: 45vh !important;
+  overflow: auto !important;
+  padding-right: 0px!important;
 }
 .internal-embed.is-loaded[alt="stats2"] {
   max-height: 10.866666rem;

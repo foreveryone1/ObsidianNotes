@@ -7,6 +7,7 @@
   padding-right: 0.3rem;
   padding-bottom: 0.9rem;
   padding-top: 0.9rem;
+  flex-wrap: wrap;
 }
 
 .kanban .list-collapse-indicator.collapse-indicator.collapse-icon{
@@ -113,4 +114,11 @@ margin-right: 0.75rem;
 
 .kanban ul ul::before {
   border-left: 0;
+}
+
+.markdown-preview-view.is-readable-line-width.kanban
+.markdown-preview-sizer
+> div
+> ul {
+  max-width: 100%;
 }
