@@ -6,11 +6,35 @@
       {
         "id": "3421f81e56392c27",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scratchpad.md",
+            "mode": "preview"
+          }
+        },
+        "group": "48de623a331fee5b"
+      },
+      {
+        "id": "b1c5966cb2bf129f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scratchpad.md",
+            "mode": "preview"
+          }
+        },
+        "group": "48de623a331fee5b"
+      },
+      {
+        "id": "2a5672de2510cd2f",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "example monster.md",
+            "file": "Scratchpad.md",
             "mode": "preview"
           }
         }
@@ -41,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "example monster.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "example monster.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -147,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,15 +186,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "example monster.md",
-    "SRD.md",
-    "Untitled.md",
-    "Monsters.md",
     "Scratchpad.md",
-    "obsidian.md/Templates/chart.md",
-    "Resources/Houserules/GGMM/LVL0.md",
-    "Resources/Houserules/GGMM/LVL1.md",
-    "Resources/Houserules/GGMM/_ Encounter Building.md",
-    "Resources/bestiary/mm/Medusa.md"
+    "Kingdom of the two lasseti.md",
+    "The Nishayat.md",
+    "obsidian.md/Attachments/Weather effects.md",
+    "Resources/bestiary/vgm_mtof_xgte/Adult Kruthik.md",
+    "example monster.md",
+    "Resources/Houserules/GGMM/type_monstrosity.md",
+    "SRD.md",
+    "Monsters.md",
+    "Untitled.md"
   ]
 }
