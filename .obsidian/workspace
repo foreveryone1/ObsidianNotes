@@ -146,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +162,13 @@
   },
   "lastOpenFiles": [
     "Scratchpad.md",
+    "SRD.md",
     "Kingdom of the two lasseti.md",
     "The Nishayat.md",
     "obsidian.md/Attachments/Weather effects.md",
     "Resources/bestiary/vgm_mtof_xgte/Adult Kruthik.md",
     "example monster.md",
     "Resources/Houserules/GGMM/type_monstrosity.md",
-    "SRD.md",
     "Monsters.md",
     "Untitled.md"
   ]
