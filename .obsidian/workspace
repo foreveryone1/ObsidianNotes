@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Houserules/Generic Minigames.md",
-            "mode": "preview"
+            "file": "example monster.md",
+            "mode": "source"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Houserules/Generic Minigames.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Houserules/Generic Minigames.md",
+                "file": "example monster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Houserules/Generic Minigames.md",
+                "file": "example monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Houserules/Generic Minigames.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -162,6 +162,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "example monster.md",
+    "Monsters.md",
     "Resources/Houserules/Generic Minigames.md",
     "_Settings/Chromatic Setting/The Nishayat.md",
     "The Nishayat.md",
@@ -169,8 +171,6 @@
     "bicarbonate.md",
     "Resources/Houserules/Untitled.md",
     "Scratchpad.md",
-    "SRD.md",
-    "Untitled.md",
-    "obsidian.md/Attachments/Weather effects.md"
+    "SRD.md"
   ]
 }
