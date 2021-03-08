@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3421f81e56392c27",
+        "id": "34c7dcbfcd36a5ac",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "Resources/Houserules/Generic Minigames.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Resources/Houserules/Generic Minigames.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Resources/Houserules/Generic Minigames.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Resources/Houserules/Generic Minigames.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Resources/Houserules/Generic Minigames.md"
               }
             }
           },
@@ -146,7 +146,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Resources/Houserules/Generic Minigames.md",
+    "_Settings/Chromatic Setting/The Nishayat.md",
+    "The Nishayat.md",
+    "Kingdom of the two lasseti.md",
+    "bicarbonate.md",
+    "Resources/Houserules/Untitled.md",
     "Scratchpad.md",
     "SRD.md",
-    "Kingdom of the two lasseti.md",
-    "The Nishayat.md",
-    "obsidian.md/Attachments/Weather effects.md",
-    "Resources/bestiary/vgm_mtof_xgte/Adult Kruthik.md",
-    "example monster.md",
-    "Resources/Houserules/GGMM/type_monstrosity.md",
-    "Monsters.md",
-    "Untitled.md"
+    "Untitled.md",
+    "obsidian.md/Attachments/Weather effects.md"
   ]
 }
