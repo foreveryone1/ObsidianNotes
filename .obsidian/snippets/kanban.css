@@ -72,6 +72,21 @@ margin-right: 0.75rem;
     padding: 0px 1px 1px 10px;
 }
 
+.kanban ul ul ul {
+  margin-right: 0;
+}
+
+.kanban ul ul::before {
+  border-left: 0;
+}
+
+.markdown-preview-view.is-readable-line-width.kanban
+.markdown-preview-sizer
+> div
+> ul {
+  max-width: 100%;
+}
+
 .theme-light .kanban ul ul li:nth-child(odd) {
   background: #ffffff70;
   border-top:1px solid var(--background-secondary);
@@ -106,19 +121,4 @@ margin-right: 0.75rem;
 
 .theme-dark .kanban ul ul li:hover {
   background: #4F4F4F09;
-}
-
-.kanban ul ul ul {
-  margin-right: 0;
-}
-
-.kanban ul ul::before {
-  border-left: 0;
-}
-
-.markdown-preview-view.is-readable-line-width.kanban
-.markdown-preview-sizer
-> div
-> ul {
-  max-width: 100%;
 }
