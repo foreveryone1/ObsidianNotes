@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "example monster.md",
+            "file": "Resources/Conditions/Charmed.md",
             "mode": "preview"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "6b21e83ce3fccc7a",
         "type": "tabs",
-        "dimension": 45.40229885057471,
+        "dimension": 45.45454545454545,
         "children": [
           {
             "id": "5454cef8376b7ed7",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Resources/Conditions/Charmed.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "example monster.md",
+                "file": "Resources/Conditions/Charmed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,7 +85,7 @@
       {
         "id": "397bba701bd8cc32",
         "type": "tabs",
-        "dimension": 54.59770114942529,
+        "dimension": 54.54545454545454,
         "children": [
           {
             "id": "93f0b28a0d2319c1",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "example monster.md",
+                "file": "Resources/Conditions/Charmed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Resources/Conditions/Charmed.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "example monster.md",
-    "Monsters.md",
-    "Resources/Houserules/Generic Minigames.md",
-    "_Settings/Chromatic Setting/The Nishayat.md",
-    "The Nishayat.md",
-    "Kingdom of the two lasseti.md",
-    "bicarbonate.md",
-    "Resources/Houserules/Untitled.md",
-    "Scratchpad.md",
+    "Resources/Conditions/Charmed.md",
+    "Resources/Spells/Suggestion.md",
+    "Resources/Spells/Arcane Gate.md",
+    "Resources/Spells/Animate Objects.md",
+    "Resources/Spells/Antilife Shell.md",
+    "Resources/Spells/Animate Dead.md",
+    "Resources/Spells/Animal Friendship.md",
+    "Resources/Spells/Absorb Elements.md",
+    "Resources/Tools/Brewer's Supplies.md",
     "SRD.md"
   ]
 }
