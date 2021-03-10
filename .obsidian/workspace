@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Conditions/Charmed.md",
+            "file": "Scratchpad.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Conditions/Charmed.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Conditions/Charmed.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Conditions/Charmed.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Conditions/Charmed.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -162,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Scratchpad.md",
+    "example monster.md",
+    "Resources/Spells/Animate Dead.md",
+    "Resources/Spells/Antilife Shell.md",
+    "Resources/Spells/Animate Objects.md",
+    "Resources/Spells/Arcane Gate.md",
     "Resources/Conditions/Charmed.md",
     "Resources/Spells/Suggestion.md",
-    "Resources/Spells/Arcane Gate.md",
-    "Resources/Spells/Animate Objects.md",
-    "Resources/Spells/Antilife Shell.md",
-    "Resources/Spells/Animate Dead.md",
     "Resources/Spells/Animal Friendship.md",
-    "Resources/Spells/Absorb Elements.md",
-    "Resources/Tools/Brewer's Supplies.md",
-    "SRD.md"
+    "Resources/Spells/Absorb Elements.md"
   ]
 }
