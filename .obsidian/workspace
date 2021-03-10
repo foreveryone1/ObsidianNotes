@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,14 +163,14 @@
   },
   "lastOpenFiles": [
     "Scratchpad.md",
+    "Monsters.md",
+    "SRD.md",
+    "_Settings/Chromatic Setting/The Nishayat.md",
     "example monster.md",
     "Resources/Spells/Animate Dead.md",
     "Resources/Spells/Antilife Shell.md",
     "Resources/Spells/Animate Objects.md",
     "Resources/Spells/Arcane Gate.md",
-    "Resources/Conditions/Charmed.md",
-    "Resources/Spells/Suggestion.md",
-    "Resources/Spells/Animal Friendship.md",
-    "Resources/Spells/Absorb Elements.md"
+    "Resources/Conditions/Charmed.md"
   ]
 }
