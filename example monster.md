@@ -76,3 +76,8 @@ cssclass: grid, kanban
 - ![[type_monstrosity|narrow]]
 - ![[type_monstrosity|narrow]]
 - ![[type_monstrosity|narrow]]
+
+
+```css
+test
+```

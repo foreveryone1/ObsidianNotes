@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "example monster.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "example monster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "example monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -162,11 +162,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "example monster.md",
     "Scratchpad.md",
     "Monsters.md",
     "SRD.md",
     "_Settings/Chromatic Setting/The Nishayat.md",
-    "example monster.md",
     "Resources/Spells/Animate Dead.md",
     "Resources/Spells/Antilife Shell.md",
     "Resources/Spells/Animate Objects.md",
