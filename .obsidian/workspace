@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "preview"
+            "file": "Scratchpad.md",
+            "mode": "source"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -162,11 +162,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Scratchpad.md",
     "Untitled.md",
     "SRD.md",
     "example monster.md",
     "new page.md",
-    "Scratchpad.md",
     "Monsters.md",
     "Resources/Manoeuvres.md",
     "Resources/Houserules/Generic Minigames.md",

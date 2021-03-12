@@ -72,6 +72,3 @@ img[alt*="centre"] {
     margin-top: 4px;
 }
 
-.nav-folder-title[data-path="obsidian.md"]{
-    font-size: 1.2rem;
-}
