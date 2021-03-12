@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "example monster.md",
+            "file": "Scratchpad.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "example monster.md",
+                "file": "Scratchpad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "example monster.md",
+                "file": "Scratchpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example monster.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,9 +162,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Scratchpad.md",
     "example monster.md",
     "Monsters.md",
-    "Scratchpad.md",
     "Untitled.md",
     "SRD.md",
     "new page.md",
