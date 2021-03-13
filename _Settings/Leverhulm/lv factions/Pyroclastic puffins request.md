@@ -13,3 +13,8 @@ in an open and brushy field, they'd erect a totem pole with smouldering herbs th
 a second group would bait the queen with an incense burner
 
 challenge to collect the burning incense
+
+
+- wandering mammoth clan will tell you the location of the abandoned totems, easy one if you win a game vs them, hard one if you lose
+	- one is in the abanoned mammoth sanctuary
+	- the other has been captures by Summer mercenaries as a trophy of war
