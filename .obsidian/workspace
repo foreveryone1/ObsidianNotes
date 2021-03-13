@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
-            "mode": "preview"
+            "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
+            "mode": "source"
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md"
               }
             }
           },
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md"
               }
             }
           },
@@ -162,6 +162,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_Settings/Leverhulm/lv factions/Untitled.md",
     "Scratchpad.md",
     "example monster.md",
     "Monsters.md",
@@ -170,7 +171,6 @@
     "new page.md",
     "Resources/Manoeuvres.md",
     "Resources/Houserules/Generic Minigames.md",
-    "obsidian.md/empty.md",
-    "_Settings/Chromatic Setting/The Nishayat.md"
+    "obsidian.md/empty.md"
   ]
 }
