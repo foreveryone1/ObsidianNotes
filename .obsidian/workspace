@@ -6,34 +6,6 @@
       {
         "id": "834c109e5bdfb2b9",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "80c842993509085a",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
@@ -46,10 +18,156 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "80c842993509085a",
+              "leaf": "834c109e5bdfb2b9",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":4.5526493936945105}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":7},\"to\":{\"line\":15,\"ch\":7}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "678901c023f19b3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scratchpad.md",
+            "mode": "preview"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "678901c023f19b3c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "678901c023f19b3c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "80c842993509085a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SRD.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "80c842993509085a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -202,10 +320,10 @@
   },
   "lastOpenFiles": [
     "SRD.md",
-    "Untitled.md",
     "Scratchpad.md",
     "Monsters.md",
     "example monster.md",
+    "Untitled.md",
     "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
     "Resources/Conditions/Blinded.md",
     "Resources/Conditions/Deafened.md",
