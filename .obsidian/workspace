@@ -4,15 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "f7d0af9cf00c81eb",
+        "id": "834c109e5bdfb2b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "834c109e5bdfb2b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "80c842993509085a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
+            "file": "SRD.md",
             "mode": "preview"
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "80c842993509085a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -25,7 +64,7 @@
       {
         "id": "6b21e83ce3fccc7a",
         "type": "tabs",
-        "dimension": 45.45454545454545,
+        "dimension": 42.21525600835947,
         "children": [
           {
             "id": "5454cef8376b7ed7",
@@ -41,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md"
+                "file": "SRD.md"
               }
             }
           },
@@ -51,11 +90,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
+                "file": "SRD.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -74,7 +113,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.42967809143425173,
+                  "scale": 2.889266208114945,
                   "close": true
                 }
               }
@@ -85,7 +124,7 @@
       {
         "id": "397bba701bd8cc32",
         "type": "tabs",
-        "dimension": 54.54545454545454,
+        "dimension": 57.78474399164053,
         "children": [
           {
             "id": "93f0b28a0d2319c1",
@@ -112,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
+                "file": "SRD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md"
+                "file": "SRD.md"
               }
             }
           },
@@ -147,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,15 +201,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
-    "Resources/Houserules/Generic Minigames.md",
-    "Scratchpad.md",
-    "obsidian.md/Attachments/circle.png",
-    "Untitled.md",
     "SRD.md",
-    "obsidian.md/Attachments/Pasted image 20210313162356.png",
-    "_Settings/Leverhulm/lv factions/Untitled.md",
+    "Untitled.md",
+    "Scratchpad.md",
+    "Monsters.md",
     "example monster.md",
-    "Monsters.md"
+    "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md",
+    "Resources/Conditions/Blinded.md",
+    "Resources/Conditions/Deafened.md",
+    "Resources/Conditions/Exhaustion.md",
+    "_Settings/Leverhulm/lv factions/summer remnants.md"
   ]
 }

@@ -44,3 +44,6 @@ As the participant who took the least risk, Grom goes first. He chooses to roll 
 As the participant who took the greatest risk, Meeks can attempt a gambit. He chooses the sabotage gambit.
 
 Grom rolls the d4 again, and rolls a 4, which Meeks chooses. Because he added his strength modifier to the previous result, he must do the same for his new result as well. His total is now **17** which means he has overshot the target, and lost the arm-wrestling bout.
+
+### In short
+![[minigame rules short.png]]
