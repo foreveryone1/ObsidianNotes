@@ -79,3 +79,7 @@
   padding: 0;
   border-bottom: none;
 }
+
+.cm-s-obsidian .HyperMD-list-line {
+    padding-top: 0;
+}
