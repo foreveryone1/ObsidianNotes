@@ -4,188 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "834c109e5bdfb2b9",
+        "id": "37a8feb88fd09d22",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":6},\"to\":{\"line\":27,\"ch\":6}},\"scroll\":5.799143278343433}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "834c109e5bdfb2b9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "678901c023f19b3c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Scratchpad.md",
+            "file": "Untitled.md",
             "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "678901c023f19b3c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "678901c023f19b3c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "80c842993509085a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SRD.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "80c842993509085a",
+              "leaf": "37a8feb88fd09d22",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -208,6 +50,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -216,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -226,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -312,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#humanoid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -337,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Scratchpad.md",
-    "2021-W12.md",
-    "Shuffle Note - 1615990009369 .md",
-    "SRD.md",
     "Untitled.md",
-    "example monster.md",
-    "Monsters.md",
-    "obsidian.md/Templates/Untitled.md",
-    "obsidian.md/Templates/checkboxes.md",
-    "_Settings/Leverhulm/lv factions/Pyroclastic puffins request.md"
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md",
+    "Resources/bestiary/mm/Aarakocra.md",
+    "2021-W12.md",
+    "obsidian.md/Templates/chart.md",
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Acererak.md",
+    "Resources/bestiary/mm/Abominable Yeti.md",
+    "SRD.md",
+    "obsidian.md/Templates/task example.md",
+    "Scratchpad.md"
   ]
 }
