@@ -1,0 +1,4 @@
+.markdown-preview-view ol .is-collapsed::after,
+.markdown-preview-view ul .is-collapsed::after {
+    content: none!important;
+}

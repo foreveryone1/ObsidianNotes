@@ -83,3 +83,9 @@
 .cm-s-obsidian .HyperMD-list-line {
     padding-top: 0;
 }
+
+span.cm-formatting-list-ul {
+visibility: hidden !important;
+}
+
+
