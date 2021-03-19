@@ -347,3 +347,8 @@ input.search-input:focus {
 .workspace-split.mod-right-split .view-content {
   padding:0 0 0 0;
 }
+
+p {
+  text-align: justify;
+  /*hyphens: auto;*/
+}
