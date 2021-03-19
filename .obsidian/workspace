@@ -11,17 +11,23 @@
           "type": "markdown",
           "state": {
             "file": "Untitled.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "37a8feb88fd09d22",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":258},\"to\":{\"line\":15,\"ch\":258}}}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "37a8feb88fd09d22",
