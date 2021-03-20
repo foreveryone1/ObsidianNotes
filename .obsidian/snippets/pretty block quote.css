@@ -11,3 +11,18 @@
     padding-right: 0%; /*Don't overlap with "*/
 }
 
+.theme-light /*replace with dark if needed*/ div pre.language-info { /*replace info with anything you like*/
+	background-color: var(--background-secondary); /*you can replace with any colour you want here*/
+    border-left: 1em solid rgb(153,217,234); /*replace this colour with anything you like*/
+    padding-top: 0;
+}
+
+pre.language-info::before { /*replace info with anything you like*/
+margin-bottom:0.9em;
+margin-left: -1em;
+margin-right: -1em;
+position: static;
+display: block;
+background-color: rgba(153,217,234,0.5); /*replace this colour with anything you like*/
+content:"  ℹ️ Info"; /*replace this content with anything you like*/
+}

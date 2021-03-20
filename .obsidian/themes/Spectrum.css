@@ -6,13 +6,14 @@
 * Name: Spectrum 
 * Licence: MIT 
 * GitHub Repo: https://github.com/Braweria/Spectrum 
-* Version: 0.12.0
+* Version: 0.15.7
 
 ! CONTENT
 *.............1. Variables
 *.............2. Textarea
 *................. Body
 *................. Paragraph
+*................. Preview
 *.............3. Text Decorations
 *................. Bold
 *................. Emphasis
@@ -43,6 +44,8 @@
 *............12. Query
 *............13. Blockquotes
 *............14. Kanban
+*............15. Floating Images
+*............16. Eisenhower Matrix
 
 *............100. Other People's Plugins
 *................. Daily Planner
@@ -59,6 +62,7 @@
   --external-link-hidden: rgba(131, 197, 235, 0.3);
   --main-background: #242424;
   --secondary-background: #1b1b1b;
+  --secondary-background-low-opacity: #1b1b1b54;
   --attachments: #69bceb;
   --accent-1: #f5704c;
   --accent-2: #f5a14c;
@@ -74,6 +78,19 @@
   --background-secondary: var(--secondary-background);
 }
 
+:root,
+.theme-light {
+  --main-background: #f5f5f5;
+  --secondary-background: #e2e2e2;
+  --secondary-background-low-opacity: #e2e2e254;
+  --main-node: #dea500;
+  --accent-3: #b7ad3a;
+  --accent-4: #8ac536;
+  --accent-5: #3cad7f;
+  --external-link: #307a8e;
+  --external-link-hidden: #307a8e99;
+}
+
 /*
 *..........................2. Textarea */
 .cm-s-obsidian,
@@ -85,9 +102,28 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
 .markdown-source-view.is-readable-line-width .CodeMirror {
   max-width: 750px;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100%;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > *:not(iframe) {
+  max-width: 750px;
+  width: 100%;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > table,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > .mermaid {
+  max-width: 100%;
 }
 
 /* 
@@ -146,6 +182,10 @@ a {
 
 .cm-s-obsidian span.cm-url,
 .cm-s-obsidian span.cm-formatting-link.cm-link {
+  color: var(--external-link);
+}
+
+span.cm-formatting.cm-url + span.cm-url {
   color: var(--external-link-hidden);
 }
 
@@ -186,7 +226,7 @@ h5 {
 }
 
 .cm-header-6,
-h6 {
+.markdown-preview-view h6 {
   color: var(--accent-6);
 }
 
@@ -340,15 +380,21 @@ path {
 }
 
 .nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before {
-  content: '🗀';
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 15.43 12' height='13px'%3E%3Cpath style='fill:%23999999' d='M6.15,1a.67.67,0,0,1,.5.21L8.22,2.78a2.69,2.69,0,0,0,1.92.79h3.57a.72.72,0,0,1,.72.72v6a.71.71,0,0,1-.72.71h-12A.71.71,0,0,1,1,10.29V1.71A.71.71,0,0,1,1.71,1H6.15m0-1H1.71A1.72,1.72,0,0,0,0,1.71v8.58A1.72,1.72,0,0,0,1.71,12h12a1.72,1.72,0,0,0,1.72-1.71v-6a1.72,1.72,0,0,0-1.72-1.72H10.14a1.7,1.7,0,0,1-1.21-.5L7.36.5A1.72,1.72,0,0,0,6.15,0Z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
   display: inline-block;
-  width: 1.5rem;
+  width: 24px;
+  height: 15px;
 }
 
 .nav-folder .nav-folder-title .nav-folder-title-content::before {
-  content: '🗁';
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18.12 12' height='13px'%3E%3Cpath style='fill:%23999999' d='M16.11,4H16a1.76,1.76,0,0,0-1.75-1.43H10.51a1.8,1.8,0,0,1-1.25-.5L7.63.5A1.8,1.8,0,0,0,6.37,0H1.78A1.75,1.75,0,0,0,0,1.71v8.58A1.75,1.75,0,0,0,1.78,12H14.61a2,2,0,0,0,1.88-1.3l1.5-4A2,2,0,0,0,16.11,4ZM1,1.71A.75.75,0,0,1,1.78,1H6.37a.83.83,0,0,1,.57.22L8.56,2.79a2.83,2.83,0,0,0,1.95.78h3.71a.78.78,0,0,1,.71.43H4.39A2,2,0,0,0,2.51,5.3L1,9.3a.06.06,0,0,0,0,0ZM17.05,6.35,16,9.15l-.45,1.2a1,1,0,0,1-.94.65H2.89a1,1,0,0,1-.83-.43A1,1,0,0,1,2,9.65l1.5-4A1,1,0,0,1,4.39,5H16.11a1,1,0,0,1,.83.43A1,1,0,0,1,17.05,6.35Z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
   display: inline-block;
-  width: 1.5rem;
+  width: 24px;
+  height: 13px;
 }
 
 /*
@@ -369,18 +415,15 @@ table tbody tr:hover {
   background: #afafaf10;
 }
 
+.theme-light table tbody tr:hover {
+  background: white;
+}
+
 /*
 *..........................6. Codeblocks */
 .mermaid {
   display: flex;
-  width: calc(100% + 900px);
   justify-content: center;
-  position: relative;
-  left: -50%;
-}
-
-.nodes {
-  transform: translate(0px, 10px);
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
@@ -408,6 +451,10 @@ table tbody tr:hover {
   color: #c1b594;
 }
 
+.theme-dark pre {
+  position: relative;
+}
+
 .theme-dark pre[class*='language-'] {
   background: var(--secondary-background);
   border: 1px solid black;
@@ -426,7 +473,7 @@ table tbody tr:hover {
 
 /*
 *..........................7. Embed Notes */
-.internal-embed.is-loaded {
+.internal-embed.is-loaded:not(.image-embed) {
   border: 1px solid black;
   border-radius: 10px;
 }
@@ -494,6 +541,10 @@ ul li::marker {
   color: white;
 }
 
+.theme-light ul li::marker {
+  color: black;
+}
+
 .markdown-preview-view ul > li.task-list-item.is-checked {
   text-decoration: none;
 }
@@ -516,7 +567,7 @@ ul li::marker {
   filter: none;
 }
 
-.markdown-preview-view .task-list-item-checkbox:checked::before {
+.markdown-preview-view li .task-list-item-checkbox:checked::before {
   content: '✔';
   position: absolute;
   bottom: 0;
@@ -529,6 +580,30 @@ ul li::marker {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.markdown-preview-view li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-1);
+}
+
+.markdown-preview-view li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-2);
+}
+
+.markdown-preview-view li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-3);
+}
+
+.markdown-preview-view li li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-4);
+}
+
+.markdown-preview-view li li li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-5);
+}
+
+.markdown-preview-view li li li li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-6);
 }
 
 /*
@@ -597,13 +672,14 @@ ul li::marker {
   display: flex;
   flex-direction: row;
   border: 2px solid var(--secondary-background);
-  background-color: #1b1b1b54;
+  background-color: var(--secondary-background-low-opacity);
   padding: 1rem;
   border-radius: 1rem;
+  flex-wrap: wrap;
 }
 
 .kanban ul li {
-  flex: 1;
+  flex: 1 1 20%;
   list-style: none;
 }
 
@@ -616,14 +692,17 @@ ul li::marker {
   margin-top: 1rem;
   border-radius: 0;
   border: 0;
+  background: none;
 }
 
 .kanban ul ul li {
   width: 100%;
   display: block;
   background: var(--secondary-background);
-  margin-bottom: 0;
+  margin-bottom: 5px;
   padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 .kanban ul ul li:nth-child(even) {
@@ -634,12 +713,105 @@ ul li::marker {
   background: #afafaf10;
 }
 
+.kanban ul ul li .task-list-item-checkbox {
+  margin-left: 1.5rem;
+}
+
 .kanban ul ul ul {
   margin-right: 0;
 }
 
 .kanban ul ul::before {
   border-left: 0;
+}
+
+.markdown-preview-view.is-readable-line-width.kanban
+.markdown-preview-sizer
+> div
+> ul {
+  max-width: 100%;
+}
+
+.theme-light .kanban ul {
+  background-color: #dadada2b;
+}
+
+.theme-light .kanban ul li ul li:hover {
+  background: white;
+}
+
+/*
+*..........................15. Floating Images */
+img[alt~='float-right'],
+div[alt~='float-right'] {
+  float: right;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+img[alt~='float-left'],
+div[alt~='float-left'] {
+  float: left;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+
+/*
+*..........................16. Eisenhower Matrix */
+.markdown-preview-view.matrix table tr {
+  display: flex;
+}
+
+.markdown-preview-view.matrix table tr th,
+.markdown-preview-view.matrix table tr td {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.markdown-preview-view.matrix table tr th > *,
+.markdown-preview-view.matrix table tr td > * {
+  width: 100%;
+  height: 100%;
+  background-color: var(--main-background);
+}
+
+.markdown-preview-view.matrix table tr td {
+  background-color: var(--main-background);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(1) > * {
+  border-color: var(--accent-1);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(1):hover {
+  background-color: var(--accent-1);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(2) > * {
+  border-color: var(--accent-2);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(2):hover {
+  background-color: var(--accent-2);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(1) > * {
+  border-color: var(--accent-4);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(1):hover {
+  background-color: var(--accent-4);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(2) > * {
+  border-color: var(--accent-5);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(2):hover {
+  background-color: var(--accent-5);
 }
 
 /*
