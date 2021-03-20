@@ -11,16 +11,46 @@
           "type": "markdown",
           "state": {
             "file": "Untitled.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "37a8feb88fd09d22",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":4},\"to\":{\"line\":12,\"ch\":4}}}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shuffle Note - 1615990009369 .md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/Houserules/GGMM/LVL9.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":53.97209557821584}"
+            },
+            {
+              "leaf": "37a8feb88fd09d22",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
@@ -164,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#humanoid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,14 +220,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "Scratchpad.md",
+    "SRD.md",
+    "Shuffle Note - 1615990009369 .md",
+    "Resources/Houserules/GGMM/LVL9.md",
+    "example monster.md",
+    "Resources/Houserules/GGMM/speed_burrow.md",
     "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md",
     "Resources/bestiary/mm/Aarakocra.md",
-    "2021-W12.md",
-    "obsidian.md/Templates/chart.md",
-    "Resources/bestiary/adventures up to rime of the frostmaiden/Acererak.md",
-    "Resources/bestiary/mm/Abominable Yeti.md",
-    "SRD.md",
-    "obsidian.md/Templates/task example.md",
-    "Scratchpad.md"
+    "2021-W12.md"
   ]
 }
