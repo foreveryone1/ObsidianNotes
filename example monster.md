@@ -2,7 +2,6 @@
 cssclass: grid, kanban
 ---
 ## Monster Name
-
 - ## Attributes
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
@@ -15,7 +14,6 @@ cssclass: grid, kanban
 	- ###### 50 ft.
 - ![[speed_hover|narrow]]
 	- ###### 30 ft.
-
 
 ### Skills
 Bold = expertise

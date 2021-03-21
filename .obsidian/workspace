@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "example monster.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +20,8 @@
             {
               "leaf": "265e5f2f13d2086d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":4},\"to\":{\"line\":71,\"ch\":4}},\"scroll\":45.85659553514869}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":2.9679486733725966}"
             },
             {
               "leaf": "265e5f2f13d2086d",

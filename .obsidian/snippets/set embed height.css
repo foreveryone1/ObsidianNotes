@@ -70,3 +70,8 @@ border-top:none;
 width:55vw !important;
 border-bottom:none;
 }
+
+h2[data-heading="Attributes"]{
+white-space: nowrap;
+min-width: 7.6rem;
+}
