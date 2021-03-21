@@ -19,7 +19,7 @@ cssclass: grid, kanban
 Bold = expertise
 [[Athletics]], **[[Religion]]**
 ### Spellcasting: Wisdom 
-**+2 modifier / +6 to hit / DC 8 + 6 = 14**
+> **+2 modifier / +6 to hit / DC 8 + 6 = 14**
 - #### Cantrips
 	- [[Mage Hand]]
 		- Can perform [[Sleight of Hand|Sleight of Hand]] checks with mage hand.
