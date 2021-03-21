@@ -4,69 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "37a8feb88fd09d22",
+        "id": "265e5f2f13d2086d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "preview"
+            "file": "example monster.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "37a8feb88fd09d22",
+              "leaf": "265e5f2f13d2086d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"YY-MM-DD.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":4},\"to\":{\"line\":71,\"ch\":4}},\"scroll\":45.85659553514869}"
+            },
+            {
+              "leaf": "265e5f2f13d2086d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "37a8feb88fd09d22",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":13.318666585286458}"
-            },
-            {
-              "leaf": "37a8feb88fd09d22",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scratchpad.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37a8feb88fd09d22",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SRD.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "37a8feb88fd09d22",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shuffle Note - 1615990009369 .md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "37a8feb88fd09d22",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/Houserules/GGMM/LVL9.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":53.97209557821584}"
-            },
-            {
-              "leaf": "37a8feb88fd09d22",
+              "leaf": "265e5f2f13d2086d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"example monster.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "37a8feb88fd09d22",
+              "leaf": "265e5f2f13d2086d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "37a8feb88fd09d22",
+              "leaf": "265e5f2f13d2086d",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -104,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -114,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "example monster.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "example monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "example monster.md"
               }
             }
           },
@@ -225,15 +201,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "example monster.md",
+    "Monsters.md",
+    "Shuffle Note - 1615990009369 .md",
     "Untitled.md",
     "YY-MM-DD.md",
     "Scratchpad.md",
     "SRD.md",
-    "Shuffle Note - 1615990009369 .md",
     "Resources/Houserules/GGMM/LVL9.md",
-    "example monster.md",
     "Resources/Houserules/GGMM/speed_burrow.md",
-    "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md",
-    "Resources/bestiary/mm/Aarakocra.md"
+    "Resources/bestiary/adventures up to rime of the frostmaiden/Aarakocra Simulacra.md"
   ]
 }

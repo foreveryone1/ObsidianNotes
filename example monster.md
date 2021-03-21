@@ -3,7 +3,6 @@ cssclass: grid, kanban
 ---
 ## Monster Name
 
-%%still functional side by side transclusion%%
 - ## Attributes
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
@@ -13,68 +12,59 @@ cssclass: grid, kanban
 - ![[speed_walk|narrow]]
 	- ###### 40 ft.
 - ![[speed_burrow|narrow]]
-- ![[speed_burrow|narrow]]
+	- ###### 50 ft.
+- ![[speed_hover|narrow]]
+	- ###### 30 ft.
+
 
 ### Skills
-**[[Athletics]]**, **[[Religion]]**
-### Spellcasting: Charisma
+Bold = expertise
+[[Athletics]], **[[Religion]]**
+### Spellcasting: Wisdom 
+**+2 modifier / +6 to hit / DC 8 + 6 = 14**
 - #### Cantrips
 	- [[Mage Hand]]
-		- Can perform [[Tools#Sleight of Hand|Sleight of Hand]] checks with mage hand.
+		- Can perform [[Sleight of Hand|Sleight of Hand]] checks with mage hand.
 		- Can carry up to 40 lbs.
 	- [[Minor Illusion]]
 - #### Three casts per day
+	- Slots
+		- [x] 
+		- [x] 
+		- [x] 
 	- [[Sleep]]
 	- [[Tasha's Hideous Laughter]]
 - #### Three casts per day
+	- Slots
+		- [x] 
+		- [x] 
+		- [x] 
 	- [[BlindnessDeafness|Blindness/Deafness]]
 	- [[Heat Metal]]
 	- [[Shatter]]
 - #### Two casts per day
+	- Slots
+		- [ ] 
+		- [ ] 
 	- [[Stinking Cloud]]
 	- [[Plant Growth]]
 	- [[Hold Person]]
 - #### One cast per day
+	- Slots
+		- [ ] 
 	- [[Mislead]]
 	- [[Polymorph]]
 
 	
 ### Traits and Powers
-
-%%broken side by side transclusion%%
-
--  ![[mpowers#Blocker|stats3]]
-- ![[mpowers#Counterattack|stats3]]
-- ![[mtraits#Redirect|stats3]]
-
+#### Phase 1
+- ![[mpowers#Blocker]]
+- ![[mpowers#Counterattack]]
+- ![[mtraits#Redirect]]
+#### Phase 2
+- ![[mpowers#Blinding Strike]]
+- ![[mtraits#Aggressive]]
+- ![[mtraits#Aura Disruptive]]
+- ![[mtraits#Pack Tactics]]
 ### Actions
 
-
-
-<br>
-
-%%kanban%%
-
-- ![[Rust Monster|statblock]]
-- ![[Rust Monster|statblock]]
-- ![[Rust Monster|statblock]]
-
-- ![[LVL9#Standard Striker|stats2]]
-- ![[LVL9#Standard Striker|stats2]]
-
-<br>
-
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-- ![[type_monstrosity|narrow]]
-
-~~test~~
