@@ -65,3 +65,5 @@ Bold = expertise
 - ![[mtraits#Pack Tactics]]
 ### Actions
 
+|  d4   | d4    |   d6  | 
+| --- | --- | --- |
