@@ -33,6 +33,7 @@ span.cm-header.cm-header-5,
   font-size: 1.1rem;
   font-weight: 800;
   font-variant:small-caps;
+  text-transform: lowercase;
   letter-spacing:0.02em;
 }
 
@@ -41,6 +42,7 @@ span.cm-header.cm-header-6,
   font-size: 1.1rem;
   font-weight: 600;
   font-variant:small-caps;
+  text-transform: lowercase;
   letter-spacing:0.02em;
   color: var(--text-title-h5);
 }
@@ -81,5 +83,4 @@ span.cm-header.cm-header-6,
   padding: 0;
   border-bottom: none;
 }
-
 

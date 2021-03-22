@@ -26,14 +26,13 @@ Bold = expertise
 		- Can carry up to 40 lbs.
 	- [[Minor Illusion]]
 - #### Three casts per day
-	- Slots
-		- [x] 
+	- ##### slots
 		- [x] 
 		- [x] 
 	- [[Sleep]]
 	- [[Tasha's Hideous Laughter]]
 - #### Three casts per day
-	- Slots
+	- ##### Slots
 		- [x] 
 		- [x] 
 		- [x] 
@@ -41,15 +40,15 @@ Bold = expertise
 	- [[Heat Metal]]
 	- [[Shatter]]
 - #### Two casts per day
-	- Slots
-		- [ ] 
-		- [ ] 
+	- ##### slots
+		- [x] 
+		- [x] 
 	- [[Stinking Cloud]]
 	- [[Plant Growth]]
 	- [[Hold Person]]
 - #### One cast per day
-	- Slots
-		- [ ] 
+	- ##### slots
+		- [x] 
 	- [[Mislead]]
 	- [[Polymorph]]
 
