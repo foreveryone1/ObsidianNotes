@@ -19,9 +19,31 @@ Test
 - lists
 - lists
 
+😆
+
 ==&ensp== test **bbb**
 more testing
 
 ```info
 Work in progress!
 ```
+
+
+- [ ] ## Display
+- display
+- [ ] Display
+
+Test
+
+# h1
+this is what text looks like
+## h2
+this is what text looks like
+### h3
+this is what text looks like
+#### h4
+this is what text looks like
+##### h5
+this is what text looks like
+###### h6
+this is what text looks like

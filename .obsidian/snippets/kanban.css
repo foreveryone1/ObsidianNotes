@@ -89,12 +89,12 @@ margin-right: 0.75rem;
 
 .theme-light .kanban ul ul li:nth-child(odd) {
   background: #ffffff70;
-  border-top:1px solid var(--background-secondary);
+  border-top: 1px solid var(--background-secondary);
 }
 
 .theme-light .kanban ul ul li:nth-child(even) {
   background: #ffffff10;
-  border-top: :1px solid var(--background-secondary);
+  border-top: 1px solid var(--background-secondary);
 }
 
 .theme-light .kanban ul ul {

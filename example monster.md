@@ -29,6 +29,8 @@ Bold = expertise
 	- ##### slots
 		- [x] 
 		- [x] 
+		- [x] 
+		- [x] 
 	- [[Sleep]]
 	- [[Tasha's Hideous Laughter]]
 - #### Three casts per day
@@ -67,3 +69,8 @@ Bold = expertise
 
 |  d4   | d4    |   d6  | 
 | --- | --- | --- |
+
+#testing
+
+testing selective formatting
+I do not want this to be affected

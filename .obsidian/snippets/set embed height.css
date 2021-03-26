@@ -71,11 +71,27 @@ width:55vw !important;
 border-bottom:none;
 }
 
-h2[data-heading="Attributes"]{
+.kanban ul li h2[data-heading="Attributes"]{
 white-space: nowrap;
 min-width: 7.6rem;
 }
 
-[data-heading*="lots"] + ul.contains-task-list {
+.kanban [data-heading*="lots"] + ul.contains-task-list {
 flex-direction: row;
+justify-content: flex-start;
+}
+
+.kanban [data-heading*="lots"] + ul.contains-task-list > .task-list-item {
+flex-grow: 0;
+}
+
+.kanban [data-heading*="lots"] + ul.contains-task-list > .task-list-item input {
+  margin: 0 0 0 24px;
+  width: 17px;
+  height: 17px;
+}
+
+.kanban [data-heading*="lots"] + ul.contains-task-list > li {
+  padding-top: 0.275rem;
+  padding-bottom: 0.275rem;
 }

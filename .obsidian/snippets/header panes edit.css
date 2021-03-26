@@ -18,3 +18,19 @@ body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf
 
 
 
+ul li h1,
+ul li h2,
+ul li h3,
+ul li h4,
+ul li h5,
+ul li h6 {
+display: inline;
+}
+
+div.markdown-preview-section > div > p > i {/*just to make sure this doesn't have wacky unintended knock on effects */
+display: inline-block;
+visibility: hidden;
+font-family: monospace;
+user-select: none;
+min-width: 4ch; /*this means 4 widths of the "0" character*/
+}
