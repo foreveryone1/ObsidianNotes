@@ -64,6 +64,7 @@ Bold = expertise
 - ![[mpowers#Blinding Strike]]
 - ![[mtraits#Aggressive]]
 - ![[mtraits#Aura Disruptive]]
+	- ##### 15 ft.
 - ![[mtraits#Pack Tactics]]
 ### Actions
 
