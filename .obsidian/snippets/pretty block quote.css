@@ -7,8 +7,7 @@
     border-bottom: 0;
     border-radius: var(--border-radius);
     position: relative;
-    margin: 2%;
-    padding-right: 0%; /*Don't overlap with "*/
+    padding: 5px 10px;
 }
 
 .theme-light /*replace with dark if needed*/ div pre.language-info { /*replace info with anything you like*/
