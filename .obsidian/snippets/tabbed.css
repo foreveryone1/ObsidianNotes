@@ -145,33 +145,46 @@ display: block;
 /* Pane relief specific options */
 
 /* tab numbers (useful for pane relief shortcuts) */
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-19){ --number :  1;} 
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-18){ --number :  2;} 
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-17){ --number :  3;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-16){ --number :  4;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-15){ --number :  5;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-14){ --number :  6;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-13){ --number :  7;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-12){ --number :  8;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-11){ --number :  9;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-10){ --number :  10;} 
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-9) { --number :  11;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-8) { --number :  12;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-7) { --number :  13;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-6) { --number :  14;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-5) { --number :  15;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-4) { --number :  16;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-3) { --number :  17;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-2) { --number :  18;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n-1) { --number :  19;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n+0) { --number :  20;}
-.mod-root.workspace-split.mod-vertical > div:nth-child(21n+1) { --number :  21;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(1)  { --number :  1;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(2)  { --number :  2;} 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(3)  { --number :  3;} 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(4)  { --number :  4;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(5)  { --number :  5;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(6)  { --number :  6;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(7)  { --number :  7;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(8)  { --number :  8;}
+.mod-root.mod-vertical > div.workspace-leaf:last-of-type                    { --number :  9;} /* intentionally less specific, so it gets overridden */
 
 
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title,
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title-container {padding-left: 0px}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(1) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(2) .view-header-title, 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(3) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(4) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(5) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(6) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(7) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(8) .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:last-of-type   .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(1) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(2) .view-header-title-container, 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(3) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(4) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(5) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(6) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(7) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(8) .view-header-title-container,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:last-of-type   .view-header-title-container {padding-left: 0px}
 
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title::before{
+
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(1) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(2) .view-header-title::before, 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(3) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(4) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(5) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(6) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(7) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(8) .view-header-title::before,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:last-of-type   .view-header-title::before {
 counter-reset: number var(--number);
 padding-top: 2px;
 display: inline-block;
