@@ -1,7 +1,7 @@
 /* REQUIRED */
 .mod-root.workspace-split.mod-vertical{
 --rows : 1;/* set desired number of rows here  */
---numtabs : 20;  /* set expected desired number of tabs per row here (total tabs = this number times two)  */
+--numtabs : 40;  /* set desired number of tabs per row here (total tabs = this number times two) the tab numbering option works for up to 20 tabs total */
 --w1 : calc(100% * var(--rows) / (var(--numtabs) * var(--rows)));
 --w2 : max(calc(100% * var(--rows) / (var(--numtabs) * var(--rows) - var(--rows))) , 11.5rem);
 }
@@ -16,7 +16,7 @@ max-width: var(--w2);
 
 .mod-root.workspace-split.mod-vertical { 
 overflow-x: hidden; 
-flex-direction: row; /* order reversed to work better with pane-relief 'cycle to next pane hotkey' */
+flex-direction: row;
 flex-wrap: wrap;
 align-content: stretch;
 align-items: stretch;
