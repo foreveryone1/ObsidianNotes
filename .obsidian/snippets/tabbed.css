@@ -1,9 +1,9 @@
 /* REQUIRED */
 .mod-root.workspace-split.mod-vertical{
 --rows : 1;/* set desired number of rows here  */
---numtabs : 40;  /* set desired number of tabs per row here (total tabs = this number times two) the tab numbering option works for up to 20 tabs total */
+--numtabs : 50;  /* set desired number of tabs per row here (total tabs = this number times two) the tab numbering option works for up to 20 tabs total */
 --w1 : calc(100% * var(--rows) / (var(--numtabs) * var(--rows)));
---w2 : max(calc(100% * var(--rows) / (var(--numtabs) * var(--rows) - var(--rows))) , 11.5rem);
+--w2 : max(calc(100% * var(--rows) / (var(--numtabs) * var(--rows) - var(--rows))) , 11.5rem/* set desired number of rows here  */);
 }
 
 
@@ -18,7 +18,7 @@ max-width: var(--w2);
 overflow-x: hidden; 
 flex-direction: row;
 flex-wrap: wrap;
-align-content: stretch;
+align-content: flex-start;
 align-items: stretch;
 overflow-y: auto; /* no second scrollbar should be visible, if one appears, then I've made a mistake */
 }
@@ -144,6 +144,11 @@ display: block;
 
 /* Pane relief specific options */
 
+/* underline next tab [pane relief cycle to next pane hotkey] */
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf {
+text-decoration: underline;
+}
+
 /* tab numbers (useful for pane relief shortcuts) */
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(1)  { --number :  1;}
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(2)  { --number :  2;} 
@@ -215,11 +220,4 @@ background-color: var(--background-secondary-alt); /* make background of icon th
 .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active .view-header{
 border-left-width: 2px;
 border-top-width: 2px
-}
-
-/* underline next tab [pane relief cycle to next pane hotkey] */
-
-
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf {
-text-decoration: underline;
 }
