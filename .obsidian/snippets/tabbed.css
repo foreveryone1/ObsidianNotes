@@ -10,9 +10,12 @@ overflow-y: auto; /* no second scrollbar should be visible, if one appears, then
 /* turns inactive panes into tabs*/
 .mod-root.workspace-split.mod-vertical > div { 
 height: 29px; /* change if you prefer differently sized pane headers */
-border-radius: 6px 6px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
+border-radius: 10px 7px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
 }
 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active { 
+border-radius: 0; /* no rounding for main pane - NOT ESSENTIAL */
+}
 
 /* set active pane below tab bar */
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active {
@@ -23,7 +26,7 @@ width: 100%;
 top: 29px; /* if pane header height is changed from default, edit here to match */
 }
 
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf:only-of-type { /*if only one pan open, maximise*/
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:only-of-type { /*if only one pane open, maximise*/
 top: 0px;
 bottom: 0px;
 height: 100%!important;
@@ -36,9 +39,8 @@ display:none;
 
 /* OPTIONAL */
 
-/* tab numbers (handy for pane relief) */
-
-.mod-root.workspace-split.mod-vertical > div:nth-child(20n-18) { --number :  1;}
+/* tab numbers (useful for pane relief shortcuts) */
+.mod-root.workspace-split.mod-vertical > div:nth-child(20n-18) { --number :  1;} 
 .mod-root.workspace-split.mod-vertical > div:nth-child(20n-17) { --number :  2;}
 .mod-root.workspace-split.mod-vertical > div:nth-child(20n-16) { --number :  3;}
 .mod-root.workspace-split.mod-vertical > div:nth-child(20n-15) { --number :  4;}
@@ -59,11 +61,36 @@ display:none;
 .mod-root.workspace-split.mod-vertical > div:nth-child(20n+0) { --number :  19;}
 .mod-root.workspace-split.mod-vertical > div:nth-child(20n+1) { --number :  20;}
 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title-container {padding-left: 0px}
+
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title::before{
 counter-reset: number var(--number);
-content: counter(number)".";
-padding-right: 1ch;
+padding-top: 2px;
+display: inline-block;
+height: 40px;
+content: counter(number);
+margin-right: 0.5em;
+padding: 0 0.6em;
+background-color: var(--background-modifier-border); /* change to appealing colours in your theme */
 }
+
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-title::before {
+color: var(--text-muted); /* change to appealing colour in your theme */
+background-color: var(--background-secondary-alt);
+margin-left: -0.3em;
+}
+
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-icon {
+top: 0;
+padding-top: 6px;
+padding-right: 5px;
+background-color: var(--background-secondary-alt); /* make background of icon the same as the tab numbering */
+}
+
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:only-of-type { border-radius: 10px 0px 0px 0px; }
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:only-of-type .view-header-icon{background-color: inherit; margin-right:0.5em;}
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:only-of-type .view-header-title::before { display: none; }
 
 
 
@@ -88,7 +115,7 @@ display: none;
 }
 
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-activ a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-icon,
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="More options"]{
 display: block;
@@ -96,9 +123,9 @@ display: block;
 
 
 /* smaller tab titles */
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-title{
+.mod-root > div.workspace-leaf .view-header-title{
 font-size: 14px;
-padding-left: 0.2rem; 
+padding-left: 0.2em;
 }
 
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-title{
@@ -129,7 +156,6 @@ padding: 4px 0px;
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-actions{
 padding: 4px 10px;
 }
-
 
 
 
