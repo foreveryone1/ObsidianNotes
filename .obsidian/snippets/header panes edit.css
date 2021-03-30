@@ -12,8 +12,9 @@
 }
 
 
-.mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header {
-    border-bottom: 0 !important;
+.mod-root.workspace-split.mod-vertical div:not(.mod-active) .view-header{ 
+border-bottom-width: 1px;
+border-bottom-color: var(--background-modifier-border);
 }
 
 

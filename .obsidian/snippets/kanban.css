@@ -87,6 +87,19 @@ margin-right: 0.75rem;
   max-width: 100%;
 }
 
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon {
+position: absolute;
+z-index: 1;
+}
+
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
+margin-left: 1.5rem;
+}
+
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + span > div.markdown-embed .markdown-preview-view {
+padding-left: 0px;
+}
+
 .theme-light .kanban ul ul li:nth-child(odd) {
   background: #ffffff70;
   border-top: 1px solid var(--background-secondary);
