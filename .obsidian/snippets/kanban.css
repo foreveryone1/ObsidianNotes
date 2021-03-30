@@ -122,3 +122,5 @@ margin-right: 0.75rem;
 .theme-dark .kanban ul ul li:hover {
   background: #4F4F4F09;
 }
+
+.kanban li div {width: fit-content;}

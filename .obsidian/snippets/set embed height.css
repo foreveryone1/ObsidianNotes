@@ -32,9 +32,10 @@ margin-bottom: 20px;
 }
 .internal-embed.is-loaded[alt="stats2"] {
   max-height: 10.866666rem;
-  min-width: 10.625rem;
+  min-width: 16.rem;
   overflow: hidden !important;
 }
+
 
 .internal-embed.is-loaded[alt="tall"] {
   max-height: 80vh !important;
@@ -50,6 +51,15 @@ margin-bottom: 20px;
 .internal-embed.is-loaded[alt="spacer"] .markdown-embed-link,
 .internal-embed.is-loaded[alt="spacer"].markdown-embed-link:hover{
 color: transparent !important;
+}
+
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon {
+position: absolute;
+z-index: 1;
+}
+
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
+margin-left: 1rem;
 }
 
 .internal-embed.is-loaded[alt="spacer"] {

@@ -6,6 +6,7 @@ cssclass: grid, kanban
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
 - ![[LVL9#Standard Striker|stats2]]
+	- **4d8 + 6**
 - ![[size_gargantuan|narrow]]
 - ![[type_monstrosity|narrow]]
 - ![[speed_walk|narrow]]
@@ -26,7 +27,7 @@ Bold = expertise
 		- Can carry up to 40 lbs.
 	- [[Minor Illusion]]
 - #### Three casts per day
-	- ##### slots
+	- ##### slots (which is the right word)
 		- [x] 
 		- [x] 
 		- [x] 
