@@ -176,8 +176,8 @@ display: block;
 /* Pane relief specific options */
 
 /* optional feature underline next tab [pane relief cycle to next pane hotkey] */
-.mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf,
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf {
+.mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf .view-header-title ,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf .view-header-title {
 text-decoration: underline;
 }
 
@@ -202,9 +202,12 @@ counter-increment: tab;
 content: counter(tab);
 padding-top: 2px;
 display: inline-block;
-height: 40px;
+height: 100%;
 margin-right: 5px;
 padding: 0 0.4em;
+width: auto; /* compatibility with mininal */
+vertical-align: baseline; /* compatibility with mininal */
+position: static; /* compatibility with mininal */
 background-color: var(--background-secondary-alt); /* change to appealing colours in your theme */
 }
 
