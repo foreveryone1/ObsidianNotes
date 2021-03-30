@@ -1,7 +1,7 @@
 .markdown-preview-view img {
 	cursor:zoom-in;}
 
-.markdown-preview-view img:active {
+.workspace-leaf img:active {
 	cursor:zoom-out;
 	display:block;
 	z-index:100;
