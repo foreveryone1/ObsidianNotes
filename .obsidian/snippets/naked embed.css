@@ -18,3 +18,15 @@ color: var(--text-faint);
 .markdown-embed-link:hover {
 color: var(--text-accent);
 }
+
+
+.cm-s-obsidian span.cm-comment::before {
+content: " ➡️ ";
+color: var(--text-faint);
+}
+.cm-s-obsidian span.cm-comment {
+color: var(--background-primary);
+}
+.CodeMirror-activeline span.cm-comment {
+color: var(--text-faint);
+}
