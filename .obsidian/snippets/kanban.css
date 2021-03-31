@@ -6,8 +6,13 @@
   padding-left: 0.3rem;
   padding-right: 0.3rem;
   padding-bottom: 0.9rem;
-  padding-top: 0.9rem;
+  padding-top: 0.0rem;
   flex-wrap: wrap;
+}
+
+.kanban div > ul > li{
+  padding-top: 0.9rem;
+  padding-left: 3px
 }
 
 .kanban .list-collapse-indicator.collapse-indicator.collapse-icon{

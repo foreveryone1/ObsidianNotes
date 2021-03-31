@@ -1,0 +1,4 @@
+.CodeMirror-gutter.CodeMirror-linenumbers, .CodeMirror-gutter.CodeMirror-foldgutter {
+    background-color: var(--background-primary);
+}
+

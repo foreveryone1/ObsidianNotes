@@ -6,7 +6,6 @@ cssclass: grid, kanban
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
 - ![[LVL9#Standard Striker|stats2]]
-	- Test
 - ![[size_gargantuan|narrow]]
 - ![[type_monstrosity|narrow]]
 - ![[speed_walk|narrow]]
@@ -68,11 +67,3 @@ Bold = expertise
 	- ##### 15 ft.
 - ![[mtraits#Pack Tactics]]
 ### Actions
-
-|  d4   | d4    |   d6  | 
-| --- | --- | --- |
-
-#testing
-
-testing selective formatting
-I do not want this to be affected
