@@ -66,13 +66,13 @@ width: 100%;
 }
 
 /* compatibility with maximise pane plugin */
-.mod-root.workspace-split.mod-vertical.maximised  div.workspace-leaf.mod-active {
+.mod-root.workspace-split.mod-vertical.maximised .workspace-split.mod-vertical > div.workspace-leaf.mod-active, .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active {
 height: 100%!important;
 top: 0px;
 border-radius: 10px 0px 0px 0px;
 border-top: 1px solid var(--background-modifier-border);
 }
-.maximised .view-header {height: var(--headerheight);  }
+.maximised .view-header {height: var(--headerheight);  border-left: 1px solid var(--background-modifier-border)}
 
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:only-of-type,
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf:only-of-type { /*if only one pane open, maximise*/
