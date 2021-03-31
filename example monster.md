@@ -36,9 +36,9 @@ Bold = expertise
 	- [[Tasha's Hideous Laughter]]
 - #### Three casts per day
 	- ##### Slots
-		- [x] 
-		- [x] 
-		- [x] 
+		- [ ] 
+		- [ ] 
+		- [ ] 
 	- [[BlindnessDeafness|Blindness/Deafness]]
 	- [[Heat Metal]]
 	- [[Shatter]]

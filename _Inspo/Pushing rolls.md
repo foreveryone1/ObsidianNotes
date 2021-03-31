@@ -8,4 +8,5 @@ Consider using a resource that is exchanged between DM and player, rather than a
 [[Call of Cthulhu]]
 [[Genesys]]
 
-### In documents
+### Derived Houserules
+[[Story Dice]]
