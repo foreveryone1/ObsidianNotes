@@ -32,7 +32,7 @@ margin-bottom: 20px;
 }
 .internal-embed.is-loaded[alt="stats2"] {
   max-height: 10.866666rem;
-  min-width: 16.rem;
+  min-width: 16rem;
   overflow: hidden !important;
 }
 
@@ -44,27 +44,19 @@ margin-bottom: 20px;
 }
 
 
-.internal-embed.is-loaded[alt*="stats"] .markdown-embed-link,
-.internal-embed.is-loaded[alt*="stats"].markdown-embed-link:hover,
-.internal-embed.is-loaded[alt="narrow"] .markdown-embed-link,
-.internal-embed.is-loaded[alt="narrow"].markdown-embed-link:hover,
-.internal-embed.is-loaded[alt="spacer"] .markdown-embed-link,
-.internal-embed.is-loaded[alt="spacer"].markdown-embed-link:hover{
+.kanban .internal-embed.is-loaded[alt*="mtraits" i] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt*="mtraits" i].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt*="mpowers" i] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt*="mpowers" i].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt*="stats" i] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt*="stats" i].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt="narrow"] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt="narrow"].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt="spacer"] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt="spacer"].markdown-embed-link:hover{
 color: transparent !important;
 }
 
-.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon {
-position: absolute;
-z-index: 1;
-}
-
-.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
-margin-left: 1.5rem;
-}
-
-.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + span > div.markdown-embed .markdown-preview-view {
-padding-left: 0px;
-}
 
 .internal-embed.is-loaded[alt="spacer"] {
 padding-left: 1rem !important;
@@ -90,22 +82,22 @@ white-space: nowrap;
 min-width: 7.6rem;
 }
 
-.kanban [data-heading*="lots"] + ul.contains-task-list {
+.kanban [data-heading*="slots" i] + ul.contains-task-list {
 flex-direction: row;
 justify-content: flex-start;
 }
 
-.kanban [data-heading*="lots"] + ul.contains-task-list > .task-list-item {
+.kanban [data-heading*="slots" i] + ul.contains-task-list > .task-list-item {
 flex-grow: 0;
 }
 
-.kanban [data-heading*="lots"] + ul.contains-task-list > .task-list-item input {
+.kanban [data-heading*="slots" i] + ul.contains-task-list > .task-list-item input {
   margin: 0 0 0 24px;
   width: 17px;
   height: 17px;
 }
 
-.kanban [data-heading*="lots"] + ul.contains-task-list > li {
+.kanban [data-heading*="slots" i] + ul.contains-task-list > li {
   padding-top: 0.275rem;
   padding-bottom: 0.275rem;
 }
