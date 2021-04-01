@@ -19,14 +19,13 @@ color: var(--text-faint);
 color: var(--text-accent);
 }
 
-
-.cm-s-obsidian span.cm-comment::before {
-content: " ➡️ ";
-color: var(--text-faint);
-}
-.cm-s-obsidian span.cm-comment {
-color: var(--background-primary);
-}
-.CodeMirror-activeline span.cm-comment {
-color: var(--text-faint);
+.markdown-preview-view div > p > br  {
+    content: '\a';
+    position: relative;
+    top:30px;
+    display: inline-block;
+    margin-top: 10px;
+    background-color: black;
+    width: 40px;
+    height: 10px;
 }
