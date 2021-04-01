@@ -1,6 +1,6 @@
 ---
 cssclass: kanban
-alias: "zonder titel"
+aliases: ["zonder titel", "file"]
 ---
 This snippet turns all documents with the right frontmatter into kanbans. Like so:
 
