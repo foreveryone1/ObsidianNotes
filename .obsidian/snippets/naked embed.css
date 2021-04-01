@@ -19,13 +19,17 @@ color: var(--text-faint);
 color: var(--text-accent);
 }
 
-.markdown-preview-view div > p > br  {
-    content: '\a';
-    position: relative;
-    top:30px;
-    display: inline-block;
-    margin-top: 10px;
-    background-color: black;
-    width: 40px;
+
+.markdown-preview-view div > p > br{
+    content: "";
+}
+.markdown-preview-view div > p > br::after  {
+    content: "           ";
+    white-space: pre;
+}
+.markdown-preview-view div > p > br::before  {
+    content: "";
     height: 10px;
+    display: block;
+    background-color: black
 }

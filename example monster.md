@@ -16,7 +16,6 @@ cssclass: grid, kanban
 	- ###### 30 ft.
 
 ### Skills
-Bold = expertise
 [[Athletics]], **[[Religion]]**
 ### Spellcasting: Wisdom 
 > **+2 modifier / +6 to hit / DC 8 + 6 = 14**
@@ -69,7 +68,7 @@ Bold = expertise
 ### Actions
 
 
-moressdsds here
-testtest
+This is separated with a single linebreak
+And is indented! And now lots of text to see how it behaves when it wrapsAnd now lots of text to see how it behaves when it wrapsAnd now lots of text to see how it behaves when it wrapsAnd now lots of text to see how it behaves when it wraps
 
-sdsssssssssssssssssssssssssssss
+This has two linebreaks and isn't indented.
