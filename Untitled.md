@@ -1,49 +1,20 @@
-- test
-- > erer
+---
+cssclass: kanban
+alias: "zonder titel"
+---
+This snippet turns all documents with the right frontmatter into kanbans. Like so:
 
-%%comment%%
-
-==test==
-> - test
-
-<b>**test**
-
-
-Test 
-</b>
-> - [ ] test 
-
-`test lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsumtest lorem ipsum`
-
-- lists 
-- lists
-- lists
-
-😆
-
-==&ensp== test **bbb**
-more testing
-
-```info
-Work in progress!
-```
-
-
-- [ ] ## Display
-- display
-- [ ] Display
-
-Test
-
-# h1
-this is what text looks like
-## h2
-this is what text looks like
-### h3
-this is what text looks like
-#### h4
-this is what text looks like
-##### h5
-this is what text looks like
-###### h6
-this is what text looks like
+- Today
+	- Note taking
+	- [x] Watch video
+	- Read
+- Tomorrow
+	- Study
+		- Geography
+		- French
+			- [x] Conjugation of the Future Perfect
+		- Physics
+- The day after tomorrow
+	- Relax
+		- Biking
+		- Pétanque at 1600

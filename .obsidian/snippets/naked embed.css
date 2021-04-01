@@ -18,18 +18,3 @@ color: var(--text-faint);
 .markdown-embed-link:hover {
 color: var(--text-accent);
 }
-
-
-.markdown-preview-view div > p > br{
-    content: "";
-}
-.markdown-preview-view div > p > br::after  {
-    content: "           ";
-    white-space: pre;
-}
-.markdown-preview-view div > p > br::before  {
-    content: "";
-    height: 10px;
-    display: block;
-    background-color: black
-}

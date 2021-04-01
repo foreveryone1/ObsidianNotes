@@ -3,7 +3,7 @@
 .mod-root.workspace-split.mod-vertical{
 --rows : 1;/*1 for default view, 2 for 2 row view*/
 --numtabs : 0;  /* set desired number of tabs per row here (total tabs = this number times two)*/
-/*^ only relevant if using 2 row view */
+/*^ set to zero if using 1 tab view*/
 --w1 : calc(100% * var(--rows) / (var(--numtabs) * var(--rows)));
 --w2 : max(calc(100% * var(--rows) / (var(--numtabs) * var(--rows) - var(--rows))) , 14.5rem/*alter width of tab here*/);
 --headerheight: 29px;
@@ -15,6 +15,11 @@ flex-grow: 1;
 flex-shrink: 1;
 min-width: var(--w1);
 max-width: var(--w2);
+
+height: var(--headerheight); 
+border-radius: 10px 10px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
+border: 1px solid var(--background-modifier-border); /* adds a slight outline to the tab header - NOT ESSENTIAL */
+border-bottom: 0;
 }
 
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical,
@@ -31,13 +36,6 @@ overflow-y: auto; /* no second scrollbar should be visible, if one appears, then
 height: 100%;
 }
 
-/* turns inactive panes into tabs*/
-.mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf,
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf { 
-height: var(--headerheight); 
-border-radius: 10px 10px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
-border: 1px solid var(--background-modifier-border); /* adds a slight outline to the tab header - NOT ESSENTIAL */
-}
 
 .mod-root.workspace-split.mod-vertical > .workspace-split.mod-vertical > div.workspace-leaf .view-header,
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header{border-left: 1px solid var(--background-modifier-border) } /* adds a slight outline to the main window header - NOT ESSENTIAL */
@@ -48,9 +46,10 @@ border-top: 0;
 
 
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active,
-.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active { 
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active {
+border-radius: 0; 
 border-left: 0;
-border-top: 0;
+border-right: 0;
 border-bottom: 0;
 }
 
@@ -63,6 +62,7 @@ min-width: 100%;
 min-height: calc(100% - var(--headerheight) * var(--rows));
 overflow-y: hidden;
 width: 100%;
+padding-right: 1px;
 }
 
 /* compatibility with maximise pane plugin */

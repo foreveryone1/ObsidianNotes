@@ -5,7 +5,7 @@ cssclass: grid, kanban
 - ## Attributes
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
-- ![[LVL9#Standard Striker|stats2]]
+- ![[LVL9#Standard Striker|stats2]] Test
 - ![[size_gargantuan|narrow]]
 - ![[type_monstrosity|narrow]]
 - ![[speed_walk|narrow]]
@@ -67,8 +67,3 @@ cssclass: grid, kanban
 - ![[mtraits#Pack Tactics]]
 ### Actions
 
-
-This is separated with a single linebreak
-And is indented! And now lots of text to see how it behaves when it wrapsAnd now lots of text to see how it behaves when it wrapsAnd now lots of text to see how it behaves when it wrapsAnd now lots of text to see how it behaves when it wraps
-
-This has two linebreaks and isn't indented.

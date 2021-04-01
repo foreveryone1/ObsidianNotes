@@ -16,9 +16,8 @@
 }
 
 .kanban .list-collapse-indicator.collapse-indicator.collapse-icon{
-  padding-left: 3rem;
+  padding-left: 44px;
  /* padding-right: 0.3rem; */
- margin-right: 0.5rem
 }
 .kanban .task-list-item-checkbox {
 margin-left: 1.5rem;
@@ -93,17 +92,15 @@ margin-right: 0.75rem;
 }
 
 .kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon {
-position: absolute;
-z-index: 1;
+margin-right: 8px;
 }
-
 .kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
-margin-left: 1.5rem;
+margin-left: 0px;
 }
-
 .kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + span > div.markdown-embed .markdown-preview-view {
 padding-left: 0px;
 }
+
 
 .theme-light .kanban ul ul li:nth-child(odd) {
   background: #ffffff70;
