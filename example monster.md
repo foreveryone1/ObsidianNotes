@@ -5,7 +5,7 @@ cssclass: grid, kanban, readable
 - ## Attributes
 	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
 - ![[LVL9#Stats|stats]]
-- ![[LVL9#Standard Striker|stats2]] Test
+- ![[LVL9#Standard Striker|stats2]] 
 - ![[size_gargantuan|narrow]]
 - ![[type_monstrosity|narrow]]
 - ![[speed_walk|narrow]]
@@ -26,7 +26,7 @@ cssclass: grid, kanban, readable
 	- [[Minor Illusion]]
 - #### Three casts per day
 	- ##### slots
-		- [ ] 
+		- [x] 
 		- [ ] 
 		- [ ] 
 		- [ ] 
@@ -67,3 +67,4 @@ cssclass: grid, kanban, readable
 - ![[mtraits#Pack Tactics]]
 ### Actions
 
+<figcaption>Test</figcaption>
