@@ -67,4 +67,8 @@ cssclass: grid, kanban, readable
 - ![[mtraits#Pack Tactics]]
 ### Actions
 
-<figcaption>Test</figcaption>
+
+
+![[token_example.png|left|200]] ![[token_example.png|right|200]]
+<figcaption id="left" style="width:200px">This is a caption</figcaption> <figcaption id="right" style="width:200px">This is a caption</figcaption>
+This text wraps in between the two floats.
