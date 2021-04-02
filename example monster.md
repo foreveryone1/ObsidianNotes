@@ -1,5 +1,5 @@
 ---
-cssclass: grid, kanban
+cssclass: grid, kanban, readable
 ---
 ## Monster Name
 - ## Attributes
