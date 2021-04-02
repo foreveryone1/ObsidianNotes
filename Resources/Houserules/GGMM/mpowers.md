@@ -110,3 +110,5 @@ When a creature that you can see would be reduced to 0 hit points, you can spend
 Allies within 10 ft of you gain +2 AC.
 ## Rallying Cry
 Once per turn, when you hit a target with an attack, you can remove an ongoing condition from an ally that you can see.
+
+<details> <summary>title</summary> some text </details>

@@ -67,64 +67,15 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.CodeMirror-code,
-.markdown-preview-sizer {
-    counter-reset: h1
+.markdown-preview-view div > p > br{
+    content: "";
 }
-
-.cm-formatting-header-1.cm-header,h1 {
-    counter-reset: h2
+.markdown-preview-view div > p > br::after  {
+    content: "           ";
+    white-space: pre;
 }
-
-.cm-formatting-header-2.cm-header,h2 {
-    counter-reset: h3
-}
-
-.cm-formatting-header-3.cm-headerh3 {
-    counter-reset: h4
-}
-
-.cm-formatting-header-3.cm-header,h4 {
-    counter-reset: h5
-}
-
-.cm-formatting-header-5.cm-header,h5 {
-    counter-reset: h6
-}
-
-/** put counter result into headings */
-.cm-formatting-header-1.cm-header::after,
-.markdown-preview-section h1::before {
-    counter-increment: h1;
-    content: counter(h1) ". "
-}
-
-.cm-formatting-header-2.cm-header::after,
-.markdown-preview-section h2::before {
-    counter-increment: h2;
-    content: counter(h1) "." counter(h2) ". "
-}
-
-.cm-formatting-header-3.cm-header::after,
-.markdown-preview-section h3::before{ /*override the default style for focused headings */
-    counter-increment: h3;
-    content: counter(h1) "." counter(h2) "." counter(h3) ". "
-}
-
-.cm-formatting-header-4.cm-header::after,
-.markdown-preview-section h4::before{
-    counter-increment: h4;
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) ". "
-}
-
-.cm-formatting-header-5.cm-header::after,
-.markdown-preview-section h5::before{
-    counter-increment: h5;
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) ". "
-}
-
-.cm-formatting-header-6.cm-header::after,
-.markdown-preview-section h6::before{
-    counter-increment: h6;
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6) ". "
+.markdown-preview-view div > p > br::before  {
+    content: "";
+    height: 10px;
+    display: block;
 }
