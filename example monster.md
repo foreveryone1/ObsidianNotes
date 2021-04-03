@@ -49,7 +49,7 @@ cssclass: grid, kanban, readable
 	- [[Hold Person]]
 - #### One cast per day
 	- ##### slots
-		- [ ] 
+		- [x] 
 	- [[Mislead]]
 	- [[Polymorph]]
 
