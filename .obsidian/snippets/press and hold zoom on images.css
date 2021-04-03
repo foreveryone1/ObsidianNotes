@@ -20,3 +20,5 @@
     right:0;
     bottom:0;
     background:var(--background-primary);}
+
+.nav-folder-title [data-path="Resources"] {display:none}

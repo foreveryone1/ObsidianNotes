@@ -48,6 +48,3 @@ This takes his Drink Tally to 15, which is his maximum Drink Tally for being Buz
 At the ball, however, a situation forces him to have one more drink, and social custom does not allow him to refuse.
 
 Flagon rolls one more time, and rolls a 10 and a 9. He futilely picks the 9 and reduces it by 2. Unfortunately for him, that still leaves his Drink Tally at 22, and he passes out for 3 hours.
-
-> They look like this
-> They can only be used at the start of a line, however
