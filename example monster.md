@@ -3,9 +3,9 @@ cssclass: grid, kanban, readable
 ---
 ## Monster Name
 - ## Attributes
-	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con
-- ![[LVL9#Stats|stats]]
-- ![[LVL9#Standard Striker|stats2]] 
+	- Str<br>**Dex**<br>Wis<br>**Cha**<br>Int<br>Con 
+- ![[LVL9#Stats|stats]] 
+- ![[LVL9#Standard Striker|stats2]]** 2 Attacks** <br>To hit: +6 [`dice: 1d20+6`] <br>2d6+4 Bludgeoning [`dice: 2d6+4`]
 - ![[size_gargantuan|narrow]]
 - ![[type_monstrosity|narrow]]
 - ![[speed_walk|narrow]]
