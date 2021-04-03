@@ -66,16 +66,3 @@ figcaption#center {
 margin-left: auto;
 margin-right: auto;
 }
-
-.markdown-preview-view div > p > br{
-    content: "";
-}
-.markdown-preview-view div > p > br::after  {
-    content: "           ";
-    white-space: pre;
-}
-.markdown-preview-view div > p > br::before  {
-    content: "";
-    height: 10px;
-    display: block;
-}
