@@ -1,5 +1,5 @@
 ---
-cssclass: grid, kanban, readable
+cssclass: kanban, readable
 ---
 ## Monster Name
 - ## Attributes
@@ -70,5 +70,6 @@ cssclass: grid, kanban, readable
 
 
 ![[token_example.png|left|200]] ![[token_example.png|right|200]]
-<figcaption id="left" style="width:200px">This is a caption</figcaption> <figcaption id="right" style="width:200px">This is a caption</figcaption>
-This text wraps in between the two floats.
+<figcaption id="left" style="width:200px">This is a left caption</figcaption> <figcaption id="right" style="width:200px">This is a right caption</figcaption>
+
+**Text now sits between the two images. Adding filler to make the text multiline.** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est
