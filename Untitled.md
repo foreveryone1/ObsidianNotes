@@ -1,1 +1,1 @@
-`dice: 2d20k1`
+`dice: 2d20k1` %%tes%%
