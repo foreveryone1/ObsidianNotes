@@ -1,5 +1,5 @@
 ### Large
-![[obsidian.md/Attachments/circle.png]]
+![[circle.png]]
 # larger
 [[Pyroclastic puffins request]]
 
