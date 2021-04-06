@@ -212,7 +212,7 @@ width:17px;
 }
 .search-input-container {
   width:calc(100% - 20px);
-  margin:0 10px 5px;
+  margin:10px 10px 5px;
 }
 
 .workspace-leaf-content .setting-item {
