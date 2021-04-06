@@ -16,7 +16,9 @@ equal melancholy and playfulness
 
 acoustic instruments with a healthy slathering of distortion
 
-
+## Parannoul - Let's Walk on the Path of a Blue Cat
+nice punchy math rock drums
+variety of instruments - synths, acoustic and electric guitar, 'shoegazey guitars' 
 ## Home is Where - I became birds
 ## youth novel - s/t
 ## hospital bracelet - south loop summer
