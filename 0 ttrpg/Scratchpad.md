@@ -11,8 +11,3 @@
 ## testing
 
 whether drag and drop of images places images in the designated folder or to the attachments folder
-
-
-
-
-![[Svg_example2.svg]]
