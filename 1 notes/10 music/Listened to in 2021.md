@@ -7,6 +7,8 @@ Drums that oscillate between blastbeats and indie rock
 
 Stand out tracks: semi-burnt sugar
 
+[[emo]] [[grindcore]] [[blackgaze]]
+
 ## Asian Glow Cull Ficle
 Playful lo-fi bedroom pop emo
 
@@ -16,9 +18,13 @@ equal melancholy and playfulness
 
 acoustic instruments with a healthy slathering of distortion
 
+[[emo]] [[bedroom pop]] [[lo-fi]]
+
 ## Parannoul - Let's Walk on the Path of a Blue Cat
 nice punchy math rock drums
 variety of instruments - synths, acoustic and electric guitar, 'shoegazey guitars' 
+
+[[shoegaze]] [[math rock]] 
 ## Home is Where - I became birds
 ## youth novel - s/t
 ## hospital bracelet - south loop summer
