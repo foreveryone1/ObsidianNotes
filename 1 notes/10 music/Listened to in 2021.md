@@ -34,3 +34,5 @@ vocals are supremely catchy - even a bit more roughness would've nice
 least remarkable of the bunch so far
 nice individual moments, but the whole doesn't stand out
 ## hospital bracelet - south loop summer
+pleasant enough female vocals
+lacks punch
