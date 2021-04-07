@@ -11,7 +11,7 @@ Using a story die to force an opponent to reroll a critical strike is possible, 
 ### Adding to a result
 A story die can be expended to roll a d6, and adding that to the result.
 ### Rerolling
-A story die can be expended to roll a d20 again, using that result. If a roll was made with advantage or disadvantage, the rerolled die may choose which result the newly rolled die replaces. Afterwards, the rules of advantage or disadvantage are still applied to choose between the results. 
+A story die can be expended to roll a d20 again, using that result. If a roll was made with advantage or disadvantage, the one who spent the story die may choose which result the newly rolled die replaces. Afterwards, the rules of advantage or disadvantage are applied to choose between the two results. 
 
 ### Exploiting a vulnerability
 When a character rolls a natural one in combat or when making a check in a volatile situation, a story die can be expended to escalate the degree of failure.

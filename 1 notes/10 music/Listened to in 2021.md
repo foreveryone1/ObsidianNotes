@@ -26,5 +26,11 @@ variety of instruments - synths, acoustic and electric guitar, 'shoegazey guitar
 
 [[shoegaze]] [[math rock]] 
 ## Home is Where - I became birds
+solid bouncy bass lines
+vocals are supremely catchy - even a bit more roughness would've nice
+
+[[folk punk]] [[emo]]
 ## youth novel - s/t
+least remarkable of the bunch so far
+nice individual moments, but the whole doesn't stand out
 ## hospital bracelet - south loop summer
