@@ -1,3 +1,6 @@
+---
+alias: converting
+---
 # Convert MP4 file to animated WEBP file in ffmpeg CLI
 
 ## 1. Install ffmpeg CLI through homebrew
@@ -36,3 +39,5 @@ ffmpeg -i input.mp4 -vcodec libwebp -filter:v fps=fps=20 -lossless 0  -compressi
 For more option details, please visit the [the ffmpeg libwebp documentation](http://ffmpeg.org/ffmpeg-all.html#libwebp)
 
 This method should applicable for majority video formats including .mov, .avi, .flv, etc. as input files as well as .gif format as output file. 
+
+[1 Install ffmpeg CLI through homebrew](export%20animated%20webps.md#1%20Install%20ffmpeg%20CLI%20through%20homebrew)
