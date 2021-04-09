@@ -1,7 +1,7 @@
 /* @settings
 
-name: Your Section Name Here
-id: a-unique-id
+name: Tabbed View Settings
+id: tabbed-view
 settings:
     - 
         id: this-is-a-heading
@@ -14,15 +14,22 @@ settings:
 /* If an optional feature is not desired remove all of the css after the optional feature title until the next feature title */
 /* REQUIRED */
 :root{
---rows : 1;
+--rows1 : 2;
+--rowsjs : 1;
+--rows : min(var(--rows1),var(--rowsjs));
 --tabs: 12; /* set desired minimum number of tabs*/
 --jstabs: 0;
 --numtabs : max(var(--jstabs),var(--tabs));  
 --w1 : calc(100% * var(--rows) / var(--numtabs));
---w2 : 14.5rem;
+--w2 : 14.5rem/*alter width of tab here*/);
 --headerheight: 29px;
 }
 
+
+.mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(n+8),
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(n+8) { 
+max-width: unset;
+}
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf,
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf { 
 flex-grow: 1;
@@ -35,12 +42,14 @@ border: 1px solid var(--background-modifier-border); /* adds a slight outline to
 border-bottom: 0;
 }
 
+
+
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical,
 .mod-root.workspace-split.mod-vertical{ 
 overflow-x: hidden; 
 flex-direction: row;
 flex-wrap: wrap;
-align-content: flex-end;
+align-content: flex-start;
 align-items: stretch;
 overflow-y: hidden; /* no second scrollbar should be visible, if one appears, then I've made a mistake */
 }
@@ -75,7 +84,6 @@ border-bottom: 0;
 }
 
 /* compatibility with maximise pane plugin */
-.workspace-split.mod-vertical > .stayopen
 .mod-root.workspace-split.mod-vertical.maximised .workspace-split.mod-vertical > div.workspace-leaf.mod-active, .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active {
 height: 100%!important;
 top: 0px;
