@@ -1,14 +1,31 @@
+/* @settings
+
+name: Your Section Name Here
+id: a-unique-id
+settings:
+    - 
+        id: this-is-a-heading
+        title: My Heading
+        type: heading
+        level: 2
+
+*/
+
 /* If an optional feature is not desired remove all of the css after the optional feature title until the next feature title */
 /* REQUIRED */
 :root{
---rows : 1;/*1 for default view, 2 for 2 row view*/
---tabs: 0; /* set desired number of tabs per row here (total tabs = this number times two)*/
---vartabs: 0;
---numtabs : max(var(--vartabs),var(--tabs));  
+--rows : 1;
+--tabs: 7; /* set desired number of tabs per row here (total tabs = this number times two)*/
+--jstabs: 0;
+--numtabs : max(var(--jstabs),var(--tabs));  
 /*^ set to zero if using 1 tab view*/
---w1 : calc(100% * var(--rows) / (var(--numtabs) * var(--rows)));
+--w1 : calc(100% * var(--rows) / var(--numtabs));
 --w2 : max(calc(100% * var(--rows) / (var(--numtabs) * var(--rows) - var(--rows))) , 14.5rem/*alter width of tab here*/);
 --headerheight: 29px;
+}
+
+.tworowtab {
+--rows : 2;
 }
 
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf,
