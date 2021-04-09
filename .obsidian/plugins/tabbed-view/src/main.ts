@@ -9,6 +9,7 @@ async onload() {
   this.registerEvent(this.app.workspace.on('active-leaf-change', this.handleOpen));
 };
 
+//remove class when plugin is disabled
 onunload() {
 let unloadCleaner = Array.from(document.querySelectorAll('.stayopen'));
   unloadCleaner.forEach(node => {
@@ -17,7 +18,7 @@ let unloadCleaner = Array.from(document.querySelectorAll('.stayopen'));
 };
 
 handleOpen() {
-let removeopen = Array.from(app.workspace.activeLeaf.containerEl.parentNode.children);
+let removeopen = Array.from(app.workspace.activeLeaf.containerEl.parentNode.children); //remove class from siblings of active pane, but intentionally not from all 
   removeopen.forEach(node => {
     node.removeClass('stayopen');
   });
@@ -30,7 +31,8 @@ let opentabs1 = app.workspace.rootSplit.containerEl.children.length;
 let modverticalselector = app.workspace.rootSplit.containerEl.querySelector('.mod-vertical');
 if (modverticalselector !== null) {
   var opentabs2 = modverticalselector.children.length);
-} else {
+}
+else {
   var opentabs2 = 0;
 }
 let tabwidth = Math.max(opentabs1,opentabs2) - 1;
