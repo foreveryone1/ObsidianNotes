@@ -4,11 +4,6 @@ name: Tabbed View Plugin Settings
 id: tabbed-view
 settings:
     - 
-        id: non-pane-relief-settings
-        title: Non-Pane Relief Settings
-        type: heading
-        level: 3
-    - 
         id: rowoverflow
         title: Row overflow
         description: Sets tabs to overflow to a second row when more than 8 tabs are open.
@@ -25,14 +20,19 @@ settings:
         type: class-toggle
     - 
         id: small-title
-        title: Disable hiding buttons.
+        title: Disable smaller title font.
         description: By default titles on non-active leaves are smaller.
         type: class-toggle
     - 
         id: compact-title
         title: Disable compacter titles.
         description: By default titles on non-active leaves are compacter.
-        type: class-toggle        
+        type: class-toggle    
+    - 
+        id: non-pane-relief-settings
+        title: Pane Relief Related Settings
+        type: heading
+        level: 3            
     - 
         id: tab-numbering
         title: Disable tab numbering.
@@ -339,4 +339,3 @@ body:not(.tab-numbering) .mod-root.workspace-split.mod-vertical.maximised > div.
 border-left-width: 2px;
 border-top-width: 2px
 }
-

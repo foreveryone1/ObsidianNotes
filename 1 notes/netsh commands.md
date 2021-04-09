@@ -25,3 +25,5 @@ netsh interface ipv4 set dnsserver "Wi-Fi" dhcp
 netsh interface ipv6 set dnsserver "Wi-Fi" dhcp
 netsh interface ipv6 set dnsserver "ethernet" dhcp
 ```
+
+sds
