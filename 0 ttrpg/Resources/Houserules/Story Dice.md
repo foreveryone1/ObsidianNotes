@@ -7,6 +7,13 @@ The dungeon master adjudicates when a story die can be used. Typically, story di
 
 Using a story die to force an opponent to reroll a critical strike is possible, but using a story die to make the dungeon master reroll the outcome of an event miles away isn't possible, barring narrative justification.
 
+```note
+Spending a story die is inherently a trade-off, because it provides the opportunity for an opponent to use one at a later moment.
+
+However, if you want to up the risk even more, considering making it clear to players that spending a story die will bring about graver consequences for failing.
+```
+<figcaption><a data-href="Pushing rolls" href="Pushing rolls" class="internal-link" target="_blank" rel="noopener">Further reading: Pushing Rolls</a></figcaption>
+
 ## Uses
 ### Adding to a result
 A story die can be expended to roll a d6, and adding that to the result.

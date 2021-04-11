@@ -26,7 +26,7 @@ ffmpeg -i input_filename.mp4 -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -l
 
 Export an animated lossy WebP with preset mode picture：
 ```
-ffmpeg -i taboverflow.mp4 -vcodec libwebp -filter:v fps=fps=16 -lossless 0  -compression_level 4 -qscale 60 -loop 0 -preset default -an -vsync 0 -s 1280:692 output_filename1.webp
+ffmpeg -i taboverflow.mp4 -vcodec libwebp -filter:v fps=fps=16 -lossless 0 -compression_level 4 -qscale 60 -loop 0 -preset default -an -vsync 0 -s 1280:692 output_filename1.webp
 ```
 
 ### primary options: 

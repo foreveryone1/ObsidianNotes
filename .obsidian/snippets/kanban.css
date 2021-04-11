@@ -47,7 +47,8 @@ margin-right: 0.75rem;
 .kanban ul h6{
     margin-block-start: 0rem;
      margin-block-end: 0rem;
-    margin-left: 0
+    margin-left: 0;
+    white-space: pre-wrap; 
 }
 
 

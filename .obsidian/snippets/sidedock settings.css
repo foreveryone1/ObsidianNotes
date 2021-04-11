@@ -1,0 +1,8 @@
+.side-dock-ribbon.is-collapsed:not(:hover){ width: 0px !important; opacity: 0 }
+.side-dock-ribbon.mod-right.is-collapsed:not(:hover) ~ .workspace-split.mod-right-split { margin-right: 0 }
+.side-dock-ribbon.mod-left.is-collapsed:not(:hover) ~ .workspace-split.mod-left-split { margin-left: 0 }
+
+.side-dock-ribbon.is-collapsed.mod-right{ border-radius: 10px 0 0 0;}
+.side-dock-ribbon.is-collapsed.mod-left{ border-radius: 0 10px 0 0;}
+
+.workspace {background-color: var(--background-secondary-alt)}

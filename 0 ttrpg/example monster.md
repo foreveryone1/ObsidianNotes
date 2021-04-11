@@ -66,7 +66,3 @@ cssclass: kanban, readable
 	- ##### 15 ft.
 - ![[mtraits#Pack Tactics]]
 ### Actions
-
-
-sdsd
--[ ] sd
