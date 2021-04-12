@@ -27,9 +27,9 @@ cssclass: kanban, readable
 - #### Three casts per day
 	- ##### slots
 		- [x] 
-		- [ ] 
-		- [ ] 
-		- [ ] 
+		- [x] 
+		- [x] 
+		- [x] 
 	- [[Sleep]]
 	- [[Tasha's Hideous Laughter]]
 - #### Three casts per day
@@ -42,14 +42,14 @@ cssclass: kanban, readable
 	- [[Shatter]]
 - #### Two casts per day
 	- ##### slots
-		- [x] 
-		- [x] 
+		- [ ] 
+		- [ ] 
 	- [[Stinking Cloud]]
 	- [[Plant Growth]]
 	- [[Hold Person]]
 - #### One cast per day
 	- ##### slots
-		- [x] 
+		- [ ] 
 	- [[Mislead]]
 	- [[Polymorph]]
 
