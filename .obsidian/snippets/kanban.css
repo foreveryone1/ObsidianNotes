@@ -134,3 +134,12 @@ padding-left: 0px;
 .kanban ul ul li:hover {
   background: var(--kanbanhover);
 }
+
+h1 > .internal-link, h1 > .external-link, h1 > .internal-link.is-unresolved,
+h2 > .internal-link, h2 > .external-link, h2 > .internal-link.is-unresolved,
+h3 > .internal-link, h3 > .external-link, h3 > .internal-link.is-unresolved,
+h4 > .internal-link, h4 > .external-link, h4 > .internal-link.is-unresolved,
+h5 > .internal-link, h5 > .external-link, h5 > .internal-link.is-unresolved,
+h6 > .internal-link, h6 > .external-link, h6 > .internal-link.is-unresolved {
+    color: unset !important;
+}

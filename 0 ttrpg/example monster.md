@@ -65,4 +65,5 @@ cssclass: kanban, readable
 - ![[mtraits#Aura Disruptive]]
 	- ##### 15 ft.
 - ![[mtraits#Pack Tactics]]
+
 ### Actions
