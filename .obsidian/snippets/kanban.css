@@ -143,3 +143,6 @@ h5 > .internal-link, h5 > .external-link, h5 > .internal-link.is-unresolved,
 h6 > .internal-link, h6 > .external-link, h6 > .internal-link.is-unresolved {
     color: unset !important;
 }
+
+
+.markdown-preview-view a.tag[href="#tag/subtag"] {display: none}

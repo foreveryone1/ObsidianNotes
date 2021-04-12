@@ -1,15 +1,17 @@
-> I recommend using a code formatter (like [Prettier](https://prettier.io/)) since I got confused reading the indentation in your main.ts file.
+---
+cssclass: kanban
+---
+- ![[#Heading one]]
+- ![[#Heading two]]
 
-- [x]  Done!
+## Heading one
+So this is some text that I want to display in two columns
 
-> https://github.com/gitobsidiantutorial/obsidian-tabs/blob/4839fce6eadda8332241d1f8c325aa79008f6816/src/main.ts#L53 I think activeLeaf can be null, so I recommend adding a check for that at the start of this function.
+with line breaks and interruptions and **bolding** and *italics*
 
-Is checking for truthiness with an if () statement sufficient? https://github.com/gitobsidiantutorial/obsidian-tabs/blob/f6a855079cfda6895ec5dec55fc5cd8bd3d7caa1/src/main.ts#L112
+I suppose you could do this, but then of course your document will have a 'part made for reading', and a part with the actual content that you edit.
 
-> This pattern for saving and loading settings will make it easier in the future when you need to add new settings. You'll be able to merge existing settings with new options without changing anything here.
+## Heading two
+some more text that I'm just going to plop down and let it write on and on and on and on and on and on
 
-- [x] Done
-
-> [https://github.com/gitobsidiantutorial/obsidian-tabs/blob/4839fce6eadda8332241d1f8c325aa79008f6816/src/main.ts#L65](https://github.com/gitobsidiantutorial/obsidian-tabs/blob/4839fce6eadda8332241d1f8c325aa79008f6816/src/main.ts#L65) instead of using `var` you can use a ternary for this lines of code:
-
-This was an older workaround to count the number of panes open in a split, with an inaccurate and hacky way to support having multiple tabbed interfaces at the same time. 
+#text/space
