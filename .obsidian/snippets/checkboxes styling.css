@@ -5,3 +5,50 @@
 }
 
 li.task-list-item.is-checked li:not(.is-checked) {font-weight: initial; color: var(--text-normal); }
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content {
+    padding-left: 0;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header > .view-header-title-container {
+    height: var(--header-width);
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active .view-actions {
+padding: 4px!important;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header .view-action {
+  margin: 0 4px;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header > .view-header-title-container:before,
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header > .view-header-title-container:after{
+display: none!important;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header {
+  writing-mode: initial;
+  text-orientation: initial;
+  position: relative;
+  width: auto;
+  height: var(--header-width);
+  padding-left: 8px;
+  align-items: center;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content .view-header-title {
+padding: 3px 0px 0px 15px!important
+}
+
+body.plugin-sliding-panes-rotate-header.plugin-sliding-panes-header-alt .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header .view-header-title-container {
+  transform: rotate(0deg);
+  text-align: left;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-header-icon {
+    margin: 3px 0 3px 0;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header .view-header-icon {
+    margin: 10px 0 3px 0;
+}
