@@ -43,4 +43,3 @@ This method should applicable for majority video formats including .mov, .avi, .
 [1 Install ffmpeg CLI through homebrew](export%20animated%20webps.md#1%20Install%20ffmpeg%20CLI%20through%20homebrew)
 
 
-***

@@ -1,0 +1,7 @@
+.markdown-preview-view ul > li.task-list-item.is-checked {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--text-faint);
+}
+
+li.task-list-item.is-checked li:not(.is-checked) {font-weight: initial; color: var(--text-normal); }
