@@ -9,3 +9,7 @@ li.task-list-item.is-checked li:not(.is-checked) {font-weight: initial; color: v
 .nofolds .heading-collapse-indicator.collapse-indicator.collapse-icon{
 display:none;
 }
+
+
+.cen { display: block; text-align: center; }
+b { font-weight: unset; }
