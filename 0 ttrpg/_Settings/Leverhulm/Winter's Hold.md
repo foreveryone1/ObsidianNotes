@@ -11,7 +11,13 @@ Most are useless, although some of them are of magical value.
 The salamanders are fiercely loyal to one another.
 >Salamanders laughing and complimenting one another.
 
-However, they are also 
+However, they are also responsible for funding prolonged tensions with fire soldiers.
+>Shipments of never melt ice
+>payment slips for the korreds -> giants taken as labour
+
+documents on weaknesses of fire encampment
+> Fire encampment seemingly doesn't have a centralised leader or a way of organising themselves 
+> -> with the insignias and equipment it would be possible to enter their structure and attack them from within
 
 Scrolls laying around:
 
