@@ -17,7 +17,7 @@ However, they are also responsible for funding prolonged tensions with fire sold
 
 documents on weaknesses of fire encampment
 > Fire encampment seemingly doesn't have a centralised leader or a way of organising themselves 
-> -> with the insignias and equipment it would be possible to enter their structure and attack them from within
+> -> with the insignias and equipment it would be possible to inter their structure and attack them from within
 
 Scrolls laying around:
 
