@@ -19,8 +19,6 @@ documents on weaknesses of fire encampment
 > Fire encampment seemingly doesn't have a centralised leader or a way of organising themselves 
 > -> with the insignias and equipment it would be possible to inter their structure and attack them from within
 
-` sdsd`
-
 Scrolls laying around:
 
 [[Stone Shape]]
