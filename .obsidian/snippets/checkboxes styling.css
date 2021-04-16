@@ -18,11 +18,9 @@ b { font-weight: unset; }
 .CodeMirror-selected {
     background-color: rgb(220,220,220) !important;
     mix-blend-mode: screen !important;
-    z-index: 3;
 }
 .CodeMirror .CodeMirror-line,
 .CodeMirror .CodeMirror-line-like {
-    z-index: 0;
 }
 
 ::selection {
