@@ -6,3 +6,18 @@
 .side-dock-ribbon.is-collapsed.mod-left{ border-radius: 0 10px 0 0;}
 
 .workspace {background-color: var(--background-secondary-alt)}
+
+
+span.internal-embed[src*="^"],
+span.internal-embed[src*="^"] .markdown-embed,
+span.internal-embed[src*="^"] .markdown-embed-content,
+span.internal-embed[src*="^"] .markdown-preview-view,
+span.internal-embed[src*="^"] .markdown-preview-sizer,
+span.internal-embed[src*="^"] div,
+span.internal-embed[src*="^"] p
+{display: inline!important; background-color: none!important;}
+
+
+span.internal-embed[src*="^"] .markdown-embed-link {position: relative; top: 2px; right: 0px;}
+span.internal-embed[src*="^"] .markdown-embed-link {opacity: 0}
+span.internal-embed[src*="^"]:hover .markdown-embed-link {opacity: 100}
