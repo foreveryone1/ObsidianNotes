@@ -4,7 +4,7 @@ The pair of ice salamanders.
 
 Paired ice breath, they both regain ice breath when one of them regains it.
 
-Large amounts of scrolls in their possessions. ^88877f
+Large amounts of scrolls in their possessions.
 
 Most are useless, although some of them are of magical value.
 
@@ -29,4 +29,3 @@ Scrolls laying around:
 
 Text here
 
-Test loremTest loremTest loremTest loremTest loremTest loremTest loremTest loremTest lorem ipsum ![[#^88877f|name]] Test

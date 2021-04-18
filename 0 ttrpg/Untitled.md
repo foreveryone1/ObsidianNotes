@@ -1,11 +1,14 @@
 `dice: 2d20k1` %%tes%%
 
-[![[token_example.png]]](http://link.com)
+
 
 
 >Quote block
 > - point
 >   - subpoint
 
+Proof of concept here. **This should work properly.** ^c2c85d
 
+An inline block embed here. ![[#^c2c85d]] 
 
+Test
