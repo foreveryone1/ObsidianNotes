@@ -1,14 +1,6 @@
-`dice: 2d20k1` %%tes%%
+I cannot replicate this issue
 
-
-
-
->Quote block
-> - point
->   - subpoint
-
-Proof of concept here. **This should work properly.** ^c2c85d
-
-An inline block embed here. ![[#^c2c85d]] 
-
-Test
+- Test1
+	- Test2
+	- Test3
+- Test4

@@ -145,10 +145,4 @@ h6 > .internal-link, h6 > .external-link, h6 > .internal-link.is-unresolved {
 }
 
 
-.markdown-preview-view a.tag[href="#text/space"] {font-size: 0px}
-
-.markdown-preview-view a.tag[href="#text/space"]:before {font-size: 16px; display: inline; content: "Text Space"}
-
-.markdown-preview-view a.tag[href="#text-space"] {font-size: 0px}
-
-.markdown-preview-view a.tag[href="#text-space"]:before {font-size: 16px; content: "Text Space"}
+.kanban.player ul li[data-line="0"] {max-width: 360px}
