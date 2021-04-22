@@ -27,6 +27,7 @@ overflow-y: hidden;
 --w1 : calc(100% * var(--rows) / var(--numtabs));
 }
 
+
 .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf,
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf { 
 flex-grow: 1;
@@ -102,26 +103,26 @@ display:none;
 /* non pane relief options */
 
 /* optional feature vertical side-by-side view */
-body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal{
+body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal{
 flex-direction: row;
 }
 
-body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal > * {
+body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal > * {
     width: 100%;
     flex: 1 0 0;
     height: 100%;
 }
 
-body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal > .workspace-leaf:nth-of-type(n+1){
+body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal > .workspace-leaf:nth-of-type(n+1){
 border-radius: 10px 10px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
 border: 1px solid var(--background-modifier-border); /* adds a slight outline to the tab header - NOT ESSENTIAL */
 border-bottom: 0;
 border-left: 0;
 }
 
-body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal .workspace-leaf:nth-of-type(n+1) .view-header {height: var(--headerheight);  }
+body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal .workspace-leaf:nth-of-type(n+1) .view-header {height: var(--headerheight);  }
 
-body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal hr.workspace-leaf-resize-handle{
+body:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal hr.workspace-leaf-resize-handle{
 display: none
 }
 
