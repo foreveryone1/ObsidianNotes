@@ -11,8 +11,9 @@ b { font-weight: unset; }
 
 
 .markdown-embed-link {
+opacity: 0;
 height: 100%;
 width: 10px;
-left: 0px;
+left: -3px;
 top: 0px;
 }
