@@ -13,3 +13,5 @@
 whether drag and drop of images places images in the designated folder or to the attachments folder
 
 ![[Invisible#Invisible]]
+
+> ![[Invisible#Invisible]] ![[Invisible#Invisible]]
