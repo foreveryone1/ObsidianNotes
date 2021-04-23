@@ -4,27 +4,15 @@
     color: var(--text-faint);
 }
 
-li.task-list-item.is-checked li:not(.is-checked) {font-weight: initial; color: var(--text-normal); }
-
-.nofolds .heading-collapse-indicator.collapse-indicator.collapse-icon{
-display:none;
-}
 
 
 .cen { display: block; text-align: center; }
 b { font-weight: unset; }
 
 
-.CodeMirror-selected {
-    background-color: rgb(220,220,220) !important;
-    mix-blend-mode: screen !important;
-}
-.CodeMirror .CodeMirror-line,
-.CodeMirror .CodeMirror-line-like {
-}
-
-::selection {
-      background-color: rgb(220,220,220) !important;
-    mix-blend-mode: screen !important;
-    z-index: 3;
+.markdown-embed-link {
+height: 100%;
+width: 10px;
+left: 0px;
+top: 0px;
 }
