@@ -26,10 +26,10 @@ cssclass: kanban, readable
 	- [[Minor Illusion]]
 - #### Three casts per day
 	- ##### slots
-		- [x] 
-		- [x] 
-		- [x] 
-		- [x] 
+		- [ ] 
+		- [ ] 
+		- [ ] 
+		- [ ] 
 	- [[Sleep]]
 	- [[Tasha's Hideous Laughter]]
 - #### Three casts per day
