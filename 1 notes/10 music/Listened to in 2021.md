@@ -30,9 +30,15 @@ solid bouncy bass lines
 vocals are supremely catchy - even a bit more roughness would've nice
 
 [[folk punk]] [[emo]]
-## youth novel - s/t
+## youth novel - self-titled
 least remarkable of the bunch so far
 nice individual moments, but the whole doesn't stand out
 ## hospital bracelet - south loop summer
 pleasant enough female vocals
 lacks punch
+## Really From - self-titled
+Conservatory kid emo. Excellent instrumentals, in particular the drumming is excellent.
+
+THe female vocals are well performed, if not a bit understated in their delivery at times.
+
+The male vocals are almost stereotypically 'emo', to an unpleasant degree.
