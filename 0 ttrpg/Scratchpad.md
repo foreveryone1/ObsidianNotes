@@ -1,3 +1,4 @@
-- [-] 
-- [ ] 
-Test 
+---
+mood: 🟢
+---
+[[Weathergen.xlsm - Shortcut.lnk]]
