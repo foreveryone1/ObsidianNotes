@@ -294,6 +294,6 @@ padding-right: 10px;
 
 .plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal div.workspace-leaf.mod-active .view-header,
 .plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active .view-header{
-border-left-width: 2px;
+border-left-width: 1px;
 border-top-width: 2px
 }
