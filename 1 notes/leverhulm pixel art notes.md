@@ -1,7 +1,7 @@
 ---
 cssclass: kanban
 ---
-**Base size: 40px**
+**Base size: 64px**
 
 - Berk
 	- a tree
@@ -19,3 +19,8 @@ cssclass: kanban
 	- spider legs
 - natta
 	- heroic spirit of druid master
+
+inspo
+https://www.spriters-resource.com/mobile/finalfantasybraveexvius/
+https://www.spriters-resource.com/snes/supersf2/
+https://www.spriters-resource.com/game_boy_advance/fireemblemthesacredstones/
