@@ -6,8 +6,24 @@
     border-right: 0;
     border-bottom: 0;
     border-radius: var(--border-radius);
-    position: relative;
     padding: 5px 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    text-indent: 1em;
+}
+
+
+.markdown-preview-view blockquote > p > br{
+    content: "";
+}
+.markdown-preview-view blockquote > p > br::after  {
+    content: " ";
+    white-space: pre;
+}
+.markdown-preview-view blockquote > p > br::before  {
+    content: "";
+    height: 0px;
+    display: block;
 }
 
 .theme-light div pre.language-info { /*replace info with anything you like*/
