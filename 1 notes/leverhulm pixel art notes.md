@@ -18,7 +18,7 @@ cssclass: kanban
 - dré
 	- spider legs
 - natta
-	- heroic spirit of druid master
+	- heroic spirit of druid master 
 
 inspo
 https://www.spriters-resource.com/mobile/finalfantasybraveexvius/
