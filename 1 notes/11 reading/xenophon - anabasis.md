@@ -32,3 +32,4 @@ There is no justification for the threefold betrayal of his trust however.
 Cyrus attempted to conduct himself according to how people expected / demanded him to behave, although he allowed his nature to get to him, which would eventually lead to his death.
 Before the lesser temptations of the routing enemy he resists, but when he sees the opportunity to attack his brother, he succumbs.
 His nature triumphing over what is the "best thing" to do is also what leads him to be betrayed multiple times by the likes of Tissaphernes and Orontas.
+
