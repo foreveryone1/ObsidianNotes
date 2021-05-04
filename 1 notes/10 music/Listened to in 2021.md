@@ -44,4 +44,4 @@ THe female vocals are well performed, if not a bit understated in their delivery
 The male vocals are almost stereotypically 'emo', to an unpleasant degree.
 
 ## subsonic eye - nature of things
-somewhat 
+somewhat snail mail inspired, with a slightly crunchier emo foundation
