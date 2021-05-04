@@ -42,3 +42,6 @@ Conservatory kid emo. Excellent instrumentals, in particular the drumming is exc
 THe female vocals are well performed, if not a bit understated in their delivery at times.
 
 The male vocals are almost stereotypically 'emo', to an unpleasant degree.
+
+## subsonic eye - nature of things
+somewhat 
