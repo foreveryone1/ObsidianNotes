@@ -28,10 +28,19 @@ ul li h6 {
 display: inline;
 }
 
-div.markdown-preview-section > div > p > i {/*just to make sure this doesn't have wacky unintended knock on effects */
-display: inline-block;
-visibility: hidden;
-font-family: monospace;
-user-select: none;
-min-width: 4ch; /*this means 4 widths of the "0" character*/
+i#roundedbox {
+display: block;
+border-radius: 15px;
+background-color: var(--background-modifier-border);
+padding: 10px;
+font-style: normal;
+}
+
+
+i#flexbox {
+display: flex;
+}
+
+i#flex {
+flex: 1;
 }
