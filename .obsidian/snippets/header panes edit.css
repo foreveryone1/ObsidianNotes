@@ -45,5 +45,8 @@ font-style: normal;
 i#flexbox > i {
 flex: 1;
 font-style: normal;
-padding:0px 7px; 
+}
+
+i#flexbox > i + i {
+padding-left: 10px;
 }

@@ -15,8 +15,8 @@ some more text that I'm just going to plop down and let it write on and on and o
 #text-space
 
 <i id="flexbox">
-<i>Content of column1</i>
-<i> Content of column 2</i>
+<i>Content of column1 sdfsdfsfsfdfdfdddd sdfsdfsfdf sdfs fsdfsdfsd sdfs fsdfsdfsdfsfs dfsdfs d fs f</i>
+<i> Content of column 2 sdfsdfsdfsdfs dfsd fsd fsdf sdfsdfsdf sdfs fsdfsd fsdf sdf sdfsd </i>
 </i>
 
 
