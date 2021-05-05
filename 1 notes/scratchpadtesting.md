@@ -14,4 +14,9 @@ some more text that I'm just going to plop down and let it write on and on and o
 
 #text-space
 
-<i id="flexbox"> <i id="flex"> </i><i id="flex"> Column</i></i>
+<i id="flexbox">
+<i>Content of column1</i>
+<i> Content of column 2</i>
+</i>
+
+

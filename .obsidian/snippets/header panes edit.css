@@ -39,8 +39,11 @@ font-style: normal;
 
 i#flexbox {
 display: flex;
+font-style: normal;
 }
 
-i#flex {
+i#flexbox > i {
 flex: 1;
+font-style: normal;
+padding:0px 7px; 
 }
