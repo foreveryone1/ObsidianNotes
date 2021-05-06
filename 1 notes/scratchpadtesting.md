@@ -22,7 +22,7 @@ some more text that I'm just going to plop down and let it write on and on and o
 		Content
 	<h1>Talent</h1><hr>
 		Content
-	</i>
+</i>
 	<i>
 	<h1>Description</h1><hr>
 		**Recurring physical markers:**
@@ -44,3 +44,7 @@ some more text that I'm just going to plop down and let it write on and on and o
 	</i>
 </i>
 
+# heading
+summary:: "lorem ipsum"
+
+`= [[Scratchpad]].Display`

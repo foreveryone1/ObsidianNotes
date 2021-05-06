@@ -55,12 +55,6 @@ i#flexbox > i#narrowcol {
 flex-grow: 0.4
 }
 
-
-i#flexbox > i#filler {
-flex-grow: 0;
-display:none;
-}
-
 i#flexbox h1:not(:first-of-type) {margin-top: 20px}
 
 i#flexbox hr {
@@ -71,6 +65,7 @@ border-top: 7px solid black;
 filter: brightness(0) saturate(100%) invert(50%) sepia(33%) saturate(2878%) hue-rotate(325deg) brightness(88%) contrast(108%);
 }
 
+i#flexbox > i#filler,
 i#flexbox > i br:first-of-type,
 i#flexbox > i h1 + br,
 i#flexbox > i hr + br {
