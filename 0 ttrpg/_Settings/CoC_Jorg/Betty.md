@@ -1,5 +1,5 @@
 ---
-cssclass: kanban
+cssclass: kanban, coc
 str: 30
 con: 40
 siz: 60
@@ -10,7 +10,7 @@ int: 65
 pow: 50
 ---
 
-- &nbsp
+- # Skills
 	- [ ] accounting:: 5
 		- `=this.accounting / 2` | `=this.accounting / 5`
 	- [ ] anthropology:: 1
@@ -41,9 +41,10 @@ pow: 50
 		- `=this.fast-talk / 2` | `=this.fast-talk / 5`
 	- [ ] brawl:: 25
 		- `=this.brawl / 2` | `=this.brawl / 5`
-- &nbsp
 	- [ ] handgun:: 50
 		- `=this.handgun / 2` | `=this.handgun / 5`
+- # Skills
+
 	- [ ] longarms:: 25
 		- `=this.longarms / 2` | `=this.longarms / 5`
 	- [ ] first aid:: 30
@@ -72,11 +73,12 @@ pow: 50
 		- `=this.medicine / 2` | `=this.medicine / 5`
 	- [ ] natural world:: 10
 		- `=this.natural-world / 2` | `=this.natural-world / 5`
-- &nbsp
 	- [ ] navigate:: 10
 		- `=this.navigate / 2` | `=this.navigate / 5`
 	- [ ] occult:: 5
 		- `=this.occult / 2` | `=this.occult / 5`
+- # Skills
+
 	- [ ] heavy machine:: 1
 		- `=this.heavy-machine / 2` | `=this.heavy-machine / 5`
 	- [ ] persuade:: 10
@@ -105,3 +107,4 @@ pow: 50
 		- `=this.throw / 2` | `=this.throw / 5`
 	- [ ] track:: 10
 		- `=this.track / 2` | `=this.track / 5`
+
