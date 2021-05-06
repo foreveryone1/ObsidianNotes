@@ -1,4 +1,11 @@
-
+---
+data: |
+    There once was a tall man from Ealing
+    Who got on a bus to Darjeeling
+    said on the door
+    Please don't sit on the floor"
+    So he carefully sat on the ceiling
+---
 - ![[#Heading one]]
 - ![[#Heading two]]
 
@@ -45,6 +52,4 @@ some more text that I'm just going to plop down and let it write on and on and o
 </i>
 
 # heading
-summary:: "lorem ipsum"
 
-`= [[Scratchpad]].Display`

@@ -6,4 +6,4 @@ mood: 🟢
 
 ![[token_example.png]] Test
 
-Display:: ![[token_example.png]]
+`=[[scratchpadtesting]].data`
