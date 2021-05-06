@@ -47,7 +47,7 @@ flex: 1;
 font-style: normal;
 }
 
-i#flexbox > i + i {
+i#flexbox > i ~ i {
 padding-left: 10px;
 }
 
@@ -55,6 +55,18 @@ i#flexbox > i#narrowcol {
 flex-grow: 0.4
 }
 
-i#flexbox h1 {margin-top: 10px}
 
-i#flexbox hr {margin: 5px 0}
+i#flexbox > i#filler {
+flex-grow: 0;
+display:none;
+}
+
+i#flexbox h1 {margin-top: 20px}
+
+i#flexbox hr {
+margin: 5px 0;
+color: red;
+height: 0px;
+border-top: 7px solid black;
+filter: brightness(0) saturate(100%) invert(50%) sepia(33%) saturate(2878%) hue-rotate(325deg) brightness(88%) contrast(108%);
+}
