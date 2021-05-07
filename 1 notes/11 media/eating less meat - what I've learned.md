@@ -46,7 +46,7 @@ The green water used for growing pasture can be used instead to grow human-edibl
 
 It could mean less water being drawn from the ground for irrigation, if the water that falls on pasture and fodders crops were to instead be used for plant-based agriculture.
 
-In addition, in natural conditions, nitrogen rich waste water (urine and manure contaminated water) can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case; instead of a roaming herd that spreads the waste water, cows are concentrated in feedlots. This leads to deadzones due to nutrient run-off.
+In addition, in natural conditions, nitrogen rich waste water (urine and manure contaminated water) can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case; instead of a roaming herd that spreads the waste water, [cows are concentrated in feedlots](https://agrilife.org/tammi/files/2014/04/Sweeten.pdf). This leads to [deadzones due to nutrient run-off](https://link.springer.com/chapter/10.1007/978-981-15-3372-3_17).
 
 I have unfortunately not found any studies that provide a clear breakdown in the contribution of livestock and plant-agriculture to nutrient runoffs.
 
