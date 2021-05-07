@@ -1,0 +1,1790 @@
+<!doctype html>
+<html>
+    <head>
+        <title>eating less meat - what I've learned</title>
+        <meta charset='utf-8'/>
+        <style>
+
+:root {
+  --default-font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+  --font-monospace: 'Source Code Pro', monospace;
+  --background-primary: #ffffff;
+  --background-modifier-border: #ddd;
+  --text-accent: #705dcf;
+  --text-accent-hover: #7a6ae6;
+  --text-normal: #2e3338;
+  --background-secondary: #f2f3f5;
+  --background-secondary-alt: #e3e5e8;
+  --text-muted: #888888;
+}
+pre, code {
+  font-family: var(--font-monospace);
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+}
+a {
+  color: var(--text-accent);
+  outline: none;
+}
+a:hover {
+  color: var(--text-accent-hover);
+}
+audio {
+  outline: none;
+}
+hr {
+  border: none;
+  border-top: 1px solid;
+  border-color: var(--background-modifier-border);
+  margin: 26px 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  text-rendering: optimizeLegibility;
+  font-family: var(--default-font);
+  line-height: 1.5em;
+  font-size: 16px;
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+ul ul, ol ul, ol ul, ul ol {
+  list-style-type: disc;
+}
+
+
+
+  /* PrismJS 1.20.0
+https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+abap+abnf+actionscript+ada+al+antlr4+apacheconf+apl+applescript+aql+arduino+arff+asciidoc+asm6502+aspnet+autohotkey+autoit+bash+basic+batch+bbcode+bison+bnf+brainfuck+brightscript+bro+c+concurnas+csharp+cpp+cil+coffeescript+cmake+clojure+crystal+csp+css-extras+d+dart+dax+diff+django+dns-zone-file+docker+ebnf+eiffel+ejs+elixir+elm+etlua+erb+erlang+excel-formula+fsharp+factor+firestore-security-rules+flow+fortran+ftl+gcode+gdscript+gedcom+gherkin+git+glsl+gml+go+graphql+groovy+haml+handlebars+haskell+haxe+hcl+hlsl+http+hpkp+hsts+ichigojam+icon+iecst+inform7+ini+io+j+java+javadoc+javadoclike+javastacktrace+jolie+jq+jsdoc+js-extras+js-templates+json+jsonp+json5+julia+keyman+kotlin+latex+latte+less+lilypond+liquid+lisp+livescript+llvm+lolcode+lua+makefile+markdown+markup-templating+matlab+mel+mizar+monkey+moonscript+n1ql+n4js+nand2tetris-hdl+nasm+neon+nginx+nim+nix+nsis+objectivec+ocaml+opencl+oz+parigp+parser+pascal+pascaligo+pcaxis+peoplecode+perl+php+phpdoc+php-extras+plsql+powerquery+powershell+processing+prolog+properties+protobuf+pug+puppet+pure+purebasic+python+q+qml+qore+r+racket+jsx+tsx+renpy+reason+regex+rest+rip+roboconf+robotframework+ruby+rust+sas+sass+scss+scala+scheme+shell-session+smalltalk+smarty+solidity+solution-file+soy+sparql+splunk-spl+sqf+sql+stylus+swift+tap+tcl+textile+toml+tt2+turtle+twig+typescript+t4-cs+t4-vb+t4-templating+unrealscript+vala+vbnet+velocity+verilog+vhdl+vim+visual-basic+warpscript+wasm+wiki+xeora+xml-doc+xojo+xquery+yaml+zig */
+  /**
+     * prism.js default theme for JavaScript, CSS and HTML
+     * Based on dabblet (http://dabblet.com)
+     * @author Lea Verou
+     */
+  /* Code blocks */
+  /* Inline code */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: black;
+  background: none;
+  text-shadow: 0 1px white;
+  font-family: var(--font-monospace);
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+pre[class*="language-"]::-moz-selection,
+pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection,
+code[class*="language-"] ::-moz-selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+pre[class*="language-"]::selection,
+pre[class*="language-"] ::selection,
+code[class*="language-"]::selection,
+code[class*="language-"] ::selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+@media print {
+  code[class*="language-"],
+  pre[class*="language-"] {
+    text-shadow: none;
+  }
+}
+pre[class*="language-"] {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  background: #f5f2f0;
+}
+:not(pre) > code[class*="language-"] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+  white-space: normal;
+}
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: slategray;
+}
+.token.punctuation {
+  color: #999;
+}
+.token.namespace {
+  opacity: 0.7;
+}
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #905;
+}
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+  color: #690;
+}
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: #9a6e3a;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: #07a;
+}
+.token.function,
+.token.class-name {
+  color: #DD4A68;
+}
+.token.regex,
+.token.important,
+.token.variable {
+  color: #e90;
+}
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+.token.italic {
+  font-style: italic;
+}
+.token.entity {
+  cursor: help;
+}
+
+  .markdown-preview-view ol .is-collapsed::after,
+.markdown-preview-view ul .is-collapsed::after {
+    content: none!important;
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--text-faint);
+}
+
+
+
+.cen { display: block; text-align: center; }
+b { font-weight: unset; }
+
+
+.markdown-embed-link {
+opacity: 0;
+height: 100%;
+width: 10px;
+left: -3px;
+top: 0px;
+}
+
+.markdown-embed .markdown-preview-view {
+    padding: 0px 10px 0px 10px;
+}
+
+.markdown-preview-view :not(li) > span .markdown-embed {
+    border-left: 1px solid var(--background-modifier-border)!important;
+}
+
+.theme-light .nav-action-button.is-active,
+.theme-light .nav-action-button.is-active .widget-icon {
+  background-color: #E3E5E8 !important;
+  fill: var(--text-muted) !important;
+  color: var(--text-muted) !important;
+}
+.theme-light .markdown-preview-view .task-list-item-checkbox {
+filter: hue-rotate(-11deg) brightness(100%) saturate(17%);
+}
+
+
+.theme-light {
+  --text-accent: #69777F;
+  --text-accent-hover: #3F474C;
+  --interactive-accent: #6C6982;
+  --interactive-accent-rgb: 108, 105, 130;
+  --interactive-accent-hover: #7670A0;}
+
+figcaption {
+font-size: 15px;
+font-style: italic;
+color: var(--text-muted);
+}
+
+
+div figcaption#left, div figcaption#right, div figcaption#centre, div figcaption#center{
+display: flex;
+justify-content: center;
+}
+
+figcaption#left {
+clear: left;
+float: left;
+}
+
+figcaption#right {
+clear: right;
+float: right;
+}
+
+figcaption#centre,
+figcaption#center {
+margin-left: auto;
+margin-right: auto;
+}
+
+.nav-file-title, .nav-folder-title {
+    white-space: normal;
+    width: auto;
+    border-radius: var(--border-radius);
+    word-wrap: break-word;
+}
+
+.nav-folder-children .nav-folder-title-content::before {
+    content: '📁'/*\1F5BF*/;
+    text-shadow: 0 0 0 var(--interactive-accent);
+    margin-right: 4px;
+    font-size: 13px;
+    color: transparent;
+}
+
+.nav-folder-children .nav-file-title[data-path$=".md"] .nav-file-title-content::before {
+    /*content: "📄";/*  /* 📄font-family: "FontAwesome"; */
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='13' height='13' class='document'%3E%3Cpath fill='rgb(136, 136, 136)' stroke='currentColor' d='M14,4v92h72V29.2l-0.6-0.6l-24-24L60.8,4L14,4z M18,8h40v24h24v60H18L18,8z M64,10.9L79.1,28H62V10.9z'%3E%3C/path%3E%3C/svg%3E");
+    margin-right: 5px;
+    top: 1px;
+    position: relative;
+   /* font-size: 12px;*/
+}
+.tree-item-inner {
+    word-wrap: break-word;
+    width: 100%;
+}
+
+
+.nav-folder.mod-root > .nav-folder-title .nav-folder-title-content {
+  display:none;
+}
+
+.nav-action-button svg {
+  width:15px;
+}
+
+.view-action svg {
+width:17px;
+
+}
+
+.workspace-ribbon-collapse-btn svg path {
+  stroke-width:3px;
+}
+.nav-action-button svg path {
+  stroke-width:2px;
+}
+.view-header-icon,
+.workspace-tab-header,
+.nav-action-button,
+.side-dock-ribbon-tab,
+.view-action {
+  background:transparent;
+  color:var(--text-muted);
+  opacity:var(--icon-muted);
+  transition:opacity 0.1s ease-in-out;
+  cursor:var(--cursor);
+}
+
+.nav-header {
+  padding:0;
+}
+
+.nav-buttons-container {
+  padding:10px 5px 0px 5px;
+  margin-bottom:0px !important;
+  justify-content:flex-start;
+  border:0;
+}
+.nav-files-container {
+  overflow-x:hidden;
+  padding-bottom:50px;
+}
+.nav-folder-title {
+  margin:0px;
+  padding:0 10px 0 24px;
+  cursor:var(--cursor);
+}
+
+.nav-action-button,
+.workspace-leaf-content[data-type='search'] .nav-action-button,
+.workspace-leaf-content[data-type='backlink'] .nav-action-button {
+  padding:0 4px 0 8px;
+  margin:0;
+}
+.search-input-container input::placeholder {
+  color:var(--text-faint);
+  font-size:var(--font-small);
+}
+
+
+/* --------------- */
+/* Backlink pane */
+
+.backlink-pane {
+  padding-bottom:30px;
+}
+.backlink-pane .search-result-container {
+  padding:0;
+  margin-left:0;
+}
+.backlink-pane .search-result-file-title {
+  padding-left:15px;
+}
+.backlink-pane > .tree-item-self .collapse-icon {
+  display:none;
+}
+.backlink-pane > .tree-item-self:hover,
+.backlink-pane > .tree-item-self {
+  padding-left:15px;
+  color:var(--text-muted);
+  letter-spacing:0.05em;
+  font-size:0.9rem;
+  font-weight:500;
+  padding:5px 7px 5px 10px;
+  background:transparent;
+}
+.backlink-pane > .tree-item-self.is-collapsed {
+  color:var(--text-faint);
+}
+:root {
+  --font-small:0.9rem;
+}
+.outline {
+  padding:0px 10px 20px 0;
+  font-size:var(--font-small);
+}
+.outline .pane-empty {
+  font-size:var(--font-small);
+  color:var(--text-faint);
+  padding:0 0 0 15px;
+  width:100%;
+}
+.outline .collapsible-item-self {
+  cursor:var(--cursor);
+  line-height:1.4;
+  margin-bottom:4px;
+  font-size:var(--font-small);
+  padding-left:15px;
+}
+.collapsible-item-collapse {
+  opacity:1;
+  left:-5px;
+  color:var(--text-faint);
+}
+.outline .collapsible-item-inner:hover {
+  color:var(--text-normal);
+}
+.collapsible-item-self.is-clickable:hover .collapsible-item-collapse {
+  color:var(--text-normal);
+}
+.outline > .collapsible-item > .collapsible-item-self .right-triangle {
+  opacity:0;
+}
+
+.nav-file-title,
+.tree-item-self,
+.nav-folder-title,
+.is-collapsed .search-result-file-title,
+.tag-pane-tag {
+  font-size:var(--font-small);
+  color:var(--text-muted);
+}
+
+/* --------------- */
+/* Search */
+
+.search-result-container.mod-global-search .search-empty-state {
+  padding-left:15px;
+}
+.search-result-file-match {
+  cursor:var(--cursor) !important;
+}
+.search-result-file-match:hover {
+  background:transparent;
+}
+.search-result-container:before {
+  height:1px;
+}
+.search-result-container.is-loading:before {
+  background-color:var(--background-modifier-accent);
+}
+.search-result {
+  margin-bottom:0;
+}
+.search-result-count {
+  opacity:1;
+  color:var(--text-faint);
+  padding:0 0 0 5px;
+}
+.search-result-file-match:before {
+  top:0;
+}
+.search-result-file-match:not(:first-child) {
+  margin-top:0px;}
+.search-result-file-match {
+  margin-top:0;
+  margin-bottom:0;
+  padding-top:6px;
+  padding-bottom:5px;
+}
+.search-result-file-matched-text {
+  background-color:var(--text-selection);
+}
+.search-input-container input,
+.search-input-container input:hover,
+.search-input-container input:focus {
+  font-size:var(--font-small);
+  padding:5px 10px;
+  background-color:var(--background-secondary);
+}
+.search-input-container {
+  width:calc(100% - 20px);
+  margin:10px 10px 5px;
+}
+
+.workspace-leaf-content .setting-item {
+  padding:5px 0;
+  border:none;
+}
+.workspace-leaf-content .setting-item-control {
+  flex-shrink:0;
+  flex:1;
+}
+
+.search-input-clear-button {
+  cursor:var(--cursor);
+  top:0px;
+  bottom:0px;
+  border-radius:15px;
+  line-height:0px;
+  height:15px;
+  width:15px;
+  margin:auto;
+  padding:6px 0 0 0;
+  text-align:center;
+  vertical-align:middle;
+  align-items:center;
+  color:var(--text-faint);
+}
+.search-input-clear-button:hover {
+  color:var(--text-normal);
+}
+.search-input-clear-button:before {
+  font-size:22px;
+  font-weight:200;
+}
+.search-input {
+  max-width:100%;
+  margin-left:0;
+  width:500px;
+}
+input.search-input:focus {
+  border-color:var(--background-modifier-border);
+}
+.workspace-leaf-content[data-type='search'] .search-result-file-matches {
+  border-left:0;
+  padding-left:0;
+}
+.search-empty-state {
+  font-size:var(--font-small);
+  color:var(--text-faint);
+  padding-left:5px;
+  margin:0;
+}
+.search-result-container {
+  padding:5px 10px 5px 0px;
+}
+.search-result-file-title {
+  line-height:1.3;
+  padding:4px 4px 4px 24px;
+  vertical-align:middle;
+  cursor:var(--cursor)!important;
+}
+.tree-item-inner,
+.search-result-file-title {
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.search-result-collapse-indicator {
+  left:0px;
+}
+.search-result-file-match:before {
+  height:0.5px;
+}
+.search-result-file-matches {
+  font-size:var(--font-small);
+  line-height:1.3;
+  margin-bottom:8px;
+  padding:0 0 6px 0;
+  color:var(--text-muted);
+  border-bottom:1px solid var(--background-modifier-border-focus);
+}
+.search-info-container {
+  font-size:var(--font-small);
+  color:var(--text-faint);
+  padding-top:5px;
+  padding-bottom:5px;
+}
+.search-info-more-matches {
+  font-size:var(--font-small);
+  padding-top:4px;
+  padding-bottom:4px;
+}
+.side-dock-collapsible-section-header-indicator {
+  display:none;
+}
+.search-result-file-title:hover {
+  background:transparent;
+}
+.workspace-leaf-content .search-input,
+.workspace-leaf-content .search-input:hover,
+.workspace-leaf-content .search-input:focus {
+  font-size:var(--font-small);
+  padding:7px 10px;
+  height:28px;
+  border-radius:5px;
+  background:var(--background-primary);
+  border:1px solid var(--background-modifier-border);
+  transition:border-color 0.1s ease-in-out;
+}
+.workspace-leaf-content .search-input:hover {
+  border-color:var(--background-modifier-border-hover);
+  transition:border-color 0.1s ease-in-out;
+}
+.workspace-leaf-content .search-input:focus {
+  background:var(--background-primary);
+  border-color:var(--background-modifier-border-focus);
+  transition:all 0.1s ease-in-out;
+}
+.search-input-container input::placeholder {
+  color:var(--text-faint);
+  font-size:var(--font-small);
+}
+.workspace-split.mod-root .workspace-split.mod-vertical .workspace-leaf-content {
+  padding-right:0;
+}
+.workspace-split.mod-horizontal.mod-right-split {
+  width:0;
+}
+.workspace-split.mod-vertical > .workspace-leaf {
+  padding-right:1px;
+}
+.workspace-leaf-content[data-type=starred] .item-list {
+  padding-top:5px;
+}
+.workspace-split.mod-right-split .view-content {
+  padding:0 0 0 0;
+}
+
+p {
+  text-align: justify;
+  /*hyphens: auto;*/
+}
+
+
+li.task-list-item.is-checked li:not(.is-checked) {font-weight: initial; color: var(--text-normal)}
+.resize-iframe.markdown-preview-view {
+  padding: 0px;
+}
+
+.resize-iframe > .markdown-preview-sizer.markdown-preview-section
+{
+  height: 100%;
+  padding: 0% !important;
+  max-width: none !important;
+}
+
+.resize-iframe > .markdown-preview-sizer.markdown-preview-section > div:last-child
+{
+  height: 100%;
+}
+/* Updated for Obsidian 0.9.22 and up */
+
+.grid .markdown-preview-section img:not([width]),
+.grid .markdown-preview-section video {
+    width:100%;
+}
+.grid .markdown-preview-section > div {
+    display:flex;
+}
+.grid .markdown-preview-section > div > .internal-embed {
+    flex:1;
+    margin-left:-0.5rem;
+    padding:0 0.5rem 0.5rem 0.5rem;
+}
+.grid .markdown-preview-section > div > *:not(div) {
+    margin-block-start: 0rem;
+    margin-block-end: 1rem;
+}
+.grid .markdown-preview-section > div hr {
+    width:100%;
+}
+/* These lines make every image the same height */
+/*.grid .markdown-preview-section > div > .internal-embed img:not(:active) {
+    object-fit:cover;
+    height:100%;
+}*/
+
+p {
+  text-align: justify;
+  /*hyphens: auto;*/
+}
+.CodeMirror-gutter.CodeMirror-linenumbers, .CodeMirror-gutter.CodeMirror-foldgutter {
+    background-color: var(--background-primary);
+}
+
+
+
+.workspace-tab-header-container,
+.workspace-tab-container-before.is-before-active,
+.workspace-tab-container-after.is-after-active,
+.workspace-tab-header.is-before-active,
+.workspace-tab-header.is-after-active,
+.workspace-tab-container-before.is-before-active .workspace-tab-header-inner,
+.workspace-tab-container-after.is-after-active .workspace-tab-header-inner,
+.workspace-tab-header.is-before-active .workspace-tab-header-inner,
+.workspace-tab-header.is-after-active .workspace-tab-header-inner {
+  background: #E3E5E8;
+}
+
+
+.mod-root.workspace-split.mod-vertical div:not(.mod-active) .view-header{ 
+border-bottom-width: 1px;
+border-bottom-color: var(--background-modifier-border);
+}
+
+
+
+ul li h1,
+ul li h2,
+ul li h3,
+ul li h4,
+ul li h5,
+ul li h6 {
+display: inline;
+}
+
+i#roundedbox {
+display: block;
+border-radius: 15px;
+background-color: var(--background-modifier-border);
+padding: 10px;
+font-style: normal;
+}
+
+
+i#flexbox {
+display: flex;
+font-style: normal;
+}
+
+i#flexbox > i {
+flex: 1;
+font-style: normal;
+}
+
+i#flexbox > i ~ i {
+padding-left: 18px;
+}
+
+i#flexbox > i#narrowcol {
+flex-grow: 0.4
+}
+
+i#flexbox h1:not(:first-of-type) {margin-top: 20px}
+
+i#flexbox hr {
+margin: 5px 0;
+color: red;
+height: 0px;
+border-top: 7px solid black;
+filter: brightness(0) saturate(100%) invert(50%) sepia(33%) saturate(2878%) hue-rotate(325deg) brightness(88%) contrast(108%);
+}
+
+i#flexbox > i#filler,
+i#flexbox > i br:first-of-type,
+i#flexbox > i h1 + br,
+i#flexbox > i hr + br {
+display: none;
+}
+
+
+.kanban.coc h1 ~ ul li.task-list-item {display:flex; flex-direction:row;}
+
+.kanban.coc h1 ~ ul li.task-list-item ul {max-width: 5rem; align-self: flex-start; display: inline-block; margin-top: 0px; justify-self:end }
+
+.kanban.coc h1 ~ ul > li.task-list-item {font-weight: 600;}
+
+.kanban.coc h1 ~ ul li.task-list-item ul li {display: inline-block;padding:0; margin: 0px 0 0px 8px; border-top: 0; font-weight: initial;}
+
+i#colorbox {
+display: block;
+width: 100%;
+padding-bottom:100%;
+}
+span.cm-header.cm-header-1,
+.markdown-preview-section h1 {
+  font-weight: 800;
+  font-size: 1.8rem;
+  letter-spacing:-0.02em;
+}
+
+
+span.cm-header.cm-header-2,
+.markdown-preview-section h2 {
+  font-weight: 800;
+  font-size: 1.4rem;
+  letter-spacing:-0.02em;
+}
+
+span.cm-header.cm-header-3,
+.markdown-preview-section h3 {
+  font-weight: 600;
+  font-size: 1.3rem;
+  letter-spacing:0.01em;
+}
+
+
+span.cm-header.cm-header-4,
+.markdown-preview-section h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing:0.01em;
+}
+
+span.cm-header.cm-header-5,
+.markdown-preview-section h5{
+  font-size: 1.1rem;
+  font-weight: 800;
+  font-variant:small-caps;
+  text-transform: lowercase;
+  letter-spacing:0.02em;
+}
+
+span.cm-header.cm-header-6,
+.markdown-preview-section h6 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-variant:small-caps;
+  text-transform: lowercase;
+  letter-spacing:0.02em;
+  color: var(--text-title-h5);
+}
+
+.markdown-preview-view h1 {
+  line-height: 1.9rem;
+}
+.markdown-preview-view h2 {
+  line-height: 1.5rem;
+}
+.markdown-preview-view h3 {
+  line-height: 1.4rem;
+}
+
+.markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3, .markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6 {
+    margin: 0.5rem 0;
+}
+
+
+
+.cm-formatting.cm-formatting-header.cm-header {
+  color: var(--text-accent) !important;
+  opacity: 0.45 !important;
+}
+
+
+#framemap {
+  transform: scale(1);
+}
+
+.popover.hover-popover {
+  position: absolute;
+  z-index: var(--layer-popover);
+  max-height: 500px;
+  min-height: 100px;
+  width: 600px;
+  overflow: hidden;
+  padding: 0;
+  border-bottom: none;
+}
+
+
+
+
+/*
+*..........................15. Floating Images */
+img[alt*="left"] {
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+img[alt*="center"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+img[alt*="centre"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+.theme-light .kanban {
+  --kanbanbgodd: #ffffff70; /* odd numbered item*/
+  --kanbanbgeven: #ffffff10; /* even numbered item*/
+  --kanbanbgchild: #ffffff04; /* nesting numbered item*/
+  --kanbanhover:#C7C8C910;
+}
+
+.theme-dark .kanban {
+  --kanbanbgodd: #4F4F4F01;
+  --kanbanbgeven: #4F4F4F10;
+  --kanbanbgchild: #20202090;
+  --kanbanhover:#4F4F4F12;
+}
+
+
+.kanban ul {
+  display: flex;
+  width:100%;
+  flex-direction: row;
+  background-color: var(--background-secondary);
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  padding-bottom: 0.9rem;
+  padding-top: 0.0rem;
+  flex-wrap: wrap;
+}
+
+.kanban div > ul > li{
+  padding-top: 0.9rem;
+  padding-left: 3px
+}
+
+.kanban .list-collapse-indicator.collapse-indicator.collapse-icon{
+  padding-left: 44px;
+ /* padding-right: 0.3rem; */
+}
+.kanban .task-list-item-checkbox {
+margin-left: 1.5rem;
+margin-right: 0.75rem;
+}
+
+.kanban ul h1,
+.kanban ul h2,
+.kanban ul h3,
+.kanban ul h4,
+.kanban ul h5,
+.kanban ul h6{
+    margin-block-start: 0rem;
+     margin-block-end: 0rem;
+    margin-left: 0;
+    white-space: pre-wrap; 
+}
+
+
+.kanban ul li {
+  flex: 1;
+  padding-left: 0px;
+  padding-right: 9px;
+  list-style: none;
+}
+
+.kanban ul ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem;
+  margin-right: 2.5rem;
+  margin-top: 1rem;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.kanban ul ul li {
+  width: 100%;
+  display: block;
+  margin-bottom: 0;
+  padding: 0.525rem;
+}
+
+.kanban ul .markdown-preview-sizer.markdown-preview-section{
+  min-height: 0!important;
+  padding: 0!important;
+}
+
+.kanban ul .internal-embed.is-loaded {
+  padding: 0 !important;
+  margin-bottom: 0px!important;
+}
+
+.kanban ul .markdown-preview-view{
+    padding: 0px 1px 1px 10px;
+}
+
+.kanban ul ul ul {
+  margin-right: 0;
+}
+
+.kanban ul ul::before {
+  border-left: 0;
+}
+
+.markdown-preview-view.is-readable-line-width.kanban
+.markdown-preview-sizer
+> div
+> ul {
+  max-width: 100%;
+}
+
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon {
+margin-right: 8px;
+}
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
+margin-left: 0px;
+}
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + span > div.markdown-embed .markdown-preview-view {
+padding-left: 0px;
+}
+
+
+.kanban ul ul li:nth-child(odd) {
+  background: var(--kanbanbgodd);
+  border-top: 1px solid var(--background-secondary);
+}
+
+.kanban ul ul li:nth-child(even) {
+  background: var(--kanbanbgeven);
+  border-top: 1px solid var(--background-secondary);
+}
+
+.kanban ul ul {
+  background: var(--kanbanbgchild);
+}
+.kanban ul ul li:hover {
+  background: var(--kanbanhover);
+}
+
+h1 > .internal-link, h1 > .external-link, h1 > .internal-link.is-unresolved,
+h2 > .internal-link, h2 > .external-link, h2 > .internal-link.is-unresolved,
+h3 > .internal-link, h3 > .external-link, h3 > .internal-link.is-unresolved,
+h4 > .internal-link, h4 > .external-link, h4 > .internal-link.is-unresolved,
+h5 > .internal-link, h5 > .external-link, h5 > .internal-link.is-unresolved,
+h6 > .internal-link, h6 > .external-link, h6 > .internal-link.is-unresolved {
+    color: unset !important;
+}
+
+
+.kanban.player ul li[data-line="0"] {max-width: 360px}
+.markdown-source-view {
+  font-family: "Fira Code", monospace!important;
+}
+
+
+span.cm-formatting.cm-formatting-code.cm-inline-code{
+    border-radius: 4px 0px 0px 4px;
+}
+
+span.cm-inline-code + span.cm-formatting.cm-formatting-code.cm-inline-code{
+    border-radius: 0px 4px 4px 0px;
+}
+/* Naked Embeds */
+.markdown-embed-title { display: none; }
+.markdown-preview-view .markdown-embed-content>:first-child { margin-top: 0;}
+.markdown-preview-view .markdown-embed-content>:last-child { margin-bottom: 0;}
+
+/*remove the following two line, you will get border and scroll*/
+.markdown-preview-view .markdown-embed { border:none; padding:0; margin:0; margin-bottom: -10px}
+.markdown-preview-view .markdown-embed-content { 
+  max-height: unset;
+  background-color: var(--background-secondary); /*define different bg color*/
+}
+
+/* the link on the top right corner*/
+.markdown-embed-link {
+color: var(--text-faint);
+}
+
+.markdown-embed-link:hover {
+color: var(--text-accent);
+}
+
+.markdown-preview-view img {
+	cursor:zoom-in;}
+
+.workspace-leaf img:active {
+	cursor:zoom-out;
+	display:block;
+	z-index:100;
+	position:fixed;
+    max-height:100%;
+    max-width:100%;
+    height:100%;
+    width:100%;
+    object-fit: contain;
+    margin:0 auto;
+    text-align:center;
+    top: 50%;
+  	transform: translateY(-50%);
+    padding:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background:var(--background-primary);}
+
+/*--Blockquote--*/
+.markdown-preview-view blockquote {
+    background-color: var(--background-secondary);
+    border-left-width: 8px;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-radius: var(--border-radius);
+    padding: 5px 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    text-indent: 1em;
+}
+
+
+.markdown-preview-view blockquote > p > br{
+    content: "";
+}
+.markdown-preview-view blockquote > p > br::after  {
+    content: " ";
+    white-space: pre;
+}
+.markdown-preview-view blockquote > p > br::before  {
+    content: "";
+    height: 0px;
+    display: block;
+}
+
+.theme-light div pre.language-info { /*replace info with anything you like*/
+	background-color: var(--background-secondary); /*you can replace with any colour you want here*/
+    border-left: 1em solid rgb(153,217,234); /*replace this colour with anything you like*/
+    padding-top: 0;
+}
+
+pre.language-info::before { /*replace info with anything you like*/
+margin-bottom:0.9em;
+margin-left: -1em;
+margin-right: -1em;
+position: static;
+display: block;
+background-color: rgba(153,217,234,0.5); /*replace this colour with anything you like*/
+content:"  ℹ️ Info"; /*replace this content with anything you like*/
+}
+
+code.is-loaded.language-info,
+pre.language-info { /*replace info with anything you like*/
+white-space: normal;
+}
+
+
+.theme-light div pre.language-note { /*replace info with anything you like*/
+    background-color: var(--background-secondary); /*you can replace with any colour you want here*/
+    border-left: 1em solid #BEDDDDC8; /*replace this colour with anything you like*/
+    padding-top: 0;
+}
+pre.language-note::before { /*replace info with anything you like*/
+margin-bottom:0.9em;
+margin-left: -1em;
+margin-right: -1em;
+position: static;
+display: block;
+background-color: #BEDDDD80; /*replace this colour with anything you like*/
+content:"  📄 Note"; /*replace this content with anything you like*/
+}
+
+code.is-loaded.language-note,
+pre.language-note { /*replace info with anything you like*/
+white-space: pre-wrap;
+text-shadow: none;
+font-family: var(--default-font);
+}
+.internal-embed.is-loaded[alt="short"] {
+  max-height: 45vh !important;
+  overflow: auto !important;
+  padding-right: 0px!important;
+
+}
+
+.internal-embed.is-loaded[alt="narrow"] {
+  max-width: 7.5rem !important;
+  overflow: hidden !important;
+
+}
+
+.internal-embed.is-loaded{
+margin-bottom: 20px;
+}
+
+.internal-embed.is-loaded[alt="minh"] {
+ min-height: 11.5rem;
+   overflow: auto!important;
+}
+.internal-embed.is-loaded[alt="stats"] {
+  max-height: 10.866666rem;
+  min-width: 9.625rem;
+  overflow: hidden !important;
+}
+.internal-embed.is-loaded[alt="statblock"] {
+  min-width: 28rem;
+  max-height: 45vh !important;
+  overflow: auto !important;
+  padding-right: 0px!important;
+}
+.internal-embed.is-loaded[alt="stats2"] {
+  max-height: 10.866666rem;
+  min-width: 16rem;
+  overflow: hidden !important;
+}
+
+
+.internal-embed.is-loaded[alt="tall"] {
+  max-height: 80vh !important;
+  overflow: auto !important;
+
+}
+
+
+.kanban .internal-embed.is-loaded[alt*="mtraits" i] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt*="mtraits" i].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt*="mpowers" i] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt*="mpowers" i].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt*="stats" i] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt*="stats" i].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt="narrow"] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt="narrow"].markdown-embed-link:hover,
+.kanban .internal-embed.is-loaded[alt="spacer"] .markdown-embed-link,
+.kanban .internal-embed.is-loaded[alt="spacer"].markdown-embed-link:hover{
+color: transparent !important;
+}
+
+
+.internal-embed.is-loaded[alt="spacer"] {
+padding-left: 1rem !important;
+ max-width: 0px !important;
+ width: 0px !important;
+ background-color: transparent !important;
+
+}
+
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+  max-height:none !important;}
+
+.markdown-preview-view .internal-query.is-embed {
+margin-left: auto;
+margin-right: auto;
+border-top:none;
+width:55vw !important;
+border-bottom:none;
+}
+
+.kanban ul li h2[data-heading="Attributes"]{
+white-space: nowrap;
+min-width: 7.6rem;
+}
+
+.kanban [data-heading*="slots" i] + ul.contains-task-list {
+flex-direction: row;
+justify-content: flex-start;
+}
+
+.kanban [data-heading*="slots" i] + ul.contains-task-list > .task-list-item {
+flex-grow: 0;
+}
+
+.kanban [data-heading*="slots" i] + ul.contains-task-list > .task-list-item input {
+  margin: 0 0 0 24px;
+  width: 17px;
+  height: 17px;
+}
+
+.kanban [data-heading*="slots" i] + ul.contains-task-list > li {
+  padding-top: 0.275rem;
+  padding-bottom: 0.275rem;
+}
+
+
+/* Sourced from lithou
+https://github.com/Lithou/Sandbox/blob/main/.obsidian/snippets/pub-Image%20Flags.css*/
+
+
+table{
+    width: auto;
+    display: table;
+}
+
+.grid span.image-embed[alt*="."],
+span[alt*="grid"]{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 3px;
+}
+
+img[alt*="grid"],
+.grid img[alt*="."]{
+    max-height: 30vh;
+}
+
+/* Floating Images */
+img[alt*="left"] {
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+img[alt*="center"],img[alt*="centre"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+.side-dock-ribbon.is-collapsed:not(:hover){ width: 0px !important; opacity: 0 }
+.side-dock-ribbon.mod-right.is-collapsed:not(:hover) ~ .workspace-split.mod-right-split { margin-right: 0 }
+.side-dock-ribbon.mod-left.is-collapsed:not(:hover) ~ .workspace-split.mod-left-split { margin-left: 0 }
+
+.side-dock-ribbon.is-collapsed.mod-right{ border-radius: 10px 0 0 0;}
+.side-dock-ribbon.is-collapsed.mod-left{ border-radius: 0 10px 0 0;}
+
+.workspace {background-color: var(--background-secondary-alt)}
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+.CodeMirror-vscrollbar {
+  width: 9px;
+
+}
+
+.CodeMirror-hscrollbar {
+  height: 9px;
+}
+:root {
+  --accent-h:201 !important;   /* Accent hue */
+  --accent-s:17% !important;   /* Accent saturation */
+  --accent-d:60% !important;   /* Accent lightness Dark Mode */
+  --accent-l:50% !important;   /* Accent lightness Light Mode */
+}
+.titlebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    background-color: var(--background-secondary-alt);
+}
+
+
+.titlebar-button,
+.titlebar-text {
+	color : var(--text-accent-hover);
+}
+
+.titlebar-button.mod-close:hover {
+  background-color: var(--interactive-accent-hover);
+  filter: hue-rotate(-11deg) brightness(170%) saturate(17%);
+} .plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf:not(.mod-active),
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-split:not(.maximisedparentsplit) {
+  display: none;
+}
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf.mod-active {
+  flex-basis: calc(100% - 4px);
+} .note-refactor-filename .setting-item-info {
+    margin-right: 0;
+}
+
+.note-refactor-filename .setting-item-name {
+    padding-top: 10px;
+} .dice-roller {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    margin: 0 0.25em 0 0;
+    font-weight: bolder;
+}
+.dice-roller > .dice-roller-button {
+    display: inline-block;
+    position: relative;
+    font-size: inherit;
+    margin-left: 0.25em;
+}
+.dice.tooltip {
+    max-width: unset !important;
+}
+ .HyperMD-table-row span.cm-inline-code,
+pre > code:not(.prism) {
+  font-size: 100%;
+}
+
+.widget-icon {
+  width: 20px;
+  height: 20px;
+  fill: var(--text-muted);
+}
+
+.widget-icon:hover {
+  fill: var(--text-normal);
+}
+
+.advanced-tables-csv-export textarea {
+  height: 200px;
+  width: 100%;
+}
+
+.advanced-tables-donation {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.advanced-tables-donate-button {
+  margin: 10px;
+}
+ :root{
+--headerheight: 29px;
+}
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical,
+.plugin-tabs .mod-root.workspace-split.mod-vertical{ 
+overflow-x: hidden; 
+flex-direction: row;
+flex-wrap: wrap;
+align-content: flex-start;
+align-items: stretch;
+overflow-y: hidden;
+--jstabs: 0;
+--tabs: 10;
+--rowsjs: 1;
+--rows1 : 1;
+--rows : min(var(--rows1),var(--rowsjs));
+--numtabs : max(var(--jstabs),var(--tabs));  
+--w1 : calc(100% * var(--rows) / var(--numtabs));
+--w2 : max(20% , 14.5rem/*alter width of tab here*/);
+}
+
+.plugin-tabs.rowoverflow .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical,
+.plugin-tabs.rowoverflow .mod-root.workspace-split.mod-vertical {
+--rows1: 2;
+--rows : min(var(--rows1),var(--rowsjs));
+--w1 : calc(100% * var(--rows) / var(--numtabs));
+}
+
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf,
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf { 
+flex-grow: 1;
+flex-shrink: 1;
+min-width: var(--w1);
+max-width: var(--w2);
+height: var(--headerheight); 
+padding-right: 0px;
+border-radius: 10px 10px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
+border: 1px solid var(--background-modifier-border); /* adds a slight outline to the tab header - NOT ESSENTIAL */
+border-bottom: 0;
+}
+
+.plugin-tabs .view-content {
+height: 100%;
+}
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header,
+.plugin-tabs .mod-root.workspace-split.mod-vertical > .workspace-split.mod-vertical > div.workspace-leaf .view-header,
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header{border-left: 1px solid var(--background-modifier-border) } /* adds a slight outline to the main window header - NOT ESSENTIAL */
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical div .view-header{ 
+border-top: 0;
+}
+
+
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen,
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen,
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active,
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active {
+align-self: stretch;
+position: absolute;
+bottom: 0px;
+order: 99;
+min-width: 100%;
+max-width: 100%;
+min-height: calc(100% - var(--headerheight) * var(--rows));
+overflow-y: hidden;
+padding-right: 1px;
+border-radius: 0; 
+border-left: 0;
+border-right: 0;
+border-bottom: 0;
+}
+
+
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical.maximised .workspace-split.mod-vertical > div.workspace-leaf.mod-active, .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active {
+height: 100%!important;
+top: 0px;
+border-radius: 10px 0px 0px 0px;
+border-top: 1px solid var(--background-modifier-border);
+}
+.plugin-tabs .maximised .view-header {height: var(--headerheight);  border-left: 1px solid var(--background-modifier-border)}
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:only-of-type,
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf:only-of-type { /*if only one pane open, maximise*/
+top: 0px;
+bottom: 0px;
+height: 100%!important;
+}
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-leaf .view-header { 
+height: calc(var(--headerheight) + 3px);
+}
+
+.plugin-tabs .mod-root.workspace-split.mod-vertical > div.workspace-leaf:only-of-type .view-header { 
+height: var(--headerheight);
+}
+
+.plugin-tabs .view-header-title-container::after {  /* remove pane header shadows */
+display:none;
+}
+
+/* OPTIONAL */
+
+/* non pane relief options */
+
+/* optional feature vertical side-by-side view */
+.plugin-tabs:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal{
+flex-direction: row;
+}
+
+.plugin-tabs:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal > * {
+    width: 100%;
+    flex: 1 0 0;
+    height: 100%;
+}
+
+.plugin-tabs:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal > .workspace-leaf:nth-of-type(n+1){
+border-radius: 10px 10px 0px 0px; /* adds a slight rounding to the top corners of a pane header - NOT ESSENTIAL */
+border: 1px solid var(--background-modifier-border); /* adds a slight outline to the tab header - NOT ESSENTIAL */
+border-bottom: 0;
+border-left: 0;
+}
+
+.plugin-tabs:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal .workspace-leaf:nth-of-type(n+1) .view-header {height: var(--headerheight);  }
+
+.plugin-tabs:not(.horizontal-to-vertical) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal hr.workspace-leaf-resize-handle{
+display: none
+}
+
+/* optional feature increase room for tab title */
+
+.plugin-tabs:not(.compact-title) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:not(.mod-active) .view-actions, /*decrease horizontal padding  for tab actions to zero*/
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:not(.mod-active) .view-actions{
+padding: 4px 0px;
+}
+
+.plugin-tabs:not(.compact-title) .workspace .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-actions, /*decrease horizontal padding  for tab actions to zero*/
+.workspace .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-actions{
+padding: 4px 10px;
+}
+
+.plugin-tabs:not(.compact-title) .workspace .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-action.mod-close-leaf, /*decrease margin for close button*/
+.workspace .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-action.mod-close-leaf{
+margin-left: 10px;
+}
+
+.plugin-tabs:not(.compact-title) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:not(.mod-active) .view-action.mod-close-leaf, /*decrease margin for close button*/
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf:not(.mod-active) .view-action.mod-close-leaf{
+margin-left: 0px;
+}
+
+.workspace-leaf .view-header-title{cursor: context-menu}
+
+div.workspace-leaf.stayopen .view-header-title,
+div.workspace-leaf.mod-active .view-header-title{cursor: text}
+
+/* optional feature smaller tab titles */
+.plugin-tabs:not(.small-title) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:not(.stayopen) .view-header-title,
+.plugin-tabs:not(.small-title) .mod-root > div.workspace-leaf:not(.stayopen) .view-header-title,
+.plugin-tabs:not(.small-title) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf:not(.mod-active) .view-header-title,
+.plugin-tabs:not(.small-title) .mod-root > div.workspace-leaf:not(.stayopen) .view-header-title{
+font-size: 14px;
+}
+
+
+.plugin-tabs:not(.small-title) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-title,
+.plugin-tabs:not(.small-title) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-title,
+.plugin-tabs:not(.small-title) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-title,
+.plugin-tabs:not(.small-title) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-title{
+font-size: 16px;
+}
+
+
+
+/* optional feature hide header button, more options, and edit button on tabs */
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf .view-header-icon,
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf a[aria-label="More options"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-icon,
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf a[aria-label="More options"]{
+display: none;
+}
+
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-icon,
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="More options"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-icon,
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="More options"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-icon,
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="More options"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-icon,
+.plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="More options"]{
+display: block;
+}
+
+
+/* Pane relief specific options */
+
+/* optional feature underline next tab [pane relief cycle to next pane hotkey] */
+.plugin-tabs:not(.tab-underline) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf .view-header-title ,
+.plugin-tabs:not(.tab-underline) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active + div.workspace-leaf .view-header-title {
+text-decoration: underline;
+}
+
+/* optional feature tab numbers (useful for pane relief shortcuts) */
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf                   .view-header-title-container, /* first tab container gets numbered from 1-8 */
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf:last-of-type      .view-header-title-container,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:only-of-type > div.workspace-leaf                   .view-header-title, /* alt+9 jumps to the LAST pane open, rather than the 9th, so only number if this is the only vertical split*/
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:only-of-type > div.workspace-leaf:last-of-type      .view-header-title,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf                   .view-header-title,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf:last-of-type      .view-header-title,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf                   .view-header-title-container, 
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf:last-of-type      .view-header-title-container {padding-left: 0px}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > .workspace-leaf:nth-of-type(n+9)  .view-header-title,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > .workspace-leaf:nth-of-type(n+9)  .view-header-title {padding-left: 5px} /* intentionally less specific, so it gets overridden */
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical { counter-reset: tab; }
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf > .workspace-leaf-content > .view-header .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf > .workspace-leaf-content > .view-header .view-header-title::before{
+counter-increment: tab;
+content: counter(tab);
+padding-top: 2px;
+display: inline-block;
+height: calc(var(--headerheight) + 6px);
+margin-right: 5px;
+padding: 0 0.4em;
+width: auto; /* compatibility with mininal */
+vertical-align: baseline; /* compatibility with mininal */
+position: static; /* compatibility with mininal */
+background-color: var(--background-secondary-alt); /* change to appealing colours in your theme */
+}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical div.workspace-split.mod-vertical:first-of-type > div.workspace-leaf:nth-of-type(n+9)  > .workspace-leaf-content > .view-header .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(n+9)  > .workspace-leaf-content > .view-header .view-header-title::before {
+display: none;
+}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-split.mod-vertical:first-of-type > div.workspace-leaf:nth-of-type(n+9):last-of-type  > .workspace-leaf-content > .view-header .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf:nth-of-type(n+9):last-of-type  > .workspace-leaf-content > .view-header .view-header-title::before {
+display: inline-block;
+content: "9";
+}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf.stayopen .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf.mod-active .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-title::before {
+color: var(--text-muted); /* change to appealing colour in your theme */
+background-color: var(--background-secondary-alt);
+margin-left: -0.3em;
+}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf.stayopen .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf.mod-active .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-icon {
+top: 0;
+padding-top: 6px;
+padding-right: 5px;
+background-color: var(--background-secondary-alt); /* make background of icon the same as the tab numbering */
+}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal div.workspace-leaf.stayopen:nth-child(n+10) .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf.stayopen:nth-child(n+10):not(:last-child) .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.stayopen:nth-child(n+10):not(:last-child) .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > .workspace-split.mod-horizontal div.workspace-leaf.mod-active:nth-child(n+10) .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical:first-of-type > div.workspace-leaf.mod-active:nth-child(n+10):not(:last-child) .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:nth-child(n+10):not(:last-child) .view-header-icon {
+padding-right: 10px;
+}
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal > div.workspace-leaf:first-of-type,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:only-of-type { border-radius: 10px 10px 0px 0px; } /* don't display tab number if only one tab is open */
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal > div.workspace-leaf:first-of-type .view-header-icon,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:only-of-type .view-header-icon{background-color: transparent; margin-right:0.5em;}
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal > div.workspace-leaf:first-of-type .view-header-title::before,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active:only-of-type .view-header-title::before { display: none!important; }
+
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal div.workspace-leaf.mod-active .view-header,
+.plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active .view-header{
+border-left-width: 1px;
+border-top-width: 2px
+}
+ /* List View Default Styling; rendered internally as a table. */
+.table-view-table {
+    width: 100%;
+}
+
+.table-view-table > thead > tr, .table-view-table > tbody > tr {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+.table-view-table > thead > tr > th {
+    font-weight: 700;
+    font-size: larger;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid;
+}
+
+.table-view-table > tbody > tr > td {
+    text-align: left;
+    border: none;
+    font-weight: 400;
+} 
+.pandoc-plugin-error {
+    color: red;
+}
+undefined
+</style>
+    </head>
+    <body>
+<p>Summary:</p>
+<h1 data-heading="arguments given">arguments given</h1>
+<h2 data-heading="Green water usage">Green water usage</h2>
+<p>Criticisms: <a data-href="#Green water could be used in other way" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Green%20water%20could%20be%20used%20in%20other%20way" class="internal-link" target="_blank" rel="noopener">Green water could be used in other way</a></p>
+<p><a rel="noopener" class="external-link" href="https://waterfootprint.org/en/resources/interactive-tools/product-gallery/" target="_blank">additional source</a></p>
+<p>Cows are typically fed using non-irrigated fodder and pasture. The water 'consumed' by cows is taken from, and reintroduced to the water cycle, in contrast to water that is irrigated, which takes from groundwater.</p>
+<p>As meat is a 'nutrient concentrator' it provides more nutrients per litre of water consumed.</p>
+<h2 data-heading="Cows upcycle waste">Cows upcycle waste</h2>
+<p>Counterpoint: <a data-href="#Cows are mostly fed using crops" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Cows%20are%20mostly%20fed%20using%20crops" class="internal-link" target="_blank" rel="noopener">Cows are mostly fed using crops</a><br>
+The food cows receive and the land cows occupy would otherwise go unused.</p>
+<p>Think of the mountainous pastures of the alps or the arid grasslands of the prairies.</p>
+<p>2.8 kg of human food per kg of beef</p>
+<p>Livestock also makes the agricultural loop more efficient by turning waste products into nutrients.</p>
+<h2 data-heading="Western meat production is efficient">Western meat production is efficient</h2>
+<p>Counterpoint: <a data-href="#Global statistics matter" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Global%20statistics%20matter" class="internal-link" target="_blank" rel="noopener">Global statistics matter</a></p>
+<p>Meat is produced much more efficiently in the west than in developing countries. Reducing the meat consumption of a someone living in the west is proportionally less impactful than reducing the meat consumption of someone in a developing country.</p>
+<h2 data-heading="Cows don't add to the carbon cycle">Cows don't add to the carbon cycle</h2>
+<p>Counterpoint: <a data-href="#Environmental effects" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Environmental%20effects" class="internal-link" target="_blank" rel="noopener">Environmental effects</a></p>
+<p>It is true that cows contribute methane to the carbon cycle, however the cellulose and other starches they consume was already present in the atmosphere In the form of CO2.</p>
+<p>Contrast this with fossil fuels, which release sequestered carbon.</p>
+<h2 data-heading="Reducing food waste is more important">Reducing food waste is more important</h2>
+<p>Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concern?</p>
+<h1 data-heading="Counterpoints">Counterpoints</h1>
+<h2 data-heading="Green water could be used in other ways">Green water could be used in other ways</h2>
+<p>See: <a data-href="#Green water usage" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Green%20water%20usage" class="internal-link" target="_blank" rel="noopener">Green water usage</a></p>
+<p>The green water used for growing pasture can be used instead to grow human-edible crops.</p>
+<p>It could mean less water being drawn from the ground for irrigation, where we instead use.</p>
+<p>In addition, nitrogen rich waste water (urine and manure contaminated water_, in natural conditions, can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case.</p>
+<p>Instead of a roaming herd that spreads the waste water, cows are concentrated in one place. This leads to deadzones due to nutrient run-off. [Although the use of fertiliser also contributes to the deadzones created.]</p>
+<h2 data-heading="Cows are mostly fed using crops">Cows are mostly fed using crops</h2>
+<p>See: <a data-href="#Cows upcycle waste" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Cows%20upcycle%20waste" class="internal-link" target="_blank" rel="noopener">Cows upcycle waste</a></p>
+<blockquote>
+<p>Grazing systems supply about 9 percent of the world's production of beef and about 30 percent of the world's production of sheep and goat meat</p>
+</blockquote>
+<p><a rel="noopener" class="external-link" href="http://www.fao.org/3/X5303E/x5303e05.htm#chapter%202:%20livestock%20grazing%20systems%20&amp;%20the%20environment" target="_blank">Source</a></p>
+<p>This suggests that most of the beef produced in the world is derived from cattle that are partially or wholly fed on crops. While this does include waste products, such as husks and stems, the fact remains that 1/3 of the land dedicated to livestock is arable land which could be used for human purposes.</p>
+<p>The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be eaten by humans.</p>
+<h2 data-heading="Global statistics matter">Global statistics matter</h2>
+<p>See: <a data-href="#Western meat production is efficient" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Western%20meat%20production%20is%20efficient" class="internal-link" target="_blank" rel="noopener">Western meat production is efficient</a></p>
+<p>The inefficiencies of developing countries do impact us due to global trade.</p>
+<p>Brazil is the world's <a rel="noopener" class="external-link" href="https://www.pnas.org/content/117/50/31770" target="_blank">largest beef exporter</a>, including to Western countries.</p>
+<p>When we eat meat from Brazil we're not just eating inefficient beef, but we're also adding the cost of global transportation to that beef.</p>
+<h2 data-heading="Environmental effects">Environmental effects</h2>
+<p>see: <a data-href="#Cows don't add to the carbon cycle" href="C:\Users\School PC\Documents\dnd char sheets\Obsidian.md\DND\1 notes\11 media\eating less meat - what I've learned.html#Cows%20don't%20add%20to%20the%20carbon%20cycle" class="internal-link" target="_blank" rel="noopener">Cows don't add to the carbon cycle</a></p>
+<p>Despite the carbon already being in the environment, turning CO2 to methane is still a net increase in the <em>warming effect</em> due to its high <a rel="noopener" class="external-link" href="https://www.epa.gov/ghgemissions/understanding-global-warming-potentials" target="_blank">GWP</a>.</p>
+<p>In addition, intensive grazing leads to soil depletion and decreased biodiversity. In developing countries, important carbon sinks <em>are</em> being cleared through burning/cutting forest and clearing marshlands.</p>
+    </body>
+</html>

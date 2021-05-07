@@ -1,7 +1,7 @@
 Summary:
 # arguments given
 ## Green water usage
-Criticisms: [[#Green water could be used in other way]]
+Criticisms: [[#Green water could be used in other ways]]
 
 [additional source](https://waterfootprint.org/en/resources/interactive-tools/product-gallery/)
 
@@ -20,9 +20,13 @@ Think of the mountainous pastures of the alps or the arid grasslands of the prai
 Livestock also makes the agricultural loop more efficient by turning waste products into nutrients.
 
 ## Western meat production is efficient
+Counterpoint: [[#Global statistics matter]]
+
 Meat is produced much more efficiently in the west than in developing countries. Reducing the meat consumption of a someone living in the west is proportionally less impactful than reducing the meat consumption of someone in a developing country.
 
 ## Cows don't add to the carbon cycle
+Counterpoint: [[#Environmental effects]]
+
 It is true that cows contribute methane to the carbon cycle, however the cellulose and other starches they consume was already present in the atmosphere In the form of CO2.
 
 Contrast this with fossil fuels, which release sequestered carbon.
@@ -52,7 +56,7 @@ This suggests that most of the beef produced in the world is derived from cattle
 
 The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be eaten by humans.
 
-## Global supply does matter
+## Global statistics matter
 See: [[#Western meat production is efficient]]
 
 The inefficiencies of developing countries do impact us due to global trade.
@@ -61,5 +65,9 @@ Brazil is the world's [largest beef exporter](https://www.pnas.org/content/117/5
 
 When we eat meat from Brazil we're not just eating inefficient beef, but we're also adding the cost of global transportation to that beef.
 
-## Carbon sequestering and methane
-Despite the carbon already 
+## Environmental effects
+see: [[#Cows don't add to the carbon cycle]]
+
+Despite the carbon already being in the environment, turning CO2 to methane is still a net increase in the *warming effect* due to its high [GWP](https://www.epa.gov/ghgemissions/understanding-global-warming-potentials).
+
+In addition, intensive grazing leads to soil depletion and decreased biodiversity. In developing countries, important carbon sinks *are* being cleared through burning/cutting forest and clearing marshlands.
