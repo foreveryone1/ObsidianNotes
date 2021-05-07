@@ -11,11 +11,12 @@ As meat is a 'nutrient concentrator' it provides more nutrients per litre of wat
 
 ## Cows-upcycle-waste
 Counterpoint: [Cows-are-mostly-fed-using-crops](#Cows-are-mostly-fed-using-crops)
-The food cows receive and the land cows occupy would otherwise go unused.
+
+The food cows receive and the vast majority of the land cows occupy would otherwise go unused, as they aren't fit for human edible cultivation.
 
 Think of the mountainous pastures of the alps or the arid grasslands of the prairies.
 
-2.8 kg of human food per kg of beef
+Besides non-edible crops, 2.8 kg of human-edible food is consumed per kg of beef, which isn't that much if you consider the relative nutrient densities.
 
 Livestock also makes the agricultural loop more efficient by turning waste products into nutrients.
 
@@ -44,7 +45,11 @@ The green water used for growing pasture can be used instead to grow human-edibl
 
 It could mean less water being drawn from the ground for irrigation, if the water that falls on pasture and fodders crops were to instead be used for plant-based agriculture.
 
-In addition, in natural conditions, nitrogen rich waste water (urine and manure contaminated water) can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case; instead of a roaming herd that spreads the waste water, cows are concentrated in feedlots. This leads to deadzones due to nutrient run-off. [Although the use of fertiliser also contributes to the deadzones created.]
+In addition, in natural conditions, nitrogen rich waste water (urine and manure contaminated water) can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case; instead of a roaming herd that spreads the waste water, cows are concentrated in feedlots. This leads to deadzones due to nutrient run-off.
+
+I have unfortunately not found any studies that provide a clear breakdown in the contribution of livestock and plant-agriculture to nutrient runoffs.
+
+Finally, rain water that is utilised for agricultural purposes is no longer suitable for replenishment of aquifers.
 
 ## Cows-are-mostly-fed-using-crops
 See: [Cows-upcycle-waste](#Cows-upcycle-waste)
@@ -52,11 +57,11 @@ See: [Cows-upcycle-waste](#Cows-upcycle-waste)
 
 [Source](http://www.fao.org/3/X5303E/x5303e05.htm#chapter%202:%20livestock%20grazing%20systems%20&%20the%20environment)
 
-This suggests that most of the beef produced in the world is derived from cattle that are partially or wholly fed on crops. While this does include waste products, such as husks and stems, the fact remains that 1/3 of the land dedicated to livestock is arable land which could be used for human purposes.
+This suggests that most of the beef produced in the world is derived from cattle that are partially or wholly fed on crops. While this does include waste products, such as husks and stems, the fact remains that 1/3 of the land dedicated to livestock is arable land which could be used for human-edible crops.
 
 In addition, fodder crops such as alfalfa are often [irrigated](https://extension.unr.edu/publication.aspx?PubID=2575#:~:text=Amount%20of%20water%20to%20apply,every%20ton%20of%20hay%20produced.&text=By%20early%20June%2C%20this%20can,as%202.0%20inches%20per%20week.), (partially) negating the point made in [Green-water-usage](#Green-water-usage).
 
-The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be eaten by humans.
+The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be eaten by humans. This represents a clear inefficiency, which would be exacerbated if one includes the percentage of fodder grown on land viable for growing human-edible food.
 
 ## Global-statistics-matter
 See: [Western-meat-production-is-efficient](#Western-meat-production-is-efficient)
