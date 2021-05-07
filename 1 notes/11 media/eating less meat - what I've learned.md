@@ -1,15 +1,16 @@
 Summary:
 # arguments given
 ## Green water usage
-Criticisms: [Green water could be used in other ways](#Green%20water%20could%20be%20used%20in%20other%20ways)
-additional source: https://waterfootprint.org/en/resources/interactive-tools/product-gallery/
-[Scratchpad](Scratchpad.md)
+Criticisms: [[#Green water could be used in other way]]
+
+[additional source](https://waterfootprint.org/en/resources/interactive-tools/product-gallery/)
 
 Cows are typically fed using non-irrigated fodder and pasture. The water 'consumed' by cows is taken from, and reintroduced to the water cycle, in contrast to water that is irrigated, which takes from groundwater.
 
 As meat is a 'nutrient concentrator' it provides more nutrients per litre of water consumed.
 
 ## Cows upcycle waste
+Counterpoint: [[#Cows are mostly fed using crops]]
 The food cows receive and the land cows occupy would otherwise go unused.
 
 Think of the mountainous pastures of the alps or the arid grasslands of the prairies.
@@ -39,4 +40,26 @@ It could mean less water being drawn from the ground for irrigation, where we in
 
 In addition, nitrogen rich waste water (urine and manure contaminated water_, in natural conditions, can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case.
 
-Instead of a roaming herd that spreads the waste water, cows are concentrated in one place. This leads to deadzones due to nutrient run-off. [Although the use of fertiliser also contributes.]
+Instead of a roaming herd that spreads the waste water, cows are concentrated in one place. This leads to deadzones due to nutrient run-off. [Although the use of fertiliser also contributes to the deadzones created.]
+
+## Cows are mostly fed using crops
+See: [[#Cows upcycle waste]]
+> Grazing systems supply about 9 percent of the world's production of beef and about 30 percent of the world's production of sheep and goat meat
+
+[Source](http://www.fao.org/3/X5303E/x5303e05.htm#chapter%202:%20livestock%20grazing%20systems%20&%20the%20environment)
+
+This suggests that most of the beef produced in the world is derived from cattle that are partially or wholly fed on crops. While this does include waste products, such as husks and stems, the fact remains that 1/3 of the land dedicated to livestock is arable land which could be used for human purposes.
+
+The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be eaten by humans.
+
+## Global supply does matter
+See: [[#Western meat production is efficient]]
+
+The inefficiencies of developing countries do impact us due to global trade.
+
+Brazil is the world's [largest beef exporter](https://www.pnas.org/content/117/50/31770), including to Western countries.
+
+When we eat meat from Brazil we're not just eating inefficient beef, but we're also adding the cost of global transportation to that beef.
+
+## Carbon sequestering and methane
+Despite the carbon already 
