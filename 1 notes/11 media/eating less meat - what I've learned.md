@@ -1,8 +1,9 @@
 Summary:
 # arguments given
 ## Green water usage
-Criticisms: [[#Green water could be used in other ways]]
+Criticisms: [Green water could be used in other ways](#Green%20water%20could%20be%20used%20in%20other%20ways)
 additional source: https://waterfootprint.org/en/resources/interactive-tools/product-gallery/
+[Scratchpad](Scratchpad.md)
 
 Cows are typically fed using non-irrigated fodder and pasture. The water 'consumed' by cows is taken from, and reintroduced to the water cycle, in contrast to water that is irrigated, which takes from groundwater.
 
@@ -26,6 +27,7 @@ It is true that cows contribute methane to the carbon cycle, however the cellulo
 Contrast this with fossil fuels, which release sequestered carbon.
 
 ## Reducing food waste is more important
+Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concern?
 
 # Counterpoints
 ## Green water could be used in other ways
@@ -37,4 +39,4 @@ It could mean less water being drawn from the ground for irrigation, where we in
 
 In addition, nitrogen rich waste water (urine and manure contaminated water_, in natural conditions, can be reintegrated into the water cycle. Due to the realities of industrial agriculture this isn't the case.
 
-Instead of a roaming herd that spreads the waste water, cows are concentrated in one place. This leads to 
+Instead of a roaming herd that spreads the waste water, cows are concentrated in one place. This leads to deadzones due to nutrient run-off. [Although the use of fertiliser also contributes.]
