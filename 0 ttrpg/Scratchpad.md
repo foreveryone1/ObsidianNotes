@@ -8,4 +8,3 @@ mood: 🟢
 
 `=[[scratchpadtesting]].data`
 
-<i id="colorbox" style="background-color:#AC47ED"></i>
