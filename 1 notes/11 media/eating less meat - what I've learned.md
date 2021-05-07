@@ -50,7 +50,7 @@ In addition, in natural conditions, nitrogen rich waste water (urine and manure 
 
 I have unfortunately not found any studies that provide a clear breakdown in the contribution of livestock and plant-agriculture to nutrient runoffs.
 
-Finally, rain water that is utilised for agricultural purposes is no longer suitable for replenishment of aquifers.
+Finally, rain water that is utilised for agricultural purposes is [no longer suitable for replenishment of aquifers](https://pubs.acs.org/doi/10.1021/es1038358).
 
 ## Cows-are-mostly-fed-using-crops
 See: [Cows-upcycle-waste](#Cows-upcycle-waste)
@@ -62,7 +62,7 @@ This suggests that most of the beef produced in the world is derived from cattle
 
 In addition, fodder crops such as alfalfa are often [irrigated](https://extension.unr.edu/publication.aspx?PubID=2575#:~:text=Amount%20of%20water%20to%20apply,every%20ton%20of%20hay%20produced.&text=By%20early%20June%2C%20this%20can,as%202.0%20inches%20per%20week.), (partially) negating the point made in [Green-water-usage](#Green-water-usage).
 
-The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be eaten by humans. This represents a clear inefficiency, which would be exacerbated if one includes the percentage of fodder grown on land viable for growing human-edible food.
+The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be used for human-edible food. This represents a clear inefficiency, which would be exacerbated if one includes the percentage of fodder grown on land viable for growing human-edible food.
 
 ## Global-statistics-matter
 See: [Western-meat-production-is-efficient](#Western-meat-production-is-efficient)
@@ -78,7 +78,9 @@ see: [Cows-dont-add-to-the-carbon-cycle](#Cows-dont-add-to-the-carbon-cycle)
 
 Despite the carbon already being in the environment, turning CO2 to methane is still a net increase in the *warming effect* due to its high [GWP](https://www.epa.gov/ghgemissions/understanding-global-warming-potentials).
 
-In addition, intensive grazing leads to soil depletion and decreased biodiversity. In developing countries, important carbon sinks *are* being cleared through burning/cutting forest and clearing marshlands. See: [the burning of the Amazon](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JG002914)
+In addition, intensive grazing can lead to [soil degradation](http://www.uky.edu/Ag/Agronomy/Extension/ssnv/ssvl182.htm) and [decreased biodiversity](https://sci-hub.st/https://doi.org/10.4141/P06-114) (Note: the study suggests that a moderate level of grazing is *beneficial* to soil biodiversity, perhaps because the land was grazed in a smilar manner by natural megafauna prior to human agriculture in the region).
+
+In [developing countries](https://www.sciencedirect.com/science/article/pii/S0378112715003394) *and* [developed countries](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.2002.01199.x), important carbon sinks *are* being cleared through burning/cutting forest and clearing marshlands, either intentionally, to increase the amount of 'productive land' or inadvertently through land management strategies that damage surrounding wild areas. See: [the burning of the Amazon](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JG002914)
 
 ## Multiple-issues-can-be-handled-at-once
 see: [Reducing-food-waste-is-more-important](#Reducing-food-waste-is-more-important)
