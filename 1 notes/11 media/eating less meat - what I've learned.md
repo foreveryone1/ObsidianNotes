@@ -88,3 +88,5 @@ see: [Reducing-food-waste-is-more-important](#Reducing-food-waste-is-more-import
 Food waste and meat consumption can both be reduced through policy and awareness, in fact, the same awareness pushes can be applied to both concerns.
 
 The author presents a false dichotomy by suggesting that the urgence of one dilemma is so great that the other issue is irrelevant.
+
+ `= date(today) - date(2020-11-13)` 
