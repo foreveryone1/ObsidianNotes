@@ -85,6 +85,6 @@ In [developing countries](https://www.sciencedirect.com/science/article/pii/S037
 ## Multiple-issues-can-be-handled-at-once
 see: [Reducing-food-waste-is-more-important](#Reducing-food-waste-is-more-important)
 
-Food waste and meat consumption can both be reduced through policy and awareness, in fact, the same awareness pushes can be applied to concerns.
+Food waste and meat consumption can both be reduced through policy and awareness, in fact, the same awareness pushes can be applied to both concerns.
 
 The author presents a false dichotomy by suggesting that the urgence of one dilemma is so great that the other issue is irrelevant.
