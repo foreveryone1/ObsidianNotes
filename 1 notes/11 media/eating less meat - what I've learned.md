@@ -62,7 +62,7 @@ This suggests that most of the beef produced in the world is derived from cattle
 
 In addition, fodder crops such as alfalfa are often [irrigated](https://extension.unr.edu/publication.aspx?PubID=2575#:~:text=Amount%20of%20water%20to%20apply,every%20ton%20of%20hay%20produced.&text=By%20early%20June%2C%20this%20can,as%202.0%20inches%20per%20week.), (partially) negating the point made in [Green-water-usage](#Green-water-usage).
 
-The fact also remains that 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be used for human-edible food. This represents a clear inefficiency, which would be exacerbated if one includes the percentage of fodder grown on land viable for growing human-edible food.
+Regardless of apparent nutrient balance differences, 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be used for human-edible food. This represents an inefficiency, which would be exacerbated if one includes the percentage of fodder grown on land viable for growing human-edible food.
 
 ## Global-statistics-matter
 See: [Western-meat-production-is-efficient](#Western-meat-production-is-efficient)
