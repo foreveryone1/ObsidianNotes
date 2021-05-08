@@ -24,7 +24,7 @@ Livestock also makes the agricultural loop more efficient by turning waste produ
 ## Western-meat-production-is-efficient
 Counterpoint: [Global-statistics-matter](#Global-statistics-matter)
 
-Meat is produced much more efficiently in the west than in developing countries. Reducing the meat consumption of a someone living in the west is proportionally less impactful than reducing the meat consumption of someone in a developing country.
+Meat is produced much more efficiently in the west than in developing countries. Reducing the meat consumption of someone living in the west is proportionally less impactful than reducing the meat consumption of someone in a developing country.
 
 ## Cows-dont-add-to-the-carbon-cycle
 Counterpoint: [Environmental-effects](#Environmental-effects)
