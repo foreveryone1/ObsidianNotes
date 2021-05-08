@@ -29,7 +29,7 @@ Meat is produced much more efficiently in the west than in developing countries.
 ## Cows-dont-add-to-the-carbon-cycle
 Counterpoint: [Environmental-effects](#Environmental-effects)
 
-It is true that cows contribute methane to the carbon cycle, however the cellulose and other starches they consume was already present in the atmosphere In the form of CO2.
+It is true that cows contribute methane to the carbon cycle, however the cellulose and other starches they consume were already present in the atmosphere in the form of CO2, which plants capture through photosynthesis.
 
 Contrast this with fossil fuels, which release sequestered carbon.
 
