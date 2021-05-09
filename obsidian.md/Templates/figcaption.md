@@ -1,1 +1,1 @@
-<figcaption id="" style=""></figcaption>
+<i class="figcaption" id="" style=""></i>
