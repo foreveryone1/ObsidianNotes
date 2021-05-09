@@ -29,6 +29,21 @@ pow: 50
 	- **Pow**: `=this.pow` | `=this.pow/2` | `=this.pow/5`
 - ## Portrait
 	- ![[Pasted image 20210509190806.png]]
+
+## Hitpoints, Luck, MP, and Sanity
+- ## Hit points
+	- Max:\: `=(this.siz+this.con)/10`
+	- Current:\: 10
+- ## Luck
+	- Current:\: 56
+- ## MP
+	- Max:\:`=this.pow/5`
+	- Current:\: n/a
+- ## Sanity
+	- Max:\:`=this.pow`
+	- Current:\: 43
+%% Take >= 5 sanity damage in one instance - indefinitely insane
+Lose all sanity - lose your character forever%%
 # Skills
 - # Text
 	- [ ] accounting:: 5
@@ -130,12 +145,40 @@ pow: 50
 
 # Combat 
 **<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: +5D6"> Determining the DB manually</i>**
-Str + Size: `=this.str + this.siz`
+Str + Size:\: `=this.str + this.siz`
 **DB**:: 2D6
-
-
+**Dodge**:\: `=this.dodge` | `=this.dodge / 2` | `=this.dodge / 5`
 
 | Weapon     | Regular       | Hard            | Extreme           | Damage           | Range | Attacks | Ammo | Malf |
 | ---------- | ------------- | --------------- | ----------------- | ---------------- | ----- | ------- | ---- | ---- |
 | Unarmed    | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d3 + `=this.db` | -     | 1       | -    | -    |
 | Breadknife | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d4 + `=this.db` | -     | 1       | -    | -    | 
+
+# Backstory
+- # 
+	- **Personal description**: life-loving laughing individual
+	- **Ideology/beliefs**: woman's suffrage (yass)
+	- **Significant people**: my college professor <3 <br> my 'handsome' uncle Philip <br> my lovely tenants
+	- **Meaningful locations**: my father's beach house
+- #
+	- **Treasured possession**: my dried flower tiara 
+	- **Traits**: slightly manipulative
+	- **Injuries**: n/a
+	- **Phobias & Manias**: drowning / drowned people 
+	- **Arcane Tomes**: n/a
+	- **Encounters with strange entities**: Innes' killer
+
+# Material Possessions
+- ## Gear 
+	- Flapper dress
+	- Tiara
+	- Feathers
+- ## Money
+	- Spending level: $50
+	- Cash: `=this.credit-rating * 5`
+	- Assets: `=this.credit-rating * 500`
+		- Inherited cigarette holder
+		- beach chalet
+		- small house
+		- small house
+		- beach buggy

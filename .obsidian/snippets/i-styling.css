@@ -94,7 +94,7 @@ padding-top: 0;
 
 i#textblock { /*replace info with anything you like*/
 background-color: var(--background-secondary); /*you can replace with any colour you want here*/
-display: block;
+display: inline-block;
 border-radius: 10px;
 padding: 10px;
 font-style: normal;
