@@ -1,5 +1,6 @@
 ---
 cssclass: kanban, coc
+age: 19
 str: 30
 con: 40
 siz: 60
@@ -12,11 +13,11 @@ pow: 50
 - ## 1920s Investigator
 	- Name: Betty
 	- Occupation: Student/Intern
-	- Age:: 19
+	- Age: 19
 	- Sex: F
 	- Residence:  Draalst
 	- Birthplace: Lincoln
-	- Move Rate: `=choice((this.str + this.dex) > this.siz, 7 - ((this.age - 40)/10), choice(,,,))`
+	- <i id="tooltip" title="Both DEX and STR are each less than SIZ: 7 &#013;Either STR or DEX is equal to or greater than SIZ: 8 &#013;Both STR and DEX are each greater than SIZ: 9&#013;Per decade older than 30 (not including your 30s) 1 MOV penalty."> Move Rate </i> : 8 %% Check patchnotes for dynamic variable setting %%
 - # Characteristics
 	- **Str**: `=this.str` | `=this.str/2` | `=this.str/5`
 	- **Con**: `=this.con` | `=this.con/2` | `=this.con/5`
@@ -74,10 +75,10 @@ pow: 50
 		- `=this.intimidate / 2` | `=this.intimidate / 5`
 	- [ ] jump:: 20
 		- `=this.jump / 2` | `=this.jump / 5`
-	- [ ] french:: 31
-		- `=this.french / 2` | `=this.french / 5`
-	- [ ] english:: 70
-		- `=this.english / 2` | `=this.english / 5`
+	- [ ] Lang-French:: 31
+		- `=this.lang-french / 2` | `=this.lang-french / 5`
+	- [ ] Lang-English:: 70
+		- `=this.Lang-English / 2` | `=this.Lang-English / 5`
 	- [ ] law:: 5
 		- `=this.law / 2` | `=this.law / 5`
 	- [ ] library:: 40
@@ -127,3 +128,14 @@ pow: 50
 	- [ ] track:: 10
 		- `=this.track / 2` | `=this.track / 5`
 
+# Combat 
+**<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: +5D6"> Determining the DB manually</i>**
+Str + Size: `=this.str + this.siz`
+**DB**:: 2D6
+
+
+
+| Weapon     | Regular       | Hard            | Extreme           | Damage           | Range | Attacks | Ammo | Malf |
+| ---------- | ------------- | --------------- | ----------------- | ---------------- | ----- | ------- | ---- | ---- |
+| Unarmed    | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d3 + `=this.db` | -     | 1       | -    | -    |
+| Breadknife | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d4 + `=this.db` | -     | 1       | -    | -    | 
