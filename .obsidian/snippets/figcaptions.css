@@ -10,11 +10,13 @@ display: flex;
 justify-content: center;
 }
 
+.floatleft,
 .figcaption#left {
 clear: left;
 float: left;
 }
 
+.floatright,
 .figcaption#right {
 clear: right;
 float: right;

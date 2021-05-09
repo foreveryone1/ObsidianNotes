@@ -9,8 +9,7 @@ Using a story die to force an opponent to reroll a critical strike is possible, 
 
 <i id="textblock" data-header="📄 Note: Consequences of using Story Dice">Spending a story die is inherently a trade-off, because it provides the opportunity for an opponent to use one at a later moment.
 	However, if you want to up the risk even more, considering making it clear to players that spending a story die will bring about graver consequences for failing.
-</i>
-<i class="figcaption" style="width">[Further Reading: Pushing rolls](Pushing%20rolls.md)</i>
+</i><i class="figcaption" style="width">[Further Reading: Pushing rolls](Pushing%20rolls.md)</i>
 
 ## Uses
 ### Adding to a result

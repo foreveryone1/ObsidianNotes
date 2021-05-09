@@ -9,8 +9,27 @@ edu: 70
 int: 65
 pow: 50
 ---
-
-- # Skills
+- ## 1920s Investigator
+	- Name: Betty
+	- Occupation: Student/Intern
+	- Age:: 19
+	- Sex: F
+	- Residence:  Draalst
+	- Birthplace: Lincoln
+	- 
+- # Characteristics
+	- **Str**: `=this.str` | `=this.str/2` | `=this.str/5`
+	- **Con**: `=this.con` | `=this.con/2` | `=this.con/5`
+	- **Siz**: `=this.siz` | `=this.siz/2` | `=this.siz/5`
+	- **Dex**: `=this.dex` | `=this.dex/2` | `=this.dex/5`
+	- **App**: `=this.app` | `=this.app/2` | `=this.app/5`
+	- **Edu**: `=this.edu` | `=this.edu/2` | `=this.edu/5`
+	- **Int**: `=this.int` | `=this.int/2` | `=this.int/5`
+	- **Pow**: `=this.pow` | `=this.pow/2` | `=this.pow/5`
+- ## Portrait
+	- ![[Pasted image 20210509190806.png]]
+# Skills
+- # Text
 	- [ ] accounting:: 5
 		- `=this.accounting / 2` | `=this.accounting / 5`
 	- [ ] anthropology:: 1

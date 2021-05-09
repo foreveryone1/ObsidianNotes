@@ -42,12 +42,19 @@ i#flexbox > i hr + br {
 display: none;
 }
 
+.kanban.coc ul li {padding-top: 5px;}
+
+.kanban.coc ul li ul.contains-task-list {margin-top: 0}
+
+.kanban.coc ul li .list-collapse-indicator {display: none;}
+
+.kanban.coc ul li h1 {display: none; max-height: 0px}
 
 .kanban.coc h1 ~ ul li.task-list-item {display:flex; flex-direction:row;}
 
-.kanban.coc h1 ~ ul li.task-list-item ul {max-width: 5rem; align-self: flex-start; display: inline-block; margin-top: 0px; justify-self:end }
+.kanban.coc h1 ~ ul li.task-list-item {padding: 3px;}
 
-.kanban.coc h1 ~ ul > li.task-list-item {font-weight: 600;}
+.kanban.coc h1 ~ ul li.task-list-item ul {max-width: 5rem; align-self: flex-start; display: inline-block; margin-top: 0px; justify-self:end; }
 
 .kanban.coc h1 ~ ul li.task-list-item ul li {display: inline-block;padding:0; margin: 0px 0 0px 8px; border-top: 0; font-weight: initial;}
 
@@ -61,7 +68,7 @@ padding-bottom:100%;
 
 i#textblock[data-header]::before { /*replace info with anything you like*/
 margin-bottom:0.4em;
-
+font-weight: 600;
 margin-left: -1em;
 padding-left: 1em;
 padding-top: 5px;
