@@ -16,7 +16,7 @@ pow: 50
 	- Sex: F
 	- Residence:  Draalst
 	- Birthplace: Lincoln
-	- 
+	- Move Rate: `=choice((this.str + this.dex) > this.siz, 7 - ((this.age - 40)/10), choice(,,,))`
 - # Characteristics
 	- **Str**: `=this.str` | `=this.str/2` | `=this.str/5`
 	- **Con**: `=this.con` | `=this.con/2` | `=this.con/5`
