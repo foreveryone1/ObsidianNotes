@@ -24,3 +24,4 @@ inspo
 https://www.spriters-resource.com/mobile/finalfantasybraveexvius/
 https://www.spriters-resource.com/snes/supersf2/
 https://www.spriters-resource.com/game_boy_advance/fireemblemthesacredstones/
+
