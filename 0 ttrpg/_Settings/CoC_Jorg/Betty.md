@@ -47,108 +47,104 @@ Lose all sanity - lose your character forever%%
 # Skills
 - # Text
 	- [ ] Accounting:: 5
-		- `=this.accounting / 2` | `=this.accounting / 5`
-	- [ ] Anthropology:: 1
-		- `=this.anthropology / 2` | `=this.anthropology / 5`
-	- [ ] Appraise:: 5
-		- `=this.appraise / 2` | `=this.appraise / 5`
-	- [ ] Archaeology:: 1
-		- `=this.archaeology / 2` | `=this.archaeology / 5`
+		 - `=this.accounting / 2` | `=this.accounting / 5`
 	- [ ] Acting:: 60
-		- `=this.acting / 2` | `=this.acting / 5`
-	- [ ] Charm:: 75
-		- `=this.charm / 2` | `=this.charm / 5`
-	- [ ] Climb:: 20
-		- `=this.climb / 2` | `=this.climb / 5`
-	- [ ] Credit rating:: 65
-		- `=this.credit-rating / 2` | `=this.credit-rating / 5`
-	- [ ] Cthulhu mythos:: 0
-		- `=this.cthulhu-mythos / 2` | `=this.cthulhu-mythos / 5`
-	- [ ] Disguise:: 5
-		- `=this.disguise / 2` | `=this.disguise / 5`
-	- [ ] Dodge:: 70
-		- `=this.dodge / 2` | `=this.dodge / 5`
-	- [ ] Drive auto:: 20
-		- `=this.drive-auto / 2` | `=this.drive-auto / 5`
-	- [ ] Elec repair:: 10
-		- `=this.elec-repair / 2` | `=this.elec-repair / 5`
-	- [ ] Fast talk:: 5
-		- `=this.fast-talk / 2` | `=this.fast-talk / 5`
+		 - `=this.acting / 2` | `=this.acting / 5`
+	- [ ] Anthropology:: 1
+		 - `=this.anthropology / 2` | `=this.anthropology / 5`
+	- [ ] Appraise:: 5
+		 - `=this.appraise / 2` | `=this.appraise / 5`
+	- [ ] Archaeology:: 1
+		 - `=this.archaeology / 2` | `=this.archaeology / 5`
 	- [ ] Brawl:: 25
-		- `=this.brawl / 2` | `=this.brawl / 5`
-	- [ ] Handgun:: 50
-		- `=this.handgun / 2` | `=this.handgun / 5`
-- # Skills
-
-	- [ ] Longarms:: 25
-		- `=this.longarms / 2` | `=this.longarms / 5`
+		 - `=this.brawl / 2` | `=this.brawl / 5`
+	- [ ] Charm:: 75
+		 - `=this.charm / 2` | `=this.charm / 5`
+	- [ ] Climb:: 20
+		 - `=this.climb / 2` | `=this.climb / 5`
+	- [ ] Credit rating:: 65
+		 - `=this.credit-rating / 2` | `=this.credit-rating / 5`
+	- [ ] Cthulhu mythos:: 0
+		 - `=this.cthulhu-mythos / 2` | `=this.cthulhu-mythos / 5`
+	- [ ] Disguise:: 5
+		 - `=this.disguise / 2` | `=this.disguise / 5`
+	- [ ] Dodge:: 70
+		 - `=this.dodge / 2` | `=this.dodge / 5`
+	- [ ] Drive auto:: 20
+		 - `=this.drive-auto / 2` | `=this.drive-auto / 5`
+	- [ ] Elec repair:: 10
+		 - `=this.elec-repair / 2` | `=this.elec-repair / 5`
+	- [ ] Fast talk:: 5
+		 - `=this.fast-talk / 2` | `=this.fast-talk / 5`
 	- [ ] First aid:: 30
-		- `=this.first-aid / 2` | `=this.first-aid / 5`
-	- [ ] History:: 5
-		- `=this.history / 2` | `=this.history / 5`
-	- [ ] Intimidate:: 15
-		- `=this.intimidate / 2` | `=this.intimidate / 5`
-	- [ ] Jump:: 20
-		- `=this.jump / 2` | `=this.jump / 5`
-	- [ ] Lang-French:: 31
-		- `=this.lang-french / 2` | `=this.lang-french / 5`
-	- [ ] Lang-English:: 70
-		- `=this.Lang-English / 2` | `=this.Lang-English / 5`
-	- [ ] Law:: 5
-		- `=this.law / 2` | `=this.law / 5`
-	- [ ] Library:: 40
-		- `=this.library / 2` | `=this.library / 5`
-	- [ ] Listen:: 40
-		- `=this.listen / 2` | `=this.listen / 5`
-	- [ ] Locksmith:: 1
-		- `=this.locksmith / 2` | `=this.locksmith / 5`
-	- [ ] Mech repair:: 10
-		- `=this.mech-repair / 2` | `=this.mech-repair / 5`
-	- [ ] Medicine:: 1
-		- `=this.medicine / 2` | `=this.medicine / 5`
-	- [ ] Natural world:: 10
-		- `=this.natural-world / 2` | `=this.natural-world / 5`
-	- [ ] Navigate:: 10
-		- `=this.navigate / 2` | `=this.navigate / 5`
-	- [ ] Occult:: 5
-		- `=this.occult / 2` | `=this.occult / 5`
-- # Skills
-
+		 - `=this.first-aid / 2` | `=this.first-aid / 5`
+- #
+	- [ ] Handgun:: 50
+		 - `=this.handgun / 2` | `=this.handgun / 5`
 	- [ ] Heavy machine:: 1
-		- `=this.heavy-machine / 2` | `=this.heavy-machine / 5`
+		 - `=this.heavy-machine / 2` | `=this.heavy-machine / 5`
+	- [ ] History:: 5
+		 - `=this.history / 2` | `=this.history / 5`
+	- [ ] Intimidate:: 15
+		 - `=this.intimidate / 2` | `=this.intimidate / 5`
+	- [ ] Jump:: 20
+		 - `=this.jump / 2` | `=this.jump / 5`
+	- [ ] Lang-English:: 70
+		 - `=this.Lang-English / 2` | `=this.Lang-English / 5`
+	- [ ] Lang-French:: 31
+		 - `=this.lang-french / 2` | `=this.lang-french / 5`
+	- [ ] Law:: 5
+		 - `=this.law / 2` | `=this.law / 5`
+	- [ ] Library:: 40
+		 - `=this.library / 2` | `=this.library / 5`
+	- [ ] Listen:: 40
+		 - `=this.listen / 2` | `=this.listen / 5`
+	- [ ] Locksmith:: 1
+		 - `=this.locksmith / 2` | `=this.locksmith / 5`
+	- [ ] Longarms:: 25
+		 - `=this.longarms / 2` | `=this.longarms / 5`
+	- [ ] Mech repair:: 10
+		 - `=this.mech-repair / 2` | `=this.mech-repair / 5`
+	- [ ] Medicine:: 1
+		 - `=this.medicine / 2` | `=this.medicine / 5`
+	- [ ] Natural world:: 10
+		 - `=this.natural-world / 2` | `=this.natural-world / 5`
+	- [ ] Navigate:: 10
+		 - `=this.navigate / 2` | `=this.navigate / 5`
+ - #
+	- [ ] Occult:: 5
+		 - `=this.occult / 2` | `=this.occult / 5`
 	- [ ] Persuade:: 10
-		- `=this.persuade / 2` | `=this.persuade / 5`
+		 - `=this.persuade / 2` | `=this.persuade / 5`
 	- [ ] Pilot:: 1
-		- `=this.pilot / 2` | `=this.pilot / 5`
-	- [ ] Psychology:: 50
-		- `=this.psychology / 2` | `=this.psychology / 5`
+		 - `=this.pilot / 2` | `=this.pilot / 5`
 	- [ ] Psychoanalysis:: 50
-		- `=this.psychoanalysis / 2` | `=this.psychoanalysis / 5`
+		 - `=this.psychoanalysis / 2` | `=this.psychoanalysis / 5`
+	- [ ] Psychology:: 50
+		 - `=this.psychology / 2` | `=this.psychology / 5`
 	- [ ] Ride:: 5
-		- `=this.ride / 2` | `=this.ride / 5`
+		 - `=this.ride / 2` | `=this.ride / 5`
 	- [ ] Science:: 1
-		- `=this.science / 2` | `=this.science / 5`
+		 - `=this.science / 2` | `=this.science / 5`
 	- [ ] Sleight of hand:: 10
-		- `=this.sleight-of-hand / 2` | `=this.sleight-of-hand / 5`
+		 - `=this.sleight-of-hand / 2` | `=this.sleight-of-hand / 5`
 	- [ ] Spot hidden:: 55
-		- `=this.spot-hidden / 2` | `=this.spot-hidden / 5`
+		 - `=this.spot-hidden / 2` | `=this.spot-hidden / 5`
 	- [ ] Stealth:: 20
-		- `=this.stealth / 2` | `=this.stealth / 5`
+		 - `=this.stealth / 2` | `=this.stealth / 5`
 	- [ ] Survival:: 10
-		- `=this.survival / 2` | `=this.survival / 5`
+		 - `=this.survival / 2` | `=this.survival / 5`
 	- [ ] Swim:: 20
-		- `=this.swim / 2` | `=this.swim / 5`
+		 - `=this.swim / 2` | `=this.swim / 5`
 	- [ ] Throw:: 20
-		- `=this.throw / 2` | `=this.throw / 5`
+		 - `=this.throw / 2` | `=this.throw / 5`
 	- [ ] Track:: 10
-		- `=this.track / 2` | `=this.track / 5`
-
+		 - `=this.track / 2` | `=this.track / 5`
 
 
 # Combat 
-**<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: +5D6"> Determining the DB manually</i>**
-Str + Size:\: `=this.str + this.siz`
-**DB**:: 2D6
+**<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: +5D6"> Str + Size:\: `=this.str + this.siz`</i>**
+**DB**:: "2D6"
 **Dodge**:\: `=this.dodge` | `=this.dodge / 2` | `=this.dodge / 5`
 
 
