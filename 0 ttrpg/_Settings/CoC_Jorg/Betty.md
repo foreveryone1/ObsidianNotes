@@ -147,8 +147,6 @@ Lose all sanity - lose your character forever%%
 **DB**:: "2D6"
 **Dodge**:\: `=this.dodge` | `=this.dodge / 2` | `=this.dodge / 5`
 
-
-
 | Weapon     | Regular       | Hard            | Extreme           | Damage           | Range | Attacks | Ammo | Malf |
 | ---------- | ------------- | --------------- | ----------------- | ---------------- | ----- | ------- | ---- | ---- |
 | Unarmed    | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d3 + `=this.db` | -     | 1       | -    | -    |
