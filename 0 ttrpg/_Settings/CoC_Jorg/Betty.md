@@ -187,3 +187,5 @@ define:: test
 ```
 
 `=this.define`
+
+=> =/= /=/ -> <= >= =>
