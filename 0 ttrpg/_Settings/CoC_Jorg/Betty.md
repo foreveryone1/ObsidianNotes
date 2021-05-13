@@ -180,12 +180,9 @@ Lose all sanity - lose your character forever%%
 		- small house
 		- small house
 		- beach buggy
-	
-
-```
+```	
+~~~
 define:: test
+
+~~~
 ```
-
-`=this.define`
-
-=> =/= /=/ -> <= >= =>
