@@ -86,3 +86,23 @@ span.cm-header.cm-header-6,
 
 
 .markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3, .markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6{font-family: 'Atkinson Hyperlegible'}
+
+[data-heading*="heading"] {
+  display: flex;
+    width: 100%;
+    align-items: center;
+}
+[data-heading*="heading"]:before,
+[data-heading*="heading"]:after{
+    content: '';
+    background: #434C5E;
+    height: 2px;
+    margin: .2em;
+    flex: 1;
+}
+[data-heading*="heading"] > a {
+    padding: 0 0.25em!important;
+}
+[data-heading*="heading"] hr {
+    margin: .4em;
+}

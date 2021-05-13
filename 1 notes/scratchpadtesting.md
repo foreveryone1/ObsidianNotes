@@ -53,7 +53,7 @@ some more text that I'm just going to plop down and let it write on and on and o
 	</i>
 </i>
 
-# heading
+#   remove it and the formatting disappears heading
 ## heading 2
 ### heading 3
 #### heading 4
