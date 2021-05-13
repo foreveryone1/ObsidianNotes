@@ -6,8 +6,6 @@ data: |
     Please don't sit on the floor"
     So he carefully sat on the ceiling
 ---
-- ![[#Heading one]]
-- ![[#Heading two]]
 
 ## Heading one
 So this is some text that I want to display in two columns
@@ -60,4 +58,4 @@ some more text that I'm just going to plop down and let it write on and on and o
 ##### heading 5
 ###### heading 6
 
-![[Betty]]
+`=file.tags`
