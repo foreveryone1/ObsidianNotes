@@ -21,5 +21,5 @@ attackstat::
 > **+`=this.spellcasting` modifier / +`=this.spellcasting+this.prof` to hit / DC `=this.spellcasting+this.prof+8`**
 ### Traits and Powers
 #### Phase 1
-- ![[m
+- ![[
 ### Actions
