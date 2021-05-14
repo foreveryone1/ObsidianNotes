@@ -103,3 +103,9 @@ span.cm-header.cm-header-6,
 [data-heading*="this.file.name"] > a {
     padding: 0 0.25em!important;
 }
+
+ul.dataview.list-view-ul li {display: inline;}
+ul.dataview.list-view-ul li~li::before {
+font-weight: 900;
+content: " · "
+}
