@@ -63,3 +63,10 @@ text:: words
 # `=this.file.name`
 
 [example monster](0%20ttrpg/example%20monster.md)
+
+%%~~comment
+
+words
+
+words
+~~%% Regular text %%regular comment%%
