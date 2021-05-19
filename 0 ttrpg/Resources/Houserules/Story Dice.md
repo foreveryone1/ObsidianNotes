@@ -24,3 +24,6 @@ A story die can be expended to roll a d20 again, using that result. If a roll wa
 When a character rolls a natural one in combat or when making a check in a volatile situation, a story die can be expended to escalate the degree of failure.
 
 For example, a natural one on attack can lead to a reaction counter-attack, and a natural one while climbing a cliff can lead to a devastating fall, **if** the dungeon master expends a story die.
+
+
+![circle](obsidian.md/Attachments/circle.png)
