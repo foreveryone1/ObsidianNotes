@@ -26,6 +26,6 @@ netsh interface ipv6 set dnsserver "Wi-Fi" dhcp
 netsh interface ipv6 set dnsserver "ethernet" dhcp
 ```
 
-sds
 
-“I”
+
+“I think it's your font, because these quotation marks render as angled symbols.”
