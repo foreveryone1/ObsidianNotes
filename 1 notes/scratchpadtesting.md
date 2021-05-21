@@ -70,3 +70,12 @@ words
 
 words
 ~~%% Regular text %%regular comment%%
+
+
+
+
+~~~
+```
+text
+```
+~~~
