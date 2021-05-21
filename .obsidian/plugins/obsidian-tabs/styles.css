@@ -294,6 +294,11 @@ padding-right: 10px;
 
 .plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical .workspace-split.mod-horizontal div.workspace-leaf.mod-active .view-header,
 .plugin-tabs:not(.tab-numbering) .mod-root.workspace-split.mod-vertical.maximised > div.workspace-leaf.mod-active .view-header{
-border-left-width: 1px;
+border-left-width: 2px;
 border-top-width: 2px
+}
+
+.plugin-tabs .workspace-split.mod-root > .workspace-leaf:last-of-type .workspace-leaf-content,
+.plugin-tabs .workspace-split.mod-root > .workspace-leaf:first-of-type .workspace-leaf-content {
+    border-radius: 0px!important;
 }
