@@ -9,11 +9,11 @@ attackstat::
 ## Monster Name
 - ## Attributes
 	- <br><br><br><br><br>
-- ![[LVL|stats]]
-- ![[LVL|stats2]]** 2 Attacks** <br>To hit: `=this.attackstat+this.prof` [`dice: 1d8`] <br>[damagedie and type] `dice: 1d8`
-- ![[size|narrow]]
-- ![[type|narrow]]
-- ![[speed_walk|narrow]]
+- ![[LVL|stats]] %%stats%%
+- ![[LVL|stats2]]%%stats2%%** 2 Attacks** <br>To hit: `=this.attackstat+this.prof` [`dice: 1d8`] <br>[damagedie and type] `dice: 1d8`
+- ![[size|narrow]]%%narrow%%
+- ![[type|narrow]]%%narrow%%
+- ![[speed_walk|narrow]]%%narrow%%
 	- ###### ft.
 
 ### Skills
