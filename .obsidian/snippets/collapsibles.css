@@ -1,0 +1,22 @@
+ul li [data-heading*="hidable"]  {display: none;}
+ul [data-task="c"] {margin-left: -40px; border-left: 1em solid #BEDDDDC8; background-color: #BEDDDD80;padding-top:5px; padding-left:0px; border-radius: 6px}
+ul [data-task="c"] i {font-style: normal;}
+ul li [data-heading*="hidable"] + .contains-task-list {padding-left: 0}
+
+ul li [data-heading*="hidable"] + .contains-task-list li::marker {color: transparent;}
+
+ul li [data-heading*="hidable"] + .contains-task-list li[data-line="1"] {padding-left: 10px}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item ~ li {padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: var(--background-secondary); border-bottom-right-radius: 6px; border-bottom-left-radius: 6px;}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked ~ li {display: none}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked + li {display: list-item;}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item:not(.is-checked) + li {display: none;}
+
+
+ul li [data-heading*="hidable"] + .contains-task-list li[data-line="1"],
+ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item {display: inline-block;}
+ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item {float: right;}
+ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item input {top: 0px;}
+
+ul [data-task="c"] > input,
+ul [data-task="c"] > .list-collapse-indicator {
+display: none;} 

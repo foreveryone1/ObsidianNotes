@@ -1,20 +1,12 @@
 
 [[Weathergen.xlsm - Shortcut.lnk]]
 
+- [c] # hidable
+  - Title
+  - [x] 
+  - <i>Collapsed text
+line breaks are possible as well without issues
+as is ==markdown== ***formatting***</i>
+  - <i>Expanded text [cycling tracker](1%20notes/cycling%20tracker.md) and links show up in the graph </i>
 
-![[token_example.png]] Test
 
-`=[[scratchpadtesting]].data`
-
-- [x] Title
-	- [x] 
-
-```js
-text
-```
-
-- # hidable
-  - [ ] Title
-  - <i>sdsd
-sdsdsdsdsdsd
-sdsdsd</i>
