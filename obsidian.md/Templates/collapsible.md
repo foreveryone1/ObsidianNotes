@@ -1,0 +1,5 @@
+- [c] # hidable
+  - Title
+  - [x] 
+  - <i>Collapsed text</i>
+  - <i>Expanded text</i>
