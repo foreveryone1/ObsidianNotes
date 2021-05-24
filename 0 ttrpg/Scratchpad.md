@@ -1,6 +1,4 @@
----
-mood: 🟢
----
+
 [[Weathergen.xlsm - Shortcut.lnk]]
 
 
@@ -8,9 +6,15 @@ mood: 🟢
 
 `=[[scratchpadtesting]].data`
 
-- # Title
+- [x] Title
 	- [x] 
 
 ```js
 text
 ```
+
+- # hidable
+  - [ ] Title
+  - <i>sdsd
+sdsdsdsdsdsd
+sdsdsd</i>

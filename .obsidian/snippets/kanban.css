@@ -113,6 +113,10 @@ margin-right: 8px;
 .kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
 margin-left: 0px;
 }
+
+.kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + .task-list-item-checkbox{
+margin-left: 15px;
+}
 .kanban ul li .list-collapse-indicator.collapse-indicator.collapse-icon + span > div.markdown-embed .markdown-preview-view {
 padding-left: 0px;
 }
