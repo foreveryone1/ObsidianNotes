@@ -144,7 +144,7 @@ Lose all sanity - lose your character forever%%
 
 # Combat 
 **<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: +5D6"> Str + Size:\: `=this.str + this.siz`</i>**
-**DB**:: "2D6"
+**DB**:: "0"
 **Dodge**:\: `=this.dodge` | `=this.dodge / 2` | `=this.dodge / 5`
 
 | Weapon     | Regular       | Hard            | Extreme           | Damage           | Range | Attacks | Ammo | Malf |
@@ -180,9 +180,3 @@ Lose all sanity - lose your character forever%%
 		- small house
 		- small house
 		- beach buggy
-```	
-~~~
-define:: test
-
-~~~
-```
