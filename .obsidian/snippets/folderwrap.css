@@ -1,10 +1,12 @@
 .nav-file-title, .nav-folder-title {
     white-space: normal;
     width: auto;
-    border-radius: var(--border-radius);
     word-wrap: break-word;
 }
-
+.nav-file-title-content{
+    padding-left: 3em;
+    text-indent:-3em;
+}
 .nav-folder-children .nav-folder-title-content::before {
     content: '📁'/*\1F5BF*/;
     text-shadow: 0 0 0 var(--interactive-accent);
