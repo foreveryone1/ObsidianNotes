@@ -1,0 +1,8 @@
+.tree-item-inner{
+    padding-left: 1em;
+    text-indent:-1em;
+	white-space: normal;
+    width: auto;
+    word-wrap: break-word;
+    line-height: 1.25rem;
+}
