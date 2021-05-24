@@ -1,22 +1,35 @@
-ul li [data-heading*="hidable"]  {display: none;}
-ul [data-task="c"] {margin-left: -40px; border-left: 1em solid #BEDDDDC8; background-color: #BEDDDD80;padding-top:5px; padding-left:0px; border-radius: 6px}
-ul [data-task="c"] i {font-style: normal;}
-ul li [data-heading*="hidable"] + .contains-task-list {padding-left: 0}
+@font-face {
+    font-family: 'Glyphter-Collapsible';
+    src: url('data:font/ttf;charset=utf-8;base64,AAEAAAANAIAAAwBQRkZUTY9E458AAAbQAAAAHEdERUYAKQALAAAGsAAAAB5PUy8yVq1jNQAAAVgAAABWY21hcASVA4AAAAHEAAABSmdhc3D//wADAAAGqAAAAAhnbHlmtPk/HQAAAxwAAADYaGVhZBzBAZUAAADcAAAANmhoZWEIXwQEAAABFAAAACRobXR4DAEAAQAAAbAAAAASbG9jYQA2AGwAAAMQAAAADG1heHABEQAqAAABOAAAACBuYW1l/xqqjwAAA/QAAAKIcG9zdAA2ACgAAAZ8AAAALAABAAAAAQAADeb4bl8PPPUACwQAAAAAANzQXksAAAAA3NBeSwABAAEEAQQBAAAACAACAAAAAAAAAAEAAAQAAAAAXAQAAAD//wQBAAEAAAAAAAAAAAAAAAAAAAAEAAEAAAAFAB4AAgAAAAAAAgAAAAoACgAAAP8AAAAAAAAAAQQAAZAABQAAAokCzAAAAI8CiQLMAAAB6wAyAQgAAAIABQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUGZFZABAAEEAQgQAAAAAXAQBAAAAAAABAAAAAAAABAAAAAAAAAAEAAAABAAAAQABAAAAAAADAAAAAwAAABwAAQAAAAAARAADAAEAAAAcAAQAKAAAAAYABAABAAIAAABC//8AAAAAAEH//wAA/8IAAQAAAAAAAAAAAQYAAAEAAAAAAAAAAQIAAAACAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYAbAACAAEAAQQBBAEAEwAdAAA3MikBPgE3ES4BJyEOAQcRHgEXMBMWHwE3FwkBNzByMgFdAY4wQAICQDD84zBAAQFAMJoQanv0UP68/rtQAQFAMAMdMEACAkAw/OMwQAECmQ9revRQ/rsBRVAAAAACAAEAAQQBBAEAEwAdAAA3MikBPgE3ES4BJyEOAQcRHgEXMAEWHwEHJwcnATByMgFdAY4wQAICQDD84zBAAQFAMAGPFI6iUPT1UAFFAQFAMAMdMEACAkAw/OMwQAEC+xWOolD09FABRQAAAAAAABIA3gABAAAAAAAAABUALAABAAAAAAABAAgAVAABAAAAAAACAAcAbQABAAAAAAADAAgAhwABAAAAAAAEAAgAogABAAAAAAAFAAsAwwABAAAAAAAGAAgA4QABAAAAAAAKACsBQgABAAAAAAALABMBlgADAAEECQAAACoAAAADAAEECQABABAAQgADAAEECQACAA4AXQADAAEECQADABAAdQADAAEECQAEABAAkAADAAEECQAFABYAqwADAAEECQAGABAAzwADAAEECQAKAFYA6gADAAEECQALACYBbgBHAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAEcAbAB5AHAAaAB0AGUAcgAAR2VuZXJhdGVkIGJ5IEdseXBodGVyAABHAGwAeQBwAGgAdABlAHIAAEdseXBodGVyAABSAGUAZwB1AGwAYQByAABSZWd1bGFyAABHAGwAeQBwAGgAdABlAHIAAEdseXBodGVyAABHAGwAeQBwAGgAdABlAHIAAEdseXBodGVyAABWAGUAcgBzAGkAbwBuACAAMQAuADAAAFZlcnNpb24gMS4wAABHAGwAeQBwAGgAdABlAHIAAEdseXBodGVyAABHAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAHMAdgBnADIAdAB0AGYAIABmAHIAbwBtACAARgBvAG4AdABlAGwAbABvACAAcAByAG8AagBlAGMAdAAuAABHZW5lcmF0ZWQgYnkgc3ZnMnR0ZiBmcm9tIEZvbnRlbGxvIHByb2plY3QuAABoAHQAdABwADoALwAvAGYAbwBuAHQAZQBsAGwAbwAuAGMAbwBtAABodHRwOi8vZm9udGVsbG8uY29tAAACAAAAAAAAAAoAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAUAAAABAAIAJAAlAAAAAf//AAIAAQAAAAwAAAAWAAAAAgABAAMABAABAAQAAAACAAAAAAAAAAEAAAAA1aQnCAAAAADc0F5LAAAAANzQXks=') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
+ul [data-task="c"] i {font-style: normal; display: block; padding-top: 5px}
+
+ul li [data-heading*="hidable"],
+ul [data-task="c"] > input,
+ul [data-task="c"] > .list-collapse-indicator {
+display: none;} 
+
+ul li [data-heading*="hidable"] + .contains-task-list li:first-of-type,
+ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item {display: inline-block;}
+
+ul [data-task="c"] {margin-left: -40px; border-left: 1em solid #BEDDDDC8; background-color: #BEDDDD80;padding-top:5px!important; padding-left:0px; border-radius: 6px}
+
+ul li [data-heading*="hidable"] + .contains-task-list {padding-left: 0}
 ul li [data-heading*="hidable"] + .contains-task-list li::marker {color: transparent;}
 
-ul li [data-heading*="hidable"] + .contains-task-list li[data-line="1"] {padding-left: 10px}
+ul li [data-heading*="hidable"] + .contains-task-list li:first-of-type {padding-left: 10px}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item ~ li {padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: var(--background-secondary); border-bottom-right-radius: 6px; border-bottom-left-radius: 6px;}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked ~ li {display: none}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked + li {display: list-item;}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item:not(.is-checked) + li {display: none;}
 
 
-ul li [data-heading*="hidable"] + .contains-task-list li[data-line="1"],
-ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item {display: inline-block;}
-ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item {float: right;}
-ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item input {top: 0px;}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item {float: right;}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item input {top: 0px; visibility: hidden;}
 
-ul [data-task="c"] > input,
-ul [data-task="c"] > .list-collapse-indicator {
-display: none;} 
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item .task-list-item-checkbox::before {color: rgb(89,111,129); position:relative; top:-1px; left: -1px; visibility:visible; content: 'B'; font-family: 'Glyphter-Collapsible'}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked .task-list-item-checkbox::before {color: rgb(89,111,129); position:relative; top:-1px; left: -1px; visibility:visible; content: 'A'; font-family: 'Glyphter-Collapsible'}'

@@ -1,12 +1,9 @@
-
 [[Weathergen.xlsm - Shortcut.lnk]]
 
 - [c] # hidable
-  - Title
-  - [x] 
-  - <i>Collapsed text
-line breaks are possible as well without issues
-as is ==markdown== ***formatting***</i>
-  - <i>Expanded text [cycling tracker](1%20notes/cycling%20tracker.md) and links show up in the graph </i>
-
-
+  - 📚 **Premise**
+  - [ ] 
+  - <i>The short premise is the premise without much text to it.</i>
+  - <i>The long premise is much longer.
+It even has text on a new line!
+As well as **markdown** formatting.</i>
