@@ -5,3 +5,5 @@ passive-arcana::
 passive-history::
 passive-nature::
 passive-religion::
+passive-insight::
+senses::

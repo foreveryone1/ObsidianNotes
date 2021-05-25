@@ -1,7 +1,9 @@
 #pc
-passive-perception::
-passive-investigation::
-passive-arcana::
-passive-history::
-passive-nature::
-passive-religion::
+passive-perception::12
+passive-investigation::11
+passive-arcana::11
+passive-history::11
+passive-nature::11
+passive-religion::11
+passive-insight::12
+senses::
