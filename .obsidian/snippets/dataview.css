@@ -19,3 +19,5 @@ font-family: 'Atkinson Hyperlegible';
 .dataview.table-view-table .table-view-tbody tr:hover,.dataview.table-view-table .table-view-tbody td:hover{
   background-color: #ffffff70;
 }
+
+img[alt*="rotate90"]{ transform: rotate(90deg);}
