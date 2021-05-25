@@ -1,4 +1,4 @@
-[[Weathergen.xlsm - Shortcut.lnk]]
+[Weathergen](obsidian.md/Attachments/Weathergen.xlsm%20-%20Shortcut.lnk)
 
 - [c] # hidable
   - 📚 **Premise**
