@@ -80,7 +80,4 @@ words
  	- intrinsic factor: low doses: protein made by stomach parietal cells that bind to B12 and delivers it from ileum via calcium mediated events
 	- mass action \[high doses]: 1000mg/day, absorbed via [[simple_passive_active transport|passive diffusion]]
 
-# header
-test
-
-	sdsd
+![[token_example.png|rotate90|grayscale|200]]
