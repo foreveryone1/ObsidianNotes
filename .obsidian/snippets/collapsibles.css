@@ -16,7 +16,7 @@ display: none;}
 ul li [data-heading*="hidable"] + .contains-task-list li:first-of-type,
 ul li [data-heading*="hidable"] + .contains-task-list li.task-list-item {display: inline-block;}
 
-ul [data-task="c"] {margin-left: -40px; border-left: 1em solid #BEDDDDC8; background-color: #BEDDDD80;padding-top:5px!important; padding-left:0px; border-radius: 6px}
+ul [data-task="c"] {margin-left: -40px; border-left: 0.4em solid #BEDDDDC8; background-color: #BEDDDD80;padding-top:5px!important; padding-left:0px; border-radius: 6px}
 
 ul li [data-heading*="hidable"] + .contains-task-list {padding-left: 0}
 ul li [data-heading*="hidable"] + .contains-task-list li::marker {color: transparent;}
