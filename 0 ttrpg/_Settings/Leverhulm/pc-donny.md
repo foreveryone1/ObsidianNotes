@@ -1,6 +1,6 @@
 #pc
 name::[Donny](0%20ttrpg/_Settings/Leverhulm/pc-donny.md)
-present::yes
+present:: no
 passive-perception::
 passive-investigation::
 passive-arcana::
