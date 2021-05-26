@@ -1,4 +1,7 @@
 #pc
+name::[Jimbo](0%20ttrpg/_Settings/Leverhulm/pc-jimbo.md)
+present::yes
+present::yes
 passive-perception::12
 passive-investigation::11
 passive-arcana::11

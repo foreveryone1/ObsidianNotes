@@ -1,4 +1,6 @@
+name::[Tictoc](0%20ttrpg/_Settings/Leverhulm/pc-tictoc.md)
 #pc
+present::yes
 passive-perception::9
 passive-investigation::19
 passive-arcana::15

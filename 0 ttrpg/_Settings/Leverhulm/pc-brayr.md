@@ -1,4 +1,6 @@
 #pc
+name::[Brayr](0%20ttrpg/_Settings/Leverhulm/pc-brayr.md)
+present::yes
 passive-perception::23
 passive-investigation::8
 passive-arcana::8

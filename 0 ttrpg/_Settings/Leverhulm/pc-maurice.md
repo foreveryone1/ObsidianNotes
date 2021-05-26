@@ -1,4 +1,6 @@
 #pc
+name::[Maurice](0%20ttrpg/_Settings/Leverhulm/pc-maurice.md)
+present::yes
 passive-perception:: 17
 passive-investigation::10
 passive-arcana::10

@@ -1,4 +1,6 @@
+name::[Berk](0%20ttrpg/_Settings/Leverhulm/pc-berk.md)
 #pc
+present:: yes
 passive-perception:: 12
 passive-investigation::9
 passive-arcana::9
