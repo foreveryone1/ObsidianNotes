@@ -23,9 +23,8 @@ ul li [data-heading*="hidable"] + .contains-task-list li::marker {color: transpa
 
 ul li [data-heading*="hidable"] + .contains-task-list li:first-of-type {padding-left: 10px}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item ~ li {padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: var(--background-secondary); border-bottom-right-radius: 6px;}
-ul li [data-heading*="hidable"] + .contains-task-list .task-list-item ~ li {display: none;}
+ul li [data-heading*="hidable"] + .contains-task-list .task-list-item:not(.is-checked) ~ li {display: none;}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item:not(.is-checked) + li {display: list-item;}
-ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked ~ li {display: list-item;}
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item.is-checked + li {display: none;}
 
 ul li [data-heading*="hidable"] + .contains-task-list .task-list-item {float: right;}
