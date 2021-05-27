@@ -21,3 +21,11 @@ font-family: 'Atkinson Hyperlegible';
 }
 
 img[alt*="rotate90"]{ transform: rotate(90deg);}
+
+.markdown-preview-view th {
+    padding-right: 17px;
+}
+
+.markdown-preview-view th, .markdown-preview-view td {
+    padding: 4px 7px;
+}
