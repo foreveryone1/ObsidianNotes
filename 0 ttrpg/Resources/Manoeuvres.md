@@ -38,7 +38,7 @@ Immediately after you hit a creature with a melee attack on your turn, you can e
 ## Lunging Attack
 When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
 
-Maneuvering Attack
+## Maneuvering Attack
 When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 
 ## Menacing Attack
