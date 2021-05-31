@@ -76,8 +76,8 @@ words
 ==words==
 
 
-- absorption of B12
- 	- intrinsic factor: low doses: protein made by stomach parietal cells that bind to B12 and delivers it from ileum via calcium mediated events
-	- mass action \[high doses]: 1000mg/day, absorbed via [[simple_passive_active transport|passive diffusion]]
 
-![[token_example.png|rotate90|grayscale|200]]
+
+
+$$1 + 1 = 2$$  
+text

@@ -9,31 +9,6 @@ function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'defau
 var fs_1__default = /*#__PURE__*/_interopDefaultLegacy(fs_1);
 var path_1__default = /*#__PURE__*/_interopDefaultLegacy(path_1);
 
-/*! *****************************************************************************
-Copyright (c) Microsoft Corporation.
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-***************************************************************************** */
-
-function __awaiter(thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-}
-
 var EditMode;
 (function (EditMode) {
     EditMode["AllSingle"] = "All Single";
@@ -3050,10 +3025,17 @@ class TextInputSuggest {
     onInputChanged() {
         const inputStr = this.inputEl.value;
         const suggestions = this.getSuggestions(inputStr);
+        if (!suggestions) {
+            this.close();
+            return;
+        }
         if (suggestions.length > 0) {
             this.suggest.setSuggestions(suggestions);
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
             this.open(this.app.dom.appContainerEl, this.inputEl);
+        }
+        else {
+            this.close();
         }
     }
     open(container, inputEl) {
@@ -3673,16 +3655,16 @@ class SingleValueTableEditorContent extends SvelteComponent {
 	}
 }
 
-function toggleHidden(div, hidden) {
-    if (div && !hidden) {
-        div.style.display = "none";
+function toggleHiddenEl(el, bShow) {
+    if (el && !bShow) {
+        el.style.display = "none";
         return true;
     }
-    else if (div && hidden) {
-        div.style.display = "block";
+    else if (el && bShow) {
+        el.style.display = "block";
         return false;
     }
-    return hidden;
+    return bShow;
 }
 class MetaEditSettingsTab extends obsidian.PluginSettingTab {
     constructor(app, plugin) {
@@ -3710,14 +3692,14 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             toggle
                 .setTooltip("Toggle Progress Properties")
                 .setValue(this.plugin.settings.ProgressProperties.enabled)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                .onChange(async (value) => {
                 if (value === this.plugin.settings.ProgressProperties.enabled)
                     return;
                 this.plugin.settings.ProgressProperties.enabled = value;
-                yield this.plugin.saveSettings();
-            }));
+                await this.plugin.saveSettings();
+            });
         })
-            .addExtraButton(button => button.onClick(() => hidden = toggleHidden(div, hidden)));
+            .addExtraButton(button => button.onClick(() => hidden = toggleHiddenEl(div, hidden)));
         div = setting.settingEl.createDiv();
         setting.settingEl.style.display = "block";
         div.style.display = "none";
@@ -3725,10 +3707,10 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             target: div,
             props: {
                 properties: this.plugin.settings.ProgressProperties.properties,
-                save: (progressProperties) => __awaiter(this, void 0, void 0, function* () {
+                save: async (progressProperties) => {
                     this.plugin.settings.ProgressProperties.properties = progressProperties;
-                    yield this.plugin.saveSettings();
-                })
+                    await this.plugin.saveSettings();
+                }
             },
         });
         this.svelteElements.push(modal);
@@ -3742,14 +3724,14 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             toggle
                 .setTooltip("Toggle Auto Properties")
                 .setValue(this.plugin.settings.AutoProperties.enabled)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                .onChange(async (value) => {
                 if (value === this.plugin.settings.AutoProperties.enabled)
                     return;
                 this.plugin.settings.AutoProperties.enabled = value;
-                yield this.plugin.saveSettings();
-            }));
+                await this.plugin.saveSettings();
+            });
         })
-            .addExtraButton(b => b.onClick(() => hidden = toggleHidden(div, hidden)));
+            .addExtraButton(b => b.onClick(() => hidden = toggleHiddenEl(div, hidden)));
         div = setting.settingEl.createDiv();
         setting.settingEl.style.display = "block";
         div.style.display = "none";
@@ -3757,10 +3739,10 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             target: div,
             props: {
                 autoProperties: this.plugin.settings.AutoProperties.properties,
-                save: (autoProperties) => __awaiter(this, void 0, void 0, function* () {
+                save: async (autoProperties) => {
                     this.plugin.settings.AutoProperties.properties = autoProperties;
-                    yield this.plugin.saveSettings();
-                })
+                    await this.plugin.saveSettings();
+                }
             },
         });
         this.svelteElements.push(modal);
@@ -3774,14 +3756,14 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             toggle
                 .setTooltip("Toggle Ignored Properties")
                 .setValue(this.plugin.settings.IgnoredProperties.enabled)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                .onChange(async (value) => {
                 if (value === this.plugin.settings.IgnoredProperties.enabled)
                     return;
                 this.plugin.settings.IgnoredProperties.enabled = value;
-                yield this.plugin.saveSettings();
+                await this.plugin.saveSettings();
                 this.display();
-            }));
-        }).addExtraButton(b => b.onClick(() => hidden = toggleHidden(div, hidden)));
+            });
+        }).addExtraButton(b => b.onClick(() => hidden = toggleHiddenEl(div, hidden)));
         if (this.plugin.settings.IgnoredProperties.enabled) {
             div = setting.settingEl.createDiv();
             setting.settingEl.style.display = "block";
@@ -3790,42 +3772,59 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
                 target: div,
                 props: {
                     properties: this.plugin.settings.IgnoredProperties.properties,
-                    save: (ignoredProperties) => __awaiter(this, void 0, void 0, function* () {
+                    save: async (ignoredProperties) => {
                         this.plugin.settings.IgnoredProperties.properties = ignoredProperties;
-                        yield this.plugin.saveSettings();
-                    })
+                        await this.plugin.saveSettings();
+                    }
                 },
             });
             this.svelteElements.push(modal);
         }
     }
     addEditModeSetting(containerEl) {
-        let modal, div, hidden = true;
+        let modal, div, bDivToggle = true, extraButtonEl;
+        // For linebreaks
+        const df = new DocumentFragment();
+        df.createEl('p', { text: "Single: property values are just one value. " });
+        df.createEl('p', { text: "Multi: properties are arrays. " });
+        df.createEl('p', { text: "Some Multi: all options are single, except those specified in the settings (click button)." });
         const setting = new obsidian.Setting(containerEl)
             .setName("Edit Mode")
-            .setDesc("Single: property values are just one value. Multi: properties are arrays.")
+            .setDesc(df)
             .addDropdown(dropdown => {
             dropdown
                 .addOption(EditMode.AllSingle, EditMode.AllSingle)
                 .addOption(EditMode.AllMulti, EditMode.AllMulti)
                 .addOption(EditMode.SomeMulti, EditMode.SomeMulti)
                 .setValue(this.plugin.settings.EditMode.mode)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                .onChange(async (value) => {
                 switch (value) {
                     case EditMode.AllMulti:
                         this.plugin.settings.EditMode.mode = EditMode.AllMulti;
+                        toggleHiddenEl(extraButtonEl, false);
+                        bDivToggle = toggleHiddenEl(div, false);
                         break;
                     case EditMode.AllSingle:
                         this.plugin.settings.EditMode.mode = EditMode.AllSingle;
+                        toggleHiddenEl(extraButtonEl, false);
+                        bDivToggle = toggleHiddenEl(div, false);
                         break;
                     case EditMode.SomeMulti:
                         this.plugin.settings.EditMode.mode = EditMode.SomeMulti;
+                        toggleHiddenEl(extraButtonEl, true);
                         break;
                 }
-                yield this.plugin.saveSettings();
-            }));
+                await this.plugin.saveSettings();
+            });
         })
-            .addExtraButton(b => b.onClick(() => hidden = toggleHidden(div, hidden)));
+            .addExtraButton(b => {
+            extraButtonEl = b.extraSettingsEl;
+            b.setTooltip("Configure which properties are Multi.");
+            return b.onClick(() => bDivToggle = toggleHiddenEl(div, bDivToggle));
+        });
+        if (this.plugin.settings.EditMode.mode != EditMode.SomeMulti) {
+            toggleHiddenEl(extraButtonEl, false);
+        }
         div = setting.settingEl.createDiv();
         setting.settingEl.style.display = "block";
         div.style.display = "none";
@@ -3833,10 +3832,10 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             target: div,
             props: {
                 properties: this.plugin.settings.EditMode.properties,
-                save: (properties) => __awaiter(this, void 0, void 0, function* () {
+                save: async (properties) => {
                     this.plugin.settings.EditMode.properties = properties;
-                    yield this.plugin.saveSettings();
-                })
+                    await this.plugin.saveSettings();
+                }
             },
         });
         this.svelteElements.push(modal);
@@ -3854,14 +3853,14 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             toggle
                 .setTooltip("Toggle Kanban Helper")
                 .setValue(this.plugin.settings.KanbanHelper.enabled)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                .onChange(async (value) => {
                 if (value === this.plugin.settings.KanbanHelper.enabled)
                     return;
                 this.plugin.settings.KanbanHelper.enabled = value;
-                yield this.plugin.saveSettings();
-            }));
+                await this.plugin.saveSettings();
+            });
         })
-            .addExtraButton(button => button.onClick(() => hidden = toggleHidden(div, hidden)));
+            .addExtraButton(button => button.onClick(() => hidden = toggleHiddenEl(div, hidden)));
         div = setting.settingEl.createDiv();
         setting.settingEl.style.display = "block";
         div.style.display = "none";
@@ -3871,10 +3870,10 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
                 kanbanProperties: this.plugin.settings.KanbanHelper.boards,
                 boards: this.plugin.getFilesWithProperty("kanban-plugin"),
                 app: this.app,
-                save: (kanbanProperties) => __awaiter(this, void 0, void 0, function* () {
+                save: async (kanbanProperties) => {
                     this.plugin.settings.KanbanHelper.boards = kanbanProperties;
-                    yield this.plugin.saveSettings();
-                })
+                    await this.plugin.saveSettings();
+                }
             },
         });
         this.svelteElements.push(modal);
@@ -3887,13 +3886,13 @@ class MetaEditSettingsTab extends obsidian.PluginSettingTab {
             toggle
                 .setTooltip("Toggle UI elements")
                 .setValue(this.plugin.settings.UIElements.enabled)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                .onChange(async (value) => {
                 if (value === this.plugin.settings.UIElements.enabled)
                     return;
                 this.plugin.settings.UIElements.enabled = value;
                 value ? this.plugin.linkMenu.registerEvent() : this.plugin.linkMenu.unregisterEvent();
-                yield this.plugin.saveSettings();
-            }));
+                await this.plugin.saveSettings();
+            });
         });
     }
 }
@@ -4073,58 +4072,52 @@ class MetaEditSuggester extends obsidian.FuzzySuggestModal {
     getItems() {
         return utils.concat(this.options, this.data);
     }
-    onChooseItem(item, evt) {
-        return __awaiter(this, void 0, void 0, function* () {
-            if (item.content === newYaml) {
-                const newProperty = yield this.controller.createNewProperty(this.suggestValues);
-                if (!newProperty)
-                    return null;
-                const { propName, propValue } = newProperty;
-                yield this.controller.addYamlProp(propName, propValue, this.file);
-                return;
-            }
-            if (item.content === newDataView) {
-                const newProperty = yield this.controller.createNewProperty(this.suggestValues);
-                if (!newProperty)
-                    return null;
-                const { propName, propValue } = newProperty;
-                yield this.controller.addDataviewField(propName, propValue, this.file);
-                return;
-            }
-            yield this.controller.editMetaElement(item, this.data, this.file);
-        });
+    async onChooseItem(item, evt) {
+        if (item.content === newYaml) {
+            const newProperty = await this.controller.createNewProperty(this.suggestValues);
+            if (!newProperty)
+                return null;
+            const { propName, propValue } = newProperty;
+            await this.controller.addYamlProp(propName, propValue, this.file);
+            return;
+        }
+        if (item.content === newDataView) {
+            const newProperty = await this.controller.createNewProperty(this.suggestValues);
+            if (!newProperty)
+                return null;
+            const { propName, propValue } = newProperty;
+            await this.controller.addDataviewField(propName, propValue, this.file);
+            return;
+        }
+        await this.controller.editMetaElement(item, this.data, this.file);
     }
     deleteItem(item) {
-        return (evt) => __awaiter(this, void 0, void 0, function* () {
+        return async (evt) => {
             evt.stopPropagation();
-            yield this.controller.deleteProperty(item.item, this.file);
+            await this.controller.deleteProperty(item.item, this.file);
             this.close();
-        });
+        };
     }
     transformProperty(item) {
-        return (evt) => __awaiter(this, void 0, void 0, function* () {
+        return async (evt) => {
             evt.stopPropagation();
             const { item: property } = item;
             if (property.type === MetaType.YAML) {
-                yield this.toDataview(property);
+                await this.toDataview(property);
             }
             else {
-                yield this.toYaml(property);
+                await this.toYaml(property);
             }
             this.close();
-        });
+        };
     }
-    toYaml(property) {
-        return __awaiter(this, void 0, void 0, function* () {
-            yield this.controller.deleteProperty(property, this.file);
-            yield this.controller.addYamlProp(property.key, property.content, this.file);
-        });
+    async toYaml(property) {
+        await this.controller.deleteProperty(property, this.file);
+        await this.controller.addYamlProp(property.key, property.content, this.file);
     }
-    toDataview(property) {
-        return __awaiter(this, void 0, void 0, function* () {
-            yield this.controller.deleteProperty(property, this.file);
-            yield this.controller.addDataviewField(property.key, property.content, this.file);
-        });
+    async toDataview(property) {
+        await this.controller.deleteProperty(property, this.file);
+        await this.controller.addDataviewField(property.key, property.content, this.file);
     }
     createButton(el, content, callback) {
         const itemButton = el.createEl("button");
@@ -4158,51 +4151,45 @@ class MetaEditParser {
     constructor(app) {
         this.app = app;
     }
-    getTagsForFile(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const cache = this.app.metadataCache.getFileCache(file);
-            if (!cache)
-                return [];
-            const tags = cache.tags;
-            if (!tags)
-                return [];
-            let mTags = [];
-            tags.forEach(tag => mTags.push({ key: tag.tag, content: tag.tag, type: MetaType.Tag }));
-            return mTags;
-        });
+    async getTagsForFile(file) {
+        const cache = this.app.metadataCache.getFileCache(file);
+        if (!cache)
+            return [];
+        const tags = cache.tags;
+        if (!tags)
+            return [];
+        let mTags = [];
+        tags.forEach(tag => mTags.push({ key: tag.tag, content: tag.tag, type: MetaType.Tag }));
+        return mTags;
     }
-    parseFrontmatter(file) {
+    async parseFrontmatter(file) {
         var _a, _b;
-        return __awaiter(this, void 0, void 0, function* () {
-            const frontmatter = (_a = this.app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.frontmatter;
-            if (!frontmatter)
-                return [];
-            const { position: { start, end } } = frontmatter;
-            const filecontent = yield this.app.vault.cachedRead(file);
-            const yamlContent = filecontent.split("\n").slice(start.line, end.line).join("\n");
-            const parsedYaml = obsidian.parseYaml(yamlContent);
-            let metaYaml = [];
-            for (const key in parsedYaml) {
-                metaYaml.push({ key, content: (_b = parsedYaml[key]) === null || _b === void 0 ? void 0 : _b.toString(), type: MetaType.YAML });
-            }
-            return metaYaml;
-        });
+        const frontmatter = (_a = this.app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.frontmatter;
+        if (!frontmatter)
+            return [];
+        const { position: { start, end } } = frontmatter;
+        const filecontent = await this.app.vault.cachedRead(file);
+        const yamlContent = filecontent.split("\n").slice(start.line, end.line).join("\n");
+        const parsedYaml = obsidian.parseYaml(yamlContent);
+        let metaYaml = [];
+        for (const key in parsedYaml) {
+            metaYaml.push({ key, content: (_b = parsedYaml[key]) === null || _b === void 0 ? void 0 : _b.toString(), type: MetaType.YAML });
+        }
+        return metaYaml;
     }
-    parseInlineFields(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const content = yield this.app.vault.cachedRead(file);
-            return content.split("\n").reduce((obj, str) => {
-                let parts = str.split("::");
-                if (parts[0] && parts[1]) {
-                    obj.push({ key: parts[0], content: parts[1].trim(), type: MetaType.Dataview });
-                }
-                else if (str.includes("::")) {
-                    const key = str.replace("::", '');
-                    obj.push({ key, content: "", type: MetaType.Dataview });
-                }
-                return obj;
-            }, []);
-        });
+    async parseInlineFields(file) {
+        const content = await this.app.vault.cachedRead(file);
+        return content.split("\n").reduce((obj, str) => {
+            let parts = str.split("::");
+            if (parts[0] && parts[1]) {
+                obj.push({ key: parts[0], content: parts[1].trim(), type: MetaType.Dataview });
+            }
+            else if (str.includes("::")) {
+                const key = str.replace("::", '');
+                obj.push({ key, content: "", type: MetaType.Dataview });
+            }
+            return obj;
+        }, []);
     }
 }
 
@@ -4215,10 +4202,16 @@ class GenericTextSuggester extends TextInputSuggest {
     }
     getSuggestions(inputStr) {
         const inputLowerCase = inputStr.toLowerCase();
-        return this.items.map(item => {
+        const filtered = this.items.filter(item => {
             if (item.toLowerCase().contains(inputLowerCase))
                 return item;
         });
+        if (!filtered)
+            this.close();
+        if ((filtered === null || filtered === void 0 ? void 0 : filtered.length) === 1)
+            return [inputStr, ...filtered];
+        if ((filtered === null || filtered === void 0 ? void 0 : filtered.length) > 1)
+            return filtered;
     }
     selectSuggestion(item) {
         this.inputEl.value = item;
@@ -4372,6 +4365,7 @@ class GenericPromptContent extends SvelteComponent {
 class GenericPrompt extends obsidian.Modal {
     constructor(app, header, placeholder, value, suggestValues) {
         super(app);
+        this.didSubmit = false;
         this.modalContent = new GenericPromptContent({
             target: this.contentEl,
             props: {
@@ -4382,11 +4376,15 @@ class GenericPrompt extends obsidian.Modal {
                 suggestValues,
                 onSubmit: (input) => {
                     this.input = input;
+                    this.didSubmit = true;
                     this.close();
                 }
             }
         });
-        this.waitForClose = new Promise((resolve) => (this.resolvePromise = resolve));
+        this.waitForClose = new Promise((resolve, reject) => {
+            this.resolvePromise = resolve;
+            this.rejectPromise = reject;
+        });
         this.open();
     }
     static Prompt(app, header, placeholder, value, suggestValues) {
@@ -4403,7 +4401,10 @@ class GenericPrompt extends obsidian.Modal {
     onClose() {
         super.onClose();
         this.modalContent.$destroy();
-        this.resolvePromise(this.input);
+        if (!this.didSubmit)
+            this.rejectPromise("No input given.");
+        else
+            this.resolvePromise(this.input);
     }
 }
 
@@ -4440,277 +4441,251 @@ class MetaController {
         // @ts-ignore
         this.hasTrackerPlugin = !!this.app.plugins.plugins["obsidian-tracker"];
     }
-    getPropertiesInFile(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const yaml = yield this.parser.parseFrontmatter(file);
-            const inlineFields = yield this.parser.parseInlineFields(file);
-            const tags = yield this.parser.getTagsForFile(file);
-            return [...tags, ...yaml, ...inlineFields];
-        });
+    async getPropertiesInFile(file) {
+        const yaml = await this.parser.parseFrontmatter(file);
+        const inlineFields = await this.parser.parseInlineFields(file);
+        const tags = await this.parser.getTagsForFile(file);
+        return [...tags, ...yaml, ...inlineFields];
     }
-    addYamlProp(propName, propValue, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const fileContent = yield this.app.vault.cachedRead(file);
-            const frontmatter = this.app.metadataCache.getFileCache(file).frontmatter;
-            const isYamlEmpty = (frontmatter === undefined && !fileContent.match(/^-{3}\s*\n*\r*-{3}/));
-            const settings = this.plugin.settings;
-            if (settings.EditMode.mode === EditMode.AllMulti ||
-                (settings.EditMode.mode === EditMode.SomeMulti && settings.EditMode.properties.contains(propName))) {
-                propValue = `[${propValue}]`;
-            }
-            let splitContent = fileContent.split("\n");
-            if (isYamlEmpty) {
-                splitContent.unshift("---");
-                splitContent.unshift(`${propName}: ${propValue}`);
-                splitContent.unshift("---");
-            }
-            else {
-                splitContent.splice(1, 0, `${propName}: ${propValue}`);
-            }
-            const newFileContent = splitContent.join("\n");
-            yield this.app.vault.modify(file, newFileContent);
-        });
+    async addYamlProp(propName, propValue, file) {
+        const fileContent = await this.app.vault.read(file);
+        const frontmatter = this.app.metadataCache.getFileCache(file).frontmatter;
+        const isYamlEmpty = (frontmatter === undefined && !fileContent.match(/^-{3}\s*\n*\r*-{3}/));
+        const settings = this.plugin.settings;
+        if (settings.EditMode.mode === EditMode.AllMulti ||
+            (settings.EditMode.mode === EditMode.SomeMulti && settings.EditMode.properties.contains(propName))) {
+            propValue = `[${propValue}]`;
+        }
+        let splitContent = fileContent.split("\n");
+        if (isYamlEmpty) {
+            splitContent.unshift("---");
+            splitContent.unshift(`${propName}: ${propValue}`);
+            splitContent.unshift("---");
+        }
+        else {
+            splitContent.splice(1, 0, `${propName}: ${propValue}`);
+        }
+        const newFileContent = splitContent.join("\n");
+        await this.app.vault.modify(file, newFileContent);
     }
-    addDataviewField(propName, propValue, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const fileContent = yield this.app.vault.cachedRead(file);
-            let lines = fileContent.split("\n").reduce((obj, line, idx) => {
-                obj[idx] = !!line ? line : "";
-                return obj;
-            }, {});
-            let appendAfter = yield GenericSuggester.Suggest(this.app, Object.values(lines), Object.keys(lines));
-            if (!appendAfter)
-                return;
-            let splitContent = fileContent.split("\n");
-            if (typeof appendAfter === "number" || parseInt(appendAfter)) {
-                splitContent.splice(parseInt(appendAfter), 0, `${propName}:: ${propValue}`);
-            }
-            const newFileContent = splitContent.join("\n");
-            yield this.app.vault.modify(file, newFileContent);
-        });
+    async addDataviewField(propName, propValue, file) {
+        const fileContent = await this.app.vault.read(file);
+        let lines = fileContent.split("\n").reduce((obj, line, idx) => {
+            obj[idx] = !!line ? line : "";
+            return obj;
+        }, {});
+        let appendAfter = await GenericSuggester.Suggest(this.app, Object.values(lines), Object.keys(lines));
+        if (!appendAfter)
+            return;
+        let splitContent = fileContent.split("\n");
+        if (typeof appendAfter === "number" || parseInt(appendAfter)) {
+            splitContent.splice(parseInt(appendAfter), 0, `${propName}:: ${propValue}`);
+        }
+        const newFileContent = splitContent.join("\n");
+        await this.app.vault.modify(file, newFileContent);
     }
-    editMetaElement(property, meta, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const mode = this.plugin.settings.EditMode.mode;
-            if (property.type === MetaType.Tag)
-                yield this.editTag(property, file);
-            else if (mode === EditMode.AllMulti || mode === EditMode.SomeMulti)
-                yield this.multiValueMode(property, file);
-            else
-                yield this.standardMode(property, file);
-        });
+    async editMetaElement(property, meta, file) {
+        const mode = this.plugin.settings.EditMode.mode;
+        if (property.type === MetaType.Tag)
+            await this.editTag(property, file);
+        else if (mode === EditMode.AllMulti || mode === EditMode.SomeMulti)
+            await this.multiValueMode(property, file);
+        else
+            await this.standardMode(property, file);
     }
-    editTag(property, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const splitTag = property.key.split("/");
-            const allButLast = splitTag.slice(0, splitTag.length - 1).join("/");
-            const trackerPluginMethod = "Use Tracker", metaEditMethod = "Use MetaEdit", choices = [trackerPluginMethod, metaEditMethod];
-            let newValue;
-            let method = metaEditMethod;
-            if (this.hasTrackerPlugin)
-                method = yield GenericSuggester.Suggest(this.app, choices, choices);
-            if (!method)
-                return;
-            if (method === trackerPluginMethod) {
-                newValue = yield GenericPrompt.Prompt(this.app, `Enter a new value for ${property.key}`);
-                this.useTrackerPlugin = true;
-            }
-            else if (method === metaEditMethod) {
-                const autoProp = yield this.handleAutoProperties(allButLast);
-                if (autoProp)
-                    newValue = autoProp;
-                else
-                    newValue = yield GenericPrompt.Prompt(this.app, `Enter a new value for ${property.key}`);
-            }
-            if (newValue) {
-                yield this.updatePropertyInFile(property, newValue, file);
-            }
-        });
-    }
-    handleProgressProps(meta, file) {
-        var _a, _b;
-        return __awaiter(this, void 0, void 0, function* () {
-            try {
-                const { enabled, properties } = this.plugin.settings.ProgressProperties;
-                if (!enabled)
-                    return;
-                const tasks = (_b = (_a = this.app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.listItems) === null || _b === void 0 ? void 0 : _b.filter(li => li.task);
-                if (!tasks)
-                    return;
-                let total = 0, complete = 0, incomplete = 0;
-                total = tasks.length;
-                complete = tasks.filter(i => i.task != " ").length;
-                incomplete = total - complete;
-                const props = yield this.progressPropHelper(properties, meta, { total, complete, incomplete });
-                yield this.updateMultipleInFile(props, file);
-            }
-            catch (e) {
-                this.plugin.logError(e);
-            }
-        });
-    }
-    createNewProperty(suggestValues) {
-        return __awaiter(this, void 0, void 0, function* () {
-            let propName = yield GenericPrompt.Prompt(this.app, "Enter a property name", "Property", "", suggestValues);
-            if (!propName)
-                return null;
-            let propValue;
-            const autoProp = yield this.handleAutoProperties(propName);
-            if (autoProp) {
-                propValue = autoProp;
-            }
-            else {
-                propValue = yield GenericPrompt.Prompt(this.app, "Enter a property value", "Value");
-                propValue = propValue.trim();
-            }
-            if (!propValue)
-                return null;
-            return { propName, propValue };
-        });
-    }
-    deleteProperty(property, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const fileContent = yield this.app.vault.cachedRead(file);
-            const splitContent = fileContent.split("\n");
-            const regexp = new RegExp(`^\s*${property.key}:`);
-            const idx = splitContent.findIndex(s => s.match(regexp));
-            const newFileContent = splitContent.filter((v, i) => {
-                if (i != idx)
-                    return true;
-            }).join("\n");
-            yield this.app.vault.modify(file, newFileContent);
-        });
-    }
-    progressPropHelper(progressProps, meta, counts) {
-        return __awaiter(this, void 0, void 0, function* () {
-            return progressProps.reduce((obj, el) => {
-                const property = meta.find(prop => prop.key === el.name);
-                if (property) {
-                    switch (el.type) {
-                        case ProgressPropertyOptions.TaskComplete:
-                            obj.push(Object.assign(Object.assign({}, property), { content: counts.complete.toString() }));
-                            break;
-                        case ProgressPropertyOptions.TaskIncomplete:
-                            obj.push(Object.assign(Object.assign({}, property), { content: counts.incomplete.toString() }));
-                            break;
-                        case ProgressPropertyOptions.TaskTotal:
-                            obj.push(Object.assign(Object.assign({}, property), { content: counts.total.toString() }));
-                            break;
-                    }
-                }
-                return obj;
-            }, []);
-        });
-    }
-    standardMode(property, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const autoProp = yield this.handleAutoProperties(property.key);
-            let newValue;
+    async editTag(property, file) {
+        const splitTag = property.key.split("/");
+        const allButLast = splitTag.slice(0, splitTag.length - 1).join("/");
+        const trackerPluginMethod = "Use Tracker", metaEditMethod = "Use MetaEdit", choices = [trackerPluginMethod, metaEditMethod];
+        let newValue;
+        let method = metaEditMethod;
+        if (this.hasTrackerPlugin)
+            method = await GenericSuggester.Suggest(this.app, choices, choices);
+        if (!method)
+            return;
+        if (method === trackerPluginMethod) {
+            newValue = await GenericPrompt.Prompt(this.app, `Enter a new value for ${property.key}`);
+            this.useTrackerPlugin = true;
+        }
+        else if (method === metaEditMethod) {
+            const autoProp = await this.handleAutoProperties(allButLast);
             if (autoProp)
                 newValue = autoProp;
             else
-                newValue = yield GenericPrompt.Prompt(this.app, `Enter a new value for ${property.key}`, property.content);
-            if (newValue) {
-                yield this.updatePropertyInFile(property, newValue, file);
-            }
-        });
+                newValue = await GenericPrompt.Prompt(this.app, `Enter a new value for ${property.key}`);
+        }
+        if (newValue) {
+            await this.updatePropertyInFile(property, newValue, file);
+        }
     }
-    multiValueMode(property, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const settings = this.plugin.settings;
-            let newValue;
-            if (settings.EditMode.mode == EditMode.SomeMulti && !settings.EditMode.properties.includes(property.key)) {
-                yield this.standardMode(property, file);
-                return false;
-            }
-            let selectedOption, tempValue, splitValues;
-            let currentPropValue = property.content;
-            if (currentPropValue !== null)
-                currentPropValue = currentPropValue.toString();
-            else
-                currentPropValue = "";
-            if (property.type === MetaType.YAML) {
-                splitValues = currentPropValue.split('').filter(c => !c.includes("[]")).join('').split(",");
-            }
-            else {
-                splitValues = currentPropValue.split(",").map(prop => prop.trim());
-            }
-            if (splitValues.length == 0 || (splitValues.length == 1 && splitValues[0] == "")) {
-                const options = ["Add new value"];
-                selectedOption = yield GenericSuggester.Suggest(this.app, options, [ADD_FIRST_ELEMENT]);
-            }
-            else if (splitValues.length == 1) {
-                const options = [splitValues[0], "Add to end", "Add to beginning"];
-                selectedOption = yield GenericSuggester.Suggest(this.app, options, [splitValues[0], ADD_TO_END, ADD_TO_BEGINNING]);
-            }
-            else {
-                const options = ["Add to end", ...splitValues, "Add to beginning"];
-                selectedOption = yield GenericSuggester.Suggest(this.app, options, [ADD_TO_END, ...splitValues, ADD_TO_BEGINNING]);
-            }
-            if (!selectedOption)
+    async handleProgressProps(meta, file) {
+        var _a, _b;
+        try {
+            const { enabled, properties } = this.plugin.settings.ProgressProperties;
+            if (!enabled)
                 return;
-            let selectedIndex;
-            const autoProp = yield this.handleAutoProperties(property.key);
-            if (autoProp) {
-                tempValue = autoProp;
-            }
-            else if (selectedOption.includes("cmd")) {
-                tempValue = yield GenericPrompt.Prompt(this.app, "Enter a new value");
-            }
-            else {
-                selectedIndex = splitValues.findIndex(el => el == selectedOption);
-                tempValue = yield GenericPrompt.Prompt(this.app, `Change ${selectedOption} to`, selectedOption);
-            }
-            if (!tempValue)
+            const tasks = (_b = (_a = this.app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.listItems) === null || _b === void 0 ? void 0 : _b.filter(li => li.task);
+            if (!tasks)
                 return;
-            switch (selectedOption) {
-                case ADD_FIRST_ELEMENT:
-                    newValue = `${tempValue}`;
-                    break;
-                case ADD_TO_BEGINNING:
-                    newValue = `${[tempValue, ...splitValues].join(", ")}`;
-                    break;
-                case ADD_TO_END:
-                    newValue = `${[...splitValues, tempValue].join(", ")}`;
-                    break;
-                default:
-                    if (selectedIndex)
-                        splitValues[selectedIndex] = tempValue;
-                    else
-                        splitValues = [tempValue];
-                    newValue = `${splitValues.join(", ")}`;
-                    break;
-            }
-            if (property.type === MetaType.YAML)
-                newValue = `[${newValue}]`;
-            if (newValue) {
-                yield this.updatePropertyInFile(property, newValue, file);
-                return true;
-            }
-            return false;
-        });
+            let total = 0, complete = 0, incomplete = 0;
+            total = tasks.length;
+            complete = tasks.filter(i => i.task != " ").length;
+            incomplete = total - complete;
+            const props = await this.progressPropHelper(properties, meta, { total, complete, incomplete });
+            await this.updateMultipleInFile(props, file);
+        }
+        catch (e) {
+            this.plugin.logError(e);
+        }
     }
-    handleAutoProperties(propertyName) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const autoProp = this.plugin.settings.AutoProperties.properties.find(a => a.name === propertyName);
-            if (this.plugin.settings.AutoProperties.enabled && autoProp) {
-                const options = autoProp.choices;
-                return yield GenericSuggester.Suggest(this.app, options, options);
-            }
+    async createNewProperty(suggestValues) {
+        let propName = await GenericPrompt.Prompt(this.app, "Enter a property name", "Property", "", suggestValues);
+        if (!propName)
             return null;
-        });
+        let propValue;
+        const autoProp = await this.handleAutoProperties(propName);
+        if (autoProp) {
+            propValue = autoProp;
+        }
+        else {
+            propValue = await GenericPrompt.Prompt(this.app, "Enter a property value", "Value")
+                .catch(() => null);
+        }
+        if (propValue === null)
+            return null;
+        return { propName, propValue: propValue.trim() };
     }
-    updatePropertyInFile(property, newValue, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const fileContent = yield this.app.vault.cachedRead(file);
-            const newFileContent = fileContent.split("\n").map(line => {
-                if (this.lineMatch(property, line)) {
-                    return this.updatePropertyLine(property, newValue);
+    async deleteProperty(property, file) {
+        const fileContent = await this.app.vault.read(file);
+        const splitContent = fileContent.split("\n");
+        const regexp = new RegExp(`^\s*${property.key}:`);
+        const idx = splitContent.findIndex(s => s.match(regexp));
+        const newFileContent = splitContent.filter((v, i) => {
+            if (i != idx)
+                return true;
+        }).join("\n");
+        await this.app.vault.modify(file, newFileContent);
+    }
+    async progressPropHelper(progressProps, meta, counts) {
+        return progressProps.reduce((obj, el) => {
+            const property = meta.find(prop => prop.key === el.name);
+            if (property) {
+                switch (el.type) {
+                    case ProgressPropertyOptions.TaskComplete:
+                        obj.push(Object.assign(Object.assign({}, property), { content: counts.complete.toString() }));
+                        break;
+                    case ProgressPropertyOptions.TaskIncomplete:
+                        obj.push(Object.assign(Object.assign({}, property), { content: counts.incomplete.toString() }));
+                        break;
+                    case ProgressPropertyOptions.TaskTotal:
+                        obj.push(Object.assign(Object.assign({}, property), { content: counts.total.toString() }));
+                        break;
                 }
-                return line;
-            }).join("\n");
-            yield this.app.vault.modify(file, newFileContent);
-        });
+            }
+            return obj;
+        }, []);
+    }
+    async standardMode(property, file) {
+        const autoProp = await this.handleAutoProperties(property.key);
+        let newValue;
+        if (autoProp)
+            newValue = autoProp;
+        else
+            newValue = await GenericPrompt.Prompt(this.app, `Enter a new value for ${property.key}`, property.content);
+        if (newValue) {
+            await this.updatePropertyInFile(property, newValue, file);
+        }
+    }
+    async multiValueMode(property, file) {
+        const settings = this.plugin.settings;
+        let newValue;
+        if (settings.EditMode.mode == EditMode.SomeMulti && !settings.EditMode.properties.includes(property.key)) {
+            await this.standardMode(property, file);
+            return false;
+        }
+        let selectedOption, tempValue, splitValues;
+        let currentPropValue = property.content;
+        if (currentPropValue !== null)
+            currentPropValue = currentPropValue.toString();
+        else
+            currentPropValue = "";
+        if (property.type === MetaType.YAML) {
+            splitValues = currentPropValue.split('').filter(c => !c.includes("[]")).join('').split(",");
+        }
+        else {
+            splitValues = currentPropValue.split(",").map(prop => prop.trim());
+        }
+        if (splitValues.length == 0 || (splitValues.length == 1 && splitValues[0] == "")) {
+            const options = ["Add new value"];
+            selectedOption = await GenericSuggester.Suggest(this.app, options, [ADD_FIRST_ELEMENT]);
+        }
+        else if (splitValues.length == 1) {
+            const options = [splitValues[0], "Add to end", "Add to beginning"];
+            selectedOption = await GenericSuggester.Suggest(this.app, options, [splitValues[0], ADD_TO_END, ADD_TO_BEGINNING]);
+        }
+        else {
+            const options = ["Add to end", ...splitValues, "Add to beginning"];
+            selectedOption = await GenericSuggester.Suggest(this.app, options, [ADD_TO_END, ...splitValues, ADD_TO_BEGINNING]);
+        }
+        if (!selectedOption)
+            return;
+        let selectedIndex;
+        const autoProp = await this.handleAutoProperties(property.key);
+        if (autoProp) {
+            tempValue = autoProp;
+        }
+        else if (selectedOption.includes("cmd")) {
+            tempValue = await GenericPrompt.Prompt(this.app, "Enter a new value");
+        }
+        else {
+            selectedIndex = splitValues.findIndex(el => el == selectedOption);
+            tempValue = await GenericPrompt.Prompt(this.app, `Change ${selectedOption} to`, selectedOption);
+        }
+        if (!tempValue)
+            return;
+        switch (selectedOption) {
+            case ADD_FIRST_ELEMENT:
+                newValue = `${tempValue}`;
+                break;
+            case ADD_TO_BEGINNING:
+                newValue = `${[tempValue, ...splitValues].join(", ")}`;
+                break;
+            case ADD_TO_END:
+                newValue = `${[...splitValues, tempValue].join(", ")}`;
+                break;
+            default:
+                if (selectedIndex)
+                    splitValues[selectedIndex] = tempValue;
+                else
+                    splitValues = [tempValue];
+                newValue = `${splitValues.join(", ")}`;
+                break;
+        }
+        if (property.type === MetaType.YAML)
+            newValue = `[${newValue}]`;
+        if (newValue) {
+            await this.updatePropertyInFile(property, newValue, file);
+            return true;
+        }
+        return false;
+    }
+    async handleAutoProperties(propertyName) {
+        const autoProp = this.plugin.settings.AutoProperties.properties.find(a => a.name === propertyName);
+        if (this.plugin.settings.AutoProperties.enabled && autoProp) {
+            const options = autoProp.choices;
+            return await GenericPrompt.Prompt(this.app, `Enter a new value for ${propertyName}`, '', '', options);
+        }
+        return null;
+    }
+    async updatePropertyInFile(property, newValue, file) {
+        const fileContent = await this.app.vault.read(file);
+        const newFileContent = fileContent.split("\n").map(line => {
+            if (this.lineMatch(property, line)) {
+                return this.updatePropertyLine(property, newValue);
+            }
+            return line;
+        }).join("\n");
+        await this.app.vault.modify(file, newFileContent);
     }
     lineMatch(property, line) {
         const propertyRegex = new RegExp(`^\s*${property.key}\:{1,2}`);
@@ -4751,20 +4726,18 @@ class MetaController {
         }
         return newLine;
     }
-    updateMultipleInFile(properties, file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            let fileContent = (yield this.app.vault.cachedRead(file)).split("\n");
-            for (const prop of properties) {
-                fileContent = fileContent.map(line => {
-                    if (this.lineMatch(prop, line)) {
-                        return this.updatePropertyLine(prop, prop.content);
-                    }
-                    return line;
-                });
-            }
-            const newFileContent = fileContent.join("\n");
-            yield this.app.vault.modify(file, newFileContent);
-        });
+    async updateMultipleInFile(properties, file) {
+        let fileContent = (await this.app.vault.read(file)).split("\n");
+        for (const prop of properties) {
+            fileContent = fileContent.map(line => {
+                if (this.lineMatch(prop, line)) {
+                    return this.updatePropertyLine(prop, prop.content);
+                }
+                return line;
+            });
+        }
+        const newFileContent = fileContent.join("\n");
+        await this.app.vault.modify(file, newFileContent);
     }
 }
 
@@ -4808,21 +4781,36 @@ class LinkMenu {
         }
     }
     onMenuOpenCallback(menu, file, source) {
-        if ((source === "link-context-menu" ||
+        const bCorrectSource = (source === "link-context-menu" ||
             source === "calendar-context-menu" ||
-            source == "file-explorer-context-menu")
-            && file instanceof obsidian.TFile) {
-            this.targetFile = file;
-            this.addOptions(menu);
+            source == "file-explorer-context-menu");
+        if (bCorrectSource) {
+            if (file instanceof obsidian.TFile && file.extension === "md") {
+                this.targetFile = file;
+                this.addFileOptions(menu);
+            }
+            if (file instanceof obsidian.TFolder && file.children && file.children.some(f => f instanceof obsidian.TFile && f.extension === "md")) {
+                this.targetFolder = file;
+                this.addFolderOptions(menu);
+            }
         }
     }
-    addOptions(menu) {
+    addFileOptions(menu) {
         menu.addItem(item => {
             item.setIcon('pencil');
             item.setTitle("Edit Meta");
-            item.onClick((evt) => __awaiter(this, void 0, void 0, function* () {
-                yield this.plugin.runMetaEditForFile(this.targetFile);
-            }));
+            item.onClick(async (evt) => {
+                await this.plugin.runMetaEditForFolder(this.targetFolder);
+            });
+        });
+    }
+    addFolderOptions(menu) {
+        menu.addItem(item => {
+            item.setIcon('pencil');
+            item.setTitle("Add YAML property to all files in this folder (and subfolders)");
+            item.onClick(async (evt) => {
+                await this.plugin.runMetaEditForFolder(this.targetFolder);
+            });
         });
     }
 }
@@ -4841,17 +4829,17 @@ class MetaEditApi {
         return (propertyName) => new MetaController(this.plugin.app, this.plugin).handleAutoProperties(propertyName);
     }
     getUpdateFunction() {
-        return (propertyName, propertyValue, file) => __awaiter(this, void 0, void 0, function* () {
+        return async (propertyName, propertyValue, file) => {
             const targetFile = this.getFileFromTFileOrPath(file);
             if (!targetFile)
                 return;
             const controller = new MetaController(this.plugin.app, this.plugin);
-            const propsInFile = yield controller.getPropertiesInFile(targetFile);
+            const propsInFile = await controller.getPropertiesInFile(targetFile);
             const targetProperty = propsInFile.find(prop => prop.key === propertyName);
             if (!targetProperty)
                 return;
             return controller.updatePropertyInFile(targetProperty, propertyValue, targetFile);
-        });
+        };
     }
     getFileFromTFileOrPath(file) {
         let targetFile;
@@ -4872,7 +4860,7 @@ class UniqueQueue {
         this.elements = [];
     }
     enqueue(item) {
-        if (this.elements.contains(item)) {
+        if (this.elements.find(i => i === item)) {
             return false;
         }
         this.elements.push(item);
@@ -4886,6 +4874,9 @@ class UniqueQueue {
     }
     isEmpty() {
         return this.elements.length === 0;
+    }
+    length() {
+        return this.elements.length;
     }
 }
 
@@ -4919,53 +4910,49 @@ class UpdatedFileCache {
 class MetaEdit extends obsidian.Plugin {
     constructor() {
         super(...arguments);
-        this.update = obsidian.debounce(() => __awaiter(this, void 0, void 0, function* () {
+        this.update = obsidian.debounce(async () => {
             while (!this.updateFileQueue.isEmpty()) {
                 const file = this.updateFileQueue.dequeue();
                 if (this.settings.ProgressProperties.enabled) {
-                    yield this.updateProgressProperties(file);
+                    await this.updateProgressProperties(file);
                 }
                 if (this.settings.KanbanHelper.enabled) {
-                    yield this.kanbanHelper(file);
+                    await this.kanbanHelper(file);
                 }
             }
-        }), 5000, true);
-        this.onModifyCallback = (file) => __awaiter(this, void 0, void 0, function* () { return yield this.onModify(file); });
+        }, 5000, true);
+        this.onModifyCallback = async (file) => await this.onModify(file);
     }
-    onload() {
-        return __awaiter(this, void 0, void 0, function* () {
-            this.controller = new MetaController(this.app, this);
-            this.updateFileQueue = new UniqueQueue();
-            this.updatedFileCache = new UpdatedFileCache();
-            console.log('Loading MetaEdit');
-            yield this.loadSettings();
-            this.addCommand({
-                id: 'metaEditRun',
-                name: 'Run MetaEdit',
-                callback: () => __awaiter(this, void 0, void 0, function* () {
-                    const file = this.getCurrentFile();
-                    if (!file)
-                        return;
-                    yield this.runMetaEditForFile(file);
-                })
-            });
-            this.onModifyCallbackToggle(true);
-            this.addSettingTab(new MetaEditSettingsTab(this.app, this));
-            this.linkMenu = new LinkMenu(this);
-            if (this.settings.UIElements.enabled) {
-                this.linkMenu.registerEvent();
+    async onload() {
+        this.controller = new MetaController(this.app, this);
+        this.updateFileQueue = new UniqueQueue();
+        this.updatedFileCache = new UpdatedFileCache();
+        console.log('Loading MetaEdit');
+        await this.loadSettings();
+        this.addCommand({
+            id: 'metaEditRun',
+            name: 'Run MetaEdit',
+            callback: async () => {
+                const file = this.getCurrentFile();
+                if (!file)
+                    return;
+                await this.runMetaEditForFile(file);
             }
-            this.api = new MetaEditApi(this).make();
         });
+        this.onModifyCallbackToggle(true);
+        this.addSettingTab(new MetaEditSettingsTab(this.app, this));
+        this.linkMenu = new LinkMenu(this);
+        if (this.settings.UIElements.enabled) {
+            this.linkMenu.registerEvent();
+        }
+        this.api = new MetaEditApi(this).make();
     }
-    runMetaEditForFile(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const data = yield this.controller.getPropertiesInFile(file);
-            if (!data)
-                return;
-            const suggester = new MetaEditSuggester(this.app, this, data, file, this.controller);
-            suggester.open();
-        });
+    async runMetaEditForFile(file) {
+        const data = await this.controller.getPropertiesInFile(file);
+        if (!data)
+            return;
+        const suggester = new MetaEditSuggester(this.app, this, data, file, this.controller);
+        suggester.open();
     }
     onunload() {
         console.log('Unloading MetaEdit');
@@ -4983,7 +4970,6 @@ class MetaEdit extends obsidian.Plugin {
     abstractFileToMarkdownTFile(file) {
         if (file instanceof obsidian.TFile && file.extension === "md")
             return file;
-        this.logError("file is not a markdown file.");
         return null;
     }
     onModifyCallbackToggle(enable) {
@@ -4994,15 +4980,11 @@ class MetaEdit extends obsidian.Plugin {
             this.app.vault.off("modify", this.onModifyCallback);
         }
     }
-    loadSettings() {
-        return __awaiter(this, void 0, void 0, function* () {
-            this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
-        });
+    async loadSettings() {
+        this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
     }
-    saveSettings() {
-        return __awaiter(this, void 0, void 0, function* () {
-            yield this.saveData(this.settings);
-        });
+    async saveSettings() {
+        await this.saveData(this.settings);
     }
     logError(error) {
         new obsidian.Notice(`MetaEdit: ${error}`);
@@ -5021,56 +5003,50 @@ class MetaEdit extends obsidian.Plugin {
         });
         return files;
     }
-    onModify(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const outfile = this.abstractFileToMarkdownTFile(file);
-            if (!outfile)
-                return;
-            const fileContent = yield this.app.vault.cachedRead(outfile);
-            if (!this.updatedFileCache.set(file.path, fileContent))
-                return;
-            if (this.updateFileQueue.enqueue(outfile)) {
-                yield this.update();
-            }
-        });
+    async onModify(file) {
+        const outfile = this.abstractFileToMarkdownTFile(file);
+        if (!outfile)
+            return;
+        const fileContent = await this.app.vault.cachedRead(outfile);
+        if (!this.updatedFileCache.set(file.path, fileContent))
+            return;
+        if (this.updateFileQueue.enqueue(outfile)) {
+            await this.update();
+        }
     }
-    updateProgressProperties(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const data = yield this.controller.getPropertiesInFile(file);
-            if (!data)
-                return;
-            yield this.controller.handleProgressProps(data, file);
-        });
+    async updateProgressProperties(file) {
+        const data = await this.controller.getPropertiesInFile(file);
+        if (!data)
+            return;
+        await this.controller.handleProgressProps(data, file);
     }
-    kanbanHelper(file) {
-        return __awaiter(this, void 0, void 0, function* () {
-            const fileContent = yield this.app.vault.cachedRead(file);
-            const boards = this.settings.KanbanHelper.boards;
-            const board = boards.find(board => board.boardName === file.basename);
-            const fileCache = this.app.metadataCache.getFileCache(file);
-            if (board && fileCache) {
-                const { links } = fileCache;
-                if (links) {
-                    for (const link of links) {
-                        const linkFile = this.app.vault.getAbstractFileByPath(`${link.link}.md`);
-                        if (linkFile instanceof obsidian.TFile) {
-                            const heading = this.getTaskHeading(link.link, fileContent);
-                            if (!heading) {
-                                this.logError("could not open linked file (KanbanHelper)");
-                                return;
-                            }
-                            const fileProperties = yield this.controller.getPropertiesInFile(linkFile);
-                            if (!fileProperties)
-                                return;
-                            const targetProperty = fileProperties.find(prop => prop.key === board.property);
-                            if (!targetProperty)
-                                return;
-                            yield this.controller.updatePropertyInFile(targetProperty, heading, linkFile);
+    async kanbanHelper(file) {
+        const fileContent = await this.app.vault.cachedRead(file);
+        const boards = this.settings.KanbanHelper.boards;
+        const board = boards.find(board => board.boardName === file.basename);
+        const fileCache = this.app.metadataCache.getFileCache(file);
+        if (board && fileCache) {
+            const { links } = fileCache;
+            if (links) {
+                for (const link of links) {
+                    const linkFile = this.app.vault.getAbstractFileByPath(`${link.link}.md`);
+                    if (linkFile instanceof obsidian.TFile) {
+                        const heading = this.getTaskHeading(link.link, fileContent);
+                        if (!heading) {
+                            this.logError("could not open linked file (KanbanHelper)");
+                            return;
                         }
+                        const fileProperties = await this.controller.getPropertiesInFile(linkFile);
+                        if (!fileProperties)
+                            return;
+                        const targetProperty = fileProperties.find(prop => prop.key === board.property);
+                        if (!targetProperty)
+                            return;
+                        await this.controller.updatePropertyInFile(targetProperty, heading, linkFile);
                     }
                 }
             }
-        });
+        }
     }
     getTaskHeading(taskName, fileContent) {
         const MARKDOWN_HEADING = new RegExp(/#+\s+(.+)/);
@@ -5088,6 +5064,23 @@ class MetaEdit extends obsidian.Plugin {
             }
         }
         return null;
+    }
+    async runMetaEditForFolder(targetFolder) {
+        const pName = await GenericPrompt.Prompt(this.app, `Add a new property to all files in ${targetFolder.name} (and subfolders)`);
+        if (!pName)
+            return;
+        const pVal = await GenericPrompt.Prompt(this.app, "Enter a value");
+        if (!pVal)
+            return;
+        const updateFilesInFolder = async (targetFolder, propertyName, propertyValue) => {
+            for (const child of targetFolder.children) {
+                if (child instanceof obsidian.TFile && child.extension == "md")
+                    await this.controller.addYamlProp(pName, pVal, child);
+                if (child instanceof obsidian.TFolder)
+                    await updateFilesInFolder(child);
+            }
+        };
+        await updateFilesInFolder(targetFolder);
     }
 }
 
