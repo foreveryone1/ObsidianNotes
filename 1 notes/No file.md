@@ -75,10 +75,8 @@ words
 
 ==words==
 
-- # Book summary
-	1. Chapter 1
-		1. Chapter 3
-	2. Part 2
-		1. Chapter 3 
+![left|90](obsidian.md/Attachments/circle.png#test) *test*
+
+Text
 
 
