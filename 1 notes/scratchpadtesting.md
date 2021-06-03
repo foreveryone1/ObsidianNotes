@@ -74,8 +74,3 @@ words
 
 
 ==words==
-
-
-
-![artist](file:///C:%5Cmusic%5C파란노을%20(Parannoul)%5CTo%20See%20the%20Next%20Part%20of%20the%20Dream%20(2021)%5Cartist.jpg)
-
