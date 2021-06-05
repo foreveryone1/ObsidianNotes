@@ -2,6 +2,7 @@
 title: Anabasis
 author: xenophon
 datestarted: 02-04-2021
+cssclass: text
 ---
 ## Anabasis - Cyrus on loyalty to former friends
 ### Text
