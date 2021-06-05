@@ -3,7 +3,7 @@ title: Anabasis
 author: xenophon
 datestarted: 02-04-2021
 ---
-## Cyrus on loyalty to former friends
+## Anabasis - Cyrus on loyalty to former friends
 ### Text
 > He said that Cyrus opened the inquiry with these words: "I have invited you hither, my friends, that I may take advice with you, and carry out whatever, in the sight of God and man, it is right for me to do, as concerning the man before you, Orontas. The prisoner was, in the first instance, given to me by my father, to be my faithful subject. In the next place, acting, to use his own words, under the orders of my brother, and having hold of the acropolis of Sardis, he went to war with me.
 > I met war with war, and forced him to think it more prudent to desist from war with me: whereupon we shook hands, exchanging solemn pledges. After that," and at this point Cyrus turned to Orontas, and addressed him personally—"after that, did I do you any wrong?"
@@ -21,7 +21,7 @@ datestarted: 02-04-2021
 Only after his trust was betrayed several times did Cyrus decide to punish Orontas, as he recognised that political reality sometimes leads to allies turning their backs to each other.
 There is no justification for the threefold betrayal of his trust however.
 
-## Cyrus's qualities as a ruler
+## Anabasis - Cyrus's qualities as a ruler
 ### Text
 > Now the advice and admonition of all who came into conversation with him was, not to enter the battle himself, but to post himself in rear of themselves
 > (...)
@@ -33,3 +33,26 @@ Cyrus attempted to conduct himself according to how people expected / demanded h
 Before the lesser temptations of the routing enemy he resists, but when he sees the opportunity to attack his brother, he succumbs.
 His nature triumphing over what is the "best thing" to do is also what leads him to be betrayed multiple times by the likes of Tissaphernes and Orontas.
 
+## Anabasis - Clearchus the warmonger
+> These, I take it, were the characteristic acts of a man whose affections are set on warfare. When it is open to him to enjoy peace with honour, no shame, no injury attached, still he prefers war; when he may live at home at ease, he insists on toil, if only it may end in fighting; when it is given to him to keep his riches without risk, he would rather lessen his fortune by the pastime of battle.
+> But if the life of a soldier was a passion with him, he was none the less a soldier born, as herein appears; danger was a delight to him; he courted it, attacking the enemy by night or by day; and in difficulties he did not lose his head, as all who ever served in a campaign with him would with one consent allow.
+> \
+> Was he equally good as a commander? It must be admitted that, as far as was compatible with his quality of temper, he was; none more so. Capable to a singular degree of devising how his army was to get supplies, and of actually getting them, he was also capable of impressing upon those about him that Clearchus must be obeyed; and that he brought about by the very hardness of his nature. With a scowling expression and a harshly-grating voice, he chastised with severity, and at times with such fury, that he was sorry afterwards himself for what he had done. Yet it was not without purpose that he applied the whip; he had a theory that there was no good to be got out of an unchastened army.
+> \
+> The cloud which lay upon his brow, at those times lit up with brightness; his face became radiant, and the old sternness was so charged with vigour and knitted strength to meet the foe, that it savoured of salvation, not of cruelty. But when the pinch of danger was past, and it was open to them to go and taste subordination under some other officer, many forsook him. So lacking in grace of manner was he; but was ever harsh and savage, so that the feeling of the soldiers towards him was that of schoolboys to a master. In other words, though it was not his good fortune ever to have followers inspired solely by friendship or goodwill, yet those who found themselves under him, either by State appointment or through want, or other arch necessity, yielded him implicit obedience.
+
+## Anabasis - Proxenus, honorable princeling, but a soft hand
+> Proxenus, the Boeotian, was of a different temperament. It had been the dream of his boyhood to become a man capable of great achievements.
+> \
+>  But for all that he pitched his hopes so high, it was none the less evident that he would refuse to gain any of the ends he set before him wrongfully. 
+>  \
+>  As a commander he had the art of leading gentlemen, but he failed to inspire adequately either respect for himself or fear in the soldiers under him. Indeed, he showed a more delicate regard for his soldiers than his subordinates for him, and he was indisputably more apprehensive of incurring their hatred than they were of losing their fidelity.
+
+## Anabasis - Menon the scoundrel
+> As to Menon the Thessalian (3), the mainspring of his action was obvious; what he sought after insatiably was wealth. Rule he sought after only as a stepping-stone to larger spoils. Honours and high estate he craved for simply that he might extend the area of his gains; and if he studied to be on friendly terms with the powerful, it was in order that he might commit wrong with impunity.
+> \
+>  If he called a man his friend it might be looked upon as certain that he was bent on ensnaring him. Laughter at an enemy he considered out of place, but his whole conversation turned upon the ridicule of his associates.
+>  \
+>  And as other men pride themselves on piety and truth and righteousness, so Menon prided himself on a capacity for fraud, on the fabrication of lies, on the mockery and scorn of friends. The man who was not a rogue he ever looked upon as only half educated.
+>  \
+>  He contrived to secure the obedience of his solders by making himself an accomplice in their misdeeds, and the fluency with which he vaunted his own capacity and readiness for enormous guilt was a sufficient title to be honoured and courted by them.
