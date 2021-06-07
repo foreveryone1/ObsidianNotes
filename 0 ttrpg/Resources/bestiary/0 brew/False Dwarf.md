@@ -2,7 +2,7 @@
 cssclass: kanban
 ---
 
-# Ice Spider Queen
+># Ice Spider Queen
 >*Medium #monstrosity*
 ## Monster Traits
 >___
