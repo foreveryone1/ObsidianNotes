@@ -2,48 +2,38 @@
 cssclass: kanban
 ---
 
-# False Dwarf
+# Ice Spider Queen
 >*Medium #monstrosity*
 ## Monster Traits
 >___
->- **Armor Class** 20 (bonecraft armor)
->- **Hit Points** 84 (13d8 + 26)
->- **Speed** 30 ft.
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 44 (4d10 + 4)
+>- **Speed** 30 ft., climb 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|13 (+1)|14 (+2)|12 (+1)|14 (+2)|16 (+3)|
+>|14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)|
 >___
->- **Saving Throws**
->	 - Wis +5, Cha +6
 >- **Skills**
->	 - Athletics +7, Deception +6, Intimidation +6
+>	 - Stealth +7
 >- **Damage Resistances**
->	 - necrotic, poison
+>	 - cold
 >- **Senses**
->	 - passive Perception 12
+>	 - blindsight 10 ft., darkvision 60 ft., passive Perception 10
 >- **Languages**
->	 - any one language (usually Common)
+>	 - —
 >
-> #cr5 (1,800 XP)
+> #cr2 (450 XP)
 >___
->***Commander of Bones.*** As a bonus action, the knight can target one skeleton or zombie it can see within 30 feet of it. The target must make a DC 14 Wisdom saving throw. On a failed save, the target must obey the knight's commands until the knight dies or until the knight releases it as a bonus action. The knight can command up to twelve undead at a time this way.  
+>***Cold Aura.*** Any creature that starts its turn within 5 feet of the spider takes 5 (2d4) cold damage.  
 >
->***Master of the Pallid Banner.*** While within 60 feet of the knight, any undead ally of the knight has advantage on saving throws against any effect that turns undead.  
+>***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
->***Spellcasting.*** The knight is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It has the following paladin spells prepared:  
+>***Web Sense.*** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.  
 >
->1st level (4 slots): command, compelled duel, hellish rebuke, wrathful smite  
->2nd level (3 slots): branding smite, crown of madness, darkness, find steed, magic weapon  
+>***Web Walker.*** The spider ignores movement restrictions caused by webbing.  
 >
 ## Actions
->***Multiattack.*** The knight attacks twice with one of its weapons.  
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.  
 >
->***Greatsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.  
->
->***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
-## Bone Knight
-Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.
-***Karrnathi Patriots.*** Early in the Last War, Karrnath turned to the necromancers of the Blood of Vol to bolster the nation's army with undead forces. The skeletons and zombies created by the necromancers were mindless creatures that required guidance. The first bone knights were appointed to provide this control.
-Devoted paladins of the Blood of Vol were fused into suits of bonecraft armor, whose magic focused their divine gifts, allowing them to command units of mindless undead. Bonecraft armor can't be removed without killing the knight who wears it, and when donning it, each bone knight understood that their former life was over.
-***The Fall of the Emerald Claw.*** During the Last War, many bone knights took service with the Order of the Emerald Claw, helping that name strike fear into the enemies of Karrnath. In the last decade, King Kaius III of Karrnath has done much to ensure a peaceful end to the Last War. Under the terms of the Treaty of Thronehold, Kaius sealed most of Karrnath's undead in deep vaults, and the Order of the Emerald Claw was disbanded. A few bone knights remained in service to the crown, but most were cast aside—still bound to their bonecraft armor and still convinced of Karrnathi supremacy. These bone knights felt that Kaius had betrayed both them and their nation, leading their once-proud order to find a new purpose in the service of Lady Illmarrow.
+>***Icy Web (Recharge 5–6).*** Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing, and takes 2 (1d4) cold damage at the start of each of its turns. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to poison, and psychic damage).
