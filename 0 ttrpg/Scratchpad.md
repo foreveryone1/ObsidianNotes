@@ -12,3 +12,13 @@ want</i>
 
 # testing
  
+ 
+ - [ ] task
+ ^1cc271
+ - [ ] task 2 ^4dff1c
+
+| table  | complete |
+| ------ | -------- |
+| task 1 | ![](#^1cc271)          |
+| task 2       |![](#^4dff1c)          |
+	
