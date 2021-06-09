@@ -13,7 +13,7 @@ want</i>
 # testing
  
  
- - [ ] task
+ - [ ] **task**
  ^1cc271
  - [ ] task 2 ^4dff1c
 
