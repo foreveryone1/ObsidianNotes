@@ -2,7 +2,7 @@
 
 - [c] # hidable
   - 📚 **Premise**
-  - [x] 
+  - [ ] 
   - <i>The short premise is the premise without much text to it. I can edit this to be
 whatever
 I
