@@ -30,3 +30,7 @@ margin-right: auto;
 
 
 i#tooltip {font-style: normal;}
+
+table .internal-embed[src*="#^"]{margin: 0;padding:0;}
+table .internal-embed[src*="#^"] .markdown-embed-content {background-color: transparent;}
+table .internal-embed[src*="#^"] .markdown-preview-view {padding: 0;}
