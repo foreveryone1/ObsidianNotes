@@ -34,3 +34,19 @@ i#tooltip {font-style: normal;}
 table .internal-embed[src*="#^"]{margin: 0;padding:0; margin-top: -11px}
 table .internal-embed[src*="#^"] .markdown-embed-content {background-color: transparent;}
 table .internal-embed[src*="#^"] .markdown-preview-view {padding: 0;}
+
+
+
+ol ol {
+    list-style-type: lower-latin;
+}
+
+ol ol ol {
+    list-style-type: lower-roman;
+}
+
+ol ol ol ol {
+    list-style-type: decimal;
+}
+
+
