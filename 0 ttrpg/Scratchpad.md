@@ -17,11 +17,8 @@ want</i>
  ^1cc271
  - [ ] task 2 ^4dff1c
 
-| table  | complete      | start date   |
-| ------ | ------------- | ------------ |
-| task 1 | ![](#^1cc271) | -            |
-| task 2 | ![](#^4dff1c) | 20210513     |
-| task 3 | Blab          | [[20210511]] |
-|        |               |              |
-|        |               |              |
-	
+
+	| table | press tab for another column | enter for next line |
+	| ----- | ---------------------------- | ------------------- |
+	| wow   | so                           | easy                |
+	| this  | is                           | incredible                    |

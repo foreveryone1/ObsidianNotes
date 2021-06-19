@@ -4449,8 +4449,12 @@ class MetaController {
     }
     async addYamlProp(propName, propValue, file) {
         const fileContent = await this.app.vault.read(file);
-        const frontmatter = this.app.metadataCache.getFileCache(file).frontmatter;
-        const isYamlEmpty = (frontmatter === undefined && !fileContent.match(/^-{3}\s*\n*\r*-{3}/));
+        const frontmatter = await this.parser.parseFrontmatter(file);
+        const isYamlEmpty = ((!frontmatter || frontmatter.length === 0) && !fileContent.match(/^-{3}\s*\n*\r*-{3}/));
+        if (frontmatter.some(value => value.key === propName)) {
+            new obsidian.Notice(`Frontmatter in file '${file.name}' already has property '${propName}. Will not add.'`);
+            return;
+        }
         const settings = this.plugin.settings;
         if (settings.EditMode.mode === EditMode.AllMulti ||
             (settings.EditMode.mode === EditMode.SomeMulti && settings.EditMode.properties.contains(propName))) {
@@ -4800,7 +4804,7 @@ class LinkMenu {
             item.setIcon('pencil');
             item.setTitle("Edit Meta");
             item.onClick(async (evt) => {
-                await this.plugin.runMetaEditForFolder(this.targetFolder);
+                await this.plugin.runMetaEditForFile(this.targetFile);
             });
         });
     }
@@ -4823,6 +4827,7 @@ class MetaEditApi {
         return {
             autoprop: this.getAutopropFunction(),
             update: this.getUpdateFunction(),
+            getPropertyValue: this.getGetPropertyValueFunction(),
         };
     }
     getAutopropFunction() {
@@ -4852,6 +4857,19 @@ class MetaEditApi {
             }
         }
         return targetFile;
+    }
+    getGetPropertyValueFunction() {
+        return async (propertyName, file) => {
+            const targetFile = this.getFileFromTFileOrPath(file);
+            if (!targetFile)
+                return;
+            const controller = new MetaController(this.plugin.app, this.plugin);
+            const propsInFile = await controller.getPropertiesInFile(targetFile);
+            const targetProperty = propsInFile.find(prop => prop.key === propertyName);
+            if (!targetProperty)
+                return;
+            return targetProperty.content;
+        };
     }
 }
 
@@ -5029,9 +5047,15 @@ class MetaEdit extends obsidian.Plugin {
             const { links } = fileCache;
             if (links) {
                 for (const link of links) {
-                    const linkFile = this.app.vault.getAbstractFileByPath(`${link.link}.md`);
+                    // Because of how links are formatted, I have to do it this way.
+                    // If there are duplicates (two files with the same name) for a link, the path will be in the link.
+                    // If not, the link won't specify the folder. Therefore, we check all files.
+                    const markdownFiles = this.app.vault.getMarkdownFiles();
+                    const linkFile = markdownFiles.find(f => f.path.includes(`${link.link}.md`));
                     if (linkFile instanceof obsidian.TFile) {
-                        const heading = this.getTaskHeading(link.link, fileContent);
+                        const headingAttempt1 = this.getTaskHeading(linkFile.path.replace('.md', ''), fileContent);
+                        const headingAttempt2 = this.getTaskHeading(link.link, fileContent);
+                        const heading = headingAttempt1 !== null && headingAttempt1 !== void 0 ? headingAttempt1 : headingAttempt2;
                         if (!heading) {
                             this.logError("could not open linked file (KanbanHelper)");
                             return;
@@ -5059,7 +5083,7 @@ class MetaEdit extends obsidian.Plugin {
                 lastHeading = heading[1];
             }
             const taskMatch = TASK_REGEX.exec(line);
-            if (taskMatch && taskMatch[3] === `[[${taskName}]]`) {
+            if (taskMatch && taskMatch[3].includes(`${taskName}`)) {
                 return lastHeading;
             }
         }
