@@ -9,6 +9,7 @@ I
 want</i>
   - <i>The text afterwards</i>
 
+`dice:3d8`
 
 # testing
  
