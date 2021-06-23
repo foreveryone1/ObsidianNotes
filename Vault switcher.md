@@ -17,3 +17,5 @@ test
 test
 
 [Google](https://google.com) Test display etc
+
+![[1 notes/scratchpadtesting]]
