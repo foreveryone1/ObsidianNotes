@@ -35,7 +35,7 @@ pow: 50
 	- Max:\: `=(this.siz+this.con)/10`
 	- Current:\: 10
 - ## Luck
-	- Current:\: 56
+	- Current:\: 51
 - ## MP
 	- Max:\:`=this.pow/5`
 	- Current:\: n/a
@@ -93,6 +93,8 @@ Lose all sanity - lose your character forever%%
 		 - `=this.Lang-English / 2` | `=this.Lang-English / 5`
 	- [ ] Lang-French:: 31
 		 - `=this.lang-french / 2` | `=this.lang-french / 5`
+	- [ ] Lang-Sumerian:: 5
+		 - `=this.lang-sumerian / 2` | `=this.lang-sumerian / 5`
 	- [ ] Law:: 5
 		 - `=this.law / 2` | `=this.law / 5`
 	- [ ] Library:: 40
@@ -143,7 +145,7 @@ Lose all sanity - lose your character forever%%
 
 
 # Combat 
-**<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: +5D6"> Str + Size:\: `=this.str + this.siz`</i>**
+**<i id="tooltip" title="< 65: -2&#013;< 85: -1&#013;< 125: 0&#013;< 165: +1D4&#013;< 205: +1D6&#013;< 285: +2D6&#013;< 365: +3D6&#013;< 445: + 4D6&#013;< 525: + 5D6"> Str + Size:\: `=this.str + this.siz`</i>**
 **DB**:: "0"
 **Dodge**:\: `=this.dodge` | `=this.dodge / 2` | `=this.dodge / 5`
 
