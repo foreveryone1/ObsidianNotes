@@ -153,7 +153,7 @@ Lose all sanity - lose your character forever%%
 | ---------- | ------------- | --------------- | ----------------- | ---------------- | ----- | ------- | ---- | ---- |
 | Unarmed    | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d3 + `=this.db` | -     | 1       | -    | -    |
 | Breadknife | `=this.brawl` | `=this.brawl/2` | `=this.brawl / 5` | 1d4 + `=this.db` | -     | 1       | -    | -    | 
-
+| Derringer | `=this.handgun` | `=this.handgun/2` | `=this.handgun / 5` | 1d6  | 3 yds     | 1       | 1    | 100   | 
 # Backstory
 - # 
 	- **Personal description**: life-loving laughing individual
