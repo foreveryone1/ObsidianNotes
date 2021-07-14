@@ -1,0 +1,24 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "obsidian.md/Attachments",
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": false,
+  "autoPairMarkdown": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 89
+  },
+  "tabSize": 2,
+  "useTab": true
+}
