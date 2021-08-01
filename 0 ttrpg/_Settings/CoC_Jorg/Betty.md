@@ -33,15 +33,15 @@ pow: 50
 ## Hitpoints, Luck, MP, and Sanity
 - ## Hit points
 	- Max:\: `=(this.siz+this.con)/10`
-	- Current:\: 8
+	- CurrentHP:: 10
 - ## Luck
-	- Current:\: 40
+	- CurrentLuck:: 30
 - ## MP
 	- Max:\:`=this.pow/5`
-	- Current:\: n/a
+	- CurrentMP:: n/a
 - ## Sanity
 	- Max:\:`=this.pow`
-	- Current:\: 40
+	- CurrentSanity:: 40
 %% Take >= 5 sanity damage in one instance - indefinitely insane
 Lose all sanity - lose your character forever%%
 # Skills
@@ -58,7 +58,7 @@ Lose all sanity - lose your character forever%%
 		 - `=this.archaeology / 2` | `=this.archaeology / 5`
 	- [ ] Brawl:: 25
 		 - `=this.brawl / 2` | `=this.brawl / 5`
-	- [ ] Charm:: 80
+	- [x] Charm:: 80
 		 - `=this.charm / 2` | `=this.charm / 5`
 	- [ ] Climb:: 20
 		 - `=this.climb / 2` | `=this.climb / 5`
@@ -130,7 +130,7 @@ Lose all sanity - lose your character forever%%
 		 - `=this.science / 2` | `=this.science / 5`
 	- [ ] Sleight of hand:: 10
 		 - `=this.sleight-of-hand / 2` | `=this.sleight-of-hand / 5`
-	- [ ] Spot hidden:: 59
+	- [x] Spot hidden:: 59
 		 - `=this.spot-hidden / 2` | `=this.spot-hidden / 5`
 	- [ ] Stealth:: 20
 		 - `=this.stealth / 2` | `=this.stealth / 5`
