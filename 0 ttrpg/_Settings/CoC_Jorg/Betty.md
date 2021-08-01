@@ -33,7 +33,7 @@ pow: 50
 ## Hitpoints, Luck, MP, and Sanity
 - ## Hit points
 	- Max:\: `=(this.siz+this.con)/10`
-	- CurrentHP:: 10
+	- CurrentHP:: 6
 - ## Luck
 	- CurrentLuck:: 30
 - ## MP
@@ -132,7 +132,7 @@ Lose all sanity - lose your character forever%%
 		 - `=this.sleight-of-hand / 2` | `=this.sleight-of-hand / 5`
 	- [x] Spot hidden:: 59
 		 - `=this.spot-hidden / 2` | `=this.spot-hidden / 5`
-	- [ ] Stealth:: 20
+	- [x] Stealth:: 20
 		 - `=this.stealth / 2` | `=this.stealth / 5`
 	- [ ] Survival:: 10
 		 - `=this.survival / 2` | `=this.survival / 5`
