@@ -35,13 +35,13 @@ pow: 50
 	- Max:\: `=(this.siz+this.con)/10`
 	- CurrentHP:: 6
 - ## Luck
-	- CurrentLuck:: 30
+	- CurrentLuck:: 28
 - ## MP
 	- Max:\:`=this.pow/5`
 	- CurrentMP:: n/a
 - ## Sanity
 	- Max:\:`=this.pow`
-	- CurrentSanity:: 40
+	- CurrentSanity:: 38
 %% Take >= 5 sanity damage in one instance - indefinitely insane
 Lose all sanity - lose your character forever%%
 # Skills
