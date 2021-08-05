@@ -1,6 +1,5 @@
 {
   "theme": "moonstone",
-  "obsidianCss": false,
   "cssTheme": "",
   "enabledCssSnippets": [
     "left align header panes",
