@@ -1,7 +1,9 @@
 completed::20211204
 author::nabokov
 
-Delightful language, overwhelming erudition and wordplay. True to the essay embedded within the book, the romantic, exhilarating, novel experiences of youth are magnified and recalled (embellished)
+Delightful language, overwhelming erudition and wordplay.
+
+True to the essay embedded within the book, the romantic, exhilarating, novel experiences of youth are magnified and recalled (embellished) with great detail, whereas the longer stretches of absence are glossed over, forgotten, or omitted.
 
 Van, despite being erudite, witty, and charming, comes off as a terrible person (intentionally on Nabokov's part?).
 
