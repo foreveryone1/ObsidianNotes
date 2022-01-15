@@ -22,7 +22,7 @@ want</i>
 	| table | press tab for another column | enter for next line |
 	| ----- | ---------------------------- | ------------------- |
 	| wow   | so                           | easy                |
-	| this  | is                           | incredible                    |
+	| this  | is                           | incredible          |
 
 
 ![[obsidian.md/Attachments/circle.png]]
