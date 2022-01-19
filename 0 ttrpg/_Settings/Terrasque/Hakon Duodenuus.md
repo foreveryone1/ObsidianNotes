@@ -37,7 +37,12 @@ Thieves' Tools
 ## Archie (Steel Defender)
 - ## Attributes
 	- **Proficiency Bonus**: +3
-	- Str 14(+2)<br>**Dex** 12(+1)<br>**Con** 14(+2) <br>Int 4 (-3)<br>Wis 10(+0)<br>Cha 6 (-2)
+	- Str 14(+2)  
+		**Dex** 12(+1)  
+		**Con** 14(+2)  
+		Int 4 (-3)  
+		Wis 10(+0)  
+		Cha 6 (-2)  
 	- ## Skills
 	- Athletics
 	- Perception (Expertise)
