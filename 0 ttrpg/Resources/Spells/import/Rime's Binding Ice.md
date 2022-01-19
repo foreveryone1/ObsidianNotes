@@ -11,4 +11,4 @@ A burst of cold energy emanates from you in a 30-foot cone. Each creature in tha
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
 
 #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

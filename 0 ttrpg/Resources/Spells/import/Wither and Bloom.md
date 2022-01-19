@@ -12,4 +12,4 @@ In addition, one creature of your choice in that area can spend and roll one of 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.
 #druid #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

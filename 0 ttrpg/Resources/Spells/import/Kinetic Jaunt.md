@@ -12,4 +12,4 @@ You magically empower your movement with dance-like steps, giving yourself the f
 - You don't provoke opportunity attacks.
 - You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
 #artificer #bard #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

@@ -10,4 +10,4 @@ You magically distract the triggering creature and turn its momentary uncertaint
 
 You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 #bard #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

@@ -17,4 +17,4 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 | 4 | Drops of molasses hover in the cube, making it difficult terrain until the start of your next turn. |
 
 #bard #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

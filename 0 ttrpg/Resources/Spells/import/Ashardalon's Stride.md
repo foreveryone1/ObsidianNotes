@@ -12,4 +12,4 @@ When you move within 5 feet of a creature or an object that isn't being worn or 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, increase your speed by 5 feet for each spell slot level above 3rd. The spell deals an additional 1d6 fire damage for each slot level above 3rd.
 #artificer #ranger #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

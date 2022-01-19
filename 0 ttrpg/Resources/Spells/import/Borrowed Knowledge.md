@@ -8,4 +8,4 @@ ___
 ---
 You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell's duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.
 #bard #cleric #warlock #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell

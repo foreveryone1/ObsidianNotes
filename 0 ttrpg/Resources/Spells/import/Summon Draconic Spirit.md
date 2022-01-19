@@ -13,4 +13,4 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 #druid #sorcerer #wizard
-- [[0 ttrpg/Resources/Spells/import/Untitled]]
+#spell
