@@ -18,7 +18,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 89
+    "downscalePercent": 100
   },
   "tabSize": 2,
   "useTab": true

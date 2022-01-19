@@ -25,42 +25,43 @@ Religion
 | 11     | 12     | **12** | **20** | 8      | 7      |
 | **+0** | **+1** | **+1** | **+5** | **-1** | **-2** |
 
-
-
-- ASI History
-	- Race
-		- Ghostwise Halfling
-			- Int 16=>18
-			- Wis 7=>8
-	- Level
-		- Level 4 Artificer
-			- Fighting Initiate (Throwing Weapons)
-			- Int 18=>20
-
-
 **Attacks/Items**
 [Extra attack]
 Spell save DC: 16
+Spell Attack: +8
+BA: Command Steel Defender
 Hand-Axe +1 (returning, thrown): +9, d6+8 S
 Hand-Axe +1 (returning, melee): +9, d6+6 S
 Thieves' Tools
 
-## Steel Defender
+## Archie (Steel Defender)
 - ## Attributes
 	- **Proficiency Bonus**: +3
 	- Str 14(+2)<br>**Dex** 12(+1)<br>**Con** 14(+2) <br>Int 4 (-3)<br>Wis 10(+0)<br>Cha 6 (-2)
+	- ## Skills
+	- Athletics
+	- Perception (Expertise)
 - ## Features
 	- ![[size_medium|narrow]]
 	- ![[0 ttrpg/Resources/Houserules/GGMM/type_construct|narrow]]
 	- ![[speed_walk|narrow]]
 		- 40 ft.
-	- ## Senses
-		- Darkvision 60 ft.
-- ## Skills
-	- Athletics
-	- Perception (Expertise)
-- ## Resistances
-	- 
+- ## Combat Traits
+	- **HP**: 32/32
+	- **AC**: 15
+	- ### Immunities
+		- **Damage Immunities** poison
+		- **Condition Immunities** charmed, exhaustion, poisoned
+		- **Vigilant.** The defender can't be surprised.
+- ## Actions
+	-  **Force-Empowered Rend.**  
+		Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage.
+	-  **Repair (3/Day).**  
+		The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.
+
+- ## Reactions
+	- **Deflect Attack.**  
+		The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 
 ## Other proficiencies
@@ -196,3 +197,15 @@ At 3rd level, you learn how to produce exactly the tool you need: with thieves' 
 
 ### Artificer Specialist Feature
 Extra Attack
+
+
+## Change log
+- ASI History
+	- Race
+		- Ghostwise Halfling
+			- Int 16=>18
+			- Wis 7=>8
+	- Level
+		- Level 4 Artificer
+			- Fighting Initiate (Throwing Weapons)
+			- Int 18=>20

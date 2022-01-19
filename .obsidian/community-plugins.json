@@ -5,7 +5,6 @@
   "better-word-count",
   "obsidian-dice-roller",
   "obsidian-tabs",
-  "obsidian-pandoc-plugin",
   "table-editor-obsidian",
   "mrj-crosslink-between-notes",
   "obsidian-git",
@@ -13,5 +12,6 @@
   "pane-relief",
   "metaedit",
   "obsidian-sortable",
-  "open-note-to-window-title"
+  "open-note-to-window-title",
+  "obsidian-pandoc"
 ]
