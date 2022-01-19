@@ -1,11 +1,14 @@
 ---
 cssclass: kanban, readable
 ---
+
+
+### Attributes
 Hakon Duodenuus
 Ghostwise Halfling Artificer 5 (College of Whispers)
 Male, Small, Chaotic Good  
-
 ---
+
 MaxHP: 39 (8+8+8+8+2+ 5xCon)
 HP: 39
 Hit dice: 5/5d8
@@ -22,6 +25,8 @@ Religion
 | 11     | 12     | **12** | **20** | 8      | 7      |
 | **+0** | **+1** | **+1** | **+5** | **-1** | **-2** |
 
+
+
 - ASI History
 	- Race
 		- Ghostwise Halfling
@@ -34,10 +39,29 @@ Religion
 
 
 **Attacks/Items**
+[Extra attack]
 Spell save DC: 16
 Hand-Axe +1 (returning, thrown): +9, d6+8 S
 Hand-Axe +1 (returning, melee): +9, d6+6 S
 Thieves' Tools
+
+## Steel Defender
+- ## Attributes
+	- **Proficiency Bonus**: +3
+	- Str 14(+2)<br>**Dex** 12(+1)<br>**Con** 14(+2) <br>Int 4 (-3)<br>Wis 10(+0)<br>Cha 6 (-2)
+- ## Features
+	- ![[size_medium|narrow]]
+	- ![[0 ttrpg/Resources/Houserules/GGMM/type_construct|narrow]]
+	- ![[speed_walk|narrow]]
+		- 40 ft.
+	- ## Senses
+		- Darkvision 60 ft.
+- ## Skills
+	- Athletics
+	- Perception (Expertise)
+- ## Resistances
+	- 
+
 
 ## Other proficiencies
 
@@ -45,6 +69,21 @@ Common, Halfling
 Thieves' Tools, Tinkers' Tools, Carpenters' Tools
 Light Armor, Medium Armour
 Martial Weapons
+
+## Racial Features
+- Lucky.
+	- When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+
+- Brave.
+	- You have advantage on saving throws against being [[0 ttrpg/Resources/Conditions/Frightened|Frightened]].
+
+- Halfling Nimbleness.
+	- You can move through the space of any creature that is of a size larger than yours.
+
+
+- Silent Speech.
+	- You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+
 
 ## Feats
 
@@ -55,10 +94,9 @@ You can draw a weapon that has the thrown property as part of the attack you mak
 In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 
 ## Spells (Prepared: 7)
-Cantrips (Known: 2)
-	- Message
-	- Friends (C)
-	- Vicious Mockery
+
+Spell save DC: 16
+Spell Attack Modifier: +8
 
 - #### Cantrips
 	- [[Mage Hand]]
@@ -73,6 +111,8 @@ Cantrips (Known: 2)
 	- [[Tasha's Hideous Laughter]]
 	- [[Feather Fall]]
 	- [[Cure Wounds]]
+	- **[[Heroism]]**
+	- **[[Shield]]**
 - #### 2nd level
 	- ##### Slots
 		- [ ] 
@@ -80,6 +120,8 @@ Cantrips (Known: 2)
 	- [[Rope Trick]]
 	- [[Heat Metal]]
 	- [[Spider Climb]]
+	- **[[Branding Smite]]**
+	- **[[Warding Bond]]**
 
 
 ## Class Features
@@ -97,6 +139,7 @@ The chosen property lasts indefinitely. As an action, you can touch the object a
 You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object).
 
 ### Spellcasting (PHB 51)
+Prepared Caster
 
 Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
 
@@ -104,41 +147,52 @@ Spell attack modifier = your proficiency bonus + your Intelligence modifier
 
 You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-You can use a musical instrument as a spellcasting focus for your bard spells.
+### Infuse Item (2 infusions)
+4 infusions known
 
-Jack of All Trades (PHB 51)
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
+- [x] **Returning Weapon**
+	- This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
+- [ ] **Repeating Shot**
+	- This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  
+		If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
+- [x] **Enhanced Defence**
+	- A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.  The bonus increases to +2 when you reach 10th level in this class.
+- [ ] **Replicate Magic Item: Cap of Water-Breathing**
+	- While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.
 
-Song of Rest (d6) (PHB 51)
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
-The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
+### Battle Smith
+Tool Proficiency
+When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
-College of Whispers (XGE 16)
-Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.
-Many other bards hate the College of Whispers, viewing it as a parasite that uses a bard's reputation to acquire wealth and power. For this reason, members of this college rarely reveal their true nature. They typically claim to follow some other college, or they keep their actual calling secret in order to infiltrate and exploit royal courts and other settings of power.
+Battle Smith Spells
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
-Psychic Blades
-When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.
-When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra 2d6 psychic damage to that target. You can do so only once per round on your turn.
-The psychic damage increases when you reach certain levels in this class, increasing to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level.
+Battle Smith Spells
 
-Words of Terror
-At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror.
-If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened of you or another creature of your choice. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
-If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.
-Once you use this feature, you can't use it again until you finish a short or long rest.
+| Artificer Level | Spell                             |
+| --------------- | --------------------------------- |
+| 3rd             | heroism, shield                   |
+| 5th             | branding smite, warding bond      |
+| 9th             | aura of vitality, conjure barrage |
+| 13th            | aura of purity, fire shield       |
+| 17th            | banishing smite, mass cure wounds |
 
-Expertise (PHB 51)
-At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-At 10th level, you can choose another two skill proficiencies to gain this benefit.
+Battle Ready
 
-Font of Inspiration (PHB 51)
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
+`    You gain proficiency with martial weapons.`
+`When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls`
 
+Steel Defender
 
-Creation details
-(base: 10, 7, 15, 15, 13, 16)
-(Human: +1 to all)
-(Switch any 2: DEX <=> WIS)
-(LVL 4 ASI : +1 CHA, +1 STR)
-(LVL 4 feat: +1 CHA)
+In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.
+
+If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
+
+At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+
+### The Right Tool for the Job
+At 3rd level, you learn how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+
+### Artificer Specialist Feature
+Extra Attack
