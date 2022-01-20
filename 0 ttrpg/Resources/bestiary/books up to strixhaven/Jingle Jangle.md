@@ -1,0 +1,29 @@
+# Jingle Jangle
+>*Small humanoid (goblinoid), chaotic good*
+>___
+>- **Armor Class** 15 (leather armor, shield)
+>- **Hit Points** 7 (2d6)
+>- **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
+>___
+>- **Skills** Stealth +6
+>- **Senses** darkvision 60 ft., passive Perception 9
+>- **Languages** Common, Goblin
+>- #cr1/4 (50 XP)
+>- **Proficiency Bonus** +2
+>___
+>***Nimble Escape.*** Jingle Jangle can take the Disengage or Hide action as a bonus action on each of her turns.  
+>
+>### Actions
+>***Flail of Locks.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (3d4) bludgeoning damage.
+
+## Jingle Jangle
+
+Jingle Jangle's obsession with keys serves as a cautionary tale for those who would enter into a bargain with Bavlorna Blightstraw. The goblin once sought the hag's help in a desperate attempt to undo what she thought was a terrible curse: wherever Jingle Jangle went, she felt a tormenting fear of being caught on the wrong side of a locked door. When she appealed to Bavlorna for aid, the hag removed the goblin's ability to perceive that fear and replaced it with an insatiable and overwhelming need to collect keys. So great is this obsession that Jingle Jangle has lost her own sense of self and now refers to herself only in the third person.
+
+Jingle Jangle is a kind soul who refers to herself in the third person. She has a knack for finding keys and is thrilled to add new ones to her collection. She also gives keys as gifts to those who need them.
+
+Jingle Jangle seeks a quiet life far away from locked doors and the intrigues of the fey courts. She moved to Telemy Hill to enjoy the hill's companionship and protection.
