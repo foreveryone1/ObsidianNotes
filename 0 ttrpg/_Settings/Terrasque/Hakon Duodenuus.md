@@ -5,7 +5,7 @@ cssclass: kanban, readable
 
 ### Attributes
 Hakon Duodenuus
-Ghostwise Halfling Artificer 5 (College of Whispers)
+Ghostwise Halfling Artificer 5 (Battlesmith)
 Male, Small, Chaotic Good  
 ---
 
