@@ -1,5 +1,4 @@
-| table | press tab for another column | enter for next line |
-| ----- | ---------------------------- | ------------------- |
-| wow   | so                           | easy                |
-| this  | is                           | incredible          |
-| lines | more                         | lines                    |
+| [a] pullups [b] chinups                      | [a]L hang [b] hanging windshield wiper | pushup                 | boxjump | plyometric pushup |
+| -------------------------------------------- | -------------------------------------- | ---------------------- | ------- | ----------------- |
+| mik op 10x, dan gewichten beginnen gebruiken | **[a]** 20s  [b] 4+ keer heen en weer  | **[a]** 12x **[b]** 7x | 12x     | 12                |
+|                                              |                                        | **[a]** normale pushups, wide, diamond, pike  **[b]** dips, dive bomber pushup|                   |
