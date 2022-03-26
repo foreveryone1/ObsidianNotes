@@ -9,16 +9,20 @@ Possible to find equipment to borrow / steal
 ## Gas swamps
 a foul bubbling mess
 the mud is difficult to trudge through at best
+HUNGER
+
+## floodland
+a vast still plain
+sometimes glimpses of a young woman can be had, darting across the water
+when looking better at her, you now realise she is walking on the hands of the drowned, who hold her up
+THIRST
 
 ## Village of sanga
 the whole village seems to be windswept
 pockmarks and nicks seem to mark every building
 two houses stand opposite eachother atthe end of the village
 
-## floodland
-a vast still plain
-sometimes glimpses of a young woman can be had, darting across the water
-when looking better at her, you now realise she is walking on the hands of the drowned, who hold her up
+
 
 ## mirror room
 The carved walls open up to a large ballroom, with a vast mirror on one side
@@ -84,6 +88,14 @@ bewaakt door zowel winter en zomer
 non-violent solution to the conflict between the brothers
 the top of the bird's nest is inhabited by an angry creature that has settled into the nest
 a vague glimpse of shining rock can be seen below
+
+## the agate
+a stone that grants the user and its allies a pool of 2d6 turns to use when activated
+
+rogue fey
+
+winter and summer banded together to erect a barrier to lock him in
+the man starved, they maintain the barrier
 
 
 ## Tumnus
