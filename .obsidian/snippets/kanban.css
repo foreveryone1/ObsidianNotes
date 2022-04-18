@@ -151,4 +151,8 @@ h6 > .internal-link, h6 > .external-link, h6 > .internal-link.is-unresolved {
 
 .kanban.player ul li[data-line="0"] {max-width: 360px}
 
+.kanban li > ul::before, .kanban li > ol::before {
+    border-right: 0px solid var(--indentation-guide)!important;
+}
+
 
