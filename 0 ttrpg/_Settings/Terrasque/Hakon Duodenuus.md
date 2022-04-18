@@ -9,8 +9,8 @@ Ghostwise Halfling Artificer 5 (Battlesmith)
 Male, Small, Chaotic Good  
 ---
 
-MaxHP: 39 (8+8+8+8+2+ 5xCon)
-HP: 39
+MaxHP: 39 (8+8+8+8+2+3+ 6xCon)
+HP: 42
 Hit dice: 5/5d8
 AC: 18 (Scalemail/Shield+1)
 
@@ -52,7 +52,7 @@ Thieves' Tools
 	- ![[speed_walk|narrow]]
 		- 40 ft.
 - ## Combat Traits
-	- **HP**: 32/32
+	- **HP**: 37/37
 	- **AC**: 15
 	- ### Immunities
 		- **Damage Immunities** poison
@@ -157,7 +157,7 @@ Spell attack modifier = your proficiency bonus + your Intelligence modifier
 
 You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-### Infuse Item (2 infusions)
+### Infuse Item (3 infusions)
 4 infusions known
 
 - [x] **Returning Weapon**
@@ -165,10 +165,15 @@ You can cast an artificer spell as a ritual if that spell has the ritual tag and
 - [ ] **Repeating Shot**
 	- This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  
 		If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
-- [x] **Enhanced Defence**
+- [ ] **Enhanced Defence**
 	- A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.  The bonus increases to +2 when you reach 10th level in this class.
 - [ ] **Replicate Magic Item: Cap of Water-Breathing**
 	- While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.
+- [x] **Boots of the Winding Path**
+	- While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+- [x] **Repulsion Shield**
+	- A creature gains a +1 bonus to Armor Class while wielding this shield.  
+		The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
 
 ### Battle Smith
 Tool Proficiency
