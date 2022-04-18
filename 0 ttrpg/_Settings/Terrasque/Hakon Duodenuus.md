@@ -9,8 +9,8 @@ Ghostwise Halfling Artificer 5 (Battlesmith)
 Male, Small, Chaotic Good  
 ---
 
-MaxHP: 39 (8+8+8+8+2+3+ 6xCon)
-HP: 42
+MaxHP: 42 (8+8+8+8+2+3+ 6xCon)
+HP:: 39
 Hit dice: 5/5d8
 AC: 18 (Scalemail/Shield+1)
 
