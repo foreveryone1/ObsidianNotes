@@ -15,7 +15,7 @@ number of powers known =
 ## Power list
 
 -	Lunging attack
-	-	Requires a mee weapon
+	-	Requires a melee weapon
 	-	You can spend MP to move 5 ft. per MP spent in a straight line through at least one enemy as an action. Deal your Weapon skill ranks to every enemy you pass through. This movement does not incur opportunity attacks.
 -	Second Wind
 	-	Regain health equal to your MP spent as an action.
@@ -39,7 +39,8 @@ number of powers known =
 	-	Requires Screen
 	-	When you create a screen you can imbue it with magic. Enemies that move through it receive damage equal to the amount of MP you spent on imbuing the screen.
 -	Ricochet
-	-	If a ranged attack misses you, you can use your reaction to expend 1 MP and make a ranged attack against against a target of your choosing.
+	-	Requires a shield
+	-	If a ranged attack misses you, you can use your reaction to expend 1 MP and make a ranged attack against a target of your choosing.
 -	Tactical Volley
 	-	You can spend MP to perform a volley as an action. Mark a number of squares equal to your Ranged Weapons skill until the end of combat. Any enemy that ends their turn in a marked square receives damage equal to the amount of MP you spent.
 -	Weave Wall
@@ -49,16 +50,16 @@ number of powers known =
 -	Pain Mark
 	-	You can spend 5 MP to mark an enemy as an action. The next time a marked creature takes damage, that damage is doubled.
 -	Invoke
-	-	You can spend MP to conjure a blast as an action. Select a number of squares equal to your Magic skill. Any enemy standing in a marked square takes damage equal to your MP spent.
+	-	You can spend MP to conjure a blast as an action. Select a number of squares equal to your Magic skill. Any enemy standing in the blast takes damage equal to your MP spent.
 -	Reel In
 	-	You can spend 1 MP to make a Ranged Attack as an action. If the attack is successful, move the target 10 feet closer to you and deal additional damage equal to your ranks in Ranged Weapons.
 -	Companion Strike
 	-	Spiritual Companion
-	-	You can spend 1 MP to command your Spiritual Companion to perform one melee attack using one of your Weapon skills. On a hit, deal additional damage equal to one of your magic skills.
+	-	You can spend 1 MP to command your Spiritual Companion to perform one melee attack using one of your Weapon skills. On a hit, deal additional damage equal to your magic skills.
 -	Enhanced Dodge
 	-	You can spend MP to take the Evade action. Decrease the difficulty of all defence rolls by an additional amount equal to your MP spent until the start of your next turn.
 -	Paralysing Blow
-	-	You can spend 5 mana to attempt perform an attack against an enemy and attempt to paralyse the enemy with your Medicine skill. If the creature is paralysed, it can repeat the roll at the end of its turn.
+	-	You can spend 5 mana to perform an attack against an enemy and attempt to paralyse the enemy with your Medicine skill. If the creature is paralysed, it can attempt to end the paralysis at the end of its turn.
 -	Ragdoll
 	-	If you take damage, you can spend MP to take a reaction. Reduce the damage you take by the amount of MP you spent and move a number of squares away equal to your MP spent without incurring opportunity attacks.
 
