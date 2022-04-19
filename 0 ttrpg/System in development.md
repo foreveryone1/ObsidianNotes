@@ -25,7 +25,7 @@ number of powers known =
 -	Disarming Strike
 	-	You can spend one MP to make an attack as an action and attempt to disarm that creature using your weapon skill. Deal additional damage equal to your ranks in the weapon skill you used to make that attack.
 -	Feinting Attack
-	-	You can spend MP to perform an attack as an action. In addition, the difficulty of your next attack against that creature is decreased by the number of MP spent.
+	-	You can spend MP to perform an attack as an action. In addition, the difficulty of the next attack against that creature is decreased by the number of MP spent.
 -	Grappling Strike
 	-	A free hand
 	-	You can spend one MP to make a melee attack as an action and attempt to grapple that creature using your athletics. Deal additional damage equal to your ranks in athletics.
@@ -44,7 +44,7 @@ number of powers known =
 -	Tactical Volley
 	-	You can spend MP to perform a volley as an action. Mark a number of squares equal to your Ranged Weapons skill until the end of combat. Any enemy that ends their turn in a marked square receives damage equal to the amount of MP you spent.
 -	Weave Wall
-	-	You can spend MP to create a wall as an action. Each MP spent creates a wall one square high and one square wide. If a wall is targeted roll your magic skill to determine if they are maintained.
+	-	You can spend MP to create a wall as an action. Each MP spent creates a wall one square high and one square wide. If a wall is targeted roll your education skill to determine if they are maintained.
 -	Action Surge
 	-	You can spend 5 MP to gain 2 additional actions on your turn. Attacks made with the additional actions do not accrue MP.
 -	Pain Mark
@@ -61,7 +61,32 @@ number of powers known =
 -	Paralysing Blow
 	-	You can spend 5 mana to perform an attack against an enemy and attempt to paralyse the enemy with your Medicine skill. If the creature is paralysed, it can attempt to end the paralysis at the end of its turn.
 -	Ragdoll
-	-	If you take damage, you can spend MP to take a reaction. Reduce the damage you take by the amount of MP you spent and move a number of squares away equal to your MP spent without incurring opportunity attacks.
+	-	If you take damage, you can spend MP to take a reaction. Reduce the damage you take by the amount of MP you spend and move a number of squares away equal to your MP spent without incurring opportunity attacks.
+
+
+| name                |
+| ------------------- |
+| Action Surge        |
+| Companion Strike    |
+| Disarming Strike    |
+| Enhanced Dodge      |
+| Enhanced Dodge      |
+| Feinting Attack     |
+| Fell Blow           |
+| Grappling Strike    |
+| Imbued Screen       |
+| Invoke              |
+| Lead by Example     |
+| Lunging attack      |
+| Pain Mark           |
+| Paralysing Blow     |
+| Ragdoll             |
+| Reel In             |
+| Ricochet            |
+| Second Wind         |
+| Steadfast Protector |
+| Tactical Volley     |
+| Weave Wall          |
 
 # Traits
 Adjust warden to make defence rolls easier instead of damage reduction
@@ -75,3 +100,5 @@ Magic Reader with Gift of Script
 counter hit melee attack, same target
 
 Rename Invoke to Harm
+
+
