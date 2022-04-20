@@ -16,7 +16,7 @@ number of powers known =
 
 -	Lunging attack
 	-	Requires a melee weapon
-	-	You can spend MP to move 5 ft. per MP spent in a straight line through at least one enemy as an action. Deal your Weapon skill ranks in damage to every enemy you pass through. This movement does not incur opportunity attacks.
+	-	As an action, you can move 5 ft. per MP spent in a straight line through at least one enemy, without incurring opportunity attacks. Deal your Melee ranks in damage to every enemy in that line.
 -	Second Wind
 	-	As an action, you can spend MP. Regain hit points equal to the amount of MP spent.
 -	Lead by Example
