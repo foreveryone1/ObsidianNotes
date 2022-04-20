@@ -58,8 +58,8 @@ number of powers known =
 	-	You can spend 1 MP to command your Spiritual Companion to perform one melee attack using one of your Weapon skills. On a hit, deal additional damage equal to your magic skills.
 -	Enhanced Dodge
 	-	You can spend MP to take the Evade action. Decrease the difficulty of all defence rolls by an additional amount equal to your MP spent until the start of your next turn.
--	Paralysing Blow
-	-	You can spend 5 mana to perform an attack against an enemy and attempt to paralyse the enemy with your Medicine skill. If the creature is paralysed, it can attempt to end the paralysis at the end of its turn.
+-	Stunning Blow
+	-	You can spend 5 mana to perform an attack against an enemy and attempt to stun the enemy with your Medicine skill. If the creature is stunned, it can attempt to end the stun at the end of its turn.
 -	Ragdoll
 	-	If you take damage, you can spend MP to take a reaction. Per MP spent you reduce the damage you take by 1 and move 1 square away without incurring opportunity attacks.
 
@@ -69,7 +69,6 @@ number of powers known =
 | Action Surge        |
 | Companion Strike    |
 | Disarming Strike    |
-| Enhanced Dodge      |
 | Enhanced Dodge      |
 | Feinting Attack     |
 | Fell Blow           |
