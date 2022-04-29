@@ -3,6 +3,7 @@ cssclass: alphabetlist
 ---
 > [Testing vault](obsidian://open?vault=pane%20relief%20testing&file=Untitled) 
 > [Comfy DND](obsidian://open?vault=Comfy%20DND)
+> [Streamers](obsidian://open?vault=streamers)
 > [5egcompendium](obsidian://open?vault=5egcompendium&file=README)
 > 
 
