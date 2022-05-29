@@ -2,7 +2,7 @@ author::Plath, Sylvia
 status:: Read
 rating:: Positive
 notes:: A withering olive tree
-link:: [[1 notes/11 media/111 books/The Bell Jar|link]]
+link:: [[1 notes/11 media/111 books/Bell Jar, the|link]]
 date-read:: 2022/02/02
 
 

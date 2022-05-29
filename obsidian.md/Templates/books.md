@@ -4,5 +4,5 @@ status:: Reading To Read
 rating::
 notes::
 date-read::
-link:: [[|link]]
+link:: [[{{title}}|link]]
 %%
