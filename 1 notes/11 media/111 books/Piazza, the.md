@@ -1,4 +1,11 @@
-author::melville
+%%
+author:: Melville, Herman
+status:: Read
+rating:: Positive
+notes:: What we imagine isn't always reality
+date-read:: 2021/10/15
+link:: [[1 notes/11 media/111 books/Piazza, the|link]]
+%%
 
 The language is colourful and lurid, and the name Don Quixote is even evoked. The sense of magic is ruthlessly shattered by Melville. Just as we were expecting a magical tale, so too was the perspective character, who is brought to reality.
 

@@ -1,7 +1,9 @@
+# Reading/Read
 - [c] # hidable
-  - ## ⚔ Party Overview
-  - [x] 
-  - <i>![tall](0%20ttrpg/_Settings/Leverhulm/ʒ%20lv%20char%20backend.md#Present)</i>
-  - <i>![tall](0%20ttrpg/_Settings/Leverhulm/ʒ%20lv%20char%20backend.md#All%20Members)</i>
+  - ## Books
+  - [ ] 
+  - <i>![tall](1%20notes/11%20media/ʒ%20Book%20Backend#Read)</i>
+  - <i>![tall](1%20notes/11%20media/ʒ%20Book%20Backend#Currently%20Reading)</i>
 
 # All books
+![[1 notes/11 media/ʒ Book Backend#All Books|tall]]

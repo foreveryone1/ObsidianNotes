@@ -1,4 +1,10 @@
-author::Plath
+author::Plath, Sylvia
+status:: Read
+rating:: Positive
+notes:: A withering olive tree
+link:: [[1 notes/11 media/111 books/The Bell Jar|link]]
+date-read:: 2022/02/02
+
 
 Fear of motherhood
 - Expressed through the physical revulsion she feels witnessing a birth, but also reflected in the way she evaluates her role in society

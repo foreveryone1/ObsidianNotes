@@ -29,3 +29,8 @@ img[alt*="rotate90"]{ transform: rotate(90deg);}
 .markdown-preview-view th, .markdown-preview-view td {
     padding: 4px 7px;
 }
+
+
+li.dataview-result-list-li {
+list-style: none;
+}

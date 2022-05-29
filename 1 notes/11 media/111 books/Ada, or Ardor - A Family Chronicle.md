@@ -1,5 +1,12 @@
-completed::20211204
-author::nabokov
+%%
+author:: Nabokov, Vladimir
+status:: Read
+link:: [[1 notes/11 media/111 books/Ada, or Ardor - A Family Chronicle|link]]
+rating:: Positive
+notes:: Delightful language, overwhelming erudition and wordplay.
+date-read:: 2022/02/01
+%%
+
 
 Delightful language, overwhelming erudition and wordplay.
 
