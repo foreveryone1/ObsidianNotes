@@ -36,14 +36,3 @@ table .internal-embed[src*="#^"] .markdown-embed-content {background-color: tran
 table .internal-embed[src*="#^"] .markdown-preview-view {padding: 0;}
 
 
-
-a.external-link:hover::before {
-    display: block;
-    content: attr(href);
-    position: absolute;
-    background-color: var(--background-secondary);
-    border-radius: 5px;
-    padding: 3px;
-}
-
-
