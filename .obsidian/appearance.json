@@ -13,8 +13,6 @@
     "set embed height",
     "side by side images",
     "sidedock settings",
-    "skinny scrollbars",
-    "titlebar",
     "transclusion-RMurphy",
     "1ellipsisoff",
     "checkboxes styling",
@@ -31,10 +29,12 @@
     "monospaced editor",
     "naked embed",
     "custom colours",
-    "test",
     "collapsibles",
     "indents-outline",
-    "dataview"
+    "dataview",
+    "titlebar",
+    "test",
+    "skinny scrollbars"
   ],
   "translucency": false,
   "baseFontSize": 16,

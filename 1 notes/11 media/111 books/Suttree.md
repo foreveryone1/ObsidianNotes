@@ -1,5 +1,5 @@
 %%
-author:: Cormac McCarthy
+author:: McCarthy, Cormac
 status::To Read
 rating::
 notes::
