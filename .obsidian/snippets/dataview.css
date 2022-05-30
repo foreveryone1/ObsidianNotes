@@ -34,3 +34,16 @@ img[alt*="rotate90"]{ transform: rotate(90deg);}
 li.dataview-result-list-li {
 list-style: none;
 }
+
+
+div[src*="Book"] .table-view-tr-header th:first-of-type {
+
+size: 0px;
+font-size: 0px;
+}
+
+div[src*="Book"] .table-view-tr-header th:first-of-type::after {
+content: "Title";
+visibility: visible;
+font-size: larger!important;
+}
