@@ -38,7 +38,7 @@ margin-bottom: 20px;
 
 
 .internal-embed.is-loaded[alt="tall"] {
-  max-height: 80vh !important;
+  max-height: 70vh !important;
   overflow: auto !important;
 
 }

@@ -37,13 +37,18 @@ list-style: none;
 
 
 div[src*="Book"] .table-view-tr-header th:first-of-type {
-
-size: 0px;
+visibility: hidden;
 font-size: 0px;
 }
 
 div[src*="Book"] .table-view-tr-header th:first-of-type::after {
-content: "Title";
+content: "Title\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
 visibility: visible;
-font-size: larger!important;
+font-size: 19.2px;
+width: auto;
+}
+
+div[src*="Book"] .table-view-tbody tr td:first-of-type .internal-link{
+font-weight: 800;
+text-decoration: none;
 }

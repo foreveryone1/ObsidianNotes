@@ -2,7 +2,7 @@ author:: Melville, Herman
 link:: [[1 notes/11 media/111 books/Bartleby the Scrivener|link]]
 status:: Read
 rating:: Positive
-notes:: I would prefer not to
+notes:: \"I would prefer not to\"
 date-read:: 2021/10/01
 
 Passive resistance

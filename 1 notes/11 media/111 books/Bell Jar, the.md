@@ -1,7 +1,7 @@
 author::Plath, Sylvia
 status:: Read
 rating:: Positive
-notes:: A withering olive tree
+notes:: A withering olive tree, being a woman, what society expects from a woman.
 link:: [[1 notes/11 media/111 books/Bell Jar, the|link]]
 date-read:: 2022/03/02
 

@@ -4,7 +4,6 @@ status:: Reading
 rating::
 notes::
 date-read::
-link:: [[1 notes/11 media/111 books/Anabasis|link]]
 %%
 ## Anabasis - Cyrus on loyalty to former friends
 ### Text

@@ -2,7 +2,7 @@
 author:: Faulkner, William
 status:: Reading
 rating:: Positive
-notes:: "She smells like trees." Caddy, the central figure, is never a perspective character, only how she is perceived.
+notes:: "She smells like trees." Caddy, the central figure, is never a perspective character, she is only perceived.
 date-read::
 link:: [[Sound and the Fury, the|link]]
 %%

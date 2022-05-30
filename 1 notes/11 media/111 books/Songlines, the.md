@@ -2,7 +2,7 @@
 author::Chatwin, Bruce
 status:: Read
 rating:: Ambivalent
-notes:: Travel section is forgettable, section on nomadism is extraordinary. Cain, the farmer, slays Abel, the pastoralist.
+notes:: Travel section is forgettable, section on nomadism is extraordinary. Cain the farmer slays Abel, the pastoralist, or did the Nomad become the mercenary king that rules over his flock?
 date-read::2018/14/12
 link:: [[Songlines, the|link]]
 %%
