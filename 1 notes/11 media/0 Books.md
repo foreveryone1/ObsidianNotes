@@ -1,7 +1,7 @@
 # 📕📖
 - [c] # hidable
   - ## 
-  - [ ] 
+  - [x] 
   - <i>![tall](1%20notes/11%20media/ʒ%20Book%20Backend#Read)</i>
   - ![tall](1%20notes/11%20media/ʒ%20Book%20Backend#Currently%20Reading)
 
