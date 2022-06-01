@@ -93,8 +93,8 @@ async function start(params, settings) {
 	parsedTitle = parsedTitle.slice(4) + ', ' + parsedTitle.slice(0,3)
 	}
 	
-	parsedAuthors.forEach((element, index) => {
-	parsedAuthors[index] = parseName(element);
+	parsedAuthors.forEach((e, i) => {
+	parsedAuthors[i] = parseName(e);
 	});
 	
 	QuickAdd.variables = {
