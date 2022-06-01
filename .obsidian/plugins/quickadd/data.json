@@ -1,0 +1,63 @@
+{
+  "choices": [
+    {
+      "id": "b9aa5b58-d87f-493a-be65-28fec2604522",
+      "name": "Book",
+      "type": "Macro",
+      "command": true,
+      "macroId": "de80f2b0-526d-4b08-8797-b9783d23f100"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Book Adder",
+      "id": "de80f2b0-526d-4b08-8797-b9783d23f100",
+      "commands": [
+        {
+          "name": "script_googleBooks_quickAdd",
+          "type": "UserScript",
+          "id": "80dc898b-ce06-4cab-8cf2-6693a79de67c",
+          "path": "obsidian.md/script_googleBooks_quickAdd.js",
+          "settings": {
+            "Google Books API Key": "AIzaSyBt2FN_dKCIv-UN8oa5NlVxW5dimZo5FZg"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "aabd9ff4-1412-4e1b-b744-495bc6e4332a",
+          "choice": {
+            "id": "7e9e822b-e2bf-4ca9-8391-af04b5de4ffe",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "obsidian.md/Templates/quickaddbooks.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "1 notes/11 media/111 books"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "source"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}
