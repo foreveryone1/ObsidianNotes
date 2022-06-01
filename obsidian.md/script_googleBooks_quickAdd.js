@@ -74,8 +74,8 @@ async function start(params, settings) {
 
 	const ISBN = getISBN(selectedBook);
 
-	let isRead = "";
-	let myRating = "";
+	let isRead = " ";
+	let myRating = " ";
 	let comment = " ";
 	let dateRead = " ";
 
@@ -85,10 +85,7 @@ async function start(params, settings) {
 	if(isRead == "Read"){
 		dateRead = await QuickAdd.quickAddApi.inputPrompt("Date Read", null, " ");
 		myRating = await QuickAdd.quickAddApi.suggester(["Rating: Positive", "Rating: Ambivalent", "Rating: Negative"],["Positive", "Ambivalent", "Negative"]);
-	} else {
-	dateRead = ""
-	myRating = ""
-	};
+	} 
 	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ")
 
 
