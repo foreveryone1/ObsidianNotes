@@ -1,5 +1,7 @@
+---
+author: ['Kundera, Milan']
+---
 %%
-author::Kundera, Milan
 status:: Read
 rating::Positive
 notes:: Love, a dead dog, Czechia behind the Iron Curtain. That which occurs in life happens once and never again => Lightness

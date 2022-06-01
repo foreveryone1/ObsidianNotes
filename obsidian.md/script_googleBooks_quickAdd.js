@@ -79,6 +79,7 @@ async function start(params, settings) {
 	let comment = " ";
 	let dateRead = " ";
 	let parsedAuthors = selectedBook.authors;
+	let parsedTitle = replaceIllegalFileNameCharactersInString(selectedBook.title);
 
 	
 	isRead = await QuickAdd.quickAddApi.suggester(["Status: Read", "Status: DNF", "Status: To Read", "Status: Reading"],["Read", "DNF", "To Read", "Reading"]);
@@ -88,15 +89,18 @@ async function start(params, settings) {
 	};
 	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ");
 
-
+	if(parsedTitle.slice(0,4) == "The "){
+	parsedTitle = parsedTitle.slice(4) + ', ' + parsedTitle.slice(0,3)
+	}
+	
 	parsedAuthors.forEach((element, index) => {
 	parsedAuthors[index] = parseName(element);
 	});
 	
 	QuickAdd.variables = {
 		...selectedBook,
-		fileName: replaceIllegalFileNameCharactersInString(selectedBook.title),
-		authors: formatList(parsedAuthors),
+		fileName: parsedTitle,
+		authors: formatList(selectedBook.authors),
 		isbn10: `${ISBN.ISBN10 ? ISBN.ISBN10 : " "}`,
 		isbn13: `${ISBN.ISBN13 ? ISBN.ISBN13 : " "}`,
 		// An URL to the GoodReads page of the book using its ISBN. 
@@ -181,7 +185,7 @@ function formatList(list) {
 }
 
 function replaceIllegalFileNameCharactersInString(string) {
-	return string.replace(/[\\,#%&\{\}\/*<>$\":@.]*/g, "-");
+	return string.replace(/[\\,#%&\{\}\/*<>$\":@.]*/g, "");
 }
 
 async function apiGet(query) {
@@ -208,7 +212,7 @@ function parseName(input) {
 	var parsedName = " ";
 
     if (fullName.length > 0) {
-        var nameTokens = fullName.match(/[A-ZÁ-ÚÑÜ][a-zá-úñü]+|([aeodlsz]+\s+)+[A-ZÁ-ÚÑÜ][a-zá-úñü]+/g) || [];
+        var nameTokens = fullName.match(/[A-ZÁ-ÚÑÜ][a-zá-úñü.]+|([aeodlsz]+\s+)+[A-ZÁ-ÚÑÜ][a-zá-úñü.]+/g) || [];
 
         if (nameTokens.length > 3) {
             result.name = nameTokens.slice(0, 2).join(' ');
