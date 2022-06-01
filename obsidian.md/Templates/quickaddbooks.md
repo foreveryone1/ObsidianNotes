@@ -1,5 +1,7 @@
+---
+author: [{{VALUE:authors}}]
+---
 %%
-author:: {{VALUE:authors}}
 publishdate:: {{VALUE:release}}
 status:: {{VALUE:read}}
 rating:: {{VALUE:rating}}

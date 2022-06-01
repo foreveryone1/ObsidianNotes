@@ -175,13 +175,13 @@ async function getByQuery(query) {
 
 function formatList(list) {
 	if (list.length === 0 || list[0] == "N/A") return " ";
-	if (list.length === 1) return `${list[0]}`;
+	if (list.length === 1) return `\"${list[0]}\"`;
 
 	return list.map((item) => `\"${item.trim()}\"`).join(", ");
 }
 
 function replaceIllegalFileNameCharactersInString(string) {
-	return string.replace(/[\\,#%&\{\}\/*<>$\":@.]*/g, "");
+	return string.replace(/[\\,#%&\{\}\/*<>$\":@.]*/g, "-");
 }
 
 async function apiGet(query) {
@@ -224,8 +224,10 @@ function parseName(input) {
             result.secondLastName = "";
         }
     }
-	
+	if (result.secondLastName) {
 	parsedName = result.lastName + ' ' + result.secondLastName + ', ' + result.name
-	
+	} else {
+	parsedName = result.lastName + result.secondLastName + ', ' + result.name	
+	}
     return parsedName;
 }
