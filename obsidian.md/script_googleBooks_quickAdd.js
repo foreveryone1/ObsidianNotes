@@ -78,21 +78,25 @@ async function start(params, settings) {
 	let myRating = " ";
 	let comment = " ";
 	let dateRead = " ";
-
+	let parsedAuthors = selectedBook.authors;
 
 	
 	isRead = await QuickAdd.quickAddApi.suggester(["Status: Read", "Status: DNF", "Status: To Read", "Status: Reading"],["Read", "DNF", "To Read", "Reading"]);
 	if(isRead == "Read"){
 		dateRead = await QuickAdd.quickAddApi.inputPrompt("Date Read", null, " ");
 		myRating = await QuickAdd.quickAddApi.suggester(["Rating: Positive", "Rating: Ambivalent", "Rating: Negative"],["Positive", "Ambivalent", "Negative"]);
-	} 
-	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ")
+	};
+	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ");
 
 
+	parsedAuthors.forEach((element, index) => {
+	parsedAuthors[index] = parseName(element);
+	});
+	
 	QuickAdd.variables = {
 		...selectedBook,
 		fileName: replaceIllegalFileNameCharactersInString(selectedBook.title),
-		authors: formatList(selectedBook.authors),
+		authors: formatList(parsedAuthors),
 		isbn10: `${ISBN.ISBN10 ? ISBN.ISBN10 : " "}`,
 		isbn13: `${ISBN.ISBN13 ? ISBN.ISBN13 : " "}`,
 		// An URL to the GoodReads page of the book using its ISBN. 
@@ -196,4 +200,32 @@ async function apiGet(query) {
 	})
 	
 	return JSON.parse(res);
+}
+
+function parseName(input) {
+    var fullName = input || "";
+    var result = {};
+	var parsedName = " ";
+
+    if (fullName.length > 0) {
+        var nameTokens = fullName.match(/[A-ZÁ-ÚÑÜ][a-zá-úñü]+|([aeodlsz]+\s+)+[A-ZÁ-ÚÑÜ][a-zá-úñü]+/g) || [];
+
+        if (nameTokens.length > 3) {
+            result.name = nameTokens.slice(0, 2).join(' ');
+        } else {
+            result.name = nameTokens.slice(0, 1).join(' ');
+        }
+
+        if (nameTokens.length > 2) {
+            result.lastName = nameTokens.slice(-2, -1).join(' ');
+            result.secondLastName = nameTokens.slice(-1).join(' ');
+        } else {
+            result.lastName = nameTokens.slice(-1).join(' ');
+            result.secondLastName = "";
+        }
+    }
+	
+	parsedName = result.lastName + ' ' + result.secondLastName + ', ' + result.name
+	
+    return parsedName;
 }

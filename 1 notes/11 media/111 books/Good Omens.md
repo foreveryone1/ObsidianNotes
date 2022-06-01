@@ -1,9 +1,9 @@
 %%
-author:: "Neil Gaiman", "Terry Pratchett"
-publishdate:: 1992
-status:: To Read
+author:: "Gaiman , Neil"; "Pratchett , Terry"
+publishdate:: 2011
+status:: Reading
 rating::  
 notes::  
 date-read::  
-ISBN13:: 9780425132159
+ISBN13:: 9780061991127
 %%

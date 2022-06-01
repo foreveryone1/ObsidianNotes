@@ -74,18 +74,20 @@ async function start(params, settings) {
 
 	const ISBN = getISBN(selectedBook);
 
-	let isRead = "";
-	let myRating = "";
-	let myRecommender = " ";
+	let isRead = " ";
+	let myRating = " ";
 	let comment = " ";
+	let dateRead = " ";
 
 
 	
-	isRead = await QuickAdd.quickAddApi.inputPrompt("Status", null, " ");
-	myRecommender = await QuickAdd.quickAddApi.inputPrompt("Recommender", null, " ");
-	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ");
-	myRating = await QuickAdd.quickAddApi.inputPrompt("Rating", null, " ");
-	dateRead = await QuickAdd.quickAddApi.inputPrompt("Date Read", null, " ");
+	isRead = await QuickAdd.quickAddApi.suggester(["Status: Read", "Status: DNF", "Status: To Read", "Status: Reading"],["Read", "DNF", "To Read", "Reading"]);
+	if(isRead == "Read"){
+		dateRead = await QuickAdd.quickAddApi.inputPrompt("Date Read", null, " ");
+		myRating = await QuickAdd.quickAddApi.suggester(["Rating: Positive", "Rating: Ambivalent", "Rating: Negative"],["Positive", "Ambivalent", "Negative"]);
+	};
+	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ")
+
 
 	QuickAdd.variables = {
 		...selectedBook,
@@ -105,8 +107,6 @@ async function start(params, settings) {
 		rating: myRating,
 		// Is the book already read ? 1 if yes, 0 otherwise.
 		read: isRead,
-		// Who recommended the book to me?
-		recommender: myRecommender,
 		dateread: dateRead,
 		// A short personal comment on the book.
 		comment
