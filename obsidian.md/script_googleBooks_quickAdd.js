@@ -89,7 +89,7 @@ async function start(params, settings) {
 	};
 	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ");
 
-	if(parsedTitle.slice(0,4) == "The "){
+	if(parsedTitle.slice(0,4) == "The " || parsedTitle.slice(0,4) == "the "){
 	parsedTitle = parsedTitle.slice(4) + ', the';
 	}
 	
