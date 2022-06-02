@@ -1,7 +1,11 @@
+---
+author: ["Foster Wallace, David"]
+---
 %%
-author:: Wallace, David Foster 
+publishdate:: 2011
 status:: To Read
-rating::
-notes::
-date-read::
+rating::  
+notes::  
+date-read::  
+ISBN13:: 9780316175296
 %%
