@@ -90,7 +90,7 @@ async function start(params, settings) {
 	comment = await QuickAdd.quickAddApi.inputPrompt("Comment", null, " ");
 
 	if(parsedTitle.slice(0,4) == "The "){
-	parsedTitle = parsedTitle.slice(4) + ', ' + parsedTitle.slice(0,3)
+	parsedTitle = parsedTitle.slice(4) + ', the';
 	}
 	
 	parsedAuthors.forEach((e, i) => {
