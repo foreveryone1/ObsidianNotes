@@ -1,9 +1,9 @@
 %%
 author:: Faulkner, William
-status:: Reading
+status:: Read
 rating:: Positive
 notes:: "She smells like trees." Caddy, the central figure, is never a perspective character, she is only perceived.
-date-read::
+date-read:: 20220620
 %%
 Benjy's narrative has no opinion, only statement of fact. However, he clearly feels, especially in his younger years before abuse has blunted him. => He describes himself crying and reacting far more often in his youth.
 

@@ -3,7 +3,7 @@ author: ["Swift, Graham"]
 ---
 %%
 publishdate:: 2019
-status:: DNF
+status:: Reading
 rating::  
 notes::  
 date-read::  
