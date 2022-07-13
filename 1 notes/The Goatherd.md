@@ -1,2 +1,2 @@
 Goatherd
-Visited / commandeered to accompany by a steppe 
+speaks persian and uzbek
