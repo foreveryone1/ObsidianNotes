@@ -2,7 +2,7 @@
   "tabEnabled": true,
   "rowOverflow": true,
   "horizontalToVertical": false,
-  "hideButtons": true,
+  "hideButtons": false,
   "smallTitle": false,
   "compactTitle": false,
   "tabNumbering": true,
