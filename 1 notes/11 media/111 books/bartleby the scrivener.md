@@ -3,7 +3,7 @@ link:: [[1 notes/11 media/111 books/Bartleby the Scrivener|link]]
 status:: Read
 rating:: Positive
 notes:: \"I would prefer not to\"
-date-read:: 2021/10/01
+date-read:: 20211001
 
 Passive resistance
 > Nothing so aggravates an earnest person as a passive resistance. If the individual so resisted be of a not inhumane temper, and the resisting one perfectly harmless in his passivity; then, in the better moods of the former, he will endeavor charitably to construe to his imagination what proves impossible to be solved by his judgment. 

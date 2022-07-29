@@ -3,7 +3,7 @@ author::Faulkner, William
 status:: Read
 rating:: Positive
 notes::Grasping at the truth through layered stories; to live in the south is to be burdened
-date-read:: 2017/09/28
+date-read:: 20170928
 link:: [[1 notes/11 media/111 books/Absalom, Absalom!|link]]
 %%
 
