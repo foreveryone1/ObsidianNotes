@@ -16,3 +16,19 @@ filter: hue-rotate(-11deg) brightness(100%) saturate(17%);
   --interactive-accent: #6C6982;
   --interactive-accent-rgb: 108, 105, 130;
   --interactive-accent-hover: #7670A0;}
+  
+  
+
+.workspace-leaf-resize-handle {
+    border-color: #e3e5e8;
+	
+}
+
+.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle, .workspace-split.mod-left-split > .workspace-leaf-resize-handle, .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+
+    width: 1px;
+}
+
+.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle, .workspace-split.mod-left-split > .workspace-leaf-resize-handle {
+    border-right-width: 1px;
+}
