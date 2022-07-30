@@ -22,5 +22,6 @@
   },
   "tabSize": 2,
   "useTab": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "livePreview": false
 }
