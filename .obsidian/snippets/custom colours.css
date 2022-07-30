@@ -32,3 +32,5 @@ filter: hue-rotate(-11deg) brightness(100%) saturate(17%);
 .workspace-split.mod-vertical > * > .workspace-leaf-resize-handle, .workspace-split.mod-left-split > .workspace-leaf-resize-handle {
     border-right-width: 1px;
 }
+
+.workspace-split.mod-vertical .workspace-leaf:only-of-type {display:none}
