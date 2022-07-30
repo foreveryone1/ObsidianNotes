@@ -188,6 +188,18 @@ font-size: 16px;
 display: none;
 }
 
+/* optional feature hide header button, more options, and edit button on tabs */
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical  div.workspace-leaf.tabdupe a.view-action,
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical  div.workspace-leaf.tabdupe .view-header-icon,
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical  div.workspace-leaf.tabdupe a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical  div.workspace-leaf.tabdupe a[aria-label="More options"],
+.plugin-tabs .mod-root.workspace-split.mod-vertical  div.workspace-leaf.tabdupe a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.plugin-tabs .mod-root.workspace-split.mod-vertical  div.workspace-leaf.tabdupe .view-header-icon,
+.plugin-tabs .mod-root.workspace-split.mod-vertical  div.workspace-leaf.tabdupe a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
+.plugin-tabs .mod-root.workspace-split.mod-vertical  div.workspace-leaf.tabdupe a[aria-label="More options"]{
+display: none;
+}
+
 .plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
 .plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen .view-header-icon,
 .plugin-tabs:not(.hide-buttons) .mod-root.workspace-split.mod-vertical .workspace-split.mod-vertical > div.workspace-leaf.stayopen a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],

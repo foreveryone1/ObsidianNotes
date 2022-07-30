@@ -47,3 +47,24 @@ The node to be inserted.
 `referenceNode`
 
 The node before which `newNode` is inserted. If this is `null`, then `newNode` is inserted at the end of node's child nodes.
+
+
+```js
+// add to 
+if (this.settings.tabdupes.enabled) {
+		let targetTabs = Array.from(this.app.workspace.rootSplit.containerEl.querySelectorAll(".stayopen"));
+        openedTabs.forEach((node) => {
+            var dupe = node.cloneNode(true);
+            dupe.classList.add('tabdupe');
+            dupe.classList.remove('stayopen', 'mod-active');
+            node.parentNode.appendChild(dupe);
+        });
+            
+        };
+
+// remove tab dupes, add to remove style
+let killtabdupes = Array.from(this.app.workspace.rootSplit.containerEl.querySelectorAll(".tabdupe"));
+        killtabdupes.forEach((node) => {
+            node.remove();
+        });
+```
