@@ -25,5 +25,5 @@ last gasping breaths
 sacred geometry
 the fractals in your eyes reflect a vast infinity
 the freckles on your face emulate the constellations
-when I sit and ponder spirals I am drawn to the smile set on your cheek
+when my mind wanders spirals I think of the curve of your cheek
 sacred geometry
