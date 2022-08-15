@@ -1,6 +1,14 @@
 # Sound and the fury
 bright shapes pass me by
+I catch her in my arms
+a whiff of pollen
 she smells like trees
+
+her skirt is muddy
+her smile's faded
+why have we been changed
+I can hear my cries
+
 # Astronaut
 
 your face haunts me
@@ -14,4 +22,8 @@ last gasping breaths
 
 # sacred geometry
 
+sacred geometry
+the fractals in your eyes reflect a vast infinity
+the freckles on your face emulate the constellations
+when I sit and ponder spirals I am drawn to the smile set on your cheek
 sacred geometry
