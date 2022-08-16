@@ -26,4 +26,5 @@ sacred geometry
 the fractals in your eyes reflect a vast infinity
 the freckles on your face emulate the constellations
 when my mind wanders spirals I think of the curve of your cheek
+the rise and fall of your chest is god's own metronome
 sacred geometry
