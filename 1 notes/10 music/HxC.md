@@ -22,10 +22,13 @@ last gasping breaths
 
 # sacred geometry
 
-sacred geometry
-the fractals in your eyes reflect a vast infinity
-when my mind wanders spirals I think of the curve of your spine
-the freckles on your face emulate the constellations
 
-the rise and fall of your chest is god's own metronome
+the fractals in your eyes reflect a vast infinity
+the constellations emulate all the freckles of your face
+no patterns describe you, no shape can contain all your being
+sacred geometry
+sacred geometry
+
+when my mind wanders spirals I think of the curve of your spine
+the rise and the fall of your chest is god's own metronome
 sacred geometry
