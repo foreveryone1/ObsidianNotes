@@ -22,13 +22,17 @@ last gasping breaths
 
 # sacred geometry
 
-
+Measure the world I know in formulas and shapes
+Yet you escape me
 the fractals in your eyes reflect a vast infinity
-the constellations emulate all the freckles of your face
+the constellations emulate the freckles of your face
 no patterns describe you, no shape can contain all your being
 sacred geometry
 sacred geometry
 
+I can't calculate the way your absence makes me feel
+you escape me
 when my mind wanders spirals I think of the curve of your spine
-the rise and the fall of your chest is god's own metronome
+the rise and the fall **of** yr every breath is god's own metronome
+counting out the seconds I have to go without
 sacred geometry
