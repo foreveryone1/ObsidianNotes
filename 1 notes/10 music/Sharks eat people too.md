@@ -28,7 +28,7 @@ after coming home from watching some movie about cartoon dog superheroes
 and seeing a fleeting speck of light in the night sky  
 the sole witness to a celestial immolation  
   
-the atmosphere has torn away my shell  
+the atmosphere has ripped away my shell  
 harsh winds have torn me to shreds  
 In my burned out retina I can just make out your face  
   
