@@ -31,7 +31,16 @@ the sole witness to a celestial immolation
 the atmosphere has ripped away my shell  
 harsh winds have torn me to shreds  
 In my burned out retina I can just make out your face  
+
+[scream]  
+abandon mission  
+set me free  
+I'm untethered  
+tumble down to earth  
+leave no crater  
+watch me burn 
   
+[spoken]  
 she leans her head against your chest  
 her perfumed hair tickles your nose  
 this time you'll make it last  
