@@ -33,7 +33,7 @@ harsh winds have torn me to shreds
 In my burned out retina I can just make out your face  
   
 she leans her head against your chest  
-her perfumed hair tickles you nose  
+her perfumed hair tickles your nose  
 this time you'll make it last  
   
 # Isaac
