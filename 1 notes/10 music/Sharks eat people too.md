@@ -7,14 +7,14 @@ lost in a black inky void
 caught in your gravity  
   
 this shell that sustains me  
-keeps me from all that is good  
+keeps me from all that I want  
   
 [scream]  
 abandon mission  
 set me free  
 cut the tether  
 I'm drawn to your gravity  
-leave a crater  
+leave no crater  
 watch me burn  
   
 [spoken]  
