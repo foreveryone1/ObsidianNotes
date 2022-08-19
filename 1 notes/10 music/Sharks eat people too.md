@@ -24,7 +24,8 @@ large and calloused, a 5-digit promise of safety
 years later, you'll be sitting on the side of a grassy hill  
 punch-drunk and ready to bare your heart  
 she'll reminisce about looking up at the sky  
-after coming home from watching some movie about cartoon dog superheroes  
+while coming home from watching some movie
+about cartoon dog superheroes  
 and seeing a fleeting speck of light in the night sky  
 the sole witness to a celestial immolation  
   
@@ -34,8 +35,7 @@ In my burned out retina I can just make out your face
 
 [scream]  
 abandon mission  
-set me free  
-I'm untethered  
+I'm untethered, floating free  
 tumble down to earth  
 leave no crater  
 watch me burn 
@@ -43,6 +43,7 @@ watch me burn
 [spoken]  
 she leans her head against your chest  
 her perfumed hair tickles your nose  
+she tilts her head back to meet your eyes  
 this time you'll make it last  
   
 # Isaac
