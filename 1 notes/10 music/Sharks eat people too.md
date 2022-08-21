@@ -23,10 +23,10 @@ Reach Heaven Through Violence
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
   
-blood in your mouth  
-aim for the eyes  
 inner jihad  
-mastery of self  
+mouth full of blood  
+aim for the eyes  
+comrades alive    
   
 Reach Heaven Through Violence
 Reach Heaven Through Violence  
