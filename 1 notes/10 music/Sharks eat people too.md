@@ -1,17 +1,38 @@
 # Ik maak u kapot (ma dan in't engels)
-Bare knuckle
-Clenched Fist
-Beat your chest you mean it
-
-Bare knuckle
-Clenched Fist
-Beat your chest you mean it
-
+Bare knuckle  
+Clenched fist  
+Beat your chest you mean it  
+  
+Bare knuckle  
+Clenched fist  
+Beat your chest you mean it  
+  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+  
+society's bruises  
+the dumb and the useless  
+  
+hand of the hungry  
+take what you earn  
+  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+  
+blood in your mouth  
+aim for the eyes  
+inner jihad  
+mastery of self  
+  
 Reach Heaven Through Violence
-
-Society's bruises
-the dumb and the useless
-
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+  
 # Apollo [wip]
 [spoken]  
 turning, revolving, undulating  
