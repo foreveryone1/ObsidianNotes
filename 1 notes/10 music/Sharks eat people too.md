@@ -1,3 +1,17 @@
+# Ik maak u kapot (ma dan in't engels)
+Bare knuckle
+Clenched Fist
+Beat your chest you mean it
+
+Bare knuckle
+Clenched Fist
+Beat your chest you mean it
+
+Reach Heaven Through Violence
+
+Society's bruises
+the dumb and the useless
+
 # Apollo [wip]
 [spoken]  
 turning, revolving, undulating  
