@@ -20,8 +20,6 @@ take what you earn
   
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
-Reach Heaven Through Violence  
-Reach Heaven Through Violence  
   
 inner jihad  
 mouth full of blood  
