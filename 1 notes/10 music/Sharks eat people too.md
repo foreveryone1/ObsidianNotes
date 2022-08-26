@@ -23,6 +23,13 @@ Reach Heaven Through Violence
   
 inner jihad  
 mouth full of blood  
+
+we bite the hand that did not feed
+forsake our masters make em bleed
+
+inner jihad  
+mouth full of blood  
+
 aim for the eyes  
 comrades alive    
   
