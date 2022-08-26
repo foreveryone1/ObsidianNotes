@@ -29,7 +29,7 @@ forsake our masters make em bleed
 
 born from the mud    
 aim for the eyes  
-swept by the flood  
+we are the flood  
 comrades alive  
   
 Reach Heaven Through Violence
