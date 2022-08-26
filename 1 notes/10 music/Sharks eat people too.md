@@ -27,11 +27,10 @@ mouth full of blood
 we bite the hand that did not feed
 forsake our masters make em bleed
 
-inner jihad  
-mouth full of blood  
-
+born from the mud    
 aim for the eyes  
-comrades alive    
+swept by the flood  
+comrades alive  
   
 Reach Heaven Through Violence
 Reach Heaven Through Violence  
