@@ -1,10 +1,17 @@
 # Unfamiliar Ceilings [wip]
 > notes: dissociation, sterility, passenger in own body
 
-Lightning strikes thrice  
+[spoken]  
+
+Lightning struck three times  
 A hiss of air  
 Your hot mess runs down my neck  
 A hot mess that renders all thoughts empty  
+
+A witness in a body that isn't mine  
+Torturously fragile
+
+
 
 
 Stars ignite behind my eyes  
