@@ -20,6 +20,8 @@ take what you earn
   
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
   
 inner jihad  
 mouth full of blood  
@@ -27,6 +29,8 @@ mouth full of blood
 we bite the hand that did not feed  
 forsake our masters make em bleed
 
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 
