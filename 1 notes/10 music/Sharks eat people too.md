@@ -24,38 +24,24 @@ Reach Heaven Through Violence
 inner jihad  
 mouth full of blood  
 
-we bite the hand that did not feed
+we bite the hand that did not feed  
 forsake our masters make em bleed
+
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
 
 born from the mud    
 aim for the eyes  
 we are the flood  
 comrades alive  
   
-Reach Heaven Through Violence
+Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
   
 # Apollo [wip]
-[spoken]  
-turning, revolving, undulating  
-in vast ellipses  
-never colliding  
-lost in a black inky void  
-caught in your gravity  
-  
-this shell that sustains me  
-keeps me from all that I want  
-  
-[scream]  
-abandon mission  
-set me free  
-cut the tether  
-I'm drawn to your gravity  
-leave no crater  
-watch me burn  
-  
+
 [spoken]  
 a young girl, in a bright pink dress  
 clutches her father's hand  
@@ -71,6 +57,25 @@ the sole witness to a celestial immolation
 the atmosphere has ripped away my shell  
 harsh winds have torn me to shreds  
 In my burned out retina I can just make out your face  
+
+[scream]  
+abandon mission  
+set me free  
+cut the tether  
+I'm drawn to your gravity  
+leave no crater  
+watch me burn  
+  
+[spoken]  
+turning, revolving, undulating  
+in vast ellipses  
+never colliding  
+lost in a black inky void  
+caught in your gravity  
+  
+this shell that sustained me  
+kept me from all that I want  
+  
 
 [scream]  
 abandon mission  
