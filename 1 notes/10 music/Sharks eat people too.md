@@ -4,9 +4,12 @@
 Lightning strikes thrice  
 A hiss of air  
 Your hot mess runs down my neck  
+A hot mess that renders all thoughts empty  
+
 
 Stars ignite behind my eyes  
 Bright life flows out  
+Cauterise the wound you left  
 
 When you speak, then I'm dumb  
 Marching to the dull hum  
