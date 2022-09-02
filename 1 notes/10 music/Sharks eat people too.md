@@ -1,14 +1,22 @@
 # Unfamiliar Ceilings [wip]
 > notes: dissociation, sterility, passenger in own body
 
+Lightning strikes thrice  
 A hiss of air  
 Your hot mess runs down my neck  
 
 Stars ignite behind my eyes  
 Bright life flows out  
 
-Bright lights turn on  
+When you speak, then I'm dumb  
+Marching to the dull hum  
+of bright fluorescent lights  
 
+Another unfamiliar ceiling    
+
+Purge the poison  
+Tear the flesh  
+Your fingertips stained red  
 
 # Ik maak u kapot (ma dan in't engels)
 Bare knuckle  
