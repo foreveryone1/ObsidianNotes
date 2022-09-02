@@ -1,28 +1,45 @@
 # Unfamiliar Ceilings [wip]
-> notes: dissociation, sterility, passenger in own body
 
 [spoken]  
 
 Lightning struck three times  
 A hiss of air  
 Your hot mess runs down my neck  
+Staining all it touches 
 A hot mess that renders all thoughts empty  
 
-A witness in a body that isn't mine  
-Torturously fragile
+A witness in a body that ain't mine  
+A body that isn't mine to operate  
+Not speechless or motionless  
+But words that aren't mine  
+Actions autonomous  
+Limp limbs to place where you please  
+In alien machinery  
+Hissing and beeping  
 
+Torturously fragile  
+A steel anchor weighs me down  
+Radiating pulses, alienate mind and body
 
-
+A witness in a body that ain't mine  
+A body that isn't mine to operate  
+Not speechless or motionless  
+But words that aren't mine  
+Actions autonomous  
+Limp limbs to place where you please  
+In alien machinery  
+Hissing and beeping  
 
 Stars ignite behind my eyes  
 Bright life flows out  
 Cauterise the wound you left  
 
-When you speak, then I'm dumb  
+
+If you can speak, then I'm dumb  
 Marching to the dull hum  
 of bright fluorescent lights  
 
-Another unfamiliar ceiling    
+An unfamiliar ceiling    
 
 Purge the poison  
 Tear the flesh  
