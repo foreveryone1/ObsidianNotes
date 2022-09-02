@@ -1,3 +1,15 @@
+# Unfamiliar Ceilings [wip]
+> notes: dissociation, sterility, passenger in own body
+
+A hiss of air  
+Your hot mess runs down my neck  
+
+Stars ignite behind my eyes  
+Bright life flows out  
+
+Bright lights turn on  
+
+
 # Ik maak u kapot (ma dan in't engels)
 Bare knuckle  
 Clenched fist  
