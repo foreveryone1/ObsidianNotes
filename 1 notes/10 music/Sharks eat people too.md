@@ -2,8 +2,7 @@
 
 [spoken]  
 
-Lightning struck three times  
-A hiss of air  
+A threefold hiss of air  
 Your hot mess runs down my neck  
 Staining all it touches 
 A hot mess that renders all thoughts empty  
@@ -19,7 +18,9 @@ Hissing and beeping
 
 Torturously fragile  
 A steel anchor weighs me down  
-Radiating pulses, alienate mind and body
+Radiating pulses, alienate mind from body  
+Electric signals in a body all too cooperative
+A body pitifully yielding to your hands
 
 A witness in a body that ain't mine  
 A body that isn't mine to operate  
@@ -29,6 +30,8 @@ Actions autonomous
 Limp limbs to place where you please  
 In alien machinery  
 Hissing and beeping  
+
+[screams]
 
 Stars ignite behind my eyes  
 Bright life flows out  
