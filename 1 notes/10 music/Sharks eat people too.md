@@ -19,7 +19,7 @@ Hissing and beeping
 Torturously fragile  
 A steel anchor weighs me down  
 Radiating pulses, alienate mind from body  
-Electric signals in a body all too cooperative
+Electric signals in a body all too cooperative  
 A body pitifully yielding to your hands
 
 A witness in a body that ain't mine  
@@ -42,6 +42,9 @@ Blue lights flashing
 Another unfamiliar ceiling    
 
 The air is thick with life preserved  
+Jagged needles digging in   
+Flesh hooks carving art of me  
+The rot is oozing flowing free
 
 If you can speak, then I'm dumb  
 Marching to the dull hum  
@@ -49,7 +52,7 @@ of bright fluorescent lights
 
 Purge the poison  
 Tear the flesh  
-Your fingertips are red  
+Your fingertips bleed red  
 Bright life flows out  
 
 # Ik maak u kapot (ma dan in't engels)
