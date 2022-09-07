@@ -36,17 +36,21 @@ Hissing and beeping
 Stars ignite behind my eyes  
 Bright life flows out  
 Cauterise the wound you left  
+Curse the prison of the flesh  
 
+Blue lights flashing  
+Another unfamiliar ceiling    
+
+The air is thick with life preserved  
 
 If you can speak, then I'm dumb  
 Marching to the dull hum  
 of bright fluorescent lights  
 
-An unfamiliar ceiling    
-
 Purge the poison  
 Tear the flesh  
-Your fingertips stained red  
+Your fingertips are red  
+Bright life flows out  
 
 # Ik maak u kapot (ma dan in't engels)
 Bare knuckle  
