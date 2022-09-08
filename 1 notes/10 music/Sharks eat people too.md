@@ -39,7 +39,9 @@ Cauterise the wound you left
 Curse the prison of the flesh  
 
 Blue lights flashing  
-Another unfamiliar ceiling    
+An unfamiliar ceiling    
+Grey tiles  
+the drabness of existence  
 
 The air is thick with life preserved  
 Jagged needles digging in   
