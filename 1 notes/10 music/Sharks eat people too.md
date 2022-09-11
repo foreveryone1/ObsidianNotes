@@ -4,7 +4,7 @@
 
 A threefold hiss of air  
 Your hot mess runs down my neck  
-Staining all it touches 
+Staining all it touches  
 A hot mess that renders all thoughts empty  
 
 A witness in a body that ain't mine  
