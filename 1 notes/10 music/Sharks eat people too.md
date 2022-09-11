@@ -39,9 +39,10 @@ Curse the prison of the flesh
 Bright life flows out 
 
 Blue lights flashing  
-An unfamiliar ceiling    
-Square grey tiles  
-the drabness of existence  
+Tesselated plastic squares  
+An unfamiliar ceiling  
+Groping blindly are you there  
+An unfamiliar ceiling  
 
 The air is thick with life preserved  
 Jagged needles digging in   
@@ -54,7 +55,7 @@ of bright fluorescent lights
 
 Purge the poison  
 Tear the flesh  
-Your fingertips bleed red  
+Your fingertips seep red  
 Bright life flows out  
 
 # Ik maak u kapot (ma dan in't engels)
