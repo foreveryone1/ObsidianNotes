@@ -35,7 +35,7 @@ Hissing and beeping
 
 Stars ignite behind my eyes   
 Cauterise the wound you left  
-Curse the prison of the flesh  
+Curse the poison of the flesh  
 Bright life flows out 
 
 Blue lights flashing  
