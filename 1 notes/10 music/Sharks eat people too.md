@@ -33,10 +33,10 @@ Hissing and beeping
 
 [screams]
 
-Stars ignite behind my eyes  
-Bright life flows out  
+Stars ignite behind my eyes   
 Cauterise the wound you left  
 Curse the prison of the flesh  
+Bright life flows out 
 
 Blue lights flashing  
 An unfamiliar ceiling    
