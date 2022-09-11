@@ -40,7 +40,7 @@ Bright life flows out
 
 Blue lights flashing  
 An unfamiliar ceiling    
-Grey tiles  
+Square grey tiles  
 the drabness of existence  
 
 The air is thick with life preserved  
