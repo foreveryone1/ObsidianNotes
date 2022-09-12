@@ -8,7 +8,7 @@ Staining all it touches
 A hot mess that renders all thoughts empty  
 
 A witness in a body that ain't mine  
-A body that isn't mine to operate  
+A body that ain't mine to operate  
 Not speechless or motionless  
 But words that aren't mine  
 Actions autonomous  
@@ -23,7 +23,7 @@ Electric signals in a body all too cooperative
 A body pitifully yielding to your hands
 
 A witness in a body that ain't mine  
-A body that isn't mine to operate  
+A body that ain't mine to operate  
 Not speechless or motionless  
 But words that aren't mine  
 Actions autonomous  
