@@ -43,10 +43,11 @@ Tesselated plastic squares
 An unfamiliar ceiling  
 Groping blindly are you there  
 An unfamiliar ceiling  
-Smother me to dull the screams  
-An unfamiliar ceiling  
 The air is thick with life preserved  
 An unfamiliar ceiling  
+Smother me to dull the screams  
+An unfamiliar ceiling  
+
 
 Jagged needles digging in   
 Flesh hooks carving art of me  
