@@ -62,6 +62,16 @@ Tear the flesh
 Your fingertips are painted red  
 Bright life flows out  
 
+Purge the poison  
+Tear the flesh  
+Your fingertips are painted red  
+Bright life flows out  
+
+Purge the poison  
+Tear the flesh  
+Your fingertips are painted red  
+Bright life flows out  
+
 # Ik maak u kapot (ma dan in't engels)
 Bare knuckle  
 Clenched fist  
