@@ -57,7 +57,7 @@ of bright fluorescent lights
 
 Purge the poison  
 Tear the flesh  
-Your fingertips seep red  
+Your fingertips are painted red  
 Bright life flows out  
 
 # Ik maak u kapot (ma dan in't engels)
