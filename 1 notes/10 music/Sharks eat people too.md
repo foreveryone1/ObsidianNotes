@@ -43,7 +43,7 @@ Tesselated plastic squares
 An unfamiliar ceiling  
 Groping blindly are you there  
 An unfamiliar ceiling  
-The air is thick with life preserved  
+The air is still with life preserved  
 An unfamiliar ceiling  
 Smother me to dull the screams  
 An unfamiliar ceiling  
