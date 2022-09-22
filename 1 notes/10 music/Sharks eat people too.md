@@ -4,11 +4,11 @@
 
 A threefold hiss of air  
 Your hot mess runs down my neck  
-Staining all it touches 
+Staining all it touches  
 A hot mess that renders all thoughts empty  
 
 A witness in a body that ain't mine  
-A body that isn't mine to operate  
+A body that ain't mine to operate  
 Not speechless or motionless  
 But words that aren't mine  
 Actions autonomous  
@@ -23,7 +23,7 @@ Electric signals in a body all too cooperative
 A body pitifully yielding to your hands
 
 A witness in a body that ain't mine  
-A body that isn't mine to operate  
+A body that ain't mine to operate  
 Not speechless or motionless  
 But words that aren't mine  
 Actions autonomous  
@@ -33,17 +33,22 @@ Hissing and beeping
 
 [screams]
 
-Stars ignite behind my eyes  
-Bright life flows out  
+Stars ignite behind my eyes   
 Cauterise the wound you left  
-Curse the prison of the flesh  
+Curse the poison of the flesh  
+Bright life flows out 
 
 Blue lights flashing  
-An unfamiliar ceiling    
-Grey tiles  
-the drabness of existence  
+Tesselated plastic squares  
+An unfamiliar ceiling  
+Groping blindly are you there  
+An unfamiliar ceiling  
+The air is still with life preserved  
+An unfamiliar ceiling  
+Smother me to dull the screams  
+An unfamiliar ceiling  
 
-The air is thick with life preserved  
+
 Jagged needles digging in   
 Flesh hooks carving art of me  
 The rot is oozing flowing free
@@ -54,7 +59,17 @@ of bright fluorescent lights
 
 Purge the poison  
 Tear the flesh  
-Your fingertips bleed red  
+Your fingertips are painted red  
+Bright life flows out  
+
+Purge the poison  
+Tear the flesh  
+Your fingertips are painted red  
+Bright life flows out  
+
+Purge the poison  
+Tear the flesh  
+Your fingertips are painted red  
 Bright life flows out  
 
 # Ik maak u kapot (ma dan in't engels)
