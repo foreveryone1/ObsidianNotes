@@ -3,7 +3,7 @@ author: ["Nabokov, Vladimir"]
 ---
 %%
 publishdate:: 1957
-status:: To Read
+status:: Reading
 rating::  
 notes::  
 date-read::  
