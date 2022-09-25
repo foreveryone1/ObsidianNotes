@@ -1,4 +1,45 @@
+# Yossarian Lives [wip]
+`nog geen muziek, tekst nog niet af`
+
+An indian chieftain drowning on dry land  
+a pair of twig legs  
+standing upright, no body attached  
+The pointless deaths of a war already won  
+
+There are hills that you cannot conquer  
+Fights pursued that aren't worth prolonging  
+Buried dead deserve to be honoured  
+Life well lived is the life of a coward  
+
+Damn your eyes  
+Curse your ambition  
+We are the playthings  
+Of adult children  
+
+Run Survive Escape   
+Run Survive Escape  
+
+A whorehouse cleared out with brute force  
+A mountainside village reduced to rubble  
+Generation of crooks and thieves  
+The walking corpses of forever war  
+
+Freezing cold on a summer bomb run  
+Skeleton crew of second born sons  
+Ask for more I have nothing to offer  
+Ground me now, sky is blackened with schrapnel  
+
+Damn your eyes  
+Curse your ambition  
+We are the playthings  
+Of adult children  
+
+There are things that you cannot fathom  
+Buried men you cannot banish  
+Angry ghosts inhabit the spirals  
+
 # Unfamiliar Ceilings [wip]
+`muziek voor spoken word stuk, nog niet voor screams`
 
 [spoken]  
 
@@ -119,6 +160,7 @@ Reach Heaven Through Violence
 Reach Heaven Through Violence  
   
 # Apollo [wip]
+*werk nodig om spoken word deel met screams te linken*
 
 [spoken]  
 a young girl, in a bright pink dress  
@@ -153,7 +195,6 @@ caught in your gravity
   
 this shell that sustained me  
 kept me from all that I want  
-  
 
 [scream]  
 abandon mission  
