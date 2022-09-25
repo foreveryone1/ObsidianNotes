@@ -160,7 +160,7 @@ Reach Heaven Through Violence
 Reach Heaven Through Violence  
   
 # Apollo [wip]
-*werk nodig om spoken word deel met screams te linken*
+`werk nodig om instrumental spoken word deel met screams te linken`
 
 [spoken]  
 a young girl, in a bright pink dress  
