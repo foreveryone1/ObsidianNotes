@@ -2,8 +2,8 @@
 `nog geen muziek, tekst nog niet af`
 
 An indian chieftain drowning on dry land  
-a pair of twig legs  
-standing upright, no body attached  
+a pair of twig legs standing upright
+no body attached  
 The pointless deaths of a war already won  
 
 There are hills that you cannot conquer  
@@ -15,9 +15,6 @@ Damn your eyes
 Curse your ambition  
 We are the playthings  
 Of adult children  
-
-Run Survive Escape   
-Run Survive Escape  
 
 A whorehouse cleared out with brute force  
 A mountainside village reduced to rubble  
@@ -33,6 +30,8 @@ Damn your eyes
 Curse your ambition  
 We are the playthings  
 Of adult children  
+
+
 
 There are things that you cannot fathom  
 Buried men you cannot banish  
