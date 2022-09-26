@@ -31,6 +31,8 @@ Curse your ambition
 We are the playthings  
 Of adult children  
 
+Premade condolence letters  
+A man of god with a broken heart  
 
 
 There are things that you cannot fathom  
