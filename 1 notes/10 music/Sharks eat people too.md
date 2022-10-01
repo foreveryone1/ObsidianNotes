@@ -16,7 +16,7 @@ Curse your ambition
 We are the playthings  
 Of adult children  
 
-A whorehouse cleared out with brute force  
+A whorehouse cleared out with no regard  
 A mountainside village reduced to rubble  
 Generation of crooks and thieves  
 The walking corpses of forever war  
