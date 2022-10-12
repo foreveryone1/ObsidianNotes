@@ -1,43 +1,47 @@
 # Yossarian Lives [wip]
 `nog geen muziek, tekst nog niet af`
 
-An indian chieftain drowning on dry land  
-a pair of twig legs standing upright
-no body attached  
-The pointless deaths of a war already won  
 
 There are hills that you cannot conquer  
 Fights pursued that aren't worth prolonging  
 Buried dead deserve to be honoured  
 Life well lived is the life of a coward  
 
+An indian chieftain drowning on dry land  
+a pair of twig legs standing upright no body attached  
+a man of god with a broken heart  
+The pointless deaths of a war already won  
+
 Damn your eyes  
 Curse your ambition  
 We are the playthings  
 Of adult children  
+
 
 A whorehouse cleared out with no regard  
 A mountainside village reduced to rubble  
 Generation of crooks and thieves  
 The walking corpses of forever war  
 
-Freezing cold on a summer bomb run  
-Skeleton crew of second born sons  
-Ask for more I have nothing to offer  
-Ground me now, sky is blackened with schrapnel  
-
 Damn your eyes  
 Curse your ambition  
 We are the playthings  
 Of adult children  
 
-Premade condolence letters  
-A man of god with a broken heart  
+Freezing cold on a summer bomb run  
+Skeleton crew of second born sons  
+Ask for more I have nothing to offer  
+Ground me now, sky is blackened with schrapnel  
 
+The bombs  
+The bombs are falling  
+Burn the cathedral  
+Tear down your shelter  
 
-There are things that you cannot fathom  
-Buried men you cannot banish  
-Angry ghosts inhabit the spirals  
+The bombs  
+The bombs are falling  
+Burn the cathedral  
+Tear down your shelter  
 
 # Unfamiliar Ceilings [wip]
 `muziek voor spoken word stuk, nog niet voor screams`
@@ -73,46 +77,54 @@ Limp limbs to place where you please
 In alien machinery  
 Hissing and beeping  
 
-[screams]
-
-Stars ignite behind my eyes   
-Cauterise the wound you left  
-Curse the poison of the flesh  
-Bright life flows out 
-
-Blue lights flashing  
-Tesselated plastic squares  
-An unfamiliar ceiling  
-Groping blindly are you there  
-An unfamiliar ceiling  
-The air is still with life preserved  
-An unfamiliar ceiling  
-Smother me to dull the screams  
-An unfamiliar ceiling  
-
-
 Jagged needles digging in   
 Flesh hooks carving art of me  
-The rot is oozing flowing free
-
-If you can speak, then I'm dumb  
-Marching to the dull hum  
-of bright fluorescent lights  
-
+The rot is oozing flowing free  
+Purge the poison  
+Tear the flesh  
+Your fingertips are painted red  
 Purge the poison  
 Tear the flesh  
 Your fingertips are painted red  
 Bright life flows out  
 
-Purge the poison  
-Tear the flesh  
-Your fingertips are painted red  
-Bright life flows out  
 
-Purge the poison  
-Tear the flesh  
-Your fingertips are painted red  
-Bright life flows out  
+~~[screams]~~
+
+~~Stars ignite behind my eyes~~   
+~~Cauterise the wound you left~~  
+~~Curse the poison of the flesh~~  
+~~Bright life flows out~~ 
+
+~~Blue lights flashing~~  
+~~Tesselated plastic squares~~  
+~~An unfamiliar ceiling~~  
+~~Groping blindly are you there~~  
+~~An unfamiliar ceiling~~  
+~~The air is still with life preserved~~  
+~~An unfamiliar ceiling~~  
+~~Smother me to dull the screams~~  
+~~An unfamiliar ceiling~~  
+
+
+~~If you can speak, then I'm dumb~~  
+~~Marching to the dull hum~~  
+~~of bright fluorescent lights~~  
+
+~~Purge the poison~~  
+~~Tear the flesh~~  
+~~Your fingertips are painted red~~  
+~~Bright life flows out~~  
+
+~~Purge the poison~~  
+~~Tear the flesh~~  
+~~Your fingertips are painted red~~  
+~~Bright life flows out~~  
+
+~~Purge the poison~~  
+~~Tear the flesh~~  
+~~Your fingertips are painted red~~  
+~~Bright life flows out~~  
 
 # Ik maak u kapot (ma dan in't engels)
 Bare knuckle  

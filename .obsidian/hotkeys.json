@@ -122,5 +122,13 @@
       "key": "R"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": []
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Backspace"
+    }
+  ]
 }
