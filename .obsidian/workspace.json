@@ -6,10 +6,10 @@
       {
         "id": "08d0445040c1b19b",
         "type": "tabs",
-        "dimension": 65.1270207852194,
+        "dimension": 61.08545034642032,
         "children": [
           {
-            "id": "b558578d75a51d86",
+            "id": "f5ff61d01d156460",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -19,10 +19,16 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Cat's Cradle",
+                  "title": "As I Lay Dying",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cat's Cradle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/As I Lay Dying.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "eating less meat - what I've learned",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/eating less meat - what I've learned.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -33,46 +39,29 @@
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "66a9a1bf77b65224"
           },
           {
-            "id": "58079c25937a579a",
+            "id": "2054b898c16e93b3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "ʒ scratchpad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ʒ scratchpad.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":17},\"to\":{\"line\":12,\"ch\":17}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "0 Books",
+                  "title": "SRD",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Scratchpad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/Scratchpad.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "ggmonstemplate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"obsidian.md/Templates/ggmonstemplate.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":38},\"to\":{\"line\":20,\"ch\":68}}}"
-                },
-                {
-                  "title": "z this is actually a really long title with lots of words so that it wraps",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z this is actually a really long title with lots of words so that it wraps.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "0 Books",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/SRD.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
@@ -80,41 +69,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5ff61d01d156460",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 notes/11 media/eating less meat - what I've learned.md",
+                "file": "0 ttrpg/Scratchpad.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "66a9a1bf77b65224"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a3562b9343667ca3",
         "type": "tabs",
-        "dimension": 34.8729792147806,
+        "dimension": 38.91454965357968,
         "children": [
           {
             "id": "c78acc9bb1a6005e",
@@ -125,13 +91,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "0 Books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":6.126686708770529}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 notes/11 media/eating less meat - what I've learned.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "mode": "preview",
                 "source": true
               }
@@ -177,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md"
+                "file": "1 notes/11 media/0 Books.md"
               }
             }
           }
@@ -248,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md"
+                "file": "1 notes/11 media/0 Books.md"
               }
             }
           },
@@ -305,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -340,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,17 +336,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "58079c25937a579a",
+  "active": "f5ff61d01d156460",
   "lastOpenFiles": [
-    "1 notes/11 media/0 Books.md",
-    "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
-    "1 notes/11 media/eating less meat - what I've learned.md",
-    "1 notes/11 media/111 books/Cat's Cradle.md",
-    "1 notes/11 media/111 books/Pnin.md",
-    "1 notes/11 media/111 books/2666.md",
-    "1 notes/11 media/111 books/Humboldt's Gift.md",
     "0 ttrpg/Scratchpad.md",
-    "obsidian.md/Templates/ggmonstemplate.md",
-    "0 ttrpg/Monsters.md"
+    "1 notes/11 media/0 Books.md",
+    "1 notes/11 media/111 books/As I Lay Dying.md",
+    "1 notes/11 media/eating less meat - what I've learned.md",
+    "ʒ scratchpad.md",
+    "984-1.pdf",
+    "0 ttrpg/SRD.md",
+    "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+    "ORD04994435.pdf",
+    "1 notes/11 media/111 books/Cat's Cradle.md"
   ]
 }
