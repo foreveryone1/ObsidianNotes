@@ -33,6 +33,7 @@ BA: Command Steel Defender
 Hand-Axe +1 (returning, thrown): +9, d6+8 S
 Hand-Axe +1 (returning, melee): +9, d6+6 S
 Thieves' Tools
+3-standenfaar - smal en geconcentreerd, verspreid licht, of uit
 
 ## Archie (Steel Defender)
 - ## Attributes
@@ -52,7 +53,7 @@ Thieves' Tools
 	- ![[speed_walk|narrow]]
 		- 40 ft.
 - ## Combat Traits
-	- **HP**: 37/37
+	- **HP**: 27/37
 	- **AC**: 15
 	- ### Immunities
 		- **Damage Immunities** poison
@@ -113,8 +114,8 @@ Spell Attack Modifier: +8
 	- [[0 ttrpg/Resources/Spells/Ray of Frost|Ray of Frost]]
 - #### 1 level
 	- ##### slots
-		- [ ] 
-		- [ ] 
+		- [x] 
+		- [x] 
 		- [ ] 
 		- [ ] 
 	- [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
