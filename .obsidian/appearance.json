@@ -34,10 +34,13 @@
     "dataview",
     "titlebar",
     "test",
-    "skinny scrollbars"
+    "skinny scrollbars",
+    "ribbon"
   ],
   "translucency": false,
   "baseFontSize": 16,
   "baseFontSizeAction": false,
-  "accentColor": ""
+  "accentColor": "#a49eb7",
+  "showViewHeader": true,
+  "nativeMenus": false
 }

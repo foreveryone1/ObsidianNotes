@@ -1,0 +1,9 @@
+.workspace-ribbon {    --ribbon-width: 30px;
+}
+
+.clickable-icon {padding-left: 2px; }
+
+.nav-files-container {
+    padding-right: 2px;
+    padding-left: 0px;
+}

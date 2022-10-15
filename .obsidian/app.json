@@ -23,5 +23,6 @@
   "tabSize": 2,
   "useTab": true,
   "spellcheck": true,
-  "livePreview": false
+  "livePreview": false,
+  "showInlineTitle": false
 }

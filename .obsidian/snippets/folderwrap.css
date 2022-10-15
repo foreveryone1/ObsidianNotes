@@ -1,7 +1,7 @@
-.nav-file-title, .nav-folder-title {
-    white-space: normal;
-    width: auto;
-    word-wrap: break-word;
+.nav-file-title, .nav-folder-title, div.nav-folder-title-content,div.nav-file-title-content {
+    white-space: normal!important;
+    width: auto!important;
+    word-wrap: break-word!important;
 }
 
 .nav-folder-children .nav-folder-title-content::before {
