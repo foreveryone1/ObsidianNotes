@@ -1,0 +1,562 @@
+{
+  "main": {
+    "id": "6121785ecff49aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff73220545738ec8",
+        "type": "split",
+        "children": [
+          {
+            "id": "838a0c8657ceda45",
+            "type": "split",
+            "dimension": 62.87262872628726,
+            "children": [
+              {
+                "id": "b2277fbff3b85833",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "65a267bf7f632639",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "65a267bf7f632639",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/common regex.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "65a267bf7f632639",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/netsh commands.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "65a267bf7f632639",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/leverhulm pixel art notes.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "65a267bf7f632639",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/netsh commands.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/common regex.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "2047ac78b9c3a4a1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b85ee195427c314f",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "b85ee195427c314f",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/10 music/Sharks eat people too.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "b85ee195427c314f",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/10 music/Sharks eat people too.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5affdfa74cc198b8",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a4bb23b1cb7a9bed",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "leaf": "a4bb23b1cb7a9bed",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cat's Cradle.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":18},\"to\":{\"line\":1,\"ch\":18}}}"
+                        },
+                        {
+                          "leaf": "a4bb23b1cb7a9bed",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/11 media/0 Books.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "fa1bc03f1cd2dd7d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d354ed2c721b0c47",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "d354ed2c721b0c47",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/The Goatherd.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/The Goatherd.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "2b9b0d3f38459817",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8a28de16144d9ecb",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "8a28de16144d9ecb",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/Javascript- Duplicating elements and adding and removing classes.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/Javascript- Duplicating elements and adding and removing classes.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "9851dc4c66908037",
+            "type": "split",
+            "dimension": 37.12737127371274,
+            "children": [
+              {
+                "id": "13fd08d1abba5294",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d8513b4511bd53e7",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "d8513b4511bd53e7",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Catch-22.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "d8513b4511bd53e7",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{\"scroll\":4.245576502913135}"
+                        },
+                        {
+                          "leaf": "d8513b4511bd53e7",
+                          "group": "6f0e70039eb8367e",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/10 music/Sharks eat people too.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{\"scroll\":18.40491350959329}"
+                        },
+                        {
+                          "leaf": "d8513b4511bd53e7",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/export animated webps.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/11 media/111 books/Catch-22.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "6b517986899f7375",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "483b7991e2fd0339",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "483b7991e2fd0339",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/export animated webps.md\",\"mode\":\"preview\",\"source\":true}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1 notes/export animated webps.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71ff5cef2bcbb103",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b21e83ce3fccc7a",
+        "type": "tabs",
+        "dimension": 44.200626959247636,
+        "children": [
+          {
+            "id": "5454cef8376b7ed7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af1f2bf4f1765057",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.900333333333333,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.532564102564103,
+                  "repelStrength": 0,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946917,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "e0c1fa20ac4e5d0f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "397bba701bd8cc32",
+        "type": "tabs",
+        "dimension": 55.799373040752364,
+        "children": [
+          {
+            "id": "93f0b28a0d2319c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "6413b7954dbc144f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d697a6cc8aee9ec9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4b1b546d28358b2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md"
+              }
+            }
+          },
+          {
+            "id": "a78cafa98ce6ae75",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.01499938964844
+  },
+  "right": {
+    "id": "3ab63e9a8e394489",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a64458d81cceb37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d1838dc8b31b0d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "1d1838dc8b31b0d0",
+                  "group": null,
+                  "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"0 ttrpg/Resources/Skills/Animal Handling.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.0638636963987,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 1.11825305978692,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42967809143425173,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "2628e28203a56c3a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03945464cce3a663",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.21502685546875,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a4bb23b1cb7a9bed",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": true
+  },
+  "lastOpenFiles": [
+    "1 notes/11 media/111 books/Cat's Cradle.md",
+    "1 notes/11 media/0 Books.md",
+    "1 notes/10 music/Sharks eat people too.md",
+    "1 notes/11 media/111 books/Pnin.md",
+    "1 notes/common regex.md",
+    "1 notes/11 media/111 books/Catch-22.md",
+    "1 notes/export animated webps.md",
+    "1 notes/The Goatherd.md",
+    "1 notes/10 music/Shoegaze history.md",
+    "1 notes/Javascript- Duplicating elements and adding and removing classes.md"
+  ]
+}

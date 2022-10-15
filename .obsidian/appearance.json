@@ -38,5 +38,6 @@
   ],
   "translucency": false,
   "baseFontSize": 16,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "accentColor": ""
 }
