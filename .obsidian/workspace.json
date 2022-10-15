@@ -9,19 +9,46 @@
         "dimension": 65.1270207852194,
         "children": [
           {
-            "id": "63d3b481c00328d6",
+            "id": "b558578d75a51d86",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Pnin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Pnin.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
+                  "title": "Cat's Cradle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cat's Cradle.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "58079c25937a579a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "0 Books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
@@ -53,29 +80,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b558578d75a51d86",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 notes/11 media/111 books/Cat's Cradle.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +108,8 @@
             },
             "group": "66a9a1bf77b65224"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a3562b9343667ca3",
@@ -170,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 notes/11 media/0 Books.md"
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md"
               }
             }
           }
@@ -241,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 notes/11 media/0 Books.md"
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md"
               }
             }
           },
@@ -298,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -333,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,17 +364,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "63d3b481c00328d6",
+  "active": "58079c25937a579a",
   "lastOpenFiles": [
-    "1 notes/11 media/111 books/Pnin.md",
     "1 notes/11 media/0 Books.md",
+    "1 notes/11 media/111 books/Cat's Cradle.md",
+    "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+    "1 notes/11 media/eating less meat - what I've learned.md",
+    "1 notes/11 media/111 books/Pnin.md",
     "1 notes/11 media/111 books/2666.md",
     "1 notes/11 media/111 books/Humboldt's Gift.md",
     "0 ttrpg/Scratchpad.md",
     "obsidian.md/Templates/ggmonstemplate.md",
-    "0 ttrpg/Monsters.md",
-    "z this is actually a really long title with lots of words so that it wraps.md",
-    "1 notes/11 media/111 books/Cat's Cradle.md",
-    "1 notes/11 media/eating less meat - what I've learned.md"
+    "0 ttrpg/Monsters.md"
   ]
 }
