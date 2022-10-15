@@ -10,12 +10,5 @@
 
 .kanban .list-bullet {display:none}
 
-.plugin-maximise-active-pane .workspace-split.maximised .workspace-tabs:not(.maximisedparentsplit) {
-  display: none;
-}
-
-.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf.mod-active {
-  flex-basis: calc(100% - 4px);
-}
 
 .markdown-preview-view th.header-sort-down, .markdown-preview-view th.header-sort-up, .markdown-preview-view th {background-image:none}

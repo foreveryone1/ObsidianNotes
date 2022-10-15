@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a3562b9343667ca3",
@@ -234,6 +235,15 @@
           {
             "id": "a4b1b546d28358b2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -274,6 +284,15 @@
           {
             "id": "1d1838dc8b31b0d0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
@@ -301,7 +320,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.42967809143425173,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -309,6 +328,15 @@
           {
             "id": "37d0aa573942bc9a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -321,12 +349,22 @@
           {
             "id": "b5d467884939caa0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -336,7 +374,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f5ff61d01d156460",
+  "active": "c78acc9bb1a6005e",
   "lastOpenFiles": [
     "0 ttrpg/Scratchpad.md",
     "1 notes/11 media/0 Books.md",
