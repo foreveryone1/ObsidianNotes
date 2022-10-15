@@ -158,20 +158,20 @@ Spell attack modifier = your proficiency bonus + your Intelligence modifier
 You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 ### Infuse Item (3 infusions)
-4 infusions known
+6 infusions known
 
 - [x] **Returning Weapon**
 	- This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
 - [ ] **Repeating Shot**
 	- This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.  
 		If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
-- [x] **Enhanced Defence**
+- [ ] **Enhanced Defence**
 	- A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.  The bonus increases to +2 when you reach 10th level in this class.
 - [ ] **Replicate Magic Item: Cap of Water-Breathing**
 	- While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.
 - [x] **Boots of the Winding Path**
 	- While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
-- [ ] **Repulsion Shield**
+- [x] **Repulsion Shield**
 	- A creature gains a +1 bonus to Armor Class while wielding this shield.  
 		The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
 
@@ -212,6 +212,8 @@ At 3rd level, you learn how to produce exactly the tool you need: with thieves' 
 ### Artificer Specialist Feature
 Extra Attack
 
+### Tool Expertise
+Starting at 6th level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
 
 ### Magic Items
 
