@@ -24,5 +24,6 @@
   "useTab": true,
   "spellcheck": true,
   "livePreview": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "rightToLeft": false
 }

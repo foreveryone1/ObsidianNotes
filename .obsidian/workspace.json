@@ -6,7 +6,7 @@
       {
         "id": "08d0445040c1b19b",
         "type": "tabs",
-        "dimension": 61.08545034642032,
+        "dimension": 64.78060046189377,
         "children": [
           {
             "id": "f5ff61d01d156460",
@@ -17,6 +17,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "netsh commands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/netsh commands.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "0 Books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":1.0967730519639471}"
                 },
                 {
                   "title": "As I Lay Dying",
@@ -35,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
-                "mode": "preview",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -49,10 +61,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "ʒ scratchpad",
+                  "title": "0 Books",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ʒ scratchpad.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":17},\"to\":{\"line\":12,\"ch\":17}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":1.4713137955615745}"
                 },
                 {
                   "state": "{}",
@@ -75,13 +87,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a3562b9343667ca3",
         "type": "tabs",
-        "dimension": 38.91454965357968,
+        "dimension": 35.21939953810623,
         "children": [
           {
             "id": "c78acc9bb1a6005e",
@@ -91,6 +102,12 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "common regex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/common regex.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
@@ -104,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "mode": "preview",
                 "source": true
               }
@@ -147,12 +164,21 @@
           {
             "id": "af1f2bf4f1765057",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -163,7 +189,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 0.900333333333333,
@@ -173,23 +199,14 @@
                   "repelStrength": 0,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6554983534946917,
+                  "scale": 0.46755089133717537,
                   "close": true
                 }
               }
             }
-          },
-          {
-            "id": "e0c1fa20ac4e5d0f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1 notes/11 media/0 Books.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "397bba701bd8cc32",
@@ -221,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,13 +264,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 notes/11 media/0 Books.md"
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md"
               }
             }
           },
           {
             "id": "a78cafa98ce6ae75",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -296,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -340,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,17 +400,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c78acc9bb1a6005e",
+  "active": "f5ff61d01d156460",
   "lastOpenFiles": [
-    "0 ttrpg/Scratchpad.md",
+    "1 notes/netsh commands.md",
     "1 notes/11 media/0 Books.md",
+    "0 ttrpg/Scratchpad.md",
+    "0 ttrpg/SRD.md",
+    "1 notes/common regex.md",
+    "1 notes/Exercise.md",
     "1 notes/11 media/111 books/As I Lay Dying.md",
     "1 notes/11 media/eating less meat - what I've learned.md",
     "ʒ scratchpad.md",
-    "984-1.pdf",
-    "0 ttrpg/SRD.md",
-    "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
-    "ORD04994435.pdf",
-    "1 notes/11 media/111 books/Cat's Cradle.md"
+    "984-1.pdf"
   ]
 }

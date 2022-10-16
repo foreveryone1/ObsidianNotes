@@ -8,7 +8,11 @@
     padding-left: 0px;
 }
 
+[data-task="c"] .list-bullet {display:none}
+
 .kanban .list-bullet {display:none}
+
+.mod-root.workspace-split.mod-vertical .view-header {height: 30px}
 
 
 .markdown-preview-view th.header-sort-down, .markdown-preview-view th.header-sort-up, .markdown-preview-view th {background-image:none}

@@ -130,5 +130,13 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "pane-relief:maximize": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
