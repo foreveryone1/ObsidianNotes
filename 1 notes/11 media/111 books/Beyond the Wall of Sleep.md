@@ -5,3 +5,5 @@ rating::
 notes:: Short story, Jory recc
 date-read::
 %%
+
+`=this.notes`

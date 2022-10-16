@@ -9,3 +9,5 @@ notes::
 date-read::  
 ISBN13:: 9781407054131
 %%
+
+`=this.notes`

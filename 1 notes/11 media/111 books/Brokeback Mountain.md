@@ -8,3 +8,5 @@ date-read::
 ISBN10:: 0743271327
 ISBN13:: 9780743271325
 %%
+
+`=this.notes`

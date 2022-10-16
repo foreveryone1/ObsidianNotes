@@ -9,3 +9,5 @@ notes::  Nuclear disaster, deceiving society with a grand narrative to prevent c
 date-read:: 20221013
 ISBN13::  
 %%
+
+`=this.notes`

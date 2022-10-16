@@ -9,52 +9,6 @@
         "dimension": 64.20323325635104,
         "children": [
           {
-            "id": "f5ff61d01d156460",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "netsh commands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/netsh commands.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "0 Books",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":1.0967730519639471}"
-                },
-                {
-                  "title": "As I Lay Dying",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/As I Lay Dying.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "eating less meat - what I've learned",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/eating less meat - what I've learned.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "66a9a1bf77b65224"
-          },
-          {
             "id": "2054b898c16e93b3",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -86,8 +40,540 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "de6eecafe54ff006",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Bartleby the Scrivener",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Bartleby the Scrivener.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cat's Cradle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cat's Cradle.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2666",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/2666.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A Fable",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/A Fable.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "As I Lay Dying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/As I Lay Dying.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bartleby the Scrivener",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Bartleby the Scrivener.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bell Jar, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Bell Jar, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Last Evenings on Earth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Last Evenings on Earth.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tropic of Capricorn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Tropic of Capricorn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Tropic of Cancer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Tropic of Cancer.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "The Time of the Hero",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/The Time of the Hero.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Tartar Steppe, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Tartar Steppe, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Sweet Shop Owner, The",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Sweet Shop Owner, The.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Suttree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Suttree.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
+                },
+                {
+                  "title": "Stoner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Stoner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Spring Snow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Spring Snow.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Sound and the Fury, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Sound and the Fury, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Songlines, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Songlines, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Slaughterhouse-Five",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Slaughterhouse-Five.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Siddhartha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Siddhartha.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Remains of the Day, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Remains of the Day, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Pnin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Pnin.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Plague, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Plague, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
+                },
+                {
+                  "title": "Piazza, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Piazza, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Pale King, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Pale King, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Pale Fire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Pale Fire.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Outsider, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Outsider, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "One Hundred Years of Solitude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/One Hundred Years of Solitude.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Old Man and the Sea, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Old Man and the Sea, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "One Hundred Years of Solitude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/One Hundred Years of Solitude.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Of Mice and Men",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Of Mice and Men.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Odyssey, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Odyssey, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Norwegian Wood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Norwegian Wood.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Never Let Me Go",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Never Let Me Go.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Mythology",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Mythology.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Moby Dick, or the Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Moby Dick, or the Whale.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Middlesex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Middlesex.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Lorna Doone",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Lorna Doone.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":13},\"to\":{\"line\":11,\"ch\":13}}}"
+                },
+                {
+                  "title": "Lolita",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Lolita.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Lorna Doone",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Lorna Doone.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Leopard, The",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Leopard, The.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Leaf Storm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Leaf Storm.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":13},\"to\":{\"line\":11,\"ch\":13}}}"
+                },
+                {
+                  "title": "Last Evenings on Earth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Last Evenings on Earth.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
+                },
+                {
+                  "title": "Kokoro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Kokoro.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Jane Eyre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Jane Eyre.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Iliad, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Iliad, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Idiot, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Idiot, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "I the Supreme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/I the Supreme.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Humboldt's Gift",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Humboldt's Gift.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":13},\"to\":{\"line\":11,\"ch\":13}}}"
+                },
+                {
+                  "title": "Heart of Darkness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Heart of Darkness.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Grapes of Wrath, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Grapes of Wrath, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Gould's Book of Fish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Gould's Book of Fish.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Good Omens",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Good Omens.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Flowers for Algernon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Flowers for Algernon.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Fahrenheit 451",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Fahrenheit 451.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "East of Eden",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/East of Eden.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Dead Souls",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Dead Souls.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Day of the Locust, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Day of the Locust, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Crime and Punishment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Crime and Punishment.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Catcher in the Rye, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Catcher in the Rye, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cat's Cradle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cat's Cradle.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Catch-22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Catch-22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Catcher in the Rye, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Catcher in the Rye, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Blood Meridian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Blood Meridian.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cat's Cradle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cat's Cradle.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Cannery Row",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Cannery Row.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Brokeback Mountain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Brokeback Mountain.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":13},\"to\":{\"line\":11,\"ch\":13}}}"
+                },
+                {
+                  "title": "Blood Meridian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Blood Meridian.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Beyond the Wall of Sleep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Beyond the Wall of Sleep.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
+                },
+                {
+                  "title": "Bell Jar, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Bell Jar, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bartleby the Scrivener",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Bartleby the Scrivener.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":20},\"to\":{\"line\":5,\"ch\":20}}}"
+                },
+                {
+                  "title": "Augustus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Augustus.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "As I Lay Dying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/As I Lay Dying.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anabasis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Anabasis.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ada, or Ardor - A Family Chronicle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Ada, or Ardor - A Family Chronicle.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Absalom, Absalom!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Absalom, Absalom!.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "A Fable",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/A Fable.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":13},\"to\":{\"line\":11,\"ch\":13}}}"
+                },
+                {
+                  "title": "2666",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/2666.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Bell Jar, the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/Bell Jar, the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":13}}}"
+                },
+                {
+                  "title": "0 Books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Hakon Duodenuus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":159.34284855769232}"
+                },
+                {
+                  "title": "netsh commands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/netsh commands.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "0 Books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":1.0967730519639471}"
+                },
+                {
+                  "title": "As I Lay Dying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/111 books/As I Lay Dying.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "eating less meat - what I've learned",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/eating less meat - what I've learned.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 notes/11 media/0 Books.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a3562b9343667ca3",
@@ -121,12 +607,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/111 books/Bell Jar, the.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "66a9a1bf77b65224"
+            }
           },
           {
             "id": "2a4c1eab7c9da4eb",
@@ -198,7 +683,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,7 +753,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +779,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md"
+                "file": "1 notes/11 media/0 Books.md"
               }
             }
           },
@@ -352,7 +837,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -396,7 +881,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,17 +915,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f5ff61d01d156460",
+  "active": "de6eecafe54ff006",
   "lastOpenFiles": [
-    "ʒ scratchpad.md",
-    "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
-    "1 notes/netsh commands.md",
+    "1 notes/11 media/111 books/Bartleby the Scrivener.md",
     "1 notes/11 media/0 Books.md",
-    "0 ttrpg/Scratchpad.md",
-    "0 ttrpg/SRD.md",
-    "1 notes/common regex.md",
-    "1 notes/Exercise.md",
+    "1 notes/11 media/111 books/Cat's Cradle.md",
+    "1 notes/11 media/111 books/Good Omens.md",
+    "1 notes/11 media/111 books/2666.md",
+    "1 notes/11 media/111 books/A Fable.md",
     "1 notes/11 media/111 books/As I Lay Dying.md",
-    "1 notes/11 media/eating less meat - what I've learned.md"
+    "1 notes/11 media/111 books/Bell Jar, the.md",
+    "1 notes/11 media/111 books/Last Evenings on Earth.md",
+    "1 notes/11 media/111 books/Tropic of Capricorn.md"
   ]
 }

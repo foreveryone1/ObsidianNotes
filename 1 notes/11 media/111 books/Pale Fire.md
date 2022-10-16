@@ -6,3 +6,5 @@ notes:: Creepy tale of a man confabulating a story, or an elaborate suicide. "In
 date-read:: 20180220
 link:: [[1 notes/11 media/111 books/Pale Fire|link]]
 %%
+
+`=this.notes`

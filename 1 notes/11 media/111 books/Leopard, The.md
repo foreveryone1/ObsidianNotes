@@ -6,3 +6,5 @@ notes:: "If we want things to stay as they are, things will have to change." A d
 date-read:: 20180707
 link:: [[1 notes/11 media/111 books/Leopard, The|link]]
 %%
+
+`=this.notes`

@@ -6,3 +6,5 @@ notes::
 date-read::
 link:: [[Dead Souls|link]]
 %%
+
+`=this.notes`

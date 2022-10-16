@@ -7,3 +7,5 @@ date-read::20170407
 link:: [[1 notes/11 media/111 books/Of Mice and Men|link]]
 %%
 
+`=this.notes`
+

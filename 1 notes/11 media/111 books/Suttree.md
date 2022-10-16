@@ -5,3 +5,5 @@ rating::
 notes::
 date-read::
 %%
+
+`=this.notes`

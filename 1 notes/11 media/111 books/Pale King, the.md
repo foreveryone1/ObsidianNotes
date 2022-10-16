@@ -9,3 +9,5 @@ notes::
 date-read::  
 ISBN13:: 9780316175296
 %%
+
+`=this.notes`

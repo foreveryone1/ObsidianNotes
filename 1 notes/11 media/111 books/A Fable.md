@@ -8,3 +8,5 @@ date-read::
 ISBN10:: 0307792137
 ISBN13:: 9780307792136
 %%
+
+`=this.notes`

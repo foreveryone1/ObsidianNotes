@@ -5,3 +5,5 @@ rating:: Positive
 notes:: Short story collection. Chilean leftist burnout
 date-read:: 20210506
 %%
+
+`=this.notes`

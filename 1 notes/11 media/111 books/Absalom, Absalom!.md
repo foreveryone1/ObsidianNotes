@@ -7,6 +7,8 @@ date-read:: 20170928
 link:: [[1 notes/11 media/111 books/Absalom, Absalom!|link]]
 %%
 
+`=this.notes`
+
 In het rustige dorpje van Jefferson, Mississippi echoën nog de daden van Thomas Sutpen, een man van mysterieuze herkomst die een bijna mythische status heeft. Maar dit boek gaat in feite niet over Thomas Sutpen, maar over de echo's, over de mensen die zijn daden hebben meegemaakt en door hun (voor)oordelen zijn daden (mis)interpreteren en zijn verhaal verdervertellen aan mensen die nog nooit zelf Sutpen gezien hebben, mensen voor wie hij meer een schim van een schim is dan een persoon.
 
 Het was een gewaagde, maar uiteindelijk briljante, zet van Faulkner om in een boek dat in feite gaat over het vertellen van verhalen, de regels van het medium  te negeren. Het verhaal is niet lineair, noch is er sprake van echt 'character development', in feite kan men zelfs niet eens spreken over spanning van 'wat komt' (eigenlijk van wat er gebeurd is, want ze spreken retrospectief over dingen), want in de eerste pagina's wordt er direct verteld wat er Sutpen overkomen is: hij is verantwoordelijk voor zijn eigen ondergang. Er zou kunnen beargumenteerd worden dat het verhaal niet het velangrijkste is van dit boek, maar hoe het verteld wordt en door wie.

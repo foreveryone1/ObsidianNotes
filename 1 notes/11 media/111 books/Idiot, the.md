@@ -6,3 +6,5 @@ notes::A Christ-like figure is exposed to pre-revolution Russian society, and su
 date-read::20160205
 link:: [[Idiot, the|link]]
 %%
+
+`=this.notes`

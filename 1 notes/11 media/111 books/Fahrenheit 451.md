@@ -6,3 +6,5 @@ notes::
 date-read::
 link:: [[Fahrenheit 451|link]]
 %%
+
+`=this.notes`

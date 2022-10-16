@@ -7,6 +7,8 @@ notes:: Delightful language, overwhelming erudition and wordplay.
 date-read:: 20220201
 %%
 
+`=this.notes`
+
 
 Delightful language, overwhelming erudition and wordplay.
 

@@ -6,3 +6,5 @@ notes::Organ donor clones. Grasping at a way to live fulfilling happy lives in t
 date-read::20150520
 link:: [[1 notes/11 media/111 books/Never Let Me Go|link]]
 %%
+
+`=this.notes`

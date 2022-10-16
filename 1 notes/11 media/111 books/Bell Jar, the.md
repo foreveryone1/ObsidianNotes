@@ -5,6 +5,7 @@ notes:: A withering olive tree, being a woman, what society expects from a woman
 link:: [[1 notes/11 media/111 books/Bell Jar, the|link]]
 date-read:: 20220302
 
+`=this.notes`
 
 Fear of motherhood
 - Expressed through the physical revulsion she feels witnessing a birth, but also reflected in the way she evaluates her role in society

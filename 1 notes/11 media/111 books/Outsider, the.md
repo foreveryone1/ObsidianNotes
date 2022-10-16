@@ -9,3 +9,5 @@ notes::
 date-read::  
 ISBN13:: 9780141198064
 %%
+
+`=this.notes`

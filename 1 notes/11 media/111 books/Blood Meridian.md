@@ -6,3 +6,5 @@ notes::Judge as ultimate evil. The bloodshed and brutal violence of the West bei
 date-read::20160511
 link:: [[1 notes/11 media/111 books/Blood Meridian|link]]
 %%
+
+`=this.notes`

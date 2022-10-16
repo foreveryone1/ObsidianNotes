@@ -6,3 +6,5 @@ notes::
 date-read::
 link:: [[Tropic of Cancer|link]]
 %%
+
+`=this.notes`

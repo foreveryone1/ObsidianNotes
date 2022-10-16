@@ -6,3 +6,5 @@ notes::Racial segregation, the gradual 'whitening' of 'less desirable' Caucasian
 date-read::20160616
 link:: [[1 notes/11 media/111 books/Middlesex|link]]
 %%
+
+`=this.notes`

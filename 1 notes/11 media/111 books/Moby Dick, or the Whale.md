@@ -6,3 +6,5 @@ notes:: *Moby Dick* is about itself. Man grasps at true knowledge, but falls sho
 date-read::20171126
 link:: [[1 notes/11 media/111 books/Moby Dick, or the Whale|link]]
 %%
+
+`=this.notes`

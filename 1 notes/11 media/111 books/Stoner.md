@@ -6,3 +6,5 @@ notes:: Man takes persistent dirt farmer mentality to academia, lives an unfulfi
 date-read::20150611
 link:: [[Stoner|link]]
 %%
+
+`=this.notes`

@@ -9,3 +9,5 @@ notes:: A sombre monologue of a man who lived an unfulfilling life and his attem
 date-read:: 20220727
 ISBN13:: 9781471187360
 %%
+
+`=this.notes`

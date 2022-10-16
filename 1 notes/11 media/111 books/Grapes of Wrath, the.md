@@ -6,3 +6,5 @@ notes::No Good Al Joad. The Great Depression, and the downtrodden's struggle for
 date-read::20180811
 link:: [[1 notes/11 media/111 books/Grapes of Wrath, the|link]]
 %%
+
+`=this.notes`

@@ -8,3 +8,5 @@ date-read::
 ISBN10::  
 ISBN13::  
 %%
+
+`=this.notes`

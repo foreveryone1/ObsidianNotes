@@ -6,3 +6,5 @@ notes::
 date-read::
 link:: [[I the Supreme|link]]
 %%
+
+`=this.notes`

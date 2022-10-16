@@ -7,6 +7,8 @@ date-read::20181214
 link:: [[Songlines, the|link]]
 %%
 
+`=this.notes`
+
 ![[obsidian.md/Attachments/Pasted image 20220530000153.png]]
 ![[obsidian.md/Attachments/Pasted image 20220530000204.png]]
 

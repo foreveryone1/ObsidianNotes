@@ -6,3 +6,5 @@ notes::Timshel - thou mayest. You can overcome hereditary sin, the evil which yo
 date-read::20170714
 link:: [[1 notes/11 media/111 books/East of Eden|link]]
 %%
+
+`=this.notes`

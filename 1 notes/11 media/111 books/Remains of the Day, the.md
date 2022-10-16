@@ -6,3 +6,5 @@ notes::Regrets and overcoming them. It is better to carry on with what meagre ti
 date-read::20150512
 link:: [[1 notes/11 media/111 books/Remains of the Day, the|link]]
 %%
+
+`=this.notes`

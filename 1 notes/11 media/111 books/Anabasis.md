@@ -5,6 +5,9 @@ rating::
 notes::
 date-read::
 %%
+
+`=this.notes`
+
 ## Anabasis - Cyrus on loyalty to former friends
 ### Text
 > He said that Cyrus opened the inquiry with these words: "I have invited you hither, my friends, that I may take advice with you, and carry out whatever, in the sight of God and man, it is right for me to do, as concerning the man before you, Orontas. The prisoner was, in the first instance, given to me by my father, to be my faithful subject. In the next place, acting, to use his own words, under the orders of my brother, and having hold of the acropolis of Sardis, he went to war with me.
