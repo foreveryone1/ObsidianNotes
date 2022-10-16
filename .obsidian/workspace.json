@@ -12,7 +12,7 @@
             "id": "2054b898c16e93b3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 2,
               "stack": [
                 {
                   "title": "0 Books",
@@ -21,13 +21,13 @@
                   "eState": "{\"scroll\":1.4713137955615745}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Scratchpad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/Scratchpad.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "title": "SRD",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/SRD.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 ttrpg/Scratchpad.md",
+                "file": "0 ttrpg/SRD.md",
                 "mode": "preview",
                 "source": true
               }
@@ -572,7 +572,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a3562b9343667ca3",
@@ -682,7 +683,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 ttrpg/Scratchpad.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -752,7 +753,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 ttrpg/Scratchpad.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -778,7 +779,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 ttrpg/Scratchpad.md"
+                "file": "1 notes/11 media/0 Books.md"
               }
             }
           },
@@ -836,7 +837,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 ttrpg/Scratchpad.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -880,7 +881,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 ttrpg/Scratchpad.md",
+                "file": "1 notes/11 media/0 Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -914,17 +915,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2054b898c16e93b3",
+  "active": "de6eecafe54ff006",
   "lastOpenFiles": [
+    "0 ttrpg/SRD.md",
+    "ʒ scratchpad.md",
+    "1 notes/11 media/111 books/Bell Jar, the.md",
     "1 notes/11 media/0 Books.md",
     "0 ttrpg/Scratchpad.md",
     "1 notes/11 media/111 books/Bartleby the Scrivener.md",
     "1 notes/11 media/111 books/Cat's Cradle.md",
     "1 notes/11 media/111 books/Good Omens.md",
     "1 notes/11 media/111 books/2666.md",
-    "1 notes/11 media/111 books/A Fable.md",
-    "1 notes/11 media/111 books/As I Lay Dying.md",
-    "1 notes/11 media/111 books/Bell Jar, the.md",
-    "1 notes/11 media/111 books/Last Evenings on Earth.md"
+    "1 notes/11 media/111 books/A Fable.md"
   ]
 }
