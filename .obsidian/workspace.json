@@ -6,7 +6,7 @@
       {
         "id": "08d0445040c1b19b",
         "type": "tabs",
-        "dimension": 64.78060046189377,
+        "dimension": 64.20323325635104,
         "children": [
           {
             "id": "f5ff61d01d156460",
@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -92,7 +92,7 @@
       {
         "id": "a3562b9343667ca3",
         "type": "tabs",
-        "dimension": 35.21939953810623,
+        "dimension": 35.79676674364896,
         "children": [
           {
             "id": "c78acc9bb1a6005e",
@@ -127,8 +127,30 @@
               }
             },
             "group": "66a9a1bf77b65224"
+          },
+          {
+            "id": "2a4c1eab7c9da4eb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ʒ scratchpad.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,14 +221,13 @@
                   "repelStrength": 0,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.46755089133717537,
+                  "scale": 0.6554983534946933,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "397bba701bd8cc32",
@@ -216,6 +237,15 @@
           {
             "id": "93f0b28a0d2319c1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -402,6 +432,8 @@
   },
   "active": "f5ff61d01d156460",
   "lastOpenFiles": [
+    "ʒ scratchpad.md",
+    "0 ttrpg/_Settings/Terrasque/Hakon Duodenuus.md",
     "1 notes/netsh commands.md",
     "1 notes/11 media/0 Books.md",
     "0 ttrpg/Scratchpad.md",
@@ -409,8 +441,6 @@
     "1 notes/common regex.md",
     "1 notes/Exercise.md",
     "1 notes/11 media/111 books/As I Lay Dying.md",
-    "1 notes/11 media/eating less meat - what I've learned.md",
-    "ʒ scratchpad.md",
-    "984-1.pdf"
+    "1 notes/11 media/eating less meat - what I've learned.md"
   ]
 }
