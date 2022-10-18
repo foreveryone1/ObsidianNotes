@@ -1,3 +1,42 @@
+# fly the coop [working title]
+locked by inertia  
+wade through syrup  
+burning time until my life gets clearer  
+
+I'm lost adrift, I crave the new  
+no inner hunger, starved of fuel  
+
+I read the same things every night  
+expecting change  
+expecting  
+I read the same things every night  
+expecting change  
+expecting change  
+
+no taste as sweet as helplessness  
+a gilded cage that's left unlocked  
+analysis paralysis  
+I clipped my wings before the start  
+
+I read the same things every night  
+expecting change  
+expecting  
+I read the same things every night  
+expecting change  
+expecting change  
+
+locked by inertia  
+drowned in syrup  
+olives rot  
+on branches faded  
+
+fly the coop  
+come crashing down   
+no other way  
+this could have gone  
+
+
+
 # Yossarian Lives [wip]
 `nog geen muziek, tekst nog niet af`
 

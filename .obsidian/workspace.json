@@ -12,22 +12,16 @@
             "id": "2054b898c16e93b3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "0 Books",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 notes/11 media/0 Books.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":1.4713137955615745}"
-                },
-                {
-                  "title": "Scratchpad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/Scratchpad.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "SRD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 ttrpg/SRD.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
@@ -35,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 ttrpg/SRD.md",
-                "mode": "preview",
+                "file": "1 notes/10 music/Sharks eat people too.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -572,8 +566,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a3562b9343667ca3",
@@ -683,7 +676,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "1 notes/10 music/Sharks eat people too.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -753,7 +746,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "1 notes/10 music/Sharks eat people too.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -779,7 +772,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 notes/11 media/0 Books.md"
+                "file": "1 notes/10 music/Sharks eat people too.md"
               }
             }
           },
@@ -837,7 +830,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "1 notes/10 music/Sharks eat people too.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -881,7 +874,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 notes/11 media/0 Books.md",
+                "file": "1 notes/10 music/Sharks eat people too.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -915,12 +908,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "de6eecafe54ff006",
+  "active": "2054b898c16e93b3",
   "lastOpenFiles": [
     "0 ttrpg/SRD.md",
+    "1 notes/11 media/0 Books.md",
     "ʒ scratchpad.md",
     "1 notes/11 media/111 books/Bell Jar, the.md",
-    "1 notes/11 media/0 Books.md",
     "0 ttrpg/Scratchpad.md",
     "1 notes/11 media/111 books/Bartleby the Scrivener.md",
     "1 notes/11 media/111 books/Cat's Cradle.md",
