@@ -1,7 +1,7 @@
 # fly the coop [working title]
 locked by inertia  
 wade through syrup  
-burning time until my life gets clearer  
+burning time until my life is clearer  
 
 I'm lost adrift, I crave the new  
 no inner hunger, starved of fuel  
@@ -27,8 +27,8 @@ expecting change
 
 locked by inertia  
 drowned in syrup  
-olives rot  
-on branches faded  
+rotting figs
+on branches withered  
 
 fly the coop  
 come crashing down   
