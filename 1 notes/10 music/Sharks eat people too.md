@@ -28,7 +28,7 @@ expecting change
 locked by inertia  
 drowned in syrup  
 rotting figs
-on branches withered  
+on branches shrivelled  
 
 fly the coop  
 come crashing down   
