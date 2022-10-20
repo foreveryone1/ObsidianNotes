@@ -1,7 +1,14 @@
 .workspace-ribbon {    --ribbon-width: 30px;
 }
 
+body {
+	--header-height:40px
+}
 .clickable-icon {padding-left: 2px; }
+
+.sidebar-toggle-button.mod-right {
+	margin-right: 5px
+}
 
 .nav-files-container {
     padding-right: 2px;
@@ -14,7 +21,7 @@
 
 .mod-root.workspace-split.mod-vertical .view-header {height: 30px}
 
-.mod-root.workspace-split.mod-vertical.has-maximized .view-header {height: 42px}
+.mod-root.workspace-split.mod-vertical.has-maximized .view-header {height: calc(var(--header-height) + 1px)}
 
 
 .markdown-preview-view th.header-sort-down, .markdown-preview-view th.header-sort-up, .markdown-preview-view th {background-image:none}
