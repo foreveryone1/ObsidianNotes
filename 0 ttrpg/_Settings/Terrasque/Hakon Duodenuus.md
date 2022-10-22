@@ -10,8 +10,8 @@ Male, Small, Chaotic Good
 ---
 %%
 level::5
-prof:: (2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2)
-halfProf::`=(this.prof - this.prof %2)/2`
+prof:: `= (2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2) `
+halfProf::`=((2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2) - (2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2) %2)/2`
 str:: 11
 str_mod:: `=(this.str - this.str%2 - 10) / 2` 
 dex:: 12
@@ -25,7 +25,6 @@ wis_mod:: `=(this.wis - this.wis%2 - 10) / 2`
 cha:: 7
 cha_mod:: `=(this.cha - this.cha%2 - 10) / 2` 
 %%
-prof_bonus::`= 2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2 `
 
 MaxHP:: `=8+8+8+8+2+3+6 *((this.con - this.con%2 - 10) / 2)`
 HP:: 39
@@ -55,7 +54,7 @@ Thieves' Tools
 
 ## Archie (Steel Defender)
 - ## Attributes
-	- **Proficiency Bonus**: +3
+	- **Proficiency Bonus**: +`=this.prof`
 	- Str 14(+2)  
 		**Dex** 12(+1)  
 		**Con** 14(+2)  

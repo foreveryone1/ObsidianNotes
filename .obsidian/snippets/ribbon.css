@@ -4,6 +4,10 @@
 body {
 	--header-height:32px
 }
+
+body {
+	--table-header-size:calc(var(--font-text-size) - 1px)
+}
 .clickable-icon {padding-left: 2px; }
 
 .sidebar-toggle-button.mod-right {

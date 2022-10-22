@@ -300,5 +300,6 @@ padding-left: 0px;
 .callout[data-callout~=kanban] li > ul::before, .callout[data-callout~=kanban] li > ol::before {
     border-right: 0px solid var(--indentation-guide)!important;
 }
+.callout[data-callout~=kanban] {padding:0}
 
 
