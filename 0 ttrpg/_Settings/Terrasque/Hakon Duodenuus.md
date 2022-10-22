@@ -2,16 +2,12 @@
 cssclass: kanban, readable
 ---
 
-
-### Attributes
-Hakon Duodenuus
-Ghostwise Halfling Artificer 5 (Battlesmith)
-Male, Small, Chaotic Good  
 ---
 %%
-level::5
+level::6
 prof:: `$=2 + Math.floor((dv.current().level - 1)/4)`
 spellSave::`$=8+ 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
+spellAttack:: `$= 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
 halfProf:: `$=Math.floor((2 + Math.floor((dv.current().level - 1)/4))/2)`
 str:: 11
 dex:: 12
@@ -26,13 +22,22 @@ con_mod:: `$=Math.floor((dv.current().con - 10) /2)`
 int_mod:: `$=Math.floor((dv.current().int - 10) /2)` 
 wis_mod:: `$=Math.floor((dv.current().wis - 10) /2)` 
 cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)` 
+
+archieHP:: `$= 2 + Math.floor((dv.current().int - 10) /2) + dv.current().level* 5`
+archieHPmax::27
 %%
 
+- ## Personal
+	- **Hakon Duodenuus**
+	 Ghostwise Halfling Artificer 6 (Battlesmith)
+	 Male, Small, Chaotic Good  
 - ## Attributes
-	- MaxHP:: `$=8+8+8+8+2+3+6 * (Math.floor((dv.current().con - 10) /2))`  
+	- MaxHP:: `$=8+8+8+8+2+3+ dv.current().level * (Math.floor((dv.current().con - 10) /2))`  
 	HP:: 39
 	Hit dice: 5/5d8
 	AC: 18 (Scalemail/Shield+1)
+	 Spell save DC: `=this.spellSave`
+	 Spell Attack: +`=this.spellAttack`
 	- ![[#Attribute Scores]]
 - ## Skills 
 	- **Proficiency bonus: +`=this.prof` (half: +`=this.halfProf`)**
@@ -41,17 +46,15 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	- Medicine
 	- Religion
 - ## Attacks/Items
-	- Spell save DC: `=this.spellSave`
-	 Spell Attack: +8
-	 BA: Command Steel Defender
+	 - BA: Command Steel Defender
 	 Thieves' Tools
 	 3-standenfaar - smal en geconcentreerd, verspreid licht, of uit
 	- **Extra Attack**
-		- Hand-Axe +1 (returning, thrown): +9, d6+8 S
-		- Hand-Axe +1 (returning, melee): +9, d6+6 S
+		- Hand-Axe +1 (returning, thrown): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d6+`$=Math.floor((dv.current().int - 10) /2)+2+1` S, 20/60
+		- Hand-Axe +1 (returning, melee): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d6+`$=Math.floor((dv.current().int - 10) /2)+1` S
 - ## Other proficiencies
 	- Common, Halfling
-	- Thieves' Tools, Tinkers' Tools, Carpenters' Tools
+	- **Thieves' Tools, Tinkers' Tools, Carpenters' Tools**
 	- Light Armor, Medium Armour
 	- Martial Weapons
 
@@ -66,7 +69,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		Cha 6 (-2)  
 	- ## Skills
 	- Athletics
-	- Perception (Expertise)
+	- **Perception**
 - ## Features
 	- ![[size_medium|narrow]]
 	- ![[0 ttrpg/Resources/Houserules/GGMM/type_construct|narrow]]
@@ -81,9 +84,9 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		- **Vigilant.** The defender can't be surprised.
 - ## Actions
 	-  **Force-Empowered Rend.**  
-		Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage.
+		Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + `=this.prof` force damage.
 	-  **Repair (3/Day).**  
-		The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.
+		The magical mechanisms inside the defender restore 2d8 + `=this.prof` hit points to itself or to one construct or object within 5 feet of it.
 
 - ## Reactions
 	- **Deflect Attack.**  
@@ -120,8 +123,8 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 
 ## Spells (Prepared: 7)
 
-Spell save DC: 16
-Spell Attack Modifier: +8
+Spell save DC: `=this.spellSave`
+Spell Attack Modifier: +`=this.spellAttack`
 
 - #### Cantrips
 	- [[Mage Hand]]

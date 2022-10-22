@@ -2,12 +2,11 @@
 }
 
 body {
-	--header-height:32px
-}
-
-body {
+	--header-height:32px;
+	--bold-weight: var(--font-bold);
 	--table-header-size:calc(var(--font-text-size) - 1px)
 }
+
 .clickable-icon {padding-left: 2px; }
 
 .sidebar-toggle-button.mod-right {
@@ -25,7 +24,9 @@ body {
 
 .mod-root.workspace-split.mod-vertical .view-header {height: 30px}
 
-.mod-root.workspace-split.mod-vertical.has-maximized .view-header {height: calc(var(--header-height) + 1px)}
+.mod-root.workspace-split.mod-vertical.has-maximized .view-header {height: calc(var(--header-height) + 1px);}
 
 
-.markdown-preview-view th.header-sort-down, .markdown-preview-view th.header-sort-up, .markdown-preview-view th {background-image:none}
+.markdown-preview-view th.header-sort-down, .markdown-preview-view th.header-sort-up, .markdown-preview-view th {background-image:none;}
+
+.body }
