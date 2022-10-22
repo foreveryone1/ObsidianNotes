@@ -1,6 +1,5 @@
 ---
 cssclass: kanban, readable
-testprof: "`$=dv.tryEvaluate('2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2')`"
 ---
 
 
@@ -11,56 +10,57 @@ Male, Small, Chaotic Good
 ---
 %%
 level::5
-
-prof:: `= (2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2) `
-halfProf::`=((2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2) - (2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2) %2)/2`
+prof:: `$=2 + Math.floor((dv.current().level - 1)/4)`
+spellSave::`$=8+ 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
+halfProf:: `$=Math.floor((2 + Math.floor((dv.current().level - 1)/4))/2)`
 str:: 11
-str_mod:: `=(this.str - this.str%2 - 10) / 2` 
 dex:: 12
-dex_mod:: `=(this.dex - this.dex%2 - 10) / 2` 
 con:: 12
-con_mod:: `=(this.con - this.con%2 - 10) / 2` 
 int:: 20
-int_mod:: `=(this.int - this.int%2 - 10) / 2` 
 wis:: 8
-wis_mod:: `=(this.wis - this.wis%2 - 10) / 2` 
 cha:: 7
-cha_mod:: `=(this.cha - this.cha%2 - 10) / 2` 
+
+str_mod:: `$=Math.floor((dv.current().str - 10) /2)` 
+dex_mod:: `$=Math.floor((dv.current().dex - 10) /2)` 
+con_mod:: `$=Math.floor((dv.current().con - 10) /2)` 
+int_mod:: `$=Math.floor((dv.current().int - 10) /2)` 
+wis_mod:: `$=Math.floor((dv.current().wis - 10) /2)` 
+cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)` 
 %%
-`=int(this.testprof) + 2`
 
-MaxHP:: `=8+8+8+8+2+3+6 *((this.con - this.con%2 - 10) / 2)`
-HP:: 39
-Hit dice: 5/5d8
-AC: 18 (Scalemail/Shield+1)
-
-**Proficiency bonus: +`=this.prof` (half: +`=this.halfProf`)**
-Arcana
-Investigation
-Medicine
-Religion
-
-| Str                 | Dex                 | **Con**             | **Int**             | Wis                 | Cha                 |
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| `=this.str`         | `=this.dex`         | **`=this.con`**     | **`=this.int`**     | `=this.wis`         | `=this.cha`         |
-| **`=this.str_mod`** | **`=this.dex_mod`** | **`=this.con_mod`** | **`=this.int_mod`** | **`=this.wis_mod`** | **`=this.cha_mod`** |
-
-**Attacks/Items**
-[Extra attack]
-Spell save DC: 16
-Spell Attack: +8
-BA: Command Steel Defender
-Hand-Axe +1 (returning, thrown): +9, d6+8 S
-Hand-Axe +1 (returning, melee): +9, d6+6 S
-Thieves' Tools
-3-standenfaar - smal en geconcentreerd, verspreid licht, of uit
+- ## Attributes
+	- MaxHP:: `$=8+8+8+8+2+3+6 * (Math.floor((dv.current().con - 10) /2))`  
+	HP:: 39
+	Hit dice: 5/5d8
+	AC: 18 (Scalemail/Shield+1)
+	- ![[#Attribute Scores]]
+- ## Skills 
+	- **Proficiency bonus: +`=this.prof` (half: +`=this.halfProf`)**
+	- Arcana
+	- Investigation
+	- Medicine
+	- Religion
+- ## Attacks/Items
+	- Spell save DC: `=this.spellSave`
+	 Spell Attack: +8
+	 BA: Command Steel Defender
+	 Thieves' Tools
+	 3-standenfaar - smal en geconcentreerd, verspreid licht, of uit
+	- **Extra Attack**
+		- Hand-Axe +1 (returning, thrown): +9, d6+8 S
+		- Hand-Axe +1 (returning, melee): +9, d6+6 S
+- ## Other proficiencies
+	- Common, Halfling
+	- Thieves' Tools, Tinkers' Tools, Carpenters' Tools
+	- Light Armor, Medium Armour
+	- Martial Weapons
 
 ## Archie (Steel Defender)
 - ## Attributes
 	- **Proficiency Bonus**: +`=this.prof`
 	- Str 14(+2)  
-		**Dex** 12(+1)  
-		**Con** 14(+2)  
+		**Dex 12 (+1)**  
+		**Con 14 (+2)**  
 		Int 4 (-3)  
 		Wis 10(+0)  
 		Cha 6 (-2)  
@@ -90,12 +90,6 @@ Thieves' Tools
 		The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 
-## Other proficiencies
-
-Common, Halfling
-Thieves' Tools, Tinkers' Tools, Carpenters' Tools
-Light Armor, Medium Armour
-Martial Weapons
 ### Background: Hermit
 The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.
 
@@ -250,3 +244,10 @@ Mimicpels om 2x daags plouchen beer te veranderen in objecten
 		- Level 4 Artificer
 			- Fighting Initiate (Throwing Weapons)
 			- Int 18=>20
+
+
+### Attribute Scores
+| Str                 | Dex                 | **Con**             | **Int**             | Wis                 | Cha                 |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| `=this.str`         | `=this.dex`         | **`=this.con`**     | **`=this.int`**     | `=this.wis`         | `=this.cha`         |
+| **`=this.str_mod`** | **`=this.dex_mod`** | **`=this.con_mod`** | **`=this.int_mod`** | **`=this.wis_mod`** | **`=this.cha_mod`**

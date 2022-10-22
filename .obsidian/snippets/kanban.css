@@ -17,12 +17,12 @@
   display: flex;
   width:100%;
   flex-direction: row;
+  flex-wrap: wrap;
   background-color: var(--background-secondary);
   padding-left: 0.3rem;
   padding-right: 0.3rem;
   padding-bottom: 0.9rem;
   padding-top: 0.0rem;
-  flex-wrap: wrap;
 }
 
 .kanban div > ul > li{
@@ -301,5 +301,11 @@ padding-left: 0px;
     border-right: 0px solid var(--indentation-guide)!important;
 }
 .callout[data-callout~=kanban] {padding:0}
+.callout[data-callout~="attribute-scores"] {padding:0}
+.callout[data-callout~="attribute-scores"] .callout-content ul {  
+  display: flex;
+  width:100%;
+  flex-direction: row;
+  flex-wrap: wrap;}
 
 

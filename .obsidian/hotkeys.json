@@ -29,7 +29,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "2"
+      "key": "Enter"
     }
   ],
   "hotkeysplus-obsidian:toggle-block-quote": [
@@ -138,5 +138,6 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "editor:open-link-in-new-leaf": []
 }
