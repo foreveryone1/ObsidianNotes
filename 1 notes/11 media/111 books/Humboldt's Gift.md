@@ -10,3 +10,5 @@ date-read::
 ISBN13:: 9780436039508
 %%
 `=this.notes`
+
+In america, it is the expectation for the artist to be tortured -> see "narrative substance" / reducing life to a simply processed aesthetic
