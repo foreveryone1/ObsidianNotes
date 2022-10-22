@@ -1,11 +1,6 @@
 ---
 cssclass: kanban
 ---
-%%
-spellcasting:: 
-prof:: 
-attackstat:: 
-%%
 ## Monster Name
 - ## Attributes
 	- <br><br><br><br><br>

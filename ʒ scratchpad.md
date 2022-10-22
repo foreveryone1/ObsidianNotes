@@ -11,3 +11,10 @@ codeblock
 
 
 Notes notes notes
+
+>[!kanban]
+>- Fight
+>- The
+>- Power
+>- Fightsssssssssssssssssssssssss sssssssssssss sssssssssssssssssssssss sssssssssssssssssssssssssssssss ssssssssssssssssssssssssssssss sssssssssssssssssssssssssssssssssssssssssss
+>- Confusion

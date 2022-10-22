@@ -155,4 +155,150 @@ h6 > .internal-link, h6 > .external-link, h6 > .internal-link.is-unresolved {
     border-right: 0px solid var(--indentation-guide)!important;
 }
 
+.theme-light .callout[data-callout~=kanban] {
+  --kanbanbgodd: #ffffff70; /* odd numbered item*/
+  --kanbanbgeven: #ffffff10; /* even numbered item*/
+  --kanbanbgchild: #ffffff04; /* nesting numbered item*/
+  --kanbanhover:#C7C8C910;
+}
+
+.theme-dark .callout[data-callout~=kanban] {
+  --kanbanbgodd: #4F4F4F01;
+  --kanbanbgeven: #4F4F4F10;
+  --kanbanbgchild: #20202090;
+  --kanbanhover:#4F4F4F12;
+}
+
+
+.callout[data-callout~=kanban] ul {
+  display: flex;
+  width:100%;
+  flex-direction: row;
+  background-color: var(--background-secondary);
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  padding-bottom: 0.9rem;
+  padding-top: 0.0rem;
+  flex-wrap: wrap;
+}
+
+.callout[data-callout~=kanban] div > ul > li{
+  padding-top: 0.9rem;
+  padding-left: 3px
+}
+
+.callout[data-callout~=kanban] .list-collapse-indicator.collapse-indicator.collapse-icon{
+  padding-left: 44px;
+ /* padding-right: 0.3rem; */
+}
+.callout[data-callout~=kanban] .task-list-item-checkbox {
+margin-left: 1.5rem;
+margin-right: 0.6rem;
+}
+
+.callout[data-callout~=kanban] ul h1,
+.callout[data-callout~=kanban] ul h2,
+.callout[data-callout~=kanban] ul h3,
+.callout[data-callout~=kanban] ul h4,
+.callout[data-callout~=kanban] ul h5,
+.callout[data-callout~=kanban] ul h6{
+    margin-block-start: 0rem;
+     margin-block-end: 0rem;
+    margin-left: 0;
+    white-space: pre-wrap; 
+}
+
+
+.callout[data-callout~=kanban] ul li {
+  flex: 1;
+  padding-left: 0px;
+  padding-right: 9px;
+  list-style: none;
+}
+
+.callout[data-callout~=kanban] ul ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem;
+  margin-right: 2.5rem;
+  margin-top: 1rem;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.callout[data-callout~=kanban] ul ul li {
+  width: 100%;
+  display: block;
+  margin-bottom: 0;
+  padding: 0.525rem;
+}
+
+.callout[data-callout~=kanban] ul .markdown-preview-sizer.markdown-preview-section{
+  min-height: 0!important;
+  padding: 0!important;
+}
+
+.callout[data-callout~=kanban] ul .internal-embed.is-loaded {
+  padding: 0 !important;
+  margin-bottom: 0px!important;
+}
+
+.callout[data-callout~=kanban] ul .markdown-preview-view{
+    padding: 0px 1px 1px 10px;
+}
+
+.callout[data-callout~=kanban] ul ul ul {
+  margin-right: 0;
+}
+
+.callout[data-callout~=kanban] ul ul::before {
+  border-left: 0;
+}
+
+.markdown-preview-view.is-readable-line-width.callout[data-callout~=kanban]
+.markdown-preview-sizer
+> div
+> ul {
+  max-width: 100%;
+}
+
+.callout[data-callout~=kanban] ul li .list-collapse-indicator.collapse-indicator.collapse-icon {
+margin-right: -10px;
+}
+.callout[data-callout~=kanban] ul li .list-collapse-indicator.collapse-indicator.collapse-icon + *{
+margin-left: 0px;
+}
+
+.callout[data-callout~=kanban] ul li .list-collapse-indicator.collapse-indicator.collapse-icon + .task-list-item-checkbox{
+margin-left: 0px;
+}
+.callout[data-callout~=kanban] ul li .list-collapse-indicator.collapse-indicator.collapse-icon + span > div.markdown-embed .markdown-preview-view {
+padding-left: 0px;
+}
+
+
+.callout[data-callout~=kanban] ul ul li:nth-child(odd) {
+  background: var(--kanbanbgodd);
+  border-top: 1px solid var(--background-secondary);
+}
+
+.callout[data-callout~=kanban] ul ul li:nth-child(even) {
+  background: var(--kanbanbgeven);
+  border-top: 1px solid var(--background-secondary);
+}
+
+.callout[data-callout~=kanban] ul ul {
+  background: var(--kanbanbgchild);
+}
+.callout[data-callout~=kanban] ul ul li:hover {
+  background: var(--kanbanhover);
+}
+
+
+.callout[data-callout~=kanban] li > ul::before, .callout[data-callout~=kanban] li > ol::before {
+    border-right: 0px solid var(--indentation-guide)!important;
+}
+
 
