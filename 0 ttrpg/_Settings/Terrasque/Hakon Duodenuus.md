@@ -9,7 +9,8 @@ Ghostwise Halfling Artificer 5 (Battlesmith)
 Male, Small, Chaotic Good  
 ---
 str:: 11
-strMod::`$=dv.tryEvaluate('Math.trunc(3)')`
+
+`$=dv.tryEvaluate("Math.floor(6.6)")`
 
 MaxHP: 42 (8+8+8+8+2+3+ 6xCon)
 HP:: 39
