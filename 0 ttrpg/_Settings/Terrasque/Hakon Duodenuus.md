@@ -8,25 +8,40 @@ Hakon Duodenuus
 Ghostwise Halfling Artificer 5 (Battlesmith)
 Male, Small, Chaotic Good  
 ---
+%%
+level::5
+prof:: (2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2)
+halfProf::`=(this.prof - this.prof %2)/2`
 str:: 11
+str_mod:: `=(this.str - this.str%2 - 10) / 2` 
+dex:: 12
+dex_mod:: `=(this.dex - this.dex%2 - 10) / 2` 
+con:: 12
+con_mod:: `=(this.con - this.con%2 - 10) / 2` 
+int:: 20
+int_mod:: `=(this.int - this.int%2 - 10) / 2` 
+wis:: 8
+wis_mod:: `=(this.wis - this.wis%2 - 10) / 2` 
+cha:: 7
+cha_mod:: `=(this.cha - this.cha%2 - 10) / 2` 
+%%
+prof_bonus::`= 2+ ((this.level -1 - (this.level -1)%2)/2 - ((this.level -1 - (this.level -1)%2)/2)%2)/2 `
 
-`$=dv.tryEvaluate("Math.floor(6.6)")`
-
-MaxHP: 42 (8+8+8+8+2+3+ 6xCon)
+MaxHP:: `=8+8+8+8+2+3+6 *((this.con - this.con%2 - 10) / 2)`
 HP:: 39
 Hit dice: 5/5d8
 AC: 18 (Scalemail/Shield+1)
 
-**Proficiency bonus: +3 (half: +1)**
+**Proficiency bonus: +`=this.prof` (half: +`=this.halfProf`)**
 Arcana
 Investigation
 Medicine
 Religion
 
-| Str    | Dex    | Con    | Int    | Wis    | Cha    |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| 11     | 12     | **12** | **20** | 8      | 7      |
-| **+0** | **+1** | **+1** | **+5** | **-1** | **-2** |
+| Str                 | Dex                 | **Con**             | **Int**             | Wis                 | Cha                 |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| `=this.str`         | `=this.dex`         | **`=this.con`**     | **`=this.int`**     | `=this.wis`         | `=this.cha`         |
+| **`=this.str_mod`** | **`=this.dex_mod`** | **`=this.con_mod`** | **`=this.int_mod`** | **`=this.wis_mod`** | **`=this.cha_mod`** |
 
 **Attacks/Items**
 [Extra attack]
