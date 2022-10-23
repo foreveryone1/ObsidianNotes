@@ -101,3 +101,18 @@ flex-grow: 0;
   padding-top: 0.275rem;
   padding-bottom: 0.275rem;
 }
+
+.kanban [data-heading*="level" i] + ul > li.task-list-item {
+    margin-left: 11px;
+}
+
+.kanban [data-heading*="Spells" i] + ul {
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-width: 500px;
+}
+
+.kanban [data-heading*="Exh" i] + ul {
+  flex-direction: row;
+  flex-wrap: wrap;
+}

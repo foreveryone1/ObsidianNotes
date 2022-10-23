@@ -64,14 +64,7 @@
       "key": "/"
     }
   ],
-  "mrj-crosslink-between-notes:add-link-to-current": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
+  "mrj-crosslink-between-notes:add-link-to-current": [],
   "markdown:toggle-preview": [
     {
       "modifiers": [

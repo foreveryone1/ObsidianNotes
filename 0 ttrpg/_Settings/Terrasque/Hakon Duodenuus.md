@@ -4,6 +4,11 @@ cssclass: kanban, readable
 
 ---
 %%
+HP:: 39
+archieHP::27
+MaxHP:: `$=8+8+8+8+2+3+ dv.current().level * (Math.floor((dv.current().con - 10) /2))`  
+archieHPmax:: `$= 2 + Math.floor((dv.current().int - 10) /2) + dv.current().level* 5`
+
 level::6
 prof:: `$=2 + Math.floor((dv.current().level - 1)/4)`
 spellSave::`$=8+ 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
@@ -23,22 +28,26 @@ int_mod:: `$=Math.floor((dv.current().int - 10) /2)`
 wis_mod:: `$=Math.floor((dv.current().wis - 10) /2)` 
 cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)` 
 
-archieHP:: `$= 2 + Math.floor((dv.current().int - 10) /2) + dv.current().level* 5`
-archieHPmax::27
+
 %%
 
 - ## Personal
 	- **Hakon Duodenuus**
 	 Ghostwise Halfling Artificer 6 (Battlesmith)
 	 Male, Small, Chaotic Good  
+	- ![[#Attribute Scores]]
 - ## Attributes
-	- MaxHP:: `$=8+8+8+8+2+3+ dv.current().level * (Math.floor((dv.current().con - 10) /2))`  
-	HP:: 39
+	- `=this.HP`/`=this.MaxHP`
 	Hit dice: 5/5d8
 	AC: 18 (Scalemail/Shield+1)
 	 Spell save DC: `=this.spellSave`
 	 Spell Attack: +`=this.spellAttack`
-	- ![[#Attribute Scores]]
+- #####  [[0 ttrpg/Resources/Conditions/Exhaustion|Exh Levels]]
+	- [ ] 
+	- [ ] 
+	- [ ] 
+	- [ ] 
+	- [ ] 
 - ## Skills 
 	- **Proficiency bonus: +`=this.prof` (half: +`=this.halfProf`)**
 	- Arcana
@@ -57,6 +66,31 @@ archieHPmax::27
 	- **Thieves' Tools, Tinkers' Tools, Carpenters' Tools**
 	- Light Armor, Medium Armour
 	- Martial Weapons
+- ## Spells (Prepared: `$=Math.floor((dv.current().int - 10) /2)+Math.floor((dv.current().level) /2)`)
+	- #### Cantrips
+		- [[Mage Hand]]
+		- [[0 ttrpg/Resources/Spells/Ray of Frost|Ray of Frost]]
+	- #### 1 level
+		- ##### slots
+			- [ ] 
+			- [ ] 
+			- [ ] 
+			- [ ] 
+		- [ ] [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
+		- [ ] [[Tasha's Hideous Laughter]]
+		- [ ] [[Feather Fall]]
+		- [ ] [[Cure Wounds]]
+		- [ ] **[[Heroism]]**
+		- [ ] **[[Shield]]**
+	- #### 2nd level
+		- ##### Slots
+			- [ ] 
+			- [ ] 
+		- [ ] [[Rope Trick]]
+		- [ ] [[Heat Metal]]
+		- [ ] [[Spider Climb]]
+		- [ ] **[[Branding Smite]]**
+		- [ ] **[[Warding Bond]]**
 
 ## Archie (Steel Defender)
 - ## Attributes
@@ -121,37 +155,6 @@ You can draw a weapon that has the thrown property as part of the attack you mak
 
 In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 
-## Spells (Prepared: 7)
-
-Spell save DC: `=this.spellSave`
-Spell Attack Modifier: +`=this.spellAttack`
-
-- #### Cantrips
-	- [[Mage Hand]]
-	- [[0 ttrpg/Resources/Spells/Ray of Frost|Ray of Frost]]
-- #### 1 level
-	- ##### slots
-		- [x] 
-		- [x] 
-		- [ ] 
-		- [ ] 
-	- [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
-	- [[Tasha's Hideous Laughter]]
-	- [[Feather Fall]]
-	- [[Cure Wounds]]
-	- **[[Heroism]]**
-	- **[[Shield]]**
-- #### 2nd level
-	- ##### Slots
-		- [ ] 
-		- [ ] 
-	- [[Rope Trick]]
-	- [[Heat Metal]]
-	- [[Spider Climb]]
-	- **[[Branding Smite]]**
-	- **[[Warding Bond]]**
-
-
 ## Class Features
 
 ### Magical Tinkering (TCE p9) 5 objects
@@ -175,7 +178,7 @@ Spell attack modifier = your proficiency bonus + your Intelligence modifier
 
 You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-### Infuse Item (3 infusions)
+### Infuse Item (`$=2 + Math.floor((dv.current().level - 2)/4)` infusions)
 6 infusions known
 
 - [x] **Returning Weapon**
