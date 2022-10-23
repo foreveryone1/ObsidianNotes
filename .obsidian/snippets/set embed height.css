@@ -116,3 +116,13 @@ flex-grow: 0;
   flex-direction: row;
   flex-wrap: wrap;
 }
+
+[data-heading*="⌚" i] + ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+[data-heading*="⌚" i] + ul li {
+ display: block;
+ flex: 1
+}

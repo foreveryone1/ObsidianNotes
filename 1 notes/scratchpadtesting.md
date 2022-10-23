@@ -78,3 +78,9 @@ words
 
 *~~==Tex 
 t==~~*
+
+- ## ⌚ Feed the dog
+	- [ ] Morning
+	- [ ] Elevensies
+	- [ ] Lunch
+	- [ ] Dinner
