@@ -87,6 +87,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		- [[Tasha's Hideous Laughter]]
 		- [[Feather Fall]]
 		- [[Cure Wounds]]
+		- [[0 ttrpg/Resources/Spells/Sanctuary]]
 		- **[[Heroism]]**
 		- **[[Shield]]**
 	- #### 2nd level
@@ -140,17 +141,13 @@ The quiet seclusion of your extended hermitage gave you access to a unique and p
 Work with your DM to determine the details of your discovery and its impact on the campaign.
 
 ## Racial Features
-- Lucky.
+- **Lucky.**
 	- When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-
-- Brave.
+- **Brave.**
 	- You have advantage on saving throws against being [[0 ttrpg/Resources/Conditions/Frightened|Frightened]].
-
-- Halfling Nimbleness.
+- **Halfling Nimbleness.**
 	- You can move through the space of any creature that is of a size larger than yours.
-
-
-- Silent Speech.
+- **Silent Speech.**
 	- You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
 
 

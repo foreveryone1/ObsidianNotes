@@ -1,7 +1,6 @@
 [
   "mrj-crosslink-between-notes",
   "table-editor-obsidian",
-  "better-word-count",
   "dataview",
   "obsidian-dice-roller",
   "hotkeysplus-obsidian",
@@ -11,5 +10,6 @@
   "obsidian-pandoc",
   "pane-relief",
   "quickadd",
-  "obsidian-sortable"
+  "obsidian-sortable",
+  "better-word-count"
 ]
