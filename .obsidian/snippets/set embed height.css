@@ -102,8 +102,8 @@ flex-grow: 0;
   padding-bottom: 0.275rem;
 }
 
-.kanban [data-heading*="level" i] + ul > li.task-list-item {
-    margin-left: 11px;
+.kanban [data-heading*="level" i] + ul > li.task-list-item input, .kanban [data-heading*="Saves" i] + ul > li.task-list-item input {
+    margin-left: 2px;
 }
 
 .kanban [data-heading*="Spells" i] + ul {
@@ -112,7 +112,7 @@ flex-grow: 0;
   min-width: 500px;
 }
 
-.kanban [data-heading*="Exh" i] + ul {
+.kanban [data-heading*="Exh" i] + ul, .kanban [data-heading*="Saves" i] + ul {
   flex-direction: row;
   flex-wrap: wrap;
 }

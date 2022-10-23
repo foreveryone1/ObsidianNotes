@@ -1,5 +1,5 @@
 ---
-cssclass: kanban, readable
+cssclass: kanban, is-readable-line-width
 ---
 
 ---
@@ -9,7 +9,7 @@ archieHP::27
 MaxHP:: `$=8+8+8+8+2+3+ dv.current().level * (Math.floor((dv.current().con - 10) /2))`  
 archieHPmax:: `$= 2 + Math.floor((dv.current().int - 10) /2) + dv.current().level* 5`
 
-level::6
+level:: 6
 prof:: `$=2 + Math.floor((dv.current().level - 1)/4)`
 spellSave::`$=8+ 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
 spellAttack:: `$= 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
@@ -36,24 +36,36 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	 Ghostwise Halfling Artificer 6 (Battlesmith)
 	 Male, Small, Chaotic Good  
 	- ![[#Attribute Scores]]
+	- #####  [[0 ttrpg/Resources/Conditions/Exhaustion|Exh Levels]]
+		- [ ] 
+		- [ ] 
+		- [ ] 
+		- [ ] 
+		- [ ] 
 - ## Attributes
 	- `=this.HP`/`=this.MaxHP`
 	Hit dice: 5/5d8
 	AC: 18 (Scalemail/Shield+1)
 	 Spell save DC: `=this.spellSave`
 	 Spell Attack: +`=this.spellAttack`
-- #####  [[0 ttrpg/Resources/Conditions/Exhaustion|Exh Levels]]
-	- [ ] 
-	- [ ] 
-	- [ ] 
-	- [ ] 
-	- [ ] 
+	- ##### Life Saves
+		- [ ] 
+		- [ ] 
+		- [ ] 
+	- ##### Death Saves
+		- [ ] 
+		- [ ] 
+		- [ ] 
 - ## Skills 
-	- **Proficiency bonus: +`=this.prof` (half: +`=this.halfProf`)**
+	- **Prof. bonus: +`=this.prof` (half: +`=this.halfProf`)**
 	- Arcana
-	- Investigation
-	- Medicine
-	- Religion
+	 Investigation
+	 Medicine
+	 Religion
+	- ### Other proficiencies
+		- Common, Halfling
+		- **Thieves' Tools, Tinkers' Tools, Carpenters' Tools**
+		- Light Armor, Medium Armour, Martial Weapons
 - ## Attacks/Items
 	 - BA: Command Steel Defender
 	 Thieves' Tools
@@ -61,11 +73,6 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	- **Extra Attack**
 		- Hand-Axe +1 (returning, thrown): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d6+`$=Math.floor((dv.current().int - 10) /2)+2+1` S, 20/60
 		- Hand-Axe +1 (returning, melee): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d6+`$=Math.floor((dv.current().int - 10) /2)+1` S
-- ## Other proficiencies
-	- Common, Halfling
-	- **Thieves' Tools, Tinkers' Tools, Carpenters' Tools**
-	- Light Armor, Medium Armour
-	- Martial Weapons
 - ## Spells (Prepared: `$=Math.floor((dv.current().int - 10) /2)+Math.floor((dv.current().level) /2)`)
 	- #### Cantrips
 		- [[Mage Hand]]
@@ -76,21 +83,21 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 			- [ ] 
 			- [ ] 
 			- [ ] 
-		- [ ] [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
-		- [ ] [[Tasha's Hideous Laughter]]
-		- [ ] [[Feather Fall]]
-		- [ ] [[Cure Wounds]]
-		- [ ] **[[Heroism]]**
-		- [ ] **[[Shield]]**
+		- [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
+		- [[Tasha's Hideous Laughter]]
+		- [[Feather Fall]]
+		- [[Cure Wounds]]
+		- **[[Heroism]]**
+		- **[[Shield]]**
 	- #### 2nd level
 		- ##### Slots
 			- [ ] 
 			- [ ] 
-		- [ ] [[Rope Trick]]
-		- [ ] [[Heat Metal]]
-		- [ ] [[Spider Climb]]
-		- [ ] **[[Branding Smite]]**
-		- [ ] **[[Warding Bond]]**
+		- [[Rope Trick]]
+		- [[Heat Metal]]
+		- [[Spider Climb]]
+		- **[[Branding Smite]]**
+		- **[[Warding Bond]]**
 
 ## Archie (Steel Defender)
 - ## Attributes
@@ -118,7 +125,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		- **Vigilant.** The defender can't be surprised.
 - ## Actions
 	-  **Force-Empowered Rend.**  
-		Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + `=this.prof` force damage.
+		Melee Weapon Attack: reach 5 ft., one target you can see. +`=this.spellAttack`, Hit: 1d8 + `=this.prof` force damage.
 	-  **Repair (3/Day).**  
 		The magical mechanisms inside the defender restore 2d8 + `=this.prof` hit points to itself or to one construct or object within 5 feet of it.
 

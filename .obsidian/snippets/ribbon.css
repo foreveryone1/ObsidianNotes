@@ -4,7 +4,8 @@
 body {
 	--header-height:32px;
 	--bold-weight: var(--font-bold);
-	--table-header-size:calc(var(--font-text-size) - 1px)
+	--table-header-size:calc(var(--font-text-size) - 1px);
+	--file-line-width: 1550px;
 }
 
 .clickable-icon {padding-left: 2px; }
@@ -28,5 +29,3 @@ body {
 
 
 .markdown-preview-view th.header-sort-down, .markdown-preview-view th.header-sort-up, .markdown-preview-view th {background-image:none;}
-
-.body }
