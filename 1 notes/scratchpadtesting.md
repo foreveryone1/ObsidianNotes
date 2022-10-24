@@ -79,6 +79,7 @@ words
 *~~==Tex 
 t==~~*
 
->[!dropcap-n]
 
-o
+<span class="dropcap n">
+
+o extract, however, could do justice to the sustained din of pun, allusion, neologism, alliteration, cynghanedd, apostrophe, parenthesis, rhetorical question, French, Latin, anent, perchance, would fain, for the nonce—here is style and no mistake. One will be told, of course, that this is the ‘whole point,’ that this is the hero, Humbert Humbert, talking in his own person, not the author, and that what we are getting is ‘characterisation.’ All right; but it seems ill-advised to characterise logomania by making it talk 120,000 words at us, and a glance at Nabokov’s last novel, _Pnin_, which is not written in the first person, establishes that this is Nabokov talking …
