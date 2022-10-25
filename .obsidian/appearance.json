@@ -35,7 +35,8 @@
     "titlebar",
     "test",
     "skinny scrollbars",
-    "ribbon"
+    "ribbon",
+    "dropcap"
   ],
   "translucency": false,
   "baseFontSize": 16,
