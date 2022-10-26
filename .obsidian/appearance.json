@@ -43,5 +43,6 @@
   "baseFontSizeAction": false,
   "accentColor": "#776e96",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "Inter"
 }
