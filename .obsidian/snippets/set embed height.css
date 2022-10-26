@@ -145,4 +145,5 @@ flex-grow: 0;
 
 [data-callout*="lore" i] {
 background-color:#EEE5CE;	
+	background-image:url('https://raw.githubusercontent.com/Daxiongmao87/foundry-vtt-5e-phb-journal-styling/main/images/5e-phb-background-imitation.png');
 	}

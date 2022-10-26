@@ -8,7 +8,7 @@ no inner hunger, starved of fuel
 
 I read the same things every night  
 expecting change  
-expecting  
+expecting change  
 I read the same things every night  
 expecting change  
 expecting change  
@@ -20,7 +20,7 @@ I clipped my wings before the start
 
 I read the same things every night  
 expecting change  
-expecting  
+expecting change  
 I read the same things every night  
 expecting change  
 expecting change  
