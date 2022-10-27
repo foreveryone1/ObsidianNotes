@@ -1,7 +1,7 @@
 %%
 author::  Faulkner, William
-publishdate:: 2011
-status:: To Read
+publishdate:: 1954
+status:: Reading
 rating::  
 notes::  
 date-read::  

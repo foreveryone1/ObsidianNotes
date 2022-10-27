@@ -3,10 +3,10 @@ author: ["Bellow, Saul"]
 ---
 %%
 publishdate:: 1975
-status:: Reading
+status:: Read
 rating::  
 notes:: Materialism and art / hypocrisy / selling out
-date-read::  
+date-read:: 20221021
 ISBN13:: 9780436039508
 %%
 `=this.notes`
