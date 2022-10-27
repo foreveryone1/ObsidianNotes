@@ -18,13 +18,6 @@ a gilded cage that's left unlocked
 analysis paralysis  
 I clipped my wings before the start  
 
-I read the same things every night  
-expecting change  
-expecting change  
-I read the same things every night  
-expecting change  
-expecting change  
-
 locked by inertia  
 drowned in syrup  
 rotting figs
