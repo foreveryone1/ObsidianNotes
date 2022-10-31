@@ -31,8 +31,6 @@ this could have gone
 
 
 # Yossarian Lives [wip]
-`nog geen muziek, tekst nog niet af`
-
 
 There are hills that you cannot conquer  
 Fights pursued that aren't worth prolonging  
