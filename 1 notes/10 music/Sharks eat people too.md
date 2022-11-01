@@ -1,4 +1,13 @@
 # fly the coop [working title]
+do you remember the forest in our backyard?  
+we'd bike recklessly over logs and into ditches  
+and in the light filtered by the canopy  
+time didn't exist until our mothers hollered and called us home
+
+the first time I ever swore
+you picked me up by the collar and asked me  
+who taught me how to swear?  
+you promised if you ever caught me cussing again, wallahi, you'd kick my ass
 
 locked by inertia  
 wade through syrup  
@@ -9,10 +18,13 @@ no inner hunger, starved of fuel
 
 I read the same things every night  
 expecting change  
-expecting change  
+expecting    
 I read the same things every night  
 expecting change  
-expecting change  
+expecting   
+
+I cried the first day after transferring  
+
 
 no taste as sweet as helplessness  
 a gilded cage that's left unlocked  
@@ -74,10 +86,7 @@ The bombs are falling
 Burn the cathedral  
 Tear down your shelter  
 
-# Unfamiliar Ceilings [wip]
-`muziek voor spoken word stuk, nog niet voor screams`
-
-[spoken]  
+# Unfamiliar Ceilings
 
 A threefold hiss of air  
 Your hot mess runs down my neck  
