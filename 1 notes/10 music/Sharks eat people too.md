@@ -125,6 +125,12 @@ Limp limbs to place where you please
 In alien machinery  
 Hissing and beeping  
 
+Tessellated plastic squares  
+An unfamiliar ceiling  
+Groping blindly  
+Are you there  
+Under an unfamiliar ceiling?  
+
 Jagged needles digging in   
 Flesh hooks carving art of me  
 The rot is oozing flowing free  
