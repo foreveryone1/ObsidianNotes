@@ -1,5 +1,5 @@
 # fly the coop [working title]
-do you remember the forest in our backyard?  
+do you remember the forest beside our houses?  
 we'd bike like fools over logs and ditches  
 and in the light filtered by the canopy  
 time didn't exist until our mothers called us home
@@ -24,7 +24,7 @@ expecting change
 expecting   
 
 I cried the first day after moving  
-these buzzing social circles seemed so impenetrable  
+these buzzing social circles felt so impenetrable  
 we were the only brown kids, so of course we got along  
 our english teacher called you Ishmael, like you were from the bible  
 
