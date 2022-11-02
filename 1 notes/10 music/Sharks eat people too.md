@@ -1,13 +1,13 @@
 # fly the coop [working title]
 do you remember the forest in our backyard?  
-we'd bike recklessly over logs and into ditches  
+we'd bike like fools over logs and ditches  
 and in the light filtered by the canopy  
-time didn't exist until our mothers hollered and called us home
+time didn't exist until our mothers called us home
 
 the first time I ever swore
-you picked me up by the collar and asked me  
+you picked me up by the collar and you asked me  
 who taught me how to swear?  
-you promised if you ever caught me cussing again, wallahi, you'd kick my ass
+you promised me if you ever caught me cussing again, wallahi, you'd kick my ass
 
 locked by inertia  
 wade through syrup  
@@ -23,18 +23,26 @@ I read the same things every night
 expecting change  
 expecting   
 
-I cried the first day after transferring  
+I cried the first day after moving  
+these buzzing social circles seemed so impenetrable  
+we were the only brown kids, so of course we got along  
+our english teacher called you Ishmael, like you were from the bible  
 
-
-no taste as sweet as helplessness  
-a gilded cage that's left unlocked  
-analysis paralysis  
-I clipped my wings before the start  
+we were swinging sticks like swords  
+and I split your lip  
+I didn't cry for help or apologise  
+I just stared and stared  
+at the bloody pink spit trailing from your mouth  
 
 locked by inertia  
 drowned in syrup  
 rotting figs
 on branches shrivelled  
+
+no taste as sweet as helplessness  
+a gilded cage that's left unlocked  
+analysis paralysis  
+I clipped my wings before the start  
 
 fly the coop  
 come crashing down   
