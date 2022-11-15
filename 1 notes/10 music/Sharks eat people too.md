@@ -1,3 +1,47 @@
+# vivisection
+Put on the gloves  
+to keep up the pretence  
+no need for anaesthesia, it's routine habit  
+I need to catalogue every piece  
+
+peel back the sternum  
+take in the view  
+your copper flows  
+in a stark white cage  
+
+I want to make you hurt  
+I want to hold your heart  
+and when I squeeze my hand I want to see it beat  
+Feel every PULSE  
+of your feeble body  
+Make it mine  
+Make it mine 
+Make it mine 
+
+I thought you trusted me  
+Show me your open wounds  
+What keeps you up at night  
+Let me pick the scabs  
+
+Two hundred thirteen bones  
+twenty eight teeth  
+catalogue every piece  
+can't let you leave  
+
+I savour your every taste  
+When I put my mouth to your jaw  
+and inhale  
+a shard of bone clings to my throat  
+
+I want to make you hurt  
+I want to hold your heart  
+and when I squeeze my hand I want to see it beat  
+Feel every PULSE  
+of your feeble body  
+Make it mine  
+Make it mine 
+Make it mine 
+
 # fly the coop [working title]
 do you remember the forest beside our houses?  
 we'd bike like fools over logs and ditches  
@@ -67,7 +111,6 @@ Damn your eyes
 Curse your ambition  
 We are the playthings  
 Of adult children  
-
 
 A whorehouse cleared out with no regard  
 A mountainside village reduced to rubble  
