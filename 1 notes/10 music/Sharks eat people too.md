@@ -15,8 +15,8 @@ and when I squeeze my hand I want to see it beat
 Feel every PULSE  
 of your feeble body  
 Make it mine  
-Make it mine 
-Make it mine 
+Make it mine   
+Make it mine   
 
 I thought you trusted me  
 Show me your open wounds  
@@ -26,7 +26,7 @@ Let me pick the scabs
 Two hundred thirteen bones  
 twenty eight teeth  
 catalogue every piece  
-can't let you leave  
+with me by your side, you'll never feel alone
 
 I savour your every taste  
 When I put my mouth to your jaw  
@@ -39,8 +39,8 @@ and when I squeeze my hand I want to see it beat
 Feel every PULSE  
 of your feeble body  
 Make it mine  
-Make it mine 
-Make it mine 
+Make it mine   
+Make it mine  
 
 # fly the coop [working title]
 do you remember the forest beside our houses?  
@@ -92,7 +92,7 @@ fly the coop
 come crashing down   
 no other way  
 this could have gone  
-
+->
 
 
 # Yossarian Lives [wip]
