@@ -33,7 +33,7 @@ When I put my mouth to your jaw
 and inhale  
 a shard of bone clings to my throat  
 
-I want to make you hurt  
+I want to feel your pain  
 I want to hold your heart  
 and when I squeeze my hand I want to see it beat  
 Feel every PULSE  
@@ -41,6 +41,8 @@ of your feeble body
 Make it mine  
 Make it mine   
 Make it mine  
+Make it mine  
+Make you mine  
 
 # fly the coop [working title]
 do you remember the forest beside our houses?  
