@@ -26,7 +26,7 @@ Let me pick the scabs
 Two hundred thirteen bones  
 twenty eight teeth  
 catalogue every piece  
-with me by your side, you'll never feel alone
+I'll keep you by my side, you'll never feel alone
 
 I savour your every taste  
 When I put my mouth to your jaw  
@@ -40,7 +40,6 @@ Feel every PULSE
 of your feeble body  
 Make it mine  
 Make it mine   
-Make it mine  
 Make it mine  
 Make you mine  
 
@@ -94,9 +93,6 @@ fly the coop
 come crashing down   
 no other way  
 this could have gone  
-->
-
-
 # Yossarian Lives [wip]
 
 There are hills that you cannot conquer  
