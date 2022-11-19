@@ -1,11 +1,3 @@
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 # vivisection
 Put on the gloves  
 to keep up the pretence  
