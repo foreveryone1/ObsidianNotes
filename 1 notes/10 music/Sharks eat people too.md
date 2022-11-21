@@ -1,3 +1,44 @@
+# [voorlopig zonder titel]
+I am a faithful of god's chosen few  
+this is the harvest of a hundred fruit  
+we seek refuge  
+in hollow hills  
+from foreign fire  
+begin anew  
+
+Walk bare-foot on mountain roads  
+My only words are copper shards  
+through untuned antenna  
+radio hisses  
+reveal the word of god  
+
+carve a thousand verses  
+in the sinew of my heart  
+In shadowed rooms  
+I raised my hand  
+death's white shroud hangs round my neck   
+
+blackened pages   
+drifting on the wind  
+will be the headstone  
+for a thousand lights  
+
+shovel dirt so there's no turning back  
+my heart was racing when I strapped up the vest  
+past metal doors, my steps resound  
+reverberating voices tell me where to go  
+
+you caught me, in arms unmoving  
+what were you thinking when your skin dissolved  
+
+Is there a witness in the sky above?  
+will I be waking from a martyr's sleep?  
+
+beside a gravel road they lie forgotten  
+nobody left to clean their graves  
+the radio keeps on hissing
+but his light is lost to me  
+
 # vivisection
 Put on the gloves  
 to keep up the pretence  
