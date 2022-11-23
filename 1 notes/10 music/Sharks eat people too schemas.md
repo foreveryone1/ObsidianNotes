@@ -16,13 +16,12 @@ graph TD
     B[Vers]
     C[Refrein]
     D[Vers]
-    A-->|BassB 2x|B
-    A-->|Geen vocals|B
-    A-->|Geen gitaar|B
-    B-->|BassA<br>Als vocals te vroeg eindigen<br> uitspelen en dan naar refrein|C
-    B-->|Drum geeft transition aan naar refrein|C
-    B-->|Cue einde vers: <br> Stark white cage|C
-    C-->|BassB|D
-    C-->|Gitaar valt pas in na `see it beat`|D
-    C-->|Cue einde vers: <br> Make it mine|D
+    A-->IntroBass[BassB 2x]-->B
+    A-->IntroVox[Geen vox of gitaar]-->B
+    B-->VersBas[BassA<br>Als vocals te vroeg eindigen<br> uitspelen en dan naar refrein]-->C
+    B-->VersDrum[Drum geeft transition<br> aan naar refrein]--> C
+    B-->VersVocals[Cue einde vers: <br> Stark white cage]-->C
+    C-->RefreinBass[BassB]--> D
+    C-->RefreinGitaar[Gitaar valt pas <br> in na `see it beat`]-->D
+    C-->RefreinVocals[Cue einde vers: <br> Make it mine]-->D
 ```
