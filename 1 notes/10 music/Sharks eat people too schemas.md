@@ -21,6 +21,7 @@ graph TD
     B-->VersBas[BassA<br>Als vocals te vroeg eindigen<br> uitspelen en dan naar refrein]-->C
     B-->VersDrum[Drum geeft transition<br> aan naar refrein]--> C
     B-->VersVocals[Cue einde vers: <br> Stark white cage]-->C
+    VersVocals-->|Timing van vocals plannen|VersVocals
     C-->RefreinBass[BassB]--> D
     C-->RefreinGitaar[Gitaar valt pas <br> in na `see it beat`]-->D
     C-->RefreinVocals[Cue einde vers: <br> Make it mine]-->D
