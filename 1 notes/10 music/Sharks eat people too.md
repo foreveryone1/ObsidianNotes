@@ -1,4 +1,6 @@
 # [voorlopig zonder titel]
+Naar het verhaal van [Aitzaz Khan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)
+
 I am a faithful of god's chosen few  
 this is the harvest of a hundred fruit  
 we seek refuge  
