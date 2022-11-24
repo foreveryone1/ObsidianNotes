@@ -16,6 +16,7 @@ graph TD
     B[Vers]
     C[Refrein]
     D[Vers]
+    E[Refrein]
     A-->IntroBass[BassB 2x]-->B
     A-->IntroVox[Geen vox of gitaar]-->B
     B-->VersBas[BassA<br>Als vocals te vroeg eindigen<br> uitspelen en dan naar refrein]-->C
@@ -25,4 +26,11 @@ graph TD
     C-->RefreinBass[BassB]--> D
     C-->RefreinGitaar[Gitaar valt pas <br> in na `see it beat`]-->D
     C-->RefreinVocals[Cue einde vers: <br> Make it mine]-->D
+    D-->VersBas2[BassA<br>Als vocals te vroeg eindigen<br> uitspelen en dan naar refrein]-->E
+    D-->VersDrum2[Drum geeft transition<br> aan naar refrein]--> E
+    D-->VersVocals2[Cue einde vers: <br> Clings to my throat]-->E
+    E-->RefreinBass2[BassB]
+    E-->RefreinGitaar2[Gitaar valt pas <br> in na `see it beat`]
+    E-->RefreinVocals2[Cue einde vers: <br> Make it mine]
 ```
+
