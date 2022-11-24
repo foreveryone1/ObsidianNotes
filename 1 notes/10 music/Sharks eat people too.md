@@ -36,10 +36,11 @@ what were you thinking when your skin dissolved
 Is there a witness in the sky above?  
 will I be waking from a martyr's sleep?  
 
-beside a gravel road they lie forgotten  
+beside a gravel road  
+they lie forgotten  
 nobody left to clean their graves  
 the radio keeps on hissing
-but his light is lost to me  
+but his word is lost to me  
 
 # vivisection
 Put on the gloves  
