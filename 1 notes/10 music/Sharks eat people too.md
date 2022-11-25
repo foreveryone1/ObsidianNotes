@@ -87,7 +87,7 @@ Make it mine
 Make it mine  
 Make you mine  
 
-# fly the coop [working title]
+# fly the coop [wip]
 do you remember the forest beside our houses?  
 we'd bike like fools over logs and ditches  
 and in the light filtered by the canopy  
@@ -137,7 +137,7 @@ fly the coop
 come crashing down   
 no other way  
 this could have gone  
-# Yossarian Lives [wip]
+# Yossarian Lives
 
 There are hills that you cannot conquer  
 Fights pursued that aren't worth prolonging  
@@ -174,8 +174,8 @@ The bombs are falling
 Burn the cathedral  
 Tear down your shelter  
 
-The bombs  
-The bombs are falling  
+Burn the cathedral  
+Tear down your shelter  
 Burn the cathedral  
 Tear down your shelter  
 
@@ -311,8 +311,7 @@ Reach Heaven Through Violence
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
   
-# Apollo [wip]
-`werk nodig om instrumental spoken word deel met screams te linken`
+# Apollo
 
 [spoken]  
 a young girl, in a bright pink dress  
