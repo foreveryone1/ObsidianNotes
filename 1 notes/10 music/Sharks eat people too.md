@@ -111,11 +111,14 @@ expecting
 I read the same things every night  
 expecting change  
 expecting   
+I read the same things every night  
+expecting change  
+expecting   
 
 I cried the first day after moving  
 these buzzing social circles felt so impenetrable  
-we were the only brown kids, so of course we got along  
-our english teacher called you Ishmael, like you were from the bible  
+~~we were the only brown kids, so of course we got along~~    
+~~our english teacher called you Ishmael, like you were from the bible~~  
 
 we were swinging sticks like swords  
 and I split your lip  
@@ -137,6 +140,16 @@ fly the coop
 come crashing down   
 no other way  
 this could have gone  
+
+I read the same things every night  
+expecting change  
+expecting    
+I read the same things every night  
+expecting change  
+expecting   
+I read the same things every night  
+expecting change  
+expecting   
 # Yossarian Lives
 
 There are hills that you cannot conquer  
