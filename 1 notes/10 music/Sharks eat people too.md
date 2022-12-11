@@ -94,9 +94,12 @@ and in the light filtered by the canopy
 time didn't exist until our mothers called us home
 
 the first time I ever swore
-you picked me up by the collar and you asked me  
+you picked me up by the collar  
+you asked me  
 who taught me how to swear?  
-you promised me if you ever caught me cussing again, wallahi, you'd kick my ass
+you promised me  
+if you ever caught me again  
+wallahi, you'd kick my ass  
 
 locked by inertia  
 wade through syrup  
@@ -114,6 +117,9 @@ expecting
 I read the same things every night  
 expecting change  
 expecting   
+I read the same things every night  
+expecting change  
+expecting    
 
 I cried the first day after moving  
 these buzzing social circles felt so impenetrable  
@@ -122,7 +128,7 @@ these buzzing social circles felt so impenetrable
 
 we were swinging sticks like swords  
 and I split your lip  
-I didn't cry for help or apologise  
+I didn't call for help or apologise  
 I just stared and stared  
 at the bloody pink spit trailing from your mouth  
 
@@ -144,6 +150,9 @@ this could have gone
 I read the same things every night  
 expecting change  
 expecting    
+I read the same things every night  
+expecting change  
+expecting   
 I read the same things every night  
 expecting change  
 expecting   
