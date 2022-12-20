@@ -17,13 +17,18 @@ staring down the hunter's barrel
 heat breeds heat  
 heat breeds heat  
 
-the sea is boiling and we sit and stare at the spectacle
+creating heat to move heat  
+the sea is boiling and we sit and stare at the spectacle  
+we drown out the stars  
+and suffocate a dead sun  
 
-heat breeds heat
-heat breeds heat
+heat breeds heat  
+heat breeds heat  
 
 the heat of crowds  
 thrumming with sound  
+feed sugar to the ants  
+marching in entropic death circles  
 
 thin headed dizziness  
 feverish anger  
@@ -32,8 +37,8 @@ in the shadow of babel towers
 heat radiates from steel and glass  
 praying for a reckoning  
 
-heat breeds heat
-heat breeds heat
+heat breeds heat  
+heat breeds heat  
 
 # Shaheed
 Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)
