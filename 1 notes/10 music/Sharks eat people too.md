@@ -1,7 +1,7 @@
 # Jakarta Syndrome
 Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
 
-the tangle of your sweaty limbs in thin sheets  
+the tangle of your sweaty limbs under thin sheets  
 a stale glass of water  
 midnight walks  
 cling to the skin like a parasite  
