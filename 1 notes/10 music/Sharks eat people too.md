@@ -1,3 +1,40 @@
+# Jakarta Syndrome
+Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
+
+the tangle of your sweaty limbs in thin sheets  
+a stale glass of water  
+midnight walks  
+cling to the skin like a parasite  
+
+heat breeds heat  
+heat breeds heat  
+
+heat ebbs and flows  
+we chase heat like songbirds  
+flitting from branch to branch  
+staring down the hunter's barrel  
+
+heat breeds heat  
+heat breeds heat  
+
+the sea is boiling and we sit and stare at the spectacle
+
+heat breeds heat
+heat breeds heat
+
+the heat of crowds  
+thrumming with sound  
+
+thin headed dizziness  
+feverish anger  
+manic preaching on the streets  
+in the shadow of babel towers  
+heat radiates from steel and glass  
+praying for a reckoning  
+
+heat breeds heat
+heat breeds heat
+
 # Shaheed
 Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)
 
