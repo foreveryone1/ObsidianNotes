@@ -41,9 +41,10 @@ heat breeds heat
 
 [spoken]
 we're all greedy flecks of ash  
-consuming heat to create heat
-born with a burning pit for a stomach
-I think I understand Meursault
+consuming heat to create heat  
+born with starving furnaces
+this fever keeps on rising
+I think I understand Meursault  
 
 heat breeds heat  
 heat breeds heat  
