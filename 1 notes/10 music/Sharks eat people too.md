@@ -11,7 +11,7 @@ heat breeds heat
 
 heat ebbs and flows  
 we chase heat like songbirds  
-flitting from branch to branch  
+flitting from branch to branch [invallen na 4 tellen]  
 staring down the hunter's barrel  
 
 heat breeds heat  
@@ -26,10 +26,10 @@ heat breeds heat
 the heat of crowds  
 thrumming with sound  
 feed sugar to the ants  
-marching to entropic circles  
+march to entropic circles  
 
 thin headed dizziness  
-feverish anger  
+delirious anger  
 manic preaching on the streets  
 in the shadow of babel towers  
 heat radiates from steel and glass  
