@@ -15,20 +15,18 @@ flitting from branch to branch
 staring down the hunter's barrel  
 
 heat breeds heat  
-heat breeds heat  
 
 creating heat to move heat  
-the sea is boiling and we sit and stare at the spectacle  
+the sea is boiling and we stare at the spectacle  
 we drown out the stars  
 and suffocate a dead sun  
 
-heat breeds heat  
 heat breeds heat  
 
 the heat of crowds  
 thrumming with sound  
 feed sugar to the ants  
-marching in entropic death circles  
+marching to entropic circles  
 
 thin headed dizziness  
 feverish anger  
@@ -39,7 +37,18 @@ praying for a reckoning
 
 heat breeds heat  
 heat breeds heat  
+heat breeds heat  
 
+[spoken]
+we're all greedy flecks of ash  
+consuming heat to create heat
+born with a burning pit for a stomach
+I think I understand Meursault
+
+heat breeds heat  
+heat breeds heat  
+heat breeds heat  
+heat breeds heat  
 # Shaheed
 Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)
 
