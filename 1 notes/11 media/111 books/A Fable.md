@@ -1,7 +1,7 @@
 %%
 author::  Faulkner, William
 publishdate:: 1954
-status:: Reading
+status:: To Read
 rating::  
 notes::  
 date-read::  

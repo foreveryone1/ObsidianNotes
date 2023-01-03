@@ -1,1 +1,42 @@
-{"ProgressProperties":{"enabled":false,"properties":[]},"IgnoredProperties":{"enabled":false,"properties":[]},"AutoProperties":{"enabled":true,"properties":[{"name":"present","choices":["yes","no"]}]},"EditMode":{"mode":"All Single","properties":[]},"KanbanHelper":{"enabled":false,"boards":[]},"UIElements":{"enabled":true}}
+{
+  "ProgressProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "IgnoredProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "present",
+        "choices": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "name": "status",
+        "choices": [
+          "Read",
+          "To Read",
+          "Reading",
+          "DNF"
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "All Single",
+    "properties": []
+  },
+  "KanbanHelper": {
+    "enabled": false,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": true
+  }
+}
