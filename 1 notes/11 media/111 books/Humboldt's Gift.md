@@ -5,7 +5,7 @@ author: ["Bellow, Saul"]
 publishdate:: 1975
 status:: Read
 rating:: Positive
-notes:: Materialism and art / hypocrisy / selling out
+notes:: Materialism and art / hypocrisy / selling out / feeling jealous about a friend making it where you didn't
 date-read:: 20221021
 ISBN13:: 9780436039508
 %%
