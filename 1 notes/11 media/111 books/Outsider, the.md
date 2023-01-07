@@ -3,10 +3,10 @@ author: ["Camus, Albert"]
 ---
 %%
 publishdate:: 2013
-status:: To Read
-rating::  
-notes::  
-date-read::  
+status:: Read
+rating::  Positive
+notes::  If we are all sentenced to die, what difference does it make how we die? Is there a point to finding meaning in the absurd (a man who constantly searches for meaning and an uncaring universe)
+date-read::  20230106
 ISBN13:: 9780141198064
 %%
 
