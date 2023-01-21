@@ -51,7 +51,8 @@ heat breeds heat
 heat breeds heat  
 heat breeds heat  
 # Shaheed
-Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)
+Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)  
+Ontbreekt muziek
 
 I am a faithful of god's chosen few  
 this is the harvest of a hundred fruit  
@@ -245,13 +246,16 @@ Ground me now, sky is blackened with schrapnel
 
 The bombs  
 The bombs are falling  
-Burn the cathedral  
+Burn your cathedral  
 Tear down your shelter  
 
-Burn the cathedral  
+Burn your cathedral  
 Tear down your shelter  
-Burn the cathedral  
+Burn your cathedral  
 Tear down your shelter  
+Burn your cathedral  
+Tear down your shelter 
+
 
 # Unfamiliar Ceilings
 
