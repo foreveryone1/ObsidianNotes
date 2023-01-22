@@ -1,3 +1,42 @@
+# Immurement
+I would crawl  
+to a barren desert  
+deny my hunger  
+deny my hunger  
+
+I'll build this tomb  
+brick by brick  
+keep out the filth  
+out my traitor's heart  
+
+I succeed to make them suffer  
+the skin off my back is never enough for you  
+
+It's never enough  
+It's never enough  
+Wash my hands raw  
+But the sin remains  
+
+the colour seeps  
+from a bloated corpse  
+bleached bones surface  
+at low tide  
+
+throw me in your current deep  
+below the surface cutting water from water  
+
+When you tear down my walls
+can't you see
+I'm scared of you
+
+When you tear down my walls
+can't you see
+I'm scared of you
+
+When you tear down my walls
+can't you see
+I'm scared of you
+
 # Jakarta Syndrome
 Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
 
