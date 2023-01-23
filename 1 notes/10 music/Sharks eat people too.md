@@ -25,9 +25,9 @@ at low tide
 throw me in your current deep  
 below the surface cutting water from water  
 
-When you tear down my walls
-can't you see
-I'm scared of you
+When you tear down my **walls**
+can't you **see**
+**I'm** scared of you
 
 When you tear down my walls
 can't you see
