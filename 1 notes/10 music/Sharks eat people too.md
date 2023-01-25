@@ -9,6 +9,8 @@ brick by brick
 keep the filth  
 out my sinner's heart  
 
+these windows don't let in much light  
+trade solit**ude** for a kingdom  
 I succeed to make them suffer  
 the skin off my back is never enough for you  
 
@@ -484,6 +486,11 @@ the constellations emulate the freckles of your face
 no patterns describe you, no shape can contain all your being  
 sacred geometry  
 sacred geometry  
+
+[you are an equation  
+with no answer  
+the ink I spilled  
+the paper shredded]  
 
 I can't calculate the way your absence makes me feel  
 you escape me  
