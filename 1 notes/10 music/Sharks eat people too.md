@@ -25,17 +25,15 @@ from a bloated corpse
 bleached bones surface  
 at low tide  
 
-When you tear down my **walls**
+Why don't you  
+tear down my **walls**
 can't you **see**  
 **I'm** scared of you  
 
-When you tear down my walls  
-can't you see  
-I'm scared of you  
-
-When you tear down my walls  
-can't you see  
-I'm scared of you  
+Why don't you  
+tear down my **walls**
+can't you **see**  
+**I'm** terrified  
 
 # Jakarta Syndrome
 Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
