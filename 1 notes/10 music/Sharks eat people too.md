@@ -14,6 +14,10 @@ trade solit**ude** for a kingdom
 I succeed to make them suffer  
 the skin off my back is never enough for you  
 
+When you tear down my **walls**
+don't you **see**  
+**I'm** scared of you  
+
 It's never enough  
 It's never enough  
 Wash my hands raw  
@@ -22,18 +26,19 @@ But the sin remains
 throw me in your current deep  
 below the surface cutting water from water  
 the vortex sweeps me off my feet
-isaac being taken to slaughter
+isaac smiled when he was taken to slaughter
 
 the colour seeps  
 from a bloated corpse  
 bleached bones surface  
 at low tide  
 
+REPEAT. REGRET. REVERSE. DESTROY.  
+REPEAT. REGRET. REVERSE. DESTROY.  
+REPEAT. REGRET. REVERSE. DESTROY.  
+REPEAT. REGRET. REVERSE. DESTROY.  
 
 
-Why don't you tear down my **walls**
-can't you **see**  
-**I'm** scared of you  
 
 # Jakarta Syndrome
 Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
