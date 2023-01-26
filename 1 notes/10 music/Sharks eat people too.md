@@ -307,50 +307,37 @@ A witness in a body that ain't mine
 A body that ain't mine to operate  
 Not speechless or motionless  
 But words that aren't mine  
-Actions autonomous  
-Limp limbs to place where you please  
-In alien machinery  
-Hissing and beeping  
 
 Torturously fragile  
 A steel anchor weighs me down  
 Radiating pulses, alienate mind from body  
 Electric signals in a body all too cooperative  
-A body pitifully yielding to your hands
 
-A witness in a body that ain't mine  
-A body that ain't mine to operate  
-Not speechless or motionless  
-But words that aren't mine  
 Actions autonomous  
 Limp limbs to place where you please  
 In alien machinery  
 Hissing and beeping  
 
-Tessellated plastic squares  
-An unfamiliar ceiling  
+Stars ignite behind my eyes   
+Cauterise the wound you left  
+Curse the poison of the flesh  
+Bright life flows out 
+
+If you can speak  
+then I'm dumb    
+Marching to the dull hum  
+of bright fluorescent lights  
+
+Tessellated plastic squares - An unfamiliar ceiling  
 Groping blindly  
 Are you there  
 Under an unfamiliar ceiling?  
 
-Jagged needles digging in   
-Flesh hooks carving art of me  
-The rot is oozing flowing free  
-Purge the poison  
-Tear the flesh  
-Your fingertips are painted red  
-Purge the poison  
-Tear the flesh  
-Your fingertips are painted red  
-Bright life flows out  
+~~A body pitifully yielding to your hands~~  
 
-
-~~[screams]~~
-
-~~Stars ignite behind my eyes~~   
-~~Cauterise the wound you left~~  
-~~Curse the poison of the flesh~~  
-~~Bright life flows out~~ 
+~~Jagged needles digging in~~  
+~~Flesh hooks carving art of me~~  
+~~The rot is oozing flowing free~~  
 
 ~~Blue lights flashing~~  
 ~~Tesselated plastic squares~~  
@@ -362,25 +349,10 @@ Bright life flows out
 ~~Smother me to dull the screams~~  
 ~~An unfamiliar ceiling~~  
 
-
-~~If you can speak, then I'm dumb~~  
-~~Marching to the dull hum~~  
-~~of bright fluorescent lights~~  
-
 ~~Purge the poison~~  
 ~~Tear the flesh~~  
 ~~Your fingertips are painted red~~  
-~~Bright life flows out~~  
-
-~~Purge the poison~~  
-~~Tear the flesh~~  
-~~Your fingertips are painted red~~  
-~~Bright life flows out~~  
-
-~~Purge the poison~~  
-~~Tear the flesh~~  
-~~Your fingertips are painted red~~  
-~~Bright life flows out~~  
+~~Bright life flows out~~   
 
 # Ik maak u kapot (ma dan in't engels)
 Bare knuckle  
