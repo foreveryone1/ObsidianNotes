@@ -21,21 +21,19 @@ But the sin remains
 
 throw me in your current deep  
 below the surface cutting water from water  
+the vortex sweeps me off my feet
+isaac being taken to slaughter
 
 the colour seeps  
 from a bloated corpse  
 bleached bones surface  
 at low tide  
 
-Why don't you  
-tear down my **walls**
+
+
+Why don't you tear down my **walls**
 can't you **see**  
 **I'm** scared of you  
-
-Why don't you  
-tear down my **walls**
-can't you **see**  
-**I'm** terrified  
 
 # Jakarta Syndrome
 Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
@@ -216,7 +214,7 @@ expecting
 I cried the first day after moving  
 these buzzing social circles felt so impenetrable  
 ~~we were the only brown kids, so of course we got along~~    
-~~our english teacher called you Ishmael, like you were from the bible~~  
+our english teacher called you Ishmael, like you were from the bible  
 
 we were swinging sticks like swords  
 and I split your lip  
@@ -234,11 +232,6 @@ a gilded cage that's left unlocked
 analysis paralysis  
 I clipped my wings before the start  
 
-fly the coop  
-come crashing down   
-no other way  
-this could have gone  
-
 I read the same things every night  
 expecting change  
 expecting    
@@ -251,6 +244,13 @@ expecting
 I read the same things every night  
 expecting change  
 expecting   
+
+
+fly the coop  
+come crashing down   
+no other way  
+this could have gone  
+
 # Yossarian Lives
 
 There are hills that you cannot conquer  
@@ -292,10 +292,11 @@ Burn your cathedral
 Tear down your shelter  
 Burn your cathedral  
 Tear down your shelter  
+
 Burn your cathedral  
 Tear down your shelter 
-
-
+Burn your cathedral  
+Tear down your shelter 
 # Unfamiliar Ceilings
 
 A threefold hiss of air  
@@ -458,10 +459,11 @@ no patterns describe you, no shape can contain all your being
 sacred geometry  
 sacred geometry  
 
-[you are an equation  
-with no answer  
-the ink I spilled  
-the paper shredded]  
+[you are an equation with no answer  
+you are the ink I spilled and pages shredded 
+
+you are the chalk that clings  
+on my hands and on my fingers]  
 
 I can't calculate the way your absence makes me feel  
 you escape me  
