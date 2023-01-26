@@ -329,9 +329,8 @@ Marching to the dull hum
 of bright fluorescent lights  
 
 Tessellated plastic squares - An unfamiliar ceiling  
-Groping blindly  
-Are you there  
-Under an unfamiliar ceiling?  
+Smother me to dull the screams  
+Under an unfamiliar ceiling  
 
 ~~A body pitifully yielding to your hands~~  
 
