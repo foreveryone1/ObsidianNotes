@@ -1,5 +1,5 @@
 # Immurement
-I would crawl  
+Send me off
 to a barren desert  
 deny my hunger  
 deny my hunger  
@@ -9,14 +9,14 @@ brick by brick
 keep the filth  
 out my sinner's heart  
 
-trade solit**ude** for a kingdom  
+trade solitude for a kingdom  
 these windows don't let in much light  
 I succeed to make them suffer  
 the skin off my back is never enough for you  
 
 When you tear down my **walls**
 don't you **see**  
-**I'm** scared of you  
+**I'm** terrified  
 
 It's never enough  
 It's never enough  
@@ -25,18 +25,18 @@ But the sin remains
 
 throw me in your current deep  
 below the surface cutting water from water  
-the vortex sweeps me off my feet
-isaac smiled when he was taken to slaughter
+vortex sweeps me off my feet
+isaac smiled when took him to slaughter
 
 the colour seeps  
 from a bloated corpse  
 bleached bones surface  
 at low tide  
 
-REPEAT. REGRET. REVERSE. DESTROY.  
-REPEAT. REGRET. REVERSE. DESTROY.  
-REPEAT. REGRET. REVERSE. DESTROY.  
-REPEAT. REGRET. REVERSE. DESTROY.  
+RELIVE. REGRET. REVERSE. DESTROY.  
+RELIVE. REGRET. REVERSE. DESTROY.  
+RELIVE. REGRET. REVERSE. DESTROY.  
+RELIVE. REGRET. REVERSE. DESTROY.  
 
 
 
