@@ -9,8 +9,8 @@ brick by brick
 keep the filth  
 out my sinner's heart  
 
-these windows don't let in much light  
 trade solit**ude** for a kingdom  
+these windows don't let in much light  
 I succeed to make them suffer  
 the skin off my back is never enough for you  
 
