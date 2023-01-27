@@ -461,7 +461,8 @@ Measure the world unknown in universal shapes
 Yet you escape me  
 the fractals in your eyes reflect a vast infinity  
 the constellations emulate the freckles of your face  
-no patterns describe you, no shape can contain all your being  
+no patterns describe you
+no shape can contain all your being  
 sacred geometry  
 sacred geometry  
 
@@ -474,7 +475,9 @@ on my clothes and on my fingers]
 
 I can't calculate the way your absence makes me feel  
 you escape me  
-when my mind wanders spirals I think of the curve of your spine  
+when my mind wanders spirals
+I think of the curve of your spine  
 the rise and fall, your every breath is god's own metronome  
 counting out the seconds I have to go without  
 sacred geometry  
+sacred geometry 
