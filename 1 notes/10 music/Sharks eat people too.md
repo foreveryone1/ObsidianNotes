@@ -1,7 +1,7 @@
 # Immurement
 Send me off
 to a barren desert  
-deny my hunger  
+let me starve  
 deny my hunger  
 
 I'll build this tomb  
@@ -12,9 +12,10 @@ out my sinner's heart
 trade solitude for a kingdom  
 these windows don't let in much light  
 I succeed to make them suffer  
-the skin off my back is never enough for you  
+what I give is never enough for you  
 
-When you tear down my **walls**
+When you tear down my walls
+When you tear down my walls
 don't you **see**  
 **I'm** terrified  
 
@@ -26,7 +27,7 @@ But the sin remains
 throw me in your current deep  
 below the surface cutting water from water  
 vortex sweeps me off my feet
-isaac smiled when took him to slaughter
+isaac smiled when you took him to slaughter
 
 the colour seeps  
 from a bloated corpse  
@@ -464,7 +465,7 @@ no patterns describe you, no shape can contain all your being
 sacred geometry  
 sacred geometry  
 
-[you're an equation with no answer  
+[you are an equation with no answer  
 you are the ink I spilled  
 you are the pages shredded  
 
