@@ -31,7 +31,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	- **Hakon Duodenuus**
 	 Ghostwise Halfling Artificer 6 (Battlesmith)
 	 Male, Small, Chaotic Good  
-	- ![[#Attribute Scores]]
+	- ![[0 ttrpg/_Settings/Terrasque/Hakon Duodenuus#Attribute Scores]]
 	- #####  [[0 ttrpg/Resources/Conditions/Exhaustion|Exh Levels]]
 		- [ ] 
 		- [ ] 
@@ -75,9 +75,9 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		- [[0 ttrpg/Resources/Spells/Ray of Frost|Ray of Frost]]
 	- #### 1 level
 		- ##### slots
-			- [ ] 
-			- [ ] 
-			- [ ] 
+			- [x] 
+			- [x] 
+			- [x] 
 			- [ ] 
 		- [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
 		- [[Tasha's Hideous Laughter]]
@@ -192,7 +192,7 @@ You can cast an artificer spell as a ritual if that spell has the ritual tag and
 	- While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.
 - [x] **Boots of the Winding Path**
 	- While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
-- [x] **Repulsion Shield**
+- [ ] **Repulsion Shield**
 	- A creature gains a +1 bonus to Armor Class while wielding this shield.  
 		The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
 
@@ -239,6 +239,8 @@ Starting at 6th level, your proficiency bonus is doubled for any ability check y
 ### Magic Items
 
 Mimicpels om 2x daags plouchen beer te veranderen in objecten
+
+Magic radar
 
 ## Change log
 - ASI History
