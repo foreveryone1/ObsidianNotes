@@ -1,7 +1,7 @@
 # Immurement
 Send me off
 to a barren desert  
-let me starve  
+deny my hunger  
 deny my hunger  
 
 I'll build this tomb  
@@ -298,11 +298,9 @@ Burn your cathedral
 Tear down your shelter  
 Burn your cathedral  
 Tear down your shelter  
+Burn your cathedral  
+Tear down your shelter 
 
-Burn your cathedral  
-Tear down your shelter 
-Burn your cathedral  
-Tear down your shelter 
 # Unfamiliar Ceilings
 
 A threefold hiss of air  
@@ -335,9 +333,10 @@ then I'm dumb
 Marching to the dull hum  
 of bright fluorescent lights  
 
-Tessellated plastic squares - An unfamiliar ceiling  
+Tessellated plastic squares  
+An unfamiliar ceiling  
 Smother me to dull the screams  
-Under an unfamiliar ceiling  
+An unfamiliar ceiling  
 
 ~~A body pitifully yielding to your hands~~  
 
