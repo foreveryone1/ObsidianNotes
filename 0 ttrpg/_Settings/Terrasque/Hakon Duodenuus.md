@@ -2,7 +2,7 @@
 cssclass: kanban, is-readable-line-width
 ---
 %%
-HP:: 39
+HP:: 21
 archieHP::27
 MaxHP:: `$=8+8+8+8+2+3+ dv.current().level * (Math.floor((dv.current().con - 10) /2))`  
 archieHPmax:: `$= 2 + Math.floor((dv.current().int - 10) /2) + dv.current().level* 5`
@@ -83,7 +83,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		- [[Tasha's Hideous Laughter]]
 		- [[Feather Fall]]
 		- [[Cure Wounds]]
-		- [[0 ttrpg/Resources/Spells/Sanctuary]]
+		- [[Sanctuary]]
 		- **[[Heroism]]**
 		- **[[Shield]]**
 	- #### 2nd level
@@ -241,6 +241,10 @@ Starting at 6th level, your proficiency bonus is doubled for any ability check y
 Mimicpels om 2x daags plouchen beer te veranderen in objecten
 
 Magic radar
+
+### items
+
+3 amuletten en een kakbroek
 
 ## Change log
 - ASI History
