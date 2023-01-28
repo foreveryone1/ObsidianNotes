@@ -1,8 +1,6 @@
 ---
 cssclass: kanban, is-readable-line-width
 ---
-
----
 %%
 HP:: 39
 archieHP::27
@@ -27,8 +25,6 @@ con_mod:: `$=Math.floor((dv.current().con - 10) /2)`
 int_mod:: `$=Math.floor((dv.current().int - 10) /2)` 
 wis_mod:: `$=Math.floor((dv.current().wis - 10) /2)` 
 cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)` 
-
-
 %%
 
 - ## Personal
@@ -118,7 +114,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	- ![[speed_walk|narrow]]
 		- 40 ft.
 - ## Combat Traits
-	- **HP**: 27/37
+	- **HP**: `=this.archieHP`/`=this.archieHPmax`
 	- **AC**: 15
 	- ### Immunities
 		- **Damage Immunities** poison
