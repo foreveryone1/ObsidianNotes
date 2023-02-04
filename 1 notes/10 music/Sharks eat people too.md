@@ -463,12 +463,12 @@ no shape can contain all your being
 sacred geometry  
 sacred geometry  
 
-[you are an equation with no answer  
+you are an equation with no answer  
 you are the ink I spilled  
 you are the pages shredded  
-
 you are the chalk that clings  
-on my clothes and on my fingers]  
+on my clothes and on my fingers  
+you are you are you are
 
 I can't calculate the way your absence makes me feel  
 you escape me  
