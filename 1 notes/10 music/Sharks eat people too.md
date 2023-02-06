@@ -414,7 +414,7 @@ punch-drunk and ready to bare your heart
 she'll reminisce about looking up at the sky  
 while coming home from watching some movie
 about cartoon dog superheroes  
-and seeing a fleeting speck of light in the night sky  
+and seeing a fleeting speck of light  
 the sole witness to a celestial immolation  
   
 the atmosphere has ripped away my shell  
