@@ -7,7 +7,7 @@ archieHP::27
 MaxHP:: `$=8+8+8+8+2+3+ dv.current().level * (Math.floor((dv.current().con - 10) /2))`  
 archieHPmax:: `$= 2 + Math.floor((dv.current().int - 10) /2) + dv.current().level* 5`
 
-level:: 6
+level:: 10
 prof:: `$=2 + Math.floor((dv.current().level - 1)/4)`
 spellSave::`$=8+ 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
 spellAttack:: `$= 2 + Math.floor((dv.current().int - 10) /2) + Math.floor((dv.current().level - 1)/4)`
@@ -29,7 +29,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 
 - ## Personal
 	- **Hakon Duodenuus**
-	 Ghostwise Halfling Artificer 6 (Battlesmith)
+	 Ghostwise Halfling Artificer `=this.level` (Battlesmith)
 	 Male, Small, Chaotic Good  
 	- ![[0 ttrpg/_Settings/Terrasque/Hakon Duodenuus#Attribute Scores]]
 	- #####  [[0 ttrpg/Resources/Conditions/Exhaustion|Exh Levels]]
@@ -75,9 +75,9 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 		- [[0 ttrpg/Resources/Spells/Ray of Frost|Ray of Frost]]
 	- #### 1 level
 		- ##### slots
-			- [x] 
-			- [x] 
-			- [x] 
+			- [ ] 
+			- [ ] 
+			- [ ] 
 			- [ ] 
 		- [[0 ttrpg/Resources/Spells/Absorb Elements|Absorb Elements]]
 		- [[Tasha's Hideous Laughter]]
