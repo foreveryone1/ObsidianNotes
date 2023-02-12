@@ -67,8 +67,8 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	 Thieves' Tools
 	 3-standenfaar - smal en geconcentreerd, verspreid licht, of uit
 	- **Extra Attack**
-		- Hand-Axe +1 (returning, thrown): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d6+`$=Math.floor((dv.current().int - 10) /2)+2+1` S, 20/60
-		- Hand-Axe +1 (returning, melee): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d6+`$=Math.floor((dv.current().int - 10) /2)+1` S
+		- Hand-Axe +1 (returning, thrown): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d8+`$=Math.floor((dv.current().int - 10) /2)+2+1` S, 20/60
+		- Hand-Axe +1 (returning, melee): +`$=Math.floor((dv.current().int - 10) /2)+2 + Math.floor((dv.current().level - 1)/4) + 1`, d8+`$=Math.floor((dv.current().int - 10) /2)+1` S
 - ## Spells (Prepared: `$=Math.floor((dv.current().int - 10) /2)+Math.floor((dv.current().level) /2)`)
 	- #### Cantrips
 		- [[Mage Hand]]
