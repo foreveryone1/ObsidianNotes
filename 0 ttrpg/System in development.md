@@ -69,13 +69,13 @@ Rename Invoke to Harm
 
 ADD 6, start from 4
 
-| required number of successes | number of dice for 50% chance |
-| ---------------------------- | ----------------------------- |
-| 1                            | 4                             |
-| 2                            | 10                            |
-| 3                            | 16                            |
-| 4                            | 22                            |
-| 5                            | 28                            |
-| 6                            | 34                            |
-| 7                            | 40                            | 
-| 8                            |     46                          |
+| required number of successes | number of d6 for 50% chance |
+| ---------------------------- | --------------------------- |
+| 1                            | 4                           |
+| 2                            | 10                          |
+| 3                            | 16                          |
+| 4                            | 22                          |
+| 5                            | 28                          | 
+| 6                            | 34                          |
+| 7                            | 40                          |
+| 8                            | 46                          |
