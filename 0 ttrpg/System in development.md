@@ -67,15 +67,16 @@ Rename Invoke to Harm
 | 25             | -              | 94               | 81                 | 62                |
 
 
-ADD 6, start from 4
 
-| required number of successes | number of d6 for 50% chance |
-| ---------------------------- | --------------------------- |
-| 1                            | 4                           |
-| 2                            | 10                          |
-| 3                            | 16                          |
-| 4                            | 22                          |
-| 5                            | 28                          | 
-| 6                            | 34                          |
-| 7                            | 40                          |
-| 8                            | 46                          |
+
+| required number of successes | number of d6 for 50% chance |   number of d4s for 50% chance  | 
+| ---------------------------- | --------------------------- | --- |
+| 1                            | 4                           |     |
+| 2                            | 10                          |     |
+| 3                            | 16                          |     |
+| 4                            | 22                          |     |
+| 5                            | 28                          |     |
+| 6                            | 34                          |     |
+| 7                            | 40                          |     |
+| 8                            | 46                          |     |
+| rule                         | ADD 6, start from 4         |     |
