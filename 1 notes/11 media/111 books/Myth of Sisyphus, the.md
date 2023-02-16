@@ -3,8 +3,8 @@ author: ["Camus, Albert"]
 ---
 %%
 publishdate:: 2018
-status:: Reading
-rating::  
+status:: Read
+rating:: Positive
 notes::  
 date-read::  
 ISBN13:: 9780525567004
