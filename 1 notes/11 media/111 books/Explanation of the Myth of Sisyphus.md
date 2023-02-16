@@ -1,5 +1,5 @@
 ---
-author: ["Camus, Albert"]
+author: ["Sartre, Jean-Paul"]
 ---
 %%
 publishdate:: 2018
