@@ -1,4 +1,4 @@
-Jefe Mustafa
+**Jefe Mustafa**
 Groeide op in de povere wijken van Wur Shastarr
 heel trouw 
 leermeester: jared bin taleb
