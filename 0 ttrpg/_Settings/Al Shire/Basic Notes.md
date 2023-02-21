@@ -17,3 +17,17 @@ aangevallen langs twee kanten
 ze hebben Oussama zijn lijk meegenomen en jullie zijn nog maar net kunnen vluchten
 banished from Medinashire until you recover Oussama's pendent
 
+Master Bitro
+
+Ilyan 
+Raenout
+Arnaut
+
+
+15
+-5
+10
+7
+
+
+5 new leader l 2 don't participate
