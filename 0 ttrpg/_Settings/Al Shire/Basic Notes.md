@@ -23,11 +23,4 @@ Ilyan
 Raenout
 Arnaut
 
-
-15
--5
-10
-7
-
-
-5 new leader l 2 don't participate
+al sta'in
