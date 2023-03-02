@@ -263,40 +263,40 @@ this could have gone
 
 # Yossarian Lives
 
-There are hills that you cannot conquer  
-Fights pursued that aren't worth prolonging  
-Buried dead deserve to be honoured  
-Life well lived is the life of a coward  
+there are hills that you cannot conquer  
+fights pursued that aren't worth prolonging  
+buried dead deserve to be honoured  
+life well lived is the life of a coward  
 
-An indian chieftain drowning on dry land  
+an indian chieftain drowning on dry land  
 a pair of twig legs standing upright no body attached  
 a man of god with a broken heart  
 The pointless deaths of a war already won  
 
-Damn your eyes  
-Curse your ambition  
-We are the playthings  
-Of adult children  
+damn your eyes  
+curse your ambition  
+we are the playthings  
+of adult children  
 
-A whorehouse cleared out with no regard  
-A mountainside village reduced to rubble  
-Generation of crooks and thieves  
-The walking corpses of forever war  
+a whorehouse cleared out with no regard  
+a mountainside village reduced to rubble  
+generation of crooks and thieves  
+the walking corpses of forever war  
 
-Damn your eyes  
-Curse your ambition  
-We are the playthings  
-Of adult children  
+damn your eyes  
+curse your ambition  
+we are the playthings  
+of adult children  
 
-Freezing cold on a summer bomb run  
-Skeleton crew of second born sons  
-Ask for more I have nothing to offer  
-Ground me now, sky is blackened with schrapnel  
+freezing cold on a summer bomb run  
+skeleton crew of second born sons  
+ask for more I have nothing to offer  
+ground me now, sky is blackened with schrapnel  
 
-The bombs  
-The bombs are falling  
-Burn your cathedral  
-Tear down your shelter  
+the bombs  
+the bombs are falling  
+burn your cathedral  
+tear down your shelter  
 
 Burn your cathedral  
 Tear down your shelter  
@@ -377,32 +377,32 @@ Reach Heaven Through Violence
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
   
-society's bruises  
-the dumb and the useless  
+Society's bruises  
+The dumb and the useless  
   
-hand of the hungry  
-take what you earn  
+Hand of the hungry  
+Take what you earn  
   
-Reach Heaven Through Violence  
-Reach Heaven Through Violence  
-Reach Heaven Through Violence  
-Reach Heaven Through Violence  
-  
-inner jihad  
-mouth full of blood  
-
-we bite the hand that did not feed  
-forsake our masters make em bleed
-
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 
-born from the mud    
-aim for the eyes  
-we are the flood  
-comrades alive  
+Born from the mud    
+Aim for the eyes  
+We are the flood  
+Comrades alive  
+
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+Reach Heaven Through Violence  
+  
+Inner jihad  
+Mouth full of blood  
+
+We bite the hand that did not feed  
+Forsake our masters make em bleed
   
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
