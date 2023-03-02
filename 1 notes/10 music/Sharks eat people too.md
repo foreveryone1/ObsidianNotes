@@ -1,13 +1,14 @@
 # Immurement
-Send me off
-to a barren desert  
-deny my hunger  
-deny my hunger  
 
 I'll build this tomb  
 brick by brick  
 keep the filth  
 out my sinner's heart  
+
+send me to starve
+in a barren desert  
+to deny my hunger  
+deny my hunger  
 
 trade solitude for a kingdom  
 these windows don't let in much light  
@@ -201,6 +202,11 @@ burning time until my life gets clearer
 
 I'm lost adrift, I crave the new  
 no inner hunger, starved of fuel  
+
+no taste as sweet as helplessness  
+a gilded cage that's left unlocked  
+analysis paralysis  
+I clipped my wings before the start 
 
 I read the same things every night  
 expecting change  
