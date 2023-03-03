@@ -224,8 +224,8 @@ expecting
 I cried the first day after moving  
 these buzzing social circles felt so impenetrable  
 ~~we were the only brown kids, so of course we got along~~    
-our english teacher called you Ishmael, like you were from the bible  
-
+reminiscence repeats itself   
+our english teacher called you Ishmael~~, like you were from the bible~~  
 we were swinging sticks like swords  
 and I split your lip  
 I didn't call for help or apologise  
