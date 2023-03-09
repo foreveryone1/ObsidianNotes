@@ -10,3 +10,9 @@ date-read:: 20230214
 ISBN13:: 9780525567004
 %%
 `=this.notes`
+
+> The absurd does not liberate; it binds. It does not authorize all actions. “Everything is permitted” does not mean that nothing is forbidden. The absurd merely confers an equivalence on the consequences of those actions. It does not recommend crime, for this would be childish, but it restores to remorse its futility. Likewise, if all experiences are indifferent, that of duty is as legitimate as any other. One can be virtuous through a whim.
+
+> What, in fact, is the absurd man? He who, without negating it, does nothing for the eternal.
+
+> a man defines himself by his make-believe as well as by his sincere impulses
