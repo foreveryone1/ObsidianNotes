@@ -183,83 +183,60 @@ Make it mine
 Make you mine  
 
 # fly the coop [wip]
-do you remember the forest beside our houses?  
+do you remember the forest next door?  
 we'd bike like fools over logs and ditches  
 and in the light filtered by the canopy  
 time didn't exist until our mothers called us home
 
-the first time I ever swore
-you picked me up by the collar  
-you asked me  
-who taught me how to swear?  
-you promised me  
-if you ever caught me again  
-wallahi, you'd kick my ass  
+crystallised time slips through my fingers
+our english teacher called you Ishmael
+we were swinging sticks like swords  
+and I split your lip  
+I didn't call for help or apologise  
+I just stared and stared  
+at the bright pink spit trailing from your mouth  
 
 locked by inertia  
 wade through syrup  
 burning time until my life gets clearer  
-
-I'm lost adrift, I crave the new  
-no inner hunger, starved of fuel  
 
 no taste as sweet as helplessness  
 a gilded cage that's left unlocked  
 analysis paralysis  
 I clipped my wings before the start 
 
-I read the same things every night  
-expecting change  
-expecting    
-I read the same things every night  
-expecting change  
-expecting   
-I read the same things every night  
-expecting change  
-expecting   
-I read the same things every night  
-expecting change  
-expecting    
-
-I cried the first day after moving  
-these buzzing social circles felt so impenetrable  
-~~we were the only brown kids, so of course we got along~~    
-reminiscence repeats itself   
-our english teacher called you Ishmael~~, like you were from the bible~~  
-we were swinging sticks like swords  
-and I split your lip  
-I didn't call for help or apologise  
-I just stared and stared  
-at the bloody pink spit trailing from your mouth  
-
-locked by inertia  
-drowned in syrup  
-rotting figs
-on branches shrivelled  
-
-no taste as sweet as helplessness  
-a gilded cage that's left unlocked  
-analysis paralysis  
-I clipped my wings before the start  
+I'm lost adrift, I crave the new  
+no inner hunger, starved of fuel  
 
 I read the same things every night  
 expecting change  
-expecting    
 I read the same things every night  
 expecting change  
-expecting   
-I read the same things every night  
-expecting change  
-expecting   
-I read the same things every night  
-expecting change  
-expecting   
 
+when did you look away?  
+when did our faces change  
+when did our faces change  
+when did our faces change  
+when did our faces change  
+I thought that we would stay the same
 
-fly the coop  
-come crashing down   
-no other way  
-this could have gone  
+~~locked by inertia~~  
+~~drowned in syrup~~  
+~~rotting figs~~
+~~on branches shrivelled~~
+
+~~fly the coop~~  
+~~come crashing down~~   
+~~no other way~~  
+~~this could have gone~~  
+
+~~the first time I ever swore~~
+~~you picked me up by the collar~~  
+~~you asked m~~~~e~~  
+~~who taught me how to swear?~~  
+~~you promised me~~  
+~~if you ever caught me again~~  
+~~wallahi, you'd kick my ass~~  
 
 # Yossarian Lives
 
