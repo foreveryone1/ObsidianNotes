@@ -1,3 +1,13 @@
+# shark chant
+I am shark  
+I swim in the water  
+
+I am the drowned  
+I float in the water
+
+I am the blood  
+you are a feeding frenzy
+
 # Immurement
 
 I'll build this tomb  
