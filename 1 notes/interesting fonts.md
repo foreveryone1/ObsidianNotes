@@ -8,6 +8,7 @@ xerox fonts
 futida
 danh da bold
 atreyu
+avara
 
 
 xerox fonts venue / location
@@ -17,3 +18,5 @@ hershey noailles
 majesti banner
 knewave
 toscuchet
+
+
