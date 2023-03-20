@@ -7,8 +7,13 @@ henri didot for thin fancy fonts
 xerox fonts
 futida
 danh da bold
+atreyu
+sharks eat people too
 
 xerox fonts venue / location
 tryna no. 5
 aromi caps
 hershey noailles
+majesti banner
+knewave
+toscuchet
