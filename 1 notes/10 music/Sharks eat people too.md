@@ -130,11 +130,11 @@ drifting on the wind
 will be the headstone  
 for a thousand lights  
 
-shovel dirt so there's no turning back  
-my heart was racing when I strapped up the vest  
-past metal doors, my steps resound  
-reverberating voices tell me where to go  
+~~shovel dirt so there's no turning back~~  
+~~reverberating voices tell me where to go~~  
 
+past metal doors, my steps resound   
+my heart was racing when I strapped up the vest  
 you caught me, in arms unmoving  
 what were you thinking when your skin dissolved  
 
@@ -142,10 +142,12 @@ Is there a witness in the sky above?
 will I be waking from a martyr's sleep?  
 
 beside a gravel road  
-they lie forgotten  
-nobody left to clean their graves  
+I lie forgotten  
+nobody left to clean my grave  
 the radio keeps on hissing
 but his word is lost to me  
+his word is lost to me  
+his word is lost to me  
 
 # vivisection
 Put on the gloves  
