@@ -1,3 +1,16 @@
+# statusoverzicht nummers
+| nummer              | status                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| isaac               | af                                                                                                      |
+| apollo              | af                                                                                                      |
+| IMUK                | af                                                                                                      |
+| unfamiliar ceilings | af                                                                                                      |
+| yossarian lives     | af (voor live versnelling na "The bombs" strak krijgen)                                                 |
+| fly the coop        | structuur af, tekst af, muziek 90% af geheel samen laten komen                                          | 
+| vivisection         | structureel ok, mag nog aan gesleuteld worden, tempo kiezen                                             |
+| shaheed             | A en B stuk van maarten al geschreven, vibe is heel duidelijk, stijn zijn bassline ontbreekt            |
+| Jakarta             | eerste demo en tekst (misschien originele vorm behouden en sterk inkorten om eentonigheid te beperken?) |
+| Immurement          | idee                                                                                                    |
 # shark chant
 I am shark  
 I swim in the water  
