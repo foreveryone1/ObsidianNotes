@@ -108,8 +108,8 @@ Ontbreekt muziek
 
 I am a faithful of god's chosen few  
 this is the harvest of a hundred fruit  
-we seek refuge  
 in hollow hills  
+we seek refuge  
 from foreign fire  
 begin anew  
 
