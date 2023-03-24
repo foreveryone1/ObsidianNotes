@@ -152,7 +152,7 @@ you caught me, in arms unmoving
 what were you thinking when your skin dissolved  
 
 Is there a witness in the sky above?  
-will I be waking from a martyr's sleep?  
+will I awaken from a martyr's sleep?  
 
 beside a gravel road  
 I lie forgotten  
