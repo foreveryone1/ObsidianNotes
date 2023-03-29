@@ -19,3 +19,5 @@ https://phys.org/news/2016-01-discoveries-otzi-genetic-history.html
 
 language spoken
 <https://en.wikipedia.org/wiki/Rhaetic>
+
+https://issuu.com/suedtirolinfo/docs/cor_1_eng/s/10293251
