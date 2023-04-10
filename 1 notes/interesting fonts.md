@@ -9,7 +9,7 @@ futida
 danh da bold
 atreyu
 avara
-
+punk not yet
 
 xerox fonts venue / location
 tryna no. 5
