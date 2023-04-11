@@ -11,5 +11,5 @@ ISBN13:: 9788804320258
 %%
 `=this.notes`
 
-2.  > He took Montag quickly into the bedroom and lifted a picture frame aside revealing a television screen the size of a postal card. “I always wanted something very small, something I could walk to, something I could blot out with the palm of my hand, if necessary, nothing that could shout me down, nothing monstrous big. So, you see.” He snapped it on.
+ > He took Montag quickly into the bedroom and lifted a picture frame aside revealing a television screen the size of a postal card. “I always wanted something very small, something I could walk to, something I could blot out with the palm of my hand, if necessary, nothing that could shout me down, nothing monstrous big. So, you see.” He snapped it on.
   
