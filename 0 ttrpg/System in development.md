@@ -27,16 +27,16 @@ counter hit melee attack, same target
 Rename Invoke to Harm
 
 
-| number of dice | target number for ~50% chance of failure | examples                                                      |
-| -------------- | ---------------------------------------- | ------------------------------------------------------------- |
-| 4d4            | 10                                       | **downgrade by one if damage is dealt automatically on miss** |
-| 5d4            | 12                                       | minion attacks <br> difficult for a commoner                  |
-| 6d4            | 14                                       | monster attacks <br> moderate for an adventurer               |
-| 7d4            | 17                                       | boss attacks <br> challenging for an adventurer               |
-| 8d4            | 19                                       | difficult for an adventurer                                   |
-| 9d4            | 22                                       |                                                               |
-| 10d4           | 24                                       |                                                               |
-| 11d4           | 27                                       |                                                               |
+| number of dice | target number for ~50% chance of failure | examples                                                                                                |
+| -------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 4d4            | 10                                       | **downgrade by one if damage is dealt automatically on miss**                                           |
+| 5d4            | 12                                       | **minion attacks** <br> difficult for a commoner                                                        |
+| 6d4            | 14                                       | **monster attacks** <br> add rider for boss attacks <br> Minion defence <br> moderate for an adventurer |
+| 7d4            | 17                                       | challenging for an adventurer <br> **monster defence** <br> add sacrificial minions to boss                 | 
+| 8d4            | 19                                       | difficult for an adventurer                                                                             |
+| 9d4            | 22                                       |                                                                                                         |
+| 10d4           | 24                                       |                                                                                                         |
+| 11d4           | 27                                       |                                                                                                         |
 
 
 
