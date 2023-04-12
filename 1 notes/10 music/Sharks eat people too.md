@@ -6,11 +6,25 @@
 | IMUK                | af                                                                                                      |
 | unfamiliar ceilings | af                                                                                                      |
 | yossarian lives     | af (voor live versnelling na "The bombs" strak krijgen)                                                 |
-| fly the coop        | structuur af, tekst af, muziek 90% af geheel samen laten komen                                          | 
-| vivisection         | structureel ok, mag nog aan gesleuteld worden, tempo kiezen                                             |
-| shaheed             | A en B stuk van maarten al geschreven, vibe is heel duidelijk, stijn zijn bassline ontbreekt            |
+| fly the coop        | structuur af, tekst af, muziek 90% af geheel samen laten komen                                          |
+| vivisection         | structureel ok, mag nog aan gesleuteld worden, tempo kiezen, ontbreekt een interlude                    |
+| shaheed             | A en B stuk van maarten al geschreven, vibe is heel duidelijk                                           | 
 | Jakarta             | eerste demo en tekst (misschien originele vorm behouden en sterk inkorten om eentonigheid te beperken?) |
 | Immurement          | idee                                                                                                    |
+
+
+Plan: elke resterende repdag met minieme bazel en hervattingen de setlist doorspelen
+post-pauze sleutelen
+
+Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 minuten samenkomen om de setlist door te spelen (en dan gezellig iets samen eten 🥺)?
+
+| Dag             | feedback | plannen | 
+| --------------- | -------- | ------- |
+| 19/04           |          |   eerste keer setlist testen      |
+| 26/04           |          |         |
+| 03/05           |          |         |
+| 10/05           |          |         |
+| MAANDAG 15/05 ? |          |         |
 # shark chant
 I am shark  
 I swim in the water  
