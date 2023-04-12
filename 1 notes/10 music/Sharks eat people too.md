@@ -18,13 +18,34 @@ post-pauze sleutelen
 
 Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 minuten samenkomen om de setlist door te spelen (en dan gezellig iets samen eten 🥺)?
 
-| Dag             | feedback | plannen | 
-| --------------- | -------- | ------- |
-| 19/04           |          |   eerste keer setlist testen      |
-| 26/04           |          |         |
-| 03/05           |          |         |
-| 10/05           |          |         |
-| MAANDAG 15/05 ? |          |         |
+| Dag             | feedback | plannen                                     |
+| --------------- | -------- | ------------------------------------------- |
+| 19/04           |          | eerste keer setlist testen                  |
+| 26/04           |          |                                             |
+| 03/05           |          |                                             |
+| 10/05           |          | VRIENDEN UITNODIGEN                         |
+| MAANDAG 15/05 ? |          | liesens vragen of er een wissel mogelijk is | 
+
+**Bijzaak**
+
+| taak                                                                            | belang |
+| ------------------------------------------------------------------------------- | ------ |
+| Lino's bedrukken                                                                | Medium |
+| TV fixen                                                                        | laag   |
+| Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst) | laag   |
+| Poster voor optreden van 2023.05.18 1600                                        | klaar  | 
+
+**setlist** (voorlopig)
+apollo  
+yossarian   
+isaac  
+unfamiliar  
+fly the coop  
+vivisection  
+shaheed  
+IMUK  
+
+
 # shark chant
 I am shark  
 I swim in the water  
