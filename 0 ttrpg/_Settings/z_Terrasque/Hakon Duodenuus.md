@@ -31,7 +31,7 @@ cha_mod:: `$=Math.floor((dv.current().cha - 10) /2)`
 	- **Hakon Duodenuus**
 	 Ghostwise Halfling Artificer `=this.level` (Battlesmith)
 	 Male, Small, Chaotic Good  
-	- ![[0 ttrpg/_Settings/Terrasque/Hakon Duodenuus#Attribute Scores]]
+	- ![[0 ttrpg/_Settings/z_Terrasque/Hakon Duodenuus#Attribute Scores]]
 	- #####  [[0 ttrpg/Resources/Conditions/Exhaustion|Exh Levels]]
 		- [ ] 
 		- [ ] 
