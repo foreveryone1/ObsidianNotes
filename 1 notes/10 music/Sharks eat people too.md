@@ -32,7 +32,7 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 | ------------------------------------------------------------------------------- | ------ |
 | Lino's bedrukken                                                                | Medium |
 | TV fixen                                                                        | laag   |
-| Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst) | laag   |
+| Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst) | KLAAR   |
 | Poster voor optreden van 2023.05.18 1600                                        | klaar  | 
 
 **setlist** (voorlopig)
