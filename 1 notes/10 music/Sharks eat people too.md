@@ -28,12 +28,12 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 
 **Bijzaak**
 
-| taak                                                                            | belang |
-| ------------------------------------------------------------------------------- | ------ |
-| Lino's bedrukken                                                                | Medium |
-| TV fixen                                                                        | laag   |
-| Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst) | KLAAR   |
-| Poster voor optreden van 2023.05.18 1600                                        | klaar  | 
+| taak                                                                                | belang |
+| ----------------------------------------------------------------------------------- | ------ |
+| Lino's bedrukken                                                                    | Medium |
+| TV fixen                                                                            | laag   |
+| ~~Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst)~~ | KLAAR  |
+| ~~Poster voor optreden van 2023.05.18 1600~~                                        | KLAAR  |
 
 **setlist** (voorlopig)
 apollo  
@@ -47,7 +47,7 @@ IMUK
 
 
 # shark chant
-I am shark  
+I am a shark  
 I swim in the water  
 
 I am the drowned  
