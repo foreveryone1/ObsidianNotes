@@ -18,13 +18,13 @@ post-pauze sleutelen
 
 Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 minuten samenkomen om de setlist door te spelen (en dan gezellig iets samen eten 🥺)?
 
-| Dag             | feedback | plannen                                     |
-| --------------- | -------- | ------------------------------------------- |
-| 19/04           |          | eerste keer setlist testen                  |
-| 26/04           |          |                                             |
-| 03/05           |          |                                             |
-| 10/05           |          | VRIENDEN UITNODIGEN                         |
-| MAANDAG 15/05 ? |          | liesens vragen of er een wissel mogelijk is | 
+| Dag           | feedback | plannen                    |
+| ------------- | -------- | -------------------------- |
+| 19/04         |          | eerste keer setlist testen |
+| 26/04         |          |                            |
+| DINSDAG 02/05 |          |                            |
+| 10/05         |          | VRIENDEN UITNODIGEN        |
+| MAANDAG 15/05 |          |                            | 
 
 **Bijzaak**
 
@@ -34,6 +34,7 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 | TV fixen                                                                            | laag   |
 | ~~Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst)~~ | KLAAR  |
 | ~~Poster voor optreden van 2023.05.18 1600~~                                        | KLAAR  |
+| drum kopen                                                                          | KLAAR?       |
 
 **setlist** (voorlopig)
 apollo  
