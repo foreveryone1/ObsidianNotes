@@ -30,11 +30,11 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 
 | taak                                                                                | belang |
 | ----------------------------------------------------------------------------------- | ------ |
-| Lino's bedrukken                                                                    | Medium |
-| TV fixen                                                                            | laag   |
+| Lino's bedrukken                                                                    | medium | 
+| TV fixen (kabel ed)                                                                 | medium |
 | ~~Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst)~~ | KLAAR  |
 | ~~Poster voor optreden van 2023.05.18 1600~~                                        | KLAAR  |
-| drum kopen                                                                          | KLAAR?       |
+| ~~drum kopen~~                                                                      | KLAAR  |
 
 **setlist** (voorlopig)
 apollo  
