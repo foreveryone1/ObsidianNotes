@@ -18,13 +18,14 @@ post-pauze sleutelen
 
 Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 minuten samenkomen om de setlist door te spelen (en dan gezellig iets samen eten 🥺)?
 
-| Dag           | feedback | plannen                    |
-| ------------- | -------- | -------------------------- |
-| 19/04         |          | eerste keer setlist testen |
-| 26/04         |          |                            |
-| DINSDAG 02/05 |          |                            |
-| 10/05         |          | VRIENDEN UITNODIGEN        |
-| MAANDAG 15/05 |          |                            | 
+| Dag           | feedback | plannen                               |
+| ------------- | -------- | ------------------------------------- |
+| 19/04         |     **yossarian**: einde strakker <br> **Isaac**: joeri is te vroeg gewisseld van stuk, maarten moet genoeg definitie hebben <br> ZEKER sound isaac soundchecken   <br> **unfamiliar**: durven dissonant zijn, voor lelijk kwaad randje <br> **vivisection**: joeri telt af, af zingt "feel every pulse of your fragile body" 2 tellen later <br> **fly the coop**: hapering overgang punkrock stukje, breakdown <br> tekst past alleen wanneer timing heel strak is, evt snoeien? <br> **shaheed**: outro strakker, slechts 2 maten van "introriff" om af te bouwen, niet te lang wachten met tremolo, joeri geeft climax aan met fill  | eerste keer setlist testen            |
+| 26/04         |          | TIMEN / opnemen                       |
+|ZATERDAG  29/04         |          | KNUTSELSESSIE EN KOKEN 1700 bij joeri | 
+| DINSDAG 02/05 |          |                                       |
+| 10/05         |          | VRIENDEN UITNODIGEN                   |
+| MAANDAG 15/05 |          |                                       |
 
 **Bijzaak**
 
