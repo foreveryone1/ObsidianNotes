@@ -12,6 +12,7 @@
 | Jakarta             | eerste demo en tekst (misschien originele vorm behouden en sterk inkorten om eentonigheid te beperken?) |
 | Immurement          | idee                                                                                                    |
 
+# voorbereiding eerste optreden
 
 Plan: elke resterende repdag met minieme bazel en hervattingen de setlist doorspelen
 post-pauze sleutelen
@@ -30,8 +31,9 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 
 | taak                                                                                | belang |
 | ----------------------------------------------------------------------------------- | ------ |
-| Lino's bedrukken                                                                    | medium | 
-| TV fixen (kabel ed)                                                                 | medium |
+| sampler regelen                                                                     |        |
+| Lino's bedrukken                                                                    | medium |
+| ~~TV fixen (kabel ed)~~                                                             | KLAAR  |
 | ~~Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst)~~ | KLAAR  |
 | ~~Poster voor optreden van 2023.05.18 1600~~                                        | KLAAR  |
 | ~~drum kopen~~                                                                      | KLAAR  |
@@ -243,7 +245,7 @@ Make it mine
 Make it mine  
 Make you mine  
 
-# fly the coop [wip]
+# fly the coop
 do you remember the forest next door?  
 we'd bike like fools over logs and ditches  
 and in the light filtered by the canopy  
@@ -261,8 +263,9 @@ locked by inertia
 wade through syrup  
 burning time until my life gets clearer  
 
-no taste as sweet as helplessness  
-a gilded cage that's left unlocked  
+~~no taste as sweet as helplessness~~  
+~~a gilded cage that's left unlocked~~  
+choke my heart on bitter spite  
 analysis paralysis  
 I clipped my wings before the start 
 
@@ -272,7 +275,7 @@ no inner hunger, starved of fuel
 I read the same things every night  
 expecting change  
 I read the same things every night  
-expecting change  
+expecting change (maarten£)  
 
 when did you look away?  
 when did our faces change  
