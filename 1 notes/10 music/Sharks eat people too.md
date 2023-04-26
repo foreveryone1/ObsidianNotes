@@ -21,9 +21,8 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 | Dag           | feedback | plannen                               |
 | ------------- | -------- | ------------------------------------- |
 | 19/04         |     **yossarian**: einde strakker <br> **Isaac**: joeri is te vroeg gewisseld van stuk, maarten moet genoeg definitie hebben <br> ZEKER sound isaac soundchecken   <br> **unfamiliar**: durven dissonant zijn, voor lelijk kwaad randje <br> **vivisection**: joeri telt af, af zingt "feel every pulse of your fragile body" 2 tellen later <br> **fly the coop**: hapering overgang punkrock stukje, breakdown <br> tekst past alleen wanneer timing heel strak is, evt snoeien? <br> **shaheed**: outro strakker, slechts 2 maten van "introriff" om af te bouwen, niet te lang wachten met tremolo, joeri geeft climax aan met fill  | eerste keer setlist testen            |
-| 26/04         |          | TIMEN / opnemen                       |
-|ZATERDAG  29/04         |          | KNUTSELSESSIE EN KOKEN 1700 bij joeri | 
-| DINSDAG 02/05 |          |                                       |
+| 26/04         |    **in orde**: apollo, unfamiliar <br> **yossarian**: maarten timing, afif vers `freezing cold on a summer bomb run` beter kennen <br>  **isaac**: opletten met tellen, hapering met timing tweede sacred geometry <br> **fly the coop**: punkrock switch perfect maarten: riff nog eens studeren ipv op gevoel afif: ingekorte tekst houden <br> **vivisection**: ontbreekt *poeier*, effe terug in de koelkast? <br> **shaheed**: outro properder, oogcontact maken met switch <br> **imuk**: schoonheidsfouten    | TIMEN / opnemen                       |
+| DINSDAG 02/05 |          |     NADENKEN OVER SCHRAPPEN VIVISECTION - AFWERKEN IMMUREMENT                                  |
 | 10/05         |          | VRIENDEN UITNODIGEN                   |
 | MAANDAG 15/05 |          |                                       |
 
