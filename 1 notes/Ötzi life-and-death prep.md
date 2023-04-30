@@ -67,11 +67,13 @@ maar ook een giftige varen (medicijn? verpakking van zijn eten? - niet alleen gi
 
 pollen in his stomach
 
-pijl en boog, koperen bijl, dolk, twee drankkokers uit berkenhout, een rugzak
+pijl en boog (zijn pijlen waren nog niet af, en zijn boog was nog niet af!), koperen bijl, dolk, twee drankkokers uit berkenhout, een rugzak
 
-geit-schaap-hert-ko
+geit-schaap-hert-koerleer-berenmuts
 # what injuries can we find on the corpse
 wounds on his hands from holding a stabbing implement
+proteins that seem to indicate blunt force trauma to the head - recent
+an arrow tip in his shoulder blade
 
 # what other peculiarities are there about ötzi's corpse
 lyme
