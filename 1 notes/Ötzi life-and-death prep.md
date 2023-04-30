@@ -23,3 +23,30 @@ language spoken
 https://issuu.com/suedtirolinfo/docs/cor_1_eng/s/10293251
 
 https://www.sciencedaily.com/releases/2013/06/130610084123.htm
+
+
+# What is the Ötzi finding
+oudste natuurlijke mummy
+koude natte omgeving preserveerde hem bijzonder goed
+# When does it date from
+koolstofdatering
+tussen 3400 vc en 3100 vc
+# What did europe look like at the time
+neolithische revolutie was stevig onderweg - agricultuur was nagenoeg overal aanwezig
+in het oosten waren er geruchten van een ruitercultuur - met een vreemde taal en gewelddadige rituelen - maar zij waren gelukkig nog niet doorgedrongen tot italië
+## climate
+klimaatoptimum achter de rug
+warmer dan nu
+### climate change
+maar het onweer nam toe, en relatief gesproken werd het kouder - minder weelde
+## copper age
+### where was copper sourced
+#### trade networks
+# where was his corpse found
+gevonden in 1991 in de ötztal alpen - op de grens tussen italië en oostenrijk
+# where is ötzi from
+geboren te velturno [afstand otztal velturno]
+# what injuries can we find on the corpse
+# what other peculiarities are there about ötzi's corpse
+# Reconstruction
+# is survived by
