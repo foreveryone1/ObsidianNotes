@@ -105,12 +105,12 @@ door wanhoop jaagt Ötzi in het gebied van een ander dorp - om een conflict te m
 ## 4 dagen voor zijn dood [45]
 otzi wordt geconfronteerd door krijgers die hun territorium verdedigen
 een gevecht breekt uit - otzi wendt een steekpartij af en vlucht
-## 2 dagen voor zijn dood
-de krijgers achtervolgen otzi en treffen hem met een pijl
+## 8 dagen voor zijn dood
 otzi vlucht naar steeds hoger gelegen en moeilijker toegangelijke paden om zijn aanvallers te ontlopen
 het inspanningszweet doorweekt zijn kleren - zelfs een berenpels kan deze koude niet verdringen
-## 9 uur voor zijn dood
+## 6 uur voor zijn dood
 door het zwaar bloedverlies en de koude glijdt hij uit en stoot hij zijn hoofd
+de krijgers achtervolgen otzi en treffen hem met een pijl
 ## 4 uur voor zijn dood
 de paradoxale warmteverschijnselen van hypothermie manifesteren zich
 hij kleedt zich uit
