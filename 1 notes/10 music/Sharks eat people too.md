@@ -27,7 +27,7 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 | 10/05         |          | VRIENDEN UITNODIGEN                   |
 | MAANDAG 15/05 |          |                                       |
 
-**Bijzaak**
+## Bijzaak
 
 | taak                                                                                | belang |
 | ----------------------------------------------------------------------------------- | ------ |
@@ -38,7 +38,7 @@ Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 
 | ~~Poster voor optreden van 2023.05.18 1600~~                                        | KLAAR  |
 | ~~drum kopen~~                                                                      | KLAAR  |
 
-**setlist** (voorlopig)
+## setlist (voorlopig)
 apollo  
 yossarian   
 isaac  
