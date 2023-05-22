@@ -103,7 +103,7 @@ RELIVE. REGRET. REVERSE. DESTROY.
 
 
 # Jakarta Syndrome
-Naar `[[ ]] Heat` van [Nick Land](http://www.ccru.net/swarm1/1_melt.htm)  
+Naar de Heat monoloog van Don Delillo (white noise)
 
 the tangle of your sweaty limbs under thin sheets  
 a stale glass of water  
@@ -156,7 +156,6 @@ heat breeds heat
 heat breeds heat  
 # Shaheed
 Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)  
-Ontbreekt muziek
 
 I am a faithful of god's chosen few  
 this is the harvest of a hundred fruit  
@@ -450,6 +449,22 @@ Reach Heaven Through Violence
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
 Reach Heaven Through Violence  
+
+reminiscence repeats itself  
+do you alone shoulder  
+the burden of you little universe?  
+
+bathe in the sun's harsh light  
+feel your breath return  
+and your colours fade  
+
+bear fruit with none in mind  
+tear open your chest  
+and let see your vivid pulse  
+
+swim to an island by the shore  
+the waves will carry your voice  
+and wash away your footprints  
   
 # Apollo
 
