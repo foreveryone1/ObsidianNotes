@@ -6,38 +6,12 @@
 | IMUK                | af                                                                                                      |
 | unfamiliar ceilings | af                                                                                                      |
 | yossarian lives     | af (voor live versnelling na "The bombs" strak krijgen)                                                 |
-| fly the coop        | af                                          |
+| fly the coop        | af                                                                                                      |
 | vivisection         | structureel ok, mag nog aan gesleuteld worden, tempo kiezen, ontbreekt een interlude                    |
-| shaheed             | af                                          | 
+| shaheed             | af                                                                                                      |
 | Jakarta             | eerste demo en tekst (misschien originele vorm behouden en sterk inkorten om eentonigheid te beperken?) |
 | Immurement          | idee                                                                                                    |
 
-# voorbereiding eerste optreden
-
-Plan: elke resterende repdag met minieme bazel en hervattingen de setlist doorspelen
-post-pauze sleutelen
-
-Extra optie: komende maand een zaterdag of twee (niet te veel - verzadiging) 40 minuten samenkomen om de setlist door te spelen (en dan gezellig iets samen eten 🥺)?
-
-| Dag            | feedback                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | plannen                                                   |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 19/04          | **yossarian**: einde strakker <br> **Isaac**: joeri is te vroeg gewisseld van stuk, maarten moet genoeg definitie hebben <br> ZEKER sound isaac soundchecken   <br> **unfamiliar**: durven dissonant zijn, voor lelijk kwaad randje <br> **vivisection**: joeri telt af, af zingt "feel every pulse of your fragile body" 2 tellen later <br> **fly the coop**: hapering overgang punkrock stukje, breakdown <br> tekst past alleen wanneer timing heel strak is, evt snoeien? <br> **shaheed**: outro strakker, slechts 2 maten van "introriff" om af te bouwen, niet te lang wachten met tremolo, joeri geeft climax aan met fill | eerste keer setlist testen                                |
-| 26/04          | **in orde**: apollo, unfamiliar <br> **yossarian**: maarten timing, afif vers `freezing cold on a summer bomb run` beter kennen <br>  **isaac**: opletten met tellen, hapering met timing tweede sacred geometry <br> **fly the coop**: punkrock switch perfect maarten: riff nog eens studeren ipv op gevoel afif: ingekorte tekst houden <br> **vivisection**: ontbreekt *poeier*, effe terug in de koelkast? <br> **shaheed**: outro properder, oogcontact maken met switch <br> **imuk**: schoonheidsfouten                                                                                                                     | TIMEN / opnemen                                           |
-| DINSDAG 02/05  | eerste setlist - stroef, ongefocust <br> tweede setlist - veel beter <br> **fly the coop**: vers te vroeg gewitcht van drum, maar goed gerecupereerd <br> **vivisection**: afif teksten kennen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | NADENKEN OVER SCHRAPPEN VIVISECTION - AFWERKEN IMMUREMENT |
-| WOENSDAG 10/05 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | VRIENDEN UITNODIGEN                                       |
-| ZATERDAG 13/05 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                           |
-| MAANDAG 15/05  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                           |
-
-## Bijzaak
-
-| taak                                                                                | belang |
-| ----------------------------------------------------------------------------------- | ------ |
-| ~~sampler regelen~~                                                                     | KLAAR       |
-| Lino's bedrukken                                                                    | medium |
-| ~~TV fixen (kabel ed)~~                                                             | KLAAR  |
-| ~~Video beeld maken (vertraagde haaibeelden -> zie inspo, flash frames met tekst)~~ | KLAAR  |
-| ~~Poster voor optreden van 2023.05.18 1600~~                                        | KLAAR  |
-| ~~drum kopen~~                                                                      | KLAAR  |
 
 ## setlist (voorlopig)
 apollo  
