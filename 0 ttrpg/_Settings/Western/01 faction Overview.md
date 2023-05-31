@@ -3,5 +3,5 @@ TABLE rows.partypositive AS "Positive Relations", rows.partynegative AS "Negativ
 FROM "0 ttrpg/_Settings/Western"
 WHERE type = "faction"
 SORT file.name asc
-GROUP BY file.link AS Text
+GROUP BY file.link AS Faction
 ```
