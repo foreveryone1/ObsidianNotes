@@ -1,4 +1,4 @@
 %%
 type::organisation
 %%
-Mijnbedrijf van [[Padre Osvaldo]]
+Mijnbedrijf van [[0 ttrpg/_Settings/Western/N-Padre Osvaldo]]
