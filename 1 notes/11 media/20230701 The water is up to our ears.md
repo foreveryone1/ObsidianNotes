@@ -2,6 +2,6 @@ In an oft-quoted commencement speech, David Foster Wallace analogises the invisi
 
 This analogy has been leveraged in defence of capitalist liberal democracy and its values in the face of critiques made against it from within its luxuries. Besides the arguments and counterarguments on the Western material abundance in the face of inequality and resource extraction in the Global South, individualism has been the target of countless critiques, yet it enjoys an unassailable position.
 
-One can point out the erosion of reproductive and trans rights, but these attacks often operate within the liberal individualist framework - the right for a an to deny service based on his or her beliefs, the right of unborn individual to live. The omnipresence of these debates in media and politics reflect the hold of individualism on contemporary thinking.
+One can point out the erosion of reproductive and trans rights, but these attacks often operate within the liberal individualist framework - the right for an individual to deny service based on his or her beliefs, the right of an unborn individual to live, it is a debate on which liberties take primacy, not a dispute on the existence of said liberties. The omnipresence of debates on the rights of the individual, from vaccines, to fifteen minute city furore, in media and politics reflect the hold of individualism on contemporary thinking.
 
-Yet a growing unease with the excesses of individualism can be seen among the young. Social media discourse is inundated with alternatives to the 
+Yet a growing unease with the excesses of individualism can be seen among the young. Social media discourse is inundated with advocacy for alternatives to typical individualistic liberal life, from trad life posts to 
