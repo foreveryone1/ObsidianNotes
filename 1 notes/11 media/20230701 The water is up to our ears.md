@@ -4,11 +4,15 @@ This analogy has been leveraged in defence of capitalist liberal democracy and i
 
 One can point out the erosion of reproductive and trans rights as curtailing of individual liberties, but these attacks operate within the liberal individualist framework - the right for an individual to deny service based on his or her beliefs, the right of an unborn individual to live; it is a debate on which liberties take primacy, not a dispute about the existence of said liberties. The omnipresence of debates in media and politics on the rights of the individual, from vaccines, to fifteen minute city furore, to gun control, reflect the hold of individualism on contemporary thought.
 
-However, we do not take to the water surrounding us as well as the fish in the analogy. A growing unease with the excesses of individualism can be seen among the young. Social media discourse is inundated with alternatives to individualistic liberal life, from posts advocating "trad life" or "anti-work" sentiments, to mockeries of common individualistic archetypes such as grindset influencers and capitalistic girl bosses.
+# If this is water, are we fish?
+
+However, we do not take to the environment surrounding us as well as the fish in the analogy. A growing unease with the excesses of individualism can be seen among the young. Social media discourse is inundated with alternatives to individualistic liberal life, from posts advocating "trad life" or "anti-work" sentiments, to mockeries of common individualistic archetypes such as grindset influencers and capitalistic girl bosses.
 
 Yet these alternatives to capitalist thinking remain highly individualistic solutions. A retreat into rural Arcady or a withdrawal from capitalistic striving are both solutions on an individual scale, merely behavioural adjustments to cope with or to change how one interacts with capitalism.
 
 Why is it that critiques of liberal capitalism still assume the posture of individualism? Though capitalism and individualism both constitute part of the water that envelopes us, the tensions inherent to capitalism - the difference between the haves and have-nots, the injustices of uneven distribution, the stratification of a nominally meritocratic society based on circumstances of birth, are more easily laid bare than the flaws of individualism.
+
+## The agency delusion
 
 At the core of individualism is the belief that the individual has agency. That belief in  absolute agency lends itself to the opinion that the shortcomings of individualism are merely the consequence of flawed individuals. The swathes of adolescents who report having no friends in real life, rising burnout figures, and narcissistic influencers and their followers are not symptomatic of the drawbacks of individualism, but merely the inevitable and necessary drawback of giving individuals the freedom of choice, including the freedom to make the wrong choice.
 
@@ -24,4 +28,6 @@ Plastic waste sorted for [recycling seldom gets recycled](https://www.greenpeace
 
 The complexity of the supply chain allows producers to [adulterate](https://www.washingtonpost.com/business/2019/10/23/chocolate-companies-say-their-cocoa-is-certified-some-farms-use-child-labor-thousands-are-protected-forests/) their certified products with raw materials provided by exploitation and environmental crime. Even in [farmers markets](https://www.cbc.ca/news/business/farmers-markets-lies-marketplace-1.4306231), wholesellers pass off factory farmed produce as locally grown. Good faith actors unwittingly purchase and integrate these products into the supply chain, contributing to the uncertainty surrounding ethical capitalism.
 
-If the contradictions in 
+# Is there no alternative?
+
+If the contradictions in individualism are apparent, why do we persist in promoting and adhering to these values unconditionally? As a nominally non-authoritarian form of government, liberal democracy depends on the voluntary participation of citizens to uphold it. Imparting individualist liberal views through education and media is a part of the soft coercion necessary to uphold th
