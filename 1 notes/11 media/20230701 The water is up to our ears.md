@@ -14,7 +14,7 @@ Why is it that critiques of liberal capitalism still assume the posture of indiv
 
 ## The agency delusion
 
-At the core of individualism is the belief that the individual has agency. That belief in  absolute agency lends itself to the opinion that the shortcomings of individualism are merely the consequence of flawed individuals. The swathes of adolescents who report having no friends in real life, rising burnout figures, and narcissistic influencers and their followers are not symptomatic of the drawbacks of individualism, but merely the inevitable and necessary drawback of giving individuals the freedom of choice, including the freedom to make the wrong choice.
+At the core of individualism is the belief that the individual has agency. That belief in  absolute agency lends itself to the opinion that the shortcomings of individualism are merely the consequence of flawed individuals. The swathes of adolescents who report having [no friends in real life](https://www.aei.org/research-products/report/the-state-of-american-friendship-change-challenges-and-loss/), high burnout figures, and narcissistic influencers and their followers are not symptomatic of the drawbacks of individualism, but merely the inevitable and necessary drawback of giving individuals the freedom of choice, including the freedom to make the wrong choice.
 
 We also are raised to believe that that agency extends its influence far beyond the micro-scope. From a young age, we are inundated with messages of the impact of our individual actions; you can save the planet by recycling, not eating meat, or biking to school, your vote counts, maybe you will invent the Next Big Thing and change the world.
 
@@ -38,4 +38,4 @@ The typical exploitation we are familiar with is allo-exploitation, the exploita
 
 Han Byung-Chul has identified another, more insidious form of exploitation. Auto-exploitation, the exploitation of the self by the self is the exploitation of the 21st century. The individual is the centrepiece of allo-exploitation, and it is his self-imposed duty to maximise and optimise himself. The relationship between exploiter and exploited is a loop, although the extraction of value is performed by another. There is no external coercion behind the optimisation of the worker, he simply views himself as a project and measures his worth through his achievements. A coherent mass of conscious workers has no figure to rebel against; they are their own masters. Although their capitalist boss may have extracted value from them, he never forced them to work that hard or to hone themselves. Liberation is the freedom to "be the best, most productive, hardest working version of yourself".
 
-This system of cultural allo-exploitation is predicated upon the widespread acceptance of the individual as a project. 
+This system of cultural allo-exploitation is predicated upon the widespread acceptance of the individual as a project. Without a strong belief that 
