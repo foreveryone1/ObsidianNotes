@@ -6,9 +6,9 @@ One can point out the erosion of reproductive and trans rights as curtailing of 
 
 # If this is water, are we fish?
 
-However, we do not take to the environment surrounding us as well as the fish in the analogy. A growing unease with the excesses of individualism can be seen among the young. Social media discourse is inundated with alternatives to individualistic liberal life, from posts advocating "trad life" or "anti-work" sentiments, to mockeries of common individualistic archetypes such as grindset influencers and capitalistic girl bosses.
+A growing unease with the excesses of individualism can be seen among the young. Social media discourse is inundated with alternatives to individualistic liberal life, from posts advocating "trad life" or "anti-work" sentiments, to mockeries of common archetypes such as grindset influencers and capitalistic girl bosses.
 
-Yet these alternatives to capitalist thinking remain highly individualistic solutions. A retreat into rural Arcady or a withdrawal from capitalistic striving are both solutions on an individual scale, merely behavioural adjustments to cope with or to change how one interacts with capitalism.
+Yet these alternatives to capitalist thinking remain highly individualistic solutions. A retreat into rural Arcady or a withdrawal from capitalist striving are both solutions on an individual scale, merely behavioural adjustments to cope with or to change how one interacts with capitalism.
 
 Why is it that critiques of liberal capitalism still assume the posture of individualism? Though capitalism and individualism both constitute part of the water that envelopes us, the tensions inherent to capitalism - the difference between the haves and have-nots, the injustices of uneven distribution, the stratification of a nominally meritocratic society based on circumstances of birth, are more easily laid bare than the flaws of individualism.
 
@@ -30,4 +30,12 @@ The complexity of the supply chain allows producers to [adulterate](https://www.
 
 # Is there no alternative?
 
-If the contradictions in individualism are apparent, why do we persist in promoting and adhering to these values unconditionally? As a nominally non-authoritarian form of government, liberal democracy depends on the voluntary participation of citizens to uphold it. Imparting individualist liberal views through education and media is a part of the soft coercion necessary to uphold th
+If the contradictions in individualism are apparent, why do we persist in promoting and adhering to these values unconditionally? As a nominally non-authoritarian form of government, liberal democracy depends on the voluntary participation of citizens to uphold it. Imparting individualist liberal views through education and media is a part of the soft coercion necessary to uphold government. However, does a more nuanced view on the breadth and depth of individualism necessarily mean a rejection of liberal democracy?
+
+## Systems of exploitation
+
+The typical exploitation we are familiar with is allo-exploitation, the exploitation of the worker by another person, higher up in the hierarchy. Think of the archetypal image of the robber baron and the factory worker. The relationship between exploiter and exploited flows in the same direction as value is extracted. Because the antagonism is clear between the two parties a coherent mass of conscious workers can form in opposition to the exploiter. Liberation entails freedom from the hierarchical exploiter.
+
+Han Byung-Chul has identified another, more insidious form of exploitation. Auto-exploitation, the exploitation of the self by the self is the exploitation of the 21st century. The individual is the centrepiece of allo-exploitation, and it is his self-imposed duty to maximise and optimise himself. The relationship between exploiter and exploited is a loop, although the extraction of value is performed by another. There is no external coercion behind the optimisation of the worker, he simply views himself as a project and measures his worth through his achievements. A coherent mass of conscious workers has no figure to rebel against; they are their own masters. Although their capitalist boss may have extracted value from them, he never forced them to work that hard or to hone themselves. Liberation is the freedom to "be the best, most productive, hardest working version of yourself".
+
+This system of cultural allo-exploitation is predicated upon the widespread acceptance of the individual as a project. 
