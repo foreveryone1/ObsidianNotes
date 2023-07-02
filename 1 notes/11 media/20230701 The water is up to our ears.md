@@ -12,4 +12,4 @@ Why is it that critiques of liberal capitalism still assume the posture of indiv
 
 At the core of individualism is the belief that the individual has agency. That belief in undeniable absolute agency lends itself to the opinion that the shortcomings of individualism are merely the consequence of flawed individuals. The swathes of adolescents who report having no friends in real life, rising burnout figures, and narcissistic influencers and their followers are not symptomatic of the drawbacks of individualism, but merely the necessary and inevitable drawback of giving individuals the freedom to make the wrong choice.
 
-We also believe that that agency extends to the ability to influence things 
+We also are raised to believe that that agency extends its influence far beyond the micro-scope. From a young age, we are inundated
