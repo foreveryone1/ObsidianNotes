@@ -42,3 +42,4 @@ This system of cultural auto-exploitation is predicated upon the widespread acce
 
 ## No salvation waiting in the wings
 
+Right wing commentators level allegations of collectivism at identity politics, but reality differs. Contemporary identity politics is an individualistic political current, which takes societal issues and analyses them at the individual level. 
