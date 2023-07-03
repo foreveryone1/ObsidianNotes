@@ -42,4 +42,8 @@ This system of cultural auto-exploitation is predicated upon the widespread acce
 
 ## No salvation waiting in the wings
 
-Right wing commentators level allegations of collectivism at identity politics, but reality differs. Contemporary identity politics is an individualistic political current, which takes societal issues and analyses them at the individual level. 
+The most popular forms of left and right wing politics embrace individualism. Political debates are not on whether an individual liberty should be recognised, because liberties are considered to be inherent and inviolable, debates are centred around which conflicting liberties should take precedence, or the definition of the fuzzy edges of where liberty ends.
+
+Right wing commentators level allegations of collectivism at identity politics, but reality differs. Contemporary identity politics is an individualistic political current, which takes societal issues and analyses them at the individual level. Systemic issues such as income inequality, classism, and racism are viewed by how they compound and impact an individual. Attention is given to how to alleviate these issues on an individual level, with comparatively less attention given to societal solutions. 
+
+
