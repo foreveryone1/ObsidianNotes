@@ -46,4 +46,4 @@ The most popular forms of left and right wing politics embrace individualism. Po
 
 Right wing commentators level allegations of collectivism at identity politics, but reality differs. Contemporary identity politics is an individualistic political current, which takes societal issues and analyses them at the individual level. Systemic issues such as income inequality, classism, and racism are viewed by how they compound and impact an individual, with comparatively less attention given to societal solutions. In the case of the domestic labour gender gap, for example, contemporary infographic progressivism would appeal to men at an individual level to take on more work in the household, instead of trying to identify and address underlying structural causes.
 
-Conservatism's pivot away from a paternalistic  
+Conservatism's pivot away from paternalism in the anglosphere started in earnest with the fusionism promoted by the National Review led by William F. Buckley Jr., but truly reached its zenith under the parallel governments of Thatcher and Reagan. As the 
