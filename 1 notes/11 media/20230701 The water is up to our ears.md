@@ -48,7 +48,7 @@ Right wing commentators level allegations of collectivism at identity politics a
 
 Conservatism's pivot away from paternalism in the anglosphere started in earnest with the fusionism promoted by the National Review led by William F. Buckley Jr., but truly reached its apotheosis under the parallel governments of Thatcher and Reagan. As the founder of the National Review, William Buckley was saddled with the unenviable task of reconciling the typically traditionalist Christian flank of the right and the economically liberal flank of the right. He and his collaborator, Frank Meyer, argued that a virtuous society must be a free society, because only acts chosen freely by an individual can have virtue. With that framework, the ideological path for Barry Goldwater and later Reagan was paved. Aided by the void left by the sabotage and fall of the Third World movement and the advent IMF and World Bank structural adjustment programs, Reagan and Thatcher would oversee the spread of free market fundamentalism and its ideological prerequisite, individualism, to Latin-America, Asia, and Africa.
 
-
+There is no solace to be found in the far left either. 
 
 ## For lack of a better answer
 
