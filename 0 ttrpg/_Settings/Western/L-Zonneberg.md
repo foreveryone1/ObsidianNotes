@@ -11,4 +11,4 @@ Sun clearly sets into a valley
 - Leaping from bird's nest to bird's nest
 - along the animal dens 
 
-Leads to [[0 ttrpg/_Settings/Western/L-Dinosaur Valley]]
+Leads to [[0 ttrpg/_Settings/Western/L-Dinovallei]]
