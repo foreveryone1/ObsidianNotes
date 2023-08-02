@@ -54,7 +54,7 @@ Conservatism's pivot away from paternalism in the anglosphere started in earnest
 
 There is no solace to be found in the far left either. While anarchist(-adjacent) leftism isn't inherently individualistic, many currents of anarchism operate under the notion that (individual) freedoms are an abstract inherent to being human, instead of a contingent reality granted and protected by social organisation. Among statist groups the number of young leftists who have not internalised individualistic identity politics is also limited. Questions of individual liberties are like vortices that distort leftist movements, granting themselves a central position.
 
-Despite the pervasiveness of the Conservative-Libertarian marriage, conservativism does offer some currents opposed to individualism. 
+	The most obvious right-wing faction that doesn't embrace individualism is of course fascism. Fascism may glorify the capacity of an individual of the chosen ethnicity (e.g. [_Der deutsche Student kämpft für Führer und Volk_](https://de.wikipedia.org/wiki/Datei:Der_Deutsche_Student.jpg)), but it is not preoccupied with individual liberty. The competence of the individual is wholly in service of the charmismatic leader and the militarised state. The individual has no agency
 
 ## For lack of a better answer
 
