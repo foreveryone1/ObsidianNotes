@@ -23,6 +23,24 @@ vivisection
 shaheed  
 IMUK  
 
+# june
+
+I guess it's best to leave this burning ache unfed  
+but the wound's too fresh not pick at the edge  
+
+a pitiful yearning  
+and I'm bereft of you  
+
+we never set foot past the mountain  
+lest your winter snow thawed  
+
+deaf ears fell to swallow song
+but it wasn't long till the last frost  
+
+a mirage on black tarmac  
+your face forms in evaporation haze  
+
+
 
 # shark chant
 I am a shark  

@@ -69,8 +69,8 @@ Herein lies a clear difference between fascism and contemporary right wing pseud
 
 ## For lack of a better answer
 
-[Parenti observed that](https://books.google.be/books?redir_esc=y&hl=nl&id=WSsGEsBUsVcC&q=flow+of+events#v=snippet&q=flow%20of%20events&f=false) the mainstream media portrays the news as 'a scatter of particular developments and personalities unrelated to a larger set of social relations—propelled by happenstance, circumstance, confused intentions, and individual ambition'. What water does this stance hold in the face of systemic analyses and the holes poked in individualist thought?
+[Parenti observed that](https://books.google.be/books?redir_esc=y&hl=nl&id=WSsGEsBUsVcC&q=flow+of+events#v=snippet&q=flow%20of%20events&f=false) the mainstream media portrays the news as 'a flow of events, a scatter of particular developments and personalities unrelated to a larger set of social relations—propelled by happenstance, circumstance, confused intentions, and individual ambition'. What water does this stance hold in the face of systemic analyses and the holes poked in individualist thought?
 
-
+This reading of history as a scattershot flow offers an escape from the dissonance between our internalised individualism and the reality of deeply interconnected systems. Instead of unravelling the individualistic conditioning, we brush past media that criticises it and engage with media that reinforces individualist beliefs.
 
 The only answers I have are individualistic; I am as deeply immersed in the water as anyone else is. 
