@@ -28,18 +28,36 @@ IMUK
 I guess it's best to leave this burning ache unfed  
 but the wound's too fresh not pick at the edge  
 
+deaf ears turned to swallow song
+but it wasn't long till the last frost  
+
 a pitiful yearning  
-and I'm bereft of you  
+I'm bereft of you  
 
 we never set foot past the mountain  
 lest your winter snow thawed  
 
-deaf ears fell to swallow song
-but it wasn't long till the last frost  
-
 a mirage on black tarmac  
 your face forms in evaporation haze  
 
+June is undeniable  
+June is undeniable  
+June is undeniable  
+June is undeniable  
+
+I thought it best to leave this burning ache unfed  
+but unless I pick at the edge  
+this regret I feel
+haunts me to the death
+
+count condensation kisses  
+before the light of dawn  
+
+walk familiar paths
+the spring sun melts
+
+ice cracks underfoot
+you slip away
 
 
 # shark chant
