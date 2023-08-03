@@ -43,8 +43,8 @@ If the contradictions in individualism are apparent, why do we persist in promot
 
 The typical exploitation we are familiar with is allo-exploitation, the exploitation of the worker by another person, higher up in the hierarchy. Think of the archetypal image of the robber baron and the factory worker. The relationship between exploiter and exploited flows in the same direction as surplus value is extracted. Because the antagonism is clear between the two parties a coherent mass of conscious workers can form in opposition to the exploiter. Liberation entails freedom from the hierarchical exploiter.
 
-![#center](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carnegie_Hall_-_Full_%2848155558466%29.jpg/1044px-Carnegie_Hall_-_Full_%2848155558466%29.jpg)
-_Carnegie Hall is one of numerous institutions funded largely by an industrialist namesake. The period from the industrial revolution to 1955 was characterised by intense disputes between labour and capitalists._
+![#center](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Furman_Hall_Postcard.png/1024px-Furman_Hall_Postcard.png)
+_Vanderbilt University is one of numerous institutions founded and funded largely by an industrialist namesake. The period from the industrial revolution to 1955 was characterised by intense disputes between organised labour and capitalists. There was a clear antagonism between labour and the highly visible industrialists, who tried to improve their public perception by funding large projects and public charity, supposedly for the benefit of the common man, while simultaneously backing the brutal repression of collective action._
 
 Han Byung-Chul has identified another, more insidious form of exploitation. Auto-exploitation, the exploitation of the self by the self is the exploitation of the 21st century. The individual is the centrepiece of auto-exploitation, and it is his self-imposed duty to maximise and optimise himself. The relationship between exploiter and exploited is a loop, but not a closed one, as surplus value is still extracted by the capitalist. There is no external coercion behind the optimisation of the worker, he simply views himself as a project and measures his worth through his achievements. The mass of conscious workers has no figure to rebel against; they are their own slave-drivers and thus they lose coherence without a common enemy to rally against. Although their capitalist boss may have extracted value from them, he never forced them to work that hard or to hone themselves. Liberation is the freedom to be the best, most productive, hardest working version of yourself.
 
@@ -68,5 +68,9 @@ The most obvious right wing faction that doesn't embrace individualism is of cou
 Herein lies a clear difference between fascism and contemporary right wing pseudofascist tendencies. While both embrace a racialised perpetual struggle headed by a cult of personality, right wing pseudofascism is still preoccupied with liberties, as evidenced by the central role of the vaccine and abortion debate in Q circles.
 
 ## For lack of a better answer
+
+[Parenti observed that](https://books.google.be/books?redir_esc=y&hl=nl&id=WSsGEsBUsVcC&q=flow+of+events#v=snippet&q=flow%20of%20events&f=false) the mainstream media portrays the news as 'a scatter of particular developments and personalities unrelated to a larger set of social relations—propelled by happenstance, circumstance, confused intentions, and individual ambition'. What water does this stance hold in the face of systemic analyses and the holes poked in individualist thought?
+
+
 
 The only answers I have are individualistic; I am as deeply immersed in the water as anyone else is. 
