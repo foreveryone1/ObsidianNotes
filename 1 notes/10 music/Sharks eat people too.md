@@ -32,7 +32,7 @@ deaf ears turned to swallow song
 but it wasn't long till the last frost  
 
 a pitiful yearning  
-I'm bereft of you  
+and I'm bereft of you  
 
 we never set foot past the mountaintop  
 lest your winter snow thawed  
