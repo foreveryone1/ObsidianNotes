@@ -23,7 +23,7 @@ vivisection
 shaheed  
 IMUK  
 
-# Frostbitten kisses
+# Frostbite
 
 I guess it's best to leave this burning ache unfed  
 but the wound's too fresh not pick at the edge  
