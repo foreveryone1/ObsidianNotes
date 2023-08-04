@@ -40,25 +40,25 @@ lest your winter snow thawed
 a mirage on black tarmac  
 your face forms in evaporation haze  
 
-June is undeniable  
-June is undeniable  
-June is undeniable  
-June is undeniable  
+Snowflakes fall in summer blaze  
+Snowflakes fall in summer heat  
 
 I thought it best to leave this burning ache unfed  
 but unless I pick at the edge  
-this regret I feel
+this regret I feel  
 haunts me to the death
 
 count condensation kisses  
 before the light of dawn  
 
-walk familiar paths
+walk familiar paths  
 the spring sun melts
 
-ice cracks underfoot
+ice cracks underfoot  
 you slip away
 
+Snowflakes fall in summer heat  
+Snowflakes fall in summer heat  
 
 # shark chant
 I am a shark  
