@@ -23,25 +23,25 @@ vivisection
 shaheed  
 IMUK  
 
-# june
+# Frostbitten kisses
 
 I guess it's best to leave this burning ache unfed  
 but the wound's too fresh not pick at the edge  
 
-deaf ears turned to swallow song
+deaf ears turned to swallow song  
 but it wasn't long till the last frost  
 
 a pitiful yearning  
 I'm bereft of you  
 
-we never set foot past the mountain  
+we never set foot past the mountaintop  
 lest your winter snow thawed  
 
 a mirage on black tarmac  
-your face forms in evaporation haze  
+find your face in evaporation haze  
 
-Snowflakes fall in summer blaze  
-Snowflakes fall in summer heat  
+Snowblind in July  
+Snowblind in July  
 
 I thought it best to leave this burning ache unfed  
 but unless I pick at the edge  
@@ -57,8 +57,8 @@ the spring sun melts
 ice cracks underfoot  
 you slip away
 
-Snowflakes fall in summer heat  
-Snowflakes fall in summer heat  
+Snowblind in July  
+Snowblind in July  
 
 # shark chant
 I am a shark  
