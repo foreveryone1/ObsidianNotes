@@ -1,0 +1,1 @@
+![[obsidian.md/Attachments/Pasted image 20230806140928.png]] 

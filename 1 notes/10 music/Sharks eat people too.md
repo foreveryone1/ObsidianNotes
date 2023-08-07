@@ -29,7 +29,7 @@ I guess it's best to leave this burning ache unfed
 but the wound's too fresh not pick at the edge  
 
 deaf ears turned to swallow song  
-but it wasn't long till the last frost  
+but we couldn't hide from the last frost  
 
 a pitiful yearning  
 and I'm bereft of you  
@@ -39,6 +39,11 @@ lest your winter snow thawed
 
 a mirage on black tarmac  
 find your face in evaporation haze  
+
+when it's cold  
+come find me  
+beneath the pines  
+where we first met  
 
 Snowblind in July  
 Snowblind in July  
@@ -56,6 +61,11 @@ the spring sun melts
 
 ice cracks underfoot  
 you slip away
+
+when it's cold  
+come find me  
+beneath the pines  
+where we first met  
 
 Snowblind in July  
 Snowblind in July  
