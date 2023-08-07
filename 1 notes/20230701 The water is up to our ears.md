@@ -34,7 +34,7 @@ These narratives of the far-reaching potential of actions are deeply internalise
 
 If life is a river, its course may not be set, but the rains that feed it are beyond our control. Educational attainment remains associated with [socio-economic status](https://www.nature.com/articles/s41539-022-00120-3), and maternal stress during pregnancy predicts [ADHD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2186370/), [depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8641663/), [addiction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195272/), and other maladaptive behaviours. Individualist meritocracy falls short when it does not recognise factors of heritability and circumstance, nor society's role in compensating for these inequalities by brushing past them as individual shortcomings.
 
-Though every aspect of society is a gestalt, our individual contribution and thus our agency is diluted far more than our nominal share. Systems are so complex and opaque that a clear relationship between action and outcome is beyond our understanding. Not to mention the deception, whether conscious or inadvertent, involved in activist capitalism. 
+Though every aspect of society is a gestalt, our individual contribution and thus our agency is diluted far more than our nominal share. Systems are so difficult to fathom that a clear relationship between action and outcome is beyond our understanding. Not to mention the deception, whether conscious or inadvertent, involved in activist capitalism. 
 
 ![#center](https://i.imgur.com/a667IIx.png)
 _Corporations advocate for consumers to throw away and recycle all of their waste, conveniently deflecting from questioning why they produce that much waste in the first place._
