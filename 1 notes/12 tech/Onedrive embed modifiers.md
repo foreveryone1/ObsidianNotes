@@ -1,0 +1,1 @@
+`&wdAllowInteractivity=False&AllowTyping=True&Item=Display&wdHideGridlines=True&wdInConfigurator=True`
