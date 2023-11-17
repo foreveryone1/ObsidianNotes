@@ -29,13 +29,13 @@ I guess it's best to leave this burning ache unfed
 but the wound's too fresh not pick at the edge  
 
 deaf ears turned to swallow song  
-but we couldn't hide from the last frost  
-
-a pitiful yearning  
-and I'm bereft of you  
+but it wasn't long till the last frost  
 
 we never set foot past the mountaintop  
 lest your winter snow thawed  
+
+a pitiful yearning  
+and I'm bereft of you  
 
 a mirage on black tarmac  
 find your face in evaporation haze  
@@ -45,22 +45,17 @@ come find me
 beneath the pines  
 where we first met  
 
-Snowblind in July  
-Snowblind in July  
-
-I thought it best to leave this burning ache unfed  
-but unless I pick at the edge  
-this regret I feel  
-haunts me to the death
-
 count condensation kisses  
 before the light of dawn  
 
-walk familiar paths  
-the spring sun melts
+familiar paths, the spring sun melts  
 
 ice cracks underfoot  
-you slip away
+you slip away  
+
+I thought it best to leave this burning ache unfed  
+but the thread's come undone that keeps me from the edge  
+can't escape the regret that haunts me to the death  
 
 when it's cold  
 come find me  
