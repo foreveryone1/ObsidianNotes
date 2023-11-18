@@ -41,7 +41,7 @@ a mirage on black tarmac
 find your face in evaporation haze  
 
 when it's cold  
-come find me  
+find me  
 beneath the pines  
 where we first met  
 
@@ -58,7 +58,7 @@ but the thread's come undone that keeps me from the edge
 can't escape the regret that haunts me to the death  
 
 when it's cold  
-come find me  
+find me  
 beneath the pines  
 where we first met  
 
