@@ -80,7 +80,7 @@ you are a feeding frenzy
 
 send me off
 to a barren desert  
-to deny my hunger  
+deny my hunger  
 deny my hunger 
 
 I'll build this tomb  
