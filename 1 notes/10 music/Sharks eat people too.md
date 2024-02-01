@@ -77,45 +77,55 @@ you are a feeding frenzy
 
 # Immurement
 
+
+send me off
+to a barren desert  
+to deny my hunger  
+deny my hunger 
+
 I'll build this tomb  
 brick by brick  
 keep the filth  
 out my sinner's heart  
 
-send me to starve
-in a barren desert  
-to deny my hunger  
-deny my hunger  
-
-trade solitude for a kingdom  
-these windows don't let in much light  
-I succeed to make them suffer  
-what I give is never enough for you  
-
-When you tear down my walls
-When you tear down my walls
-don't you **see**  
-**I'm** terrified  
-
-It's never enough  
-It's never enough  
-Wash my hands raw  
-But the sin remains  
+you. make me. sick to my. stomach.  
+you. make me. sick to my. stomach.  
+you. make me. sick to my. stomach.  
 
 throw me in your current deep  
 below the surface cutting water from water  
 vortex sweeps me off my feet
 isaac smiled when you took him to slaughter
 
+(in the dead of night)
+
+(interlude)
+
+you. make me. sick to my. stomach.  
+you. make me. sick to my. stomach.  
+you. make me. sick to my. stomach. 
+
 the colour seeps  
 from a bloated corpse  
 bleached bones surface  
 at low tide  
 
+I succeed to make them suffer  
+what I give is never enough      
+
 RELIVE. REGRET. REVERSE. DESTROY.  
 
+~~trade solitude for a kingdom~~  
+~~these windows don't let in much light~~ 
+~~When you tear down my walls~~
+~~When you tear down my walls~~
+~~don't you **see**~~  
+~~**I'm** terrified~~  
 
-
+~~It's never enough~~  
+~~It's never enough~~  
+~~Wash my hands raw~~  
+~~But the sin remains~~ 
 
 # Jakarta Syndrome
 Naar de Heat monoloog van Don Delillo (white noise)
