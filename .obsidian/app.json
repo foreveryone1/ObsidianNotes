@@ -25,5 +25,6 @@
   "spellcheck": true,
   "livePreview": false,
   "showInlineTitle": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "propertiesInDocument": "visible"
 }
