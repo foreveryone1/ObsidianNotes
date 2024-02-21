@@ -92,8 +92,8 @@ you. make me. sick to my. stomach.
 you. make me. sick to my. stomach.  
 you. make me. sick to my. stomach.  
 
-throw me in your current deep  
-below the surface cutting water from water  
+I succeed to make them suffer  
+what I give is never enough for you      
 vortex sweeps me off my feet
 isaac smiled when you took him to slaughter
 
@@ -109,9 +109,6 @@ the colour seeps
 from a bloated corpse  
 bleached bones surface  
 at low tide  
-
-I succeed to make them suffer  
-what I give is never enough      
 
 RELIVE. REGRET. REVERSE. DESTROY.  
 
