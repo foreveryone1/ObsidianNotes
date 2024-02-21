@@ -1,0 +1,1 @@
+The spider creep and crawl and try to consume the travellers on the [[King's Road]]

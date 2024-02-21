@@ -1,0 +1,1 @@
+The cursed wood is inhabited by [[the dark dryads]]
