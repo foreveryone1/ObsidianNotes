@@ -105,10 +105,10 @@ you. make me. sick to my. stomach.
 you. make me. sick to my. stomach.  
 you. make me. sick to my. stomach. 
 
-the colour seeps  
-from a bloated corpse  
-bleached bones surface  
-at low tide  
+throw me in your current deep  
+below the surface cutting water from water  
+the colour seeps from a bloated corpse  
+bleached bones surface at low tide  
 
 RELIVE. REGRET. REVERSE. DESTROY.  
 
