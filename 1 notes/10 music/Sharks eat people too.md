@@ -181,8 +181,8 @@ Naar het verhaal van [Aitzaz Hasan](https://en.wikipedia.org/wiki/Aitzaz_Hasan)
 
 I am a faithful of god's chosen few  
 this is the harvest of a hundred fruit  
-in hollow hills  
 we seek refuge  
+in hollow hills  
 from foreign fire  
 begin anew  
 
