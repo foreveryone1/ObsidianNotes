@@ -1,0 +1,42 @@
+<panel save_session_state="true" background_colour="bg lighter">
+
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<!-- Stuff to show when there is no form -->
+	<container id="nofm" hidden="true" navigation_container="true" default_focus="true">
+
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" />
+
+		<!--explanatory text for no form being available-->
+		<widget class="text" id="nost" spec="text" size="large" alignment="centre" hidden="true">
+			<translation id="text" translation_id="342459" type="use" value="Player form information is currently unavailable for this player. Add him to a shortlist to track his form.[COMMENT: Player form; Text displayed when form data is not available. Instructs the user on how to generate the data]" />
+		</widget>
+		<widget class="text" id="nodt" spec="text" size="large" alignment="centre" hidden="true">
+			<translation id="text" translation_id="342781" type="use" value="This player's form is being tracked by the backroom team but no data is available yet.[COMMENT: Player form; Text displayed when form data is not available but the player is on a shortlist and data will be available in the future]" />
+		</widget>
+		<widget class="text" id="nobt" spec="text" size="large" alignment="centre" hidden="true">
+			<translation id="text" translation_id="382400" type="use" value="This player's form is being tracked but no data is available yet.[COMMENT: Player form; Text displayed when form data is not available but the player is on a shortlist and data will be available in the future]" />
+		</widget>
+	</container>
+
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+
+		<widget class="player_form_summary_panel" id="pfSm" file="player/mustermann/overview/performance form graph" default_height="175"/>
+		
+		<container default_height="-1"/>
+	</container>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_height="-1"/>
+		
+		<container class="contrast_box" red_replacement="bg int" height="235">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+			
+			<container class="player_match_report_small_panel" file="player/mustermann/overview/performance form matches" id="pmrS">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</container>
+			
+		</container>
+	</container>
+</panel>

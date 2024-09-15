@@ -1,0 +1,234 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<!-- IMPORTANT Need to keep this synced up with number of panels or we won't fill them all, we use this to minimise the amount of data the panel needs to request -->
+	<integer id="number_of_stories_to_request" value="75"/>
+	<boolean id="show_daily_news_request" value="true"/>
+	<boolean id="show_related_news" value="true"/>
+	<boolean id="save_session_state" value="true"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+		
+		<container height="-1" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend"/>
+			
+			<container class="scrolling_box" id="ScrB" navigation_container="true">
+
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+				
+				<container draw_horizontal_dividers="false">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="8"/>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="0"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="1"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="2"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<widget class="competition_transfer_rumours_panel" file="competition/mustermann/headlines/transfer rumours">
+							<record id="object_property" get_property="objt" set_property="objt"/>
+						</widget>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="3"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="4"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="5"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+						
+						<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+						
+							<widget class="picture" file="mustermann/news/shortlist" image_alignment="centre_x,centre_y" width="312"/>
+							
+							<container default_width="-1">
+								<attachment_group class="vertical_arrange_autosize" vertical_gap="4"/>
+								
+								<widget class="text" font="title" colour="text" size="xlarge" alignment="left" auto_size="vertical" multiline="true">
+									<translation id="text" type="use" value="Meet the Trailblazers"/>
+								</widget>
+								
+								<widget class="text" font="text" colour="text" alignment="left" auto_size="vertical" multiline="true">
+									<translation id="text" type="use" value="ARTICLE: The FFM compiles a comprehensive list of the women making a mark in the world of football."/>
+								</widget>
+								
+							</container>
+							
+						</container>
+							
+						<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
+								
+						<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
+							<record id="click_event" event_id="OURL" url="https://theffm.co.uk/football-manager-female-staff-shortlist/" />
+							<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
+						</widget>
+																						
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="7"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="8"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="9"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="10"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="11"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+						
+						<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+						
+							<widget class="picture" file="mustermann/news/klopp" image_alignment="centre_x,centre_y" width="312"/>
+							
+							<container default_width="-1">
+								<attachment_group class="vertical_arrange_autosize" vertical_gap="4"/>
+								
+								<widget class="text" font="title" colour="text" size="xlarge" alignment="left" auto_size="vertical" multiline="true">
+									<translation id="text" type="use" value="Heavy Metal Football"/>
+								</widget>
+								
+								<widget class="text" font="text" colour="text" alignment="left" auto_size="vertical" multiline="true">
+									<translation id="text" type="use" value="VIDEO: If you can't beat 'em, join 'em.  Delicious Tube explores the intracacies of Klopp's gegenpress."/>
+								</widget>
+								
+							</container>
+							
+						</container>
+							
+						<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
+								
+						<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
+							<record id="click_event" event_id="OURL" url="https://www.youtube.com/watch?v=xaJ0rfHa3Lg" />
+							<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
+						</widget>
+																						
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="12"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="13"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="14"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="15"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="16"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="17"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="18"/>
+											
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" transparency="0.8" height="205">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+						<container class="competition_news_item_panel" file="competition/mustermann/headlines/news item large" index="19"/>
+											
+					</container>
+					
+				</container>
+			</container>
+		</container>
+	
+	</container>
+	
+</panel>

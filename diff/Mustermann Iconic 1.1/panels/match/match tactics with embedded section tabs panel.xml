@@ -1,0 +1,37 @@
+﻿<panel>
+	<list id="properties_to_forward">
+		<record get_property="mtpd" set_property="prop" target="mtpa"/>
+	</list>
+
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" horizontal_inset="0"/>
+
+	<container height="8"/>
+
+	<container class="main_transparent_box" appearance="boxes/main/transparent/square/no margin/paper">
+
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" horizontal_inset="8" vertical_offset="8"/>
+
+		<container height="30" navigation_container="true">
+			<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend"/>
+			
+			<container class="sections_menu_strip" id="seST">
+				<string id="remove_if" value="is_fmt" />
+				</container>
+
+			<container class="sections_tab_strip" id="seST" >
+				<global id="top_level_tab_focus" name="ui.is_fmt_controller_skin"/>
+				<string id="create_if" value="is_fmt" />
+			</container>
+
+			<widget class="match_tactics_toggle_button" id="togg" />
+
+		</container>
+
+		<container id="mtpa" >
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		</container>
+
+	</container>
+	
+</panel>

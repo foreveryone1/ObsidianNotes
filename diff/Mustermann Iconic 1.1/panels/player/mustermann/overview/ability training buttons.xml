@@ -1,0 +1,26 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+		
+	<container width="200">
+		<attachment_group class="vertical_arrange" vertical_layout="22,30,22,30,22,30" horizontal_alignment="horizontal" vertical_gap="0" horizontal_inset="0" vertical_inset="0" />
+		
+		<widget class="label" colour="title" alignment="left" auto_size="vertical" font="title">
+			<translation id="text" translation_id="363709" type="use" value="Position/Role/Duty[COMMENT: FR 8989 - Player position, role and duty]" />
+		</widget>
+
+		<widget class="individual_position_training_popup" show_table_legend="true" fixed="false" appearance="buttons/standard/normal/button" id="itpu" alignment="left,centre_y" auto_size="vertical" />
+		
+		<widget class="label" colour="title" alignment="left" auto_size="vertical" font="title">
+			<translation id="text" translation_id="394317" type="use" value="Additional Focus[COMMENT - individual training popup menu; specific focus training]" />
+		</widget>
+
+		<widget class="individual_training_popup" show_table_legend="true" fixed="false" appearance="buttons/standard/normal/button" id="itat" alignment="left,centre_y" auto_size="vertical" />
+
+		<widget class="label" colour="title" alignment="left" auto_size="vertical" font="title">
+			<translation id="text" translation_id="505830" type="use" value="Weaker Foot Training[COMMENT: AREA: Backroom advice; SUB-AREA: Training suggestion; FR-BN: 27129; TONE: Formal; CHARLIMIT: None; REF-ID: ; NOTE: ]" />
+		</widget>
+
+		<widget class="button" show_table_legend="true" fixed="false" appearance="buttons/standard/normal/button" id="swft" alignment="left,centre_y" auto_size="vertical" />
+
+	</container>
+</panel>

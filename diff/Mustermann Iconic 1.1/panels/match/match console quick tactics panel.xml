@@ -1,0 +1,204 @@
+﻿<panel>
+	<attachment_group class="vertical_arrange_autosize" vertical_gap="0" />
+
+	<flags id="miBI" value="icons/16px/show top bar" />
+	<!--icon to expand -->
+	<flags id="maBI" value="icons/16px/show bottom bar" />
+	<!--icon to expand -->
+
+	<!--formation-->
+	<container>
+		<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="left,extend" horizontal_gap="0"/>
+
+		<container navigation_container="true">
+			<attachment_group class="horizontal_arrange_autosize_all" horizontal_gap="0" />
+
+			<!-- Hot seat switcher -->
+			<widget id="TeSe" class="match_team_selector_panel" width="60" height="30">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+			
+			<container id="advc" navigation_container="true" height="30" width="70">
+				<attachment_group class="vertical_arrange" vertical_alignment="middle" horizontal_inset="0" />
+
+				<container height="30">
+					<attachment_group class="horizontal_arrange" horizontal_alignment="middle" horizontal_gap="0"/>
+					
+					<container class="inner_box" appearance="boxes/contrast/no margin/top middle/paper" red_replacement="bg" height="30" width="35">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2"/>
+
+						<!--edit pending changes button-->
+						<widget class="icon_button" id="ediP" event_id="eptt" icon="icons/16px/edit" click_event="EsFT" alignment="centre" appearance="buttons/custom/over state only/button">
+						</widget>
+					</container>
+					
+					<container class="inner_box" appearance="boxes/contrast/no margin/top middle/paper" red_replacement="bg" height="30" width="35">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2"/>
+
+						<!--cancel pending changes button-->
+						<widget class="icon_button" id="canP" event_id="cptt" icon="icons/16px/clear" alignment="centre" appearance="buttons/custom/over state only/button">
+						</widget>
+					</container>
+
+				</container>
+			</container>			
+			
+			<container class="inner_box" appearance="boxes/contrast/no margin/top middle/paper" red_replacement="bg" height="30" width="35">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2" />
+
+                <!--keep this id for the match tutorial-->
+				<widget class="menu_strip_popup_button" id="form" icon="icons/16px/formation" secondary_icon_enabled="false" popup_alignment="left,top" appearance="buttons/custom/over state only/button" font="transparent" colour="transparent" size="0" auto_size="vertical" auto_size_maximum_width="250" alignment="centre">
+					<record id="modal_popup_properties" dcep="true" />
+					<record id="widget_properties">
+						<integer id="width" value="380" />
+						<flags id="auto_size" value="vertical" />
+						<flags id="alignment" value="top" />
+						<symbol id="appearance" value="boxes/popup/standard/titled/paper" />
+						<symbol id="default_widget_type" value="hint_text_button" />
+						<symbol id="submenu_type" value="subtle_popup_button" />
+						<symbol id="separator_type" value="picture" />
+						<record id="default_widget_properties" />
+						<record id="submenu_properties" fixed="true">
+							<event id="click_notification_event" event_id="DMCN" item="NULL" />
+							<event id="menu_layout_notification_event" event_id="MLNO" />
+						</record>
+						<record id="separator_properties" file="dividers/standard/vertical/line" auto_size="vertical" />
+					</record>
+					<string id="mpmF" value="generic/modal popup panel match" />
+
+				</widget>
+
+			</container>
+			
+			<container class="inner_box" appearance="boxes/contrast/no margin/top middle/paper" red_replacement="bg" height="30" width="35">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2"/>
+
+				 <!--keep this id for the match tutorial-->
+				<widget class="icon_button" id="TaSu" icon="icons/16px/tactics" appearance="buttons/custom/over state only/button" click_event="EsFT" controller_button="start_button" default_focus="true" font="transparent" colour="transparent" size="0" auto_size_maximum_width="160"/>
+
+			</container>
+			
+			<container class="inner_box" appearance="boxes/contrast/no margin/top middle/paper" red_replacement="bg" height="30" width="35">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2" />
+
+				<widget class="mentality_table_popup_button" id="ment" icon="icons/16px/mentality" select_event="SeMe" opened_event="mnPI" alignment="centre" icon_alignment="centre" secondary_icon_enabled="false" appearance="buttons/custom/over state only/button" default_focus="true" font="transparent" colour="transparent" size="0">
+					<translation id="hint" translation_id="348297" type="use" value="Select your match mentality[COMMENT: team instructions: match mentality hint]" />
+				</widget>
+
+			</container>
+			
+			<container class="inner_box" appearance="boxes/contrast/no margin/top middle/paper" red_replacement="bg" height="30" width="35">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2" />
+
+				<!--team instructions-->
+				<widget class="team_instructions_panel" id="ShIP" file="match/mustermann/match console/team instructions button" icon="icons/16px/squad" icon_alignment="centre" secondary_icon_enabled="false" appearance="buttons/custom/over state only/button" font="transparent" colour="transparent" size="0">
+					<record id="click_event">
+						<flags id="event_id" value="tinD" />
+						<flags id="type" value="poSE" />
+					</record>
+				</widget>
+
+			</container>
+			
+			<container class="inner_box" appearance="boxes/contrast/no margin/top right/paper" red_replacement="bg" height="30" width="35">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2" />
+
+				<widget class="widget_popup_button" id="shou" height="30" popup_alignment="right,top" widget_type="match_tactic_popup_panel" icon="icons/16px/team talk" appearance="buttons/custom/over state only/button" alignment="centre" icon_alignment="centre" secondary_icon_enabled="false" font="transparent" colour="transparent" size="0">
+					<record id="modal_popup_properties">
+						<boolean id="darkened" value="false" />
+						<boolean id="attempt_to_reposition" value="true" />
+					</record>
+					<record id="widget_properties">
+						<string id="file" value="match/match tactic popup panel shout" />
+					</record>
+				</widget>
+
+			</container>
+
+			
+
+		</container>
+
+		<container height="30">
+
+			<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" horizontal_offset="0" vertical_inset="0" horizontal_gap="0" />
+
+			<widget class="spacer">
+				
+			</widget>
+
+			<container navigation_container="true">
+
+				<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0">
+					<global id="horizontal_offset" name="ui.safe_area_left"/>
+				</attachment_group>
+
+				<container class="inner_box" appearance="boxes/contrast/no margin/top left/paper" red_replacement="bg lighter">
+					<attachment_group class="horizontal_arrange_autosize_vertical_centre" horizontal_gap="0" horizontal_offset="2" />
+
+					<!-- battery indicator, only shows up for laptops -->
+					<widget class="battery_power_indicator" width="20" height="20">
+					</widget>
+
+					<widget class="icon_button" appearance="buttons/custom/over state only/button" icon_alignment="centre" icon="icons/16px/show me" id="Stab" width="30" height="30">
+						<record id="click_event">
+							<flags id="event_id" value="TtaV" />
+							<integer id="evfl" value="7" />
+							<flags id="evtg" value="root" />
+						</record>
+					</widget>
+
+				</container>
+
+				<container class="main_box_no_margin" background_colour="black" height="30" width="30">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<widget class="icon_button" appearance="buttons/custom/over state only/square/button" icon_alignment="centre" click_event="Emmb" id="mmbt" />
+
+				</container>
+
+			</container>
+
+		</container>
+
+	</container>
+
+	<container class="main_box_no_margin" height="117" background_colour="bg lighter" id="mBar">
+		<attachment_group class="horizontal_arrange" horizontal_alignment="left,extend" horizontal_gap="0"/>
+		
+		<container width="8"/>
+
+		<container navigation_container="true">
+			<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" horizontal_gap="0" />
+
+			<container >
+				<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" horizontal_gap="0" />
+
+				<container>
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<widget class="match_players_bar_panel" id="plbr">
+						<record id="object_property" get_property="objt" set_property="objt" />
+					</widget>
+
+					<widget class="match_players_bar_panel" id="subr" hidden="true" include_current_subs="true">
+						<record id="object_property" get_property="objt" set_property="objt" />
+					</widget>
+				</container>
+
+				<container class="main_box_no_margin" background_colour="black" width="30">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" />
+
+					<widget class="icon_button" id="sutg" click_event="tgsu" style="vertical" font="title" size="large" alignment="centre" appearance="buttons/custom/over state only/square/button" colour="text" controller_button="x_button" gamepad_icon_alignment="centre_top">
+
+					</widget>
+
+				</container>
+
+			</container>
+
+		</container>
+
+	</container>
+
+</panel>

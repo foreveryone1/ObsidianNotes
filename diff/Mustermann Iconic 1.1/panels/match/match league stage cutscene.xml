@@ -1,0 +1,64 @@
+﻿<panel background_colour="white">
+	
+		<flags id="cham" value="tables/custom/league/champions/row" />
+	<flags id="prom" value="tables/custom/league/promotion/row" />
+	<flags id="tppo" value="tables/custom/league/top playoff/row" />
+	<flags id="btpo" value="tables/custom/league/bottom playoff/row" />
+	<flags id="rleg" value="tables/custom/league/relegation/row" />
+    <flags id="splt" value="tables/custom/league/divider/row" />
+	<flags id="nrml" value="tables/standard/normal" />
+  <!-- main continental cup -->
+  <flags id="mncc" value="tables/custom/league/main continental/row" />
+  <!-- second continental cup -->
+  <flags id="otcc" value="tables/custom/league/other continental/row" />
+  <!-- main continental cup with split-->
+  <flags id="mncs" value="tables/custom/league/main continental divider/row" />     
+  <!-- second continental cup with_split -->
+  <flags id="otcs" value="tables/custom/league/other continental divider/row" />
+
+	<!-- colour to highlight opponent team name -->
+	<flags id="OTNc" value="fg accent" />
+	<flags id="font" value="title"/>
+	
+	<layout class="fit_children_attachment" alignment="vertical" offset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal,top" apply_to_children="true" inset="0" />
+
+	<translation id="title" translation_id="247324" type="use" value="League Stage Panel" />
+
+	<widget class="table" id="list" mode="fill_rows, stripe_rows" auto_size="vertical"
+          customise_view_panel_class="customise_view_advanced_panel"
+          customisation_context="league_table"
+          contextual_handler_column_id="Ttea"
+          auto_size_rows="false"
+          fixed_size_rows="true"
+          heading_class="column_heading_sitv"
+					column_spacing="4">
+
+		<flags id="stripe_appearance" value="tables/custom/sitv/alternate/row"/>
+		
+
+			<attachment class="test_screen_size_attachment" skip_if_false="true">
+				<list id="properties">
+					<record>
+						<flags id="alignment" value="vertical" />
+						<integer id="min_value" value="0" />
+						<integer id="max_value" value="601" />
+						<symbol id="set_property" value="row_height" />
+						<integer id="true_value" value="19" />
+						<integer id="false_value" value="19" />
+					</record>
+					<record min_value="601" max_value="720" true_value="21"/>
+					<record min_value="720" max_value="845" true_value="23"/>
+					<record min_value="845" max_value="950" true_value="26"/>
+					<record min_value="950" max_value="10000" true_value="28"/>
+				</list>
+			</attachment>
+
+
+
+
+	</widget>
+
+	<!-- To avoid copy-pasting views into the variation of this panel all of the views are in a aerparate file -->
+	<string id="views_file" value="panels/competition/league stage panel views cutscene"/>
+</panel>

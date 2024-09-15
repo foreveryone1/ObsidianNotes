@@ -1,0 +1,29 @@
+<panel navigation_container="true">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<widget class="club_knowledge_panel" file="human/mustermann/home/scouting/club knowledge" late_loading="true" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_unemployed_manager="false">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_height="-1"/>
+		
+		<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="26">
+		
+			<container default_width="-1"/>
+			
+			<container width="26">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />			
+	
+				<widget class="picture" file="mustermann/credits/just" scale_picture="false" image_alignment="right,bottom"/>
+				
+				<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="gimntext">
+					<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-just-skin-2024.html" />
+					<translation id="hint" type="use" value="Idea inspired by JustHowie"/>
+				</widget>
+			</container>
+		</container>
+	</container>
+	
+</panel>

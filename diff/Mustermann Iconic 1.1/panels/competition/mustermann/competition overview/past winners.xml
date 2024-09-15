@@ -1,0 +1,17 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	<container class="main_box">
+		<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+		<widget class="text" id="hist" auto_size="vertical" font="title">
+			<translation id="text" translation_id="336548" type="use" value="Past Winners[COMMENT: competition overview past winners; title of panel]" />
+		</widget>
+
+		<container class="scrolling_box" navigation_container="false">
+			<container id="cont" inset="0" offset="0" gap="0">
+				<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="2" horizontal_inset="0" />
+			</container>
+		</container>
+	</container>
+</panel>

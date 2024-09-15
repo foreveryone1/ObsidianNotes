@@ -1,0 +1,165 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	<flags id="highlighted_row_appearance" value="tables/custom/attributes/required/row" />
+
+	<container draw_vertical_dividers="true">
+		<attachment_group class="horizontal_arrange" horizontal_layout="300, -1" horizontal_gap="32" />
+
+		<container class="client_object_viewer_xml_panel" id="stpD">
+			<attachment_group class="horizontal_arrange" horizontal_alignment="left,extend" />
+
+			<!-- portrait -->
+			<widget class="object_portrait_picture" scale_picture="true" keep_aspect_ratio="true" width="95" image_alignment="centre">
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+
+			<container>
+
+				<attachment_group class="vertical_arrange" vertical_offset="0" vertical_gap="0" vertical_alignment="middle" horizontal_alignment="horizontal" />
+				<!-- person name -->
+				<widget class="person_button" id="nmtx" auto_size="vertical" spec="text" multiline="false" info_popup_enabled="true" person_is_player="true" style="semi_bold" size="large">
+					<record id="object_property" get_property="Pnms" />
+				</widget>
+				<!-- job-->
+				<widget class="job_label" auto_size="vertical" size="small" alignment="left, centre_y" colour="faded text">
+					<record id="object_property" get_property="PcJj" set_property="valu" />
+				</widget>
+
+				<!-- age -->
+				<container>
+					<layout class="fit_children_attachment" alignment="vertical" gap="0" offset="0" />
+					<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="3" />
+					<layout class="stick_to_sides_attachment" alignment="top" apply_to_children="true" inset="0" />
+
+					<!-- Age -->
+					<!-- We use an editable panel here just to make it disappear when editing-->
+					<widget class="editable_client_object_property_panel" id="age " auto_size="all">
+						<record id="widget_info" class="formatted_label" alignment="left,centre_y" auto_size="all">
+							<translation id="format" translation_id="242551" type="use" value="[%number#1] years old" />
+						</record>
+						<record id="widget_properties" width="0" height="0" />
+						<record id="object_property" get_property="Page" />
+					</widget>
+
+					<!-- DoB -->
+					<widget class="editable_client_object_property_panel" id="dobl" auto_size="vertical">
+						<record id="widget_info" class="game_formatted_label" alignment="left,centre_y" auto_size="vertical" format="([%date#1-short])" />
+						<record id="widget_properties" height="24" />
+						<record id="object_property" get_property="Pdob" />
+					</widget>
+				</container>
+
+				<!-- nationality-->
+				<widget class="nation_button" auto_size="vertical" alignment="left, centre_y" size="10">
+					<record id="object_property">
+						<integer id="get_property" value="Pnat" />
+						<integer id="set_property" value="valu" />
+					</record>
+				</widget>
+
+			</container>
+		</container>
+
+		<container class="non_player_profile_panel" id="stpP" file="none">
+
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			<container class="titled_box" id="npSP">
+				<translation id="text" translation_id="596039" type="use" value="Set Piece Preferences[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching details; FR: FM-22083; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Title for a coach's preferred style of set piece]" />
+
+				<list id="properties_to_forward">
+					<record get_property="SPdt" set_property="text" target="deli" />
+					<record get_property="SPpd" set_property="text" target="defp" />
+					<record get_property="SPaf" set_property="text" target="aimf" />
+					<record get_property="SPDm" set_property="text" target="defm" />
+					<record get_property="SPan" set_property="text" target="attn" />
+					<record get_property="SPdn" set_property="text" target="defn" />
+					<record get_property="Spdl" set_property="text" target="defl" />
+				</list>
+
+				<attachment_group class="horizontal_arrange_wrapped" horizontal_alignment="left" horizontal_offset="0" horizontal_gap="10" />
+
+
+
+				<!--Aim For-->
+				<container width="80">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+
+					<widget class="label" font="label" auto_size="vertical">
+						<translation id="text" translation_id="596026" type="use" value="Aim For[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-22083; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Title for a coach's preferred style of aiming a set piece]" />
+					</widget>
+					<widget class="label" id="aimf" auto_size="vertical">
+						<translation id="hint" translation_id="597244" type="use" value="When taking attacking corners and crossing free kicks, this is where the coach prefers the initial delivery to be aimed[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece aimed delivery]" />
+					</widget>
+				</container>
+				<!--Defensive Marking-->
+				<container width="80">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+					<widget class="label" font="label" auto_size="vertical">
+						<translation id="text" translation_id="227838" type="use" value="Marking" />
+					</widget>
+					<widget class="label" id="defm" auto_size="vertical">
+						<translation id="hint" translation_id="596036" type="use" value="This indicates whether the coach prefers to mark zonally, player-to-player, or a hybrid of the two approaches in a defensive set piece scenario.[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece defensive marking]" />
+					</widget>
+				</container>
+				<!--Defending Posts-->
+				<container width="80">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+					<widget class="label" font="label" auto_size="vertical">
+						<translation id="text" translation_id="596029" type="use" value="Posts[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-22083; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Title for a coach's preferred style of defending posts in a set piece - short]" />
+					</widget>
+					<widget class="label" id="defp" auto_size="vertical">
+						<translation id="hint" translation_id="596034" type="use" value="This is the tendency for the coach to place defenders on both posts, one post, or not at all.[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece defending posts]" />
+					</widget>
+				</container>
+
+
+				<!--Attacking Numbers-->
+				<container>
+					<attachment_group class="vertical_arrange_autosize_all" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+					<widget class="label" font="label" auto_size="all">
+						<translation id="text" translation_id="230042" type="use" value="Attacking" />
+					</widget>
+					<widget class="label" id="attn" auto_size="all">
+						<translation id="hint" translation_id="596033" type="use" value="For attacking set pieces, this is the coach's willingness to commit players forward as part of the offensive.[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece attacking numbers]" />
+					</widget>
+				</container>
+				<!--Defensive Numbers-->
+				<container>
+					<attachment_group class="vertical_arrange_autosize_all" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+
+					<widget class="label" font="label" auto_size="all">
+						<translation id="text" translation_id="247413" type="use" value="Defensive" />
+					</widget>
+					<widget class="label" id="defn" auto_size="all">
+						<translation id="hint" translation_id="596037" type="use" value="Indicates the coach's approach to counter attacking scenarios resulting from an opposition set piece.[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece defensive numbers]" />
+					</widget>
+				</container>
+				<!--Delivery-->
+				<container width="90">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+					<widget class="label" font="label" auto_size="vertical">
+						<translation id="text" translation_id="468238" type="use" value="Delivery[COMMENT: training session calendar name for Set Piece Delivery, keep short 16 letters or under]" />
+					</widget>
+					<widget class="label" id="deli" auto_size="vertical">
+						<translation id="hint" translation_id="596038" type="use" value="Indicates whether the coach prefers corner-takers who can bend the ball towards or away from goal on the initial delivery[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece delivery]" />
+					</widget>
+				</container>
+				<!--Defensive Line-->
+				<container width="90">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="3" horizontal_inset="0" />
+
+					<widget class="label" font="label" auto_size="vertical">
+						<translation id="text" translation_id="596032" type="use" value="Defensive Line[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23622; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Title for a coach's preferred style of defensive line depth during a set piece]" />
+					</widget>
+					<widget class="label" id="defl" auto_size="vertical">
+						<translation id="hint" translation_id="596035" type="use" value="This is the coach's preference for the defensive line height of the team when facing a opposition set piece.[COMMENT: AREA: Non-player profile; SUB-AREA: Coaching Details Set Piece Preferences; FR: FM-23919; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE; Hint for a coach's preferred style of set piece defensive line depth]" />
+					</widget>
+				</container>
+			</container>
+		</container>
+	</container>
+
+</panel>

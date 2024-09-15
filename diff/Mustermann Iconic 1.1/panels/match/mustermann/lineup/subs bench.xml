@@ -1,0 +1,36 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<container>
+		<attachment_group class="vertical_arrange_autosize" vertical_layout="30,-1" vertical_gap="8"/>
+
+		<widget class="text" spec="text" alignment="left, centre_y" auto_size="all" colour="text" size="large">
+			<layout class="stick_to_sides_attachment" alignment="left" inset="18" />
+			<translation id="text" translation_id="318313" type="use" value="Substitutes[COMMENT: subs bench panel; subsection box which will list any designated substitutes]" />
+		</widget>
+
+		<widget class="subs_bench_icon_panel" id="subs" file="none" icon_flags="show_name,show_number,disable_name_colour,dont_colour_number,drop_initial_if_possible,disable_name_links" player_icon_file="match/mustermann/lineup/subs bench icon">
+			<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+			<layout class="fit_children_attachment" alignment="vertical, fill" offset="0" gap="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+			<widget class="table" mode="fill_rows"  id="icnT" layout="-1" height="360" row_height="24" >
+
+				<list id="column_table_properties">
+					<record indx="0" sort_disabled="true" left="4" />
+				</list>
+
+				<list id="column_widget_properties">
+					<record index="0" alignment="left,centre_y"/>
+				</list>
+
+				<list id="row_properties">
+					<record indx="0"  />
+				</list>
+
+			</widget>
+
+		</widget>
+
+	</container>
+</panel>

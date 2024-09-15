@@ -1,0 +1,116 @@
+<!-- THIS PANEL IS WHAT SHOWS ON THE PLAYER OVERVIEW PANEL, ON THE REPORT TAB -->
+<panel save_session_state="true" save_default_state="true">
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+
+	<!--NO REPORT CODE-->
+	<container id="norp" hidden="true">
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+		<!--NO SCOUT REPORT-->
+		<container  id="nsrc" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="297209" type="use" value="Scouting Required[COMMENT: shown when the user can't view player info without scouting them first]" />
+			</widget>
+		</container>
+
+		<!--NO COACH REPORT-->
+		<container  id="ncrc" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="297209" type="use" value="Scouting Required[COMMENT: shown when the user can't view player info without scouting them first]" />
+			</widget>
+		</container>
+
+		<!--NO NATIONAL REPORT-->
+		<container  id="nnrc" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="297209" type="use" value="Scouting Required[COMMENT: shown when the user can't view player info without scouting them first]" />
+			</widget>
+		</container>
+
+		<!--ALREADY BEING SCOUTED-->
+		<container  id="Arbs" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" id="arbt" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="342085" type="use" value="Scouting In Progress[COMMENT: disabled menu item when a player is already being scouted]" />
+			</widget>
+		</container>
+
+		<!--ALREADY BEING SCOUTED BY POOL-->
+		<container  id="Pool" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" id="arbt" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="342085" type="use" value="Scouting In Progress[COMMENT: disabled menu item when a player is already being scouted]" />
+			</widget>
+		</container>
+
+		<!--NO ACTIONS REPORT-->
+		<container  id="naSP" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="435189" type="use" value="Unavailable[COMMENT: no scouting report available; was ID 247303 but some languages need specific translations here]" />
+			</widget>
+		</container>
+	</container>
+
+	<!--CONTENT SHOWN IF WE DO HAVE REPORTS-->
+	<container  height="22">
+		<attachment_group class="vertical_arrange" vertical_layout="-1,52" vertical_gap="4"/>
+		
+		<container class="contrast_box" red_replacement="bg int">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+			<widget class="text" size="12" id="chRC" alignment="centre_x,centre_y" multiline="true" colour="text"/>
+		</container>
+		
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<container id="PAic">
+				<attachment_group class="vertical_arrange_autosize" vertical_gap="0" />
+
+				<list id="properties_to_forward">
+					<record target="paSt" get_property="valu" set_property="valu" />
+				</list>
+
+				<container>
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" horizontal_offset="0" />
+
+					<widget class="scout_stars_label" id="paSt" auto_size="horizontal" mode="2" height="52">
+					</widget>
+
+				</container>
+			</container>
+			
+			<widget class="picture" file="mustermann/star rating/star rating mask" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="bg" transparency="0.35"/>
+
+			<!-- Bit that shows the data-->
+			<container id="scou">
+				<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+				
+				<container>
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" horizontal_offset="0" />
+
+					<!-- Recommendation -->
+					<widget class="player_scout_recommendation_widget" file="widgets/player scout recommendation widget compact" id="RCic" alignment="left,centre_y" auto_size="none" click_event="ltms" show_knowledge_bar="false" width="32" height="32" recommendation_mode="2" should_recolour_recommendation_value="true" background_colour="bg lighter"/>
+
+					<widget class="scout_stars_label" id="CAic" alignment="centre_x,centre_y" height="52" mode="1" />
+
+				</container>
+
+			</container>
+
+		</container>
+
+	</container>
+
+</panel>

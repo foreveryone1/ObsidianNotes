@@ -1,0 +1,25 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<container class="contrast_box" red_replacement="bg lighter" id="popt" draw_vertical_dividers="true">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+		<!--roundup statement/results-->
+		<container class="main_box"  navigation_container="true" default_focus="true">
+			<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+			<!--results-->
+			<container>
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+				<widget class="competition_fixtures_panel" id="resu" file="competition/mustermann/competition overview/roundup fixtures" show_view_stage_link="false" display_mode="3" popup_parent="popt">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+			</container>
+		</container>
+
+	</container>
+
+</panel>

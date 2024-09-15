@@ -1,0 +1,27 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	<container class="vertical_adaptive_container"  offset="0" gap="2" inset="2" >
+		<container default_height="300"  priority="1">
+
+			<layout class="arrange_vertical_attachment" layout="0,-1" offset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="8" />
+				<widget class="text" size="7" auto_size="vertical" alignment="left,bottom" style="semi_bold" font="label">
+					<translation id="text" translation_id="339927" type="use" value="This week[Comment: Training panel; label for the current week in the calendar]" />
+				</widget>
+				<widget class="text" size="8" id="schT" colour="text" style="bold" font="title" />
+			</container>
+
+			<container class="training_schedule_week_widget" id="pwTw" file="widgets/training schedule week widget">
+				<string id="draggable" value="true" />
+				<string id="session_description_column" value="true" />
+				<string id="schedule_session_widget_file" value="human/mustermann/home/training/training schedule widget" />
+				<string id="schedule_header_file" value="widgets/training schedule month header" />
+			</container>
+		</container>
+
+
+	</container>
+</panel>

@@ -1,0 +1,124 @@
+<panel>
+	<layout class="arrange_vertical_attachment" alignment="middle,extend" offset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" />
+
+	<!-- We are using a spacer here so we can limit our images size, but still remain centered in our parent -->
+	<widget class="spacer" height="1" />
+
+	<container id="kitH">
+		<attachment_group class="horizontal_arrange" horizontal_alignment="fill" horizontal_offset="0" horizontal_gap="20" vertical_inset="0" />
+		
+		<container class="contrast_box" red_replacement="bg int">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+
+				<widget class="kit_picture" id="T_hk" kit_id="0" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre" always_use_latest_object_list="true" default_height="-1">
+					<record id="object_property">
+						<integer id="get_property" value="Tidx" />
+						<integer id="set_property" value="indx" />
+					</record>
+				</widget>
+				
+				<widget class="label" id="T_th" alignment="centre" default_height="26">
+					<translation id="text" translation_id="256675" type="use" value="Home[COMMENT: team_information_panel; Home Kit Graphic Title]" />
+				</widget>
+				
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="40">
+				
+					<container default_width="-1" minimum_width="1"/>
+					
+					<container class="contrast_box" red_replacement="primary" default_width="150">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="text" style="bold" alignment="centre_x,centre_y" size="10" colour="secondary">
+							<translation id="text" translation_id="351361" type="use" value="Buy Now"/>
+						</widget>
+					
+					</container>
+					
+					<container default_width="-1" minimum_width="1"/>
+				
+				</container>
+				
+			</container>				
+				
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg int">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+
+				<widget class="kit_picture" id="T_ak" kit_id="1" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre" always_use_latest_object_list="true" default_height="-1">
+					<record id="object_property">
+						<integer id="get_property" value="Tidx" />
+						<integer id="set_property" value="indx" />
+					</record>
+				</widget>
+				
+				<widget class="label" id="T_ta" alignment="centre" default_height="26">
+					<translation id="text" translation_id="256676" type="use" value="Away[COMMENT: team_information_panel; Away Kit Graphic Title]" />
+				</widget>
+				
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="40">
+				
+					<container default_width="-1" minimum_width="1"/>
+					
+					<container class="contrast_box" red_replacement="primary" default_width="150">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="text" style="bold" alignment="centre_x,centre_y" size="10" colour="secondary">
+							<translation id="text" translation_id="351361" type="use" value="Buy Now"/>
+						</widget>
+					
+					</container>
+					
+					<container default_width="-1" minimum_width="1"/>
+				
+				</container>
+				
+			</container>				
+				
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg int">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+
+				<widget class="kit_picture" id="T_tk" kit_id="2" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre" always_use_latest_object_list="true" default_height="-1">
+					<record id="object_property">
+						<integer id="get_property" value="Tidx" />
+						<integer id="set_property" value="indx" />
+					</record>
+				</widget>
+				
+				<widget class="label" id="T_tl" alignment="centre" default_height="26">
+					<translation id="text" translation_id="256677" type="use" value="Third[COMMENT: team_information_panel; Third Kit Graphic Title]" />
+				</widget>
+				
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="40">
+				
+					<container default_width="-1" minimum_width="1"/>
+					
+					<container class="contrast_box" red_replacement="primary" default_width="150">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="text" style="bold" alignment="centre_x,centre_y" size="10" colour="secondary">
+							<translation id="text" translation_id="351361" type="use" value="Buy Now"/>
+						</widget>
+					
+					</container>
+					
+					<container default_width="-1" minimum_width="1"/>
+				
+				</container>
+				
+			</container>				
+				
+		</container>
+				
+	</container>
+
+</panel>

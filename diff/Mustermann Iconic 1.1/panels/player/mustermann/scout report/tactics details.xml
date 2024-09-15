@@ -1,0 +1,50 @@
+<panel>
+	<translation id="title" type="new" value="Player Information Panel" />
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+	
+		<!-- Position pitch for players -->
+		<container class="main_box" id="posa" default_width="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+			<!-- Show if person is a player -->
+			<record id="object_property">
+				<integer id="get_property" value="Pipl" />
+				<integer id="set_property" value="Shwn" />
+				<boolean id="dont_set_hint" value="true" />
+			</record>
+
+			<widget class="player_positions_indicator_panel" file="player/mustermann/scout report/tactics positions" id="ppov">
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+		</container>
+		
+		<!-- Games played in position for players-->
+		<container class="main_box" id="gppC" default_width="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+			<!-- Show if person is a player -->
+			<record id="object_property">
+				<integer id="get_property" value="Pipl" />
+				<integer id="set_property" value="Shwn" />
+				<boolean id="dont_set_hint" value="true" />
+			</record>
+
+			<widget class="player_games_in_position_panel" file="player/mustermann/scout report/tactics games" id="pgpp">
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+		</container>
+		
+	</container>
+	
+	
+		
+
+</panel>

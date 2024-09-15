@@ -1,0 +1,22 @@
+<panel height="44" width="120">
+  <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+  <container>
+    <layout class="arrange_horizontal_attachment" layout="-1, 16" gap="4" offset="0"/>
+    <layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true"/>
+
+    <container>
+      <layout class="arrange_vertical_attachment" alignment="middle" gap="0"/>
+      <layout class="stick_to_sides_attachment" alignment="horizontal" inset="16" apply_to_children="true"/>
+
+      <widget class="text" id="dytm" auto_size="vertical" font="text" style="semi_bold" size="small" alignment="left" colour="title" disabled_colour="faded text"/>
+      <widget class="text" id="dtam" auto_size="vertical" font="text" style="semi_bold" size="medium" alignment="left" colour="title" disabled_colour="faded text"/>
+
+    </container>
+  </container>
+
+  <widget class="button" appearance="chrome/buttons/date/fm23/button" id="actn" click_event="opcl" height="42" width="82" focus_appearance="chrome/buttons/date/button_controller"/>
+
+
+
+</panel>

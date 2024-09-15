@@ -1,0 +1,64 @@
+﻿<panel>
+
+	<!-- Set the file to be used by each item for the 2 views -->
+	<record id="item_file">
+		<!-- Basic-->
+		<string id="vibs" value="competition/competition fixtures item panel roundup"/>
+		<!-- Detailed -->
+		<string id="vide" value="competition/mustermann/competition overview/roundup widget"/>
+	</record>
+
+	<boolean id="shtr" value="true"/>
+
+	<boolean id="save_session_state" value="true" />
+	<boolean id="save_default_state" value="true" />
+
+	<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+	<!-- No fixtures panel-->
+	<container id="nomt" hidden="true">
+		<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<widget class="spacer" height="10" />
+
+		<widget class="text" alignment="centre" spec="text" size="large" style="semi_bold, embossed" auto_size="all">
+			<translation id="text" translation_id="242251" type="use" value="No fixtures scheduled yet[COMMENT competition fixtures panel, no fixtures set up yet]" />
+		</widget>
+	</container>
+
+	<container class="main_box" appearance="" id="fxct">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<!-- scrolling box - used if more than 1 table-->
+		<container class="scrolling_box" id="fxsb" hidden="true" save_session_state="true">
+			<container id="fsbg">
+				<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+			</container>
+		</container>
+	</container>
+
+	<container id="acbt">
+		<layout class="arrange_horizontal_attachment" alignment="right" offset="0" />
+		<layout class="fit_children_attachment" alignment="vertical" offset="0" />
+		<layout class="stick_to_sides_attachment" alignment="top" apply_to_children="true" inset="0" />
+
+		<widget class="popup_button" id="vwgl" select_event="vwmt" auto_size="all" fixed="true">
+			<translation id="text" translation_id="251846" type="use" value="Replays[COMMENT: competition fixtures panel; popup menu button text; goals and highlights are the two options]" />
+			<list id="items">
+				<record id="6">
+					<translation id="text" translation_id="227857" type="use" value="Goals" />
+				</record>
+				<!-- MHTM_GOALS -->
+				<record id="3">
+					<translation id="text" translation_id="247164" type="use" value="Highlights" />
+				</record>
+				<!-- MHTM_KEY -->
+			</list>
+		</widget>
+
+	</container>
+
+</panel>

@@ -1,0 +1,300 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+
+	<!-- IMPORTANT Need to keep this synced up with number of panels or we won't fill them all, we use this to minimise the amount of data the panel needs to request -->
+	<integer id="number_of_stories_to_request" value="75"/>
+	<boolean id="show_daily_news_request" value="true"/>
+	<boolean id="show_related_news" value="true"/>
+	<boolean id="save_session_state" value="true"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+		<container default_height="-1" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend"/>
+			
+			<container class="scrolling_box" id="ScrB" navigation_container="true">
+
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+				
+				<container draw_horizontal_dividers="false">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="0"/>
+										
+					<!--HEADER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="80">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="5" default_width="-1">
+								
+									<widget class="picture" id="pict" scale_picture="true" default_width="64">
+										
+										<boolean id="keep_aspect_ratio" value="true" />
+										<flags id="image_alignment" value="centre" />
+										<record id="object_property">
+											<integer id="get_property" value="mnpc" />
+										</record>
+									</widget>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+									
+										<widget class="text" font="title" colour="secondary" multiline="true" id="titl" size="20" alignment="left,centre_y" default_height="40">
+											<record id="object_property">
+												<integer id="get_property" value="titl" />
+											</record>
+										</widget>
+										
+										<widget class="text" font="text" colour="secondary" multiline="true" id="TCnn" size="8" alignment="left,centre_y" default_height="24">
+											<record id="object_property">
+												<integer id="get_property" value="TCnn" />
+											</record>
+										</widget>
+									</container>
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+					<!--RECENT RESULTS-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="82">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="primary" transparency="0.5">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="animated_wipe_cycle_up_container" duration="1" interval="8">
+									<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="entR"/>
+									<layout class="stick_to_sides_attachment" alignment="bottom" inset="0"/>
+								
+									<widget class="club_overview_team_results_panel" id="resu" file="club/mustermann/overview/recent results container" default_height="-1"> 
+										<record id="object_property" get_property="objt" set_property="objt"/> 
+									</widget>
+
+									<widget class="club_overview_team_results_panel" id="resu" file="club/mustermann/overview/upcoming fixtures container" default_height="-1"> 
+										<record id="object_property" get_property="objt" set_property="objt"/> 
+									</widget>
+								</container>
+							
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--STADIUM-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="648">
+					
+						<container default_width="-1"/>
+						
+						<container default_width="1080" background_colour="bg lighter">
+							<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+
+							<widget class="stadium_picture" id="STAp" file="none">
+								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+								<record id="object_property" get_property="objt" set_property="objt"/>
+								<record id="default_properties" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true"/>
+
+								<widget class="picture" file="pictures/stadiums/stadium_bg"/>
+								<widget class="picture" id="bkgd" file="pictures/stadiums/none_base" hidden="true"/>
+								<widget class="picture" id="STPC"/>
+							</widget>
+							
+							<widget class="competition_news_panel" file="club/mustermann/news/headlines" id="mchn" section="Pnws" late_loading="true">
+								<record id="object_property" get_property="objt" set_property="objt"/>
+							</widget>	
+														
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--LEAGUE TABLE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="720">
+					
+						<container default_width="-1"/>
+											
+						<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" default_width="1080">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+							<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+							
+								<container default_width="-1">
+									<layout class="vertical_arrange" vertical_alignment="top,extend" vertical_gap="0"/>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="26">
+									
+										<container width="26">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+											<widget class="picture" file="mustermann/credits/wtcs" scale_picture="false" keep_aspect_ratio="true" image_alignment="centre_x,centre_y"/>
+											
+											<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="gimntext">
+												<record id="click_event" event_id="OURL" url="https://twitter.com/tcsskin" />
+												<translation id="hint" type="use" value="League Table by TCS"/>
+											</widget>
+										</container>
+									
+										<widget class="label" font="title" size="large" alignment="centre_x,centre_y" colour="title" default_width="-1">
+											<translation id="text" type="use" translation_id="242904" value="League Table" />
+										</widget>
+										
+										<container width="26"/>
+									</container>
+
+									<widget class="table" layout="-4, -1" row_spacing="2" mode="none" auto_size="vertical" fixed_size_rows="false" auto_size_rows="true">
+									</widget>
+
+									<container class="competition_news_panel" file="none">
+										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true"/>
+
+										<record id="object_property" get_property="objt" set_property="objt"/>
+
+										<container class="competition_overview_panel" file="none">
+											<layout class="stick_to_sides_attachment" alignment="all"/>
+
+											<record id="object_property" get_property="Cdiv" set_property="objt"/>
+
+											<attachment_group class="horizontal_arrange" horizontal_layout="-1,-2" horizontal_offset="0" vertical_inset="0">
+												<global id="horizontal_gap" name="ui.main_contrast_box_gap"/>
+											</attachment_group>
+
+											<container id="cost" navigation_container="true" default_focus="false">
+												<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+
+												<widget class="competition_stage_panel" file="none">
+													<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+													<record id="object_property" get_property="objt" set_property="objt" />
+													<boolean id="overview_version" value="true" />
+
+
+													<!-- group box which extends to include all other areas -->
+													<container>
+														<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+														<!-- the group box that is the main container for the competition stage panel this container holds whatever league or cup panel we need to create -->
+														<container class="inner_box" id="stse" force_title_borders="false">
+
+															<!-- bottom row of the stage panel is used to store cup draw buttons -->
+															<layout class="vertical_arrange" vertical_alignment="bottom,extend"/>
+
+															<!-- No game panel-->
+															<container id="nots" hidden="true">
+																<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+																<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" />
+																<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+																<widget class="spacer" height="10" />
+																<widget class="text" id="nost" alignment="centre" spec="text" size="large" style="semi_bold, embossed" auto_size="vertical" />
+															</container>
+
+															<!-- group box for stage to go into -->
+															<container id="stgb">
+																<layout class="vertical_arrange" vertical_alignment="top,extend"/>
+																<container height="16"/>
+
+																<container>
+																	<layout class="vertical_arrange" vertical_alignment="top,extend"/>
+
+																	<!--league stage panel-->
+																	<widget class="league_stage_panel" id="lspn" hidden="true" view="ovrC" league_table_heading_length="0"/>
+																	<!--cup stage_panel-->
+																	<widget class="cup_stage_panel" file="competition/cup overview stage" id="cstp" hidden="true" save_session_state="true" />
+																	<!--group stage scrolling box (to be filled in code)-->
+																	<widget class="scrolling_box" id="gscb" hidden="true" save_session_state="true" navigation_container="true"/>
+																</container>
+															</container>
+
+															<container>
+																<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+																<!-- The exceptions so point deductions in the league etc-->
+																<widget class="table" layout="-1" id="exta" auto_size="vertical" auto_size_rows="true" row_spacing="2" hidden="true" mode="fill_rows" />
+															</container>
+														</container>
+													</container>
+												</widget>
+											</container>
+										</container>
+									</container>
+								</container>
+														
+								<widget class="competition_news_panel" file="club/mustermann/news/minor news" id="mcmn" section="Pnws" late_loading="true" default_width="-1">
+									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+									<record id="object_property" get_property="objt" set_property="objt"/>
+								</widget>		
+															
+							</container>
+						
+						</container>							
+						
+						<container default_width="-1"/>
+						
+					</container>
+
+					<!--FOOTER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="40">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0" height="30">
+			
+									<container default_width="-1"/>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Terms of Use" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Privacy Policy" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Accessibility" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Cookie Policy" />     
+									</widget>
+									
+									<container default_width="-1"/>
+								
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+				</container>
+				
+			</container>
+			
+		</container>
+
+	</container>
+
+</panel>

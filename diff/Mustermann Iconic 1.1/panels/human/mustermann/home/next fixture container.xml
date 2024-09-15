@@ -1,0 +1,89 @@
+<!-- THIS IS THE PANEL THAT SHOWS ON THE TOP OF THE MANAGER HOME -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	<translation id="title" value="Match Day" />
+	<container >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<!--container shown when there is a next match available-->
+		<container id="nemc" hidden="true">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+			<container format="date_and_days" default_width="-1" priority="1" minimum_width="-1">
+				<attachment_group class="vertical_arrange" vertical_alignment="fill" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+					<!-- Info about next fixture-->
+				<widget class="team_upcoming_fixture_info_panel" file="human/mustermann/home/next fixture/next fixture details 1" id="tmip" omit_prefix="true"/> 
+			</container>
+
+		</container>
+
+		<!--container shown when there is no next match-->
+		<container class="bordered_box"   id="nonm" hidden="true">
+			<layout class="arrange_vertical_attachment" alignment="middle" offset="0" gap="4"/>
+
+			<widget class="spacer" height="10" />
+
+			<!--team badge(s)-->
+			<container>
+				<layout class="arrange_horizontal_attachment" alignment="left" offset="0" />
+				<layout class="centre_in_parent_attachment" alignment="horizontal" />
+				<layout class="fit_children_attachment" alignment="horizontal,fill" offset="0" />
+				<layout class="stick_to_sides_attachment" alignment="top" apply_to_children="true" />
+				<layout class="fit_children_attachment" alignment="vertical"  />
+
+				<widget class="picture" height="180" width="180" id="tepi" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" />
+				<widget class="picture" height="180" width="180" id="napi" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" />
+			</container>
+
+
+			<!--buttons to arrange a friendly-->
+			<widget class="link_appearance_button" appearance="tcs/buttons/pros and cons/scout" id="arcf">
+				<translation id="text" translation_id="296343" type="use" value="Arrange Club Friendly" />
+				<layout class="centre_in_parent_attachment" alignment="horizontal" />  
+			</widget>
+			<widget class="link_appearance_button" id="arnf" appearance="tcs/buttons/pros and cons/scout">
+				<translation id="text" translation_id="296344" type="use" value="Arrange National Friendly" />
+				<layout class="centre_in_parent_attachment" alignment="horizontal" />
+			</widget>
+
+
+			<!--explanatory text-->
+			<widget class="text" alignment="centre" spec="text" size="large" style="semi_bold" auto_size="vertical">
+				<translation id="text" translation_id="296342" type="use" value="You currently don't have any matches planned." />
+			</widget>
+
+			<!--text describing when the next season/competition starts-->
+			<widget class="text" id="nmpl" auto_size="vertical" alignment="centre" size="6"/>
+		</container>
+
+		<!--container shown when manager is unemployed-->
+		<container id="unem" hidden="true">
+			<attachment_group class="vertical_arrange" vertical_alignment="top" vertical_offset="5" />
+
+			<!--manager logo-->
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="middle" vertical_inset="0" />
+
+				<widget class="picture" height="110" width="110" id="mapi" image_alignment="left" scale_picture="true" keep_aspect_ratio="true">
+				</widget>
+			</container>
+
+			<!--explanatory text-->
+			<widget class="text" alignment="centre" size="large" auto_size="vertical" style="semi_bold, embossed">
+				<translation id="text" translation_id="296345" type="use" value="You are currently unemployed." />
+			</widget>
+			<widget class="text" alignment="centre" size="6" auto_size="vertical">
+				<translation id="text" translation_id="296346" type="use" value="You can look for available jobs in the Jobs section." />
+			</widget>
+
+			<!--button to look for jobs-->
+			<widget class="link_appearance_button" id="jobc">
+				<translation id="text" translation_id="247309" type="use" value="Job Centre" />
+				<layout class="centre_in_parent_attachment" alignment="horizontal" />
+			</widget>
+		</container>
+
+	</container>
+
+</panel>

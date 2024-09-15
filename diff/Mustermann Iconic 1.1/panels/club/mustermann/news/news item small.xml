@@ -1,0 +1,7 @@
+<panel>
+	<layout class="arrange_horizontal_attachment" alignment="left,extend" gap="4" offset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0"/>
+
+	<widget class="picture" file="icons/8px/bullet" red_replacement="text" auto_size="horizontal" image_alignment="centre" height="22"/>
+	<widget class="text" id="titl" multiline="false" size="large" alignment="left,centre_y"/>
+</panel>

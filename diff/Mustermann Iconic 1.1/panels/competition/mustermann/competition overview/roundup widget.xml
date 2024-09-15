@@ -1,0 +1,68 @@
+﻿<panel id="fxco" navigation_container="true">
+	<!-- Note: Height is defined statically on many of these widgets and there is some magic going on with padding widgets-->
+	<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1, 60, 110, 60, -1" horizontal_gap="0" vertical_inset="4" />
+
+	<!-- Home team & scorers -->
+	<container>
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="8" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+		<!-- Home team name -->
+		<widget id="hnam" class="team_button" icon_enabled="false" size="large" colour="text" font="bold" alignment="right,top" auto_size="vertical" multiline="true" navigation_focus_target="true"/>
+		<!-- Home team scorers-->
+		<widget id="hscr" class="text" font="text" size="small" auto_size="vertical" alignment="right,top" colour="faded text" />
+	</container>
+
+	<!-- Home team logo -->
+	<widget id="hlog" class="object_portrait_picture" scale_picture="true" alignment="centre_x,top" image_alignment="centre" height="35" />
+
+	<!-- Score / Result-->
+	<container>
+		<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" do_not_size="true" />
+		<layout class="fit_children_attachment" alignment="vertical,fill" offset="0" gap="0" />
+
+		<!-- Match result-->
+		<container id="rmat" class="inner_box" appearance="boxes/custom/result/standard/paper" auto_size="vertical">
+			<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="15,-1,15" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="12" />
+
+			<!-- Home result -->
+			<widget id="hres" class="text" font="text" alignment="right,centre_y" size="large" colour="yellow" auto_size="vertical" />
+			<!-- Score -->
+			<widget id="scor" class="text" colour="white" font="bold" size="12" alignment="centre" auto_size="vertical" />
+			<!-- Away result -->
+			<widget id="ares" class="text" font="text" alignment="left,centre_y" size="large" colour="yellow" auto_size="vertical" />
+		</container>
+
+		<!-- Aggregate total result -->
+		<container class="inner_box" id="ragg" appearance="boxes/custom/result/aggregate/paper">
+			<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="14,-1,14" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="12" />
+
+			<!-- Home aggregate win due to most away goals scores -->
+			<widget id="hagw" class="label" font="bold" alignment="right,centre_y" size="large" colour="yellow" auto_size="vertical" />
+			<!-- Aggregate score -->
+			<widget id="scra" class="text" colour="white" font="bold" alignment="centre" auto_size="vertical" />
+			<!-- Away aggregate win due to most away goals scores -->
+			<widget id="aagw" class="label" font="bold" alignment="left,centre_y" size="large" colour="yellow" auto_size="vertical" />
+		</container>
+
+		<!-- Kick off time-->
+		<widget class="button" id="time" appearance="boxes/custom/result/time/paper" colour="white" alignment="centre" wants_mouse_events="false" auto_size="all" navigation_focus_target="false">
+			<layout class="centre_in_parent_attachment" alignment="horizontal" offset="0" />
+		</widget>
+	</container>
+
+	<!-- Away team logo -->
+	<widget id="alog" class="object_portrait_picture" scale_picture="true" alignment="centre_x,top" image_alignment="centre" height="35" />
+
+	<!-- Away team & scorers -->
+	<container>
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="8" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+
+		<!-- Away team name -->
+		<widget id="anam" class="team_button" icon_enabled="false" size="large" font="bold" colour="text" auto_size="vertical" multiline="true" navigation_focus_target="true"/>
+		<!-- Away team scorers-->
+		<widget id="ascr" class="text" font="text" size="small" auto_size="vertical" colour="faded text" />
+	</container>
+</panel>

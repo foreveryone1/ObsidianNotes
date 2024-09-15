@@ -1,0 +1,5 @@
+<panel>
+	<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+	<container class="client_object_viewer_xml_panel" file="human/mustermann/home/next fixture/next fixture details 3" id="tmbp" />
+</panel>

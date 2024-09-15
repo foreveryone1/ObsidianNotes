@@ -1,0 +1,252 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+	
+		<container default_height="-120">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+			<container class="player_training_panel" file="player/mustermann/overview/reports training">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</container>
+			
+			<container class="contrast_box_no_margin" red_replacement="bg lighter" id="mmmp" hidn="true">
+				<animation class="slide_in_top_animation"/>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+				<widget class="player_injury_panel" id="mmml" file="player/mustermann/overview/reports medical load" late_loading="true">
+					<record id="object_property" get_property="objt" set_property="objt"/>
+				</widget>
+				
+			</container>
+			
+		</container>
+		
+		<container default_height="-321">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+			<widget class="player_injury_panel" id="mmprps" file="player/mustermann/overview/reports medical" late_loading="true">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+			
+			<container class="contrast_box_no_margin" red_replacement="bg lighter" id="mmap" hidn="true">
+				<animation class="slide_in_bottom_animation"/>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+				<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+								
+					<container class="player_training_panel" file="player/mustermann/overview/training details" id="Ptra" default_width="-1">
+						<record id="object_property" get_property="objt" set_property="objt"/>
+					</container>
+					
+					<container class="vertical_adaptive_container" gap="4" mode="distribute_equally" default_width="300">
+					
+						<widget class="progress_graph_panel" file="player/mustermann/overview/training progress graph" default_height="-1">
+							<record id="object_property">
+								<string id="get_property" value="PpAH" />
+								<string id="set_property" value="valu" />
+							</record>
+							<record id="widget_properties">
+								<string id="icon_enabled" value="false" />
+								<string id="should_recolour" value="false" />
+							</record>	
+						</widget>
+						
+						<widget class="player_attributes_panel" show_attribute_offsets="true" file="player/mustermann/overview/training traits" id="patt" default_height="80">
+							<record id="object_property">
+								<list id="get_properties">
+									<record>
+										<integer id="get_property" value="objt" />
+										<integer id="set_property" value="objt" />
+									</record>
+								</list>
+							</record>
+						</widget>
+						
+						<widget class="player_training_information" id="mmprtbh" file="player/mustermann/overview/ability training buttons" default_height="156">
+							<record id="object_property">
+								<list id="get_properties">
+									<record>
+										<integer id="get_property" value="objt" />
+										<integer id="set_property" value="objt" />
+									</record>
+								</list>
+							</record>
+						</widget>
+						
+					</container>
+					
+				</container>
+				
+			</container>
+			
+		</container>
+		
+		<container class="vertical_adaptive_container" gap="4" mode="distribute_equally" default_height="-320">
+								
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_height="52">
+			
+				<container default_height="30">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<container id="psst">
+						<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+						
+						<widget class="label" alignment="left,top" font="title" size="16" colour="title" auto_size="horizontal" default_height="30">
+							<translation id="text" translation_id="385617" type="use" value="Season Stats"/>     
+						</widget>
+						
+						<widget class="label" alignment="left,top" font="title" size="16" colour="mustermann3" auto_size="horizontal" default_height="30">
+							<translation id="text" type="use" value="/"/>     
+						</widget>
+						
+						<widget class="label" alignment="left,top" font="title" size="16" colour="mustermann3" auto_size="horizontal" default_height="30">
+							<translation id="text" translation_id="319476" type="use" value="Career Stats"/>     
+						</widget>
+						
+					</container>
+					
+					<widget class="icon_button" id="pssb" alignment="right,centre_y" icon_alignment="right,centre_y" show_button_appearance="false" width="16">				
+						<event id="click_event" event_id="psse"/>
+						<attachment class="event_relay_attachment" event_id="psse">
+							<record id="action_event">
+								<flags id="event_id" value="hide"/>
+								<flags id="event_target" value="pssc"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psse">
+							<record id="action_event">
+								<flags id="event_id" value="show"/>
+								<flags id="event_target" value="pscc"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psse">
+							<record id="action_event">
+								<flags id="event_id" value="hide"/>
+								<flags id="event_target" value="psst"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psse">
+							<record id="action_event">
+								<flags id="event_id" value="show"/>
+								<flags id="event_target" value="psct"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psse">
+							<record id="action_event">
+								<flags id="event_id" value="hide"/>
+								<flags id="event_target" value="pssb"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psse">
+							<record id="action_event">
+								<flags id="event_id" value="show"/>
+								<flags id="event_target" value="pscb"/>
+							</record>
+						</attachment>
+					</widget>
+					
+					<container id="psct" hidn="true">
+						<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+						
+						<widget class="label" alignment="left,top" font="title" size="16" colour="mustermann3" auto_size="horizontal" default_height="30">
+							<translation id="text" translation_id="385617" type="use" value="Season Stats"/>     
+						</widget>
+						
+						<widget class="label" alignment="left,top" font="title" size="16" colour="mustermann3" auto_size="horizontal" default_height="30">
+							<translation id="text" type="use" value="/"/>     
+						</widget>
+						
+						<widget class="label" alignment="left,top" font="title" size="16" colour="title" auto_size="horizontal" default_height="30">
+							<translation id="text" translation_id="319476" type="use" value="Career Stats"/>     
+						</widget>
+						
+					</container>
+					
+					<widget class="icon_button" id="pscb" alignment="right,centre_y" icon_alignment="right,centre_y" show_button_appearance="false" width="16" hidn="true">				
+						<event id="click_event" event_id="psce"/>
+						<attachment class="event_relay_attachment" event_id="psce">
+							<record id="action_event">
+								<flags id="event_id" value="show"/>
+								<flags id="event_target" value="pssc"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psce">
+							<record id="action_event">
+								<flags id="event_id" value="hide"/>
+								<flags id="event_target" value="pscc"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psce">
+							<record id="action_event">
+								<flags id="event_id" value="show"/>
+								<flags id="event_target" value="psst"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psce">
+							<record id="action_event">
+								<flags id="event_id" value="hide"/>
+								<flags id="event_target" value="psct"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psce">
+							<record id="action_event">
+								<flags id="event_id" value="show"/>
+								<flags id="event_target" value="pssb"/>
+							</record>
+						</attachment>
+						<attachment class="event_relay_attachment" event_id="psce">
+							<record id="action_event">
+								<flags id="event_id" value="hide"/>
+								<flags id="event_target" value="pscb"/>
+							</record>
+						</attachment>
+					</widget>
+				</container>
+				
+				<widget class="playing_time_label" id="plex" font="text" size="10" alignment="left,top" colour="text" default_height="22">
+					<record id="object_property" get_property="Pcpt" />
+				</widget>
+			</container>						
+			
+			<container class="contrast_box" red_replacement="bg int" default_height="260" navigation_container="true" >
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+				<container id="pssc">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+					<widget class="player_additional_stats_panel" id="pcsp" file="player/mustermann/overview/reports stats active">
+						<record id="object_property">
+							<list id="get_properties">
+								<!-- Hide this panel if player is in inactive league-->
+								<record id="object_property" get_property="objt" set_property="objt"/>
+								<record id="object_property" get_property="Pila" set_property="hidn"/>
+							</list>
+						</record>
+					</widget>
+					<widget class="player_stats_panel" id="pssp" file="player/mustermann/overview/reports stats inactive">
+						<record id="object_property">
+							<list id="get_properties">
+								<!-- Show this panel if player is in inactive league-->
+								<record id="object_property" get_property="Pila" set_property="Shwn"/>
+								<record id="object_property" get_property="objt" set_property="objt"/>
+							</list>
+						</record>
+					</widget>
+				</container>
+				
+				<container id="pscc" hidn="true">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<widget class="playing_history_summary_panel" file="player/mustermann/overview/reports career history" id="Pcrs" default_height="-1">
+						<record id="object_property" get_property="objt" set_property="objt"/>
+					</widget>
+				
+				</container>
+			</container>
+			
+		</container>
+		
+	</container>
+
+</panel>

@@ -1,0 +1,35 @@
+﻿<panel wants_mouse_events="true" absorb_click_events="true">
+
+	<boolean id="is_graph_only" value="true" />
+	<container>
+		<attachment_group class="horizontal_arrange" horizontal_layout="-1" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	
+		<!-- Graph -->
+		<container>
+			<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_offset="0" vertical_gap="4" horizontal_inset="0" />
+			<container>
+				<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_inset="0" />
+
+
+				<container>
+					<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_offset="0" horizontal_inset="0" />
+					
+					<!-- No Data container -->
+					<container id="noDa" hidden="true">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						<widget id="daTX" class="text" alignment="centre" style="semi_bold" colour="faded text">
+							<translation id="text" translation_id="515107" type="use" value="Not enough data available to create visualisation[COMMENT: AREA: Visualisation; SUB-AREA:; FR : 32932; TONE: Formal; CHARLIMIT: None; NOTE: warning to display when not enough data available to create a visualisation]" />
+						</widget>
+					</container>
+					
+					<!--container for the visualisation-->
+					<container class="vertical_arrange_container" alignment="fill" inset="10" id="visC" />
+				
+				</container>
+			</container>
+		</container>
+		
+	</container>
+
+</panel>

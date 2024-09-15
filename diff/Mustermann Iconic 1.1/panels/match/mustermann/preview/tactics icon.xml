@@ -1,0 +1,52 @@
+<panel>
+
+
+	<layout class="arrange_vertical_attachment" layout="-1,25" offset="0" gap="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+	<container>
+
+		<!-- Player picture -->
+		<widget class="object_portrait_picture" id="pict" scale_picture="true" image_alignment="centre_x,bottom">
+			<animation class="fade_animation" start_value="0" end_value="1" duration="0.4" delay="2.3" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true"/>
+
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+
+			<record id="object_property">
+				<integer id="get_property" value="objt"/>
+				<integer id="set_property" value="objt"/>
+			</record>
+		</widget>
+
+	</container>
+
+	<!-- Name -->
+	<container height="25">
+
+		<animation class="scale_animation" start_value="0, 1" end_value="1, 1" duration="0.4" delay="2" end_mode="hold_auto_reverse" tween="ease_out_4" coord_mode="relative_to_target" trigger_id="hidden" trigger_start="false" trigger_end="true" centre_point="0.5,0.5" no_clipping="true"/>
+		<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="2.1" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true"/>
+
+		<attachment_group class="horizontal_arrange" horizontal_alignment="left,extend" horizontal_offset="0" vertical_offset="0" horizontal_gap="-10"/>
+
+		<container class="inner_box" appearance="boxes/custom/match/tv captions/si tv/teams/player/paper" red_replacement="primary" width="38">
+			<attachment_group class="vertical_arrange" vertical_alignment="middle"/>
+
+			<widget class="label" id="bsnm" alignment="centre" font="title" colour="secondary">
+				<animation class="fade_animation" start_value="0" end_value="1" duration="0.4" delay="2.3" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true"/>
+			</widget>
+		</container>
+
+		<container class="inner_box" appearance="boxes/custom/match/tv captions/si tv/teams/player/paper" red_replacement="fg lighter">
+			<attachment_group class="vertical_arrange" horizontal_offset="4" vertical_alignment="middle"/>
+
+			<widget class="label" id="name" alignment="centre,can_scale" colour="bg darker" auto_size="vertical" multiline="false" font="title">
+				<animation class="fade_animation" start_value="0" end_value="1" duration="0.4" delay="2.3" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true"/>
+			</widget>
+		</container>
+
+	</container>
+
+
+
+</panel>

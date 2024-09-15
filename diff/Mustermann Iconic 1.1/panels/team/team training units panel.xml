@@ -1,0 +1,123 @@
+﻿<panel>
+	<container class="main_box" id="plti" navigation_container="true" default_focus="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="8"/>
+		<translation id="title" translation_id="466558" type="use" value="Positional Units[COMMENT: training, breaking down the squad into positional units, Goalkeeper Unit, Defensive Unit, Attacking Unit]" />
+
+		<attachment_group class="horizontal_arrange" horizontal_layout="-1,-1" horizontal_offset="0" horizontal_gap="8" vertical_inset="7" />
+
+		<container  id="at01">
+			<attachment_group class="vertical_arrange" vertical_layout="-1,-1" vertical_offset="0" vertical_gap="8" horizontal_inset="0" />
+			<container class="contrast_box" red_replacement="bg lighter" id="at02" navigation_container="true">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				<container class="client_object_list_table" select_event="stup" id="gktb" name="goalkeeper table" database_table_type="1" row_height="30" mode="fill_rows,select_rows, select_multiple, stripe_rows, printable, keyboard,  show_insert_column_popup">
+					<string id="customisation_context" value="play" />
+					<string id="contextual_handler_column_id" value="PlSC" />
+					<boolean id="should_force_refresh" value="true" />
+					<record id="viewed_property_ids">
+						<record id="Pnfo" />
+						<record id="PlSC" ShAL="true" pDDr="true" width="180">
+							<record id="column_heading">
+								<translation id="hint" translation_id="466559" type="use" value="Goalkeeping Unit[COMMENT:training session selector - Goalkeeping Unit training intensity header]" />
+							</record>
+						</record>
+						<record id="PpsC" auto_hide_priority="10" navigation_focus_target="false" width="-1"/>
+						<record id="PTif" auto_hide_priority="1" unique_id="gktb" width="200"/>
+						<record id="Page" auto_hide_priority="20" navigation_focus_target="false" width="25"/>
+						<record id="PPst" auto_hide_priority="20" width="110"/>
+						<record id="PftI" auto_hide_priority="30" />
+					</record>
+				</container>
+				<container  wants_mouse_events="false" id="at05">
+					<layout class="stick_to_sides_attachment" alignment="top,left" inset="2,0" apply_to_children="true" />
+					<container class="main_box"  appearance="labels/standard/label" id="gkbx" red_replacement="goalkeeper_line" width="140" height="25">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						<widget class="text" wants_mouse_events="false" alignment="centre_x,centre_y" id="gktx">
+							<string id="colour" value="white" />
+							<string id="style" value="bold" />
+							<translation id="text" translation_id="466559" type="use" value="Goalkeeping Unit[COMMENT:training session selector - Goalkeeping Unit training intensity header]" />
+						</widget>
+					</container>
+				</container>
+			</container>
+			<container class="contrast_box" red_replacement="bg lighter" id="at07" navigation_container="true">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				<container class="client_object_list_table" id="dftb" select_event="stup"  name="defensive table" database_table_type="1" row_height="30" mode="fill_rows,select_rows, select_multiple, stripe_rows, printable, keyboard, drag_rows, drop_on_rows,  show_insert_column_popup">
+					<string id="customisation_context" value="play" />
+					<string id="contextual_handler_column_id" value="PlSC" />
+					<boolean id="should_force_refresh" value="true" />
+					<record id="viewed_property_ids">
+						<record id="Pnfo" />
+						<record id="PlSC" ShAL="true" width="180">
+							<record id="column_heading">
+								<translation id="hint" translation_id="466560" type="use" value="Defensive Unit[COMMENT:training session selector - Defensive Unit training intensity header]" />
+							</record>
+						</record>
+						<record id="PpsC" auto_hide_priority="10" navigation_focus_target="false" width="-1"/>
+						<record id="PTif" auto_hide_priority="1" unique_id="dftb" width="200"/>
+						<record id="Page" auto_hide_priority="20" navigation_focus_target="false" width="25"/>
+						<record id="PPst" auto_hide_priority="20" width="110"/>
+						<record id="PftI" auto_hide_priority="30" />
+					</record>
+				</container>
+				<container wants_mouse_events="false" id="at09">
+					<layout class="stick_to_sides_attachment" alignment="top,left" inset="2,0" apply_to_children="true" />
+					<container class="main_box" entity_layout_id="at0:" appearance="labels/standard/label" id="dfbx" red_replacement="defender_line" width="140" height="25">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						<widget class="text" wants_mouse_events="false" alignment="centre_x,centre_y" id="dftx">
+							<string id="colour" value="white" />
+							<string id="style" value="bold" />
+							<translation id="text" translation_id="466560" type="use" value="Defensive Unit[COMMENT:training session selector - Defensive Unit training intensity header]" />
+						</widget>
+					</container>
+				</container>
+			</container>
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg lighter" navigation_container="true">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			<container class="client_object_list_table" id="oftb" select_event="stup" name="offensive table" database_table_type="1" row_height="30" mode="fill_rows,select_rows, select_multiple, stripe_rows, printable, keyboard, drag_rows, drop_on_rows,  show_insert_column_popup">
+				<string id="customisation_context" value="play" />
+				<string id="contextual_handler_column_id" value="PlSC" />
+				<boolean id="should_force_refresh" value="true" />
+				<record id="viewed_property_ids">
+					<record id="Pnfo" />
+					<record id="PlSC" ShAL="true" width="180">
+						<record id="column_heading">
+							<translation id="hint" translation_id="466561" type="use" value="Attacking Unit[COMMENT:training session selector - Attacking Unit training intensity header]" />
+						</record>
+					</record>
+					<record id="PpsC" auto_hide_priority="10" navigation_focus_target="false" width="-1"/>
+					<record id="PTif" auto_hide_priority="1" unique_id="oftb" width="200"/>
+					<record id="Page" auto_hide_priority="20" navigation_focus_target="false" width="25"/>
+					<record id="PPst" auto_hide_priority="20" width="110"/>
+					<record id="PftI" auto_hide_priority="30" />
+				</record>
+			</container>
+			<container wants_mouse_events="false">
+				<layout class="stick_to_sides_attachment" alignment="top,left" inset="2,0" apply_to_children="true" />
+				<container class="main_box" appearance="labels/standard/label" id="ofbx" red_replacement="attacker_line" width="140" height="25">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+					<widget class="text" wants_mouse_events="false" alignment="centre_x,centre_y" id="oftx">
+						<string id="colour" value="white" />
+						<string id="style" value="bold" />
+						<translation id="text" translation_id="466561" type="use" value="Attacking Unit[COMMENT:training session selector - Attacking Unit training intensity header]" />
+					</widget>
+				</container>
+			</container>
+		</container>
+	</container>
+
+	<widget class="client_action_popup_button"  icon_alignment="left" id="ythP" auto_size="all" embed_in_frame="true">
+		<layout class="stick_to_sides_attachment" alignment="top,right" inset="16,8"/>
+		<string id="fixed" value="true" />
+		<string id="icon" value="icons/16px/plus" />
+		<string id="action_id" value="tAdt" />
+		<string id="ignore_top_level_submenus" value="true" />
+		<record id="dbrp">
+			<string id="get_property" value="objt" />
+			<string id="set_property" value="objt" />
+		</record>
+		<layout class="stick_to_object_attachment" id="alPt" embed_in_frame="true" offset="2" get_side="top" set_side="top" move_side="true" target="fmin" />
+		<layout class="stick_to_object_attachment" id="alPr" embed_in_frame="true" offset="-6" get_side="right" set_side="right" move_side="true" target="fmin" />
+	</widget>
+</panel>

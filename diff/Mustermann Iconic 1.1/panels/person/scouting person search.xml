@@ -1,0 +1,42 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+
+	<list id="properties_to_forward">
+		<record get_property="pshA" target="pspa" set_property="pshA" />
+	</list>
+
+	<container>
+		<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="8"/>
+		<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+		<!--for staff-->
+		<widget class="scouting_top_panel" id="stop">
+			<list id="visible_items">
+				<flags value="coac"/>
+				<flags value="scoc"/>
+				<flags value="medc"/>
+				<flags value="trbc"/>
+			</list>
+		</widget>
+
+		<!--for players-->
+		<widget class="scouting_top_panel" id="ptop">
+			<list id="visible_items">
+				<flags value="trwd" />
+				<flags value="scfc" />
+				<flags value="scpc" />
+				<flags value="scbc" />
+				<flags value="trbc" />
+				<flags value="assc" />
+			</list>
+		</widget>
+
+		<widget class="person_search_panel" id="pspa" type="1" late_loading="true">
+			<translation id="title" translation_id="293613" type="use" value="List" />
+			<animation class="position_animation" />
+		</widget>
+
+	</container>
+
+</panel>
+

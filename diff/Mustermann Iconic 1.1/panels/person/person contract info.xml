@@ -1,0 +1,43 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<container class="scrolling_box">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="8" />
+
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_gap="8"/>
+
+			<!-- Player Contract Details panel -->
+			<widget class="player_contract_panel" id="pcnt" hidden="true">
+				<record id="object_property">
+					<list id="get_properties" >
+						<!-- PROP_PERSON_ONLY_HAS_PLAYING_CLUB_JOB -> show if true -->
+						<record get_property="Popj" set_property="Shwn"/>
+						<record get_property="objt" set_property="objt"/>
+					</list>
+				</record>
+			</widget>
+			<!-- Non-player Contract Details panel -->
+			<widget class="non_player_contract_panel" id="ncnt" hidden="true">
+				<record id="object_property">
+					<list id="get_properties" >
+						<!-- PROP_PERSON_HAS_NON_PLAYING_CLUB_JOB -> show if true -->
+						<record get_property="Phnj" set_property="Shwn"/>
+						<record get_property="objt" set_property="objt"/>
+					</list>
+				</record>
+			</widget>
+			<!-- Second Contract Panel (i.e. out on loan)-->
+			<widget class="player_contract_panel" id="2cnt" pUOC="true" hidden="true">
+				<record id="object_property">
+					<list id="get_properties" >
+						<!-- PROP_PERSON_ONLY_HAS_PLAYING_CLUB_JOB -> show if true -->
+						<record get_property="Popj" set_property="Shwn"/>
+						<record get_property="objt" set_property="objt"/>
+					</list>
+				</record>
+			</widget>
+		</container>
+	</container>
+
+</panel>

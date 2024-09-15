@@ -1,0 +1,27 @@
+<panel id="mop1">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+
+	<container class="modal_sheet" id="mdsh" darkened="true" can_click_outside_to_cancel="true">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="16"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+
+		<container class="contrast_box_no_margin" id="mDia" red_replacement="bg lighter">
+			<layout class="centre_in_parent_attachment" alignment="all"/>
+
+			<container id="topb">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+			</container>
+
+			<widget class="icon_button" icon="icons/16px/clear" height="30" width="30" icon_alignment="centre" id="clos" appearance="buttons/subtle/flex/button">
+				<layout class="stick_to_sides_attachment" alignment="right,top" inset="4"/>
+
+				<record id="click_event">
+					<flags id="event_id" value="remo"/>
+				</record>
+			</widget>
+		</container>
+	</container>
+
+</panel>
+

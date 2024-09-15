@@ -1,0 +1,13 @@
+<panel navigation_focus_target="true">
+	<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_gap="1" vertical_offset="2" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_gap="2" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+		<!-- Object -->
+		<widget class="text" id="brif" alignment="left,bottom" font="title" size="6" auto_size="vertical" usoc="true" multiline="false"/>
+		<!-- Story title -->
+		<widget class="text" id="titl" style="semi_bold" alignment="left,top"/>
+	</container>
+
+</panel>

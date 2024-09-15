@@ -1,0 +1,26 @@
+﻿<panel height="28">
+	<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="left, extend" horizontal_gap="4" horizontal_offset="0" vertical_offset="0" vertical_inset="0"/>
+
+	<container>
+		<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="right, extend" horizontal_gap="4" horizontal_offset="0" vertical_offset="0" vertical_inset="0"/>
+
+		<!-- objective name text -->
+		<widget class="text" id="obnm" alignment="left, centre_y" colour="text" size="8" disabled_colour="faded text" multiline="true" auto_size="vertical">
+			<record id="auto_size_restrictions">
+				<string id="type" value="property"/>
+				<string id="limit_type" value="maximum"/>
+				<string id="orientation" value="vertical"/>
+				<flags id="target" value="obnm"/>
+				<integer id="value" value="2"/>
+				<flags id="property" value="restrict_to_lines"/>
+			</record>
+		</widget>
+
+		<!-- linked object selection popup -->
+		<container id="clbx">
+			<attachment_group class="horizontal_arrange_autosize_all_centre" horizontal_alignment="left" horizontal_offset="0" vertical_inset="0"/>
+
+			<widget class="subtle_popup_button" id="clst" sele="clst" auto_tick_exclusive="true" fixed="false" auto_size="all" style="bold" colour="text"/>
+		</container>
+	</container>
+</panel>

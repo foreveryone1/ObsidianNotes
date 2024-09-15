@@ -1,0 +1,10 @@
+﻿<panel height="50">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="2" apply_to_children="true" />
+
+	<container class="main_contrast_box_no_margin" id="sBox" wants_mouse_events="false">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="2" apply_to_children="true" />
+		<widget class="picture" id="pict"  red_replacement="white" image_alignment="centre"  keep_aspect_ratio="true" wants_mouse_events="false"  />
+		<widget class="object_portrait_picture" id="matP" red_replacement="white" image_alignment="centre" keep_aspect_ratio="true"  scale_picture="true" hidden="true" />
+	</container>
+	<widget class="button" id="SesB" show_button_appearance="false" />
+</panel>

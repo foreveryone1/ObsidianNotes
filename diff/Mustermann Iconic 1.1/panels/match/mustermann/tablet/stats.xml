@@ -1,0 +1,76 @@
+﻿<panel>
+	<list id="properties_to_forward">
+		<record get_property="hicb" target="canc" set_property="hidn"/>
+	</list>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<boolean id="show_bars" value="false" />
+	<boolean id="show_highlights" value="true" />
+
+	<container class="inner_box" navigation_container="true">
+
+		<attachment_group class="horizontal_arrange"  horizontal_layout="-2,-8,-2" horizontal_gap="20" />
+
+		<!-- Home Team logo/kit -->
+		<container>
+			<attachment_group class="vertical_arrange" vertical_layout="-3,-3,-4,-3" vertical_gap="20"/>
+			<widget class="spacer" />
+			<widget class="object_portrait_picture" id="tbph" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x,bottom" clickable="false"/>
+			<widget class="kit_picture" id="T_hk" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x,top" clickable="false"/>
+			<widget class="spacer" />
+		</container>
+		
+		<container>
+
+			<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_gap="10"/>
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="4" />
+
+			<widget class="table" id="mstn" layout="4,-1,-1,-1,4" mode="printable" row_height="24" row_spacing="2" column_spacing="5" navigation_container="true">
+
+				<list id="column_widget_properties">
+					<record indx="0" alignment="left,centre_y"  />
+					<record indx="1" alignment="left,centre_y"  />
+					<record indx="2" alignment="centre"  /> 
+					<record indx="3" alignment="right,centre_y"  />
+					<record indx="4" alignment="right,centre_y"  />
+				</list>
+
+				<list id="column_table_properties">
+					<record indx="0" id="higl" sort_disabled="true"/>
+					<record indx="1" id="home" sort_disabled="true"  />
+					<record indx="2" id="labl" sort_disabled="true" />
+					<record indx="3" id="away" sort_disabled="true" />
+					<record indx="4" id="higr" sort_disabled="true"/>
+				</list>
+
+			</widget>
+
+			<container>
+
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="middle"/>
+
+				<widget class="icon_button" click_event="mcss" auto_size="all" default_focus="true" appearance="buttons/subtle/normal/button">
+					<translation id="text" translation_id="333760" type="use" value="Customise[COMMENT:Match screen; match stats panel; button text for customising visible match stats]" />
+				</widget>
+
+				<widget class="icon_button" id="canc" click_event="canc" auto_size="all" controller_button="b_button" hidden="true"  appearance="buttons/subtle/normal/button">
+					<translation id="text" translation_id="249644" type="use" value="Close[COMMENT - Button to close tutorial dialog]" />
+				</widget>
+
+			</container>
+
+		</container>
+
+		<!-- Away Team logo/kit -->
+		<container>
+			<attachment_group class="vertical_arrange" vertical_layout="-3,-3,-4,-3" vertical_gap="20"/>
+			<widget class="spacer" />
+			<widget class="object_portrait_picture" id="tbpa" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x,bottom" clickable="false"/>
+			<widget class="kit_picture" id="T_ak" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x,top" clickable="false"/>
+			<widget class="spacer" />
+		</container>
+	
+	</container>
+
+
+</panel>

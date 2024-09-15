@@ -1,0 +1,6 @@
+<record>
+	<string id="file_name" value="Montserrat-Regular.ttf"/>
+	<real id="font_size_small" value="6" />
+	<real id="font_size_normal" value="8" />
+	<real id="font_size_large" value="10" />
+</record>

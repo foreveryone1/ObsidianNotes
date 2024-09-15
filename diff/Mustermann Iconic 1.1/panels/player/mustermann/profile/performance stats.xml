@@ -1,0 +1,843 @@
+<panel background_colour="bg lighter">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+	<container class="mustermann_tabbed" id="stct" default_item="stto" save_session_state="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+		
+		<!--TOTAL-->
+		<container id="stto">
+			<translation id="title" translation_id="330715" type="use" value="Total"/>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+			<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" id="stto">
+				
+				<!--ATTACKING/GOALKEEPING-->
+				<container class="contrast_box" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<!--ATTACKING-->
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_attack" default_width="-1" height="22">
+							<translation id="text" type="use" value="Attacking"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="227851" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Pogl"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513483" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PoxG"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="552419" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PNxg"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="291479" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POsa"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="Post"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="247590" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Poas"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513484" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PoxA"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="318355" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POkp"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="554502" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Popk"/>    
+							</widget>
+						</container>
+					
+					</container>
+				
+					<!--GOALKEEPING-->
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_attack" default_width="-1" height="22">
+							<translation id="text" type="use" value="Goalkeeping"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513486" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POs%"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="534814" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POx%"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="247734" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Poco"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="534930" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PxGP"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="317291" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POcs"/>    
+							</widget>
+						</container>
+						
+						<container/>
+						<container/>
+						<container/>
+						<container/>
+					
+					</container>			
+				
+				</container>
+				
+				<!--DEFENDING-->
+				<container class="contrast_box" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<container>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_defend" default_width="-1" height="22">
+							<translation id="text" type="use" value="Defending"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="554494" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PRSa"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="554496" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Pres"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="247389" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POtc"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="POtr"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="291486" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POic"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513438" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POCL"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513525" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Pobl"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="388158" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POhc"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="POhr"/>     
+							</widget>
+						</container>
+					
+					</container>
+							
+				</container>
+				
+				<!--POSSESSION-->
+				<container class="contrast_box" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<container>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_possess" default_width="-1" height="22">
+							<translation id="text" type="use" value="Possession"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513512" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POpC"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="Popa"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="552423" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PGRp"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="374038" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POdm"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="297349" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POcc"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="POcr"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513437" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="replace"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513436" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="replace"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="289453" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="distance_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POdr"/>    
+							</widget>
+						</container>
+					
+					</container>
+							
+				</container>
+					
+			</container>
+		</container>
+			
+		<!--PER 90-->
+		<container id="stpn">
+			<translation id="title" translation_id="374186" type="use" value="Per 90 Minutes"/>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+			<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" id="per90">
+				
+				
+				<!--ATTACKING/GOALKEEPING-->
+				<container class="contrast_box" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<!--ATTACKING-->
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_attack" default_width="-1" height="22">
+							<translation id="text" type="use" value="Attacking"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="227851" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POgg"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513483" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PxG9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="552419" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PNx9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="291479" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POsg"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="Post"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="247590" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POag"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513484" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PxA9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="318355" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POkG"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="554502" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Pop9"/>    
+							</widget>
+						</container>
+					
+					</container>
+				
+					<!--GOALKEEPING-->
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_attack" default_width="-1" height="22">
+							<translation id="text" type="use" value="Goalkeeping"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513486" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POs%"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="534814" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POx%"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="247734" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POcg"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="534930" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Pxg9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="317291" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POg9"/>    
+							</widget>
+						</container>
+						
+						<container/>
+						<container/>
+						<container/>
+						<container/>
+					
+					</container>			
+				
+				</container>
+				
+				<!--DEFENDING-->
+				<container class="contrast_box" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<container>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_defend" default_width="-1" height="22">
+							<translation id="text" type="use" value="Defending"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="554494" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PRS9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="554496" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Prs9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="247389" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Pota"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="POtr"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="291486" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POiG"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513438" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POc9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513525" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PObg"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="388158" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POHg"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="POhr"/>     
+							</widget>
+						</container>
+					
+					</container>
+							
+				</container>
+				
+				<!--POSSESSION-->
+				<container class="contrast_box" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<container>
+						<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+						
+						<widget class="label" alignment="left,centre_y" font="title" size="10" colour="pizza_possess" default_width="-1" height="22">
+							<translation id="text" type="use" value="Possession"/>     
+						</widget>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513512" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POpc"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="Popa"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="552423" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PGR9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="374038" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="Podr"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="297349" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POcP"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget default_width="-1"/>
+							
+							<widget class="dashed_record_percentage_label" alignment="right,top" colour="faded text" default_width="60">
+								<record id="object_property" get_property="POcr"/>     
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513437" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POW9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="513436" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="dashed_number_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="POL9"/>    
+							</widget>
+						</container>
+						
+						<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally">
+						
+							<widget class="label" alignment="left,centre_y" font="text" default_width="-1">
+								<translation id="text" translation_id="289453" type="use" value="Statistic Name"/>     
+							</widget>
+							
+							<widget class="distance_label" alignment="right,centre_y" font="text" default_width="60">
+								<record id="object_property" get_property="PODr"/>    
+							</widget>
+						</container>
+					
+					</container>
+							
+				</container>
+			
+			</container>
+		</container>	
+	</container>
+						
+	<!--OVERLAY-->
+	<!--<container class="client_object_viewer_selector_panel" id="mmul" file="player/mustermann/performance/player performance stats underlay" default_item="mmul1" save_session_state="true" dont_set_embedded_title="true" priority="1" navigation_container="true">
+	</container>-->
+
+</panel>

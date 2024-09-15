@@ -1,0 +1,219 @@
+<panel minimum_width='450' maximum_width="600" minimum_height="300" maximum_height="1024">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="80">
+			<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="left,extend" horizontal_offset="8" horizontal_gap="8"/>
+
+			<!-- Comp logo -->
+			<widget class="object_portrait_picture" id="logo" scale_picture="true" image_alignment="centre" height="64" width="64">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+			<!-- Comp name -->
+			<widget class="comp_button" id="name" icon_enabled="false" alignment="left,centre_y" size="xlarge" font="title" colour="mustermanntext" multiline="true" auto_size="vertical" default_focus="true">
+				<record id="object_property">
+					<list id="get_properties">
+						<record id="object_property" get_property="objt" set_property="valu" />									
+					</list>
+				</record>
+			</widget>
+		</container>
+		
+		<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="mustermann2">		
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0"/>
+
+			<!-- Board stuff for human team-->
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-2, -1"/>
+
+				<container>
+					<attachment_group class="vertical_arrange_autosize" vertical_layout="-1, -1"/>
+					<!-- Board expectation-->
+					<widget class="text" auto_size="vertical" font="label" colour="mustermanntext">
+						<translation id="text" translation_id="375194" type="use" value="Board Expectation[COMMENT: FR 8116; team competitions panel; label for field showing the boards expectaion of the teams perfoamcen in a competition]"/>
+					</widget>
+
+					<widget class="text" id="brdE" auto_size="vertical" style="bold" colour="mustermanntext"/>
+				</container>
+
+				<container>
+					<attachment_group class="vertical_arrange_autosize" vertical_layout="-1, -1"/>
+					
+					<!-- Board confidence-->
+					<widget class="text" auto_size="vertical" font="label" colour="mustermanntext">
+						<translation id="text" translation_id="491844" type="use" value="Performance[COMMENT: AREA: Boardroom; SUB-AREA: Appraisal of Performance; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short, one word; REF-ID: n/a; NOTE: this is replacing Confidence as the singular term relating to the Boardroom and the evaluation of managerial performance]"/>
+					</widget>
+					<widget class="horizontal_percentage_bar" id="brdB" height="20"/>
+				</container>
+			</container>
+
+			<!-- Media expectation for AI divison-->
+			<container id="medi" hidden="true">
+				<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="2" horizontal_inset="0" />
+
+				<!-- Media prediction-->
+				<widget class="label" auto_size="vertical" font="label" colour="mustermanntext">
+					<translation id="text" translation_id="243509" type="use" value="Media Prediction" />
+				</widget>
+				<widget class="label" id="medP" auto_size="vertical" style="bold" colour="mustermanntext"/>
+			</container>
+
+			<widget class="table" id="forP" layout="160, -2, -3" row_spacing="2" mode="none" auto_size="vertical" fixed_size_rows="false" auto_size_rows="true">
+				<!-- Recent form -->
+				<widget class="label" auto_size="vertical" alignment="left,bottom" row="0" col="0" font="label" colour="mustermanntext" >
+					<translation id="text" translation_id="344664" type="use" value="Recent Form" />
+				</widget>
+				<widget class="team_recent_form_widget" id="form" row="1" col="0" auto_size="vertical" navigation_focus_target="false"/>
+				<!-- Past positions -->
+				<widget class="label" auto_size="vertical" alignment="left,bottom" row="0" col="1" column_span="2" font="label" colour="faded text">
+					<translation id="text" translation_id="232109" type="use" value="League Positions" />
+				</widget>
+				<container class="league_positions_panel" id="lpos" file="team/team competitions overview past positions panel" row="1" col="1" column_span="2" height="50" />
+			</widget>
+
+			
+		</container>
+		
+		<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1">
+			<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+			<container class="vertical_adaptive_container" inset="0" gap="10" mode="distribute_equally" offset="0">
+				<container id="cosC" minimum_height="240" priority="1">
+					<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+					<!-- Stage name-->
+					<widget class="label" id="stgN" style="bold" hidden="true"/>
+					<!-- Comp start date if not started-->
+					<widget class="label" id="cstr" auto_size="vertical" alignment="centre_x,top" size="normal" hidden="true"/>
+					<!-- League table -->
+					<widget class="competition_stage_panel" file="team/team competitions overview competition stage panel" id="cosg" />
+				</container>
+
+				<!-- Panel showing info after team if knocked out -->
+				<container id="cupc" priority="2">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+					<container>
+						<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+						<!-- Comp end date -->
+						<widget class="text" id="cend" auto_size="vertical" alignment="centre_x,top" size="normal" />
+						<!-- Stage knocked out -->
+						<widget class="text" id="stgn" auto_size="vertical" alignment="centre_x,top" size="large" multiline="true"/>
+					</container>
+					<!-- Trophy panel when user's team wins -->
+					<container id="trop" height="90">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<!-- Trophy and team badge -->
+						<widget class="comp_award_trophy_picture" id="TROP" scale_picture="true" image_alignment="centre" />
+					</container>
+					<!-- Text -->
+					<container>
+						<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+						<!-- Winner/runner up-->
+						<widget class="text" id="wint" auto_size="vertical" size="large" alignment="centre" hidden="true"/>
+						<!-- Team that won (when not user's) -->
+						<widget class="text" id="owin" auto_size="none" alignment="centre_x,top" size="normal" hidden="true"/>
+						<!--<widget class="team_button" id="wtem" auto_size="vertical" icon_enabled="false" size="large" alignment="centre" hidden="true" mode="1"/>-->
+					</container>
+				</container>
+
+				<!-- Next round panel for cups not in the group stages -->
+				<container class="client_object_viewer_xml_panel" id="next" hidden="true" height="216" minimum_height="216" priority="3">
+					<layout class="arrange_vertical_attachment" layout="60, 70, 50" offset="0" gap="0"/>
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+					<!-- Date and round -->
+					<container>
+						<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="4"/>
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+						<!-- Date of next round -->
+						<widget class="date_cell" id="Fdat" alignment="centre_x,bottom" auto_size="vertical" navigation_focus_target="false">
+							<translation id="format" translation_id="375284" type="use" value="Next round on [%date#1-short][COMMENT: FR 8116; team competitions overview; date of next round in cup competition]" />
+							<record id="object_property" get_property="fxdS" set_property="valu" />
+						</widget>
+						<!-- Name of next round -->
+						<widget class="fixture_name_text" id="Fnam" alignment="centre_x,top" format="[%fixture_name#1-nocomp]" size="xlarge">
+							<record id="object_property" get_property="FxNm" set_property="valu" />
+						</widget>
+					</container>
+
+					<container>
+						<layout class="arrange_horizontal_attachment" layout="-1, 30, -1" offset="0" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+						<!-- Home team logo -->
+						<widget class="object_portrait_picture" id="homL" scale_picture="true" image_alignment="centre">
+							<record id="object_property" get_property="home" set_property="objt" />
+						</widget>
+
+						<widget class="label" size="xlarge" alignment="centre">
+							<translation id="text" translation_id="242324" type="use" value="v[versus]" />
+						</widget>
+
+						<!-- Away team logo -->
+						<widget class="object_portrait_picture" id="awaL" scale_picture="true" image_alignment="centre">
+							<record id="object_property" get_property="away" set_property="objt" />
+						</widget>
+					</container>
+
+					<container>
+						<layout class="arrange_horizontal_attachment" layout="-1, 30, -1" offset="0" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+						<!-- Home team name -->
+						<widget class="team_button" id="homN" icon_enabled="false" alignment="centre_x,top" size="large" mode="1" navigation_focus_target="true">
+							<record id="object_property" get_property="home" set_property="valu" />
+						</widget>
+
+						<widget class="spacer" />
+
+						<!-- Away team name -->
+						<widget class="team_button" id="awaN" icon_enabled="false" alignment="centre_x,top" size="large" mode="1" navigation_focus_target="true">
+							<record id="object_property" get_property="away" set_property="valu" />
+						</widget>
+					</container>
+				</container>
+
+				<!-- Extra stats and stuff to fill the space -->
+				<container file="team/mustermann/competitions/player stats" id="extr" minimum_height="60" priority="4"/>
+			</container>
+
+			<container id="lbtS">
+				<attachment_group class="vertical_arrange_autosize"/>
+
+				<container>
+					<global id="hidden" name="ui.is_fmt_controller_skin"/>
+
+					<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1,-1">
+						 <global id="horizontal_gap" name="ui.button_row_gap" />
+					</attachment_group>
+		
+					<widget id="lbt1" class="link_button" section="cste" auto_size="all" navigation_focus_target="true">
+						<string id="create_if" value="show_comp_team_stats_section"/>
+						<record id="object_property" get_property="CfLk" set_property="objt"/>
+						<translation id="text" translation_id="251858" type="use" value="Team Stats[COMMENT: manager snapshot/home: team stats summary panel heading]" />
+					</widget>
+					<widget id="lbt2" class="link_button" section="cspl" auto_size="all" navigation_focus_target="true">
+						<record id="object_property" get_property="CfLk" set_property="objt"/>
+						<translation id="text" translation_id="248440" type="use" value="Player Stats" />
+					</widget>
+					<widget id="lbt3" class="link_button" section="csrl" auto_size="all" navigation_focus_target="true">
+						<string id="create_if" value="show_comp_rules_section"/>
+						<record id="object_property" get_property="CfLk" set_property="objt"/>
+						<translation id="text" translation_id="242302" type="use" value="Rules" />
+					</widget>
+				</container>
+			</container>
+		</container>
+	
+	</container>
+
+	
+</panel>

@@ -1,0 +1,26 @@
+﻿<panel navigation_focus_target="true">
+  <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+  <widget class="inner_box_no_margin" id="inji"  icon_alignment="left,top"/>
+
+  <container>
+    <layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" />
+    <layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+    <container>
+      <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+      <widget class="picture" id="bsic" scale_picture="false" file="pitch/icons/kit/large/simple kit" image_alignment="centre" navigation_focus_target="true">
+      </widget>
+
+      <container class="plain_box" id="bssl" appearance="mustermann/tactics highlight/paper" hidden="true"/>
+
+      <widget class="text" id="bsnm" alignment="centre">
+      </widget>
+    </container>
+
+    <widget class="text" id="name" size="small" alignment="centre,can_scale" multiline="false" height="14" style="semi_bold">
+      <layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+    </widget>
+  </container>
+
+</panel>

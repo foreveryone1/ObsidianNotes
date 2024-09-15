@@ -1,0 +1,660 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
+	
+		<!--<widget class="text" font="title" size="10" alignment="left,centre_y" default_height="22">
+			<translation id="text" value="Match Report" translation_id="242329" type="use" />
+		</widget>-->
+				
+		<container class="client_object_viewer_xml_panel" id="fxcO" height="30">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+			<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+			
+				<widget class="text" font="title" size="10" alignment="left,centre_y" default_width="150">
+					<translation id="text" value="Match Report" translation_id="242329" type="use" />
+				</widget>
+				
+				<widget class="fixture_opponent_team_button" alignment="right,centre_y" size="10" default_width="-1">
+					<record id="object_property" get_property="fopt"/>
+				</widget>
+				
+				<widget class="fixture_result_icon" alignment="centre_x,centre_y" size="10" default_width="20">
+					<record id="object_property" get_property="FxRT"/>
+				</widget>
+				
+				<widget class="fixture_button" alignment="left,centre_y" size="10" default_width="-1">
+					<record id="object_property" get_property="FxRs"/>
+				</widget>
+																							
+				<container default_width="128"/>
+				
+				<widget class="popup_button" id="at0D" show_button_appearance="false" default_width="22"/>
+			</container>
+		</container>
+		
+		<container class="horizontal_adaptive_container" gap="16" mode="distribute_equally" default_height="-1">
+		
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+			
+				<container class="label_value_percentage_bar" id="at02" name="relevant_stat_1_container"/>
+				<container class="label_value_percentage_bar" id="at03" name="relevant_stat_2_container"/>
+				<container class="label_value_percentage_bar" id="at04" name="relevant_stat_3_container"/>
+				<container class="label_value_percentage_bar" id="at05" name="relevant_stat_4_container"/>
+				
+			</container>
+					
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+			
+				<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+					<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6" default_height="16">
+						<translation id="text" value="Position" translation_id="227884" type="use" />
+					</widget>
+					<widget class="text" id="at0J" alignment="left,top" font="text" colour="text" size="10" default_height="-1"/>
+				</container>
+				
+				<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally" default_height="-1">
+				
+					<container default_width="-1">
+						<attachment class="vertical_arrange" vertical_layout="16,-1"/>
+					
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Mins" translation_id="319555" type="use" />
+							</widget>
+						</container>
+						
+						<widget class="text" id="at0Q" alignment="left,top" font="text" colour="text" size="10"/>
+					</container>
+					
+					<container default_width="-1">
+						<attachment class="vertical_arrange" vertical_layout="16,-1"/>
+					
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="hidn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Goals" translation_id="227857" type="use" />
+							</widget>
+						</container>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Conceded" translation_id="323267" type="use" />
+							</widget>
+						</container>
+						
+						<widget class="text" id="at0T" alignment="left,top" font="text" colour="text" size="10"/>
+					</container>
+					
+					<container default_width="-1">
+						<attachment class="vertical_arrange" vertical_layout="16,-1"/>
+					
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="hidn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Assists" translation_id="227847" type="use" />
+							</widget>
+						</container>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Saves" translation_id="316588" type="use" />
+							</widget>
+						</container>
+						
+						<widget class="text" id="at0U" alignment="left,top" font="text" colour="text" size="10"/>
+					</container>
+
+					<container default_width="-1">
+						<attachment class="vertical_arrange" vertical_layout="16,-1"/>
+					
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Key Passes" translation_id="318355" type="use" />
+							</widget>
+						</container>
+						
+						<widget class="text" id="at0V" alignment="left,top" font="text" colour="text" size="10"/>
+					</container>
+					
+					<container default_width="-1">
+						<attachment class="vertical_arrange" vertical_layout="16,-1"/>
+					
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="text" alignment="left,bottom" font="title" colour="faded text" size="6">
+								<translation id="text" value="Match Rating" translation_id="420697" type="use" />
+							</widget>
+						</container>
+						
+						<widget class="text" id="at0S" alignment="left,top" font="text" colour="text" size="10"/>
+					</container>				
+
+				</container>
+				
+				<container default_height="-2">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<widget class="text" id="mrCB" font="text" size="10" alignment="left,top"/>
+					<widget class="label" font="text" colour="faded text" size="8" alignment="right,bottom" id="taGO" default_height="22"/>
+				
+				</container>
+				
+			</container>
+										
+		</container>
+	
+	</container>
+	<!--<list id="draw_order">
+		<record entity_layout_id="at00" />
+		<record entity_layout_id="at0A" />
+		<record entity_layout_id="at0B" />
+		<record entity_layout_id="at0C" />
+		<record entity_layout_id="at0D" />
+		<record entity_layout_id="at0W" />
+		<record entity_layout_id="at0X" />
+		<record entity_layout_id="at06" />
+		<record entity_layout_id="at01" />
+		<record entity_layout_id="at02" />
+		<record entity_layout_id="at03" />
+		<record entity_layout_id="at04" />
+		<record entity_layout_id="at05" />
+		<record entity_layout_id="at07" />
+		<record entity_layout_id="at09" />
+		<record entity_layout_id="at0H" />
+		<record entity_layout_id="at0G" />
+		<record entity_layout_id="at0F" />
+		<record entity_layout_id="at0:" />
+		<record entity_layout_id="at08" />
+		<record entity_layout_id="at0;" />
+		<record entity_layout_id="at0I" />
+		<record entity_layout_id="at0J" />
+		<record entity_layout_id="at0&lt;" />
+		<record entity_layout_id="at0K" />
+		<record entity_layout_id="at0Q" />
+		<record entity_layout_id="at0=" />
+		<record entity_layout_id="at0L" />
+		<record entity_layout_id="at0R" />
+		<record entity_layout_id="at0&gt;" />
+		<record entity_layout_id="at0M" />
+		<record entity_layout_id="at0S" />
+		<record entity_layout_id="at0?" />
+		<record entity_layout_id="at0N" />
+		<record entity_layout_id="at0T" />
+		<record entity_layout_id="at0@" />
+		<record entity_layout_id="at0O" />
+		<record entity_layout_id="at0U" />
+		<record entity_layout_id="at0E" />
+		<record entity_layout_id="at0P" />
+		<record entity_layout_id="at0V" />
+	</list>
+	<widget class="spacer" id="main">
+		<boolean id="exclude_from_find" value="true" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</widget>
+	<widget class="spacer" id="fmin" embed_in_frame="true">
+		<boolean id="exclude_from_find" value="true" />
+		<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+	</widget>
+	<container entity_layout_id="at00" id="at00">
+		<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+		<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+		<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+		<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+		<widget class="spacer" id="main">
+			<boolean id="exclude_from_find" value="true" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+		</widget>
+		<widget class="spacer" id="fmin" embed_in_frame="true">
+			<boolean id="exclude_from_find" value="true" />
+			<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+		</widget>
+		<container entity_layout_id="at0A" id="at0A" height="40" name="loan_match_report_title_container">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			<widget class="spacer" id="main">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+			<widget class="spacer" id="fmin" embed_in_frame="true">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+			</widget>
+			<widget class="text" entity_layout_id="at0B" alignment="centre_y,left" id="at0B" name="loan_match_report_title">
+				<translation id="text" value="Match Report" translation_id="242329" type="use" />
+				<string id="size" value="medium" />
+				<string id="font" value="title" />
+				<string id="colour" value="accent" />
+				<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" move_side="true" target="main" />
+				<layout class="stick_to_sizes_attachment" width="20.000000" />
+			</widget>
+			<widget class="label" entity_layout_id="at0C" alignment="centre_y,right" id="taGO" name="loan_match_report_time_ago_text">
+				<string id="colour" value="faded text" />
+				<string id="size" value="medium" />
+				<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" move_side="true" target="main" />
+				<layout class="stick_to_sizes_attachment" width="45.000000" />
+			</widget>
+			<widget class="popup_button" entity_layout_id="at0D" id="at0D" name="loan_match_report_select_match_popup">
+				<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="right" set_side="left" target="at0B" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="left" set_side="right" target="at0C" />
+			</widget>
+		</container>
+		<container class="main_box" entity_layout_id="at0W" id="nnAv" hidden="true">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0A" />
+			<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" offset="40" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			<widget class="spacer" id="main">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+			<widget class="spacer" id="fmin" embed_in_frame="true">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+			</widget>
+			<widget class="text" entity_layout_id="at0X" alignment="centre_x,top" id="at0X">
+				<string id="colour" value="faded text" />
+				<string id="size" value="large" />
+				<translation id="text" translation_id="492011" type="use" value="There are currently no match reports available[COMMENT: AREA: loan_report; SUB-AREA: Loan Match Report; FR-BN: ; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: String to indicate there are no match reports available to display for player]" />
+				<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			</widget>
+		</container>
+		<container entity_layout_id="at06" id="mnCt">
+			<layout class="stick_to_object_attachment" id="align_top" offset="1" get_side="bottom" set_side="top" target="at0A" />
+			<layout class="stick_to_object_attachment" id="align_bottom" offset="1" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			<widget class="spacer" id="main">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+			<widget class="spacer" id="fmin" embed_in_frame="true">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+			</widget>
+			<container entity_layout_id="at01" id="at01" name="match_report_relevant_stat_bars_container">
+				<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" offset="-1" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" move_side="true" target="main" />
+				<layout class="stick_to_sizes_attachment" width="45.000000" />
+				<widget class="spacer" id="main">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+				</widget>
+				<widget class="spacer" id="fmin" embed_in_frame="true">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+				</widget>
+				<container class="label_value_percentage_bar" entity_layout_id="at02" id="at02" name="relevant_stat_1_container">
+					<layout class="stick_to_object_attachment" id="align_top" offset="5" get_side="top" set_side="top" move_side="true" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="23.000000" />
+				</container>
+				<container class="label_value_percentage_bar" entity_layout_id="at03" id="at03" name="relevant_stat_2_container">
+					<layout class="stick_to_object_attachment" id="align_top" offset="5" get_side="bottom" set_side="top" move_side="true" target="at02" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="23.000000" />
+				</container>
+				<container class="label_value_percentage_bar" entity_layout_id="at04" id="at04" name="relevant_stat_3_container">
+					<layout class="stick_to_object_attachment" id="align_top" offset="5" get_side="bottom" set_side="top" move_side="true" target="at03" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="23.000000" />
+				</container>
+				<container class="label_value_percentage_bar" entity_layout_id="at05" id="at05" name="relevant_stat_4_container">
+					<layout class="stick_to_object_attachment" id="align_top" offset="5" get_side="bottom" set_side="top" move_side="true" target="at04" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="23.000000" />
+				</container>
+			</container>
+			<container class="client_object_viewer_xml_panel" entity_layout_id="at07" id="fxcO" name="match_score_comments_container">
+				<layout class="stick_to_object_attachment" id="align_top" offset="-1" get_side="top" set_side="top" move_side="true" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" offset="-5" get_side="left" set_side="right" target="at01" />
+				<layout class="stick_to_sizes_attachment" height="35.000000" />
+				<widget class="spacer" id="main">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+				</widget>
+				<widget class="spacer" id="fmin" embed_in_frame="true">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+				</widget>
+				<container entity_layout_id="at09" id="at09" name="match_scoreline_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="30.000002" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="fixture_button" entity_layout_id="at0H" id="at0H" alignment="centre_x,centre_y" auto_size="horizontal" needs_width="true" name="scoreline_fixture_button">
+						<record id="object_property">
+							<string id="get_property" value="FxRs" />
+						</record>
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="centre_in_parent_attachment" id="align_centre_horiz" alignment="horizontal" offset="0" />
+					</widget>
+					<widget class="team_button" entity_layout_id="at0G" id="at0G" alignment="centre_y,left" name="team_2_button">
+						<record id="object_property">
+							<string id="get_property" value="away" />
+						</record>
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" offset="10" get_side="right" set_side="left" target="at0H" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+					<widget class="team_button" entity_layout_id="at0F" id="at0F" alignment="centre_y,right" name="team_1_button">
+						<record id="object_property">
+							<string id="get_property" value="home" />
+						</record>
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" offset="-10" get_side="left" set_side="right" target="at0H" />
+					</widget>
+				</container>
+				<widget class="text" entity_layout_id="at0:" id="mrCB" name="match_comments_text">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at09" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+				</widget>
+			</container>
+			<container entity_layout_id="at08" id="at08" name="match_goals_assists_container">
+				<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at07" />
+				<layout class="stick_to_object_attachment" id="align_bottom" offset="-1" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" offset="-5" get_side="left" set_side="right" target="at01" />
+				<widget class="spacer" id="main">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+				</widget>
+				<widget class="spacer" id="fmin" embed_in_frame="true">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+				</widget>
+				<container entity_layout_id="at0;" id="at0;" name="position_played_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="33.000000" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0I" alignment="left,bottom" id="at0I" name="position_label">
+						<translation id="text" value="Position" translation_id="227884" type="use" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0J" alignment="left,top" id="at0J" name="position_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0I" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+				<container entity_layout_id="at0&lt;" id="at0&lt;" name="mins_played_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" move_side="true" target="at0;" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" move_side="true" target="main" />
+					<layout class="stick_to_sizes_attachment" height="33.000000" width="33.000000" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0K" alignment="left,bottom" id="at0K" name="mins_played_label">
+						<translation id="text" translation_id="319555" type="use" value="Mins[COMMENT: Minutes a player was on the pitch]" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0Q" alignment="left,top" id="at0Q" name="mins_played_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0K" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+				<container entity_layout_id="at0=" id="at0=" name="condition_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" move_side="true" target="at0;" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="right" set_side="left" move_side="true" target="at0&lt;" />
+					<layout class="stick_to_sizes_attachment" height="33.000000" width="33.000000" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0L" alignment="left,bottom" id="at0L" name="condition_label">
+						<translation id="text" value="Condition" translation_id="227793" type="use" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0R" alignment="left,top" id="at0R" name="condition_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0L" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+				<container entity_layout_id="at0&gt;" id="at0&gt;" name="condition_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" move_side="true" target="at0;" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="right" set_side="left" target="at0=" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<layout class="stick_to_sizes_attachment" height="33.000000" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0M" alignment="left,bottom" id="at0M" name="match_rating_label">
+						<translation id="text" translation_id="420697" type="use" value="Match Rating[COMMENT: match report news panel]" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0S" alignment="left,top" id="at0S" name="match_rating_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0M" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+				<container entity_layout_id="at0?" id="at0?" name="condition_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0&lt;" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" move_side="true" target="main" />
+					<layout class="stick_to_sizes_attachment" width="33.000000" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0N" alignment="left,bottom" id="at0N" name="goals_label">
+						<translation id="text" value="Goals" translation_id="227857" type="use" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0T" alignment="left,top" id="at0T" name="goals_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0N" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+				<container entity_layout_id="at0@" id="at0@" name="condition_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0=" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="right" set_side="left" move_side="true" target="at0?" />
+					<layout class="stick_to_sizes_attachment" width="33.000000" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0O" alignment="left,bottom" id="at0O" name="assists_label">
+						<translation id="text" value="Assists" translation_id="227847" type="use" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0U" alignment="left,top" id="at0U" name="assists_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0O" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+				<container entity_layout_id="at0E" id="at0E" name="condition_container">
+					<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0&gt;" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="right" set_side="left" target="at0@" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					<widget class="spacer" id="main">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+					</widget>
+					<widget class="spacer" id="fmin" embed_in_frame="true">
+						<boolean id="exclude_from_find" value="true" />
+						<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+					</widget>
+					<widget class="text" entity_layout_id="at0P" alignment="left,bottom" id="at0P" name="key_passes_label">
+						<translation id="text" translation_id="318355" type="use" value="Key Passes[COMMENT: Player stats column name]" />
+						<string id="font" value="title" />
+						<string id="colour" value="faded text" />
+						<string id="size" value="small" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" move_side="true" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+						<layout class="stick_to_sizes_attachment" height="50.000000" />
+					</widget>
+					<widget class="text" entity_layout_id="at0V" alignment="left,top" id="at0V" name="key_passes_value">
+						<string id="size" value="large" />
+						<string id="style" value="semi_bold" />
+						<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0P" />
+						<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+						<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+						<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+					</widget>
+				</container>
+			</container>
+		</container>
+		<container class="main_box" entity_layout_id="at0W" id="nnAv" hidden="true">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" target="at0A" />
+			<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" offset="40" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			<widget class="spacer" id="main">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+			<widget class="spacer" id="fmin" embed_in_frame="true">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+			</widget>
+			<widget class="text" entity_layout_id="at0X" alignment="centre_x,top" id="at0X">
+				<string id="colour" value="faded text" />
+				<string id="size" value="large" />
+				<translation id="text" translation_id="492011" type="use" value="There are currently no match reports available[COMMENT: AREA: loan_report; SUB-AREA: Loan Match Report; FR-BN: ; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: String to indicate there are no match reports available to display for player]" />
+				<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			</widget>
+		</container>
+	</container>-->
+</panel>

@@ -1,0 +1,50 @@
+﻿<panel>
+ 	<boolean id="save_session_state" value="false" />
+	<boolean id="save_default_state" value="true" />
+	<!-- Starting XI Styles -->
+	<flags id="stxi" value="tables/standard/normal" />
+ 
+	<!-- Subs Styles -->
+	<flags id="subs" value="tables/custom/squad/substitute/row" />
+ 
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+ 
+	<container class="inner_box" navigation_container="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="-8,0,0,0" apply_to_children="true" />
+ 
+		<widget class="match_player_list_table" id="pltb" database_table_type="1" mode="fill_rows, stripe_rows, fill_columns," row_height="25" row_spacing="0" column_spacing="0">
+			<boolean id="auto_size_rows" value="false" />
+			<boolean id="fixed_size_rows" value="true" />
+			<boolean id="dont_restore_selection" value="true" />
+			<boolean id="save_session_state" value="false" />
+			<boolean id="sort_disabled" value="false" />
+ 
+			<flags id="default_view" value="gnIn" />
+ 
+			<list id="default_sort_column">
+				<integer value="MPxg" />
+			</list>
+ 
+			<!--available views-->
+			<list id="viws">
+ 
+				<record id="gnIn">
+					<translation id="name" translation_id="247414" type="use" value="Overview" />
+					<record id="view">
+						<!-- Shirt -->
+						<record id="Psnu" width="25" alignment="left,centre_y" auto_hide_priority="6"/>
+						<!-- Name -->
+						<record id="Pnam" width="-8" minimum_width="120" auto_hide_priority="1" format="[%person#1-initial_surname]" info_popup_enabled="false" size="10"/>
+						<!-- Rating -->
+						<record id="MPxg" width="65" auto_hide_priority="5" navigation_focus_target="false"/>
+					</record>
+				</record>
+
+			</list>
+ 
+		</widget>
+ 
+		
+	</container>
+ 
+</panel>

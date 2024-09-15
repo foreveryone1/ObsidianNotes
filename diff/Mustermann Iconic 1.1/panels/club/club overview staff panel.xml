@@ -1,0 +1,100 @@
+<panel>
+
+	<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+	<container class="vertical_adaptive_container" inset="0" offset="0" gap="4" id="zzzz">
+
+		<!--manager-->
+		<container default_height="-1" minimum_height="44" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+			<container id="manC">
+				<layout class="arrange_horizontal_attachment" layout="-3,-4" />
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+				<widget class="label" alignment="left,centre_y">
+					<translation id="text" translation_id="227981" type="use" value="Manager" />
+				</widget>
+				<widget class="person_snapshot_club_overview_panel" id="mana" player="false">
+					<record id="object_property">
+						<integer id="get_property" value="TMnR" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</widget>
+			</container>
+
+			<container id="nomC">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+				<widget class="object_action_button" id="oabt" action_id="TCpJ">
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</widget>
+			</container>
+		</container>
+
+		<!--captain-->
+		<container default_height="-1" minimum_height="44" priority="1">
+			<layout class="arrange_horizontal_attachment" layout="-3,-4" />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+			<widget class="label" alignment="left,centre_y">
+				<translation id="text" translation_id="300013" type="use" value="Captain" />
+			</widget>
+			<widget class="person_snapshot_club_overview_panel" id="capt" player="true">
+				<record id="object_property">
+					<integer id="get_property" value="TCap" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+		</container>
+
+		<!--vice captain-->
+		<container default_height="-1" minimum_height="44" priority="2">
+			<layout class="arrange_horizontal_attachment" layout="-3,-4" />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+			<widget class="label" alignment="left,centre_y">
+				<translation id="text" translation_id="300014" type="use" value="Vice-Captain" />
+			</widget>
+			<widget class="person_snapshot_club_overview_panel" id="vice" player="true">
+				<record id="object_property">
+					<integer id="get_property" value="TVca" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+		</container>
+
+		<!--key player-->
+		<container default_height="-1" minimum_height="44" priority="3">
+			<layout class="arrange_horizontal_attachment" layout="-3,-4" />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+			<widget class="label" alignment="left,centre_y">
+				<translation id="text" translation_id="227396" type="use" value="Key Player" />
+			</widget>
+			<widget class="person_snapshot_club_overview_panel" id="KeyP" player="true">
+				<record id="object_property">
+					<integer id="get_property" value="TKpL" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+		</container>
+
+		<!--hot prospect-->
+		<container id="HotC" default_height="-1" minimum_height="44" priority="4">
+			<layout class="arrange_horizontal_attachment" layout="-3,-4" />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+			<widget class="label" alignment="left,centre_y">
+				<translation id="text" translation_id="227404" type="use" value="Hot Prospect" />
+			</widget>
+			<widget class="person_snapshot_club_overview_panel" id="HotP" player="true">
+
+			</widget>
+		</container>
+	</container>
+</panel>

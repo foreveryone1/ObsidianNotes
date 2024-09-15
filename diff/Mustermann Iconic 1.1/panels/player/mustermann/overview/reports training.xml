@@ -1,0 +1,52 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_layout="56,-1" vertical_gap="4"/>
+
+		<!--top bit with mugshot, rating and some blurb-->		
+		<container navigation_container="true">
+			<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" horizontal_offset="0" vertical_alignment="vertical" vertical_inset="0" />
+
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+									
+				<widget class="label" alignment="left,top" font="title" size="16" colour="title" default_height="30">
+					<translation id="text" translation_id="230334" type="use" value="Training"/>     
+				</widget>
+				
+				<widget class="player_training_performance_panel" file="player/mustermann/overview/reports training summary" id="ptpp" default_height="22">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+			</container>
+
+			<container>
+				<layout class="arrange_horizontal_attachment" alignment="right" offset="0" gap="2" />
+				<layout class="fit_children_attachment" alignment="horizontal,fill" offset="0" />
+
+				<widget class="icon_button" icon="icons/16px/speech bubble" id="ptbn" click_event="ptev" auto_size="all" >
+					<layout class="centre_in_parent_attachment" alignment="vertical" />
+				</widget>
+
+				<widget class="icon_button" icon="icons/16px/speech bubble" id="ctbn" click_event="ctev" auto_size="all">
+					<layout class="centre_in_parent_attachment" alignment="vertical" />
+				</widget>
+			</container>
+
+		</container>
+		
+		<!--bottom bit with everything else-->
+		<container>
+			<attachment_group class="horizontal_arrange" horizontal_layout="-1">
+				<global id="horizontal_gap" name="ui.main_box_gap"/>
+			</attachment_group>
+
+			<!--left side - training info and drop downs for changing stuff-->
+			<widget class="player_training_information" id="ptstt" file="player/mustermann/overview/reports training groups" navigation_container="true">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+
+		</container>
+
+	</container>
+
+</panel>

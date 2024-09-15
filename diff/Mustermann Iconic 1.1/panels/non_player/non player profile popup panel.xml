@@ -1,0 +1,284 @@
+<panel>
+	<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="1" horizontal_inset="0" />
+
+	<boolean id="suppress_update_after_selection" value="true"/>
+	<boolean id="can_show_player_cards" value="true" />
+
+	<container class="vertical_adaptive_container" gap="0" height="331">
+	
+		<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			<!--STAFF PICTURE-->
+			<container>
+				<container height="75" width="150">
+					<layout class="stick_to_sides_attachment" alignment="left" inset="10"/>
+					<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+					<layout class="stick_to_sides_attachment" alignment="all" inset="2" apply_to_children="true" />
+					
+					<widget class="object_portrait_picture" id="pclB" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" wants_mouse_events="true" transparency="0.6">
+						<layout class="stick_to_sides_attachment" alignment="left" inset="-15"/>
+						<layout class="stick_to_sides_attachment" alignment="top" inset="4"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />						
+						<record id="object_property" dont_set_hint="true" get_property="Pclb" set_property="objt" />
+					</widget>
+					
+					<widget class="picture" id="prop" scale_picture="true" keep_aspect_ratio="true" image_alignment="left,centre_y">
+						<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+						<layout class="stick_to_sides_attachment" alignment="top" inset="4"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						<record id="object_property">
+							<list id="get_properties">
+								<!--Facegen data request-->
+								<record get_property="fcgn" />
+								<!--Fake name request-->
+								<record get_property="Pfke" />
+								<record get_property="prpc" set_property="valu" />
+							</list>
+						</record>
+					</widget>
+					
+				</container>
+			</container>
+			
+			<!--NAME & SUMMARY-->
+			<container>
+				<container height="75" width="672">
+					<layout class="stick_to_sides_attachment" alignment="left" inset="108"/>
+					<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+					
+						<widget class="person_button" id="pnam" font="title" size="xlarge" alignment="left,centre_y" colour="mustermanntext" height="30">
+							<record id="object_property" get_property="objt"/>
+						</widget>
+						<widget class="job_label" colour="mustermanntext" alignment="left,centre_x" height="22">
+							<record id="object_property" get_property="PcJj"/>
+						</widget>
+						
+						<widget class="formatted_label" alignment="left,centre_x" auto_size="horizontal" colour="mustermanntext" height="23">
+							<translation id="format" translation_id="242551" type="use" value="[%number#1] years old" />
+							<record id="object_property" get_property="Page"/>
+						</widget>
+					
+					</container>
+									
+				</container>
+			</container>			
+					
+		</container>
+		
+		<container background_colour="mustermann2" height="40">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+		
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+				<container width="8"/>
+							
+				<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+					<list id="value_list">
+						<record min_value="1" max_value="5" file="mustermann/archetypes/hustler" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+						<record min_value="6" max_value="10" file="mustermann/archetypes/hustler" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+						<record min_value="11" max_value="15" file="mustermann/archetypes/hustler" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+						<record min_value="16" max_value="20" file="mustermann/archetypes/hustler" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+					</list>	
+					<record id="object_property" get_property="Npde"/>
+				</widget>
+				
+				<container width="32"/>
+				
+				<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+					<list id="value_list">
+						<record min_value="1" max_value="5" file="mustermann/archetypes/taskmaster" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+						<record min_value="6" max_value="10" file="mustermann/archetypes/taskmaster" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+						<record min_value="11" max_value="15" file="mustermann/archetypes/taskmaster" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+						<record min_value="16" max_value="20" file="mustermann/archetypes/taskmaster" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+					</list>	
+					<record id="object_property" get_property="Npld"/>
+				</widget>
+				
+				<container width="32"/>
+				
+				<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+					<list id="value_list">
+						<record min_value="1" max_value="5" file="mustermann/archetypes/firestarter" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+						<record min_value="6" max_value="10" file="mustermann/archetypes/firestarter" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+						<record min_value="11" max_value="15" file="mustermann/archetypes/firestarter" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+						<record min_value="16" max_value="20" file="mustermann/archetypes/firestarter" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+					</list>	
+					<record id="object_property" get_property="Npmo"/>
+				</widget>
+				
+				<container width="32"/>
+				
+				<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+					<list id="value_list">
+						<record min_value="1" max_value="5" file="mustermann/archetypes/whisperer" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+						<record min_value="6" max_value="10" file="mustermann/archetypes/whisperer" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+						<record min_value="11" max_value="15" file="mustermann/archetypes/whisperer" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+						<record min_value="16" max_value="20" file="mustermann/archetypes/whisperer" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+					</list>	
+					<record id="object_property" get_property="Npmm"/>
+				</widget>
+				
+				<container width="32"/>
+			
+				<container default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+					<container>
+						<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+						
+						<widget class="personality_label" alignment="centre_x,centre_y" colour="mustermanntext" auto_size="horizontal">
+							<record id="object_property" get_property="PPst" />
+						</widget>
+						
+						<widget class="text" alignment="left,centre_y" colour="mustermanntext" auto_size="horizontal">
+							<translation id="text" type="use" value=", " />
+						</widget>
+						
+						<widget class="media_handling_label" alignment="centre_x,centre_y" colour="mustermanntext" auto_size="horizontal">
+							<record id="object_property" get_property="Pghm" />
+						</widget>
+					</container>
+				
+				</container>
+				
+				<container width="8"/>
+			
+			</container>
+		
+		</container>
+		
+		<container height="216">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+		
+			<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="216">
+			
+				<widget class="non_player_tactics_overview_panel" file="none" default_width="136">
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<widget class="plain_box" colour="">
+						<layout class="arrange_horizontal_attachment" layout="-1" offset="0" gap="0" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+						<widget class="pitch_with_tactics" id="attp" icon_flags="show_selection_image,dont_fade_icons" >
+							<boolean id="pitch_is_read_only" value="true" />
+							<boolean id="vertical" value="true" />
+							<boolean id="pitch_dont_draw_indicators" value="true" />
+							<boolean id="pitch_draw_grass" value="true" />
+							<integer id="pitch_vertical_padding" value="0" />
+							<integer id="pitch_touchline_width_percentage" value="1" />
+							<integer id="pitch_line_colour" value="fg" />
+							<integer id="line_width" value="1.4" />
+							<integer id="pitch_override_icon_size" value="2.8" />
+							<integer id="pitch_alignment" value="centre" />
+						</widget>
+					</widget>					
+				</widget>
+											
+				<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="200">
+				
+					<container class="contrast_box" red_replacement="bg int" default_height="-1">
+						<attachment_group class="horizontal_arrange" horizontal_layout="45, -1" horizontal_offset="0" />
+						
+						<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y">			
+							<list id="value_list">
+								<record min_value="0" max_value="4.99" file="icons/custom/tactics/mentality/contain@2x" red_replacement="gimn2"/>
+								<record min_value="5" max_value="7.99" file="icons/custom/tactics/mentality/defensive@2x" red_replacement="gimn2"/>
+								<record min_value="8" max_value="12.99" file="icons/custom/tactics/mentality/standard@2x" red_replacement="gimn2"/>
+								<record min_value="13" max_value="14.99" file="icons/custom/tactics/mentality/attacking@2x" red_replacement="gimn2"/>
+								<record min_value="15" max_value="20" file="icons/custom/tactics/mentality/overload@2x" red_replacement="gimn2"/>
+							</list>	
+							<record id="object_property" get_property="nppm"/>
+						</widget>
+					
+						<container>
+							<attachment_group class="vertical_arrange" vertical_layout="-1, -1" vertical_offset="0" vertical_gap="0"/>
+											
+							<widget class="label" font="title" colour="title" alignment="left,centre_y">
+								<translation id="text" translation_id="308907" type="use" value="Mentality" />
+							</widget>
+							
+							<widget class="playing_mentality_label" id="nast" alignment="left,centre_y" font="text" colour="text">
+								<record id="object_property" get_property="nppm" />
+							</widget>
+						</container>
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" default_height="-1">
+						<attachment_group class="horizontal_arrange" horizontal_layout="45, -1" horizontal_offset="0" />
+						
+						<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y">			
+							<list id="value_list">
+								<record min_value="0" max_value="6.99" file="mustermann/tactical/pressing/less often small" red_replacement="gimn1" blue_replacement="mustermann3"/>
+								<record min_value="7" max_value="13.99" file="mustermann/tactical/pressing/balanced small" red_replacement="gimn2" blue_replacement="mustermann3"/>
+								<record min_value="14" max_value="20" file="mustermann/tactical/pressing/more often small" red_replacement="gimn2" blue_replacement="mustermann3"/>
+							</list>	
+							<record id="object_property" get_property="nppp"/>
+						</widget>
+					
+						<container>
+							<attachment_group class="vertical_arrange" vertical_layout="-1, -1" vertical_offset="0" vertical_gap="0"/>
+											
+							<widget class="label" font="title" colour="title" alignment="left,centre_y">
+								<translation id="text" translation_id="242534" type="use" value="Pressing Style" />
+							</widget>
+							
+							<widget class="pressing_style_label" id="nppp" alignment="left,centre_y" font="text" colour="text">
+								<record id="object_property" get_property="nppp" />
+							</widget>
+						</container>
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg int" default_height="-1">
+						<attachment_group class="horizontal_arrange" horizontal_layout="45, -1" horizontal_offset="0" />
+						
+						<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y">			
+							<list id="value_list">
+								<record min_value="0" max_value="6.99" file="mustermann/tactical/marking/zonal small" red_replacement="mustermann1" green_replacement="gimn3" blue_replacement="mustermann1"/>
+								<record min_value="7" max_value="13.99" file="mustermann/tactical/marking/hybrid small" red_replacement="mustermann1" green_replacement="gimn3" blue_replacement="mustermann1"/>
+								<record min_value="14" max_value="20" file="mustermann/tactical/marking/man small" red_replacement="mustermann1" green_replacement="gimn3" blue_replacement="mustermann1"/>
+							</list>	
+							<record id="object_property" get_property="npmm"/>
+						</widget>
+					
+						<container>
+							<attachment_group class="vertical_arrange" vertical_layout="-1, -1" vertical_offset="0" vertical_gap="0"/>
+											
+							<widget class="label" font="title" colour="title" alignment="left,centre_y">
+								<translation id="text" translation_id="242547" type="use" value="Marking Style" />
+							</widget>
+							
+							<widget class="marking_style_label" id="npmm" alignment="left,centre_y" font="text" colour="text">
+								<record id="object_property" get_property="npmm" />
+							</widget>
+						</container>
+					</container>
+										
+				</container>
+				
+				<container class="contrast_box_no_margin" red_replacement="bg int" default_width="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<widget class="picture" file="mustermann/map/map small" red_replacement="bg darker" green_replacement="gimn2" blue_replacement="mustermann1" transparency="0.1" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+					
+					<widget class="non_player_knowledge_panel" id="npkn" file="non_player/mustermann/popup/world knowledge"/>
+				
+				</container>
+				
+				
+			
+			</container>
+		
+		</container>
+			
+	</container>
+
+</panel>
+
+
+				

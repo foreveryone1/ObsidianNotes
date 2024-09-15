@@ -1,0 +1,24 @@
+﻿<panel width="941" height="748">
+    <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+    <layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+
+    <!-- add custom icon to top right corner of dialog (actual icon image gets set in code) -->
+    <widget class="picture" id="cico" file="boxes/custom/whats new/select team/paper" auto_size="all" embed_in_frame="true">
+        <layout class="stick_to_sides_attachment" alignment="all" inset="0" embed_in_frame="true"/>
+    </widget>
+
+    <!--Title-->
+	<container>
+		<attachment_group class="horizontal_arrange" horizontal_alignment="middle" vertical_alignment="top" horizontal_inset="0" />
+		
+		<widget class="label" id="titl" auto_size="horizontal" alignment="centre" font="extendedblack" size="14" colour="text">
+			<translation id="text" translation_id="420597" type="use" value="Career Game Setup[COMMENT: FR 15522 - title for a dialog to help the user set up the game]"/>
+			
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+		</widget>
+
+	</container>
+
+    <!--main area-->
+    <container class="add_manager_select_team_pre_game_panel" id="SeTm"/>
+</panel>

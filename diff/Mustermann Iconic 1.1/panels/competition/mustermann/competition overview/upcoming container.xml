@@ -1,0 +1,55 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	<boolean id="save_session_state" value="true" />
+	<boolean id="save_default_state" value="true" />
+
+	<string id="item_file" value="competition/mustermann/competition overview/upcoming fixtures" />
+	<integer id="display_mode" value="2" />
+
+	<!-- titled box -->
+	<container class="contrast_box" red_replacement="bg lighter" id="fxtt" alignment="left" force_title_borders="true">
+		<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0"/>
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+     
+		<!-- embedded buttons -->
+		<container id="btns" height="30">
+			<attachment_group class="title_embedded_panel_right" horizontal_offset="0" horizontal_gap="2"/>
+			
+			<widget class="label" id="fxdt" auto_size="all" embed_in_frame="true" style="bold"/>
+
+			<widget class="icon_button" id="prev" click_event="pdat" icon="icons/16px/left" auto_size="all" embed_in_frame="true" appearance="buttons/subtle/split/left/button">
+				<record id="primary_icon_properties" red_replacement="ui_header_icons"/>
+			</widget>
+			<widget class="icon_button" id="next" click_event="ndat" icon="icons/16px/right" auto_size="all" embed_in_frame="true" appearance="buttons/subtle/split/right/button">
+				<record id="primary_icon_properties" red_replacement="ui_header_icons"/>
+			</widget>
+		</container>
+
+		<!-- No fixtures panel-->
+		<container id="nomt" hidden="true">
+			<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+			<widget class="spacer" height="10" />
+
+			<widget class="text" alignment="centre" spec="text" size="large" style="semi_bold, embossed" auto_size="vertical">
+				<translation id="text" translation_id="242251" type="use" value="No fixtures scheduled yet[COMMENT competition fixtures panel, no fixtures set up yet]" />
+			</widget>
+		</container>
+
+		<container id="fxct">
+			<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+			<!-- scrolling box - used if more than 1 table-->
+			<container class="scrolling_box" id="fxsb" hidden="true">
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+
+				<container id="fsbg">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+				</container>
+			</container>
+		</container>
+	</container>
+</panel>

@@ -1,0 +1,30 @@
+﻿<panel>
+    <attachment_group class="vertical_arrange_autosize"/>
+    
+    <list id="properties_to_forward">
+        <record get_property="time" set_property="text" target="scrt"/>
+        <record get_property="date" set_property="text" target="dtxt"/>
+        <record get_property="Topp" set_property="objt" target="OpBa"/>
+        <record get_property="Topp" set_property="valu" target="Topp"/>
+        <record get_property="fmat" set_property="fmat" target="Topp"/>
+    </list>
+
+    <container class="contrast_box" red_replacement="bg int">
+        <attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_layout="40, -1, 50, 16"/>
+
+        <widget class="object_portrait_picture" id="OpBa" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" height="30" width="40"/>
+
+        <container>
+            <attachment_group class="vertical_arrange_autosize" vertical_gap="4" vertical_offset="2"/>
+
+            <widget class="team_button" id="Topp" icon_enabled="false" mode="1" font="title" colour="text" auto_size="vertical"/>
+            <widget class="text" id="dtxt" alignment="left, centre_y" size="small" colour="faded text" auto_size="vertical"/>
+        </container>
+
+        <widget class="text" id="scrt" auto_size="all" alignment="right, centre_y" colour="text" font="title" size="large"/>
+		
+		<widget class="button" appearance="icons/16px/right"/>
+		
+    </container>
+
+</panel>

@@ -1,0 +1,90 @@
+<panel>
+  <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+
+  <container class="main_box">
+    <translation id="title" translation_id="296527" type="use" value="Backroom Advice" />
+    <layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+    <layout class="arrange_vertical_attachment" layout="-1,-1,-1" offset="0" gap="6" />
+
+    <!-- Tactics and Training -->
+    <container class="contrast_box" red_replacement="bg lighter" navigation_container="true">
+      <layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+      <layout class="arrange_horizontal_attachment" layout="200,-1" offset="0" gap="8" />
+
+      <!-- Left box with title and data-->
+      <container class="inner_box" colour="text">
+        <translation id="title" translation_id="539026" type="use" value="Coaching[COMMENT: AREA: Backroom advice; SUB-AREA: Backroom advice category; FR-BN: 35379; TONE: Formal; CHARLIMIT: None; REF-ID: XXXXXX; NOTE: Name of backroom advice category]" />
+      </container>
+      <!-- Advice box -->
+      <container id="adv2" class="player_development_advice_item_panel" file="player/mustermann/advice/advice item">
+        <translation id="text" translation_id="351371" type="use" value="Currently [%person#2] has no tactical advice regarding [%male#1].[COMMENT: player development advice panel; text displayed when no advice is available for a category]" />
+      </container>
+    </container>
+
+    <!-- Transfers and Contracts -->
+    <container class="contrast_box" red_replacement="bg lighter" navigation_container="true">
+      <layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+      <layout class="arrange_horizontal_attachment" layout="200,-1" offset="0" gap="8" />
+
+      <!-- Left box with title and data-->
+      <container class="inner_box" colour="text">
+        <translation id="title" translation_id="539027" type="use" value="Recruitment[COMMENT: AREA: Backroom advice; SUB-AREA: Backroom advice category; FR-BN: 35379; TONE: Formal; CHARLIMIT: None; REF-ID: XXXXXX; NOTE: Name of backroom advice category]" />
+      </container>
+      <!-- Advice box -->
+      <container id="adv3" class="player_development_advice_item_panel" file="player/mustermann/advice/advice item">
+        <translation id="text" translation_id="351370" type="use" value="Currently [%person#2] has no advice on managing [%male#1].[COMMENT: player development advice panel; text displayed when no advice is available for a category]" />
+      </container>
+    </container>
+
+    <!-- Player Status -->
+    <!--<container class="main_box">
+      <layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+      <layout class="arrange_horizontal_attachment" layout="200,-1" offset="0" gap="8" />
+
+      --><!-- Left box with title and data--><!--
+      <container class="inner_subtle_box" >
+        <translation id="title" translation_id="227764" type="use" value="Player Status" />
+        <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+          <container>
+              <layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+              <layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+              <widget class="label" font="label" colour="faded text" alignment="left,centre_y" auto_size="all">
+                  <translation id="text" translation_id="227839" type="use" value="Morale" />
+              </widget>
+              <widget class="morale_label" id="mora" row="0" col="2" spec="text" alignment="left,centre_y" style="semi_bold">
+                  <record id="object_property">
+                      <list id="get_properties">
+                          <record>
+                              <integer id="get_property" value="Pmor" />
+                              <integer id="set_property" value="valu" />
+                          </record>
+                      </list>
+                  </record>
+              </widget>
+          </container>
+          
+      
+      </container>
+      --><!-- Advice box --><!--
+      <container id="adv4" class="player_development_advice_item_panel">
+        <translation id="text" translation_id="351368" type="use" value="Currently [%person#2] has no advice on [%male#1]{s} status.[COMMENT: player development advice panel; text displayed when no advice is available for a category]" />
+      </container>
+    </container>-->
+
+    <!-- Development -->
+    <container class="contrast_box" red_replacement="bg lighter" navigation_container="true">
+      <layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+      <layout class="arrange_horizontal_attachment" layout="200,-1" offset="0" gap="8" />
+
+      <!-- Left box with title and data-->
+      <container class="inner_box" colour="text">
+        <translation id="title" translation_id="539028" type="use" value="Development[COMMENT: AREA: Backroom advice; SUB-AREA: Backroom advice category; FR-BN: 35379; TONE: Formal; CHARLIMIT: None; REF-ID: XXXXXX; NOTE: Name of backroom advice category]" />
+      </container>
+      <!-- Advice box -->
+      <container id="adv5" class="player_development_advice_item_panel" file="player/mustermann/advice/advice item">
+        <translation id="text" translation_id="351367" type="use" value="Currently [%person#2] has no advice on [%male#1]{s} development.[COMMENT: player development advice panel; text displayed when no advice is available for a category]" />
+      </container>
+    </container>
+  </container>
+</panel>

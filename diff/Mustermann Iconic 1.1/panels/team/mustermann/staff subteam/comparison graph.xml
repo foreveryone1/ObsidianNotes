@@ -1,0 +1,43 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<flags id="bcol" value="gimn2" />
+	<flags id="wcol" value="mustermann1" />
+	<flags id="acol" value="fg" />
+	<flags id="ncol" value="mustermann5" />
+
+	<flags id="bbco" value="transparent" />
+	<flags id="wbco" value="bg large alpha" />
+	
+	<flags id="alwt" value="2"/>
+
+	<boolean id="show_all_properties_in_popup" value="false"/>
+	<boolean id="show_actual_value" value="false"/>
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_inset="0" />
+
+		<widget class="label" auto_size="vertical" id="titl" font="title" colour="accent"/>
+		
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<!-- No data label -->
+			<widget class="label" id="nodt" auto_size="vertical" hidden="true">
+				<translation id="text" translation_id="330275" type="use" value="Not available[COMMENT: happiness panel; text displayed when no happiness information is available]"/>
+			</widget>
+
+			<widget class="graph" id="tacg" inset="1, 30, 1, 1" show_instant_hint="false">
+				<list id="graph_series">
+					<record id="bar1" type="bar" maximum_width="15"/>
+					<record id="bar2" type="bar" maximum_width="19" appearance="charts/bar/custom/top line/thin" animation_file="none" show_instant_hint="false"/>
+					<record id="mark" type="marker" line_width="2" label_alignment="top"/>
+				</list>
+				<record id="x_axis" gap="1" consistent_label_width="false"/>
+				<record id="y_axis" round_min_max="false" hidden="true"/>
+			</widget>
+		</container>
+
+	</container>
+
+</panel>

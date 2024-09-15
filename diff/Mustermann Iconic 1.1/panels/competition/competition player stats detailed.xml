@@ -1,0 +1,294 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<boolean id="save_session_state" value="true" />
+
+	<!-- Default stat type to select -->
+	<integer id="default_value" value="1" />
+
+	<container class="main_box" id="cpsD" force_title_borders="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+		<!-- Label and stage selector -->
+		<container embed_in_frame="true">
+			<attachment_group class="title_embedded_panel_left" />
+
+			<widget class="view_menu_label" id="labl">
+				<translation id="text" translation_id="248440" type="use" value="Player Stats" />
+			</widget>
+
+			<!-- The stages menu: visible if more than one stage/substage -->
+			<widget class="view_menu_popup" id="sviw" auto_tick_exclusive="true" save_session_state="true" />
+		</container>
+
+		<widget class="embedded_filter_button" id="plsf" target="cpsD" height="30" embed_in_frame="true" auto_size="horizontal" navigation_container="true">
+			<layout class="stick_to_sides_attachment" alignment="right,top" embed_in_frame="true" inset="8" />
+		</widget>
+
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			<layout class="arrange_horizontal_attachment" layout="300, -1" offset="0" gap="8" />
+
+			<container class="inner_subtle_box" navigation_container="true">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				<container class="scrolling_box">
+					<!-- List of selectable stats grouped in collapsible boxes. This container must have this id to make the radio buttons work -->
+					<container>
+						<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+						<record id="default_properties" save_default_state="true" save_session_state="true" allow_single_bar_click="true" appearance="boxes/collapsable/no margin/single/paper">
+							<record id="default_properties" file="competition/competition player stats detailed list panel" maximum_items="top_only_with_count" />
+						</record>
+
+						<!-- General stats -->
+						<container class="collapsable_box" allow_single_bar_click="true">
+							<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+							<translation id="title" translation_id="248359" type="use" value="General" />
+
+
+							<!-- NOTE: If you add stats you also have to define views in 'competition player stats panel' -->
+
+							<!-- CPS_OVERALL_APPEARANCES -->
+							<widget class="competition_player_stats_panel" type="1" />	
+							<!-- CPS_STARTING_APPEARANCES -->
+							<widget class="competition_player_stats_panel" type="45" />
+							<!-- CPS_GAMES_WON -->
+							<widget class="competition_player_stats_panel" type="8" />
+							<!-- CPS_GAMES_LOST -->
+							<widget class="competition_player_stats_panel" type="9" />
+							<!-- CPS_YELLOW_CARDS -->
+							<widget class="competition_player_stats_panel" type="10" />
+							<!-- CPS_RED_CARDS -->
+							<widget class="competition_player_stats_panel" type="11" />
+							<!-- CPS_MAN_OF_MATCH -->
+							<widget class="competition_player_stats_panel" type="12" />
+							<!-- CPS_DISTANCE_RAN -->
+							<widget class="competition_player_stats_panel" type="17" />
+							<!-- CPS_DISTANCE_RAN_PER_90_MINS -->
+							<widget class="competition_player_stats_panel" type="18" />
+							<!-- CPS_AVERAGE_RATING -->
+							<widget class="competition_player_stats_panel" type="27" />
+							<!-- CPS_HEADERS_WON -->
+							<widget class="competition_player_stats_panel" type="52" />
+							<!-- CPS_POSSESSION_WON -->
+							<widget class="competition_player_stats_panel" type="67" />
+							<!-- CPS_POSSESSION_LOST -->
+							<widget class="competition_player_stats_panel" type="66" />
+						</container>
+
+						<!-- Attacking stats -->
+						<container class="collapsable_box" allow_single_bar_click="true">
+
+							<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+							<translation id="title" translation_id="230042" type="use" value="Attacking" />
+
+							<!-- NOTE: If you add stats you also have to define views in 'competition player stats panel' -->
+
+							<!-- CPS_GOALS -->
+							<widget class="competition_player_stats_panel" type="2" />
+							<!-- CPS_EXPECTED_GOALS -->
+							<widget class="competition_player_stats_panel" type="68" />
+							<!-- CPS_EXPECTED_GOALS_OVER_PERFORMANCE -->
+							<widget class="competition_player_stats_panel" type="107" />	
+							<!-- CPS_EXPECTED_GOALS_UNDER_PERFORMANCE -->
+							<widget class="competition_player_stats_panel" type="108" />
+							<!-- CPS_AVERAGE_MINUTES_PER_GOAL -->
+							<widget class="competition_player_stats_panel" type="19" />
+							<!-- CPS_SHOTS -->
+							<widget class="competition_player_stats_panel" type="46" />
+							<!-- CPS_SHOTS_ON_TARGET -->
+							<widget class="competition_player_stats_panel" type="47" />
+							<!-- CPS_SHOTS_ON_TARGET_RATIO -->
+							<widget class="competition_player_stats_panel" type="16" />
+							<!-- CPS_GOALS_TO_SHOTS_RATIO -->
+							<widget class="competition_player_stats_panel" type="55" />
+							<!-- CPS_SHOTS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="76" />
+							<!-- CPS_FREE_KICK_GOALS -->
+							<widget class="competition_player_stats_panel" type="65" />
+							<!-- CPS_TEAM_GOALS -->
+							<widget class="competition_player_stats_panel" type="6" />
+							<!-- CPS_PENALTIES -->
+							<widget class="competition_player_stats_panel" type="4" />
+							<!-- CPS_ASSISTS -->
+							<widget class="competition_player_stats_panel" type="5" />
+							<!-- CPS_ASSISTS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="73" />
+							<!-- CPS_KEY_PASSES -->
+							<widget class="competition_player_stats_panel" type="23" />
+							<!-- CPS_KEY_PASSES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="81" />
+							<!-- CPS_OPEN_PLAY_KEY_PASSES -->
+							<widget class="competition_player_stats_panel" type="131" />
+							<!-- CPS_CHANCES_CREATED -->
+							<widget class="competition_player_stats_panel" type="54" />
+							<!-- CPS_PASSES_ATTEMPTED -->
+							<widget class="competition_player_stats_panel" type="79" />
+							<!-- CPS_PASS_COMPLETION -->
+							<widget class="competition_player_stats_panel" type="13" />
+							<!-- CPS_CROSSES_ATTEMPTED -->
+							<widget class="competition_player_stats_panel" type="82" />
+							<!-- CPS_CROSS_COMPLETION_RATIO -->
+							<widget class="competition_player_stats_panel" type="22" />
+							<!-- CPS_DRIBBLES_MADE -->
+							<widget class="competition_player_stats_panel" type="62" />
+							<!-- CPS_DRIBBLES_PER_GAME -->
+							<widget class="competition_player_stats_panel" type="15" />
+							<!-- CPS_OFFSIDES -->
+							<widget class="competition_player_stats_panel" type="21" />
+							<!-- CPS_FOULED -->
+							<widget class="competition_player_stats_panel" type="85" />
+							<!-- CPS_EXPECTED_ASSISTS -->
+							<widget class="competition_player_stats_panel" type="69" />
+							<!-- CPS_NON_PENALTY_EXPECTED_GOALS -->
+							<widget class="competition_player_stats_panel" type="109" />
+							<!-- CPS_NON_PENALTY_EXPECTED_GOALS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="110" />
+							<!-- CPS_OPEN_PLAY_EXPECTED_ASSISTS -->
+							<widget class="competition_player_stats_panel" type="111" />
+							<!-- CPS_KEY_HEADERS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="112" />			
+							<!-- CPS_CHANCES_CREATED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="113" />
+							<!-- CPS_GOAL_MISTAKES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="114" />	
+							<!-- CPS_SAVES_HELD_PER_90 -->
+							<widget class="competition_player_stats_panel" type="115" />	
+							<!-- CPS_SAVES_TIPPED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="116" />
+							<!-- CPS_SAVES_PARRIED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="117" />		
+							<!-- CPS_EXPECTED_GOALS_PREVENTED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="118" />			
+							<!-- CPS_CLEAN_SHEETS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="119" />		
+							<!-- CPS_OFFSIDES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="120" />		
+							<!-- CPS_SHOTS_BLOCKED_DEFENDING_PER_90 -->
+							<widget class="competition_player_stats_panel" type="121" />	
+							<!-- CPS_FREE_KICK_GOALS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="122" />
+							<!-- CPS_CROSSES_COMPLETED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="123" />
+							<!-- CPS_PASSES_COMPLETED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="124" />
+							<!-- CPS_KEY_TACKLES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="125" />	
+							<!-- CPS_PROGRESSIVE_PASSES -->
+							<widget class="competition_player_stats_panel" type="126" />	
+							<!-- CPS_SPRINTS -->
+							<widget class="competition_player_stats_panel" type="127" />	
+							<!-- CPS_SPRINTS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="132" />
+							<!-- CPS_PENALTIES_SCORED -->
+							<!--<widget class="competition_player_stats_panel" type="43"/>-->
+							<!-- CPS_OPEN_PLAY_KEY_PASSES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="133" />	
+							<!-- CPS_PROGRESSIVE_PASSES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="134" />
+							<!-- CPS_OPEN_PLAY_EXPECTED_ASSISTS_PER_90 -->
+							<widget class="competition_player_stats_panel" type="135" />
+							<!-- CPS_OPEN_PLAY_CROSSES_ATTEMPTED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="136" />		
+							<!-- CPS_OPEN_PLAY_CROSSES_COMPLETED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="137" />
+						</container>
+						<!-- Defending stats -->
+						<container class="collapsable_box" allow_single_bar_click="true">
+							<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+							<translation id="title" translation_id="285374" type="use" value="Defending[COMMENT: player profile, overview panel polygon category title]" />
+
+							<!-- NOTE: If you add stats you also have to define views in 'competition player stats panel' -->
+
+							<!-- CPS_TEAM_CONCEDED -->
+							<widget class="competition_player_stats_panel" type="7" />
+							<!-- CPS_TACKLES_WON -->
+							<widget class="competition_player_stats_panel" type="63" />
+							<!-- CPS_TACKLES_WON_RATIO -->
+							<widget class="competition_player_stats_panel" type="91" />
+							<!-- CPS_TACKLES_PER_GAME -->
+							<widget class="competition_player_stats_panel" type="14" />
+							<!-- CPS_KEY_TACKLES -->
+							<widget class="competition_player_stats_panel" type="24" />
+							<!-- CPS_KEY_HEADERS -->
+							<widget class="competition_player_stats_panel" type="25" />
+							<!-- CPS_INTERCEPTIONS -->
+							<widget class="competition_player_stats_panel" type="26" />
+							<!-- CPS_BLOCKS -->
+							<widget class="competition_player_stats_panel" type="64" />
+							<!-- CPS_CLEARANCES -->
+							<widget class="competition_player_stats_panel" type="70" />
+							<!-- CPS_HEADERS_WON_RATIO -->
+							<widget class="competition_player_stats_panel" type="30" />
+							<!-- CPS_SHOTS_BLOCKED_DEFENDING -->
+							<widget class="competition_player_stats_panel" type="53" />
+							<!-- CPS_FOULS -->
+							<widget class="competition_player_stats_panel" type="84" />
+							<!-- CPS_PRESSURES_ATTEMPTED -->
+							<widget class="competition_player_stats_panel" type="128" />
+							<!-- CPS_PRESSURES_COMPLETED -->
+							<widget class="competition_player_stats_panel" type="129"/>	
+							<!-- CPS_HEADERS_LOST -->
+							<widget class="competition_player_stats_panel" type="138"/>	
+							<!-- CPS_HEADERS_LOST_PER_GAME -->
+							<widget class="competition_player_stats_panel" type="139"/>
+						</container>
+						<!-- Goalkeeping stats -->
+						<container class="collapsable_box" allow_single_bar_click="true">
+							<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+							<translation id="title" translation_id="230024" type="use" value="Goalkeeping" />
+
+							<!-- CPS_CONCEDED -->
+							<widget class="competition_player_stats_panel" type="3" />
+							<!-- CPS_CLEAN_SHEETS -->
+							<widget class="competition_player_stats_panel" type="20" />
+							<!-- CPS_SAVES_HELD -->
+							<widget class="competition_player_stats_panel" type="48" />
+							<!-- CPS_SAVES_PARRIED -->
+							<widget class="competition_player_stats_panel" type="49" />
+							<!-- CPS_CONCEDED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="35" />
+							<!-- CPS_EXPECTED_GOALS_CONCEDED_PER_90 -->
+							<widget class="competition_player_stats_panel" type="98" />
+							<!-- CPS_EXPECTED_GOALS_PREVENTED -->
+							<widget class="competition_player_stats_panel" type="106" />
+							<!-- CPS_SAVES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="100" />
+							<!-- CPS_EXPECTED_SAVES_PER_90 -->
+							<widget class="competition_player_stats_panel" type="104" />
+							<!-- CPS_GK_SAVE_RATIO -->
+							<widget class="competition_player_stats_panel" type="71" />
+							<!-- CPS_GK_EXPECTED_SAVE_RATIO -->
+							<widget class="competition_player_stats_panel" type="105" />
+							<!-- CPS_PENALTIES_GK -->
+							<widget class="competition_player_stats_panel" type="57" />
+						</container>
+					</container>
+				</container>
+			</container>
+
+			<!-- Stats and filter panel-->
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+				<!-- Stats panel showing the highlighted stat -->
+				<container class="competition_player_stats_panel" id="selP" maximum_items="100" type="2" navigation_container="true">
+					<!-- Header with stat type string and stat selector button -->
+					<widget class="text" id="stit" alignment="left,centre_y" font="title" colour="accent" auto_size="all" embed_in_frame="true">
+						<layout class="stick_to_sides_attachment" alignment="left,top" inset="0" embed_in_frame="true" />
+					</widget>
+				</container>
+			</container>
+		</container>
+	</container>
+
+	<!-- panel for no data available-->
+	<container class="empty_state" id="nost" header_widget="BShe" hidden="true">
+		<widget class="text" id="BShe">
+			<translation id="text" translation_id="562633" type="use" value="No match stats available[COMMENT: AREA: Scouting; SUB-AREA: Player stats panel/widget; FR-BN: FM-11536; NOTE: Fallback string, when the stats widget is hidden due to stats not being available - either player has not played any games yet, or has only played friendlies, where stats are not tracked]" />
+		</widget>
+	</container>
+</panel>

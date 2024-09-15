@@ -1,0 +1,424 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<boolean id="continue_when_done" value="true" />
+	<boolean id="show_on_timer" value="true" />
+
+	<!--Alternate UI mode-->
+	<integer id="alSM" value="0" />
+
+	<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg darker" transparency="0.8">
+		<animation class="slide_in_bottom_animation" duration="1.0"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+		<container id="hwIN">
+			<animation class="fade_animation" start_value="0" end_value="1" duration="1.0" delay="1.5" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<animation class="fade_animation" trigger_id="hidden" trigger_value="false" start_value="0.0" end_value="1.0" duration="0.2">
+				<record id="finished_event">
+					<flags id="event_id" value="hoAn" />
+					<flags id="event_target" value="hwIN" />
+				</record>
+			</animation>
+			<animation class="fade_animation" trigger_start="hoAn" trigger_value="false" start_value="1.0" end_value="1.0" duration="6.0">
+				<record id="finished_event">
+					<flags id="event_id" value="hiAn" />
+					<flags id="event_target" value="hwIN" />
+				</record>
+			</animation>
+			<animation class="fade_animation" trigger_start="hiAn" trigger_value="false" start_value="1.0" end_value="0.0" duration="1.5">
+				<record id="finished_event">
+					<flags id="event_id" value="HtAf" />
+				</record>
+			</animation>
+			
+			<container id="htbx">
+				<layout class="arrange_horizontal_attachment" layout="-3,-1" offset="0" gap="8" />
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+				<!-- Home Team Line Up -->
+				<container id="hpco">					
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0,0,30,0" apply_to_children="true" />
+
+					<widget class="picture" file="mustermann/lineup/lineup pitch" red_replacement="fg" transparency="0.5" image_alignment="centre" scale_picture="true" keep_aspect_ratio="false"/>
+
+					<container>
+						<layout class="arrange_vertical_attachment" layout="-1,25" offset="0" gap="0" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+						<widget class="pitch_with_tactics" id="hpwt" vertical="true" icon_flags="disable_name_colour,dont_colour_number, show_name,show_number,colour_names_for_team,show_captain,dont_fade_icons,dont_show_team_names,show_preview_info_popup,drop_initial_if_possible,disable_name_links,dont_allow_player_links" player_icon_file="match/mustermann/lineup/starting xi icon" pitch_draw_goals="false" pitch_draw_markings="false" pitch_draw_grass="false" pitch_line_colour="transparent" pitch_perspective="0.25" pitch_draw_lines="false" pitch_touchline_width_percentage="40">
+
+							<integer id="tactics_creator_index" value="2" />
+							<boolean id="pitch_dont_draw_indicators" value="true" />
+							<integer id="pitch_vertical_padding" value="8" />
+							<flags id="pitch_alignment" value="can_scale" />
+
+							<!-- Restrict the max icons size to give more consistency between different formations-->
+							<real id="maximum_player_size" value="0.2" />
+						</widget>
+
+					</container>
+
+
+				</container>
+
+				<container>
+					<layout class="arrange_vertical_attachment" layout="60,120, 70,-1,38" offset="0" gap="4" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+						<!--home team info-->
+						<container class="contrast_box" id="tHmC" appearance="boxes/contrast/no margin/middle/paper">
+							<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="middle" />
+							<record id="object_property">
+								<integer id="get_property" value="BGHT" />
+								<integer id="set_property" value="red_replacement" />
+							</record>
+
+							<!--team picture-->
+							<widget class="object_portrait_picture" scale_picture="true" width="50" height="38">
+								<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="1" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+								<boolean id="keep_aspect_ratio" value="true" />
+								<flags id="image_alignment" value="centre_x,top" />
+								<record id="object_property">
+									<integer id="get_property" value="home" />
+									<integer id="set_property" value="objt" />
+								</record>
+							</widget>
+
+							<widget class="team_button" id="hTmb" auto_size="horizontal" mode="1" icon_enabled="false" font="title" size="xxlarge">
+								<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="1" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+								<record id="object_property">
+									<list id="get_properties">
+										<record id="object_property">
+											<integer id="get_property" value="txHT" />
+											<integer id="set_property" value="colour" />
+										</record>
+										<record id="object_property">
+											<integer id="get_property" value="home" />
+											<integer id="set_property" value="value" />
+										</record>
+									</list>
+								</record>
+
+							</widget>
+						</container>
+
+					</container>
+
+					<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+						
+						<container class="client_object_viewer_xml_panel" width="120">
+							<record id="object_property" get_property="home" set_property="objt" />						
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+
+								<widget class="object_portrait_picture" scale_picture="true" image_alignment="left,centre_y" >
+									<record id="object_property">
+										<integer id="get_property" value="TMnR" />
+										<integer id="set_property" value="objt" />
+									</record>
+								</widget>
+						</container>
+
+						<container class="client_object_viewer_xml_panel" default_width="-1">
+							<record id="object_property" get_property="home" set_property="objt" />
+							<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_gap="0" />
+
+							<widget class="text" auto_size="vertical" alignment="left,centre_y" size="large" disable_link="true" colour="white">
+								<translation id="text" translation_id="227981" type="use" value="Manager" />
+							</widget>
+
+							<widget class="person_button" auto_size="vertical" alignment="left,centre_y" disable_link="true" font="title" colour="white" size="large">
+								<string id="format" value="[%person#1]" />
+
+								<record id="object_property" get_property="TMnR" set_property="valu" />
+							</widget>
+						</container>
+
+					</container>
+
+					<container>
+						<layout class="arrange_vertical_attachment" layout="-1,-1" offset="8" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" inset="15" apply_to_children="true" />
+
+						<widget class="text" auto_size="vertical" alignment="left,centre_y" size="large" disable_link="true" colour="text">
+							<translation id="text" translation_id="344664" type="use" value="Recent Form" />
+						</widget>
+
+						<container class="team_recent_form_widget" id="frRF" bar_width="24" show_form_letters="true" show_form_popup="false" win_filename="icons/custom/form large/win" loss_filename="icons/custom/form large/lose" draw_filename="icons/custom/form large/draw">
+							<record id="object_property">
+								<list id="get_properties">
+									<record>
+										<integer id="get_property" value="homF" />
+										<integer id="set_property" value="valu" />
+										<boolean id="dont_set_object" value="true" />
+									</record>
+									<record>
+										<integer id="get_property" value="home" />
+										<integer id="set_property" value="objt" />
+									</record>
+								</list>
+							</record>
+						</container>
+
+					</container>
+
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="8,0,8,0" apply_to_children="true" />
+
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+
+							<widget class="subs_bench_panel" id="hsub" file="match/mustermann/lineup/subs bench" />
+							
+						</container>
+
+					</container>
+					
+					<container/>
+
+				</container>
+
+			</container>
+
+			<container>
+			
+			</container>
+		</container>
+
+		<container id="awIN" hidden="true">
+			<animation class="fade_animation" start_value="0" end_value="1" duration="1.0" delay="0.5" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<animation class="fade_animation" trigger_id="hidden" trigger_value="false" start_value="0.0" end_value="1.0" duration="0.2">
+				<record id="finished_event">
+					<flags id="event_id" value="hoAn" />
+					<flags id="event_target" value="awIN" />
+				</record>
+			</animation>
+
+			<animation class="fade_animation" trigger_start="hoAn" trigger_value="false" start_value="1.0" end_value="1.0" duration="6">
+				<record id="finished_event">
+					<flags id="event_id" value="hiAn" />
+					<flags id="event_target" value="awIN" />
+				</record>
+			</animation>
+
+			<animation class="fade_animation" trigger_start="hiAn" trigger_value="false" start_value="1.0" end_value="0.0" duration="1.5">
+				<record id="finished_event">
+					<flags id="event_id" value="AtAf" />
+				</record>
+			</animation>
+			
+			<container id="htbx">
+				<layout class="arrange_horizontal_attachment" layout="-3,-1" offset="0" gap="8" />
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+				<!-- Away Team Line Up -->
+				<container id="apco">					
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0,0,30,0" apply_to_children="true" />
+
+					<widget class="picture" file="mustermann/lineup/lineup pitch" red_replacement="fg" transparency="0.5" image_alignment="centre" scale_picture="true" keep_aspect_ratio="false"/>
+
+					<container>
+						<layout class="arrange_vertical_attachment" layout="-1,25" offset="0" gap="0" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+						<widget class="pitch_with_tactics" id="apwt" vertical="true" icon_flags="disable_name_colour,dont_colour_number, show_name,show_number,colour_names_for_team,show_captain,dont_fade_icons,dont_show_team_names,show_preview_info_popup,drop_initial_if_possible,disable_name_links,dont_allow_player_links" player_icon_file="match/mustermann/lineup/starting xi icon" pitch_draw_goals="false" pitch_draw_markings="false" pitch_draw_grass="false" pitch_line_colour="transparent" pitch_perspective="0.25" pitch_draw_lines="false" pitch_touchline_width_percentage="40">
+
+							<integer id="tactics_creator_index" value="2" />
+							<boolean id="pitch_dont_draw_indicators" value="true" />
+							<integer id="pitch_vertical_padding" value="8" />
+							<flags id="pitch_alignment" value="can_scale" />
+
+							<!-- Restrict the max icons size to give more consistency between different formations-->
+							<real id="maximum_player_size" value="0.2" />
+						</widget>
+
+					</container>
+
+
+				</container>
+
+				<container>
+					<layout class="arrange_vertical_attachment" layout="60,120, 70,-1,38" offset="0" gap="4" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+						<!--home team info-->
+						<container class="contrast_box" id="tAmC" appearance="boxes/contrast/no margin/middle/paper">
+							<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="middle" />
+							<record id="object_property">
+								<integer id="get_property" value="BGAT" />
+								<integer id="set_property" value="red_replacement" />
+							</record>
+
+							<!--team picture-->
+							<widget class="object_portrait_picture" scale_picture="true" width="50" height="38">
+								<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="1" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+								<boolean id="keep_aspect_ratio" value="true" />
+								<flags id="image_alignment" value="centre_x,top" />
+								<record id="object_property">
+									<integer id="get_property" value="away" />
+									<integer id="set_property" value="objt" />
+								</record>
+							</widget>
+
+							<widget class="team_button" id="hTmb" auto_size="horizontal" mode="1" icon_enabled="false" font="title" size="xxlarge">
+								<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="1" end_mode="hold_auto_reverse" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+								<record id="object_property">
+									<list id="get_properties">
+										<record id="object_property">
+											<integer id="get_property" value="txAT" />
+											<integer id="set_property" value="colour" />
+										</record>
+										<record id="object_property">
+											<integer id="get_property" value="away" />
+											<integer id="set_property" value="value" />
+										</record>
+									</list>
+								</record>
+
+							</widget>
+						</container>
+
+					</container>
+
+					<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+						
+						<container class="client_object_viewer_xml_panel" width="120">
+							<record id="object_property" get_property="away" set_property="objt" />						
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+
+								<widget class="object_portrait_picture" scale_picture="true" image_alignment="left,centre_y" >
+									<record id="object_property">
+										<integer id="get_property" value="TMnR" />
+										<integer id="set_property" value="objt" />
+									</record>
+								</widget>
+						</container>
+
+						<container class="client_object_viewer_xml_panel" default_width="-1">
+							<record id="object_property" get_property="away" set_property="objt" />
+							<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_gap="0" />
+
+							<widget class="text" auto_size="vertical" alignment="left,centre_y" size="large" disable_link="true" colour="white">
+								<translation id="text" translation_id="227981" type="use" value="Manager" />
+							</widget>
+
+							<widget class="person_button" auto_size="vertical" alignment="left,centre_y" disable_link="true" font="title" colour="white" size="large">
+								<string id="format" value="[%person#1]" />
+
+								<record id="object_property" get_property="TMnR" set_property="valu" />
+							</widget>
+						</container>
+
+					</container>
+
+					<container>
+						<layout class="arrange_vertical_attachment" layout="-1,-1" offset="8" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" inset="15" apply_to_children="true" />
+
+						<widget class="text" auto_size="vertical" alignment="left,centre_y" size="large" disable_link="true" colour="text">
+							<translation id="text" translation_id="344664" type="use" value="Recent Form" />
+						</widget>
+
+						<container class="team_recent_form_widget" id="frAF" bar_width="24" show_form_letters="true" show_form_popup="false" win_filename="icons/custom/form large/win" loss_filename="icons/custom/form large/lose" draw_filename="icons/custom/form large/draw">
+							<record id="object_property">
+								<list id="get_properties">
+									<record>
+										<integer id="get_property" value="awaF" />
+										<integer id="set_property" value="valu" />
+										<boolean id="dont_set_object" value="true" />
+									</record>
+									<record>
+										<integer id="get_property" value="away" />
+										<integer id="set_property" value="objt" />
+									</record>
+								</list>
+							</record>
+						</container>
+
+					</container>
+
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="8,0,8,0" apply_to_children="true" />
+
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+
+							<widget class="subs_bench_panel" id="asub" file="match/mustermann/lineup/subs bench" />
+							
+						</container>
+
+					</container>
+					
+					<container/>
+
+				</container>
+
+			</container>
+
+			<container>
+			
+			</container>
+		</container>
+
+		<widget class="match_league_table_panel" auto_size="vertical" width="480" file="match/match league table panel cutscene" id="ltCO" hidden="true" include_live_scores_in_table="false" >
+			<animation class="fade_animation" trigger_id="hidden" trigger_value="false" start_value="1.0" end_value="1.0" duration="0.2">
+				<record id="finished_event">
+					<flags id="event_id" value="ltAn" />
+					<flags id="event_target" value="ltCO" />
+				</record>
+			</animation>
+
+			<animation class="fade_animation" trigger_start="ltAn" trigger_value="false" start_value="1.0" end_value="1.0" duration="6.0">
+				<record id="finished_event">
+					<flags id="event_id" value="liAn" />
+					<flags id="event_target" value="ltAn" />
+				</record>
+			</animation>
+
+			<animation class="fade_animation"  trigger_start="liAn" trigger_value="false" start_value="1.0" end_value="0.0" duration="1.5">
+				<record id="finished_event">
+					<flags id="event_id" value="LtAf" />
+				</record>
+			</animation>
+		</widget>
+
+	</container>
+	
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend"/>
+		
+		<container/>
+
+		<widget class="match_commentary_panel" id="cmif" file="" height="30">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+			<widget class="picture" file="boxes/custom/match/commentary/bar" id="cmbi" rthr="85" colour="neutral commentary background">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+
+			<!-- commentary widget -->
+			<widget class="label" id="cmnt" hidden="true" font="bold">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0,0,2,0" />
+
+				<translation id="text" value="" />
+				<flags id="algn" value="centre" />
+				<colour id="colour" name="text" />
+			</widget>
+
+		</widget>
+	</container>
+
+</panel>

@@ -1,0 +1,79 @@
+<panel number_of_stories_to_request="75">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		
+		<widget class="label" font="title" size="large" alignment="centre_x,centre_y" colour="title" height="18">
+			<translation id="text" type="use" translation_id="320583" value="Headlines" />
+		</widget>
+		
+		<container height="28"/>
+
+		<container class="vertical_adaptive_container" gap="8" inset="0" offset="0" default_height="-1">
+			<record id="default_properties" file="club/mustermann/news/news item small" height="22" />
+			<container class="competition_news_item_panel" index="4" />
+			<container class="competition_news_item_panel" index="5" />
+			<container class="competition_news_item_panel" index="6" />
+			<container class="competition_news_item_panel" index="7" />
+			<container class="competition_news_item_panel" index="8" />
+			<container class="competition_news_item_panel" index="9" />
+			<container class="competition_news_item_panel" index="10" />
+			<container class="competition_news_item_panel" index="11" />
+			<container class="competition_news_item_panel" index="12" />
+			<container class="competition_news_item_panel" index="13" />
+			<container class="competition_news_item_panel" index="14" />
+			<container class="competition_news_item_panel" index="15" />
+			<container class="competition_news_item_panel" index="16" />
+			<container class="competition_news_item_panel" index="17" />
+			<container class="competition_news_item_panel" index="18" />
+		</container>
+		
+		<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally" height="205">
+		
+			<container class="contrast_box" red_replacement="bg int" default_width="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+				<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
+					
+					<widget class="picture" file="mustermann/news/youth" image_alignment="centre_x,centre_y" height="140"/>
+					
+					<widget class="label" font="text" colour="text" alignment="left,top" multiline="true" default_height="-1">
+						<translation id="text" type="use" value="ARTICLE: SteinkelssonFM explores youth development in FM"/>
+					</widget>
+					
+				</container>
+				
+				<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
+									
+				<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
+					<record id="click_event" event_id="OURL" url="https://www.footballmanager.com/the-byline/how-nail-youth-development-fm23" />
+					<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
+				</widget>
+																				
+			</container>
+			
+			<container class="contrast_box" red_replacement="bg int" default_width="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+				<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
+					
+					<widget class="picture" file="mustermann/news/recruitment" image_alignment="centre_x,centre_y" height="140"/>
+					
+					<widget class="label" font="text" colour="text" alignment="left,top" multiline="true" default_height="-1">
+						<translation id="text" type="use" value="ARTICLE: Dan Gear gets the best out of recruitment focuses"/>
+					</widget>
+					
+				</container>
+				
+				<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
+									
+				<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
+					<record id="click_event" event_id="OURL" url="https://www.footballmanager.com/the-byline/how-use-new-recruitment-focus-fm23" />
+					<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
+				</widget>
+																				
+			</container>
+						
+		</container>
+	</container>
+</panel>

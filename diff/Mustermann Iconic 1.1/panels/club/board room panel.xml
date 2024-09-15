@@ -1,0 +1,704 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+		
+	<!--DESIGN-->
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+		<container default_height="-1" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend"/>
+			
+			<container class="scrolling_box" id="ScrB" navigation_container="true">
+
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+				
+				<container draw_horizontal_dividers="false">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="0"/>
+															
+					<!--HEADER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="50">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1100">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="5" default_width="-1">
+								
+									<widget class="picture" id="pict" scale_picture="true" default_width="34">
+										
+										<boolean id="keep_aspect_ratio" value="true" />
+										<flags id="image_alignment" value="centre" />
+										<record id="object_property">
+											<integer id="get_property" value="mnpc" />
+										</record>
+									</widget>
+									
+									<widget class="text" font="title" colour="secondary" id="Cnam" size="18" alignment="left,centre_y" default_width="-1">
+										<record id="object_property" get_property="Cnam"/>
+									</widget>
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+															
+					<!--TIMELINE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="628">
+					
+						<container default_width="-1"/>
+						
+						<container background_colour="bg lighter" default_width="1100">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<!--STADIUM IMAGE-->
+							<widget class="stadium_picture" id="STAp" file="none" transparency="0.3">
+								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+								<record id="object_property" get_property="objt" set_property="objt"/>
+								<record id="default_properties" image_alignment="centre" scale_picture="true" keep_aspect_ratio="false"/>
+
+								<widget class="picture" file="pictures/stadiums/stadium_bg" />
+								<widget class="picture" id="bkgd" file="pictures/stadiums/none_base" hidden="true"/>
+								<widget class="picture" id="STPC"/>
+							</widget>
+							
+							<!--BOXES & TIMELINE-->
+							<container class="vertical_adaptive_container" gap="0" mode="dont_distribute">
+							
+								<container class="horizontal_adaptive_container" gap="0" height="292" priority="1">
+								
+									<container default_width="60"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="300">
+										<animation class="slide_in_bottom_animation" delay="0.7"/>
+										
+										<container default_height="10"/>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="30">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" translation_id="323070" value="Current Season" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1"/>
+									
+									</container>
+									
+									<container default_width="40"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="300">
+										<animation class="slide_in_bottom_animation" delay="3.1"/>
+										
+										<container default_height="10"/>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="30">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" value="Year 3" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1"/>
+									
+									</container>
+									
+									<container default_width="40"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="300">
+										<animation class="slide_in_bottom_animation" delay="5.5"/>
+											
+										<container default_height="10"/>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="30">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" value="Year 5" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1"/>
+									
+									</container>
+									
+									<container default_width="60"/>
+								
+								</container>
+								
+								<container height="44" priority="1">
+									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+									
+									<widget class="picture" file="mustermann/board/timeline" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="secondary" blue_replacement="primary" default_height="44">
+										<animation class="slide_in_right_animation"/>
+									</widget>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+									
+										<container default_width="-1"/>
+										
+										<widget class="picture" file="mustermann/board/up" image_alignment="centre_x,top" alignment="centre_x,top" blue_replacement="primary" green_replacement="secondary" default_width="10">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="0.6" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+										</widget>
+										
+										<container default_width="160"/>
+										
+										<widget class="picture" file="mustermann/board/down" image_alignment="centre_x,bottom" alignment="centre_x,bottom" blue_replacement="primary" green_replacement="secondary" default_width="10">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="1.8" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+										</widget>
+										
+										<container default_width="160"/>
+										
+										<widget class="picture" file="mustermann/board/up" image_alignment="centre_x,top" alignment="centre_x,top" blue_replacement="primary" green_replacement="secondary" default_width="10">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="3.0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+										</widget>
+										
+										<container default_width="160"/>
+										
+										<widget class="picture" file="mustermann/board/down" image_alignment="centre_x,bottom" alignment="centre_x,bottom" blue_replacement="primary" green_replacement="secondary" default_width="10">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="4.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+										</widget>
+										
+										<container default_width="160"/>
+										
+										<widget class="picture" file="mustermann/board/up" image_alignment="centre_x,top" alignment="centre_x,top" blue_replacement="primary" green_replacement="secondary" default_width="10">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="5.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+										</widget>
+										
+										<container default_width="-1"/>
+									
+									</container>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+									
+										<container default_width="-1"/>
+										
+										<widget class="picture" file="mustermann/board/target" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" green_replacement="bg" default_width="16">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.1" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+											<animation class="scale_animation" start_value="3" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" tween="ease_in"/>
+										</widget>
+										
+										<container default_width="154"/>
+										
+										<widget class="picture" file="mustermann/board/target" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" green_replacement="bg" default_width="16">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.1" delay="1.6" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+											<animation class="scale_animation" start_value="3" end_value="1" duration="0.3" delay="1.7" end_mode="hold_end" tween="ease_in"/>
+										</widget>
+										
+										<container default_width="154"/>
+										
+										<widget class="picture" file="mustermann/board/target" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" green_replacement="bg" default_width="16">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.1" delay="2.8" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+											<animation class="scale_animation" start_value="3" end_value="1" duration="0.3" delay="2.9" end_mode="hold_end" tween="ease_in"/>
+										</widget>
+										
+										<container default_width="154"/>
+										
+										<widget class="picture" file="mustermann/board/target" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" green_replacement="bg" default_width="16">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.1" delay="4.0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+											<animation class="scale_animation" start_value="3" end_value="1" duration="0.3" delay="4.1" end_mode="hold_end" tween="ease_in"/>
+										</widget>
+										
+										<container default_width="154"/>
+										
+										<widget class="picture" file="mustermann/board/target" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" green_replacement="bg" default_width="16">
+											<animation class="fade_animation" start_value="0" end_value="1" duration="0.1" delay="5.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+											<animation class="scale_animation" start_value="3" end_value="1" duration="0.3" delay="5.3" end_mode="hold_end" tween="ease_in"/>
+										</widget>
+										
+										<container default_width="-1"/>
+									
+									</container>
+									
+								</container>																
+								
+								<container class="horizontal_adaptive_container" gap="0" height="292" priority="1">
+								
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="230">									
+									
+										<container default_height="-1"/>
+										
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+																																
+											<container default_width="8"/>
+											
+											<widget class="label" alignment="left,bottom" font="title" colour="text" default_width="-1">
+												<translation id="text" translation_id="558882" type="use" value="Supporter Expectations" />     
+											</widget>
+																																	
+										</container>
+																			
+									</container>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="300">
+										<animation class="slide_in_top_animation" delay="1.9"/>
+											
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="30">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" translation_id="509143" value="Next Season" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1"/>
+										
+										<container default_height="10"/>
+									
+									</container>
+									
+									<container default_width="40"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="300">
+										<animation class="slide_in_top_animation" delay="4.3"/>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="30">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" value="Year 4" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1"/>
+										
+										<container default_height="10"/>
+									
+									</container>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="230">									
+									
+										<container default_height="-1"/>
+										
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+																																
+											<widget class="label" alignment="right,bottom" font="title" colour="text" default_width="-1">
+												<translation id="text" translation_id="558880" type="use" value="Actionable Objectives" />     
+											</widget>
+											
+											<container default_width="8"/>
+											
+										</container>
+																			
+									</container>
+								
+								</container>
+								
+
+							</container>
+
+							<!--5 YEAR PLAN TITLE-->
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="-1"/>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="44">
+								
+									<container default_width="10"/>
+									
+									<widget class="label" alignment="centre_x,centre_y" font="title" size="small" colour="secondary" default_width="100">
+										<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="0.5" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" />
+										<translation id="text" type="use" translation_id="491859" value="5 Year Plan" />     
+									</widget>
+									
+									<container default_width="-1"/>
+								
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+
+							<!--5 YEAR PLAN OVERLAY-->
+							<container class="club_vision_viewer_panel" id="cvis" file="club/mustermann/vision/timeline vision" club_vision_view_type="0" show_culture="false" show_objective_type="false" show_objective_importance="true" show_objective_status="false" use_performance_data="true"/>
+																	
+							<!--BUTTONS-->
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="230">
+								
+									<container default_height="-1"/>
+							
+									<widget class="icon_button" id="opn2" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" default_height="30">				
+										<record id="primary_icon_properties" red_replacement="text"/>
+										<event id="click_event" event_id="mbb2"/>
+										<attachment class="event_relay_attachment" event_id="mbb2">
+											<record id="action_event">
+												<flags id="event_id" value="show"/>
+												<flags id="event_target" value="mmb2"/>
+											</record>
+										</attachment>
+										<attachment class="event_relay_attachment" event_id="mbb2">
+											<record id="action_event">
+												<flags id="event_id" value="show"/>
+												<flags id="event_target" value="clo2"/>
+											</record>
+										</attachment>
+									</widget>
+								</container>
+								
+								<container default_width="-1"/>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="230">
+								
+									<container default_height="-1"/>
+							
+									<widget class="icon_button" id="opn1" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" default_height="40">				
+										<record id="primary_icon_properties" red_replacement="text"/>
+										<event id="click_event" event_id="mbb1"/>
+										<attachment class="event_relay_attachment" event_id="mbb1">
+											<record id="action_event">
+												<flags id="event_id" value="show"/>
+												<flags id="event_target" value="mmb1"/>
+											</record>
+										</attachment>
+										<attachment class="event_relay_attachment" event_id="mbb1">
+											<record id="action_event">
+												<flags id="event_id" value="show"/>
+												<flags id="event_target" value="clo1"/>
+											</record>
+										</attachment>
+									</widget>
+								</container>
+							</container>
+							
+							<!--ACTIONABLE OBJECTIVES-->
+							<container background_colour="bg lighter" id="mmb1" hidn="true">
+								<animation class="slide_in_bottom_animation"/>
+								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+								
+								<container class="club_vision_viewer_panel" id="cvis2" file="club/mustermann/vision/actionable objectives" club_vision_view_type="0" show_culture="false" show_objective_type="true" show_objective_importance="true" show_objective_status="true" use_performance_data="true">
+									<record id="object_property" get_property="cvis"/>
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+								
+									<container default_height="-1"/>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+									
+										<container default_width="-1"/>
+										
+										<container default_width="150">
+											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+											<widget class="label" alignment="right,bottom" font="title" colour="text" default_width="-1">
+												<translation id="text" translation_id="447863" type="use" value="Close" />     
+											</widget>
+											
+											<widget class="icon_button" id="clo1" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" hidn="true">
+												<event id="click_event" event_id="mbb1"/>
+												<attachment class="event_relay_attachment" event_id="mbb1">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="mmb1"/>
+													</record>
+												</attachment>
+												<attachment class="event_relay_attachment" event_id="mbb1">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="clo1"/>
+													</record>
+												</attachment>
+											</widget>
+										
+										</container>
+										
+										<container default_width="8"/>
+									
+									</container>
+								
+								</container>
+							
+							</container>
+							
+							<!--SUPPORTER EXPECTATIONS-->
+							<container background_colour="bg lighter" id="mmb2" hidn="true">
+								<animation class="slide_in_bottom_animation"/>
+								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+								
+								<container class="club_vision_viewer_panel" id="scbx" file="club/mustermann/vision/supporter expectations" show_objective_icon="true" show_objective_type="true" show_objective_importance="true" show_objective_status="false" use_performance_data="false">
+									<record id="object_property" get_property="scbx"/>
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+								
+									<container default_height="-1"/>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+									
+										<container default_width="-1"/>
+										
+										<container default_width="150">
+											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+											
+											<widget class="label" alignment="right,bottom" font="title" colour="text" default_width="-1">
+												<translation id="text" translation_id="447863" type="use" value="Close" />     
+											</widget>
+											
+											<widget class="icon_button" id="clo2" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" hidn="true">
+												<event id="click_event" event_id="mbb2"/>
+												<attachment class="event_relay_attachment" event_id="mbb2">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="mmb2"/>
+													</record>
+												</attachment>
+												<attachment class="event_relay_attachment" event_id="mbb2">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="clo2"/>
+													</record>
+												</attachment>
+											</widget>
+										
+										</container>
+										
+										<container default_width="8"/>
+									
+									</container>
+								
+								</container>
+																
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																																			
+					<!--SUPPORTER PROFILE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="292">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1100">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<!--PITCH BACKGROUND & EXPECTATIONS TEXT-->
+								<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="-1">
+				
+									<container height="50"/>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+									
+										<container default_width="480"/>
+										
+										<container default_width="120"/>
+										
+										<container default_width="-1"/>
+									
+									</container>
+									
+									<container default_height="25">
+																		
+									</container>
+									
+								</container>
+																
+								<!--SUPPORTER PROFILE-->													
+								<container class="supporter_profile_panel" file="club/mustermann/vision/supporter profile" id="sppo">
+									<record id="object_property" get_property="sppo"/>
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+					<!--BOARD-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="231">
+					
+						<container default_width="-1"/>
+												
+						<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" default_width="1100">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+														
+							<container class="team_confidence_panel" file="club/mustermann/vision/board members" id="mmch" alignment="fill">
+								<record id="object_property" get_property="tcon"/>
+							</container>
+						
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+					<!--CLUB CULTURE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="400">
+					
+						<container default_width="-1"/>
+						
+						<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" default_width="1100">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="board_confidence_panel" id="BoPe" file="club/mustermann/vision/club culture" type="0"/>								
+						
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																
+					<!--PERFORMANCE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="231">
+					
+						<container default_width="-1"/>
+						
+						<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg lighter" default_width="1100">
+							<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+							
+							<widget class="picture" file="mustermann/board/background" red_replacement="primary" image_alignment="centre" transparency="0.8"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="8"/>
+							
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+								
+									<container default_width="-1"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+									
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="35">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" translation_id="309184" value="Match Performance" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/bottom/paper" red_replacement="bg lighter" default_height="-1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<container class="club_match_confidence_panel" file="club/mustermann/vision/match confidence" id="cmcp">
+												<record id="object_property" get_property="tcon"/>
+											</container>
+											
+											<widget class="link_button" id="tcma" section="tcma" alignment="centre_x,centre_y" font="label" colour="title" size="10" show_button_appearance="false">
+												<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+												<translation id="text" type="use" value=""/>
+											</widget>
+										
+										</container>
+									
+									</container>
+																									
+									<container width="8"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+									
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="35">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" translation_id="585490" value="Tactics" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/bottom/paper" red_replacement="bg lighter" default_height="-1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<container class="club_tactics_confidence_panel" file="club/mustermann/vision/tactics confidence" id="mmtc">
+												<record id="object_property" get_property="tcon"/>
+											</container>
+											
+											<widget class="link_button" id="tacc" section="tacc" alignment="centre_x,centre_y" font="label" colour="title" size="10" show_button_appearance="false">
+												<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+												<translation id="text" type="use" value=""/>
+											</widget>
+										
+										</container>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+									
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="35">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="large" colour="secondary">
+												<translation id="text" type="use" translation_id="511340" value="Squad" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/bottom/paper" red_replacement="bg lighter" default_height="-1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<container class="club_squad_confidence_panel" file="club/mustermann/vision/squad confidence" id="cscp">
+												<record id="object_property" get_property="tcon"/>
+											</container>
+											
+											<widget class="link_button" id="tsqc" section="tsqc" alignment="centre_x,centre_y" font="label" colour="title" size="10" show_button_appearance="false">
+												<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+												<translation id="text" type="use" value=""/>
+											</widget>
+										
+										</container>
+									
+									</container>
+									
+									<container default_width="-1"/>
+								
+								</container>
+								
+								<container default_height="8"/>
+								
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																																							
+					<!--FOOTER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="30">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1100">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+				</container>
+			</container>
+		</container>
+	</container>	
+					
+</panel>

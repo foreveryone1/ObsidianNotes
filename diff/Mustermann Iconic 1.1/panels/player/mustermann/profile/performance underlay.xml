@@ -1,0 +1,498 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<!--UNDERLAY-->
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_height="-1" minimum_height="1"/>
+		
+		<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="300">
+		
+			<!--HEADLINE STATS-->
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+		
+				<container default_width="-1" minimum_width="1"/>
+				
+				<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="230">
+							
+					<container default_height="-1"/>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																			
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="247584" value="Apps" />
+						</widget>
+						
+						<widget class="appearances_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Poap"/>
+						</widget>
+					</container>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																			
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="249451" value="Minutes"/>
+						</widget>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="POmi"/>
+						</widget>
+					</container>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="hidn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+								<translation id="text" type="use" translation_id="252153" value="Gls" />
+							</widget>
+						</container>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+								<translation id="text" type="use" translation_id="258245" value="Conc" />
+							</widget>													
+						</container>
+																			
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="hidn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<record id="object_property" get_property="Pogl"/>
+							</widget>
+						</container>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<record id="object_property" get_property="Poco"/>
+							</widget>
+						</container>
+														
+					</container>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="hidn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+							<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+								<translation id="text" type="use" translation_id="258244" value="Asts" />
+							</widget>
+						</container>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+								<translation id="text" type="use" translation_id="317291" value="Cln" />
+							</widget>													
+						</container>
+																			
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="hidn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<record id="object_property" get_property="Poas"/>
+							</widget>
+						</container>
+						
+						<container>
+							<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<record id="object_property" get_property="POcs"/>
+							</widget>
+						</container>
+														
+					</container>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																			
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="294291" value="Yel" />
+						</widget>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Poyc"/>
+						</widget>
+					</container>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																			
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="294292" value="Red" />
+						</widget>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Porc"/>
+						</widget>
+					</container>
+					
+					<container default_height="27">
+						<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																			
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="336188" value="Av Rat" />
+						</widget>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Poav"/>
+						</widget>
+					</container>
+					
+					<container default_height="-1"/>
+									
+				</container>
+				
+				<container default_width="-1" minimum_width="1"/>
+				
+			</container>
+			
+			<!--PIZZA CHART-->
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+			
+				<container default_width="-1" minimum_width="1"/>
+			
+				<container default_width="300">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+					
+					<container>
+						<container height="300" width="300">
+							<layout class="stick_to_sides_attachment" alignment="bottom" inset="0"/>
+							<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							 <widget class="picture" file="mustermann/pizza/graph" red_replacement="bg int" scale_picture="false" image_alignment="centre">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+							</widget>
+						
+						</container>
+					</container>
+				
+				</container>			
+				
+				<container default_width="-1" minimum_width="1"/>
+			
+			</container>
+		
+		</container>
+		
+		<container default_height="-1" minimum_height="1"/>
+	
+	</container>
+	
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_width="-1"/>
+
+		<!--PERFORMANCE-->
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+		
+			<container default_height="16"/>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="40">
+
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="right,top" colour="text">
+						<translation id="text" type="use" translation_id="249422" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="right,bottom">
+						<record id="object_property" get_property="Podr"/>
+					</widget>
+									
+				</container>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_possess" scale_picture="false" image_alignment="centre" default_width="16"/>			
+				
+				<container default_width="60"/>			
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_attack" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="left,top" colour="text">
+						<translation id="text" type="use" translation_id="513484" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="left,bottom">
+						<record id="object_property" get_property="PxA9"/>
+					</widget>
+									
+				</container>
+				
+			</container>
+			
+			<container default_height="2"/>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="40">
+						
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="right,top" colour="text">
+						<translation id="text" type="use" translation_id="552423" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="right,bottom">
+						<record id="object_property" get_property="PGR9"/>
+					</widget>
+									
+				</container>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_possess" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="208"/>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_attack" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="left,top" colour="text">
+						<translation id="text" type="use" translation_id="552419" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="left,bottom">
+						<record id="object_property" get_property="PNx9"/>
+					</widget>
+									
+				</container>
+				
+			</container>
+			
+			<container default_height="34"/>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="40">
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="right,top" colour="text">
+						<translation id="text" type="use" translation_id="513512" value="" />
+					</widget>
+					
+					<container>
+						<attachment_group class="horizontal_arrange" horizontal_layout="-1,45"/>
+						
+						<widget class="dashed_record_percentage_label" colour="faded text" alignment="right,bottom">
+							<record id="object_property" get_property="Popa"/>
+						</widget>
+				
+						<widget class="dashed_number_label" colour="text" alignment="right,bottom">
+							<record id="object_property" get_property="POpc"/>
+						</widget>
+					</container>
+									
+				</container>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_possess" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="292"/>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_attack" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="left,top" colour="text">
+						<translation id="text" type="use" translation_id="227851" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="left,bottom">
+						<record id="object_property" get_property="POgg"/>
+					</widget>
+									
+				</container>
+				
+			</container>
+			
+			<container default_height="45"/>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="40">
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="right,top" colour="text">
+						<translation id="text" type="use" translation_id="513436" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="right,bottom">
+						<record id="object_property" get_property="POL9"/>
+					</widget>
+									
+				</container>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_possess" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="292"/>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_attack" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="left,top" colour="text">
+						<translation id="text" type="use" translation_id="291479" value="" />
+					</widget>
+					
+					<container>
+						<attachment_group class="horizontal_arrange" horizontal_layout="45,-1"/>
+				
+						<widget class="dashed_number_label" colour="text" alignment="left,bottom">
+							<record id="object_property" get_property="POsg"/>
+						</widget>
+						
+						<widget class="dashed_record_percentage_label" colour="faded text" alignment="left,bottom">
+							<record id="object_property" get_property="Post"/>
+						</widget>
+					</container>
+									
+				</container>
+				
+			</container>
+			
+			<container default_height="34"/>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="40">
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="right,top" colour="text">
+						<translation id="text" type="use" translation_id="513437" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="right,bottom">
+						<record id="object_property" get_property="POW9"/>
+					</widget>
+									
+				</container>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_possess" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="208"/>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_defend" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="left,top" colour="text">
+						<translation id="text" type="use" translation_id="388158" value="" />
+					</widget>
+					
+					<container>
+						<attachment_group class="horizontal_arrange" horizontal_layout="45,-1"/>
+				
+						<widget class="dashed_number_label" colour="text" alignment="left,bottom">
+							<record id="object_property" get_property="POHg"/>
+						</widget>
+						
+						<widget class="dashed_record_percentage_label" colour="faded text" alignment="left,bottom">
+							<record id="object_property" get_property="POhr"/>
+						</widget>
+						
+					</container>
+									
+				</container>
+				
+			</container>
+			
+			<container default_height="2"/>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="40">
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="right,top" colour="text">
+						<translation id="text" type="use" translation_id="247389" value="" />
+					</widget>
+					
+					<container>
+						<attachment_group class="horizontal_arrange" horizontal_layout="-1,45"/>
+						
+						<widget class="dashed_record_percentage_label" colour="faded text" alignment="right,bottom">
+							<record id="object_property" get_property="POtr"/>
+						</widget>
+				
+						<widget class="dashed_number_label" colour="text" alignment="right,bottom">
+							<record id="object_property" get_property="Pota"/>
+						</widget>
+					</container>
+									
+				</container>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_defend" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="60"/>
+				
+				<widget class="picture" file="mustermann/attributes/good" red_replacement="pizza_defend" scale_picture="false" image_alignment="centre" default_width="16"/>
+				
+				<container default_width="-1">
+					<attachment_group class="vertical_arrange" vertical_alignment="fill"/>
+					
+					<widget class="label" font="text" alignment="left,top" colour="text">
+						<translation id="text" type="use" translation_id="554494" value="" />
+					</widget>
+				
+					<widget class="dashed_number_label" colour="text" alignment="left,bottom">
+						<record id="object_property" get_property="PRS9"/>
+					</widget>
+									
+				</container>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1" minimum_height="1">
+				<container default_width="-1"/>
+				
+				<widget class="picture" file="icons/16px/help" red_replacement="fg" scale_picture="false" image_alignment="right" default_width="16">
+					<translation id="hint" type="use" value="Compared to players performing a similar role across the Top 20 Leagues and expressed as a percentile. &#10; &#10;Position groups are broad and relate to the general role of the player.  E.g. a central midfielder whose primary job is defensive cover should be considered as a defensive midfielder. &#10; &#10;To change comparison group, please click the position name in the middle of the chart." />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+				</widget>
+			</container>
+		
+		</container>
+
+	</container>
+	
+	<!--POSITION SELECTOR-->
+	<container class="client_object_viewer_selector_panel" id="mmol" file="player/mustermann/profile/performance selector" default_item="mmsp" save_session_state="true" dont_set_embedded_title="true" priority="1" navigation_container="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</container>
+
+</panel>

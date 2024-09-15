@@ -1,0 +1,17 @@
+<panel>
+	<attachment_group class="vertical_arrange" vertical_alignment="middle,extend" vertical_offset="8" horizontal_alignment="horizontal" horizontal_inset="8" vertical_gap="8"/>
+	
+	<container class="contrast_box" red_replacement="bg lighter" height="356">
+		<attachment_group class="horizontal_arrange" horizontal_alignment="fill" horizontal_layout="-1,-2" horizontal_offset="0" vertical_alignment="vertical" vertical_inset="0" />
+
+		<widget class="team_staff_subteam_overview_panel" file="team/mustermann/staff subteam/subteam overview" id="ovvw" link="false" navigation_container="true"/>
+		<widget class="team_staff_attributes_comparison_panel" file="team/mustermann/staff subteam/comparison graph" id="tsac"/>
+	</container>
+
+	<widget class="team_container_staff_details_panel" file="team/mustermann/staff subteam/staff list" id="deta" />
+
+	<container class="contrast_box" red_replacement="bg lighter" id="btns" navigation_container="true">
+		<attachment_group class="button_arrangement_right" />
+	</container>
+
+</panel>

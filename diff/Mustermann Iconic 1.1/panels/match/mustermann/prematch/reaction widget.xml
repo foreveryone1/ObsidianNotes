@@ -1,0 +1,86 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<container class="contrast_box_no_margin" red_replacement="bg int">		
+		<attachment_group class="vertical_arrange" vertical_alignment="bottom" vertical_gap="8" vertical_offset="0" horizontal_inset="8"/>
+
+		<widget class="text" font="title" colour="title" size="large" alignment="left, centre_y" height="22">
+			<record id="object_property" get_property="titl" set_property="text"/>
+		</widget>
+		
+		<container class="inner_subtle_box" height="80">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			<widget class="text" id="text" alignment="centre_x,centre_y">
+				<record id="object_property" get_property="RRTe" set_property="text"/>
+			</widget>
+		</container>
+
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" horizontal_gap="4" horizontal_offset="0" vertical_inset="0"/>
+
+			<widget class="object_portrait_picture" width="100" height="100" keep_aspect_ratio="true" scale_picture="true" image_alignment="centre_x,bottom" alignment="centre_x,bottom">
+				<record id="object_property" get_property="Pers" set_property="objt"/>
+			</widget>
+
+			<container >
+				<attachment_group class="vertical_arrange_autosize" vertical_gap="0" vertical_offset="0" horizontal_inset="0"/>
+
+				<widget class="info_icon_hint_text" icon_alignment="centre" widget_type="property_list_viewer_xml_panel" multiline="true" auto_size="vertical">
+					<record id="object_property">
+						<list id="get_properties">
+							<record>
+								<integer id="get_property" value="valu" />
+								<integer id="set_property" value="valu" />
+							</record>
+							<record>
+								<integer id="get_property" value="inhi" />
+								<integer id="set_property" value="inhi" />
+							</record>
+							<record>
+								<integer id="get_property" value="mpth" />
+								<integer id="set_property" value="hidden" />
+							</record>
+						</list>
+					</record>
+
+				</widget>
+
+				<widget class="person_button" info_popup_enabled="true" person_is_player="true" multiline="true" auto_size="vertical">
+					<record id="object_property">
+						<list id="get_properties">
+							<record>
+								<integer id="get_property" value="Pers" />
+								<integer id="set_property" value="valu" />
+							</record>
+							<record>
+								<integer id="get_property" value="spth" />
+								<integer id="set_property" value="hidden" />
+							</record>
+						</list>
+					</record>
+				</widget>
+
+				<container height="30">
+					<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="left,extend"/>
+					<container class="plain_box" appearance="boxes/custom/body language/paper">
+						<record id="object_property" get_property="red_replacement" set_property="red_replacement"/>
+						<attachment_group class="horizontal_arrange_autosize"/>
+						<widget class="body_language_widget" auto_size="all">
+							<record id="object_property" get_property="Cbod" set_property="valu"/>
+						</widget>
+						<widget class="spacer" width="4"/>
+					</container>
+
+					<widget class="spacer"/>
+					
+				</container>
+				
+				
+			</container>
+			
+		</container>
+		
+	</container>
+	
+	
+</panel>

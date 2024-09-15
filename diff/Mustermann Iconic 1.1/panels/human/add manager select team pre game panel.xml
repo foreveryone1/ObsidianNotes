@@ -1,0 +1,169 @@
+<panel>
+    <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	
+    <container>
+        <layout class="arrange_vertical_attachment" alignment="bottom, extend" offset="0" gap="0" />
+        <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+        <!--main area-->
+        <container>
+            <layout class="arrange_vertical_attachment" alignment="top, extend" offset="0" gap="8" />
+            <layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+            <!--starting job and database-->
+            <container class="inner_box" height="62" navigation_container="true">
+                <layout class="arrange_horizontal_attachment" alignment="right, extend" gap="0" />
+                <layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+                <!--starting job-->
+                <container>
+                    <layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="4" />
+                    <layout class="stick_to_sides_attachment" alignment="left" inset="0" apply_to_children="true" />
+
+                    <!--starting job-->
+                    <widget class="label" id="jobl" auto_size="all" font="title">
+                        <translation id="text" translation_id="466405" type="use" value="Starting job[COMMENT: FR 23128 - label by a popup to allow the user to choose what job they want to start the game with]" />
+                    </widget>
+                    <widget class="popup_button" id="job " select_event="job " icon_enabled="true" auto_size="all" selection="0">
+                        <list id="items">
+                            <record id="0">
+                                <translation id="name" translation_id="466406" type="use" value="Club Manager[COMMENT: FR 23128 - how the manager wants to start the game]" />
+                            </record>
+                            <record id="1">
+                                <translation id="name" translation_id="466407" type="use" value="International Manager[COMMENT: FR 23128 - how the manager wants to start the game]" />
+                            </record>
+                            <record id="2">
+                                <translation id="name" translation_id="466408" type="use" value="Club and International Manager[COMMENT: FR 23128 - how the manager wants to start the game]" />
+                            </record>
+                            <record id="3">
+                                <translation id="name" translation_id="351074" type="use" value="Unemployed[COMMENT: person doesn't have a job; translation already exists with a different case on the first character, use top 10 matches]" />
+                            </record>
+                        </list>
+                    </widget>
+                </container>
+
+                <!--db selector-->
+                <container id="Dbse" width="250">
+                    <layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="4" />
+                    <layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+                    <widget class="label" auto_size="vertical" font="title">
+                        <translation id="text" translation_id="251849" type="use" value="Database[COMMENT: database selection dialog, label for the popup menu]" />
+                    </widget>
+                    <widget class="widget_popup_button" id="dbse" widget_type="database_selector_panel" auto_size="vertical" appearance="buttons/standard/normal/button">
+                    </widget>
+                </container>
+            </container>
+
+            <widget class="horizontal_divider" />
+
+            <container id="main">
+                <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+                <container id="empl">
+                    <layout class="arrange_vertical_attachment" alignment="bottom, extend" offset="0" />
+                    <layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+                    <container>
+                        <layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="26" />
+                        <layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+                        <!--nation/league/search box-->
+                        <container navigation_container="true">
+                            <layout class="fit_children_attachment" alignment="vertical" offset="0" />
+                            <layout class="arrange_horizontal_attachment" alignment="left, extend" gap="10" />
+                            <layout class="stick_to_sides_attachment" alignment="top" inset="0" apply_to_children="true" />
+
+                            <!--nation-->
+                            <widget class="popup_button" id="nati" icon_enabled="true" auto_size="all" primary_use_icon_app_rep_colour="false" />
+
+                            <!--league-->
+                            <widget class="popup_button" id="leag" icon_enabled="true" auto_size="all" primary_use_icon_app_rep_colour="false" />
+
+                            <container>
+                                <layout class="fit_children_attachment" alignment="vertical" offset="0" />
+                                <layout class="arrange_horizontal_attachment" alignment="right" offset="0" gap="0" />
+                                <layout class="stick_to_sides_attachment" alignment="top" inset="0" apply_to_children="true" />
+
+                                <!--search box-->
+                                <widget class="search_box" id="srch" width="200" rate="500" height="30" />
+                            </container>
+                        </container>
+
+                        <!--list of teams-->
+                        <container class="scrolling_box" navigation_container="true">
+                            <container id="team">
+                                <layout class="fit_children_attachment" alignment="vertical, extend" offset="0" gap="6" />
+                                <layout class="arrange_horizontal_attachment" alignment="middle" wrap="true" gap="6" offset="0" />
+                                <layout class="stick_to_sides_attachment" alignment="top" apply_to_children="true" inset="0" />
+
+                                <record id="default_properties" multiline="true" alignment="centre" size="xsmall" appearance="switches/custom/team picker/button" secondary_icon_enabled="true" secondary_icon_alignment="centre_top,centre_x" secondary_use_icon_app_rep_colour="false" colour="text">
+
+                                    <integer id="width" value="160" />
+                                    <integer id="height" value="90" />
+                                    <boolean id="icon_enabled" value="true" />
+
+                                    <record id="secondary_icon_size">
+                                        <integer id="width" value="42" />
+                                        <integer id="height" value="42" />
+                                        <!-- if aspect ratio is maintained then one of the dimensions will be adjusted as necessary -->
+                                    </record>
+                                </record>
+                            </container>
+                        </container>
+                    </container>
+
+                    <widget class="text" id="warn" multiline="true" auto_size="vertical" />
+                </container>
+
+                <container id="unem" />
+            </container>
+
+            <!--area informing the user that they can't select a team here because they have selected some custom editor files-->
+            <container id="cust">
+                <layout class="arrange_vertical_attachment" alignment="top,extend" offset="8" />
+                <layout class="stick_to_sides_attachment" alignment="horizontal" inset="8" apply_to_children="true" />
+
+                <widget class="text" multiline="true">
+                    <translation id="text" translation_id="420603" type="use" value="You have selected a custom database. This means you will need to pick your team later when the database has been loaded. Choose 'Advanced Setup' now or deselect the editor files in the database menu.[COMMENT: choose team dialog information text, cannot be feminised]" />
+                </widget>
+            </container>
+        </container>
+
+        <!--buttons area-->
+        <container navigation_container="true">
+            <layout class="arrange_horizontal_attachment" alignment="left, extend" offset="0" />
+            <layout class="stick_to_sides_attachment" alignment="bottom" inset="0" apply_to_children="true" />
+            <layout class="fit_children_attachment" alignment="vertical" />
+
+            <!--back button on the left-->
+            <widget class="icon_button" id="back" click_event="back" auto_size="all" icon="icons/16px/left">
+                <translation id="text" translation_id="420604" type="use" value="Back - Pick Club Team[COMMENT: FR 15522 - button to advance to choosing an international team to manage]" />
+            </widget>
+
+            <container>
+                <attachment_group class="button_arrangement_right" />
+
+                <widget class="primary_icon_button" id="next" click_event="next" auto_size="all" icon="icons/16px/right" controller_button="right_trigger">
+                    <translation id="text" translation_id="420605" type="use" value="Next - Pick International Team[COMMENT: FR 15522 - button to advance to choosing an international team to manage]" />
+                </widget>
+                <widget class="primary_icon_tick_button" id="ok  " click_event="ok  ">
+                    <translation id="text" translation_id="229829" type="use" value="Ok" />
+                </widget>
+                <widget class="primary_icon_tick_button" id="qsta" click_event="qsta" controller_button="x_button">
+                    <translation id="text" translation_id="341393" type="use" value="Quick Start[COMMENT: intro panel; demo only; quickstarts section title text, allows the user to click and load from a selection of quick start saved games]" />
+                </widget>
+                <widget class="primary_icon_button" id="Adva" click_event="Adva" icon="icons/16px/edit" auto_size="all" controller_button="y_button">
+                    <translation id="text" translation_id="347955" type="use" value="Advanced Setup[COMMENT: text for a button that will allow the user some extra options when setting up the game]" />
+                </widget>
+				<widget class="primary_icon_button" id="CHgm" click_event="CHgm" icon_enabled="false" secondary_icon_enabled="true" secondary_icon="icons/16px/right" auto_size="all" controller_button="y_button">
+					<translation id="text" translation_id="594823" type="use" value="Choose Game Mode[COMMENT: AREA: Start new game; SUB-AREA: Team choice dialog; FR-BN: FM-23921; NOTE: Button label to progress to game mode choice when starting a new career]" />
+				</widget>
+                <widget class="icon_button" id="canc" click_event="canc" auto_size="all" controller_button="b_button">
+                    <translation id="text" translation_id="229828" type="use" value="Cancel" />
+                </widget>
+            </container>
+        </container>
+    </container>
+
+</panel>

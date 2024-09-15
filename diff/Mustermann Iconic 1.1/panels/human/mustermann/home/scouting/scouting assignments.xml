@@ -1,0 +1,75 @@
+<panel>
+	<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+	<container class="team_scouts_panel" id="left" file="none">
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+		<record id="object_property">
+			<integer id="get_property" value="objt" />
+			<integer id="set_property" value="objt" />
+		</record>
+
+
+		<!-- Number of assigned scouts (x/total) -->
+		<widget class="label" id="nbsa" font="text" auto_size="vertical" colour="fg" />
+	</container>
+
+	<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+	<container id="cntt">
+		<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="10" horizontal_inset="0" />
+
+			<!-- Queued players -->
+			<widget class="formatted_label" id="nbqu" auto_size="vertical" alignment="left" colour="fg">
+				<translation id="format" translation_id="395555" type="use" value="[%number#1] queued players[COMMENT: Manager home; number of players queued up for scouting]" />
+			</widget>
+
+			<widget class="horizontal_divider" />
+		</container>
+		<!-- Assignment list -->
+		<widget class="assignment_list_widget" id="aslw" file="none">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+			<widget class="table" mode="fill_cells, stripe_rows" id="wasl" fixed_size_rows="true" auto_size_rows="false" row_height="30" layout="-1,250" inset="0" column_spacing="0">
+				<list id="column_table_properties">
+					<record>
+						<flags id="id" value="scon" />
+						<record id="widget_info" class="text" colour="text"/>
+						<record id="column_heading">
+							<translation id="text" translation_id="227987" type="use" value="Scout" />
+							<flags id="alignment" value="left,centre_y" />
+							<flags id="column" value="0" />
+						</record>
+					</record>
+					<record>
+						<flags id="id" value="Cura" />
+						<flags id="alignment" value="left,centre_y" />
+						<record id="widget_info" class="text" colour="text"/>
+						<record id="column_heading" >
+							<translation id="text" translation_id="450815" type="use" value="Current Assignment[COMMENT: FR 21125, scouting centre text showing the current assignment]" />
+							<flags id="alignment" value="left,centre_y" />
+							<flags id="column" value="1" />
+						</record>
+					</record>
+
+				</list>
+
+				<list id="column_widget_properties">
+					<record index="1" auto_size="none">
+						<flags id="alignment" value="left,centre_y" />
+					</record>
+				</list>
+			</widget>
+		</widget>
+	</container>
+
+	<widget class="text" id="lnop" alignment="centre" hidden="false" size="large" colour="fg">
+		<translation id="text" translation_id="447500" type="use" value="There are currently no recruitment staff employed by the club. Therefore, reports cannot be provided.[COMMENT: club scouting assignments; explanatory text for situations where a club has no scouts]" />
+	</widget>
+</panel>

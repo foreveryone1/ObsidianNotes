@@ -1,0 +1,15 @@
+﻿<panel>
+	<boolean id="should_force_refresh" value="true" />
+	<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" />
+
+	<list id="properties_to_forward">
+		<record get_property="recommendation_widget_mode" set_property="recommendation_mode" target="sriW" />
+		<record get_property="showing_in_list" set_property="showing_in_list" target="sriW" />
+	</list>
+	
+	<widget class="player_scout_recommendation_widget" id="sriW" width="40" height="40" alignment="left" show_knowledge_bar="false" navigation_focus_target="false">
+		<record id="object_property" get_property="Psrk" set_property="objt" />
+	</widget>
+	
+</panel>

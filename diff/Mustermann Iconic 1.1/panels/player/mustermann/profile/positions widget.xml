@@ -1,0 +1,65 @@
+﻿<panel>
+	<!-- colour used when player can;t play in position -->
+	<flags id="cpco" value="bg lighter"/>
+	<!-- icon used when player can play in position -->
+	<string id="capf" value="mustermann/attributes/low"/>
+	<!-- icon used when player cannot play in position -->
+	<string id="cnpf" value="pitch/icons/dots/tiny/empty"/>
+
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+
+	<container class="contrast_box_no_margin" red_replacement="bg int" id="dptc">
+		<layout class="grid_layout_attachment" row_layout="-1,-1,-1,-1,-1,4,-1" mode="auto" column_layout="-1,-1,-1" vertical_gap="0" horizontal_gap="0" vertical_offset="8" horizontal_offset="8"/>
+
+		<!--1st row-->
+		<widget class="spacer" />
+
+		<widget class="picture" id="stcp"  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="spacer" />
+
+		<!--2nd row-->
+		<widget class="picture" id="amlp"  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="amcp"  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="amrp"  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<!--3rd row-->
+		<widget class="picture" id="mlp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="mcp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="mrp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<!--4th row-->
+		<widget class="picture" id="wblp"  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="dmp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="wbrp"  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<!--5th row-->
+		<widget class="picture" id="dlp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="dcp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="picture" id="drp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+		
+		<widget class="spacer" />
+		<widget class="spacer" />
+		<widget class="spacer" />
+
+		<!--6th row-->
+		<widget class="spacer" />
+
+		<widget class="picture" id="gkp "  image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+		<widget class="spacer" />
+
+
+	</container>
+
+
+</panel>

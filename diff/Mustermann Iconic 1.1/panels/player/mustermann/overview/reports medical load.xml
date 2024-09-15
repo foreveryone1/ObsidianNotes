@@ -1,0 +1,49 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<boolean id="should_force_refresh" value="true"/>
+	<string id="skin_style" value="title link"/>
+	<string id="history_table_selected_row_appearance" value="tables/custom/attributes/required/row"/>
+
+	<!-- second row -->
+	<container height="160">
+		<attachment_group class="horizontal_arrange" horizontal_alignment="fill" horizontal_offset="0" vertical_alignment="vertical" vertical_inset="0" horizontal_gap="8"/>
+
+		<!-- match load box -->
+		<container class="contrast_box" red_replacement="bg int">
+			<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+			<widget class="text" auto_size="all" font="title" colour="title">
+				<translation id="text" translation_id="450783" type="use" value="Match Load[COMMENT: FR 20159; team injury risk assessment; table column header for player's recent match workload]"/>
+			</widget>
+
+			<widget class="client_object_viewer_xml_panel" file="player/player risk assessment match load widget" id="MLdw" auto_size="vertical"/>
+		</container>
+
+		<!-- training load box -->
+		<container class="contrast_box" red_replacement="bg int">
+			<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+			<widget class="text" auto_size="all" font="title" colour="title">
+				<translation id="text" translation_id="450784" type="use" value="Training Load[COMMENT: FR 20159; team injury risk assessment; table column header for player's recent training workload]"/>
+			</widget>
+
+			<widget class="client_object_viewer_xml_panel" file="player/player risk assessment training load widget" id="TLdw" auto_size="vertical"/>
+		</container>
+
+		<!-- injury proneness box -->
+		<container class="contrast_box" red_replacement="bg int" id="IPBx">
+			<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+
+			<widget class="text" auto_size="all" font="title" colour="title">
+				<translation id="text" translation_id="450785" type="use" value="Injury Susceptibility[COMMENT: FR 20159; player injury panel; table column header for player's susceptibility to injury]"/>
+			</widget>
+
+			<widget class="client_object_viewer_xml_panel" file="player/player risk assessment injury proneness widget" id="IPrw" auto_size="vertical"/>
+		</container>
+
+	</container>
+
+
+</panel>

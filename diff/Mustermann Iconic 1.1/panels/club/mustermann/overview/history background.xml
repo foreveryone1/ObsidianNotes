@@ -1,0 +1,14 @@
+<panel>
+
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<container class="scrolling_box">
+	
+		<!--background text -->
+		<container class="inner_box">
+			<attachment_group class="vertical_arrange_autosize"/>
+
+			<widget class="text" id="text" colour="text" alignment="centre" auto_size="vertical" />
+		</container>
+	</container>
+</panel>

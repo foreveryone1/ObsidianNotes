@@ -1,0 +1,20 @@
+﻿<panel>
+	<boolean id="save_immediate_state" value="true"/>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<widget class="table" id="mlst" mode="fill_rows" wants_lazy_load="true" row_spacing="0" auto_size_rows="true" fixed_size_rows="false" layout="-1, 20, 80, 20, -1, 80, 60" navigation_focus_target="true">
+		<record id="default_properties">
+			<integer id="auto_size_minimum_height" value="23" />
+		</record>
+
+		<list id="column_widget_properties">
+			<record indx="0" spec="text"/>
+			<record indx="1" spec="text"/>
+			<record indx="2" spec="text"/>
+			<record indx="3" spec="text"/>
+			<record indx="4" spec="text"/>
+			<record indx="5" spec="text"/>
+			<record indx="6" show_button_appearance="false"/>
+		</list>
+	</widget>
+</panel>

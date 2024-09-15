@@ -1,0 +1,16 @@
+<panel height="32">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="1,0,1,0" apply_to_children="true"/>
+
+	<container class="contrast_box_no_margin" red_replacement="mustermann3">
+		<layout class="arrange_horizontal_attachment" layout="8,-1, 25" gap="0" offset="0"/>
+		<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true"/>
+
+		<widget class="spacer" />
+		
+		<widget class="text_button" id="Dtlb" alignment="left,centre_y" style="semi_bold" spec="text"  size="normal" multiline="true" colour="mustermanntext" navigation_focus_target="false"/>
+		<widget class="icon_button" id="Dtco" show_button_appearance="false" icon="" alignment="centre" icon_alignment="centre" navigation_focus_target="false">
+			<record id="primary_icon_properties" red_replacement="text"/>
+		</widget>
+	</container>
+
+</panel>

@@ -1,0 +1,58 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+	
+	<container>
+		<layout class="arrange_horizontal_attachment" layout="-1,16" offset="0" gap="0"/>
+		<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+		
+		<container/>
+
+		<!-- Button -->
+		<widget class="icon_button" id="opn1" alignment="right,centre_y" icon_alignment="right,centre_y" icon="icons/16px/file" show_button_appearance="false" width="16">				
+			<translation id="hint" translation_id="257276" type="use" value="Notes"/>
+			<record id="primary_icon_properties" red_replacement="text"/>
+			<event id="click_event" event_id="mmnb"/>
+			<attachment class="event_relay_attachment" event_id="mmnb">
+				<record id="action_event">
+					<flags id="event_id" value="show"/>
+					<flags id="event_target" value="mmnp"/>
+				</record>
+			</attachment>
+			<attachment class="event_relay_attachment" event_id="mmnb">
+				<record id="action_event">
+					<flags id="event_id" value="hide"/>
+					<flags id="event_target" value="opn1"/>
+				</record>
+			</attachment>
+			<attachment class="event_relay_attachment" event_id="mmnb">
+				<record id="action_event">
+					<flags id="event_id" value="show"/>
+					<flags id="event_target" value="clo1"/>
+				</record>
+			</attachment>
+		</widget>
+
+		<!-- close button -->
+		<widget class="icon_button" id="clo1"  icon="icons/16px/cross" alignment="right,centre_y" icon_alignment="right,centre_y" show_button_appearance="false" hidn="true">
+			<event id="click_event" event_id="mmnb"/>
+			<attachment class="event_relay_attachment" event_id="mmnb">
+				<record id="action_event">
+					<flags id="event_id" value="hide"/>
+					<flags id="event_target" value="mmnp"/>
+				</record>
+			</attachment>
+			<attachment class="event_relay_attachment" event_id="mmnb">
+				<record id="action_event">
+					<flags id="event_id" value="hide"/>
+					<flags id="event_target" value="clo1"/>
+				</record>
+			</attachment>
+			<attachment class="event_relay_attachment" event_id="mmnb">
+				<record id="action_event">
+					<flags id="event_id" value="show"/>
+					<flags id="event_target" value="opn1"/>
+				</record>
+			</attachment>
+		</widget>
+	</container>
+</panel>

@@ -1,0 +1,40 @@
+﻿<panel>	
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<!-- these are defaults tablet sizes-->
+	<integer id="TbWs" value="300" />
+	<integer id="TbWm" value="650" />
+	<integer id="TbWl" value="1070" />
+
+	<list id="properties_to_forward">
+		<record get_property="HNEp" target="NEvp" set_property="hidn" />
+		<record get_property="HFep" target="FEEP" set_property="hidn" />
+		<record get_property="HTtp" target="TTab" set_property="hidn" />
+		<record get_property="OTfi" target="TTab" set_property="OTfi" />
+		<record get_property="HTsi" target="TTab" set_property="HTsi" />
+		<record get_property="OTsi" target="TTab" set_property="OTsi" />
+		<record get_property="HSMt" target="TTab" set_property="HSMt" />
+		<record get_property="ASMt" target="TTab" set_property="ASMt" />
+	</list>
+
+	<container>
+
+		<attachment_group class="vertical_arrange" vertical_alignment="middle" />
+
+		<container>
+
+			<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="middle" />
+
+			<widget id="TTab" class="touchline_tablet_panel">
+				<boolean id="should_force_refresh" value="true" />
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+
+		</container>
+
+	</container>
+
+</panel>

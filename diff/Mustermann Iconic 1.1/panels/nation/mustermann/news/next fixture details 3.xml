@@ -1,0 +1,22 @@
+<!-- GOAL OF THIS PANEL IS TO DISPLAY THE KITS AND LOGOS IN USE, THEN WHEN THE USER HOVERS OVER THEM, DISPLAY THE MATCH INFO. -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<!-- CONTAINER HOLDING STADIUM PICTURE -->
+	<container>
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" offset="0"/>
+
+		<!-- STADIUM PICTURE -->
+		<widget class="stadium_picture" id="STAp" file="none" transparency="0.3">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<record id="object_property" get_property="objt" set_property="objt"/>
+			<record id="default_properties" image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+			<widget class="picture" file="pictures/stadiums/stadium_bg" />
+			<widget class="picture" id="bkgd" file="pictures/stadiums/none_base" hidden="true"/>
+			<widget class="picture" id="STPC"/>
+		</widget>
+	</container>
+	
+</panel>

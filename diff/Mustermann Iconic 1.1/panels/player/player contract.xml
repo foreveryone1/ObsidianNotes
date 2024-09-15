@@ -1,0 +1,30 @@
+<panel>
+	<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+	<translation id="title" translation_id="247575" type="use" value="Player Contract Panel" />
+
+    <container id="main" class="contrast_box" red_replacement="bg lighter" font="transparent">
+		<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-2" horizontal_gap="8"/>
+
+		<!-- Set the colour used for the background on loan contracts -->
+		<colour id="lnBG" name="loan out background" />
+		<!-- Set the colour used for the title text on loan contracts -->
+		<colour id="lnFG" name="accent" />
+
+        <container file="player/player contract subpanel"/>
+    
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+
+			<container draw_vertical_dividers="true">
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1">
+					<global id="horizontal_gap" name="ui.inner_box_gap"/>
+				</attachment_group>
+       			<container file="player/player contract subpanel bonuses options"/>
+        		<container file="player/player contract subpanel clauses"/>
+			</container>
+
+			<widget class="player_salary_cap_impact_adjustment_panel" id="salc" auto_size="vertical" hidden="true" />
+		</container>
+	</container>
+</panel>

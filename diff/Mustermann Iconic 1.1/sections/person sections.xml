@@ -1,0 +1,447 @@
+<!--
+this file contains a list of all of the sections in the game
+--><properties>
+  <string id="text" value="Person" />
+  <list id="items">
+    <record id="Pprf">
+      <translation id="text" translation_id="258299" type="use" value="Overview[COMMENT: manager overview section name]" />
+      <list id="items">
+        <!--home-->
+        <record id="Psnp" />
+        <!--profile-->
+        <record id="Plov" />
+        <!--profile-->
+        <record id="PRet" />
+        <!--attributes-->
+        <record id="Pply" />
+        <!--profile-->
+        <record id="Pnpl" />
+        <!--profile-->
+        <record id="Psof" />
+        <!--profile-->
+        <record id="PAge" />
+        <!--profile-->
+        <record id="Phum" />
+        <!--Relationship-->
+        <record id="Prel" />
+        <!--information-->
+        <record id="Ppin" />
+        <record id="----" />
+        <!--actions-->
+        <!--Coaching Course suggestion (Club)-->
+        <record id="ccra" item_type="ACTT" />
+        <record id="lcra" item_type="ACTT" />
+        <!--Set/Edit/Remove Nickname-->
+        <record id="nick" item_type="ACTT" />
+        <record id="SUBS" item_type="ACTT" />
+        <record id="USUB" item_type="ACTT" />
+      </list>
+    </record>
+    <record id="Pctr">
+      <translation id="text" translation_id="335009" type="use" value="Contract[COMMENT:Transfers and contract section]" />
+      <list id="items">
+        <!--contract info-->
+        <record id="Pcnr" />
+        <!--contract offer-->
+        <record id="PctO" />
+        <record id="----" />
+        <!--actions-->
+				<!--Apply For Work Permit-->
+				<record id="apwp" item_type="ACTT" />
+				<!--Ask agent about contract renewal availability-->
+				<record id="craa" item_type="ACTT" />
+				<!--Persuade player agent to disregard failed contract negotiations-->
+				<record id="ppad" item_type="ACTT" />
+				<!--Contract Offer-->
+				<record id="Poct" item_type="ACTT" />
+				<!--Virtual Contract Offer-->
+				<record id="Povc" item_type="ACTT" />
+				<!--Get the DOF to offer a contract renewal -->
+				<record id="sfDp" item_type="ACTT" />
+				<!--Auto Extend Contract Clause-->
+				<record id="Ptac" item_type="ACTT" />
+				<!--Assign Contract Renewal Responsbility-->
+				<record id="Papc" item_type="ACTT" />
+				<!--Approach to Sign-->
+				<record id="Papt" item_type="ACTT" />
+				<!--Withdraw Contract Offer-->
+				<record id="Wdco" item_type="ACTT" />
+				<record id="----" />
+        <!--Buy down MLS player salary cap impact with General Allocation Money -->
+        <record id="BscA" item_type="ACTT" />
+        <!--Release on a free (club) -->
+        <record id="Rfta" item_type="ACTT" />
+        <!--Mutual Termination of Contract-->
+        <record id="MTco" item_type="ACTT" />
+        <!--Set released at the end of Contract-->
+        <record id="sfrp" item_type="ACTT" />
+				<!--Terminate Trial-->
+				<record id="triC" item_type="ACTT" />
+				<!--Offer National Job to Non Player-->
+				<record id="osnk" item_type="ACTT" />
+				<!--Release on a free (nation)-->
+				<record id="Rftn" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="PTro">
+      <translation id="text" translation_id="335506" type="use" value="Transfer[COMMENT:Transfers and contract section]" />
+      <list id="items">
+        <!--transfer status-->
+        <record id="Ptin" />
+        <!--transfer offer-->
+        <record id="S19A" />
+        <!--trade-->
+        <record id="MLSt" />
+        <!--enquiry-->
+        <record id="MLSe" />
+				<!--Ask Agent Offer to Club-->
+				<record id="caoc" item_type="ACTT" />
+				<!--Ask Intermediary Offer to Club-->
+				<record id="hIoC" item_type="ACTT" />
+        <!--offer to clubs-->
+        <record id="S19B" />
+        <record id="----" />
+        <!--actions-->
+		    <!--Ask agent about availability-->
+		    <record id="apaa" item_type="ACTT" />
+				<!--Respond to agent availability-->
+				<record id="rpaa" item_type="ACTT" />
+				<!--Place MLS players to injury lists-->
+        <record id="mlil" item_type="ACTT" />
+        <!--Allow player absence of leave (Homesick)-->
+        <record id="awol" item_type="ACTT" />
+        <!--Recall player from holiday-->
+        <record id="rols" item_type="ACTT" />
+        <!--Transfer Immediate-->
+        <record id="pGmT" item_type="ACTT" />
+        <!--Trial until join date -->
+        <record id="Tuft" item_type="ACTT" />
+				<!--Set Transfer Status-->
+				<record id="staA" item_type="ACTT" />
+        <!--Offer only to MLS Clubs (showed only for MLS)-->
+        <record id="OMLS" item_type="ACTT" />
+        <!--Offer to Clubs (or to non-MLS clubs when managing a MLS club...)-->
+        <record id="Otcl" item_type="ACTT" />
+        <!--Offer to Extend Loan-->
+        <record id="poel" item_type="ACTT" />
+        <!--Make a Transfer Offer-->
+        <record id="offr" item_type="ACTT" />
+        <!--Make an enquiry-->
+        <record id="ebpl" item_type="ACTT" />
+	    	<!--Offer a Trial-->
+		    <record id="oftr" item_type="ACTT" />
+        <!--Declare Interest-->
+        <record id="Diip" item_type="ACTT" />
+        <!--Claim Players from Waiver List (MLS)-->
+        <record id="ofml" item_type="ACTT" />
+        <!--Change a Transfer offer-->
+        <record id="chTr" item_type="ACTT" />
+        <!--Change a Transfer offer-->
+        <record id="AsKc" item_type="ACTT" />
+        <!--Withdraw an Transfer offer-->
+        <record id="with" item_type="ACTT" />
+		<!--Add to Shortlist-->
+		<record id="AtSo" item_type="ACTT" />
+		<!--Move to Shortlist-->
+		<record id="movC" item_type="ACTT" />
+		<!--Remove Players from Shortlist-->
+		<record id="RPfs" item_type="ACTT" />
+		<record id="AnPo" item_type="ACTT" />	<!--Add to staff shortlist-->
+		<record id="moNP" item_type="ACTT" /> <!--Move to staff shortlist-->
+		<record id="RNfs" item_type="ACTT" /> <!--Remove from staff shortlist-->
+		<!-- Cancel a transfer offer -->
+		<record id="CanO" item_type="ACTT" />
+        <!--Recall/Terminate Loan-->
+        <record id="loan" item_type="ACTT" />
+        <!--Take Over Loan-->
+        <record id="toPl" item_type="ACTT" />
+        <!--Propose a one match only loan-->
+        <record id="lf1m" item_type="ACTT" />
+        <!--Add To Unwanted List-->
+        <record id="ApUl" item_type="ACTT" />
+        <!--Remove From Unwanted List-->
+        <record id="RpUl" item_type="ACTT" />
+        <!--Add To Development List-->
+        <record id="ApDl" item_type="ACTT" />
+        <!--Remove From Development List-->
+        <record id="RpDl" item_type="ACTT" />
+        <!--Add To Transfer Target List-->
+        <record id="ApTt" item_type="ACTT" />
+        <!--Remove From Transfer Target List-->
+        <record id="RpTt" item_type="ACTT" />
+        
+      </list>
+    </record>
+
+    <record id="Pdev">
+      <translation id="text" translation_id="343543" type="use" value="Development[COMMENT: section title; section containing information related to a players performance and development]" />
+      <list id="items">
+        <!--training-->
+        <record id="Ptra" />
+        <record id="Ptac" />
+        <record id="Pgrg" />
+        <!--advice-->
+        <record id="PdAp" />
+        <!--loan report-->
+        <record id="Plrp" />
+        <record id="----" />
+        <!--actions-->
+        <!--request training report-->
+        <record id="PLtr" item_type="ACTT" />
+        <!--Send player on a lovely holiday-->
+        <record id="hols" item_type="ACTT" />
+        <!--Rest Schedule-->
+        <record id="Rest" item_type="ACTT" />
+        <!--Cancel Rest Schedule-->
+        <record id="CaRe" item_type="ACTT" />
+        <!--Send on intensive language course-->
+        <record id="silc" item_type="ACTT" />
+        <record id="----" />
+		  <!--Set Playing Time-->
+		  <record id="staP" item_type="ACTT" />	
+        <!--Change club squa2d.-->
+        <record id="Cpcs" item_type="ACTT" />
+				<!--Move to child team if they are 'affiliate'-->
+				<record id="MvCt" item_type="ACTT" />
+        <!--Make players available for reserves-->
+        <record id="Mpar" item_type="ACTT" />
+        <!--Move to affiliates-->
+        <record id="Move" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="Ntem">
+      <translation id="text" translation_id="243378" type="use" value="National Team" />
+      <list id="items">
+        <!--national report-->
+        <record id="Pnnr" />
+        <!--national reports-->
+        <record id="Pncl" />
+        <record id="----" />
+        <!--Scout a player (Int)-->
+        <record id="NSco" item_type="ACTT" />
+        <!--Add To Discard List-->
+        <record id="ApD3" item_type="ACTT" />
+        <!--Remove From Discard List-->
+        <record id="RpD3" item_type="ACTT" />
+        <!--Add to National Pool -->
+        <record id="Naps" item_type="ACTT" />
+        <!--Remove from from National Pool -->
+        <record id="Nrps" item_type="ACTT" />
+        <!--Ask to represent national team-->
+        <record id="cnai" item_type="ACTT" />
+        <!--Call up, move, remove players from National Squad-->
+        <record id="Call" item_type="ACTT" />
+        <!--Ask to reconsider international retirement -->
+        <record id="Pari" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="Prpt">
+      <translation id="text" translation_id="292814" type="use" value="Reports[COMMENT: top level menu title for player reports screens]" />
+      <list id="items">
+        <!--reports overview-->
+        <record id="Prov" />
+				<!--coach report-->
+				<record id="Pccr" />
+				<!--reports analytics-->
+				<record id="Pran" />
+        <!--club reports-->
+        <record id="Pscl" />
+		<!--player analyst reports-->
+		<record id="PAcl" />
+        <!--data analyst report-->
+        <record id="Pdar" />
+        <!--scout reports-->
+        <record id="Pssr" />
+        <!--scout assignments-->
+        <record id="Pssa" />
+        <!--stats-->
+        <record id="Psta" />
+        <!--form-->
+        <record id="Pfrm" />
+        <!--analysis-->
+        <record id="Pcmp" />
+        <!--Injuries-->
+        <record id="PInj" />
+        <record id="----" />
+        <!--actions-->
+        <!--Get Club Scout Report-->
+        <record id="CScc" item_type="ACTT" />
+        <!--Get Match Report (For Player Who is not at your club)-->
+        <record id="Repo" item_type="ACTT" />
+        <!--Stop Scouting-->
+        <record id="rSTO" item_type="ACTT" />
+				<!--Add player to Squad Planner-->
+				<record id="ApSH" item_type="ACTT" />
+        <!--Add To Discard List-->
+        <record id="ApD2" item_type="ACTT" />
+        <!--Remove From Discard List-->
+        <record id="RpD2" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="PItn">
+      <translation id="text" translation_id="509216" type="use" value="Discuss[COMMENT: AREA: Team section tree; SUB-AREA: Button text; FR-BN: n/a; TONE: Formal; CHARLIMIT: 15 chars; REF-ID: n/a; NOTE: appears on a button to start a conversation with a player, needs to be short to fit on the button]" />
+			<list id="items">
+				<!--private chat (staff)-->
+				<record id="CoaC" />
+				<!--private chat (players)-->
+				<record id="ConV" />
+				<!--conversation history-->
+				<record id="PHme" />
+				<!--discuss with player-->
+				<record id="DIwp" />
+        <!--conversation summary-->
+        <record id="ConS" />
+        <record id="----" />
+
+        <!--actions-->
+        <!--Ask player not to retire-->
+        <record id="reti" item_type="ACTT" />
+        <!--Rest a player conversation -->
+        <record id="rpla" item_type="ACTT" />
+        <!-- Encourage injured player -->
+        <record id="pTij" item_type="ACTT" />
+        <!--Talk to player about missing out on roster -->
+        <record id="pTrM" item_type="ACTT" />
+        <!--Request a physio team report -->
+        <record id="PRpr" item_type="ACTT" />
+        <!--Request an injury risk team report -->
+        <record id="PrIR" item_type="ACTT" />
+        <record id="----" />
+
+        <!--actions submenus-->
+        <!--Player advice/recommendations -->
+        <record id="pach" item_type="ACTT" />
+        <!--Player ambassadorial -->
+        <record id="pamb" item_type="ACTT" />
+        <!-- Player unhappy teammate -->
+        <record id="Tuta" item_type="ACTT" />
+        <!--Discipline a player-->
+        <record id="disp" item_type="ACTT" />
+        <!--Player Concerned-->
+        <record id="pcai" item_type="ACTT" />
+        <!--Praise Player-->
+        <record id="ppai" item_type="ACTT" />
+        <!--Talk to press to promote club to Player-->
+        <record id="pCtp" item_type="ACTT" />
+        <!--Warn Player-->
+        <record id="wpai" item_type="ACTT" />
+        <!--Private Conversation (Int)-->
+        <record id="chan" item_type="ACTT" />
+        <!--Talk To Loan Manager-->
+        <record id="Ptom" item_type="ACTT" />
+
+      </list>
+    </record>
+
+    <record id="PCmp">
+      <translation id="text" translation_id="248428" type="use" value="Comparison" />
+      <list id="items">
+        <!--comparison-->
+        <record id="Plcm" />
+        <!--comparison-->
+        <record id="NPcm" />
+        <record id="----" />
+        <!--actions-->
+        <!--Compare Player-->
+        <record id="Comp" item_type="ACTT" />
+        <!--Compare Staff-->
+        <record id="SCom" item_type="ACTT" />
+        <!--create filter based on player / Find similar players-->
+        <record id="Filt" item_type="ACTT" />
+        <!--create filter based on staff member / Find similar staff-->
+        <record id="SFil" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="Phis">
+      <translation id="text" translation_id="229719" type="use" value="History" />
+      <list id="items">
+        <!--overview-->
+        <record id="Pmhr" />
+        <!--career stats-->
+        <record id="PHst" />
+        <!--achievements-->
+        <record id="PHac" />
+		<!--Timeline-->
+	    <record id="mDyT"  />
+		<!--biography-->
+		<record id="PBio" />
+        <!--club history-->
+        <record id="Mchp" />
+        <!--advice-->
+        <record id="PHah" />
+        <!--injuries-->
+        <record id="PHin" />
+        <!--press conferences-->
+        <record id="PHpc" />
+        <!--press conference summary-->
+        <record id="PrCS" />
+        <!--notes-->
+        <record id="Pnot" />
+        <!--notebook-->
+        <record id="Pntb" />
+        <!--debug-->
+        <record id="PHdb" />
+        <record id="----" />
+        <!--actions-->
+        <!--Keep data about person when he retires -->
+        <record id="krpd" item_type="ACTT" />
+        <record id="CRNO" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="Podb">
+      <string id="text" value="Debug" />
+      <list id="items">
+        <!--debug-->
+        <record id="Pdbg" />
+        <!--player interest debug-->
+        <record id="Pidg" />
+        <!--player target debug-->
+        <record id="Ptdg" />
+        <!--non-player interest debug-->
+        <record id="Nidg" />
+        <!--contract debug-->
+        <record id="Pcdg" />
+        <!--narratives debug-->
+        <record id="Psdn" />
+        <!--narratives debug-->
+        <record id="PRel" />
+        <!-- debug processing-->
+        <record id="Prcp" />
+        <!-- debug processing - deadline day-->
+        <record id="Prdd" />
+        <!-- debug news images -->
+        <record id="Pdyn" />
+        <record id="----" />
+        <!--actions-->
+        <!--Debug-->
+        <record id="debp" item_type="ACTT" />
+      </list>
+    </record>
+
+    <record id="----" />
+    <!--actions-->
+    <!--Exchange Player-->
+    <record id="exch" item_type="ACTT" />
+    <!--Suggest a national squad -->
+    <record id="PSns" item_type="ACTT" />
+    <!--pick player from draft-->
+    <record id="draf" item_type="ACTT" />
+    <!--Force Continue-->
+    <record id="forc" item_type="ACTT" />
+    <!--Force Holiday-->
+    <record id="forh" item_type="ACTT" />
+    <!--Kick User-->
+    <record id="kick" item_type="ACTT" />
+    <!--Ban User-->
+    <record id="bane" item_type="ACTT" />
+    <!--Message other human-->
+    <record id="mooh" item_type="ACTT" />
+
+  </list>
+</properties>

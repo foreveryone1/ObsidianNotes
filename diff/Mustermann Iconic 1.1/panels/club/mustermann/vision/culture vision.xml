@@ -1,0 +1,14 @@
+﻿<panel>
+	<list id="properties_to_forward">
+		<record get_property="hide_headers" set_property="hide_headers" target="ccbx"/>
+	</list>
+	
+  <attachment_group class="vertical_arrange_autosize"/>
+
+    <!-- board view -->
+    <boolean id="club_vision_view_type" value="0"/>
+	<boolean id="should_force_refresh" value="true"/>
+
+    <!-- board culture -->
+    <container class="club_vision_objective_list_panel" id="ccbx" title_colour="text" can_collapse="false"/>
+</panel>

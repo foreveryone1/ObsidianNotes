@@ -1,0 +1,79 @@
+<!-- THIS PANEL IS WHAT SHOWS ON THE PLAYER OVERVIEW PANEL, ON THE REPORT TAB -->
+<panel save_session_state="true" save_default_state="true">
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+
+	<!--NO REPORT CODE-->
+	<container id="norp" hidden="true">
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+		<!--NO SCOUT REPORT-->
+		<container  id="nsrc" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="297209" type="use" value="Scouting Required[COMMENT: shown when the user can't view player info without scouting them first]" />
+			</widget>
+		</container>
+
+		<!--NO COACH REPORT-->
+		<container  id="ncrc" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="297209" type="use" value="Scouting Required[COMMENT: shown when the user can't view player info without scouting them first]" />
+			</widget>
+		</container>
+
+		<!--NO NATIONAL REPORT-->
+		<container  id="nnrc" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="297209" type="use" value="Scouting Required[COMMENT: shown when the user can't view player info without scouting them first]" />
+			</widget>
+		</container>
+
+		<!--ALREADY BEING SCOUTED-->
+		<container  id="Arbs" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" id="arbt" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="342085" type="use" value="Scouting In Progress[COMMENT: disabled menu item when a player is already being scouted]" />
+			</widget>
+		</container>
+
+		<!--ALREADY BEING SCOUTED BY POOL-->
+		<container  id="Pool" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" id="arbt" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="342085" type="use" value="Scouting In Progress[COMMENT: disabled menu item when a player is already being scouted]" />
+			</widget>
+		</container>
+
+		<!--NO ACTIONS REPORT-->
+		<container  id="naSP" height="22">
+			<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+
+			<widget class="text" alignment="left,top" colour="faded text">
+				<translation id="text" translation_id="435189" type="use" value="Unavailable[COMMENT: no scouting report available; was ID 247303 but some languages need specific translations here]" />
+			</widget>
+		</container>
+	</container>
+
+	<!--CONTENT SHOWN IF WE DO HAVE REPORTS-->
+	<container  height="22">
+		<attachment_group class="horizontal_arrange_autosize" horizontal_gap="4" />
+			
+		<container auto_size="horizontal">
+			<record id="object_property" get_property="PHcr" set_property="hidn" />
+			<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0" />
+		
+			<widget class="icon_button" id="khtx" appearance="" icon="icons/16px/scouting" font="label" auto_size="horizontal" alignment="left, centre_y"/>
+		</container>			
+		
+		<widget class="text" size="10" id="chRC" auto_size="horizontal" alignment="left,centre_y" colour="text"/>
+
+	</container>
+
+</panel>

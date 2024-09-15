@@ -1,0 +1,353 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+
+	<!-- IMPORTANT Need to keep this synced up with number of panels or we won't fill them all, we use this to minimise the amount of data the panel needs to request -->
+	<integer id="number_of_stories_to_request" value="75"/>
+	<boolean id="show_daily_news_request" value="true"/>
+	<boolean id="show_related_news" value="true"/>
+	<boolean id="save_session_state" value="true"/>
+	
+	<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1">
+					
+		<container id="cmpS" default_width="612" minimum_width="612" priority="2">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+			<container class="mustermann_tabbed" id="comt" default_item="coms" save_session_state="true">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+				<container class="vertical_adaptive_container" id="coms" gap="8" mode="dont_distribute">
+					<translation id="title" translation_id="247694" type="use" value="Player Stats"/>
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+				
+					<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="336" minimum_height="336" priority="2">
+					
+						<container class="contrast_box_no_margin" red_replacement="bg lighter" default_width="300">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="116"/>
+								
+								<!-- CPS_GOALS-->
+								<container class="competition_player_stats_panel" id="msc1" file="competition/mustermann/competition overview/stats small" type="2" maximum_items="5" default_height="-1" priority="2" navigation_container="true">
+									<record id="object_property" get_property="objt" set_property="objt" />
+								</container>
+							
+							</container>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="contrast_box" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="40">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="text" alignment="centre_x,centre_y,can_scale" size="large" font="title" colour="mustermanntext">
+										<translation id="text" translation_id="247695" type="use" value="Top Goalscorer" />
+									</widget>
+								
+								</container>
+								
+								<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="mustermann1" default_height="121">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="picture" file="mustermann/statground" red_replacement="mustermann3" blue_replacement="mustermann1" image_alignment="centre_x,centre_y" transparency="0.8"/>
+									
+									<container class="competition_player_stats_panel" id="msc2" file="competition/mustermann/competition overview/stats large" type="2" maximum_items="1" priority="1" navigation_container="true">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</container>
+									
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+						
+						</container>
+										
+						<container class="contrast_box_no_margin" red_replacement="bg lighter" default_width="300">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="116"/>
+								
+								<!-- CPS_GOALS-->
+								<container class="competition_player_stats_panel" id="msc3" file="competition/mustermann/competition overview/stats small" type="27" maximum_items="5" default_height="-1" priority="2" navigation_container="true">
+									<record id="object_property" get_property="objt" set_property="objt" />
+								</container>
+							
+							</container>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="contrast_box" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="40">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="text" alignment="centre_x,centre_y,can_scale" size="large" font="title" colour="mustermanntext">
+										<translation id="text" translation_id="292712" type="use" value="Highest Average Rating" />
+									</widget>
+								
+								</container>
+								
+								<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="mustermann1" default_height="121">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="picture" file="mustermann/statground" red_replacement="mustermann3" blue_replacement="mustermann1" image_alignment="centre_x,centre_y" transparency="0.8"/>
+									
+									<container class="competition_player_stats_panel" id="msc4" file="competition/mustermann/competition overview/stats large" type="27" maximum_items="1" priority="1" navigation_container="true">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</container>
+									
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+						
+						</container>
+					
+					</container>
+					
+					<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="336" minimum_height="336" priority="3">
+					
+						<container class="contrast_box_no_margin" red_replacement="bg lighter" default_width="300">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="116"/>
+								
+								<!-- CPS_GOALS-->
+								<container class="competition_player_stats_panel" id="msc5" file="competition/mustermann/competition overview/stats small" type="5" maximum_items="5" default_height="-1" priority="6" navigation_container="true">
+									<record id="object_property" get_property="objt" set_property="objt" />
+								</container>
+							
+							</container>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="contrast_box" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="40">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="text" alignment="centre_x,centre_y,can_scale" size="large" font="title" colour="mustermanntext">
+										<translation id="text" translation_id="292707" type="use" value="Most Assists" />
+									</widget>
+								
+								</container>
+								
+								<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="mustermann1" default_height="121">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="picture" file="mustermann/statground" red_replacement="mustermann3" blue_replacement="mustermann1" image_alignment="centre_x,centre_y" transparency="0.8"/>
+									
+									<container class="competition_player_stats_panel" id="msc6" file="competition/mustermann/competition overview/stats large" type="5" maximum_items="1" priority="5" navigation_container="true">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</container>
+									
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+						
+						</container>
+										
+						<container class="contrast_box_no_margin" red_replacement="bg lighter" default_width="300">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="116"/>
+								
+								<!-- CPS_GOALS-->
+								<container class="competition_player_stats_panel" id="msc7" file="competition/mustermann/competition overview/stats small" type="20" maximum_items="5" default_height="-1" priority="8" navigation_container="true">
+									<record id="object_property" get_property="objt" set_property="objt" />
+								</container>
+							
+							</container>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="contrast_box" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="40">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="text" alignment="centre_x,centre_y,can_scale" size="large" font="title" colour="mustermanntext">
+										<translation id="text" translation_id="336497" type="use" value="Most Clean Sheets" />
+									</widget>
+								
+								</container>
+								
+								<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="mustermann1" default_height="121">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="picture" file="mustermann/statground" red_replacement="mustermann3" blue_replacement="mustermann1" image_alignment="centre_x,centre_y" transparency="0.8"/>
+									
+									<container class="competition_player_stats_panel" id="msc8" file="competition/mustermann/competition overview/stats large" type="20" maximum_items="1" priority="7" navigation_container="true">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</container>
+									
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+						
+						</container>
+					
+					</container>
+					
+					<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="336" minimum_height="336" priority="4">
+					
+						<container class="contrast_box_no_margin" red_replacement="bg lighter" default_width="300">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="116"/>
+								
+								<!-- CPS_GOALS-->
+								<container class="competition_player_stats_panel" id="msc9" file="competition/mustermann/competition overview/stats small" type="10" maximum_items="5" default_height="-1" priority="10" navigation_container="true">
+									<record id="object_property" get_property="objt" set_property="objt" />
+								</container>
+							
+							</container>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="contrast_box" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="40">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="text" alignment="centre_x,centre_y,can_scale" size="large" font="title" colour="mustermanntext">
+										<translation id="text" translation_id="336499" type="use" value="Most Yellow Cards" />
+									</widget>
+								
+								</container>
+								
+								<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="mustermann1" default_height="121">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="picture" file="mustermann/statground" red_replacement="mustermann3" blue_replacement="mustermann1" image_alignment="centre_x,centre_y" transparency="0.8"/>
+									
+									<container class="competition_player_stats_panel" id="msc10" file="competition/mustermann/competition overview/stats large" type="10" maximum_items="1" priority="9" navigation_container="true">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</container>
+									
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+						
+						</container>
+										
+						<container class="contrast_box_no_margin" red_replacement="bg lighter" default_width="300">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_height="116"/>
+								
+								<!-- CPS_GOALS-->
+								<container class="competition_player_stats_panel" id="msc11" file="competition/mustermann/competition overview/stats small" type="12" maximum_items="5" default_height="-1" priority="12" navigation_container="true">
+									<record id="object_property" get_property="objt" set_property="objt" />
+								</container>
+							
+							</container>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="contrast_box" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="40">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="text" alignment="centre_x,centre_y,can_scale" size="large" font="title" colour="mustermanntext">
+										<translation id="text" translation_id="336498" type="use" value="Most Man of the Match" />
+									</widget>
+								
+								</container>
+								
+								<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="mustermann1" default_height="121">
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+									<widget class="picture" file="mustermann/statground" red_replacement="mustermann3" blue_replacement="mustermann1" image_alignment="centre_x,centre_y" transparency="0.8"/>
+									
+									<container class="competition_player_stats_panel" id="msc12" file="competition/mustermann/competition overview/stats large" type="12" maximum_items="1" priority="11" navigation_container="true">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</container>
+									
+								</container>
+								
+								<container default_height="-1"/>
+							
+							</container>
+						
+						</container>
+					
+					</container>
+					
+					<container class="contrast_box_no_margin" red_replacement="mustermann3" default_height="-1" minimum_height="1" priority="1">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+						
+						<container class="competition_news_side_panel" file="competition/mustermann/competition overview/prozone container" id="side" navigation_container="true">
+							<record id="object_property">
+								<integer id="get_property" value="objt" />
+								<integer id="set_property" value="objt" />
+							</record>
+						</container>
+					
+					</container>
+					
+				</container>
+				
+				<container class="competition_roundup_panel" file="competition/mustermann/competition overview/roundup container" id="csfR">
+					<translation id="title" translation_id="348267" type="use" value="Recent Results"/>
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</container>
+				
+				<widget class="competition_fixtures_panel" file="competition/mustermann/competition overview/upcoming container" id="cofp">
+					<translation id="title" translation_id="395516" type="use" value="Upcoming Fixtures"/>
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</widget>
+				
+			</container>
+				
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg lighter" id="cost" navigation_container="true" default_focus="true" default_width="-1" minimum_width="550" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			
+			<widget class="competition_news_panel" file="competition/mustermann/headlines/news stories" id="mcmn" section="csnw" late_loading="true">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+						
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg lighter" default_width="300" priority="3">
+			<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="0" horizontal_inset="0" vertical_gap="4"/>
+			
+			<widget class="competition_overview_past_winners_panel" file="competition/mustermann/competition overview/past winners" id="cowp" height="258">
+				<integer id="maximum_winners_to_show" value="5" />
+				<integer id="winner_entry_height" value="42" />
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+			
+			<container class="competition_injury_table_panel" id="coic" file="competition/mustermann/competition overview/injury table" navigation_container="true">
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</container>
+											
+		</container>
+		
+	</container>
+
+	
+</panel>

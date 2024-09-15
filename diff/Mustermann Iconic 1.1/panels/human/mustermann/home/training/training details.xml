@@ -1,0 +1,27 @@
+<panel navigation_container="true">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+
+		<container default_height="190" priority="1">
+			<layout class="arrange_horizontal_attachment" layout="-1" gap="0"/>
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				<widget class="training_overview_panel" file="human/mustermann/home/training/training schedule" id="tstr" section="TeOv" late_loading="true" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_fmc="false" valid_for_unemployed_manager="false">
+					<record id="object_property" get_property="objt" set_property="objt"/>
+				</widget>
+			</container>
+		</container>
+		
+		<container default_height="-1" priority="2">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			<widget class="club_training_performers_panel" file="human/mustermann/home/training/training performers" id="CTPP" section="TeOv" late_loading="true" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_fmc="false" valid_for_unemployed_manager="false">			
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+		</container>		
+
+	</container>
+	
+</panel>

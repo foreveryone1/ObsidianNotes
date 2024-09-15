@@ -1,0 +1,78 @@
+<panel>
+	<boolean id="show_pa_coach_report_only" value="true" />
+	<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="-5" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+	
+	<!-- No scout report -->
+	<container id="nsrc">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<container id="nocs">
+			<layout class="arrange_vertical_attachment" alignment="middle" offset="0" gap="0" />
+
+			<widget class="icon_button" click_event="sctc" auto_size="horizontal" height="30" icon="icons/16px/search">
+				<layout class="centre_in_parent_attachment" alignment="horizontal" />
+			</widget>
+		</container>
+	</container>
+	
+	<!-- Already being scounted -->
+	<container id="Arbs">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<!--explanatory text-->
+		<widget class="text" id="arbt" alignment="centre" spec="text" colour="attention">
+			<translation id="text" translation_id="447600" type="use" value="This player is being scouted by [%person#1] and the report will be available shortly.[COMMENT:scout report, scouting in progress]" />
+		</widget>
+	</container>
+
+	<!-- Already being scouted by pool -->
+	<container id="Pool">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<!--explanatory text-->
+		<widget class="text" alignment="centre" spec="text" colour="attention">
+			<translation id="text" translation_id="342085" type="use" value="Scouting In Progress[COMMENT: disabled menu item when a player is already being scouted]" />
+		</widget>
+	</container>
+
+	<container>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+		<container id="PAic">
+			<attachment_group class="vertical_arrange_autosize" vertical_gap="0" />
+
+			<list id="properties_to_forward">
+				<record target="paSt" get_property="valu" set_property="valu" />
+			</list>
+
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" horizontal_offset="0" />
+
+				<widget class="scout_stars_label" id="paSt" auto_size="horizontal" mode="2" height="56">
+				</widget>
+
+			</container>
+		</container>
+		
+		<widget class="picture" file="mustermann/star rating/star rating mask" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="bg" transparency="0.35"/>
+
+		<!-- Bit that shows the data-->
+		<container id="scou">
+			<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+			
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" horizontal_offset="0" />
+
+				<!-- Recommendation -->
+				<widget class="player_scout_recommendation_widget" file="player/mustermann/overview/scout recommendation knowledge" id="RCic" alignment="left,centre_y" auto_size="none" click_event="ltms" show_knowledge_bar="false" width="32" height="32" recommendation_mode="2" should_recolour_recommendation_value="true" background_colour="bg lighter"/>
+
+				<widget class="scout_stars_label" id="CAic" alignment="centre_x,centre_y" height="56" mode="1" />
+
+			</container>
+
+		</container>
+
+	</container>
+</panel>

@@ -1,0 +1,85 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container class="main_box" id="cftb" navigation_container="true" default_focus="true" colour="text">
+		
+		<translation id="title" translation_id="494173" type="use" value="Player Form Reactions[COMMENT: AREA: Confidence and Performance; SUB-AREA: Reactions; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: confidence summary header text, can be from fans or board, collective group of people]" />
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<widget class="table" id="ctab" mode="fill_rows,stripe_rows,printable,manual_sort,store_sort_state" wants_lazy_load="true" fixed_size_rows="false" auto_size_rows="true" row_spacing="4" column_spacing="8" layout="250,90,40,-1">
+			<!--headings-->
+
+			<list id="column_table_properties">
+				<record index="0" id="play">
+					<flags id="alignment" value="left,centre_y" />
+					<integer id="auto_hide_priority" value="0" />
+					<record id="column_heading">
+						<translation id="text" translation_id="227966" type="use" value="Player" />
+						<flags id="alignment" value="left,centre_y" />
+						<flags id="column" value="0" />
+						<integer id="auto_hide_priority" value="0" />
+					</record>
+					<record id="widget_info">
+						<string id="file" value="widgets/player name and description widget" />
+						<symbol id="class" value="client_object_viewer_xml_panel" />
+					</record>
+				</record>
+				<record index="1" id="l5ga">
+					<flags id="alignment" value="left,centre_y" />
+					<integer id="auto_hide_priority" value="2" />
+					<record id="column_heading">
+						<translation id="text" translation_id="276271" type="use" value="Last 5 Games[COMMENT: heading for player form information]" />
+						<flags id="alignment" value="left,centre_y" />
+						<flags id="column" value="1" />
+						<integer id="auto_hide_priority" value="2" />
+					</record>
+					<record id="widget_info">
+						<symbol id="class" value="client_object_property_panel" />
+					</record>
+				</record>
+
+				<record index="2" id="grad">
+					<flags id="alignment" value="centre" />
+					<integer id="auto_hide_priority" value="0" />
+					<record id="column_heading">
+						<translation id="text" translation_id="557660" type="use" value="Grade[COMMENT: AREA: Confidence; NOTE: column heading for fan player form reaction panel player grade, like a school grade, A-E]" />
+						<flags id="alignment" value="centre" />
+						<flags id="column" value="2" />
+						<integer id="auto_hide_priority" value="0" />
+					</record>
+					<record id="widget_info">
+						<string id="file" value="widgets/performance grade widget" />
+						<symbol id="class" value="client_object_property_panel" />
+						<integer id="auto_size_minimum_height" value="40"/>
+					</record>
+				</record>
+			
+				<record index="3" id="reac">
+					<flags id="alignment" value="left,centre_y" />
+					<integer id="auto_hide_priority" value="1" />
+					<integer id="minimum_width" value="200" />
+					<record id="column_heading">
+						<translation id="text" translation_id="331949" type="use" value="Reaction[COMMENT: person properties; text header for team talk screen which will list any feedback from individual players]" />
+						<flags id="alignment" value="left,centre_y" />
+						<flags id="column" value="3" />
+						<integer id="auto_hide_priority" value="1" />
+						<integer id="minimum_width" value="200" />
+					</record>
+					<record id="widget_info">
+						<symbol id="class" value="text" />
+					</record>
+				</record>
+			</list>
+
+			<list id="column_widget_properties">
+				<record indx="1" height="40" />
+				<record indx="3" alignment="left,centre_y" appearance="" auto_size="vertical" multiline="true" navigation_focus_target="false" />
+			</list>
+		</widget>
+
+		<widget class="text" id="nort" alignment="left,top">
+			<translation id="text" translation_id="494218" type="use" value="No reactions[COMMENT:AREA: Manager Performance; SUB-AREA: Tactics performance; FR 27625; TONE: Formal; CHARLIMIT: None; NOTE; Any other information the translator can make use of]" />
+		</widget>
+
+	</container>
+</panel>

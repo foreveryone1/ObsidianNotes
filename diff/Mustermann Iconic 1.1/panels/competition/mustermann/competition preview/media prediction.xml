@@ -1,0 +1,63 @@
+<!-- A table showing the teams in a division and their media predicted finishing position and odds to win as the start of the season. Used with MEDIA_PREDICTION_LEAGUE_TABLE_PANEL -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<widget class="table" id="tabl" layout="44,40,-1,55" mode="fill_rows, stripe_rows, select_rows, show_bullets, keyboard" save_session_state="true" select_event="tbSl" navigation_focus_target="true">
+		<list id="headings">
+			<record alignment="left,centre_y" index="0">
+				<translation id="text" translation_id="242883" type="use" value="Pos" />
+				<translation id="hint" translation_id="243509" type="use" value="Media Prediction" />
+			</record>
+			<record alignment="left,centre_y" index="1">
+				<translation id="text" translation_id="232994" type="use" value="Info" />
+			</record>
+			<record alignment="left,centre_y" index="3">
+				<translation id="text" translation_id="284342" type="use" value="Team[COMMENT: team information panel; stats section; column heading]" />
+			</record>
+			<record alignment="left,centre_y" index="4">
+				<translation id="text" translation_id="230320" type="use" value="Odds" />
+				<translation id="hint" translation_id="230320" type="use" value="Odds" />
+			</record>
+		</list>
+
+		<!-- default properties adopted by every item in table -->
+		<record id="default_properties" spec="text" alignment="left,centre_y" />
+
+		<list id="column_table_properties">
+			<!-- Media predicted position -->
+			<record id="Mpos" index="0">
+				<record id="widget_info">
+					<symbol id="class" value="dashed_formatted_label" />
+				</record>
+			</record>
+			<!-- Info -->
+			<record id="tCIL" index="1">
+				<record id="widget_info">
+					<symbol id="class" value="team_competition_info_label" />
+				</record>
+			</record>
+			<!-- Team -->
+			<record id="ttea" index="2">
+				<record id="widget_info">
+					<symbol id="class" value="team_button" />
+				</record>
+			</record>
+			<!-- Odds -->
+			<record id="Mods" index="3">
+				<record id="widget_info">
+					<symbol id="class" value="odds_label" />
+				</record>
+			</record>
+		</list>
+
+		<list id="column_widget_properties">
+			<record index="0" format="[%number#1-nth]" />
+			<record index="2"  navigation_focus_target="true" />
+		</list>
+
+		<list id="default_sort_column">
+			<integer value="Mpos" />
+			<integer value="Mods" />
+		</list>
+	</widget>
+</panel>

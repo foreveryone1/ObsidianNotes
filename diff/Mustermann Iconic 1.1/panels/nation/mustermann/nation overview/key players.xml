@@ -1,0 +1,39 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<list id="properties_to_add_to_context">
+		<integer value="TIdx"/>
+		<integer value="Ttea"/>
+		<record>
+			<integer id="get_property" value="numr"/>
+			<integer id="set_property" value="numb"/>
+		</record>
+	</list>
+
+	<container>
+		<attachment class="test_multiple_globals_attachment" default_value="false">
+			<list id="get_properties">
+				<record get_property="dtty" test_mode="equal" value="5" skip_if_null="true" />
+			</list>
+			<integer id="set_property" value="link_hidden" />
+
+		</attachment>
+		<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" horizontal_inset="0" vertical_offset="-40"/>
+
+		<!-- table listing the major players -->
+		<widget class="client_object_list_table" id="ptbl" mode="fill_rows" row_height="40">
+			<boolean id="should_force_refresh" value="true"/>
+			<record id="object_property">
+				<integer id="get_property" value="CmpM"/>
+				<integer id="set_property" value="objL"/>
+				<boolean id="dont_set_object" value="true"/>
+			</record>
+
+			<record id="viewed_property_ids">
+				<record id="Pnms"/>
+				<record id="Pclb"/>
+			</record>
+		</widget>
+	</container>
+
+</panel>

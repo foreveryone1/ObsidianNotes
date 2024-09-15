@@ -1,0 +1,33 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+
+	<container>
+		<attachment_group class="horizontal_arrange" horizontal_layout="588,-1" horizontal_gap="8"/>
+	
+		<container class="contrast_box" red_replacement="bg lighter">
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+			
+			<widget class="icon_button" icon="icons/26px/board" auto_size="all" icon_colour="performance board tag" appearance="" colour="performance board tag" font="title" size="xlarge" navigation_focus_target="false">
+				<translation id="text" translation_id="557641" type="use" value="Board Feedback - Squad[COMMENT: AREA: Club Vision; SUB-AREA: Performance Squad; FR-BN: FM-3643; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: title for squad related board feedback]" />
+			</widget>
+			<widget class="text" id="BCmp" display_format="1" size="10" auto_size="all" colour="faded text" />
+
+			<widget class="performance_grade_box" id="smgb" file="club/mustermann/squad performance/grade widget" auto_size="vertical" />
+		
+			<widget class="club_chemistry_support_panel" id="chep" hide_cohesion="true" file="club/club chemistry support panel vertical" />
+		</container>
+	
+		<container class="contrast_box" red_replacement="bg lighter">
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+				
+			<widget class="icon_button" icon="icons/26px/fans" auto_size="all" icon_colour="performance fans tag" appearance="" colour="performance fans tag" font="title" size="xlarge" navigation_focus_target="false">
+				<translation id="text" translation_id="557642" type="use" value="Supporter Feedback - Squad[COMMENT: AREA: Club Vision; SUB-AREA: Performance Squad; FR-BN: FM-3643; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: title for squad related supporter feedback]" />
+			</widget>
+			<widget class="text" id="FCmp" display_format="1" size="10" auto_size="all" colour="faded text" />
+
+			<widget class="performance_grade_box" id="fpgb" file="club/mustermann/squad performance/grade widget" auto_size="vertical" />
+		
+			<widget class="fan_player_form_reaction_panel" file="club/mustermann/squad performance/fan reaction" id="fpfr" auto_size="vertical" />
+		</container>
+	</container>
+</panel>

@@ -1,0 +1,207 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+
+	<!-- IMPORTANT Need to keep this synced up with number of panels or we won't fill them all, we use this to minimise the amount of data the panel needs to request -->
+	<integer id="number_of_stories_to_request" value="75"/>
+	<boolean id="show_daily_news_request" value="true"/>
+	<boolean id="show_related_news" value="true"/>
+	<boolean id="save_session_state" value="true"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+		<container default_height="-1" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend"/>
+			
+			<container class="scrolling_box" id="ScrB" navigation_container="true">
+
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+				
+				<container draw_horizontal_dividers="false">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="0"/>
+										
+					<!--HEADER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="80">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="5" default_width="-1">
+								
+									<widget class="picture" id="pict" scale_picture="true" default_width="64">
+										
+										<boolean id="keep_aspect_ratio" value="true" />
+										<flags id="image_alignment" value="centre" />
+										<record id="object_property">
+											<integer id="get_property" value="mnpc" />
+										</record>
+									</widget>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+									
+										<widget class="text" font="title" colour="secondary" multiline="true" id="titl" size="20" alignment="left,centre_y" default_height="40">
+											<record id="object_property">
+												<integer id="get_property" value="titl" />
+											</record>
+										</widget>
+										
+										<widget class="text" font="text" colour="secondary" multiline="true" id="TCnn" size="8" alignment="left,centre_y" default_height="24">
+											<record id="object_property">
+												<integer id="get_property" value="TCnn" />
+											</record>
+										</widget>
+									</container>
+									
+									<container class="contrast_box" red_replacement="secondary" default_width="150">
+										<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0"/>
+										<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+										
+										<widget class="text" font="title" colour="primary" size="small" auto_size="vertical" alignment="centre_x,centre_y">
+											<translation id="text" translation_id="297998" type="use" value="World Ranking[COMMENT: heading; a team's world ranking]" />
+										</widget>
+										
+										<widget class="fifa_ranking_label" alignment="centre" auto_size="vertical" size="18" id="wnum" style="semi_bold" colour="primary">
+											<record id="object_property">
+												<integer id="get_property" value="Nffr" />
+											</record>
+										</widget>
+										
+									</container>
+									
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+					<!--RECENT RESULTS-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="82">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="primary" transparency="0.5">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<widget class="club_overview_team_results_panel" id="resu" file="nation/mustermann/nation overview/recent results container" default_height="-1"> 
+									<record id="object_property" get_property="objt" set_property="objt"/> 
+								</widget>
+							
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--STADIUM-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="648">
+					
+						<container default_width="-1"/>
+						
+						<container default_width="1080" background_colour="bg lighter">
+							<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+
+							<widget class="team_upcoming_fixture_info_panel" id="tmip" file="nation/mustermann/news/next fixture details 1">
+								<record id="object_property">
+									<integer id="get_property" value="NnfP" />
+									<integer id="set_property" value="valu" />
+								</record>
+							</widget>
+							
+							<!--no upcoming fixtures-->
+							<widget class="label" id="NoFi" alignment="left,top">
+								<translation id="text" translation_id="298048" type="use" value="No upcoming fixtures." />
+							</widget>
+							
+							<widget class="competition_news_panel" file="nation/mustermann/news/headlines" id="mchn" section="Pnws" late_loading="true">
+								<record id="object_property" get_property="objt" set_property="objt"/>
+							</widget>	
+														
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--LEAGUE TABLE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="720">
+					
+						<container default_width="-1"/>
+											
+						<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" default_width="1080">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+													
+							<widget class="competition_news_panel" file="nation/mustermann/news/minor news" id="mcmn" section="Pnws" late_loading="true" default_width="-1">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								<record id="object_property" get_property="objt" set_property="objt"/>
+							</widget>		
+						
+						</container>							
+						
+						<container default_width="-1"/>
+						
+					</container>
+
+					<!--FOOTER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="40">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0" height="30">
+			
+									<container default_width="-1"/>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Terms of Use" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Privacy Policy" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Accessibility" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Cookie Policy" />     
+									</widget>
+									
+									<container default_width="-1"/>
+								
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+				</container>
+				
+			</container>
+			
+		</container>
+
+	</container>
+
+</panel>

@@ -1,0 +1,80 @@
+<panel>
+    <attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_gap="8" vertical_offset="0" horizontal_inset="0" />
+
+	  <attachment class="test_screen_size_attachment" skip_if_false="true">
+		  <list id="properties">
+			  <record>
+				  <flags id="alignment" value="horizontal" />
+				  <integer id="min_value" value="0" />
+				  <integer id="max_value" value="1919" />
+				  <symbol id="set_property" value="performace_grade_box_appearance" />
+				  <integer id="true_value" value="widgets/performance grade box title only" />
+			  </record>
+			  <record>
+				  <flags id="alignment" value="horizontal" />
+				  <integer id="min_value" value="1920" />
+				  <integer id="max_value" value="10000" />
+				  <symbol id="set_property" value="performace_grade_box_appearance" />
+				  <integer id="true_value" value="widgets/performance grade box with title" />
+			  </record>
+			  <record>
+				  <flags id="alignment" value="vertical" />
+				  <integer id="min_value" value="0" />
+				  <integer id="max_value" value="1079" />
+				  <symbol id="set_property" value="performace_grade_box_appearance" />
+				  <integer id="true_value" value="widgets/performance grade box title only" />
+			  </record>
+			  <record>
+				  <flags id="alignment" value="vertical" />
+				  <integer id="min_value" value="1080" />
+				  <integer id="max_value" value="10000" />
+				  <symbol id="set_property" value="performace_grade_box_appearance" />
+				  <integer id="true_value" value="widgets/performance grade box with title" />
+			  </record>
+		  </list>
+	  </attachment>
+		
+    <widget class="icon_button" id="TiLa" appearance="" font="title" size="xlarge" auto_size="all" />
+    <widget class="text" id="Comp" display_format="1" size="9" colour="faded text" auto_size="all" />
+
+    <!-- overall grade -->
+    <widget class="performance_grade_box" id="smgb" file="widgets/performance grade box overview" auto_size="vertical" />
+
+    <container >
+        <attachment_group class="horizontal_arrange" horizontal_layout="-1, -1" vertical_offset="0" horizontal_inset="0" horizontal_gap="12" />
+
+        <container class="contrast_box" red_replacement="bg int">
+            <attachment_group class="vertical_arrange" vertical_alignment="top, fill" vertical_gap="8" />
+
+            <widget class="text" font="title" size="large" auto_size="vertical">
+                <translation id="text" translation_id="383267" type="use" value="Breakdown[COMMENT: Finances panel]" />
+            </widget>
+
+            <!-- specific grades -->
+            <widget class="table" id="ctab" layout="-1" mode="fill_rows" fixed_size_rows="false" auto_size_rows="true" row_spacing="8">
+                <list id="column_table_properties">
+                    <record index="0" id="grdc" alignment="centre" />
+                </list>
+            </widget>
+        </container>
+
+        <container>
+            <attachment_group class="vertical_arrange" vertical_alignment="top, fill" vertical_gap="8" />
+
+            <!-- highlights and criticisms -->
+            <widget class="text" font="title" size="large" auto_size="vertical">
+                <translation id="text" translation_id="557621" type="use" value="Notable highlights and criticisms[COMMENT: AREA: Confidence; SUB-AREA: Board Confidence; FR-BN: 3180; TONE: Formal; CHARLIMIT: If Applicable, otherwise None; REF-ID: n/a; NOTE: title for combined best and worst aspects of recent managerial performance]" />
+            </widget>
+
+            <widget class="table" id="HCTa" layout="20, -1" mode="fill_rows" fixed_size_rows="false" auto_size_rows="true" row_spacing="8" column_spacing="8">
+                <list id="column_widget_properties">
+                    <record index="0" alignment="left, top" keep_aspect_ratio="true" scale_picture="true" image_alignment="left, top" />
+                    <record index="1" alignment="left, centre_y" multiline="true" />
+                </list>
+            </widget>
+
+            <!-- no highlights and criticisms -->
+            <widget class="text" id="HCTx" auto_size="vertical" colour="faded text" />
+        </container>
+    </container>
+</panel>

@@ -1,0 +1,27 @@
+<panel navigation_container="true">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+
+		<container default_width="-2" priority="1">
+			<layout class="arrange_horizontal_attachment" layout="-1" gap="0"/>
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				<container class="finances_summary_panel" id="fsws" file="human/mustermann/home/finances/finances summary" late_loading="true" section="tfin" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_unemployed_manager="false">
+					<record id="object_property" get_property="objt" set_property="objt"/>
+				</container>
+			</container>
+		</container>
+		
+		<container default_width="-1" priority="2">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			<widget class="team_transfer_snapshot_panel" id="ttsn" section="trcn" late_loading="true" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_unemployed_manager="false">		
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+		</container>		
+
+	</container>
+	
+</panel>

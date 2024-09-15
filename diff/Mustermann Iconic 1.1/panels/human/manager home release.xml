@@ -1,0 +1,255 @@
+﻿<panel save_session_state="true">
+	<list id="properties_to_forward">
+		<record get_property="datS" set_property="datS" target="cale"/>
+	</list>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+		
+		<!--UPCOMING FIXTURES-->
+		<container background_colour="mustermann2" default_height="80">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<container class="client_object_viewer_selector_panel" id="mhs1" file="human/mustermann/home/upcoming fixtures container" default_item="mufc" save_session_state="true" dont_set_embedded_title="true" navigation_container="true" priority="1">
+				<integer id="default_for_unemployed_managers" value="mufc"/>
+				<integer id="default_for_international_managers_other_team" value="mufc"/>
+				<integer id="default_for_everyone_else" value="mufc"/>
+				<integer id="default_for_versus_mode" value="mufc"/>
+			</container>
+		
+		</container>
+				
+		<!--MAIN AREA-->
+		<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+		
+			<container default_width="8" priority="2"/>
+			
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-1" minimum_width="500" priority="3">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+				<container class="client_object_viewer_selector_panel" id="cos1" file="human/mustermann/home/selector panel" dont_set_embedded_title="false" priority="1">
+					<integer id="default_for_club_teams" value="tlta"/>
+					<integer id="default_for_international_teams" value="pssu"/>
+					<integer id="default_for_international_youth_teams" value="pssu"/>
+					<integer id="default_for_no_team" value="mnew"/>
+
+					<integer id="default_for_pre_season" value="MedC"/>
+					<integer id="default_for_off_season" value="fsws"/>
+					<integer id="default_for_transfer_window" value="fsws"/>
+
+					<integer id="scenario_job_insecure" value="bcsn"/>
+				</container>
+			
+			</container>
+			
+			<container default_width="8" priority="4"/>
+			
+			<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="1184" minimum_width="1184" priority="1">
+			
+				<container class="contrast_box" red_replacement="bg lighter" default_height="536" minimum_height="536" priority="1">
+					<layout class="arrange_horizontal_attachment" layout="30,-1" offset="0" gap="8"/>
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+					
+					<container>
+						<layout class="arrange_vertical_attachment" layout="26,26,26,26,26,26,-1" offset="0" gap="8"/>
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+								
+						<widget class="picture" file="mustermann/buttons/match" red_replacement="fg" image_alignment="centre_x,centre_y"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 1"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 2"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 3"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 4"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 5"/>
+						
+						<container/>
+						
+					</container>
+					
+					<container class="contrast_box_no_margin" red_replacement="bg lighter">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+						
+						<container class="contrast_box_no_margin" red_replacement="bg lighter">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+							<widget class="manager_upcoming_fixture_panel" file="human/mustermann/home/next fixture container" id="tufp" priority="1" navigation_container="true"/>
+							
+						</container>
+						
+						<container background_colour="bg lighter" id="aaaa" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+							
+								<container class="client_object_viewer_selector_panel" id="mhs2" file="human/mustermann/home/training container" dont_set_embedded_title="true" default_width="-1"/>
+
+								<container class="client_object_viewer_selector_panel" id="mhs3" file="human/mustermann/home/medical container" dont_set_embedded_title="true" default_width="-1"/>
+							
+							</container>
+						</container>
+						
+						<container background_colour="bg lighter" id="bbbb" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mhs4" file="human/mustermann/home/scouting container" dont_set_embedded_title="true"/>
+							
+						</container>
+						
+						<container background_colour="bg lighter" id="cccc" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mhs5" file="human/mustermann/home/performance container" dont_set_embedded_title="true"/>
+						</container>
+						
+						<container background_colour="bg lighter" id="dddd" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mhs6" file="human/mustermann/home/finances container" dont_set_embedded_title="true"/>
+						</container>
+						
+						<container background_colour="bg lighter" id="eeee" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mhs7" file="human/mustermann/home/board container" dont_set_embedded_title="true"/>
+						</container>
+						
+					</container>
+								
+				</container>
+			
+				<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1" minimum_height="300" priority="2">
+				
+					<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+						<container class="client_object_viewer_selector_panel" id="cos2" file="human/mustermann/home/selector panel" dont_set_embedded_title="false">
+							<integer id="default_for_club_teams" value="pssu"/>
+							<integer id="default_for_international_teams" value="bcsn"/>
+							<integer id="default_for_international_youth_teams" value="inbx"/>
+							<integer id="default_for_no_team" value="ajsn"/>
+
+							<integer id="default_for_off_season" value="sssn"/>
+							<integer id="default_for_pre_season" value="sssn"/>
+							<integer id="default_for_pre_match" value="Mpre"/>
+							<integer id="default_for_transfer_window" value="tssc"/>
+
+							<integer id="scenario_financial_disaster" value="fsws"/>
+							<integer id="scenario_promise_broken_soon" value="mngp"/>
+						</container>
+					</container>
+					
+					<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+					
+						<container class="client_object_viewer_selector_panel" id="cos3" file="human/mustermann/home/selector panel" dont_set_embedded_title="false">
+							<integer id="default_for_club_teams" value="bcsn"/>
+							<integer id="default_for_international_teams" value="mcom"/>
+							<integer id="default_for_international_youth_teams" value="inbx"/>
+							<integer id="default_for_no_team" value="ijsn"/>
+
+							<integer id="default_for_pre_match" value="MedC"/>
+							<integer id="default_for_pre_season" value="CTPP"/>
+							<integer id="default_for_off_season" value="ttsn"/>
+							<integer id="default_for_transfer_window" value="ttsn"/>
+
+							<integer id="scenario_injury_crisis" value="tsin"/>
+							<integer id="scenario_training_unhappiness" value="ttHp"/>
+						</container>
+					</container>
+				
+				</container>
+				
+			</container>
+			
+			<container default_width="8" priority="3"/>
+			
+			<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="-1" minimum_width="500" priority="4">
+			
+				<container class="contrast_box" red_replacement="bg lighter" default_height="536">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+					<container class="client_object_viewer_selector_panel" id="cos4" file="human/mustermann/home/selector panel" dont_set_embedded_title="false">
+						<integer id="default_for_club_teams" value="pssu"/>
+						<integer id="default_for_international_teams" value="bcsn"/>
+						<integer id="default_for_international_youth_teams" value="inbx"/>
+						<integer id="default_for_no_team" value="ajsn"/>
+
+						<integer id="default_for_off_season" value="sssn"/>
+						<integer id="default_for_pre_season" value="sssn"/>
+						<integer id="default_for_pre_match" value="Mpre"/>
+						<integer id="default_for_transfer_window" value="tssc"/>
+
+						<integer id="scenario_financial_disaster" value="fsws"/>
+						<integer id="scenario_promise_broken_soon" value="mngp"/>
+					</container>
+				</container>
+				
+				<container class="contrast_box" red_replacement="bg lighter" default_height="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+					<container class="client_object_viewer_selector_panel" id="cos5" file="human/mustermann/home/selector panel" dont_set_embedded_title="false">
+						<integer id="default_for_club_teams" value="pssu"/>
+						<integer id="default_for_international_teams" value="bcsn"/>
+						<integer id="default_for_international_youth_teams" value="inbx"/>
+						<integer id="default_for_no_team" value="ajsn"/>
+
+						<integer id="default_for_off_season" value="sssn"/>
+						<integer id="default_for_pre_season" value="sssn"/>
+						<integer id="default_for_pre_match" value="Mpre"/>
+						<integer id="default_for_transfer_window" value="tssc"/>
+
+						<integer id="scenario_financial_disaster" value="fsws"/>
+						<integer id="scenario_promise_broken_soon" value="mngp"/>
+					</container>
+				</container>
+				
+				<container class="contrast_box" red_replacement="bg lighter" default_height="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+					<container class="client_object_viewer_selector_panel" id="cos6" file="human/mustermann/home/selector panel" dont_set_embedded_title="false">
+						<integer id="default_for_club_teams" value="pssu"/>
+						<integer id="default_for_international_teams" value="bcsn"/>
+						<integer id="default_for_international_youth_teams" value="inbx"/>
+						<integer id="default_for_no_team" value="ajsn"/>
+
+						<integer id="default_for_off_season" value="sssn"/>
+						<integer id="default_for_pre_season" value="sssn"/>
+						<integer id="default_for_pre_match" value="Mpre"/>
+						<integer id="default_for_transfer_window" value="tssc"/>
+
+						<integer id="scenario_financial_disaster" value="fsws"/>
+						<integer id="scenario_promise_broken_soon" value="mngp"/>
+					</container>
+				</container>
+			
+			</container>
+
+			<container default_width="8" priority="2"/>
+								
+		</container>
+		
+		<!--NEWS-->
+		<container class="horizontal_adaptive_container" background_colour="mustermann2" gap="0" mode="distribute_equally" default_height="40">
+		
+			<container default_width="16"/>
+			
+			<widget class="label" alignment="left,centre_y" font="title" colour="title" default_width="55">
+				<translation id="text" translation_id="308646" type="use" value="News" />   
+			</widget>
+			
+			<container class="client_object_viewer_selector_panel" id="mhs8" file="human/mustermann/home/news container" default_item="mnew" save_session_state="true" dont_set_embedded_title="true" priority="14" navigation_container="true" default_width="-1">
+				<integer id="default_for_unemployed_managers" value="mnew"/>
+				<integer id="default_for_international_managers_other_team" value="mnew"/>
+				<integer id="default_for_everyone_else" value="mnew"/>
+				<integer id="default_for_versus_mode" value="mnew"/>
+			</container>
+		
+		</container>
+		
+	</container>
+
+</panel>

@@ -1,0 +1,305 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_height="-1" minimum_height="1" priority="2"/>
+		
+		<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="650" priority="1">
+		
+			<container default_width="-1" minimum_width="1" priority="2"/>
+			
+			<container class="contrast_box" red_replacement="bg int" default_width="1344" priority="1">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+				<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+				
+					<!--HOME PLAYER STATS-->
+					<container class="vertical_adaptive_container" gap="0" mode="dont_distribute" default_width="-1">
+					
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="491987" type="use" value="Top Performers"/>
+							</widget>
+						
+						</container>
+						
+						<widget class="match_team_stats_panel" id="hps1" file="match/mustermann/match report/player stats/rating" team_index="0" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="513483" type="use" value="Expected Goals"/>
+							</widget>
+						
+						</container>
+						
+						<widget class="match_team_stats_panel" id="hps2" file="match/mustermann/match report/player stats/xg" team_index="0" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="513484" type="use" value="Expected Assists"/>
+							</widget>
+						
+						</container>
+						
+						<widget class="match_team_stats_panel" id="hps3" file="match/mustermann/match report/player stats/xa" team_index="0" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="542444" type="use" value="Dribbles"/>
+							</widget>
+						
+						</container>												
+						
+						<widget class="match_team_stats_panel" id="hps4" file="match/mustermann/match report/player stats/dribbles" team_index="0" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="552423" type="use" value="Progressive Passes"/>
+							</widget>
+						
+						</container>												
+						
+						<widget class="match_team_stats_panel" id="hps5" file="match/mustermann/match report/player stats/progressive" team_index="0" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<!--<widget class="icon_button" id="psbt" alignment="centre" click_event="FpsD" icon="icons/16px/man" appearance="buttons/primary/normal/button" red_replacement="bg int" colour="text" icon_colour="text" height="28">
+							<translation id="text" translation_id="515058" type="use" value="Player Statistics[COMMENT: AREA: Match panel; SUB-AREA: match caption; FR: 32364; TONE: Formal; CHARLIMIT: None; NOTE: title text for showing player statistics from the match just finished]" />
+						</widget>
+						
+						<container height="2"/>
+						
+						<widget class="icon_button" alignment="centre" click_event="AnDD" icon="icons/16px/stats" appearance="buttons/primary/normal/button" red_replacement="bg int" colour="text" icon_colour="text" height="28">
+							<string id="remove_if" value="platform_is_switch" />
+							<translation id="text" translation_id="515054" type="use" value="Analytical Data[COMMENT: AREA: Match panel; SUB-AREA: match caption; FR: 32364; TONE: Formal; CHARLIMIT: None; NOTE: title text for showing key analytics data post-match]" />
+						</widget>-->
+					
+					</container>
+					
+					<!--TEAM STATS-->
+					<container default_width="-3">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+						<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
+						
+							<!--SCORELINE-->
+							<widget class="match_info_panel" id="mmss" file="match/mustermann/match report/score container" default_height="250">
+								<record id="object_property" get_property="objt" set_property="objt" />
+							</widget>
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-2">
+							
+								<!--HOME HEATMAP & PASSMAP-->
+								<container default_width="-1">
+									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+									
+									<widget class="preselected_match_chalkboard_panel" id="mhhm" vertical="true" force_left_to_right_events="true" team_to_display="0" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
+										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+										<record id="object_property" get_property="objt" set_property="objt" />
+										
+										<list id="chalkboard_events_to_display">
+											<integer value="42"/>  
+										</list>
+									</widget>
+									
+									<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" transparency="0.93">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="28,19,24,19" />
+									</container>
+									
+									<widget class="preselected_match_chalkboard_panel" id="mhpm" vertical="true" force_left_to_right_events="true" team_to_display="0" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
+										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+										<record id="object_property" get_property="objt" set_property="objt" />
+										
+										<list id="chalkboard_events_to_display">
+											<integer value="63"/>  
+										</list>
+									</widget>
+									
+									<container>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="16" apply_to_children="true"/>
+									
+										<widget class="text" font="text" colour="text" alignment="centre_x,centre_y">
+											<translation id="text" translation_id="515107" type="use" value="Not enough data"/>
+										</widget>
+									</container>
+								
+								</container>
+								
+								<!--MATCH MOMENTUM-->
+								<container class="vertical_adaptive_container" gap="4" mode="distribute_equally" default_width="-1">
+								
+									<container default_height="-1"/>
+									
+									<widget class="data_analyst_visualisation_widget" id="vis1" visualisation_type="momentum" data_type="fixture" category="last_match" file="match/mustermann/match report/visualisation mini" show_mini_visualisation_text="false" can_pin_visualisation="false" default_focus="true" default_height="200">
+										<record id="object_property" get_property="objt" set_property="objt" />
+									</widget>
+									
+									<container default_height="18"/>
+								
+								</container>
+								
+								<!--AWAY HEATMAP & PASSMAP-->
+								<container default_width="-1">
+									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+									
+									<widget class="preselected_match_chalkboard_panel" id="mahm" vertical="true" force_left_to_right_events="true" team_to_display="1" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
+										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+										<record id="object_property" get_property="objt" set_property="objt" />
+										
+										<list id="chalkboard_events_to_display">
+											<integer value="42"/>  
+										</list>
+									</widget>
+									
+									<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" transparency="0.93">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="28,19,24,19" />
+									</container>
+									
+									<widget class="preselected_match_chalkboard_panel" id="mapm" vertical="true" force_left_to_right_events="true" team_to_display="1" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
+										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+										<record id="object_property" get_property="objt" set_property="objt" />
+										
+										<list id="chalkboard_events_to_display">
+											<integer value="63"/>  
+										</list>
+									</widget>
+									
+									<container>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="16" apply_to_children="true"/>
+									
+										<widget class="text" font="text" colour="text" alignment="centre_x,centre_y">
+											<translation id="text" translation_id="515107" type="use" value="Not enough data"/>
+										</widget>
+									</container>
+								
+								</container>
+							
+							</container>
+												
+						</container>
+						
+						<!--MATCH STATS-->
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+						
+							<container default_width="-1"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+							
+								<container default_height="70"/>
+								
+								<widget class="match_stats_panel" file="match/mustermann/match report/match stats" default_height="-1">
+									<record id="object_property" set_property="objt" get_property="objt" />
+								</widget>
+								
+								<container default_height="230"/>
+							
+							</container>
+							
+							<container default_width="-1"/>
+						
+						</container>
+						
+					</container>
+						
+					<!--AWAY PLAYER STATS-->
+					<container class="vertical_adaptive_container" gap="0" mode="dont_distribute" default_width="-1">
+					
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="491987" type="use" value="Top Performers"/>
+							</widget>
+						
+						</container>
+						
+						<widget class="match_team_stats_panel" id="aps1" file="match/mustermann/match report/player stats/rating" team_index="1" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="513483" type="use" value="Expected Goals"/>
+							</widget>
+						
+						</container>
+						
+						<widget class="match_team_stats_panel" id="aps2" file="match/mustermann/match report/player stats/xg" team_index="1" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="513484" type="use" value="Expected Assists"/>
+							</widget>
+						
+						</container>
+						
+						<widget class="match_team_stats_panel" id="aps3" file="match/mustermann/match report/player stats/xa" team_index="1" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="542444" type="use" value="Dribbles"/>
+							</widget>
+						
+						</container>												
+						
+						<widget class="match_team_stats_panel" id="aps4" file="match/mustermann/match report/player stats/dribbles" team_index="1" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>
+						
+						<container class="contrast_box_no_margin" red_replacement="mustermann3" height="26">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="text" font="title" colour="mustermanntext" alignment="centre_x,centre_y">
+								<translation id="text" translation_id="552423" type="use" value="Progressive Passes"/>
+							</widget>
+						
+						</container>												
+						
+						<widget class="match_team_stats_panel" id="aps5" file="match/mustermann/match report/player stats/progressive" team_index="1" height="100">
+							<record id="object_property" get_property="objt" set_property="objt" />
+						</widget>					
+					
+					</container>
+									
+				</container>
+				
+			</container>
+			
+			<container default_width="-1" minimum_width="1" priority="2"/>
+		
+		</container>
+						
+		<container default_height="-1" minimum_height="1" priority="3"/>
+		
+	</container>
+		
+</panel>

@@ -1,0 +1,17 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<container class="contrast_box" red_replacement="bg lighter">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+		<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+		
+			<container class="team_staff_subteam_overview_panel" file="team/mustermann/staff overview/subteam details" id="ovvw" default_height="300">
+				<string id="navigation_container" value="true"/>
+				<string id="link" value="true"/>
+			</container>
+			
+			<container class="team_container_staff_details_panel" file="team/mustermann/staff overview/staff list" id="deta" default_height="-1"/>
+			
+		</container>
+	</container>
+</panel>

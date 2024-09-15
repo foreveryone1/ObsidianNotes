@@ -1,0 +1,9 @@
+<panel>
+	<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="4" />
+
+	<!-- Stat text -->
+	<widget class="text" id="proz" alignment="centre" colour="mustermanntext">
+		<record id="object_property" get_property="text" set_property="text"/>
+	</widget>
+</panel>

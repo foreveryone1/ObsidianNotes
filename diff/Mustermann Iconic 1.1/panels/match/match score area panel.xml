@@ -1,0 +1,248 @@
+﻿<panel>
+	<!--Alternate UI mode-->
+	<integer id="alSM" value="0" />
+
+	<list id="properties_to_forward">
+		<record get_property="disable_animations" set_property="disable_animations" target="clkc"/>
+		<record get_property="disable_animations" set_property="disable_animations" target="temc"/>
+	</list>
+
+	<attachment_group class="vertical_arrange_autosize_all" vertical_alignment="top" vertical_offset="0" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+	<container id="mtSA" height="60">
+		<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0" horizontal_offset="2" vertical_inset="2" />
+		
+		<container width="26">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+		
+			<widget class="picture" file="mustermann/credits/wtcs" scale_picture="false" keep_aspect_ratio="true" image_alignment="centre_x,centre_y" width="26"/>
+			
+			<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="gimntext">
+				<record id="click_event" event_id="OURL" url="https://twitter.com/tcsskin" />
+				<translation id="hint" type="use" value="Scoreboard inspired by TCS"/>
+			</widget>
+		</container>
+
+		<container width="2"/>
+				
+		<!--team names and score-->
+		<container width="236" id="temc">
+			<animation class="scale_animation" start_value="0, 1" end_value="1, 1" duration="0.5" delay="0.9" end_mode="hold_end" tween="ease_out" coord_mode="relative_to_target" centre_point="left"/>
+			<animation class="fade_animation" start_value="0" end_value="1" duration="0.4" delay="1" end_mode="hold_end"/>
+
+			<attachment_group class="horizontal_arrange" horizontal_gap="0" horizontal_layout="-1,100,-1" vertical_inset="0" />
+
+			<container class="contrast_box_no_margin" red_replacement="fg" appearance="mustermann/match score/home team/paper" id="T1Co">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+				<!--<container>
+					<attachment_group class="horizontal_arrange" horizontal_gap="0" horizontal_layout="12,-1" vertical_inset="0"/>
+				
+					<container/>
+					<widget class="picture" file="mustermann/match score/home team/texture" red_replacement="fg" blue_replacement="fg darker" alignment="centre" image_alignment="centre"/>
+				</container>-->
+				
+				<container class="home_match_incidents_panel" file="none">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2"/>
+					<record id="object_property" get_property="objt" set_property="objt"/>
+
+					<widget class="match_team_logo_picture" id="TeLo"/>				
+				</container>
+
+				<container>
+					<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="0" />
+
+					<container class="main_box_no_margin" id="T1rc" red_replacement="white" blue_replacement="red" appearance="boxes/custom/match/tv captions/si tv/score/away team/paper" height="5" />
+					<widget class="spacer"/>
+
+				</container>
+			</container>
+
+			<container id="MInf">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg lighter" >
+					<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_gap="0" vertical_offset="0" horizontal_inset="0" />
+
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+						<container navigation_focus_target="false">
+							<attachment_group class="horizontal_arrange" horizontal_alignment="middle" horizontal_gap="2" horizontal_offset="0" vertical_inset="0" />
+
+							<widget class="text" id="T1sc" size="large" font="title" alignment="right,centre_y" colour="white" auto_size="horizontal"/>
+							<widget class="text" size="large" font="title" alignment="centre" text="-" colour="white" auto_size="horizontal"/>
+							<widget class="text" id="T2sc" size="large" font="title" alignment="left,centre_y" colour="white" auto_size="horizontal"/>
+
+						</container>
+
+						<container id="asco">
+							<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="middle"  horizontal_gap="55" horizontal_offset="0" vertical_inset="0" />
+
+							<widget class="text" id="T1as" size="small" font="title" alignment="right,centre_y" auto_size="all"/>
+							<widget class="text" id="T2as" size="small" font="title" alignment="left,centre_y" auto_size="all"/>
+
+						</container>
+					</container>
+					
+					<container height="22" class="contrast_box_no_margin" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg darker" id="clkc">
+						<animation class="translate_animation" start_value="-1, 0" end_value="0, 0" duration="0.4" delay="0" end_mode="hold_end" tween="ease_out_4" coord_mode="relative_to_target"/>
+						<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="0.8" end_mode="hold_end"/>
+						<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_offset="0" vertical_gap="0" />
+
+						<container id="ClkC">
+							<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_gap="0" horizontal_inset="6" />
+							<record id="default_properties" auto_size="vertical" alignment="centre" />
+
+							<container>
+								<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" horizontal_gap="4" vertical_inset="0" horizontal_offset="0,9,0,0"/>
+
+								<record id="default_properties" auto_size="all" alignment="centre" />
+
+								<widget class="text" id="Mclk" font="title" auto_size="all" >
+
+									<integer id="alSM" value="0" />
+								</widget>
+
+								<container id="MijC" height="16">
+									<attachment_group class="horizontal_arrange_autosize"/>
+
+									<widget class="text" id="Mijt" auto_size="horizontal"  alignment="centre" colour="fg positive"/>
+
+								</container>
+							</container>
+
+							<widget class="text" id="ClkT" font="title" size="small" multiline="true">
+
+								<integer id="alSM" value="0" />
+							</widget>
+
+						</container>
+
+						<widget class="match_time_slider_panel"  height="4" file="match/match time slider panel small">
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0,0,0,13"/>
+
+							<record id="object_property">
+								<integer id="get_property" value="objt" />
+								<integer id="set_property" value="objt" />
+							</record>
+						</widget>
+
+					</container>
+					
+				</container>
+			</container>
+
+			<container class="contrast_box_no_margin" red_replacement="fg" appearance="mustermann/match score/away team/paper" id="T2Co">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+				<!--<container>
+					<attachment_group class="horizontal_arrange" horizontal_gap="0" horizontal_layout="-1,12" vertical_inset="0" />
+				
+					<widget class="picture" file="mustermann/match score/away team/texture" red_replacement="fg" blue_replacement="fg darker" alignment="centre" image_alignment="centre"/>
+					<container/>
+				</container>-->
+
+				<container class="away_match_incidents_panel" file="none">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2"/>
+					<record id="object_property" get_property="objt" set_property="objt"/>
+
+					<widget class="match_team_logo_picture" id="TeLo"/>
+				</container>
+
+				<container>
+					<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="0" />
+
+					<container class="main_box_no_margin" id="T2rc" red_replacement="white" blue_replacement="red" appearance="boxes/custom/match/tv captions/si tv/score/away team/paper" height="5" />
+					<widget class="spacer"/>
+
+				</container>
+			</container>
+		</container>
+		
+		<!-- Competition icon -->
+		<!--<container class="client_object_viewer_xml_panel"  width="47" >
+
+			<record id="object_property" get_property="fxCo" set_property="objt" />
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<container class="main_box_no_margin" appearance="boxes/custom/match/tv captions/si tv/score/comp/paper" >
+				<record id="object_property" get_property="bkcl" set_property="rrep" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="10,0"/>
+
+				<widget class="object_portrait_picture" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+			</container>
+
+		</container>-->
+
+		<!--clock-->
+		<!--<container width="100" class="main_box_no_margin" appearance="boxes/custom/match/tv captions/si tv/score/time/paper" red_replacement="bg" id="clkc">
+
+			<animation class="translate_animation" start_value="-1, 0" end_value="0, 0" duration="0.4" delay="0" end_mode="hold_end" tween="ease_out_4" coord_mode="relative_to_target"/>
+			<animation class="fade_animation" start_value="0" end_value="1" duration="0.3" delay="0.8" end_mode="hold_end"/>
+
+			<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_offset="0" vertical_gap="0" />
+
+
+			<container id="ClkC">
+				<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_gap="0" horizontal_inset="6" />
+
+				<record id="default_properties" auto_size="vertical" alignment="centre" />
+
+				<container >
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" horizontal_gap="4" vertical_inset="0" horizontal_offset="0,9,0,0"/>
+
+					<record id="default_properties" auto_size="all" alignment="centre" />
+
+					<widget class="text" id="Mclk" size="xlarge" font="title" auto_size="all" >
+
+						<integer id="alSM" value="0" />
+					</widget>
+
+
+					<container id="MijC" height="16">
+						<attachment_group class="horizontal_arrange_autosize"/>
+
+						<widget class="text" id="Mijt" auto_size="horizontal"  alignment="centre" colour="fg positive"/>
+
+					</container>
+				</container>
+
+				<widget class="text" id="ClkT" font="title" size="small" multiline="true">
+
+					<integer id="alSM" value="0" />
+				</widget>
+
+			</container>
+
+
+			<widget class="match_time_slider_panel"  height="4" file="match/match time slider panel small">
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0,0,0,13"/>
+
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+
+		</container>-->
+
+		
+	</container>
+
+	<widget class="button" appearance="" navigation_focus_target="false">
+		<!--Dark Magic xml shenanigans to make this button match the above container, while also allowing us to keep the autosize horizontal-->
+		<layout class="stick_to_object_attachment" id="align_top" offset="0" get_side="top" set_side="top" target="mtSA" />
+		<layout class="stick_to_object_attachment" id="align_bottom" offset="0" get_side="bottom" set_side="bottom" target="mtSA" />
+		<layout class="stick_to_object_attachment" id="align_left" offset="0" get_side="left" set_side="left" target="mtSA" />
+		<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="mtSA" />
+		<record id="click_event">
+			<flags id="event_id" value="TNeV" />
+			<integer id="evfl" value="7" />
+			<flags id="evtg" value="root" />
+		</record>
+	</widget>
+
+
+</panel>

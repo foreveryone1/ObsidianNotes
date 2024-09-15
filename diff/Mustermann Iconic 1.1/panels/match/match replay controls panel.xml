@@ -1,0 +1,34 @@
+<panel height="60">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="2" apply_to_children="true" />
+	
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+		
+		<container width="96"/>
+		
+		<container class="plain_box" appearance="boxes/contrast/no margin/middle/paper" id="bgrn" default_width="100" red_replacement="bg lighter">
+			<animation class="slide_in_top_animation" duration="0.5" tween="ease_out" />
+			<attachment_group class="vertical_arrange" vertical_gap="0" vertical_layout="38,22" horizontal_inset="0" />
+
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+				<widget class="text" id="repT" alignment="centre_x,centre_y,can_scale" multiline="false" font="title">
+					<animation class="fade_animation" start_value="0.1" end_value="1" duration="0.6" delay="0" end_mode="cycle"/>
+				</widget>
+			</container>
+
+
+			<container class="plain_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg darker">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+				<widget class="icon_button" id="exre" appearance="buttons/custom/over state only/button" size="small" alignment="centre_x,top" font="title" click_event="exre" controller_button="b_button">
+					<translation id="text" translation_id="332276" type="use" value="Skip[COMMENT: match_time_slider; instruction to skip the replay]" />
+					<translation id="hint" translation_id="332275" type="use" value="Skip this replay[COMMENT: match_time_slider; instruction to skip this replay, hint tooltip]" />
+				</widget>
+
+			</container>
+		</container>
+		
+		<container default_width="-1" minimum_width="1"/>
+	</container>
+</panel>

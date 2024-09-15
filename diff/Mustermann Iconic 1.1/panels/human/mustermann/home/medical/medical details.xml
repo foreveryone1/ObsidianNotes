@@ -1,0 +1,45 @@
+﻿<panel>
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+	<boolean id="should_force_refresh" value="true" />
+	<string id="skin_style" value="title link" />
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="10" horizontal_inset="0" />
+
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="fill" horizontal_offset="0" horizontal_gap="0" vertical_inset="0" />
+
+			<!--Injuries-->
+			<container class="vertical_label_value_pair" value_widget="INNu" label_widget="INNL">
+				<widget class="label" id="INNL">
+					<translation id="text" translation_id="227748" type="use" value="Injuries" />
+				</widget>
+				<widget class="number_label" id="INNu" colour="text">
+				</widget>
+			</container>
+
+			<!--at risk players-->
+			<container class="vertical_label_value_pair" value_widget="HRNu" label_widget="HRNL">
+				<widget class="label" id="HRNL">
+					<translation id="text" translation_id="466530" type="use" value="Players at risk[COMMENT: label for a number showing how many players are at risk of injury]" />
+				</widget>
+				<widget class="number_label" id="HRNu" colour="text">
+				</widget>
+			</container>
+		</container>
+
+		<container>
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+			<!--table of players at risk-->
+			<widget class="team_injuries_risk_assessment_table_panel" id="RAtb" only_show_at_risk_players="true" file="human/mustermann/home/medical/medical risk assessment"/>
+
+			<!--label saying there are no at risk players-->
+			<widget class="label" id="NoAR" alignment="centre" auto_size="none" hidden="true" multiline="true">
+				<translation id="text" translation_id="450802" type="use" value="There are currently no players with an above normal risk of injury.[COMMENT: FR 20159; team injuries overview panel; label to explain team has no at risk players]" />
+			</widget>
+		</container>
+	</container>
+
+</panel>

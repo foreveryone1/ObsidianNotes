@@ -1,0 +1,46 @@
+<panel>
+	<attachment_group class="horizontal_arrange" horizontal_alignment="left,extend" />
+	<boolean id="should_force_refresh" value="true"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="35">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/> 
+		
+			<widget class="label" font="title" size="xxlarge" colour="secondary" alignment="centre_x,centre_y">
+				<translation id="text" translation_id="227396" type="use" value="KP" />
+			</widget>
+		</container>
+			
+		<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg int" default_height="-1">
+			<layout class="vertical_arrange" vertical_layout="-1" offset="0" inset="0" gap="0" draw_horizontal_dividers="false"/>
+			
+			<widget class="object_portrait_picture" id="face" image_alignment="centre_x, bottom" scale_picture="true" wants_mouse_events="false">
+				<record id="object_property" get_property="objt"/>
+			</widget>
+	
+		</container>
+		
+		<!--<widget class="position_label" id="Ppos" auto_size="vertical" colour="primary" alignment="centre" size="10" default_height="20">
+			<record id="object_property">
+				<integer id="get_property" value="PpsC" />
+			</record>
+		</widget> 
+
+		<widget class="age_label" id="Page" auto_size="vertical" colour="primary" alignment="centre" default_height="20">
+			<translation id="format" translation_id="242551" type="use" value="[%number#1] years old" />
+			<record id="object_property">
+				<integer id="get_property" value="NPag" />
+			</record>
+		</widget>-->
+		
+		<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="primary" default_height="30">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/> 
+		
+			<widget class="person_button" font="text" colour="secondary" alignment="centre_x,centre_y">
+				<record id="object_property" get_property="Pers" set_property="valu" />
+			</widget>
+		</container>
+		
+	</container>
+</panel>

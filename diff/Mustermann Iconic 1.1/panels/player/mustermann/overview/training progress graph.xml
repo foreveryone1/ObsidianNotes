@@ -1,0 +1,22 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<container class="contrast_box_no_margin" red_replacement="mustermann3" transparency="0.7" id="grpB" hidden="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		<widget class="graph" id="grap"  draw_shadows="false" show_instant_hint="false" inset="0" wants_mouse_events="false"  >
+
+			<record id="default_series_properties" colour="gimn2" type="line" line_width="2" />
+			<record id="x_axis" hidden="true" show_labels="false"  inset="0" width="0" />
+
+			<record id="y_axis" interval="2" hidden="true" show_labels="false" />
+
+			<list id="grid_line_styles">
+				<record colour="transparent"/>
+				<record colour="transparent"/>
+			</list>
+		</widget>
+	</container>
+	<widget class="text" id="nprg" colour="faded white" alignment="centre" hidden="true"  wants_mouse_events="false">
+		<translation id="text" translation_id="233089" type="use" value="-" />
+	</widget>
+</panel>

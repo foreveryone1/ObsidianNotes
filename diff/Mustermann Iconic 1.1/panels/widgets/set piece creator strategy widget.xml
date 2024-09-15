@@ -1,0 +1,58 @@
+﻿<panel height="320" width="225">
+
+	<list id="properties_to_forward">
+		<record target="stfP" get_property="isSP" set_property="shown" />
+		<record target="pict" get_property="strI" set_property="file" />
+		<record target="titl" get_property="titl" set_property="text" />
+		<record target="desc" get_property="text" set_property="text" />
+		<record target="butT" get_property="clke" set_property="clke" />
+		<record target="butT" get_property="hopo" set_property="hopo" />
+		<record target="butT" get_property="slcS" set_property="slcS" />
+	</list>
+
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	<widget class="check_box" id="butT" group_parent_level="2" appearance="boxes/dialog/standard/paper" icon_enabled="false" show_button_appearance="true" red_replacement="bg int" blue_replacement="bg darker" green_replacement="shadow" mouse_hovering_time="500" click_event="clck" default_focus="true">
+		<string id="remove_if" value="is_fmt" />
+	</widget>
+	<widget class="check_box" id="butT" group_parent_level="2" appearance="buttons/custom/set pieces/fmc/creator button/button" icon_enabled="false" show_button_appearance="true" red_replacement="white" green_replacement="ftue_background_purple" mouse_hovering_time="500" click_event="clck" default_focus="true">
+		<string id="create_if" value="is_fmt" />
+	</widget>
+
+	<container wants_mouse_events="false">
+		<attachment_group class="vertical_arrange" vertical_layout="30, 80, 30, 5, -1" vertical_offset="16" vertical_gap="16" horizontal_inset="22" />
+
+		<!--Staff preference container-->
+		<container wants_mouse_events="false">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" />
+			<widget class="icon_button" id="stfP" icon="icons/16px/staff" icon_colour="fg" alignment="centre" wants_mouse_events="false" appearance="buttons/subtle/normal/button" red_replacement="bg alpha">
+				<translation id="text" translation_id="596476" type="use" value="Staff Preference[COMMENT: AREA: Set Pieces; SUB-AREA: Set Piece Creator; FR-BN: ; TONE: Formal;  CHARLIMIT: None; REF-ID: ; NOTE: Staff in charge of set pieces' preferences for creator option]" />
+
+			</widget>
+		</container>
+
+		<!--Pitch image-->
+		<widget class="picture" id="pict" scale_picture="true" keep_aspect_ratio="true" transparency="1" image_alignment="centre" wants_mouse_events="false" />
+		<!--Strategy header-->
+		<widget class="text" id="titl" colour="text" size="large" font="text" style="bold" alignment="centre" wants_mouse_events="false">
+            <string id="remove_if" value="is_fmt" />
+		</widget>
+        <widget class="text" id="titl" colour="text" size="12" font="title" alignment="centre" wants_mouse_events="false">
+            <string id="create_if" value="is_fmt" />
+		</widget>
+
+		<!--Divider-->
+		<container wants_mouse_events="false">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="60, 0" />
+			<widget class="horizontal_divider" wants_mouse_events="false" />
+		</container>
+
+		<!--Strategy description-->
+		<widget class="text" id="desc" alignment="top,centre_x" wants_mouse_events="false" colour="faded text">
+			<string id="remove_if" value="is_fmt" />
+		</widget>
+		<widget class="text" id="desc" alignment="top,centre_x" wants_mouse_events="false" colour="white" size="small">
+			<string id="create_if" value="is_fmt" />
+		</widget>
+
+	</container>
+</panel>

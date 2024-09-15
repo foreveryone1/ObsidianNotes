@@ -1,0 +1,30 @@
+﻿<panel>
+	<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+	<widget class="table" id="tabl" layout="-2, -3" mode="fill_rows, stripe_rows" all_content_same_height="false" auto_size_rows="false" fixed_size_rows="true" row_spacing="1" row_height="55" fixed_row_height="25" save_session_state="true" navigation_container="true">
+		<list id="headings">
+			<record index="0">
+				<translation id="text" translation_id="227966" type="use" value="Player"/>
+			</record>
+			<record index="1">
+				<translation id="text" translation_id="450806" type="use" value="Overall Risk[COMMENT: FR 20159; team injury risk assessment; table column header for player's overall inujury risk assessment]"/>
+			</record>
+		</list>
+
+		<list id="column_table_properties">
+			<record index="0" id="play" auto_hide_priority="1">
+				<boolean id="sort_ascending" value="false"/>
+			</record>
+			<record index="1" id="OvRi" auto_hide_priority="1">
+				<boolean id="sort_ascending" value="false"/>
+			</record>
+		</list>
+
+		<list id="sort">
+			<integer value="OvRi"/>
+			<integer value="play"/>
+		</list>
+	</widget>
+
+</panel>

@@ -1,0 +1,10 @@
+<panel>
+	<container id="SUBP" class="inner_box_no_margin" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+
+	<widget class="training_overview_panel" file="human/mustermann/home/training/training details" id="gon4" section="TeOv" late_loading="true" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_fmc="false" valid_for_unemployed_manager="false">
+		<translation id="title" translation_id="248422" type="use" value="Training[COMMENT; training section of player profile]" />
+	</widget>
+</panel>

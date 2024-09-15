@@ -1,0 +1,390 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+		
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+		<container default_height="-1" priority="1">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend"/>
+			
+			<container class="scrolling_box" id="ScrB" navigation_container="true">
+
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+				
+				<container draw_horizontal_dividers="false">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="0"/>
+										
+					<!--HEADER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="80">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="5" default_width="-1">
+								
+									<widget class="picture" id="pict" scale_picture="true" default_width="64">
+										
+										<boolean id="keep_aspect_ratio" value="true" />
+										<flags id="image_alignment" value="centre" />
+										<record id="object_property">
+											<integer id="get_property" value="mnpc" />
+										</record>
+									</widget>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+									
+										<widget class="text" font="title" colour="secondary" multiline="true" id="titl" size="20" alignment="left,centre_y" default_height="40">
+											<record id="object_property">
+												<integer id="get_property" value="titl" />
+											</record>
+										</widget>
+										
+										<widget class="text" font="text" colour="secondary" multiline="true" id="TCnn" size="8" alignment="left,centre_y" default_height="24">
+											<record id="object_property">
+												<integer id="get_property" value="TCnn" />
+											</record>
+										</widget>
+									</container>
+									
+									<container class="contrast_box" red_replacement="secondary" default_width="150">
+										<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0"/>
+										<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+										
+										<widget class="text" font="title" colour="primary" size="small" auto_size="vertical" alignment="centre_x,centre_y">
+											<translation id="text" translation_id="297998" type="use" value="World Ranking[COMMENT: heading; a team's world ranking]" />
+										</widget>
+										
+										<widget class="fifa_ranking_label" alignment="centre" auto_size="vertical" size="18" id="wnum" style="semi_bold" colour="primary">
+											<record id="object_property">
+												<integer id="get_property" value="Nffr" />
+											</record>
+										</widget>
+										
+									</container>
+									
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+					<!--RECENT RESULTS-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="82">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="primary" transparency="0.5">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<widget class="club_overview_team_results_panel" id="resu" file="nation/mustermann/nation overview/recent results container" default_height="-1"> 
+									<record id="object_property" get_property="objt" set_property="objt"/> 
+								</widget>
+							
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--NEXT FIXTURE-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="448">
+					
+						<container default_width="-1"/>
+						
+						<container default_width="1080" background_colour="bg lighter">
+							<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+
+							<widget class="team_upcoming_fixture_info_panel" id="tmip" file="nation/mustermann/nation overview/next fixture details 1">
+								<record id="object_property">
+									<integer id="get_property" value="NnfP" />
+									<integer id="set_property" value="valu" />
+								</record>
+							</widget>
+							
+							<!--no upcoming fixtures-->
+							<widget class="label" id="NoFi" alignment="left,top">
+								<translation id="text" translation_id="298048" type="use" value="No upcoming fixtures." />
+							</widget>
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--KEY PERSONNEL-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="250">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="10">
+																								
+									<widget class="person_snapshot_club_overview_panel" id="anything" player="false" file="nation/mustermann/nation overview/manager details" default_width="-1">
+										<record id="object_property">
+											<integer id="get_property" value="TMnR" />
+											<integer id="set_property" value="objt" />
+										</record>		
+									</widget>
+									
+									<widget class="person_snapshot_club_overview_panel" id="KeyP" player="true" file="nation/mustermann/nation overview/key player details" default_width="-1">
+										<record id="object_property">
+											<integer id="get_property" value="TKpL" />
+											<integer id="set_property" value="objt" />
+										</record>
+									</widget>
+									
+									<widget class="person_snapshot_club_overview_panel" id="capt" player="true" file="nation/mustermann/nation overview/captain details" default_width="-1">
+										<record id="object_property">
+											<integer id="get_property" value="TCap" />
+											<integer id="set_property" value="objt" />
+										</record>
+									</widget>
+									
+									<widget class="person_snapshot_club_overview_panel" id="vice" player="true" file="nation/mustermann/nation overview/vice captain details" default_width="-1">
+										<record id="object_property">
+											<integer id="get_property" value="TVca" />
+											<integer id="set_property" value="objt" />
+										</record>
+									</widget>																									
+								
+								</container>																							
+							</container>							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+
+					<!--HISTORY-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="270">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="team_container_honours_panel" id="tchp" honour_subpanel_filename="nation/mustermann/nation overview/trophy info" file="nation/mustermann/nation overview/trophies" default_height="-1">
+									<record id="object_property" get_property="objt" set_property="objt"/>
+								</container>
+																															
+							</container>							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+										
+					<!--KITS-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="400">
+					
+						<container default_width="-1"/>
+						
+						<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg lighter" default_width="1080">
+							<layout class="stick_to_sides_attachment" apply_to_children="true"/>
+
+							<widget class="picture" file="mustermann/club overview/shop bw" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y"/>
+							<widget class="picture" file="mustermann/club overview/shop mask" red_replacement="primary" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y"/>
+							
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="black" transparency="0.5">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+								
+									<container default_height="20"/>
+									
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="60">
+									
+										<container default_width="20"/>
+									
+										<widget class="label" alignment="centre_x,top" font="title" size="36" colour="fg lighter">
+											<translation id="text" type="use" value="Official Store" />     
+										</widget>
+										
+										<container default_width="20"/>
+										
+									</container>
+								
+									<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+									
+										<container default_width="250"/>
+									
+										<widget class="club_overview_kits_panel" file="nation/mustermann/nation overview/kits" id="cloK" default_width="-1">
+											<record id="object_property" get_property="objt" set_property="objt"/>
+										</widget>
+										
+										<container default_width="250"/>
+										
+									</container>
+									
+									<container default_height="20"/>
+									
+								</container>
+							
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+															
+					<!--ICONS & RIVALRIES-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="380">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" gap="10" mode="distribute_equally">
+								
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+									
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="50">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="xxlarge" colour="secondary">
+												<translation id="text" type="use" translation_id="242897" value="Major Clubs" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg int" default_height="-1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+
+											<widget class="major_clubs_snapshot_panel" file="nation/mustermann/nation overview/major clubs" id="MCsp">
+												<record id="object_property">
+													<integer id="get_property" value="objt" />
+													<integer id="set_property" value="objt" />
+												</record>
+											</widget>
+										
+										</container>
+									</container>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+									
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="50">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="xxlarge" colour="secondary">
+												<translation id="text" type="use" translation_id="308470" value="Key Players" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg int" default_height="-1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+
+											<container class="client_object_viewer_xml_panel" file="nation/mustermann/nation overview/key players" id="MPsp">
+												<record id="object_property">
+													<integer id="get_property" value="objt" />
+													<integer id="set_property" value="objt" />
+												</record>
+											</container>
+										
+										</container>
+									</container>
+									
+									<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+									
+										<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="primary" default_height="50">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+											
+											<widget class="label" alignment="centre_x,centre_y" font="title" size="xxlarge" colour="secondary">
+												<translation id="text" type="use" translation_id="281393" value="Legends" />     
+											</widget>
+										
+										</container>
+										
+										<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg int" default_height="-1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+
+											<widget class="club_overview_details_panel" id="clod" file="nation/mustermann/nation overview/nation heroes">
+												<record id="object_property" get_property="objt" set_property="objt"/>
+											</widget>
+										
+										</container>
+									</container>
+																										
+								</container>
+																															
+							</container>							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+																				
+					<!--FOOTER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="40">
+					
+						<container default_width="-1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1080">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="primary">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0" height="30">
+			
+									<container default_width="-1"/>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Terms of Use" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Privacy Policy" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Accessibility" />     
+									</widget>
+									
+									<widget class="label" auto_size="vertical" alignment="centre_x,centre_y" font="text" size="10" colour="secondary" default_width="200">
+										<translation id="text" type="use" value="Cookie Policy" />     
+									</widget>
+									
+									<container default_width="-1"/>
+								
+								</container>
+															
+							</container>
+							
+						</container>
+						
+						<container default_width="-1"/>
+						
+					</container>
+					
+				</container>
+				
+			</container>
+			
+		</container>
+
+	</container>
+
+</panel>

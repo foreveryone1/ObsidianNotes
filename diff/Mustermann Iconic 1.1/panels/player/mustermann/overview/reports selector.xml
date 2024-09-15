@@ -1,0 +1,15 @@
+<panel>
+	<container id="SUBP" class="inner_box_no_margin" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+
+	<widget class="client_object_viewer_xml_panel" id="uid4" file="player/mustermann/overview/reports other player" late_loading="true">
+		<translation id="title" type="use" value="Not My Player" />
+	</widget>
+
+	<widget class="client_object_viewer_xml_panel" id="uid5" file="player/mustermann/overview/reports own player" late_loading="true" valid_for_other_team_managers="false" valid_for_international_managers_other_team="false" valid_for_unemployed_managers="false" valid_for_unemployed_player="false">
+		<translation id="title" type="use" value="My Player" />
+	</widget>
+
+</panel>

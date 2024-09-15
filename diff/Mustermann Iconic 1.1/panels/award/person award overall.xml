@@ -1,0 +1,36 @@
+<!-- Main panel for awards given to people -->
+<panel class="person_award_panel">
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_inset="0" vertical_gap="8"/>
+
+	<boolean id="always_use_latest_object_list" value="true"/>
+
+	<!-- Container with most recent winners (1st-3rd) -->
+	<container navigation_container="true">
+		<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="fill" horizontal_offset="0" vertical_inset="0" horizontal_gap="8"/>
+
+		<record id="default_properties">
+			<record id="object_property" get_property="objt" set_property="objt" />
+		</record>
+
+		<!-- 1st Place -->
+		<container class="person_award_details_panel" id="awdf">
+			<integer id="placing" value="1"/>
+		</container>
+
+		<!-- 2nd Place -->
+		<container class="person_award_details_panel" id="awds">
+			<integer id="placing" value="2"/>
+		</container>
+
+		<!-- 3rd Place -->
+		<container class="person_award_details_panel" id="awdt">
+			<integer id="placing" value="3"/>
+		</container>
+	</container>
+
+	<!-- History table with selectable rows -->
+	<container class="award_past_winners_panel" id="awpw" navigation_container="true">
+		<record id="object_property" get_property="objt" set_property="objt" />
+	</container>
+
+</panel>

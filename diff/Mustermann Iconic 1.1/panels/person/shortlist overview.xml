@@ -1,0 +1,40 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+	
+	<list id="PRAM">
+		<integer value="Ceda"/>
+	</list>
+
+	<list id="properties_to_forward">
+		<record get_property="Ceda" target="pspa" set_property="Ceda" />
+	</list>
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" vertical_gap="8"/>
+
+		<widget class="scouting_top_panel" id="stop" >
+			<record id="object_property">
+				<integer id="get_property" value="objt" />
+				<integer id="set_property" value="objt" />
+			</record>
+			<list id="visible_items">
+				<flags value="trwd" />
+				<flags value="scfc" />
+				<flags value="scpc" />
+				<flags value="scbc" />
+				<flags value="trbc" />
+				<flags value="assc" />
+			</list>
+		</widget>
+
+		<widget class="person_search_panel" id="pspa" type="0" late_loading="true" file="person/shortlist person search">
+			<record id="object_property">
+				<integer id="get_property" value="objt" />
+				<integer id="set_property" value="objt" />
+			</record>
+		</widget>
+
+	</container>
+
+</panel>
+

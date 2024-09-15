@@ -1,0 +1,52 @@
+﻿<panel>
+	<boolean id="should_force_refresh" value="true" />
+	<colour id="budget_info_positive_colour" name="positive" />
+	<colour id="budget_info_zero_colour" name="text" />
+	<colour id="budget_info_negative_colour" name="negative" />
+	<colour id="scouting_range_highlight_colour" name="bg accent" />
+	<list id="visible_items">
+		<flags value="scrc" />
+		<flags value="scfc" />
+		<flags value="assc" />
+	</list>
+
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+
+	<container class="scrolling_box">
+
+		<container draw_horizontal_dividers="false">
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="8" horizontal_inset="0" />
+
+			<!--Scouting responsibility-->
+			<widget class="property_list_viewer_xml_panel" file="human/mustermann/home/scouting/scouting top bar widget" height="70" id="scrc" icon="icons/custom/icon box/staff" widget_type="client_object_viewer_xml_panel" popup_alignment="left,bottom" lnkH="true" vdhd="true" tcol="accent" ncol="text" jcol="faded text" secondary_icon_colour="text">
+				<translation id="titl" translation_id="420803" type="use" value="Scouting Responsibility[COMMENT: FR 11179 - title for buttons to change who is responsible for organising scouting at the club]" />
+				<record id="toto" file="team/team container scout responsibility popup" width="950" />
+				<record id="modal_popup_properties" file="modal popup panel auto sized" />
+			</widget>
+			
+			<!--Recruitment focus-->
+			<widget class="property_list_viewer_xml_panel" file="human/mustermann/home/scouting/scouting top bar widget" height="70" id="scfc" icon="icons/custom/icon box/focus" click_event="scfC" lnkH="false" vdhd="true" tcol="accent" txcl="text" dscl="faded text" secondary_icon_colour="text">
+				<translation id="titl" translation_id="509169" type="use" value="Recruitment Focus[COMMENT: AREA: Scouting/Recruitment; SUB-AREA:Recruitment focus dialog; FR-BN: 24174; NOTE: Recruitment focus dialog title]" />
+				<boolean id="hide_nested_button" value="false" />
+				<boolean id="hide_nested_popup" value="true" />
+			</widget>
+			
+			<!--Scouting Centre-->
+			<widget class="property_list_viewer_xml_panel" file="human/mustermann/home/scouting/scouting top bar widget" height="70" id="assc" icon="icons/custom/icon box/report" section="tssc" ustB="true" lnkH="false" vdhd="true" tcol="accent" txcl="text" dscl="faded text" secondary_icon_colour="text">
+				<string id="lktx" value="" />
+				<boolean id="ustB" value="true" />
+				<boolean id="ustP" value="true" />
+				<translation id="titl" translation_id="447700" type="use" value="Scouting Centre[COMMENT: FR 19770; transfer centre; scouting centre link button text]" />
+			</widget>
+
+			<!--Scouting range-->
+			<widget class="property_list_viewer_xml_panel" file="human/mustermann/home/scouting/scouting top bar widget" height="70" id="scpc" icon="icons/custom/icon box/package" widget_type="property_list_viewer_xml_panel" popup_alignment="left,top" lnkH="true" vdhd="true" tcol="accent" txcl="text" dscl="faded text" secondary_icon_colour="text">
+				<translation id="titl" translation_id="309245" type="use" value="Scouting Range[COMMENT: interaction manager; type of interaction]" />
+				<record id="toto" file="team/scouting range popup" width="450" />
+			</widget>
+		
+		</container>
+
+	</container>
+</panel>

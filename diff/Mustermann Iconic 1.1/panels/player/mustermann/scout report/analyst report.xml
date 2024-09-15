@@ -1,0 +1,22 @@
+﻿<panel>
+    <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+	
+	
+	
+	<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally">
+	
+		<widget class="player_reports_overview_summary_panel" file="player/mustermann/scout report/recommendation" id="ovvw" recommendation_widget_mode="1" mode="7" default_width="40"/>
+	
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+		
+			<widget class="text" font="title" colour="title" alignment="left,bottom" default_height="-3" minimum_height="3">
+				<translation id="text" translation_id="515105" type="use" value="Analyst Rating" />
+			</widget>
+			
+			<widget class="text" id="lsdt" alignment="left,top" size="small" colour="faded text" default_height="-2" minimum_height="2"/>
+			
+		</container>
+		
+	</container>
+
+</panel>

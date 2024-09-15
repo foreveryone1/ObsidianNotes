@@ -1,0 +1,54 @@
+<panel>
+	<layout class="arrange_vertical_attachment" layout="-1,32" offset="0" gap="-4"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+	<container>
+
+		<!-- Player picture -->
+		<widget class="object_portrait_picture" id="pict" scale_picture="true" image_alignment="centre_x,bottom">
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+
+			<record id="object_property">
+				<integer id="get_property" value="objt"/>
+				<integer id="set_property" value="objt"/>
+			</record>
+		</widget>
+
+	</container>
+
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_width="-1" minimum_width="1"/>
+	
+		<!-- Name -->
+		<container class="contrast_box" appearance="mustermann/lineup/paper" red_replacement="bg lighter">
+			<attachment_group class="horizontal_arrange_autosize" horizontal_gap="4" />
+
+			<container width="28" auto_size="horizontal">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+				<widget class="picture" file="mustermann/lineup/medium" red_replacement="fg" image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+				<widget class="label" id="bsnm" alignment="centre" font="title" colour="bg darker">
+				</widget>
+			</container>
+			
+			<widget class="label" id="name" alignment="left,centre_y,can_scale" colour="text" auto_size="horizontal" multiline="false" font="title"/>
+			
+			<container width="12"/>
+
+			<!--<container>
+				<attachment_group class="vertical_arrange" horizontal_offset="0" vertical_alignment="middle"/>
+
+				<widget class="label" id="name" alignment="left,can_scale" colour="text" auto_size="vertical" multiline="false" font="title">
+				</widget>
+			</container>-->
+
+		</container>
+		
+		<container default_width="-1" minimum_width="1"/>
+		
+	</container>
+	
+</panel>

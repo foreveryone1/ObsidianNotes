@@ -1,0 +1,801 @@
+<panel navigation_container="true">
+	<container id="SUBP" class="inner_box_no_margin" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+	</container>
+
+	<widget class="popup_button" id="popv" secondary_icon_enabled="false" icon="icons/16px/settings" red_replacement="bg lighter" icon_colour="fg" auto_size="horizontal" height="20" click_event="msis" appearance="buttons/custom/customise panel/button" fixed="true" navigation_focus_target="true">
+		<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+		<layout class="stick_to_sides_attachment" alignment="bottom" inset="0"/>
+
+		<!-- This is a bit clumsy but I can't think of a better way without using equally clumsy code -->
+		<!-- Animation to 'hide' the widget by drawing it out of the clipping area -->
+		<!--<animation class="translate_animation" trigger_id="hidden" trigger_value="false" start_value="100.0,0.0" end_value="100.0,0.0" duration="0.1" end_mode="hold_end" apply_to_mouse="false"/>-->
+		<!-- Animations to move it back and fade it in when moused over  -->
+		<!--<animation class="translate_animation" trigger_start="msen" trigger_end="msex" start_value="-100.0,0.0" end_value="-100.0,0.0" duration="0.01" end_mode="hold_auto_reverse" apply_to_mouse="false"/>-->
+		<!--<animation class="fade_animation" trigger_start="msen" trigger_end="msex" start_value="0.0" end_value="1.0" duration="0.4" end_mode="hold_auto_reverse"/>-->
+	</widget>
+
+	<!-- Make sure everything is late loading! -->
+	
+	<!--BLANK-->
+	<container id="blnk" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="320620" type="use"/>
+	</container>
+		
+	<!--ATTRIBUTES-->
+	<!--ACCELERATION-->
+	<container id="Pacc" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227769" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pacc"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227768"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--AGGRESSION-->
+	<container id="Pagg" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227772" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pagg"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227771"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--AGILITY-->
+	<container id="Pagi" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227774" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pagi"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227773"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--ANTICIPATION-->
+	<container id="Pant" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227776" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pant"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227775"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--BALANCE-->
+	<container id="Pbal" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227780" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pbal"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227779"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--BRAVERY-->
+	<container id="Pbra" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227782" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pbra"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227781"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--COMMAND OF AREA-->
+	<container id="Pcoa" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="255275" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcoa"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227788"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--COMPOSURE-->
+	<container id="Pcmp" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227914" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcmp"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227913"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--COMMUNICATION-->
+	<container id="Pcom" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227791" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcom"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227790"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--CONCENTRATION-->
+	<container id="Pcnt" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="248654" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcnt"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227915"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--CORNERS-->
+	<container id="Pcor" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227896" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcor"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227895"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--CROSSING-->
+	<container id="Pcro" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227798" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcro"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227797"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--DECISIONS-->
+	<container id="Pdec" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227801" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pdec"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227800"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--DETERMINATION-->
+	<container id="Pdet" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227803" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pdet"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227802"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--DRIBBLING-->
+	<container id="Pdri" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227805" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pdri"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227804"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--FINISHING-->
+	<container id="Pfin" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227810" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pfin"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227809"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--FIRST TOUCH-->
+	<container id="Pfrs" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227894" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pfrs"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227893"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--FLAIR-->
+	<container id="Pfla" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227812" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pfla"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227811"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--FREE KICKS-->
+	<container id="Pfrk" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227892" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pfrk"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227891"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--HANDLING-->
+	<container id="Phan" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227816" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Phan"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227815"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--HEADING-->
+	<container id="Phea" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227818" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Phea"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227817"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--JUMPING-->
+	<container id="Pjum" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="349773" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pjum"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227827"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--KICKING-->
+	<container id="Pkic" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227832" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pkic"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227831"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--LEADERSHIP-->
+	<container id="Pinf" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="230010" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pinf"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="348973"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--LONG SHOTS-->
+	<container id="Plsh" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227834" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Plsh"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227833"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--MARKING-->
+	<container id="Pmar" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227838" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pmar"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227837"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--NATURAL FITNESS-->
+	<container id="Pnft" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="337907" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pnft"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227829"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--OFF THE BALL-->
+	<container id="Potb" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227877" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Potb"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227876"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--ONE ON ONES-->
+	<container id="Pooo" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227861" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pooo"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="383198"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--PACE-->
+	<container id="Ppac" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227879" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ppac"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227878"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--PASSING-->
+	<container id="Ppas" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227881" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ppas"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227880"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--PENALTIES-->
+	<container id="Ppen" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="294272" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ppen"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227882"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--POSITIONING-->
+	<container id="Ppsn" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227886" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ppsn"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227885"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--REFLEXES-->
+	<container id="Pref" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227888" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pref"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227887"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--RUSHING OUT-->
+	<container id="Prou" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227890" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Prou"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227889"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--STAMINA-->
+	<container id="Psta" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227898" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Psta"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227897"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--STRENGTH-->
+	<container id="Pstr" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227900" type="use"/>
+		<translation id="subtitle" translation_id="285375" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pstr"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227899"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--TACKLING-->
+	<container id="Ptac" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227902" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ptac"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="248677"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--TEAMWORK-->
+	<container id="Ptwr" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227910" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ptwr"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227909"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--TECHNIQUE-->
+	<container id="Ptec" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227904" type="use"/>
+		<translation id="subtitle" translation_id="248612" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Ptec"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227903"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--THROWING-->
+	<container id="Pthr" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227906" type="use"/>
+		<translation id="subtitle" translation_id="337927" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pthr"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227905"/>
+		</widget>
+		<container/>
+	</container>
+	
+	<!--VISION-->
+	<container id="Pcre" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="230023" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pcre"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="363781"/>
+		</widget>
+		<container/>
+	</container>
+		
+	<!--WORK RATE-->
+	<container id="Pwkr" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="227912" type="use"/>
+		<translation id="subtitle" translation_id="248610" type="use"/>
+		<layout class="vertical_arrange" vertical_layout="42,-1,22,16" offset="0" inset="0" gap="0"/>		
+		<container/>	
+		
+		<widget class="dnc_chart">
+			<record id="object_property" get_property="Pwkr"/>
+		</widget>		
+		<widget class="label" font="title" size="8" alignment="right,centre_y" colour="fg">
+			<layout class="stick_to_sides_attachment" alignment="right" inset="24"/>
+			<layout class="stick_to_sides_attachment" alignment="bottom" inset="56"/>
+			<translation id="text" type="use" translation_id="227911"/>
+		</widget>
+		<container/>
+	</container>
+		
+</panel>

@@ -1,0 +1,21 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<!-- attributes graph -->
+	<widget class="graph" id="grph" >
+
+		<record id="default_series_properties" type="line" colour="selection" line_width="2"/>
+		<record id="instant_hint" format="[%string#1]"/>
+		<record id="x_axis" hide_title="true" consistent_label_width="true" gap="3">
+			<record id="label_font" font="title" colour="title" draw_label="false"/>
+		</record>
+		<record id="y_axis" interval="5" format="[%fraction#1-3.0]" mark_size="0">
+			<record id="label_font" font="transparent" colour="transparent" draw_label="true"/>
+		</record>
+		<list id="grid_line_styles">
+			<record colour="graph row"/>
+			<record colour="transparent"/>
+		</list>
+	</widget>
+
+</panel>

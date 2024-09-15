@@ -1,0 +1,34 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+	
+	<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+	
+		<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1">
+		
+			<container class="team_staff_subteam_panel" id="soc1" file="team/mustermann/staff overview/subteam container" default_width="-1"/>
+			<container class="team_staff_subteam_panel" id="soc2" file="team/mustermann/staff overview/subteam container" default_width="-1"/>
+			<container class="team_staff_subteam_panel" id="soc3" file="team/mustermann/staff overview/subteam container" default_width="-1"/>
+		
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg lighter" default_height="47">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+		
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+				<container class="horizontal_arrange_container" id="btns" height="31" default_width="-1">
+				</container>
+				
+				<widget class="widget_popup_button" id="staR" appearance="buttons/subtle/normal/button" secondary_icon_enabled="false" auto_size="vertical" needs_width="true" needs_height="true" default_width="44">
+					<string id="icon" value="icons/16px/staff respo" />
+					<string id="popup_alignment" value="centre_x, top" />
+					<string id="widget_type" value="group_responsibility_list_widget" />
+					<record id="widget_properties" file="team/staff responsibility summary popup panel" width="800" height="520" />
+				</widget>
+			
+			</container>
+		</container>
+	
+	</container>
+		
+</panel>

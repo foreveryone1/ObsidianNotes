@@ -1,0 +1,207 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+	
+	<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+			
+		<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1">
+					
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-3">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			
+				<container class="team_squad_tactics_panel" entity_layout_id="it02" id="tesA">
+					<translation id="title" translation_id="511340" type="use" value="Squad" />
+					<string id="include_starting_xi" value="true" />
+					<string id="include_starting_subs" value="true" />
+					<string id="include_unpicked" value="true" />
+					<layout class="arrange_vertical_attachment" alignment="bottom,extend" gap="0" offset="0" />
+					<layout class="stick_to_sides_attachment" apply_to_children="true" alignment="horizontal" inset="0" />
+					<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" offset="10" get_side="right" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+				</container>
+				
+				<!--POPUP-->
+				<container class="contrast_box" red_replacement="bg lighter" id="mmta" hidn="true">
+					<animation class="slide_in_right_animation"/>
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+					
+					<container class="tactics_recent_match_analysis_panel" file="tactics/mustermann/tactics analysis" id="anLy" wants_mouse_events="true">
+						<string id="create_if" value="allow_data_analysis"/>
+						<record id="object_property" get_property="objt" set_property="objt" />
+					</container>
+				</container>				
+				
+				<container class="container" id="conG"/>
+				
+				<container class="tactics_player_instructions_panel" file="tactics/mustermann/player instructions" wants_mouse_events="true" id="tPli" hidden="true"/>
+				
+				<container class="main_contrast_box_no_margin" red_replacement="bg darker" wants_mouse_events="true" hidden="true" id="TcAP">
+					<animation class="slide_in_right_animation"/>
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+					
+						<container class="main_contrast_box" appearance="boxes/main/contrast/top/paper" id="TcAH" height="50">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<widget class="text" alignment="centre_y,left" id="AHte" height="19" font="title" colour="bg darker" default_width="-1">
+									<string id="value" value="text"/>
+								</widget>
+								<widget class="primary_icon_button" alignment="centre" width="45" red_replacement="bg lighter" icon_colour="fg" icon_alignment="centre">
+									<string id="click_event" value="close_tactical_analysis"/>
+									<string id="icon" value="icons/16px/clear"/>
+								</widget>
+							</container>
+						</container>
+						<container class="main_contrast_box" appearance="boxes/main/contrast/bottom/paper" red_replacement="bg darker" default_height="-1">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="vertical_arrange_container" id="TcAL" default_height="-1">
+								<string id="draw_horizontal_dividers" value="false"/>
+							</container>
+						</container>
+					</container>
+				</container>
+							
+			</container>
+		
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-2">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+				<list id="disallowed_view_property_ids">
+					<!-- never allow squad selection, squad number selection or team selection -->
+					<flags value="Pssi" />
+					<flags value="PtsL" />
+					<flags value="Psne" />
+				</list>
+				<list id="required_view_property_ids">
+				<!-- always require role/duty -->
+					<flags value="TPRM" />
+				</list>
+				
+				<container class="pitch_with_tactics" id="pitc" name="pitch">
+					<string id="icon_flags" value="show_name,show_extra_details,use_overview_icons,drop_initial_if_possible,show_position_role_duty_suitability,show_selection_image,show_number,show_role_duty_labels,show_familiarity" />
+					<string id="show_extra_details_buttons" value="true" />
+					<string id="pitch_draw_grass" value="false" />
+					<string id="pitch_base_appearance" value="pitch/grass" />
+					<string id="pitch_pattern" value="ui circles" />
+					<integer id="pitch_vertical_padding" value="0" />
+					<string id="pitch_draw_lines" value="true" />
+					<integer id="partnership_vertical_inset" value="0" />
+					<string id="vertical" value="true" />
+					<string id="pitch_alignment" value="can_scale" />
+					<real id="maximum_player_size" value="0.17" />
+					<string id="pitch_line_colour" value="fg" />
+					<string id="3958779584" value="tactics normal run" />
+					<string id="3958779616" value="tactics darkened run" />
+					<string id="3958779648" value="tactics dragged run" />
+					<integer id="pitch_touchline_width_percentage" value="20" />
+					<integer id="line_width" value="2" />
+				</container>
+								
+			</container>
+			
+		
+		</container>
+
+		<container class="contrast_box" red_replacement="bg lighter">
+			<attachment class="test_screen_size_attachment" skip_if_false="true">
+				<list id="properties">
+					<record>
+						<flags id="alignment" value="vertical"/>
+						<integer id="min_value" value="0"/>
+						<integer id="max_value" value="1080"/>
+						<symbol id="set_property" value="height"/>
+						<integer id="true_value" value="46"/>
+						<integer id="false_value" value="46"/>
+					</record>
+					<record>
+						<flags id="alignment" value="vertical"/>
+						<integer id="min_value" value="1080"/>
+						<integer id="max_value" value="10000"/>
+						<symbol id="set_property" value="height"/>
+						<integer id="true_value" value="46"/>
+						<integer id="false_value" value="46"/>
+					</record>
+				</list>
+			</attachment>
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			
+			<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+			
+				<container default_width="305">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<container class="tactic_slot_tab_container"  file="tactics/mustermann/tactics slot" id="tacw" width="250">
+						<integer id="slot_popup_maximum_width" value="200"/>
+					</container>
+				
+				</container>
+				
+				<container class="team_instructions_panel" file="tactics/mustermann/tactics team instructions" id="Tein" name="Team instructions" default_width="-1"/>
+				
+				<container default_width="30">
+					<layout class="arrange_vertical_attachment" layout="30,-1" offset="0" gap="8" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+				
+					<container default_width="30">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+											
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+						
+							<widget class="picture" file="mustermann/buttons/performance" red_replacement="mustermann3" blue_replacement="bg lighter" green_replacement="mustermann3" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" default_width="26"/>
+							
+							<widget class="icon_button" id="opn3" alignment="right,centre_y" icon_alignment="right,centre_y" show_button_appearance="false">				
+								<translation id="hint" translation_id="451327" type="use" value="Recent Match Analysis"/>
+								<record id="primary_icon_properties" red_replacement="text"/>
+								<event id="click_event" event_id="mmab"/>
+								<attachment class="event_relay_attachment" event_id="mmab">
+									<record id="action_event">
+										<flags id="event_id" value="show"/>
+										<flags id="event_target" value="mmta"/>
+									</record>
+								</attachment>
+								<attachment class="event_relay_attachment" event_id="mmab">
+									<record id="action_event">
+										<flags id="event_id" value="show"/>
+										<flags id="event_target" value="clo3"/>
+									</record>
+								</attachment>
+							</widget>
+						</container>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+												
+							<widget class="icon_button" id="clo3" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" icon="mustermann/buttons/performance" hidn="true">
+								<event id="click_event" event_id="mmab"/>
+								<attachment class="event_relay_attachment" event_id="mmab">
+									<record id="action_event">
+										<flags id="event_id" value="hide"/>
+										<flags id="event_target" value="mmta"/>
+									</record>
+								</attachment>
+								<attachment class="event_relay_attachment" event_id="mmab">
+									<record id="action_event">
+										<flags id="event_id" value="hide"/>
+										<flags id="event_target" value="clo3"/>
+									</record>
+								</attachment>
+							</widget>
+						</container>
+					
+					</container>
+					
+					<container/>
+				</container>
+			</container>
+		
+		</container>
+	
+	</container>
+	
+</panel>

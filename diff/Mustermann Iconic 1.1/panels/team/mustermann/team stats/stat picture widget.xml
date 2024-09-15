@@ -1,0 +1,21 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+	
+	<container>
+		<layout class="vertical_arrange" vertical_layout="-1" offset="0" inset="0" gap="0" draw_horizontal_dividers="false"/>
+		
+		<widget class="text" id="plaw" alignment="centre_x,centre_y" size="14" hidden="true"/>
+		<widget class="text" id="perc" alignment="centre_x,centre_y" size="14" hidden="true"/>
+		
+	</container>
+			
+	<container>
+		<layout class="vertical_arrange" vertical_layout="-1" offset="0" inset="0" gap="0" draw_horizontal_dividers="false"/>
+		
+		<widget class="object_portrait_picture" id="plSP" image_alignment="centre_x, bottom" scale_picture="true" wants_mouse_events="false">
+			<record id="object_property" get_property="objt"/>
+		</widget>
+			
+	</container>
+
+</panel>

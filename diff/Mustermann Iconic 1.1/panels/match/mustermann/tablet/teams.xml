@@ -1,0 +1,27 @@
+﻿<panel>
+	<attachment_group class="horizontal_arrange" horizontal_layout="-1"/>
+
+	<!-- section with tactics and players -->
+	<container draw_vertical_dividers="true">
+		<attachment_group class="horizontal_arrange" horizontal_layout="300,-1" horizontal_gap="25"/>
+		<!-- tactis -->
+		<container class="inner_box" navigation_container="true">
+			<attachment_group class="vertical_arrange" vertical_layout="35,-1"/>
+			
+			<container>
+				<attachment_group class="horizontal_arrange" horizontal_layout="-1,-1" horizontal_gap="2" horizontal_offset="0"/>
+				<widget class="radio_button" id="RHTe" alignment="centre_x,centre_y" icon_enabled="false" show_button_appearance="true" secondary_icon_enabled="true" secondary_icon_alignment="centre_left,centre_y" click_event="eHTs" appearance="switches/toggle/left/button" secondary_use_icon_app_rep_colour="false" selected="true"/>
+				<widget class="radio_button" id="RATe" alignment="centre_x,centre_y" icon_enabled="false" show_button_appearance="true" secondary_icon_enabled="true" secondary_icon_alignment="centre_left,centre_y" click_event="eATs" appearance="switches/toggle/right/button" secondary_use_icon_app_rep_colour="false" selected="false"/>
+			</container>
+
+			<widget class="match_formation_panel" id="hfMs" file="match/mustermann/tablet/teams formation" team_index="0" read_only="true"/>
+			<widget class="match_formation_panel" id="afMs" file="match/mustermann/tablet/teams formation" team_index="1" read_only="true" hidden ="true"/>
+		</container>
+		
+		<!-- players -->
+		<widget class="match_team_stats_panel" id="hmtt" file="match/mustermann/tablet/teams stats" team_index="0" />
+	</container>
+	
+	
+
+</panel>

@@ -1,0 +1,27 @@
+﻿<panel save_session_state="true">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+	<!--NEWS CYCLE-->
+	<container class="animated_wipe_cycle_fade_container" interval="3">
+		<record id="default_properties" file="human/mustermann/home/news/news item"/>
+		
+		<container class="competition_news_item_panel" index="0" default_item="true"/>
+		<container class="competition_news_item_panel" index="1" late_loading="true"/>
+		<container class="competition_news_item_panel" index="2" late_loading="true"/>
+		<container class="competition_news_item_panel" index="3" late_loading="true"/>
+		<container class="competition_news_item_panel" index="4" late_loading="true"/>
+		<container class="competition_news_item_panel" index="5" late_loading="true"/>
+		<container class="competition_news_item_panel" index="6" late_loading="true" />
+		<container class="competition_news_item_panel" index="7" late_loading="true"/>
+		<container class="competition_news_item_panel" index="8" late_loading="true"/>
+		<container class="competition_news_item_panel" index="9" late_loading="true"/>
+		<container class="competition_news_item_panel" index="10" late_loading="true"/>
+		<container class="competition_news_item_panel" index="11" late_loading="true"/>
+		<container class="competition_news_item_panel" index="12" late_loading="true"/>
+		<container class="competition_news_item_panel" index="13" late_loading="true"/>
+		<container class="competition_news_item_panel" index="14" late_loading="true"/>
+		<container class="competition_news_item_panel" index="15" late_loading="true"/>
+		
+	</container>				
+	
+</panel>

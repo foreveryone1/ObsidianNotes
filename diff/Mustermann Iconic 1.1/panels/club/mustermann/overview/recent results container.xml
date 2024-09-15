@@ -1,0 +1,83 @@
+<panel> 
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+
+	<container>
+		<attachment class="vertical_arrange" vertical_layout="-1" vertical_gap="0" vertical_offset="0" /> 
+		
+		<container> 
+			<layout class="stick_to_sides_attachment" apply_to_children="true" /> 
+			<container class="plain_box" id="nofi"> 
+				<layout class="stick_to_sides_attachment" apply_to_children="true"/> 
+				<widget class="text" alignment="centre" colour="faded text" hidden="false"> 
+					<layout class="stick_to_sides_attachment" alignment="all"/> 
+					<translation id="text" translation_id="319451" type="use" value="No recent fixtures played.[COMMENT: club overview team results panel; text indicating that because no fixtures have been played, there is no expected screen content]" /> 
+				</widget> 
+			</container> 
+			<container id="fixt"> 
+				<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
+				
+				<container class="horizontal_adaptive_container" gap="0">
+				
+					<container class="contrast_box" appearance="boxes/contrast/standard/left/paper" red_replacement="primary" width="10"/>
+					
+					<container class="contrast_box" appearance="boxes/contrast/standard/right/paper" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<container class="client_object_viewer_xml_panel" file="club/mustermann/overview/recent results details" id="res4"/> 
+					
+					</container>
+				</container>
+								
+				<container class="horizontal_adaptive_container" gap="0">
+				
+					<container class="contrast_box" appearance="boxes/contrast/standard/left/paper" red_replacement="primary" width="10"/>
+					
+					<container class="contrast_box" appearance="boxes/contrast/standard/right/paper" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<container class="client_object_viewer_xml_panel" file="club/mustermann/overview/recent results details" id="res3"/> 
+					
+					</container>
+				</container>
+
+				<container class="horizontal_adaptive_container" gap="0">
+				
+					<container class="contrast_box" appearance="boxes/contrast/standard/left/paper" red_replacement="primary" width="10"/>
+					
+					<container class="contrast_box" appearance="boxes/contrast/standard/right/paper" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<container class="client_object_viewer_xml_panel" file="club/mustermann/overview/recent results details" id="res2"/> 
+					
+					</container>
+				</container>
+				
+				<container class="horizontal_adaptive_container" gap="0">
+				
+					<container class="contrast_box" appearance="boxes/contrast/standard/left/paper" red_replacement="primary" width="10"/>
+					
+					<container class="contrast_box" appearance="boxes/contrast/standard/right/paper" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<container class="client_object_viewer_xml_panel" file="club/mustermann/overview/recent results details" id="res1"/> 
+					
+					</container>
+				</container>
+				
+				<container class="horizontal_adaptive_container" gap="0">
+				
+					<container class="contrast_box" appearance="boxes/contrast/standard/left/paper" red_replacement="primary" width="10"/>
+					
+					<container class="contrast_box" appearance="boxes/contrast/standard/right/paper" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<container class="client_object_viewer_xml_panel" file="club/mustermann/overview/recent results details" id="res0"/> 
+					
+					</container>
+				</container>
+				
+			</container> 
+		</container> 
+
+	</container>
+</panel> 

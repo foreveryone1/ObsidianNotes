@@ -1,0 +1,72 @@
+﻿<panel height="76">
+    <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+    <boolean id="should_force_refresh" value="true"/>
+    <flags id="player_on_pitch_bg_colour" value="bg lighter"/>
+    <flags id="player_on_bench_bg_colour" value="bg darker"/>
+    <flags id="disabled_bg_colour" value="grey 900"/>
+    <flags id="player_name_colour_booked" value="match yellow card"/>
+    <flags id="player_name_colour_sent_off" value="match red card"/>
+
+    <container>
+        <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+        <container class="contrast_box_no_margin" id="main">
+            <attachment_group class="horizontal_arrange" horizontal_layout="22, 72, -1, 6" horizontal_gap="2" horizontal_offset="0"/>
+								
+			<!-- Role -->
+			<widget class="icon_button" id="TPrl" appearance="boxes/contrast/no margin/left/paper" colour="fg" alignment="centre" wants_mouse_events="false" style="vertical" size="xsmall" navigation_focus_target="false"/>
+			
+			<!-- Portrait -->
+            <widget class="object_portrait_picture" scale_picture="true" alignment="centre_x,bottom" image_alignment="centre_x,bottom">
+                <record id="object_property" get_property="objt" set_property="objt"/>
+            </widget>
+			
+			<container>
+				<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_offset="2" vertical_gap="4"/>
+							
+				<container height="26">
+					<attachment_group class="horizontal_arrange" horizontal_alignment="right, extend" horizontal_gap="2"/>
+
+					<!-- name -->
+					<widget class="person_button" id="TTnm" info_popup_enabled="true" person_is_player="true" alignment="left, centre_y" auto_size="horizontal" style="bold" size="small" navigation_focus_target="false">
+						<record id="object_property" get_property="objt" set_property="valu"/>
+					</widget>
+					
+					<widget class="match_rating_label_formatted" id="Mrat" format="[%fraction#1-2.1]" dont_format_numeric_grouping="true" alignment="centre_x,centre_y" width="38" hidden="true">
+						<record id="widget_properties">
+							<boolean id="wants_mouse_events" value="false"/>
+						</record>
+					</widget>
+					
+					<widget class="text" id="PenO" font="title" colour="yellow1" alignment="centre" width="38" hidden="true"/>
+					
+				</container>
+				
+				<!-- player morale/reactions -->
+				<widget class="team_talk_reaction_label" id="ReLa" height="26"/>
+				
+			</container>
+			
+			<container/>
+			           
+        </container>
+    </container>
+
+    <container>
+        <attachment_group class="horizontal_arrange_vertical_autosize" vertical_inset="0" vertical_offset="0" horizontal_inset="0" horizontal_offset="0"/>
+
+        <!-- select player to talk to check box -->
+        <widget class="check_box" id="selP" click_event="selP" selection="1" width="24" height="24" alignment="top, left" hidden="true">
+            <layout class="stick_to_sides_attachment" alignment="left" inset="-3"/>
+            <layout class="stick_to_sides_attachment" alignment="top" inset="-6"/>
+        </widget>
+
+        <container/>
+
+        <!-- substituted on/off icon -->
+        <widget class="picture" id="subI" scale_picture="true" keep_aspect_ratio="true" width="20" height="20" alignment="top, right" hidden="true">
+            <layout class="stick_to_sides_attachment" alignment="top, right" inset="0"/>
+        </widget>
+    </container>
+</panel>

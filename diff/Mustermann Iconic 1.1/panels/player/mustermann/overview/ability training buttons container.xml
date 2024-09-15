@@ -1,0 +1,17 @@
+<panel>
+  <container id="SUBP" class="inner_box_no_margin" >
+    <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+    <layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+  </container>
+
+	<widget class="player_training_information" id="mmprtbh" file="player/mustermann/overview/ability training buttons" late_loading="true" valid_for_other_team_managers="false" valid_for_international_managers_other_team="false" valid_for_unemployed_managers="false">
+		<translation id="title" type="use" value="Training Buttons" />
+	</widget>
+
+	<!--<widget class="player_reports_overview_summary_panel" id="mmpdt" file="player/mustermann/player details/player details transfer" late_loading="true">
+		<translation id="title" type="use" value="Other Player" />
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>-->
+	
+
+</panel>

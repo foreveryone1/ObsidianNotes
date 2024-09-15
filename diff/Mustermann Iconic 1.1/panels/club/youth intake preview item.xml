@@ -1,0 +1,33 @@
+﻿<panel>
+	<list id="properties_to_forward">
+		<record get_property="titl" set_property="text" target="titl"/>
+		<record get_property="text" set_property="text" target="desc"/>
+		<record get_property="star" set_property="valu" target="SrSt"/>
+		<record get_property="objt" set_property="objt" target="ppip"/>
+		<record get_property="valu" set_property="text" target="gbgp"/>
+		<record get_property="rrep" set_property="rrep" target="gbgp"/>
+		<record get_property="colr" set_property="colr" target="gbgp"/>
+		<record get_property="colr" set_property="colr" target="titl"/>
+		<record get_property="colr" set_property="brep" target="gbgp"/>
+	</list>
+
+	<attachment_group class="vertical_arrange_autosize" vertical_offset="0" />
+
+	<container class="contrast_box" red_replacement="bg lighter" id="outr">
+		<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_layout="40, -2,-1" horizontal_offset="0" horizontal_gap="10" vertical_offset="0" />
+
+		<widget class="player_basic_positions_indicator_widget" id="ppip" height="70"/>
+
+		<container id="iner">
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+			<widget class="label" id="titl" spec="text" style="semi_bold" size="large" auto_size="all" colour="text" />
+
+			<widget class="text" id="desc" spec="text" size="large" multiline="true" auto_size="vertical" colour="faded text"/>
+		</container>
+
+		<widget class="container" file="widgets/performance grade widget"  id="gbgp"  red_replacement="transparent" image_alignment="centre" height="40" width="40"/>
+
+	</container>
+
+</panel>

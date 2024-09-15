@@ -1,0 +1,161 @@
+﻿<panel wants_mouse_events="true" disable_animations="false" navigation_container="false">
+	<attachment class="test_screen_size_attachment" skip_if_false="true">
+		<list id="properties">
+			<record>
+				<flags id="alignment" value="vertical" />
+				<integer id="min_value" value="0" />
+				<integer id="max_value" value="900" />
+				<!-- This is a very large value as we want our widget to show if > the min_value.  The attachmen itself only does values between a range so we set the max arbitrarily high to make this work -->
+				<symbol id="set_property" value="height" />
+				<integer id="true_value" value="540" />
+				<integer id="false_value" value="540" />
+			</record>
+			<record min_value="900" max_value="1080" true_value="675" />
+			<record min_value="1080" max_value="1440" true_value="855" />
+			<record min_value="1440" max_value="10000" true_value="1215" />
+		</list>
+	</attachment>
+	<attachment class="test_screen_size_attachment" skip_if_false="true">
+		<list id="properties">
+			<record>
+				<flags id="alignment" value="horizontal" />
+				<integer id="min_value" value="0" />
+				<integer id="max_value" value="1600" />
+				<!-- This is a very large value as we want our widget to show if > the min_value.  The attachmen itself only does values between a range so we set the max arbitrarily high to make this work -->
+				<symbol id="set_property" value="width" />
+				<integer id="true_value" value="960" />
+				<integer id="false_value" value="960" />
+			</record>
+			<record min_value="1600" max_value="1920" true_value="1200" />
+			<record min_value="1920" max_value="2560" true_value="1520" />
+			<record min_value="2560" max_value="10000" true_value="2160" />
+		</list>
+	</attachment>
+	<animation class="scale_animation" start_value="1, 0" end_value="1, 1" duration="0.3" delay="1.4" end_mode="hold_end" tween="ease_out" coord_mode="relative_to_target" centre_point="0.5,1" />
+	<animation class="scale_animation" start_value="1, 0" end_value="1, 1" duration="0.3" delay="0.2" end_mode="hold_end" tween="ease_out" coord_mode="relative_to_target" centre_point="0.5,1" trigger_id="hidden" trigger_value="false" />	
+	<record id="widget_info">
+		<flags id="alignment" value="centre_x" />
+		<symbol id="class" value="container" />
+	</record>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+
+	<container class="plain_box" appearance="boxes/custom/match/touchline tablet/paper" id="tmSc">
+		<list id="properties_to_forward">
+			<record get_property="type" target="ovar" set_property="sltd" />
+		</list>
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<container background_colour="bg">
+			<layout class="stick_to_sides_attachment" alignment="top,left" apply_to_children="true" inset="2" />
+		</container>
+
+		<container class="mustermann_tabbed" id="Tbco" top_level_tab_focus="true" default_item="poSE" save_session_state="true" save_default_state="true">			
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="5,0,0,0" />
+
+			<widget class="match_info_panel" id="bmin2" auto_size="vertical" file="match/mustermann/tablet/overview">
+				<translation id="title" translation_id="324456" type="use" value="Summary" />
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>	
+			
+			<container id="poSE" hidden="true">
+				<translation id="title" translation_id="296560" type="use" value="Teams[COMMENT: continent team count]" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<container id="tttp" class="touchline_tablet_teams_panel" file="match/mustermann/tablet/teams"/>
+			</container>
+
+			<container id="trSE" hidden="true">
+				<translation id="title" translation_id="284365" type="use" value="Stats" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<widget class="match_stats_panel" file="match/mustermann/tablet/stats">
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</widget>
+
+			</container>
+
+			<container id="xGSt" hidden="true">
+				<translation id="title" translation_id="557990" type="use" value="xG Story[COMMENT: AREA: Match; SUB-AREA: Touchline Tablet; NOTE: an expected goals graph over the course of the 90 minutes]" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<widget class="xg_touchline_panel" id="xgwi">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+
+			</container>
+
+			<container id="Alys" hidden="true">
+				<translation id="title" translation_id="296334" type="use" value="Analysis[COMMENT: match screen; analysis panel]" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<widget class="match_analysis_summary_panel" id="wana" file="match/match analysis touchline panel">
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</widget>
+
+			</container>
+
+			<container id="AtGr" hidden="true">
+				<translation id="title" translation_id="296528" type="use" value="Matches" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<widget class="match_updates_panel" file="match/mustermann/tablet/updates">
+					<record id="object_property">
+						<integer id="get_property" value="objt" />
+						<integer id="set_property" value="objt" />
+					</record>
+				</widget>
+
+			</container>
+
+			<container id="Advi" hidden="true">
+				<translation id="title" translation_id="309188" type="use" value="Advice[COMMENT: interaction manager; category type]" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="15,12,12,12" />
+
+				<widget class="match_feed_panel" id="feed" file="match/match feed panel advice" send_notification_number="true">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+
+			</container>
+			
+			<container id="htta" hidden="true">
+				<translation id="title" translation_id="441063" type="use" value="Team Analysis" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+				
+				<widget class="teams_match_chalkboard_panel" file="match/mustermann/tablet/team analysis" id="matm">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+				
+			</container>
+			
+			<container id="htpa" hidden="true">
+				<translation id="title" translation_id="441065" type="use" value="Player Analysis" />
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+				
+				<widget class="players_match_chalkboard_panel" file="match/mustermann/tablet/player analysis" id="mapl">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+				
+			</container>
+		
+		</container>
+
+	</container>
+
+</panel>

@@ -1,0 +1,15 @@
+<panel version="1.0" height="30">
+
+	<boolean id="actions" value="true" />
+
+	<list id="properties_to_forward">
+		<record get_property="text" target="teIn"/>
+		<record get_property="clke" target="teIn"/>
+		<record get_property="aprn" target="teIn"/>
+	</list>
+
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<widget class="icon_button" id="teIn" font="title"  alignment="centre" icon="icons/16px/team instructions" icon_alignment="centre_left" secondary_icon_enabled="false" secondary_icon_alignment="centre_right" gamepad_icon_alignment="centre" navigation_focus_target="false"/>
+
+</panel>

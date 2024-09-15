@@ -1,0 +1,25 @@
+<class class="rbar_full_back_shot" parent="match_rating_label" font="transparent" size="0" should_recolour="false" fixed_appearance_alignment="bottom" image_aligment="centre_x,centre_y">
+	<list id="value_list">
+		<record min_value="-1" max_value="0.17" appearance="mustermann/barchart/r0" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.17" max_value="0.22" appearance="mustermann/barchart/r5" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.22" max_value="0.26" appearance="mustermann/barchart/r10" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.26" max_value="0.30" appearance="mustermann/barchart/r15" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.30" max_value="0.33" appearance="mustermann/barchart/r20" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.33" max_value="0.36" appearance="mustermann/barchart/r25" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.36" max_value="0.39" appearance="mustermann/barchart/r30" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.39" max_value="0.42" appearance="mustermann/barchart/r35" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.42" max_value="0.45" appearance="mustermann/barchart/r40" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.45" max_value="0.48" appearance="mustermann/barchart/r45" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.48" max_value="0.52" appearance="mustermann/barchart/r50" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.52" max_value="0.56" appearance="mustermann/barchart/r55" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.56" max_value="0.59" appearance="mustermann/barchart/r60" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.59" max_value="0.64" appearance="mustermann/barchart/r65" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.64" max_value="0.68" appearance="mustermann/barchart/r70" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.68" max_value="0.74" appearance="mustermann/barchart/r75" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.74" max_value="0.80" appearance="mustermann/barchart/r80" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.80" max_value="0.90" appearance="mustermann/barchart/r85" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="0.90" max_value="1.05" appearance="mustermann/barchart/r90" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="1.05" max_value="1.45" appearance="mustermann/barchart/r95" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+		<record min_value="1.45" max_value="1000" appearance="mustermann/barchart/r99" image_aligment="centre_x,centre_y" red_replacement="bar_attack" blue_replacement="bar_attack_border" colour="" hidden="false"/>
+	</list>
+</class>

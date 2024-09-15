@@ -1,0 +1,1482 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+		<!--OUTFIELD ATTRIBUTES-->
+		<container class="vertical_adaptive_container" gap="8" mode="dont_distribute">
+			<record id="object_property" get_property="Pigo" set_property="hidn"/>
+			
+			<!--ATTACKING & DEFENDING-->
+			<container default_height="186">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								
+				<container class="horizontal_adaptive_container" gap="8" mode="dont_distribute">
+				
+					<!--ATTACKING-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+						
+							<widget class="text" font="title" size="large" colour="fg green darker" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="298016" type="use" value="Attacking"/>
+							</widget>
+						
+							<!--FINAL THIRD-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg green darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="467462" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227914" value="Composure" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcmp"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227801" value="Decisions" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227812" value="Flair" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pfla"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+							<!--MOVEMENT-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg green darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="230021" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227776" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pant"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227801" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227877" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Potb"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+											
+							<!--SHOOTING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg green darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227810" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227810" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pfin"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227834" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Plsh"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+						</container>
+					</container>
+					
+					<!--DEFENDING-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+							
+							<widget class="text" font="title" size="large" colour="fg red darker" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="337861" type="use" value="Defending"/>
+							</widget>
+					
+							<!--AERIAL-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg red darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="492252" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227782" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pbra"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227818" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Phea"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="-1"/>
+												
+							</container>
+											
+							<!--POSITIONING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg red darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227886" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227801" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227838" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pmar"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227886" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppsn"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+															
+							<!--TACKLING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg red darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227902" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227772" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pagg"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="248654" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcnt"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227902" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptac"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+					
+						</container>
+					</container>
+																																	
+				</container>
+								
+			</container>
+									
+			<!--POSSESSION & PHYSICAL-->
+			<container default_height="234">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+				<container class="horizontal_adaptive_container" gap="8" mode="dont_distribute">
+								
+					<!--POSSESSION-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+						
+							<widget class="text" font="title" size="large" colour="fg blue darker" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="319531" type="use" value="Possession"/>
+							</widget>
+									
+							<!--BALL CONTROL-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="492251" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227805" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pdri"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227894" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pfrs"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+							<!--CROSSING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227798" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227798" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcro"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1"/>
+												
+							</container>
+												
+							<!--PASSING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227881" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227881" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppas"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="230023" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcre"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+						
+							<!--SET PIECES-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="468242" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227896" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcor"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227892" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pfrk"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="294272" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppen"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+						
+						</container>
+					</container>
+					
+					<!--PHYSICAL-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+						
+							<widget class="text" font="title" size="large" colour="fg" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="439384" type="use" value="Phsyical"/>
+							</widget>
+					
+							<!--AGILITY-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227774" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227774" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pagi"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227780" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pbal"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="-1"/>
+												
+							</container>
+							
+							<!--ENDURANCE-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="467458" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="337907" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pnft"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227898" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Psta"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227912" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pwkr"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+							<!--QUICKNESS-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="308890" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227769" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pacc"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227879" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppac"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="-1"/>
+												
+							</container>
+							
+							<!--STRENGTH-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227900" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="448761" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pjum"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227900" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pstr"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1"/>
+												
+							</container>
+					
+						</container>
+					</container>
+					
+				</container>
+				
+			</container>
+
+			<!--MISCELLANEOUS-->
+			<container class="contrast_box" red_replacement="bg int" default_height="56">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+				<!--MISCELLANEOUS-->
+				<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute">
+				
+					<widget class="label" font="title" alignment="left,centre_y" colour="gimn2" size="large" default_width="335">
+						<translation id="text" type="use" translation_id="395029" value="" />
+					</widget>
+					
+					<container default_width="-1"/>
+					<container default_width="-1"/>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="18">
+							<translation id="text" type="use" translation_id="227803" value="" />
+						</widget>
+						
+						<widget class="attribute_bar" default_height="22">
+							<record id="object_property" get_property="Pdet"/>
+						</widget>
+					
+					</container>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="18">
+							<translation id="text" type="use" translation_id="230010" value="" />
+						</widget>
+						
+						<widget class="attribute_bar" default_height="22">
+							<record id="object_property" get_property="Pinf"/>
+						</widget>
+					
+					</container>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="18">
+							<translation id="text" type="use" translation_id="227910" value="" />
+						</widget>
+						
+						<widget class="attribute_bar" default_height="22">
+							<record id="object_property" get_property="Ptwr"/>
+						</widget>
+					
+					</container>
+									
+				</container>
+			
+			</container>
+							
+		</container>
+		
+		<!--GOALKEEPER ATTRIBUTES-->
+		<container class="vertical_adaptive_container" gap="8" mode="dont_distribute">
+			<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+			
+			<!--GOALKEEPING-->
+			<container default_height="186">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								
+				<container class="horizontal_adaptive_container" gap="8" mode="dont_distribute">
+				
+					<!--GOALKEEPING-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+						
+							<widget class="text" font="title" size="large" colour="goalkeeper_line" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="337927" type="use" value="Goalkeeping"/>
+							</widget>
+						
+							<!--DISTRIBUTION LONG-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="247512" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="252481" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pkic"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="252536" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pthr"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="-1"/>
+								
+								<container default_width="24"/>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+						
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="492254" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227791" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcom"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227801" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227886" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppsn"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+							<!--REACTIONS-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="492253" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227776" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pant"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227916" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcnt"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227888" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pref"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="24"/>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+						
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="492255" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227914" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcmp"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227816" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Phan"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+							<!--SWEEPING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="492256" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="255275" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcoa"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227861" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pooo"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227890" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Prou"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="24"/>
+								<container default_width="110"/>
+								<container default_width="-1"/>
+								<container default_width="-1"/>
+								<container default_width="-1"/>
+												
+							</container>
+							
+						</container>
+					</container>
+																																						
+				</container>
+								
+			</container>
+									
+			<!--POSSESSION & PHYSICAL-->
+			<container default_height="234">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+				<container class="horizontal_adaptive_container" gap="8" mode="dont_distribute">
+								
+					<!--POSSESSION-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+						
+							<widget class="text" font="title" size="large" colour="fg blue darker" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="319531" type="use" value="Possession"/>
+							</widget>
+									
+														
+							<!--CROSSING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227798" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227798" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcro"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1"/>
+												
+							</container>
+												
+							<!--PASSING-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227881" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227881" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppas"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227904" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="230023" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcre"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+						
+							<!--SET PIECES-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg blue darker" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="468242" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227896" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pcor"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227892" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pfrk"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="294272" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppen"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+						
+						</container>
+					</container>
+					
+					<!--PHYSICAL-->
+					<container class="contrast_box" red_replacement="bg int" default_width="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="4" mode="dont_distribute">
+						
+							<widget class="text" font="title" size="large" colour="fg" alignment="centre_x,centre_y" height="22">
+								<translation id="text" translation_id="439384" type="use" value="Phsyical"/>
+							</widget>
+					
+							<!--AGILITY-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227774" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227774" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pagi"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227780" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pbal"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="-1"/>
+												
+							</container>
+							
+							<!--ENDURANCE-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="467458" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="337907" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pnft"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227898" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Psta"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227912" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pwkr"/>
+									</widget>
+								
+								</container>
+												
+							</container>
+							
+							<!--QUICKNESS-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="308890" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227769" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pacc"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227879" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Ppac"/>
+									</widget>
+								
+								</container>
+								
+								<container default_width="-1"/>
+												
+							</container>
+							
+							<!--STRENGTH-->
+							<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute" height="44">
+							
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="110">
+								
+									<container height="22"/>
+									
+									<widget class="label" font="title" alignment="left,centre_y" colour="fg" size="10" default_height="22">
+										<translation id="text" type="use" translation_id="227900" value="" />
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="448761" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pjum"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+								
+									<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="22">
+										<translation id="text" type="use" translation_id="227900" value="" />
+									</widget>
+									
+									<widget class="attribute_bar" default_height="22">
+										<record id="object_property" get_property="Pstr"/>
+									</widget>
+								
+								</container>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1"/>
+												
+							</container>
+					
+						</container>
+					</container>
+					
+				</container>
+				
+			</container>
+
+			<!--MISCELLANEOUS-->
+			<container class="contrast_box" red_replacement="bg int" default_height="56">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+				<!--MISCELLANEOUS-->
+				<container class="horizontal_adaptive_container" gap="2" mode="dont_distribute">
+				
+					<widget class="label" font="title" alignment="left,centre_y" colour="gimn2" size="large" default_width="335">
+						<translation id="text" type="use" translation_id="395029" value="" />
+					</widget>
+					
+					<container default_width="-1"/>
+					<container default_width="-1"/>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="18">
+							<translation id="text" type="use" translation_id="227803" value="" />
+						</widget>
+						
+						<widget class="attribute_bar" default_height="22">
+							<record id="object_property" get_property="Pdet"/>
+						</widget>
+					
+					</container>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="18">
+							<translation id="text" type="use" translation_id="230010" value="" />
+						</widget>
+						
+						<widget class="attribute_bar" default_height="22">
+							<record id="object_property" get_property="Pinf"/>
+						</widget>
+					
+					</container>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="label" font="text" alignment="centre_x,bottom" size="8" colour="fg" default_height="18">
+							<translation id="text" type="use" translation_id="227910" value="" />
+						</widget>
+						
+						<widget class="attribute_bar" default_height="22">
+							<record id="object_property" get_property="Ptwr"/>
+						</widget>
+					
+					</container>
+									
+				</container>
+			
+			</container>
+							
+		</container>
+
+</panel>

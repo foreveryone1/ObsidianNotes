@@ -1,0 +1,63 @@
+<panel>
+	<layout class="arrange_vertical_attachment" alignment="top,extend" gap="0" offset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+	<widget class="table" id="tntb" layout="-1,85,20,30" mode="fill_rows" auto_size_rows="true" auto_size="vertical" row_spacing="0">
+		<list id="column_widget_properties">			
+			<record index="0" size="14" alignment="centre_x,centre_y"/>
+			<record index="1" alignment="right"/>
+			<record index="2" alignment="right,centre_y"/>
+			<record index="3" alignment="right,centre_y" size="14"/>
+		</list>
+		<list id="column_table_properties">
+			<record index="1" alignment="right"/>
+			<record index="3" right="8"/>
+		</list>
+
+		<!--HOME TEAM NAME-->
+		<widget class="text" id="mitn" col="0" row="0" height="60" font="title" colour="text"/>
+		
+		<!--HOME TEAM LOGO-->
+		<container height="60" width="60" col="1" row="0">
+			<widget class="match_team_logo_picture" id="TeLo" scale_picture="true" keep_aspect_ratio="true" image_alignment="left" >
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0,0,0,0"/> 
+			</widget>
+		</container>
+		
+		<widget class="text" id="mita" spec="title" col="2" row="0" font="text" size="8" colour="text">
+			<translation id="text" type="new" value="0"/>
+		</widget>
+		
+		<!--HOME TEAM SCORE-->
+		<widget class="text" id="mits" col="3" row="0" font="title" colour="text">
+			<translation id="text" type="new" value="0"/>
+		</widget>
+
+	</widget>
+	
+	<!--HOME TEAM COLOUR DIVIDER-->
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="4">
+		
+		<widget class="picture" id="bkcl" height="4" file="boxes/custom/solid/paper" scale_picture="true" rthr="68" default_width="-1"/>
+		<container default_width="125"/>
+		
+	</container>
+  
+	<!--HOME TEAM INCIDENTS-->
+	<widget class="table" id="miit" layout="16,-1,16,125" mode="fill_rows" row_spacing="0" auto_size_rows="false" fixed_size_rows="true" row_height="20">
+
+		<list id="column_widget_properties">
+			<record index="0" alignment="centre" auto_size="vertical"/>
+			<record index="1" spec="text" font="text" auto_size="vertical" multiline="true" auto_size_minimum_height="20" size="8" alignment="centre_x,centre_y"/>
+			<record index="2" alignment="centre" auto_size="vertical"/>
+			<record index="3" alignment="centre" auto_size="vertical"/>
+		</list>
+
+		<list id="column_table_properties">
+			<record index="0" id="icon" alignment="centre"/>
+			<record index="1" id="text"/>
+		</list>
+		<record id="default_properties" spec="text"/>
+	</widget>
+
+</panel>

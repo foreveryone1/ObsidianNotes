@@ -1,0 +1,24 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container>
+		<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="-40" />
+
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+
+			<!--table listing the major clubs-->
+			<widget class="client_object_list_table" id="ctbl" mode="fill_rows, keyboard" row_height="40">
+				<record id="viewed_property_ids">
+					<record id="Ttea" navigation_focus_target="true" size="12" alignment="centre_x,centre_y"/>
+				</record>
+			</widget>
+
+			<widget class="label" id="nocl" alignment="left,top">
+				<translation id="text" translation_id="300913" type="use" value="No Clubs.[COMMENT: label shown when a nation doesn't have any club teams]" />
+			</widget>
+		</container>
+	</container>
+
+</panel>

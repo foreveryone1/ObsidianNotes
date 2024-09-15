@@ -1,0 +1,134 @@
+<panel width="1200" height="768">
+	<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_offset="5" horizontal_inset="10" />
+
+	<translation id="title" translation_id="335274" type="use" value="Responsibilities[COMMENT: Manager main/top menu: national team options when team name is not visible]" />
+
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="4" horizontal_inset="10" />
+
+		<widget class="text" font="text" size="normal" auto_size="vertical" colour="faded text" default_focus="true">
+			<translation id="text" translation_id="491896" type="use" value="Delegating tasks will hand over control to a relevant member of staff. The Responsibilities area allows areas of control to be changed, tasks delegated in finer detail, or assigning staff members to specific areas.[COMMENT: AREA: Game Start; SUB-AREA: Introduction to Responsibilities; FR-BN: n/a; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: this happens outside of a saved game now so probably can't be feminised]" />
+		</widget>
+
+		<container id="tabc" class="tabbed_container" save_session_state="true" save_default_state="true" default_item="summ">
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+			<container id="ovrc">
+				<translation id="title" translation_id="282224" type="use" value="Overall[COMMENT: match analysis panel; title header]" />/&gt;
+				<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="10" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<widget class="table" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" id="ovrt">
+					<list id="column_table_properties">
+						<record id="txt1">
+							<record id="widget_info" class="icon_button" auto_size="vertical">
+								<string id="show_button_appearance" value="false" />
+								<string id="icon" value="icons/16px/bullet" />
+								<string id="colour" value="text" />
+							</record>
+						</record>
+						<record id="txt2">
+							<record id="widget_info" class="icon_button" auto_size="vertical">
+								<string id="show_button_appearance" value="false" />
+								<string id="icon" value="icons/16px/bullet" />
+								<string id="colour" value="text" />
+							</record>
+						</record>
+					</list>
+				</widget>
+
+				<widget class="label" id="strl" font="text" size="normal" auto_size="vertical" colour="faded text" hidden="true">
+					<translation id="text" translation_id="420607" type="use" value="* Some tasks in this category are not part of your responsibilities[COMMENT: FR 16204]" />
+				</widget>
+
+			</container>
+
+			<!--Staff-->
+			<container id="staf">
+				<translation id="title" translation_id="334053" type="use" value="Staff Recruitment[COMMENT: team settings panel, staff recruitment instructions section]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="strt" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+			</container>
+
+			<!--Scouting-->
+			<container id="scou">
+				<translation id="title" translation_id="391265" type="use" value="Scouting[COMMENT: editor club responsibilities section]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="scot" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+			</container>
+
+			<!--Transfers & Contracts-->
+			<container id="trco">
+				<translation id="title" translation_id="420608" type="use" value="Transfers and Contracts[COMMENT: FR 16204]" />
+				<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="10" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<widget class="table" id="tcot" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="5" />
+			</container>
+
+			<!--Media-->
+			<container id="medi">
+				<translation id="title" translation_id="482707" type="use" value="Media[COMMENT:AREA: Responsibilities; SUB - AREA: Responsibility Panel; FR : 28191; TONE: Formal; CHARLIMIT: None]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="medt" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+			</container>
+
+			<!--Training-->
+			<container id="trai">
+				<translation id="title" translation_id="391338" type="use" value="Training[COMMENT: editor club responsibilities section]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="trat" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+
+			</container>
+
+			<!--Tactics-->
+			<container id="tacc">
+				<translation id="title" translation_id="482709" type="use" value="Tactics[COMMENT:AREA: Responsibilities; SUB - AREA: Responsibility Panel; FR : 28191; TONE: Formal; CHARLIMIT: None]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="tact" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+			</container>
+
+			<!--Match-->
+			<container id="matc">
+				<translation id="title" translation_id="482710" type="use" value="Match Day[COMMENT:AREA: Responsibilities; SUB - AREA: Responsibility Panel; FR : 28191; TONE: Formal; CHARLIMIT: None]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="matt" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+			</container>
+
+			<!--Set Pieces-->
+			<container id="spcs">
+				<translation id="title" translation_id="229307" type="use" value="Set Pieces[COMMENT - training category]" />
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0,10" />
+
+				<widget class="table" id="spct" layout="-1, -1" row_height="28" fixed_size_rows="true" auto_size_rows="false" row_spacing="0" />
+			</container>
+
+		</container>
+
+	</container>
+
+	<container id="btns">
+		<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="fill" horizontal_offset="0" vertical_offset="0" />
+
+		<container>
+			<attachment_group class="button_arrangement_right" />
+
+			<widget class="primary_icon_tick_button" id="ok" hidn="true">
+				<translation id="text" translation_id="229829" type="use" value="Ok" />
+			</widget>
+			<widget class="icon_button" id="canc" hidn="true" auto_size="all">
+				<translation id="text" translation_id="229828" type="use" value="Cancel" />
+			</widget>
+		</container>
+
+
+	</container>
+
+</panel>

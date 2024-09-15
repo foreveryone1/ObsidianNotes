@@ -1,0 +1,45 @@
+﻿<panel>
+	<list id="properties_to_forward">
+		<record get_property="hicb" target="canc" set_property="hidn"/>
+	</list>	
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<container class="vertical_adaptive_container" gap="4" mode="distribute_equally" navigation_container="true">
+
+		<widget class="table" id="mstn" layout="-1,-2,-1" mode="printable" auto_size_rows="true" fixed_size_rows="false" row_spacing="0" navigation_container="true" default_height="-1">
+			<list id="column_widget_properties">
+				<record indx="0" alignment="left,centre_y"  />
+				<record indx="1" alignment="centre"  />
+				<record indx="2" alignment="right,centre_y"  />
+			</list>
+
+			<list id="column_table_properties">
+				<record indx="0" id="home" sort_disabled="true" left="4" />
+				<record indx="1" id="labl" sort_disabled="true" />
+				<record indx="2" id="away" sort_disabled="true" right="5" />
+			</list>
+		</widget>
+		
+		<container priority="2" default_height="28">
+			<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="right, extend"/>
+
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="left"/>
+
+				<widget class="button" click_event="mcss" auto_size="all">
+					<translation id="text" translation_id="333760" type="use" value="Customise[COMMENT:Match screen; match stats panel; button text for customising visible match stats]" />
+				</widget>
+
+				<widget class="button" id="mcsu" click_event="mcsu" auto_size="all">
+					<translation id="text" translation_id="230251" type="use" value="Undo" />
+				</widget>
+
+				<widget class="button" id="mcsr" click_event="mcsr" auto_size="all">
+					<translation id="text" translation_id="344717" type="use" value="Revert" />
+				</widget>
+			</container>
+		</container>
+
+	</container>
+
+</panel>

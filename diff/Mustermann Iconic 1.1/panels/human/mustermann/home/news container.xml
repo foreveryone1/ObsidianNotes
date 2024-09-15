@@ -1,0 +1,13 @@
+<panel navigation_container="true">
+	<container id="SUBP" class="inner_box_no_margin" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+	
+	<!-- Make sure everything is late loading! -->
+
+	<widget class="competition_news_panel" file="human/mustermann/home/news/news details" id="mnew" section="Pnws" late_loading="true" valid_for_unemployed_manager="true">
+		<translation id="title" translation_id="308646" type="use" value="News" />
+	</widget>
+	
+</panel>

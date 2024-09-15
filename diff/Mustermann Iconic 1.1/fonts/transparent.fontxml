@@ -1,0 +1,19 @@
+<record>
+<!-- custom font for the notable events text as values are hardcoded, gradient overrides default colours, alpha allows some colour through -->
+
+	<string id="file_name" value="Montserrat-Regular.ttf"/>
+	<real id="font_size_xxsmall" value="6.7" /> <!-- 9px -->
+	<real id="font_size_xsmall" value="8.1" /> <!-- 11px -->
+	<real id="font_size_small" value="8.8" /> <!-- 12px -->
+	<real id="font_size_normal" value="9.7" /> <!-- 13px -->
+	<real id="font_size_large" value="11.2" /> <!-- 15px -->
+	<real id="font_size_xlarge" value="13.7" /> <!-- 18px -->
+	<real id="font_size_xxlarge" value="16.6" /> <!-- 22px -->
+
+
+	<integer id="fill_colour_red" value="0" />
+	<integer id="fill_colour_green" value="0" />
+	<integer id="fill_colour_blue" value="0" />
+	<integer id="fill_colour_alpha" value="0" />
+	
+</record>

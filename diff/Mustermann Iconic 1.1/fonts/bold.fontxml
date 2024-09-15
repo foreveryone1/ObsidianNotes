@@ -1,0 +1,13 @@
+<record>
+	<string id="file_name" value="Montserrat-SemiBold.ttf"/>
+
+  <real id="font_size_xxsmall" value="6" /> <!-- 9px -->
+  <real id="font_size_xsmall" value="6"/> <!-- 11px -->
+  <real id="font_size_small" value="8"/> <!-- 12px -->
+  <real id="font_size_normal" value="10"/> <!-- 13px -->
+  <real id="font_size_large" value="12"/> <!-- 15px -->
+  <real id="font_size_xlarge" value="14"/> <!-- 18px -->
+  <real id="font_size_xxlarge" value="16"/> <!-- 22px -->
+
+  <real id="extra_height" value="2" /> 
+</record>

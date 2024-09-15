@@ -1,0 +1,18 @@
+<panel>
+	<layout class="fit_children_attachment" alignment="vertical,fill" offset="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal,top" apply_to_children="true" inset="0" />
+
+	<widget class="label" id="nopm" alignment="left,top" hidden="true"/>
+
+	<!-- preferred moves table -->
+	<widget class="table" id="pref" mode="fill_rows" layout="-1" auto_size_rows="true" fixed_size_rows="false" auto_size="vertical">
+		<list id="column_widget_properties">
+			<record index="0" alignment="centre" spec="text" colour="fg" auto_size="vertical"/>
+		</list>
+
+		<list id="column_table_properties">
+			<record index="0" left="0" top="3" colour="fg" sort_disabled="true"/>
+		</list>
+	</widget>
+
+</panel>

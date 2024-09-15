@@ -1,0 +1,452 @@
+﻿<panel>
+	<!-- this controls if we restrict the subs height to starter height or not in tables-->
+	<boolean id="RsuH" value="true"/>
+
+	<set_var name="sheet_text_colour">
+		<symbol value="text" />
+	</set_var>
+
+	<set_var name="name_view_props">
+		<record>
+			<var id="colour" name="sheet_text_colour" />
+			<boolean id="person_is_player" value="true" />
+			<boolean id="disable_link" value="true" />
+			<boolean id="info_popup_enabled" value="false" />
+			<boolean id="links_enabled_in_popup" value="false" />
+			<string id="format" value="[%person#1-bold_surname]" />
+			<string id="alternate_format" value="[%person#1-initial_bold_surname]" />
+		</record>
+	</set_var>
+
+	<set_var name="captain_view_props">
+		<flags id="appearance" value="buttons/text/button" />
+		<flags id="alignment" value="centre" />
+		<flags id="auto_size" value="all" />
+		<translation id="text" translation_id="515078" type="use" value="(c)[COMMENT: AREA: Team lineups in the match; SUB-AREA: Captaincy; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: abbreviation for Captain; same as 260925 but with parentheses]" />
+		<var id="colour" name="sheet_text_colour" />
+		<integer id="width" value="22" />
+	</set_var>
+
+	<set_var name="home_views">
+		<list>
+			<record id="deta">
+				<record id="view">
+														
+					<record id="Psnu" alignment="right,centre_y" width="22">
+						<var id="colour" name="sheet_text_colour" />
+					</record>
+					
+					<record id="PisC" width="22" alignment="centre_x,centre_y">
+						<var id="prop" name="captain_view_props" />
+					</record>
+					
+					<record id="Pnam" alignment="left,centre_y" size="14" info_popup_enabled="false" navigation_focus_target="false">
+						<var id="prop" name="name_view_props" />
+					</record>
+					
+					<record id="PtsL" hidden="true">
+					</record>
+
+				</record>
+			</record>
+		</list>
+	</set_var>
+	
+	<set_var name="home_sub_views">
+		<list>
+			<record id="deta">
+				<record id="view">
+														
+					<record id="Pnam" alignment="left,centre_y,auto_fit" info_popup_enabled="false" navigation_focus_target="false">
+						<var id="prop" name="name_view_props" />
+					</record>
+
+					<record id="PtsL" hidden="true">
+					</record>
+
+				</record>
+			</record>
+		</list>
+	</set_var>
+
+	<set_var name="away_views">
+		<list>
+			<record id="deta">
+				<record id="view">
+
+					<record id="Psnu" alignment="right,centre_y" width="22">
+						<var id="colour" name="sheet_text_colour" />
+					</record>
+
+					<record id="PisC" width="22" alignment="centre_x,centre_y">
+						<var id="prop" name="captain_view_props" />
+					</record>
+
+					<record id="Pnam" alignment="left,centre_y" size="14" info_popup_enabled="false" navigation_focus_target="false">
+						<var id="prop" name="name_view_props" />
+					</record>
+
+					<record id="PpsC" hidden="true">
+					</record>
+
+
+				</record>
+			</record>
+		</list>
+	</set_var>
+	
+	<set_var name="away_sub_views">
+		<list>
+			<record id="deta">
+				<record id="view">
+
+					<record id="Pnam" alignment="left,centre_y,auto_fit" info_popup_enabled="false" navigation_focus_target="false">
+						<var id="prop" name="name_view_props" />
+					</record>
+
+					<record id="PpsC" hidden="true">
+					</record>
+
+
+				</record>
+			</record>
+		</list>
+	</set_var>
+
+	<set_var name="players_table">
+		<widget class="tactic_player_list_table" database_table_type="1" mode="fill_rows,hide_headings" column_spacing="0">
+
+			<boolean id="auto_size_rows" value="false" />
+			<boolean id="fixed_size_rows" value="true" />
+			<integer id="row_height" value="30" />
+
+			<list id="Spid">
+				<integer value="PpsC" />
+			</list>
+
+			<list id="default_sort_column">
+				<integer value="PtsL" />
+			</list>
+
+			<!--default view-->
+			<flags id="default_view" value="deta" />
+
+		</widget>
+	</set_var>
+	
+	<set_var name="subs_table">
+		<widget class="tactic_player_list_table" database_table_type="1" mode="fill_rows,hide_headings" column_spacing="0">
+
+			<boolean id="auto_size_rows" value="false" />
+			<boolean id="fixed_size_rows" value="true" />
+			<integer id="row_height" value="14" />
+
+			<list id="Spid">
+				<integer value="PpsC" />
+			</list>
+
+			<list id="default_sort_column">
+				<integer value="PtsL" />
+			</list>
+
+			<!--default view-->
+			<flags id="default_view" value="deta" />
+
+		</widget>
+	</set_var>
+
+	<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true"/>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="dont_distribute">
+
+		<container default_height="-1" priority="3"/>
+		
+		<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="702" priority="1">
+			
+			<container default_width="-1" priority="5"/>
+			
+			<!--HOME-->
+			<container default_width="458" priority="1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+								
+				<container id="tsHL" class="contrast_box_no_margin" appearance="mustermann/teamsheet/background" blue_replacement="black" green_replacement="black">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<!--RIGHT OVERLAY-->
+					<widget class="picture" file="mustermann/teamsheet/right overlay" image_alignment="right,top" red_replacement="black"/>
+					
+					<!--BADGE-->
+					<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0">
+					
+						<container default_width="224"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="180">
+						
+							<container default_height="205"/>
+							
+							<widget class="object_portrait_picture" id="htpc" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x, centre_y" default_height="180"/>
+							
+							<container default_height="-1"/>
+						
+						</container>
+						
+						<container default_width="-1"/>
+					
+					</container>
+
+					<!--MIDDLE OVERLAY-->
+					<widget class="picture" file="mustermann/teamsheet/middle overlay" image_alignment="centre_x,centre_y" red_replacement="black"/>
+					
+					<!--STARTING XI-->
+					<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0">
+					
+						<container width="16"/>
+					
+						<container default_width="-1">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+					
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container height="16"/>
+							
+								<widget class="client_object_label" id="htlb" font="title" size="24" style="semibold" colour="text" alignment="left,centre_y,can_scale" disable_link="true" height="36"/>
+								
+								<widget class="text" default_width="-1" font="title" colour="fg" alignment="left,centre_y" size="10" height="22">
+									<translation id="text" translation_id="515081" type="use" value="Official Team Sheet" />
+								</widget>
+								
+								<container class="client_object_viewer_xml_panel" id="homm" height="30">
+									<attachment_group class="vertical_arrange_autosize" vertical_offset="0" />
+
+									<widget class="person_button" alignment="left" disable_link="true" navigation_focus_target="false" auto_size="vertical" colour="text" size="14">
+										<translation id="format" translation_id="515083" type="use" value="Manager: [%person#1-bold_surname][COMMENT: AREA: Match; SUB-AREA: Pre match flow; FR: 30889; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: bold_surname is a tag that prints the person's first name and surname, but puts the latter into bold text for presentation]" />
+										<translation id="alternate_format" translation_id="515084" type="use" value="Manager: [%person#1-initial_bold_surname][COMMENT: AREA: Match; SUB-AREA: Pre match flow; FR: 30889; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: bold_surname is a tag that prints the person's first name and surname, but puts the latter into bold text for presentation, this one changes the first name to an initial, like F.Lampard]" />
+										<record id="object_property" get_property="TMnR" set_property="valu" />
+									</widget>
+
+								</container>
+								
+								<container height="8"/>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="341">
+								
+									<container class="match_team_squad_panel" id="ht1t" file="" include_starting_xi="false" include_starting_subs="false" include_current_subs="false" auto_size="vertical" should_add_bullets="false" sast="true" default_width="282">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+										<list id="properties_to_forward">
+											<record get_property="viws" target="pltb" />
+											<record get_property="rhNS" target="pltb" />
+										</list>
+
+										<var id="viws" name="home_views" />
+
+										<var id="pltb" name="players_table"/>
+
+									</container>
+									
+									<container default_width="-1"/>
+									
+								</container>
+								
+								<container height="8"/>
+								
+								<widget class="text" alignment="left,centre_y" font="label" size="medium" height="22">
+									<translation id="text" translation_id="318313" type="use" value="Substitutes[COMMENT: subs bench panel; subsection box which will list any designated substitutes]" />
+									<var id="colour" name="sheet_text_colour" />
+								</widget>
+													
+								<container class="match_team_squad_panel" id="htst" file="" include_current_xi="false" include_starting_xi="false" include_starting_subs="false" should_add_bullets="false" default_height="-1">
+									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+									<list id="properties_to_forward">
+										<record get_property="viws" target="pltb" />
+										<record get_property="rhNS" target="pltb" />
+									</list>
+
+									<var id="viws" name="home_sub_views" />
+
+									<var id="pltb" name="subs_table"/>
+
+								</container>
+								
+								<container default_height="16"/>
+							
+							</container>
+						</container>
+						
+						<container default_width="16"/>
+						
+					</container>
+												
+				</container>
+								
+			</container>
+																			
+			<!--this will have the reaction in min res-->
+			<container class="contrast_box" red_replacement="bg lighter" colour="title" width="412" priority="3">
+				<attachment_group class="vertical_arrange" vertical_layout="16,22,22,-1" vertical_gap="0" vertical_offset="0" horizontal_inset="0"/>
+								
+				<container>
+					<attachment_group class="horizontal_arrange_autosize"  horizontal_gap="4" />
+					<layout class="centre_in_parent_attachment" alignment="horizontal" />
+					<widget class="game_formatted_label" id="date" alignment="right, centre_y" font="text" size="small" colour="black" auto_size="horizontal">
+						<translation id="format" translation_id="515082" type="use" value="[%date#2-long]. Kick-off [%date#3-time][COMMENT: AREA: Match; SUB-AREA: Pre match flow; FR: 30889; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: text for the kick off date and time]" />
+						<record id="object_property">
+							<list id="get_properties">
+								<record get_property="fxdt" set_property="var2" />
+								<record get_property="fxdt" set_property="var3" />
+							</list>
+						</record>
+					</widget>					
+
+				</container>
+				
+				<widget class="stadium_button" font="text" alignment="centre_x, centre_y" size="small" icon_enabled="false" disable_link="true" id="stad" navigation_focus_target="false">
+					<var id="colour" name="sheet_text_colour" />
+					<record id="object_property" get_property="stad" set_property="valu" />
+				</widget>
+				
+				<widget class="person_button" alignment="centre" disable_link="true" navigation_focus_target="false" auto_size="vertical">
+					<var id="colour" name="sheet_text_colour" />
+					<translation id="format" translation_id="515085" type="use" value="Referee: [%person#1-bold_surname][COMMENT: AREA: Match; SUB-AREA: Pre match flow; FR: 30889; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: bold_surname is a tag that prints the person's first name and surname, but puts the latter into bold text for presentation]" />
+					<record id="object_property" get_property="FRef" set_property="valu" />
+				</widget>
+
+				<container class="scrolling_box">
+					<widget class="match_feed_panel" id="lfed" file="match/match feed panel team news reaction" />
+				</container>
+
+			</container>
+						
+			<!--AWAY-->
+			<container default_width="458" priority="1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+								
+				<container id="tsAL" class="contrast_box_no_margin" appearance="mustermann/teamsheet/background" blue_replacement="black" green_replacement="black">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<!--RIGHT OVERLAY-->
+					<widget class="picture" file="mustermann/teamsheet/right overlay" image_alignment="right,top" red_replacement="black"/>
+										
+					<!--BADGE-->
+					<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0">
+					
+						<container default_width="224"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="180">
+						
+							<container default_height="205"/>
+							
+							<widget class="object_portrait_picture" id="atpc" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x, centre_y" default_height="180"/>
+							
+							<container default_height="-1"/>
+						
+						</container>
+						
+						<container default_width="-1"/>
+					
+					</container>
+					
+					<!--MIDDLE OVERLAY-->
+					<widget class="picture" file="mustermann/teamsheet/middle overlay" image_alignment="centre_x,centre_y" red_replacement="black"/>
+					
+					<!--STARTING XI-->
+					<container class="horizontal_adaptive_container" mode="distribute_equally" gap="0">
+					
+						<container width="16"/>
+					
+						<container default_width="-1">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+					
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container height="16"/>
+							
+								<widget class="client_object_label" id="atlb" font="title" size="24" style="semibold" colour="text" alignment="left,centre_y,can_scale" disable_link="true" height="36"/>
+								
+								<widget class="text" default_width="-1" font="title" colour="fg" alignment="left,centre_y" size="10" height="22">
+									<translation id="text" translation_id="515081" type="use" value="Official Team Sheet" />
+								</widget>								
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="30">									
+								
+									<container class="client_object_viewer_xml_panel" id="awam" width="282">
+										<attachment_group class="vertical_arrange_autosize" vertical_offset="0" />
+
+										<widget class="person_button" alignment="left" disable_link="true" navigation_focus_target="false" auto_size="vertical" colour="text" size="14">
+											<translation id="format" translation_id="515083" type="use" value="Manager: [%person#1-bold_surname][COMMENT: AREA: Match; SUB-AREA: Pre match flow; FR: 30889; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: bold_surname is a tag that prints the person's first name and surname, but puts the latter into bold text for presentation]" />
+											<translation id="alternate_format" translation_id="515084" type="use" value="Manager: [%person#1-initial_bold_surname][COMMENT: AREA: Match; SUB-AREA: Pre match flow; FR: 30889; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: bold_surname is a tag that prints the person's first name and surname, but puts the latter into bold text for presentation, this one changes the first name to an initial, like F.Lampard]" />
+											<record id="object_property" get_property="TMnR" set_property="valu" />
+										</widget>
+
+									</container>
+									
+									<container default_width="-1"/>
+									
+								</container>
+								
+								<container height="8"/>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="341">
+								
+									<container class="match_team_squad_panel" id="at1t" file="" include_starting_xi="false" include_starting_subs="false" include_current_subs="false" auto_size="vertical" should_add_bullets="false" sast="true" default_width="282">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+										<list id="properties_to_forward">
+											<record get_property="viws" target="pltb" />
+											<record get_property="rhNS" target="pltb" />
+										</list>
+
+										<var id="viws" name="away_views" />
+
+										<var id="pltb" name="players_table"/>
+
+									</container>
+									
+									<container default_width="-1"/>
+									
+								</container>
+								
+								<container height="8"/>
+								
+								<widget class="text" alignment="left,centre_y" font="label" size="medium" height="22">
+									<translation id="text" translation_id="318313" type="use" value="Substitutes[COMMENT: subs bench panel; subsection box which will list any designated substitutes]" />
+									<var id="colour" name="sheet_text_colour" />
+								</widget>
+													
+								<container class="match_team_squad_panel" id="atst" file="" include_current_xi="false" include_starting_xi="false" include_starting_subs="false" should_add_bullets="false" default_height="-1">
+									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+									<list id="properties_to_forward">
+										<record get_property="viws" target="pltb" />
+										<record get_property="rhNS" target="pltb" />
+									</list>
+
+									<var id="viws" name="home_sub_views" />
+
+									<var id="pltb" name="subs_table"/>
+
+								</container>
+								
+								<container default_height="16"/>
+							
+							</container>
+						</container>
+						
+						<container default_width="16"/>
+						
+					</container>
+																
+				</container>
+								
+			</container>			
+			<container default_width="-1" priority="4"/>
+			
+		</container>
+		
+		<container default_height="-1" priority="2"/>
+
+	</container>
+
+</panel>

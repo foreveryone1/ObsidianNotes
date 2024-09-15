@@ -1,0 +1,12 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="4"/>
+
+	<boolean id="should_force_refresh" value="true" />
+
+	<!-- Cycle through different prozone stats -->
+	<container id="proz" class="animated_wipe_cycle_fade_container" property_to_set="objt">
+		<!-- Note: Interval is the number of seconds each stat will be visible for-->
+		<record id="widget_properties" class="property_list_viewer_xml_panel" file="competition/mustermann/competition overview/prozone details" interval="6"/>
+	</container>
+	
+</panel>

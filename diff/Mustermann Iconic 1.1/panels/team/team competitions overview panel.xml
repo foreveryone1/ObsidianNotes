@@ -1,0 +1,13 @@
+<panel inset="0">
+
+	<!-- Comp panels are added and layout is performed in code. Woohoo! -->
+	<widget class="label" id="ncmp" size="large" alignment="centre_x,top" hidden="true"/>
+
+	<!-- Be careful when changing this container it's tied directly to the internal behavior of the TEAM_COMPETITIONS_OVERVIEW_PANEL class -->
+	<container id="main" draw_vertical_dividers="false" >
+		<attachment_group class="horizontal_arrange" horizontal_alignment="fill" horizontal_gap="0"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+
+	</container>
+
+</panel>

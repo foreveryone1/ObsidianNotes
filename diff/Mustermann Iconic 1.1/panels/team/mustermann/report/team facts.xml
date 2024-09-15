@@ -1,0 +1,739 @@
+<panel>
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+	<boolean id="should_force_refresh" value="true" />
+
+	<container class="contrast_box" red_replacement="bg lighter" id="genr">
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+
+		<!-- state saving information (all widgets inside this container inherit these state saving properties) -->
+		<boolean id="save_session_state" value="true" />
+		<boolean id="sdst" value="true" />
+
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1"/>
+
+			<widget class="team_button">
+				<record id="object_property" get_property="objt" set_property="valu" />
+			</widget>
+			<widget class="comp_button">
+				<record id="object_property" get_property="Tdiv" set_property="valu" />
+			</widget>
+		</container>
+
+		<container class="scrolling_box" default_focus="true" navigation_container="true">
+			<container>
+				<attachment_group class="vertical_arrange_autosize" horizontal_inset="8" vertical_offset="0" vertical_gap="8"/>
+
+				<!-- youngest player -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284307" type="use" value="Youngest Player[COMMENT: heading; team_information_panel; the youngest player]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tyop" property="ynpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="ynpl" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dyop" property="Ynpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Ynpl" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- oldest player -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284308" type="use" value="Oldest Player[COMMENT: heading; team_information_panel; the oldest player]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tolp" property="olpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="olpl" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dolp" property="Olpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Olpl" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- average age -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284309" type="use" value="Average Age[COMMENT: heading; team_information_panel; average age of squad]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="T_aa" property="Cvag" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Cvag" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="D_aa" property="Avag" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Avag" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- shortest player -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284310" type="use" value="Shortest Player[COMMENT: heading; team_information_panel; the shortest player]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tshp" property="shpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="shpl" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dshp" property="Shpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Shpl" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- tallest player -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284311" type="use" value="Tallest Player[COMMENT: heading; team_information_panel; the tallest player]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Ttap" property="tlpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="tlpl" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dtap" property="Tlpl" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Tlpl" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- average height -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284312" type="use" value="Average Height[COMMENT: heading; team_information_panel; average height]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tahe" property="avhe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="avhe" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dahe" property="Avhe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Avhe" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- lightest player -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284313" type="use" value="Lightest Player[COMMENT: heading; team_information_panel; the lightest player]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tlip" property="ltwe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="ltwe" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dlip" property="Ltwe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Ltwe" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- heaviest player -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284314" type="use" value="Heaviest Player[COMMENT: heading; team_information_panel; the heaviest player]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Thep" property="hvwe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="hvwe" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dhep" property="Hvwe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Hvwe" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- average weight -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284315" type="use" value="Average Weight[COMMENT: heading; team_information_panel; average weight]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tavw" property="avwe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="avwe" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Davw" property="Avwe" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Avwe" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- top earner -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284316" type="use" value="Top Earner[COMMENT: heading; team_information_panel; the top earner]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Ttoe" property="tpea" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="tpea" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dtoe" property="Tpea" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Tpea" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- lowest earner -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284317" type="use" value="Lowest Earner[COMMENT: heading; team_information_panel; the lowest earner]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tloe" property="lwea" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="lwea" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dloe" property="Lwea" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Lwea" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- average wage -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284318" type="use" value="Average Wage[COMMENT: heading; team_information_panel; average wage]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tawa" property="avwg" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="avwg" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dawa" property="Avwg" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Avwg" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- highest caps -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284319" type="use" value="Highest Caps[COMMENT: heading; team_information_panel; highest caps]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Thca" property="hgcp" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="hgcp" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dhca" property="Hgcp" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Hgcp" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- average caps -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284320" type="use" value="Average Caps[COMMENT: heading; team_information_panel; average caps]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Taca" property="avcp" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="avcp" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Daca" property="Avcp" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Avcp" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- domestic player bias -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284321" type="use" value="Domestic Player Bias[COMMENT: heading; team_information_panel; percentage of players who are native to a team or competition]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tdpb" property="dmpb" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="dmpb" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Ddpb" property="Dmpb" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Dmpb" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- nationalities represented -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284322" type="use" value="Nationalities Represented[COMMENT: heading; team_information_panel; number of nationalities represented in a team or competition]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tndn" property="Tndn" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Tndn" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dndn" property="Dndn" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Dndn" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- current internationals -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284323" type="use" value="Current Internationals[COMMENT: heading; team_information_panel; current internationals]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Tcin" property="crin" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="crin" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dcin" property="Crin" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Crin" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- current u23 internationals -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284324" type="use" value="Current U23 Internationals[COMMENT: heading; team_information_panel; current under23 internationals]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="T23i" property="cu23" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="cu23" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="D23i" property="Cu23" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Cu23" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- current u21 internationals -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284325" type="use" value="Current U21 Internationals[COMMENT: heading; team_information_panel; current under21 internationals]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="T21i" property="cu21" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="cu21" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="D21i" property="Cu21" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Cu21" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- current u20 internationals -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284326" type="use" value="Current U20 Internationals[COMMENT: heading; team_information_panel; current under20 internationals]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="T20i" property="cu20" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="cu20" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="D20i" property="Cu20" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Cu20" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- current u19 internationals -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="284327" type="use" value="Current U19 Internationals[COMMENT: heading; team_information_panel; current under19 internationals]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-1" />
+						<!-- team value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="T19i" property="cu19" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="cu19" />
+								</record>
+							</widget>
+						</container>
+						<!-- division value -->
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="D19i" property="Cu19" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Cu19" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- manager tenure -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="316679" type="use" value="Manager Tenure[COMMENT: heading; team_information_panel; average caps]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-2,-3" />
+						<widget class="team_container_fact_text" id="Tmgt" property="Tmat" spec="text" auto_size="all">
+							<record id="object_property">
+								<integer id="get_property" value="Tmat" />
+							</record>
+						</widget>
+						<widget class="team_container_fact_text" spec="text" auto_size="all" alignment="right">
+							<translation id="text" translation_id="376514" type="use" value="Longest: [COMMENT: Team - Report - Facts]" />
+						</widget>
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Lmgt" property="Dmlt" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Dmlt" />
+								</record>
+							</widget>
+						</container>
+					</container>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-2,-3" />
+						<widget class="spacer" />
+						<widget class="team_container_fact_text" spec="text" auto_size="all" alignment="right">
+							<translation id="text" translation_id="376421" type="use" value="Average: [COMMENT: Team - Report - Facts]" />
+						</widget>
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dmgt" property="Dmat" spec="text" auto_size="vertical">
+								<record id="object_property">
+									<integer id="get_property" value="Dmat" />
+								</record>
+							</widget>
+						</container>
+					</container>
+				</container>
+				
+				<!-- players used (league) -->
+				<container>
+					<attachment_group class="vertical_arrange_autosize" horizontal_inset="0" vertical_offset="0" vertical_gap="0"/>
+					
+					<widget class="text" font="title" colour="faded text" auto_size="all">
+						<translation id="text" translation_id="395292" type="use" value="Players Used (League)[COMMENT: heading; team_information_panel; number players used in league this season]" />
+					</widget>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-2,-3" />
+						<widget class="team_container_fact_text" id="Cplu" property="TPus" spec="text" auto_size="all">
+							<record id="object_property">
+								<integer id="get_property" value="TPus" />
+							</record>
+						</widget>
+						<widget class="team_container_fact_text" spec="text" auto_size="all" alignment="right">
+							<translation id="text" translation_id="395275" type="use" value="Most: [COMMENT: Team - Report - Facts, this label is followed by the highest statistical achiever]" />
+						</widget>
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dmpw" property="Dmpu" spec="text" auto_size="vertical" />
+						</container>
+					</container>
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1,-2,-3" />
+						<widget class="spacer" />
+						<widget class="team_container_fact_text" spec="text" auto_size="all" alignment="right">
+							<translation id="text" translation_id="400478" type="use" value="Fewest: [COMMENT: Team - Report - Facts, this label is followed by the lowest statistical achiever]" />
+						</widget>
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_inset="0" />
+							<widget class="team_container_fact_text" id="Dlpw" property="Dlpu" spec="text" auto_size="vertical" />
+						</container>
+					</container>
+				</container>
+				
+			</container>
+		</container>
+		
+	</container>
+</panel>

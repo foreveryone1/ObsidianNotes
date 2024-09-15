@@ -1,0 +1,9 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	<container entity_layout_id="at00" id="at00" sub_group_id="0" navigation_container="true">
+		<translation id="title" translation_id="308600" type="use" value="Match Preparation[COMMENT - team screen section for match preparation]" />
+		<attachment_group class="vertical_arrange" vertical_offset="0" vertical_alignment="top, extend" vertical_gap="0" />
+
+		<widget class="match_focus_session_widget" file="team/mustermann/training/match focus" id="mchF" />
+	</container>
+</panel>

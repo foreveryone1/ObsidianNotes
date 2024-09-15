@@ -1,0 +1,42 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+		
+	<container>
+		<attachment_group class="horizontal_arrange" horizontal_layout="-1,-1,-1" vertical_alignment="vertical" horizontal_gap="8" horizontal_inset="0" vertical_inset="0" />
+
+		<container class="contrast_box" red_replacement="bg int">
+			<attachment_group class="vertical_arrange" vertical_layout="-3,-2" horizontal_alignment="horizontal" vertical_gap="0" horizontal_inset="0" vertical_inset="0" />
+
+			<widget class="text" id="trpl" alignment="centre_x,bottom"/>
+			
+			<widget class="label" colour="title" alignment="centre_x,top" font="title" size="8">
+				<translation id="text" translation_id="466502" type="use" value="Training Position[COMMENT: individual player training position header]" />
+			</widget>
+
+		</container>
+
+		<container class="contrast_box" red_replacement="bg int">
+			<attachment_group class="vertical_arrange" vertical_layout="-3,-2" horizontal_alignment="horizontal" vertical_gap="0" horizontal_inset="0" vertical_inset="0" />
+			
+			<widget class="text" id="trul" alignment="centre_x,bottom"/>
+
+			<widget class="label" colour="title" alignment="centre_x,top" font="title" size="8">
+				<translation id="text" translation_id="466503" type="use" value="Training Unit[COMMENT: individual player training unit header, a training unit is a smaller group of players in a training session]" />
+			</widget>			
+
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg int">
+			<attachment_group class="vertical_arrange" vertical_layout="-3,-2" horizontal_alignment="horizontal" vertical_gap="0" horizontal_inset="0" vertical_inset="0" />
+
+			<widget class="text" id="pWor" alignment="centre_x,bottom"/>
+
+			<widget class="label" colour="title" alignment="centre_x,top" font="title" size="8">
+				<translation id="text" translation_id="395255" type="use" value="Individual Training Workload[COMMENT - training schedule workload label on player training screen]" />
+			</widget>
+
+		</container>
+		
+	</container>			
+
+</panel>

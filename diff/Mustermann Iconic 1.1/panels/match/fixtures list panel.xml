@@ -1,0 +1,152 @@
+<panel save_session_state="true">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+	
+	<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+	
+		<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+			<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
+			
+				<container file="match/mustermann/schedule/fixture list" default_height="-1"/>
+				
+				<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally" default_height="30">
+				
+					<widget class="widget_popup_button" id="frpu" auto_size="all" appearance="buttons/subtle/normal/button" secondary_icon_enabled="false" needs_width="true" needs_height="true" default_width="44">
+						<string id="icon" value="icons/16px/staff respo" />
+						<string id="popup_alignment" value="centre_x, top" />
+						<string id="widget_type" value="group_responsibility_list_widget" />
+						<record id="widget_properties" file="team/friendly responsibility popup panel" width="850" height="200" />
+						<record id="modal_popup_properties" file="modal popup panel auto sized" />
+					</widget>
+														
+					<container class="horizontal_arrange_container" entity_layout_id="at00" alignment="left" id="fxaC" default_width="-2">
+						<global id="gap" name="ui.button_row_gap" />
+					</container>
+										
+					<widget class="icon_button" appearance="buttons/standard/flex/button" id="arrf" alignment="centre_x,centre_y" needs_width="true" default_width="150" red_replacement="mustermann3" colour="mustermanntext">
+						<string id="click_event" value="arrf" />
+						<translation id="hint" value="Click to arrange a friendly match" translation_id="247249" type="use" />
+						<translation id="text" value="Arrange Friendly" translation_id="242435" type="use" />
+					</widget>
+				
+				</container>
+			
+			</container>
+									
+		</container>
+		
+		<container class="fixture_details_panel" file="match/mustermann/schedule/fixture details" id="Deta" default_width="450"/>
+	
+	</container>
+	
+	<container class="arrange_friendly_panel" file="match/mustermann/schedule/arrange friendly" id="arfp" hidden="true" background_colour="bg"/>
+
+	<!--<list id="draw_order">
+		<record entity_layout_id="at13" />
+		<record entity_layout_id="at12" />
+		<record entity_layout_id="at11" />
+		<record entity_layout_id="at10" />
+		<record entity_layout_id="at07" />
+		<record entity_layout_id="at09" />
+		<record entity_layout_id="at08" />
+		<record entity_layout_id="at00" />
+		<record entity_layout_id="at14" />
+	</list>
+	<string id="friendly_appearance" value="tables/custom/fixtures/friendly/row" />
+	<string id="continental_appearance" value="tables/custom/fixtures/continental/row" />
+	<string id="cup_appearance" value="tables/custom/fixtures/cup/row" />
+	<widget class="spacer" id="main">
+		<boolean id="exclude_from_find" value="true" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</widget>
+	<widget class="spacer" id="fmin" embed_in_frame="true">
+		<boolean id="exclude_from_find" value="true" />
+		<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+	</widget>
+	<container class="arrange_friendly_panel" entity_layout_id="at13" id="arfp" hidden="true">
+		<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+		<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+		<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+		<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+	</container>
+	<container entity_layout_id="at12" id="fpc1">
+		<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+		<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+		<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+		<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+		<widget class="spacer" id="main">
+			<boolean id="exclude_from_find" value="true" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+		</widget>
+		<widget class="spacer" id="fmin" embed_in_frame="true">
+			<boolean id="exclude_from_find" value="true" />
+			<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+		</widget>
+		<container class="fixture_details_panel" entity_layout_id="at11" id="Deta" width="350">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+			<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" offset="-8" get_side="right" set_side="right" move_side="true" target="main" />
+		</container>
+		<container entity_layout_id="at10" alignment="left" id="at10">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+			<layout class="stick_to_object_attachment" id="align_bottom" offset="8" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" offset="-8" get_side="left" set_side="right" target="at11" />
+			<widget class="spacer" id="main">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+			<widget class="spacer" id="fmin" embed_in_frame="true">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+			</widget>
+			<container entity_layout_id="at07" file="match/fixtures list sub panel" id="at07">
+				<layout class="stick_to_object_attachment" id="align_top" offset="0" get_side="top" set_side="top" target="main" />
+				<layout class="stick_to_object_attachment" id="align_bottom" offset="-38" get_side="bottom" set_side="bottom" target="main" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			</container>
+			<container entity_layout_id="at09" id="at09" auto_size="vertical" height="30">
+				<string id="navigation_container" value="true" />
+				<layout class="stick_to_object_attachment" id="align_top" offset="0" get_side="bottom" set_side="top" move_side="true" target="at07" />
+				<layout class="stick_to_object_attachment" id="align_left" offset="8" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" offset="-8" get_side="right" set_side="right" target="main" />
+				<widget class="spacer" id="main">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+				</widget>
+				<widget class="spacer" id="fmin" embed_in_frame="true">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+				</widget>
+				<widget class="icon_button" entity_layout_id="at08" id="arrf" auto_size="horizontal" needs_width="true" controller_button="y_button">
+					<string id="click_event" value="arrf" />
+					<translation id="hint" value="Click to arrange a friendly match" translation_id="247249" type="use" />
+					<translation id="text" value="Arrange Friendly" translation_id="242435" type="use" />
+					<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" move_side="true" target="main" />
+				</widget>
+				<container class="horizontal_arrange_container" entity_layout_id="at00" alignment="left" id="fxaC">
+					<global id="gap" name="ui.button_row_gap" />
+					<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" offset="-157" get_side="left" set_side="right" target="at08" />
+				</container>
+				<widget class="widget_popup_button" entity_layout_id="at14" id="frpu" auto_size="all" appearance="buttons/subtle/normal/button" needs_width="true" needs_height="true">
+					<string id="icon" value="icons/16px/staff respo" />
+					<translation id="text" translation_id="335274" type="use" value="Responsibilities[COMMENT: Manager main/top menu: national team options when team name is not visible]" />
+					<string id="popup_alignment" value="centre_x, top" />
+					<string id="widget_type" value="group_responsibility_list_widget" />
+					<record id="widget_properties" file="team/friendly responsibility popup panel" width="850" height="200" />
+					<record id="modal_popup_properties" file="modal popup panel auto sized" />
+					<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" move_side="true" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right"  offset="-6" get_side="left" set_side="right" move_side="true" target="at08" />
+				</widget>
+			</container>
+		</container>
+	</container>-->
+	
+</panel>

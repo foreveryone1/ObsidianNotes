@@ -1,0 +1,108 @@
+<!-- GOAL OF THIS PANEL IS TO DISPLAY THE KITS AND LOGOS IN USE, THEN WHEN THE USER HOVERS OVER THEM, DISPLAY THE MATCH INFO. -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<!-- CONTAINER HOLDING STADIUM PICTURE -->
+	<container>
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" offset="0"/>
+
+		<!-- STADIUM PICTURE -->
+		<widget class="stadium_picture" id="STAp" file="none" transparency="0.3">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<record id="object_property" get_property="objt" set_property="objt"/>
+			<record id="default_properties" image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+			<widget class="picture" file="pictures/stadiums/stadium_bg" />
+			<widget class="picture" id="bkgd" file="pictures/stadiums/none_base" hidden="true"/>
+			<widget class="picture" id="STPC"/>
+		</widget>
+	</container>
+
+	<!-- CONTAINER HOLDING BADGES/KITS/ETC -->
+	<!-- CONTAINERS STRUCTURED THIS WAY TO ALLOW OVERLAP WITH BADGES AND MANAGER FACES -->
+	<container id="tbdg">
+		<layout class="stick_to_sides_attachment" alignment='all' apply_to_children="true" inset="8" offset='0'/>
+
+		<!-- CONTAINER HOLDING MATCH INFORMATION -->
+		<container>
+			<layout class="vertical_arrange" vertical_layout="-1,100,-1" vertical_gap="4"/>
+
+			<!-- NEXT MATCH AND DATE -->
+			<container id="titl">
+				<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+				<widget class="label" font="title" colour="fg" size="large" auto_size="vertical" alignment="centre">
+					<translation id="text" translation_id="247353" type="use" value="Next Match" />
+				</widget>
+				
+				<widget class="date_cell" id="FXTm" alignment="centre" auto_size="vertical" colour="text">
+					<string id="format" value="[%date#1-time]" />
+					<record id="object_property">
+						<integer id="get_property" value="fxdt" />
+					</record>
+				</widget>
+				
+				<!--stadium-->
+				<container height="22" id="zzzz">
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" horizontal_offset="0" horizontal_gap="10" vertical_offset="0" />
+
+					<widget class="stadium_button" id="stad" alignment="centre" auto_size="all" navigation_focus_target="false" text_colour="text">
+						<translation id="no_object_text" translation_id="227505" type="use" value="Unknown Stadium"/>
+						<string id="format" value="[%stadium#1-short]" />
+						<record id="auto_size_restrictions">
+							<string id="type" value="widget_percent" />
+							<string id="limit_type" value="maximum" />
+							<string id="orientation" value="horizontal" />
+							<string id="target" value="parent" />
+							<real id="value" value="0.54" />
+						</record>
+					</widget>
+				</container>
+				
+				<!--weather-->
+				<container height="22" id="zzzz">
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" horizontal_offset="0" horizontal_gap="10" vertical_offset="0" />
+					<container class="weather_indicator_panel_horizontal" id="weat" file="match/weather indicator horizontal auto sized" text_colour="text">
+						<boolean id="show_weather_label" value="true" />
+						<boolean id="show_weather_icon" value="true" />
+						<boolean id="show_temperature_on_icon" value="true" />
+						<boolean id="weather_icon_size" value="10" />
+					</container>
+				</container>
+				
+			</container>
+						
+			<!--TEAM NAMES AND INFO-->
+			<container priority="1">
+				<attachment_group class="vertical_arrange" alignment="centre_x,centre_y"  vertical_gap="0"/>
+				
+				<container height="100">
+					<layout class="horizontal_arrange" horizontal_layout="-1,100,-1" horizontal_gap="8"/>
+				
+					<widget class="team_button" id="htnt" font="title" size="20" colour="fg" alignment="right,centre_y" icon_enabled="false">
+						<record id="object_property" get_property="home"/>
+					</widget>
+					
+					<widget class="object_portrait_picture" id="logo" scale_picture="true" image_alignment="centre" height="100" width="100">
+						<record id="object_property" get_property="objt" set_property="objt" />
+					</widget>
+					
+					<widget class="team_button" id="atnt" font="title" size="20" colour="fg" alignment="left,centre_y" icon_enabled="false">
+						<record id="object_property" get_property="away"/>
+					</widget>
+				
+				</container>
+											
+				<!-- team relative positions -->
+				<!--<widget class="text" id="temp" auto_size="vertical" alignment="centre"/>-->
+									
+			</container>
+			
+			<container/>
+			
+		</container>
+		
+	</container>
+	
+</panel>

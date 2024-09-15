@@ -1,0 +1,8 @@
+<class class="dnf_chart" parent="position_role_duty_star_range_based_picture">
+    <list id="value_list">
+        <record min_value="1" max_value="5" file="mustermann/dna/dnf10" red_replacement="mustermann1" blue_replacement="mustermann0"/>
+		<record min_value="6" max_value="10" file="mustermann/dna/dnf20" red_replacement="mustermann3" blue_replacement="mustermann2"/>
+		<record min_value="11" max_value="15" file="mustermann/dna/dnf30" red_replacement="mustermann5" blue_replacement="mustermann4"/>
+		<record min_value="16" max_value="20" file="mustermann/dna/dnf40" red_replacement="gimn2" blue_replacement="gimn1"/>
+    </list>
+</class>

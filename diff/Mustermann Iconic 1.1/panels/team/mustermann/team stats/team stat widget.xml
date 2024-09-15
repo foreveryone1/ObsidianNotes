@@ -1,0 +1,49 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="5"/>
+	
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_width="5"/>
+
+		<container class="vertical_adaptive_container" gap="5" mode="distribute_equally" id="data" hidden="true" default_width="-1">
+
+			<widget class="person_button" id="plSP" alignment="centre_x,top" colour="text" size="14" default_height="25"/>
+						
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+			
+				<container default_width="50"/>
+				
+				<widget class="link_button" id="stat" alignment="centre_x,centre_y" show_button_appearance="false" size="14" default_width="-1"/>
+				
+				<container default_width="50"/>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="25">
+			
+				<container default_width="50"/>
+				
+				<container default_width="50">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+					<widget class="text" id="perc" alignment="centre" colour="faded text" auto_size="vertical"/>
+					<widget class="text" id="plaw" alignment="centre" colour="faded text" auto_size="vertical"/>
+				</container>
+				
+				<widget class="horizontal_percentage_bar" id="barw" default_width="-1"/>
+				
+				<container default_width="50"/>
+				
+			</container>
+			
+		</container>
+		
+		<container default_width="5"/>		
+		
+	</container>
+
+	<widget class="label" id="nodt" alignment="centre" hidden="true">
+		<translation id="text" translation_id="233089" type="use" value="-" />
+	</widget>
+
+</panel>

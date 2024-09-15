@@ -1,0 +1,21 @@
+<panel>
+	<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="4" horizontal_alignment="horizontal" horizontal_inset="0"/>
+
+	<!--bar chart-->
+	<widget class="horizontal_stacked_bar_chart" id="barc" height="10"/>
+
+	<!--labels-->
+	<container id="keys">
+		<layout class="centre_in_parent_attachment" alignment="vertical" offset="0" apply_to_children="true"/>
+		<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="4"/>
+		<layout class="arrange_horizontal_attachment" alignment="left" offset="0" gap="4"/>
+
+		<!-- Records defining the widgets to use for the key picture and key text -->
+		<record id="keyp" class="picture">
+			<record id="properties" auto_size="all" file="icons/16px/circle"/>
+		</record>
+		<record id="keyt" class="text">
+			<record id="properties" auto_size="all" multiline="false"/>
+		</record>
+	</container>
+</panel>

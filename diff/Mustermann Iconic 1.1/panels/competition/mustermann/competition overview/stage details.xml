@@ -1,0 +1,86 @@
+<panel save_session_state="true">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<boolean id="overview_version" value="true"/>
+
+	<!-- group box which extends to include all other areas -->
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="0" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0"/>
+
+		<!-- buttons area -->
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left, fill"/>
+
+			<widget class="link_button_title" id="labl" section="cssp" auto_size="all">
+				<translation id="text" translation_id="247175" type="use" value="Stages"/>
+			</widget>
+
+			<!-- the stages menu: visible if more than one stage/substage -->
+			<widget class="popup_button" id="stpb" sele="acsm" appearance="buttons/subtle/normal/button" show_button_appearance="false" icon="icons/16px/view" secondary_icon_alignment="right" auto_tick_exclusive="true" embed_in_frame="false" save_session_state="true" auto_size="vertical">
+				<record id="primary_icon_properties" red_replacement="text"/>
+			</widget>
+		</container>
+		
+		<container class="main_box" id="stse">
+			<!-- the group box that is the main container for the competition stage panel - this container holds whatever league or cup panel we need to create -->
+
+			<!-- bottom row of the stage panel is used to store cup draw buttons -->
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend" offset="0"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+			<!-- No game panel-->
+			<container id="nots" hidden="true">
+				<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+
+				<widget class="spacer" height="10"/>
+
+				<widget class="text" id="nost" alignment="centre" spec="text" size="large" style="semi_bold, embossed" auto_size="vertical"/>
+			</container>
+
+			<!-- group box for stage to go into -->
+			<container id="stgb">
+				<layout class="arrange_vertical_attachment" alignment="top, extend" offset="8" gap="1"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+				<!--league stage panel-->
+				<widget class="league_stage_panel" id="lspn" view="over" league_table_heading_length="0" hidden="true"/>
+
+				<!--cup stage_panel-->
+				<widget class="cup_stage_panel" id="cstp" file="competition/cup overview stage" save_session_state="true" hidden="true" />
+
+				<!--group stage scrolling box (to be filled in code)-->
+				<widget class="scrolling_box" id="gscb" save_session_state="true" navigation_container="true" hidden="true"/>
+			</container>
+
+			<!--xG table for league-->
+			<widget class="client_object_list_table" id="xgtb" mode="fill_rows, stripe_rows" hidden="true">
+				<list id="default_sort_column">
+					<integer value="sxGP"/>
+				</list>
+
+				<list id="column_widget_properties">
+					<record index="10" alignment="centre"/>
+				</list>
+
+				<record id="viewed_property_ids">
+					<record id="Tpos" width="40" alignment="centre" auto_hide_priority="3000"/>
+					<record id="xGPo" width="50" auto_hide_priority="1000"/>
+					<record id="xPOd" width="15" auto_hide_priority="1000"/>
+					<record id="Ttea" width="130"/>
+					<record id="svxG" width="60" auto_hide_priority="2000" />
+					<record id="sxGA" width="60" auto_hide_priority="10000"/>
+					<record id="sxGP" width="60" auto_hide_priority="1000"/>
+				</record>
+			</widget>
+
+			<container>
+				<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0"/>
+
+				<!-- The exceptions so point deductions in the league etc-->
+				<widget class="table" id="exta" layout="-1" mode="fill_rows" auto_size="vertical" auto_size_rows="true" row_spacing="2" hidden="true"/>
+			</container>
+		</container>
+	</container>
+</panel>

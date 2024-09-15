@@ -1,0 +1,312 @@
+<panel>
+
+	<record id="shown_event">
+		<flags id="event_id" value="wzPc" />
+		<flags id="index" value="8" />
+		<flags id="event_target" value="self" />
+	</record>
+	
+	<layout class="arrange_horizontal_attachment" alignment="middle" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+	<!--ui elements-->
+	<container width="950">
+		<layout class="arrange_vertical_attachment" layout="32,90,5,-1" offset="36" gap="1" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+		<widget class="text" alignment="centre" font="title" colour="text" size="large">
+			<translation id="text" translation_id="363609" type="use" value="Choose Managerial Style[COMMENT: FR-7206 title for the panel, asking the player to choose a managarial style, tracksuit or tactical]" />
+		</widget>
+
+		<container navigation_container="true">
+			<container class="picture" file="icons/custom/managerial style/coaching badge" auto_size="horizontal" image_alignment="centre">
+				<layout class="stick_to_sides_attachment" alignment="vertical, left" inset="0" />
+			</container>
+
+			<container class="picture" file="icons/custom/managerial style/pastplayingexperience" auto_size="horizontal" image_alignment="centre">
+				<layout class="stick_to_sides_attachment" alignment="vertical, right" inset="0" />
+			</container>
+
+			<!--Coaching Badges/Past Playing Experience-->
+			<container>
+				<attachment_group class="horizontal_arrange" horizontal_alignment="fill" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+				<!--Coaching Badges-->
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="right" offset="0" gap="4" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+					<container width="390">
+						<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+						<widget class="text" alignment="left,centre_y" auto_size="horizontal" colour="tracksuit 1" height="25">
+							<translation id="text" translation_id="363612" type="use" value="Coaching Badges[COMMENT: FR-7206 popup button title for choosing a coaching badge]" />
+							<translation id="hint" translation_id="363565" type="use" value="A higher level badge contributes to a greater number of points available to allocate to coaching attributes.[COMMENT: FR-7206 popup button description, describing the coaching badges button and and the effect on the panel]" />
+						</widget>
+
+						<container height="35">
+							<layout class="arrange_vertical_attachment" alignment="middle" offset="0" gap="0" />
+							
+							<widget class="selection_list" id="chBD" select_event="coBD" width="370">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0" />
+							</widget>
+							
+						</container>
+
+						<container height="25" id="dvLC">
+							<layout class="arrange_horizontal_attachment" alignment="left" offset="0" gap="5" />
+							<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+							<widget class="text" id="Ebml" alignment="left, centre_y" auto_size="horizontal" />
+
+							<widget class="text" alignment="centre" auto_size="horizontal" text="-">
+							</widget>
+
+
+							<widget class="popup_button" id="cmBl" icon_enabled="false" down_arrow_appearance="icons/16px/edit" font="bold" colour="text" show_button_appearance="false" select_event="chtv" auto_size="horizontal" />
+
+						</container>
+
+						<widget class="check_box" id="suBC" alignment="left,centre_y" auto_size="vertical" multiline="false" selected="true" width="150" mode="2" height="25">
+
+							<event id="click_event">
+								<flags id="event_id" value="suBD" />
+							</event>
+
+						</widget>
+
+					</container>
+
+				</container>
+
+				<!--Past Playing Experience-->
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="left" offset="0" gap="4" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+					<container width="390">
+						<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+						<widget class="text" alignment="right,centre_y" colour="tactical 1" height="25">
+							<translation id="text" translation_id="363699" type="use" value="Past Playing Experience[COMMENT: FR-7206 popup button title for choosing a past playing experience for the coach]" />
+							<translation id="hint" translation_id="363566" type="use" value="A higher level of experience contributes to a greater number of points available to allocate to mental attributes.[COMMENT: FR-7206 popup button description, describing the past playing exprience button and the effect on the panel]" />
+						</widget>
+
+						<container height="35">
+							<layout class="arrange_vertical_attachment" alignment="middle" offset="0" gap="0" />
+							
+							<widget class="selection_list" id="psPE" select_event="psEp" width="370">
+								<layout class="stick_to_sides_attachment" alignment="right" inset="0" />
+							</widget>
+						</container>
+
+						<container height="25" id="dvRC">
+							<layout class="arrange_horizontal_attachment" alignment="right" offset="0" gap="5" />
+							<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+							<widget class="text" id="EEml" alignment="left, centre_y" auto_size="horizontal" />
+
+							<widget class="text" alignment="centre" auto_size="horizontal" text="-">
+							</widget>
+
+							<widget class="popup_button" id="cmBR" icon_enabled="false" down_arrow_appearance="icons/16px/edit" font="bold" colour="text" show_button_appearance="false" select_event="chtv" auto_size="horizontal" />
+
+						</container>
+
+						<widget class="check_box" id="suEC" icon_alignment="right, centre_y" alignment="right,centre_y" auto_size="vertical" multiline="false" selected="true" width="150" mode="2" height="25">
+
+							<event id="click_event">
+								<flags id="event_id" value="suEX" />
+							</event>
+
+						</widget>
+					</container>
+
+				</container>
+
+			</container>
+
+		</container>
+
+		<container class="horizontal_divider" />
+
+		<container navigation_container="true">
+			<attachment_group class="vertical_arrange" vertical_layout="100,360,35" />
+
+			<!--slider/presets-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-6,-4" offset="0" />
+				<layout class="centre_in_parent_attachment" alignment="horizontal" apply_to_children="true" />
+
+				<container width="300">
+					<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+
+					<widget class="text" alignment="centre" auto_size="vertical" size="large" style="semi_bold">
+						<translation id="text" translation_id="491925" type="use" value="Management Style Focus[COMMENT: AREA: Manager Creation; SUB-AREA: Coaching Badges; FR-BN: n/a; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: FR-7206 Slider title; giving the option to the user to choose the balance betwee the two managerial styles]" />
+					</widget>
+
+					<widget class="popup_button" id="pres" size="large" style="bold" auto_size="vertical" select_event="pres">
+						<translation id="text" translation_id="491925" type="use" value="Management Style Focus[COMMENT: AREA: Manager Creation; SUB-AREA: Coaching Badges; FR-BN: n/a; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: FR-7206 Slider title; giving the option to the user to choose the balance betwee the two managerial styles]" />
+					</widget>
+
+				</container>
+
+
+				<container width="300">
+					<layout class="arrange_horizontal_attachment" layout="16,-1,16" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+					<widget class="picture" file="icons/16px/left" image_alignment="centre" colour="tracksuit 1" />
+
+					<widget class="slider_horizontal" id="trsl" navigation_focus_target="true">
+						<integer id="notch_frequency" value="1" />
+						<integer id="interval" value="1" />
+						<integer id="page_interval" value="1" />
+						<flags id="alignment" value="centre" />
+						<integer id="min_value" value="0" />
+						<integer id="max_value" value="6" />
+						<integer id="value" value="3" />
+						<boolean id="draw_middle_notch" value="yes" />
+
+						<event id="changed_event">
+							<flags id="event_id" value="chSL" />
+						</event>
+
+					</widget>
+					<widget class="picture" file="icons/16px/right" image_alignment="centre" colour="tactical 1" />
+
+				</container>
+				<!--slider-->
+
+
+
+			</container>
+
+			<!--Attributes-->
+			<container>
+				<layout class="arrange_horizontal_attachment" layout="-1,-1" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" />
+
+				<container>
+					<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="10" />
+
+					<widget class="text" alignment="left" auto_size="vertical" colour="disabled" size="10">
+						<translation id="text" translation_id="230027" type="use" value="Coaching Attributes" />
+					</widget>
+
+					<widget class="table" mode="fill_rows, stripe_rows" id="tabl" layout="-1" row_spacing="0">
+
+						<record id="default_properties" height="20" file="human/add manager select managerial attribute item left" col="0" />
+
+						<container id="trA1" row="0" />
+						<container id="trA2" row="1" />
+						<container id="trA3" row="2" />
+						<container id="trA4" row="3" />
+						<container id="trA5" row="4" />
+						<container id="trA6" row="5" />
+						<container id="trA7" row="6" />
+						<container id="trA8" row="7" />
+						<container id="trA9" row="8" />
+						<container id="tr10" row="10" />
+						<container id="tr11" row="9" />
+					</widget>
+
+				</container>
+
+
+				<container>
+					<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="10" />
+
+					<widget class="text" alignment="left" auto_size="vertical" colour="disabled" size="10">
+						<translation id="text" translation_id="230062" type="use" value="Mental Attributes" />
+					</widget>
+
+					<widget class="table" mode="fill_rows, stripe_rows" id="tabl" layout="-1" row_spacing="0">
+						<record id="default_properties" height="20" file="human/add manager select managerial attribute item right" col="0" />
+						<container id="taA1" row="0" />
+						<container id="taA2" row="1" />
+						<container id="taA3" row="2" />
+						<container id="taA4" row="3" />
+						<container id="taA5" row="4" />
+						<container id="taA6" row="5" />
+						<container id="taA7" row="6" />
+					</widget>
+				</container>
+
+			</container>
+
+			<!--points info and buttons-->
+			<container>
+				<layout class="arrange_horizontal_attachment" layout="80,-1,80" offset="10" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+				<widget class="button" id="rsCA" disabled="true" click_event="CArC" auto_size="vertical">
+					<translation id="text" translation_id="230013" type="use" value="Reset" />
+				</widget>
+
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="middle,fill" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+					<container>
+						<layout class="arrange_horizontal_attachment" alignment="right, extend" offset="0" gap="8" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+						<container>
+							<layout class="arrange_vertical_attachment" alignment="middle" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+							<widget class="text" id="ptRi" alignment="right,centre_y" auto_size="vertical" colour="points left colour" size="small" multiline="true">
+								<animation class="fade_on_hide_animation" duration="0.3" />
+								<translation id="text" translation_id="378860" type="use" value="*All Points need to be allocated before continuing[COMMENT:FR-7206 attribute points left to allocate notification]" />
+							</widget>
+
+						</container>
+
+						<widget class="text" id="ptAR" alignment="left,centre_y" size="16" width="35" />
+
+					</container>
+
+					<!--Points left to allocate section-->
+					<widget class="text" id="pLeT" alignment="centre" auto_size="horizontal" colour="text" style="bold">
+						<translation id="text" translation_id="363707" type="use" value="Points left to allocate:[COMMENT:FR-7206 attribute points left to allocate]" />
+					</widget>
+
+					<container>
+
+						<layout class="arrange_horizontal_attachment" alignment="left, extend" offset="0" gap="8" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+						<widget class="text" id="ptAA" alignment="right,centre_y" size="16" width="35" />
+
+						<container>
+							<layout class="arrange_vertical_attachment" alignment="middle" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+							<widget class="text" id="ptAi" alignment="left,centre_y" auto_size="vertical" colour="points left colour" size="small" multiline="true">
+								<animation class="fade_on_hide_animation" duration="0.3" />
+								<translation id="text" translation_id="378860" type="use" value="*All Points need to be allocated before continuing[COMMENT:FR-7206 attribute points left to allocate notification]" />
+							</widget>
+
+						</container>
+
+					</container>
+
+				</container>
+
+				<widget class="button" id="rsMN" disabled="true" click_event="MnrC" auto_size="vertical">
+					<translation id="text" translation_id="230013" type="use" value="Reset" />
+				</widget>
+
+			</container>
+		</container>
+
+	</container>
+</panel>

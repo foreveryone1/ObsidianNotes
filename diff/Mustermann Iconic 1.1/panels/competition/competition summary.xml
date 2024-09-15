@@ -1,0 +1,80 @@
+<panel save_session_state="true">
+	<boolean id="save_session_state" value="true" />
+
+	<container class="contrast_box" red_replacement="bg lighter" force_title_borders="true" id="trtb">
+
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<container navigation_container="true" default_focus="true">
+			<attachment_group class="title_embedded_panel_left"/>
+
+			<widget class="view_menu_label">
+				<translation id="text" translation_id="243323" type="use" value="Records" />
+			</widget>
+			<widget class="view_menu_popup" id="view" sele="view">
+				<list id="items">
+					<record id="0" tkex="true">
+						<translation id="name" translation_id="317294" type="use" value="Modern Day[COMMENT: competition summary; records panel header to indicate records which have been set in the modern era]" />
+					</record>
+					<record id="1" tkex="true">
+						<translation id="name" translation_id="317295" type="use" value="This Season[COMMENT: competition summary; records panel header to indicate records set this season]" />
+					</record>
+				</list>
+			</widget>
+
+			<widget class="view_menu_popup" id="cvme" sele="ecvw"/>
+			
+		</container>
+
+		<!-- text explaining that some records are only valid since the game start date -->
+		<container>
+			<attachment_group class="title_embedded_panel_right" />
+
+			<widget class="label" id="rvlb" embed_in_frame="true" auto_size="horizontal" alignment="right,centre_y" spec="text" colour="faded text" />
+		</container>
+
+		<container class="scrolling_box" id="main" navigation_container="true">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="32,0,0,0" />
+			<boolean id="save_session_state" value="true" />
+
+			<container>
+
+				<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="16" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+				<record id="default_properties" auto_size="vertical" fixed_size_rows="false" auto_size_rows="true" mode="fill_rows,stripe_rows">
+					<!-- column display properties -->
+					<list id="column_widget_properties">
+						<record indx="0" alignment="left,centre_y" />
+						<record indx="1" spec="text" colour="selection" alignment="left,centre_y" />
+					</list>
+
+					<!-- column display properties -->
+					<list id="column_table_properties">
+						<record index="0" id="type" sort_disabled="true" left="4" />
+						<record index="1" id="reco" sort_disabled="true" top="3" bottom="3" />
+					</list>
+
+				</record>
+
+				<!-- club table -->
+				<widget class="table" id="tabc" layout="280,-1" >
+					<list id="headings">
+						<record column_span="2" navigation_focus_target="false">
+							<translation id="text" translation_id="227746" type="use" value="Team Records" />
+						</record>
+					</list>
+				</widget>
+
+
+				<!-- player table -->
+				<widget class="table" id="tabp" layout="280,-1" >
+					<list id="headings">
+						<record column_span="2" navigation_focus_target="false">
+							<translation id="text" translation_id="242315" type="use" value="Player Records" />
+						</record>
+					</list>
+				</widget>
+			</container>
+		</container>
+	</container>
+</panel>

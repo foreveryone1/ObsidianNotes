@@ -1,0 +1,28 @@
+﻿<panel>
+	<list id="effectiveness_icon_list">
+		<record min_value="0" max_value="10" icon="icons/custom/routine familiarity/routine familiarity 10"   colour="mustermann3"/>
+		<record min_value="11" max_value="20" icon="icons/custom/routine familiarity/routine familiarity 20" colour="mustermann3"/>
+		<record min_value="21" max_value="30" icon="icons/custom/routine familiarity/routine familiarity 30" colour="mustermann3"/>
+		<record min_value="31" max_value="40" icon="icons/custom/routine familiarity/routine familiarity 40" colour="mustermann3"/>
+		<record min_value="41" max_value="50" icon="icons/custom/routine familiarity/routine familiarity 50" colour="mustermann3"/>
+		<record min_value="51" max_value="60" icon="icons/custom/routine familiarity/routine familiarity 60" colour="mustermann3"/>
+		<record min_value="61" max_value="70" icon="icons/custom/routine familiarity/routine familiarity 70" colour="mustermann3"/>
+		<record min_value="71" max_value="80" icon="icons/custom/routine familiarity/routine familiarity 80" colour="mustermann3"/>
+		<record min_value="81" max_value="90" icon="icons/custom/routine familiarity/routine familiarity 90" colour="mustermann3"/>
+		<record min_value="91" max_value="100" icon="icons/custom/routine familiarity/routine familiarity 100" colour="mustermann3"/>
+	</list>
+	
+	<string id="left_appearance" value="buttons/primary/split/left/button"/>
+	<string id="middle_appearance" value="buttons/primary/split/middle/button"/>
+	<string id="right_appearance" value="buttons/primary/split/right/button"/>	
+	
+	<colour id="routine_popup_button_colour" name="gimn3"/>	
+	
+	<string id="icon_1" value="icons/16px/1"/>
+	<string id="icon_2" value="icons/16px/2"/>
+	<string id="icon_3" value="icons/16px/3"/>
+	
+	<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="left" horizontal_inset="0" horizontal_gap="0" />
+
+	<!--Buttons created in code-->
+</panel>

@@ -1,0 +1,154 @@
+<panel>
+	<flags id="cham" value="tables/custom/league/champions/row" />
+	<boolean id="should_force_refresh" value="true" />
+	<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+	<boolean id="use_pro_con_long_strings" value="true"/>
+	
+	<!-- No scout report -->
+	<container id="nsrc" class="main_box">
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="6" horizontal_alignment="horizontal" horizontal_inset="20" />
+
+		<widget class="spacer" height="10" />
+
+		<container id="nocs" height="70">
+			<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="8" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+			
+			<!--explanatory text-->
+			<widget class="label" alignment="centre" spec="text" size="11" auto_size="vertical">
+				<translation id="text" translation_id="320496" type="use" value="You need to request a member of your scouting staff to compile a report on this player.[COMMENT: scout report; need to scout advice]" />
+			</widget>
+
+			<container height="30">
+				<layout class="arrange_horizontal_attachment" alignment="middle" offset="0" gap="8" />
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+				<widget class="button" id="sctP" click_event="sctc" alignment="centre" auto_size="horizontal" height="30">
+					<translation id="text" translation_id="243421" type="use" value="Scout Player" />
+				</widget>
+
+			</container>
+		</container>
+
+		<widget id="nocn" class="label" spec="text" size="11" alignment="centre" auto_size="vertical">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+		</widget>
+
+		<widget class="spacer" height="10" />
+	</container>
+
+	<!-- Already being scounted -->
+	<container id="Arbs" class="main_box">
+		<layout class="stick_to_sides_attachment" alignment="top, horizontal" apply_to_children="true" inset="0" />
+
+		<!--explanatory text-->
+		<widget class="text" id="arbt" alignment="centre" spec="text" colour="attention" height="80">
+			<translation id="text" translation_id="447600" type="use" value="This player is being scouted by [%person#1] and the report will be available shortly.[COMMENT:scout report, scouting in progress]" />
+		</widget>
+	</container>
+
+	<!-- Already being scouted by pool -->
+	<container id="Pool" class="main_box">
+		<layout class="stick_to_sides_attachment" alignment="top, horizontal" apply_to_children="true" inset="0" />
+
+		<!--explanatory text-->
+		<widget class="text" alignment="centre" spec="text" size="large" style="semi_bold, embossed" height="80">
+			<translation id="text" translation_id="342085" type="use" value="Scouting In Progress[COMMENT: disabled menu item when a player is already being scouted]" />
+		</widget>
+	</container>
+	
+	<container id="scou">
+		<layout class="arrange_horizontal_attachment" layout="-3,-2" offset="0" gap="8"/>
+		<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+		
+		<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+
+			<widget class="player_form_panel" id="Pfor" file="player/mustermann/scout report/scout form" default_height="430" priority="3">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+			
+			<container class="horizontal_adaptive_container" mode="distribute_equally" gap="8" default_height="492" priority="1">
+				
+				<container class="client_object_viewer_xml_panel" file="player/mustermann/scout report/attributes graphical" id="mmag" default_width="-1" minimum_width="690" priority="1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					<translation id="title" type="use" translation_id="229822" value="Attributes"/>
+					<record id="object_property" get_property="objt" set_property="objt"/>
+				</container>
+														
+				<container class="contrast_box" red_replacement="bg int" default_width="300" priority="2">
+					<layout class="arrange_vertical_attachment" layout="20,-1" offset="0" gap="0"/>
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+					<!--TRAITS HEADER-->
+					<widget class="label" alignment="centre_x,centre_y" size="10" font="title" colour="title" >
+						<translation id="text" translation_id="322222" type="use" value="Playing Style[COMMENT - release comment screen - topic]"/>
+					</widget>
+					
+					<!--TRAITS-->
+					<widget class="preferred_moves_panel" file="player/mustermann/overview/ability traits" id="pfmp" auto_size="vertical" colour="fg" >
+						<record id="object_property" get_property="objt" set_property="objt"/>
+					</widget>
+				
+				</container>
+				
+			</container>
+			
+			<container default_height="-1" minimum_height="1" priority="2"/>
+		</container>
+
+		<container id="mwdc">
+			<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="4" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="4" />
+
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="top" offset="" gap="4" />
+				<layout class="fit_children_attachment" alignment="vertical,fill" offset="0" gap="4" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal,top" apply_to_children="true" inset="0" />
+
+				<widget class="text" font="title" auto_size="vertical">
+					<translation id="text" translation_id="447612" type="use" value="Scouting Team Verdict[COMMENT: FR 21116, scouting summary string appears underneath this heading]" />
+				</widget>
+				<widget class="text" id="stvw" auto_size="vertical"/>
+
+			</container>
+
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" gap="4" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="4" />
+
+				<widget class="table" id="matt" layout="20,80,20,-1,20,50,50" mode="fill_rows">
+					<list id="headings">
+						<record>
+
+						</record>
+						<record id="date" column_span="2">
+							<translation id="text" translation_id="230120" type="use" value="Date" />
+						</record>
+						<record id="oppo" column_span="2">
+							<translation id="text" translation_id="336534" type="use" value="Opposition[COMMENT - opposition team instructions on match tactics]" />
+						</record>
+						<record id="resu">
+							<translation id="text" translation_id="316806" type="use" value="Result[COMMENT: the outcome of the game]" />
+						</record>
+						<record id="ratg">
+							<translation id="text" translation_id="229619" type="use" value="Rating" />
+						</record>
+					</list>
+
+					<record id="default_properties" alignment="left,centre_y" />
+				
+				</widget>
+
+				<widget class="button" id="vhib" auto_size="all" click_event="vhip">
+					<translation id="text" translation_id="447613" type="use" value="View Highlight Package[COMMENT: scouting report button text to view a video highlights package for a player]" />
+					<layout class="centre_in_parent_attachment" alignment="horizontal" />
+				</widget>
+
+			</container>
+		</container>
+
+	</container>
+
+
+</panel>

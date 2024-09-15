@@ -1,0 +1,22 @@
+﻿<panel >
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<integer id="number_of_items_to_display" value="20"/>
+
+	<!-- Note that the id is important so that the league selector panels have their popups display correctly -->
+	<container id="Pnlf">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="4"/>
+
+		<container class="scrolling_box" id="scrb" navigation_focus_target="true">
+				<container id="nwsl">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="8" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+					<!-- items added in code here -->
+				</container>
+			</container>
+
+		
+	</container>
+
+
+</panel>

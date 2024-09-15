@@ -1,0 +1,47 @@
+<panel>
+	<attachment_group class="horizontal_arrange" horizontal_layout="-1,-1" horizontal_gap="8"/>
+
+	<!-- Property setting the path to use for 'high' tendenciues (>10) -->
+	<string id="higT" value="icons/16px/tendency up" />
+	<!-- Property setting the path to use for 'low' tendenciues (<=10) -->
+	<string id="lowT" value="icons/16px/tendency down" />
+
+	<container>
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="4" horizontal_alignment="horizontal" horizontal_inset="0"/>
+	
+		<widget class="label" font="fonts/title" colour="accent" auto_size="vertical">
+			<translation id="text" translation_id="395653" type="use" value="Tends to[COMMENT: non player tendencies label, lists a person's tendencies below]" />
+		</widget>
+
+		<widget class="table" id="tend" mode="fill_rows" layout="-1" auto_size_rows="true" fixed_size_rows="false" default_sort_column="pict" auto_size="all" row_spacing="4">
+
+			<list id="column_widget_properties">
+				<record index="0" alignment="left,centre_y" />
+			</list>
+
+			<list id="column_table_properties">
+				<record index="0" id="pict" sort_disabled="true" left="5"/>
+			</list>
+		</widget>
+	</container>
+	
+	<container>
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="4" horizontal_alignment="horizontal" horizontal_inset="0"/>
+
+		<widget class="label" font="fonts/title" colour="accent" auto_size="vertical">
+			<translation id="text" translation_id="395652" type="use" value="Tends not to[COMMENT: non player tendencies label, lists a person's non-tendencies below]" />
+		</widget>
+
+		<widget class="table" id="nten" mode="fill_rows" layout="-1" auto_size_rows="true" fixed_size_rows="false" default_sort_column="pict" auto_size="all" row_spacing="4">
+
+			<list id="column_widget_properties">
+				<record index="0" alignment="left,centre_y" />
+			</list>
+
+			<list id="column_table_properties">
+				<record index="0" id="pict" sort_disabled="true" left="5"/>
+			</list>
+		</widget>
+	</container>
+
+</panel>

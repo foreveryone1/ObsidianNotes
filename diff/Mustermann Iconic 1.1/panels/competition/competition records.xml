@@ -1,0 +1,51 @@
+<panel>
+
+	<!-- titled box -->
+	<widget class="contrast_box" red_replacement="bg lighter" force_title_borders="true" id="trtb" alignment="left">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+			<attachment_group class="title_embedded_panel_left"/>
+
+			<widget class="view_menu_label" id="labl"/>
+			<widget class="view_menu_popup" id="view" save_session_state="true" />
+
+		</container>
+
+		<!-- main table -->
+		<widget class="table" id="tabl" mode="fill_rows, stripe_rows" layout="80,-1" save_session_state="true">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="32,0,0,0" />
+			<boolean id="save_session_state" value="true" />
+
+			<boolean id="fixed_size_rows" value="false" />
+			<boolean id="auto_size_rows" value="true" />
+
+			<!-- headings -->
+			<list id="headings">
+				<record indx="0">
+					<translation id="text" translation_id="229773" type="use" value="Year" />
+				</record>
+				<record indx="1">
+					<translation id="text" translation_id="247170" type="use" value="Record[competition record panel table heading]" />
+				</record>
+			</list>
+
+			<!-- column display properties -->
+			<list id="column_widget_properties">
+				<record indx="0" />
+				<record indx="1" spec="text" colour="selection" auto_size="vertical" />
+			</list>
+
+			<!-- column display properties -->
+			<list id="column_table_properties">
+				<record indx="0" id="year" left="4" />
+				<record indx="1" id="reco" top="3" bottom="3" />
+			</list>
+
+		</widget>
+
+	</widget>
+	<!-- titled box -->
+
+</panel>

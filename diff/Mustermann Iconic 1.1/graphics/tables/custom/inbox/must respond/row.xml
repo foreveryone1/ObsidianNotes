@@ -1,0 +1,11 @@
+<!-- image properties -->
+<properties>
+
+	<!-- image slices determine the points at which the image will be sliced to enable scaling -->
+	<!-- the image will only slice in the directions slicing values are provided for-->
+	<record id="image_slices" left="3" right="1" top="2" bottom="2"/>
+
+	<colour id="red_replacement" name="inbox_row"/>
+	<colour id="blue_replacement" name="inbox_must_respond"/>
+	
+</properties>

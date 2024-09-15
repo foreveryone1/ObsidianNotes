@@ -1,0 +1,1194 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+	<!-- debug menu -->
+	<attachment class="get_global_attachment" get_property="Dmen" set_property="coni" />
+
+	<!-- Handheld background image -->
+	<widget class="picture" id="bkg1" file="main menu/background" scale_picture="true" keep_aspect_ratio="false">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<string id="create_if" value="platform_is_handheld" />
+	</widget>
+
+	<!-- Switch background image -->
+	<widget class="picture" id="bkg2" file="main menu/background" scale_picture="true" keep_aspect_ratio="false">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<string id="create_if" value="platform_is_switch" />
+	</widget>
+
+	<!-- when visible, this panel will cover the movie test panel and take gamepad events -->
+	<!-- this is visible by default, otherwise the client object system re-applies the 'hidden=true' property when it sets up sections, which may happen before the panel should be hidden -->
+	<container class="splash_movie_panel" id="spmp" movie_finish_event="spmf" navigation_container="true" default_focus="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+
+	<!-- 3D manager and scene -->
+	<container class="add_manager_panel" id="adMP" file="none" content_width_initial_panels="600" content_width_late_panels="1000">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<!-- Late loading and being hidden on handheld here is CRITICAL 
+		when we play matches outside of the game on tablet at the start and end we will briefly drop to
+		the intro panel - we need to avoid creating the add manager panel unecessarily as it will create
+		a large texture when we are at a critical memory point - creating this can tip us over the edge
+		-->
+		<boolean id="late_loading" value="true" />
+		<string id="remove_if" value="platform_is_handheld" />
+
+		<container id="CHWc">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+		</container>
+		
+		<widget class="picture" id="bkg1" file="main menu/si christmas" image_alignment="bottom" scale_picture="true" keep_aspect_ratio="false">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+        </widget>
+
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+			<container class="wizard_panel" id="wzrd" nnPB="false" hidden="true">
+				<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<container file="human/add manager header panel" height="50" id="amHp" navigation_container="true">
+					<translation id="title" translation_id="538935" type="use" value="Create Manager[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading for for when the user is creating the manager, cannot be feminised]" />
+				</container>
+
+				<container>
+					<layout class="arrange_horizontal_attachment" layout="-70,-40" offset="12" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="12" />
+
+					<container>
+						<container id="mWiC" class="main_transparent_box">
+							<attachment_group class="horizontal_arrange_autosize_all_centre_centered_in_parent" horizontal_alignment="middle" />
+
+							<container width="600" id="wWid">
+								<attachment_group class="vertical_arrange_autosize" vertical_alignment="top" />
+
+								<container>
+									<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="fill" />
+
+									<container navigation_container="true">
+										<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="left" />
+										<widget class="tab_strip" id="amtb" auto_size="horizontal" select_event="amts" save_session_state="true" selection_dont_suppress="true" hidden="true" colour="text">
+											<flags id="appearance" value="tabs/standard" />
+											<list id="items">
+												<record>
+													<translation id="name" translation_id="538936" type="use" value="Personal Info[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when entering the personal information for the manager avatar]" />
+													<integer id="id" value="tspi" />
+												</record>
+												<record>
+													<translation id="name" translation_id="538937" type="use" value="Body[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the body type of the manager avatar]" />
+													<integer id="id" value="tsbo" />
+												</record>
+												<record>
+													<translation id="name" translation_id="538938" type="use" value="Head[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the face and hair of the manager avatar]" />
+													<integer id="id" value="tshe" />
+												</record>
+												<record>
+													<translation id="name" translation_id="538939" type="use" value="Attire[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the clothing of the manager avatar]" />
+													<integer id="id" value="tsat" />
+												</record>
+												<record>
+													<translation id="name" translation_id="594857" type="use" value="Ability Aids[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: FM-21263; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the ability aids of the manager avatar]" />
+													<integer id="id" value="taba" />
+												</record>
+												<record>
+													<translation id="name" translation_id="557751" type="use" value="Accessories[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR: FM-1259; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the accessories of the manager avatar]" />
+													<integer id="id" value="tacc" />
+												</record>
+											</list>
+											<integer id="selection" value="tspi" />
+										</widget>
+									</container>
+								</container>
+
+								<!-- wizard panel container, the actual panels will be added here -->
+								<container id="plco">
+									<attachment_group class="vertical_arrange_autosize" vertical_alignment="top" />
+
+									<container class="manager_profile_panel" id="fPan" check_profile="true" hide_manager="false">
+										<translation id="wizard_panel_title" translation_id="538936" type="use" value="Personal Info[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when entering the personal information for the manager avatar]" />
+									</container>
+
+									<container class="manager_profile_panel" id="sPan" file="human/add manager appearance panel" check_profile="true">
+										<translation id="wizard_panel_title" translation_id="538937" type="use" value="Body[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the body type of the manager avatar]" />
+									</container>
+
+									<container class="manager_profile_panel" file="human/add manager head panel" check_profile="true">
+										<translation id="wizard_panel_title" translation_id="538938" type="use" value="Head[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the face and hair of the manager avatar]" />
+									</container>
+
+									<container class="manager_profile_panel" file="human/add manager attire panel" check_profile="true">
+										<translation id="wizard_panel_title" translation_id="538939" type="use" value="Attire[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the clothing of the manager avatar]" />
+									</container>
+
+									<container class="manager_profile_panel" file="human/add manager ability aids panel" check_profile="true">
+										<translation id="wizard_panel_title" translation_id="594857" type="use" value="Ability Aids[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: FM-21263; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the ability aids of the manager avatar]" />
+									</container>
+
+									<container class="manager_profile_panel" file="human/add manager accessories panel" check_profile="true">
+										<translation id="wizard_panel_title" translation_id="557751" type="use" value="Accessories[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR: FM-1259; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Panel heading heading for when customising the accessories of the manager avatar]" />
+									</container>
+								</container>
+
+								<!-- row of buttons -->
+								<container id="btn" height="40" width="500" navigation_container="true">
+									<layout class="arrange_horizontal_attachment" alignment="right,extend" offset="0" gap="0" />
+
+
+									<container height="30">
+										<layout class="arrange_horizontal_attachment" alignment="left" offset="0" gap="0" />
+										<layout class="stick_to_sides_attachment" alignment="bottom" inset="0" apply_to_children="true" />
+										<layout class="centre_in_parent_attachment" alignment="vertical" />
+
+										<widget class="icon_button" id="ltEr" hidden="true" click_event="cPrL" auto_size="all" controller_button="b_button">
+											<translation id="text" translation_id="538940" type="use" value="Discard and Exit[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Cancel button text; Cancels and exits from the current manager creation/editing process]" />
+										</widget>
+
+										<widget class="popup_button" id="lsmp" select_event="LoSa" auto_size="all" needs_height="true" needs_width="true" fixed="true">
+											<translation id="text" translation_id="538941" type="use" value="Load/Save Model[COMMENT: AREA: Manager Creation Panel; SUB-AREA: Manager Creation Panel; FR-BN: 32003; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Popup menu button text; Options to load an existing and save the current manager model]" />
+											<list id="items">
+												<record>
+													<translation id="text" translation_id="493401" type="use" value="Save Avatar[COMMENT: AREA: Create a Manager; SUB-AREA: Make your 3D avatar; TONE: Formal; FR-BN 27636; NOTE: prompt dialog; title; AREA: Add new manager menu]" />
+													<string id="click_event" value="svAp" />
+												</record>
+												<record>
+													<translation id="text" translation_id="493402" type="use" value="Load Avatar[COMMENT: AREA: Create a Manager; SUB-AREA: Make your 3D avatar; TONE: Formal; FR-BN 27636; NOTE: prompt dialog; title; AREA: Add new manager menu]" />
+													<string id="click_event" value="unch" />
+												</record>
+											</list>
+										</widget>
+									</container>
+
+
+
+									<widget class="primary_icon_button" id="nxt1" click_event="n1pa" auto_size="all" icon="icons/16px/right" icon_alignment="right" controller_button="right_trigger">
+										<layout class="centre_in_parent_attachment" alignment="vertical" />
+									</widget>
+
+									<widget class="primary_icon_tick_button" id="fini" click_event="fNPr" hidden="true" controller_button="y_button">
+										<layout class="centre_in_parent_attachment" alignment="vertical" />
+										<translation id="text" translation_id="229918" type="use" value="Confirm" />
+									</widget>
+
+								</container>
+							</container>
+						</container>
+					</container>
+
+					<!-- empty container for create a padding for the manager avatar -->
+					<container id="emCW" />
+				</container>
+			</container>
+		</container>
+	</container>
+
+	<container id="mIco">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_centre" horizontal_layout="-1,1344,-1" horizontal_gap="0"/>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			
+			<container/>
+			
+			<container  class="contrast_box" height="752" red_replacement="bg" transparency="0.95">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+				<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+
+					<!-- Menu -->
+					<container id="mPic" width="389" navigation_container="true" default_focus="true">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+						
+						<container file="game/intro panel menu" />
+						
+						<!-- version label-->
+						<widget class="text" id="vers" auto_size="all" colour="fg alpha" size="small">
+							<layout class="stick_to_sides_attachment" alignment="left,bottom" inset="0,0" />
+						</widget>
+
+						<!-- Quit -->
+						<container>
+							<layout class="arrange_horizontal_attachment" alignment="right" offset="0" gap="0" />
+							<layout class="stick_to_sides_attachment" alignment="right" />
+							<layout class="stick_to_sides_attachment" alignment="bottom" inset="0" />
+							<layout class="fit_children_attachment" alignment="vertical" offset="0" />
+							<layout class="fit_children_attachment" alignment="horizontal,fill" offset="0" />
+
+							<!-- Add to Wishlist -->
+							<widget class="subtle_button" id="wish" click_event="wish" auto_size="all" appearance="buttons/subtle/flex/button">
+								<string id="create_if" value="is_demo_mode_and_steam" />
+								<translation id="text" translation_id="532237" type="use" value="Add to Wishlist[COMMENT: AREA: start screen; FR: 35432 TONE: Formal; CHARLIMIT: None; NOTE: used in demo mode only to open url link to add game to users wishlist;]" />
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0" />
+							</widget>
+
+							<!-- exit button -->
+							<widget class="subtle_button" id="qttx" auto_size="all" appearance="buttons/subtle/flex/button">
+								<translation id="text" translation_id="248058" type="use" value="Quit" />
+								<translation id="hint" translation_id="255120" type="use" value="Choose this option to exit [%string#1 - current name of game, e.g. FM2007] and return to the real world...[COMMENT - hint text for button to exit game]" />
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0" />
+								<record id="click_event">
+									<flags id="event_id" value="QUIT" />
+									<flags id="event_target" value="scrC" />
+								</record>
+							</widget>
+						</container>
+					</container>			
+										
+					<widget class="vertical_divider" width="1"/>
+					
+					<container default_width="-1">
+						<attachment_group class="vertical_arrange" vertical_layout="-1,712" vertical_gap="8"/>
+						
+						<container>
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0"/>
+							
+							<widget class="label" font="title" size="xlarge" colour="title" alignment="left" auto_size="vertical">
+								<translation id="text" translation_id="248411" type="use" value="Community"/>
+							</widget>
+													
+						</container>
+					
+						<!--TABS-->
+						<container class="mustermann_tabbed" default_item="mcrd" default_width="-1" navigation_container="true" default_focus="true">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<!--CREDITS-->
+							<container id="mcrd">
+								<translation id="title" translation_id="247992" type="use" value="Credits"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+																									
+								<container>
+									<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="14" horizontal_alignment="horizontal" horizontal_inset="0" />
+									
+									<widget class="text" font="text" colour="text" alignment="left" multiline="true" auto_size="vertical">
+										<translation id="text" type="use" value="I want to extend a huge thank you to the wider FM community who all, in their own way, inspire me every day.  Below is a collection of people to whom I am especially grateful and have helped me in creating this skin, either through their own contributions to skinning, acting as a sounding board for my more outrageous ideas or providing feedback along the way."/>
+									</widget>
+
+									<widget class="table" id="plpd" mode="fill_rows, stripe_rows, keyboard" layout="16,150,-1" auto_size="vertical" navigation_container="true" default_focus="true">
+										<flags id="heading_class" value="column_heading_alternative" />
+										<boolean id="auto_size_rows" value="true" />
+										<integer id="row_spacing" value="0" />
+										<record id="defp">
+											<flags id="auto_size" value="vertical" />
+										</record>
+										<record id="defp">
+											<flags id="spec" value="text" />
+											<flags id="algn" value="left,centre_y" />
+										</record>
+										<list id="column_table_properties">
+											<record indx="0">
+												<integer id="left" value="4" />
+												<boolean id="srtd" value="true" />
+											</record>
+											<record indx="1">
+												<integer id="rght" value="7" />
+												<boolean id="srtd" value="true" />
+											</record>
+										</list>
+
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="0"/>										
+										<widget class="link_button" col="1" row="0" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/tcsskin" />
+											<translation id="text" type="use" value="tcsskin" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="0">
+											<string id="text" value="An elder statesman of skinning, taught me a lot and been a wonderful sounding board.  All round solid fella" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="1"/>										
+										<widget class="link_button" col="1" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/FMRensie" />
+											<translation id="text" type="use" value="FM Rensie" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="1">
+											<string id="text" value="For all the assistance to my many skinning queries" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="2"/>										
+										<widget class="link_button" col="1" row="2" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/wozziefm" />
+											<translation id="text" type="use" value="Wozzie" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="2">
+											<string id="text" value="Tad Twenty was the first skin I used.  Arguably to blame for me going down this rabbit hole!" />
+										</widget>
+										
+										<widget class="label" spec="text" col="1" row="3">
+											<string id="text" value="Michaeltmurrayuk" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="3">
+											<string id="text" value="For those base skins all those years ago" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="4"/>										
+										<widget class="link_button" col="1" row="4" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/FMwkdsoul" />
+											<translation id="text" type="use" value="wkdsoul" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="4">
+											<string id="text" value="For all the assistance to my many skinning queries" />
+										</widget>
+																				
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="5"/>										
+										<widget class="link_button" col="1" row="5" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/StarAttributes" />
+											<translation id="text" type="use" value="sebastian_starttrbts" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="5">
+											<string id="text" value="For setting me down the path of pseudo-attributeless skinning" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/world" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="6"/>										
+										<widget class="link_button" col="1" row="6" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://community.sigames.com/forums/topic/549828-fm21skin-nostarsattributes21-v22-updated-17th-july-21/" />
+											<translation id="text" type="use" value="Tyburn" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="6">
+											<string id="text" value="Also for setting me down the path of pseudo-attributeless skinning" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/world" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="7"/>										
+										<widget class="link_button" col="1" row="7" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.viewfromthetouchline.com/category/ben/" />
+											<translation id="text" type="use" value="_Ben_" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="7">
+											<string id="text" value="For being fabulous sounding board and helping to push new ideas over the last 18 months" />
+										</widget>
+																		
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="8"/>										
+										<widget class="link_button" col="1" row="8" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/Howie182" />
+											<translation id="text" type="use" value="Just Howie" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="8">
+											<string id="text" value="For entertaining late night conversations on completely inconsequential skinning related nonsense" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="9"/>										
+										<widget class="link_button" col="1" row="9" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/Groot_FMSLife" />
+											<translation id="text" type="use" value="Groot" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="9">
+											<string id="text" value="For building my ego and helping me with various skinning queries" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="10"/>										
+										<widget class="link_button" col="1" row="10" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/Sasmaz_sj" />
+											<translation id="text" type="use" value="Sasmaz" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="10">
+											<string id="text" value="For all the assistance to my many skinning queries" />
+										</widget>
+										
+										<widget class="label" spec="text" col="1" row="11">
+											<string id="text" value="a31632" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="11">
+											<string id="text" value="For being a master of buttons" />
+										</widget>
+																			
+										<widget class="picture" id="pict" file="icons/16px/twitter" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="12"/>										
+										<widget class="link_button" col="1" row="12" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://twitter.com/FM_Jellico" />
+											<translation id="text" type="use" value="Jellico" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="12">
+											<string id="text" value="For his consistent, constructive feedback" />
+										</widget>
+										
+										<widget class="picture" id="pict" file="icons/16px/world" red_replacement="fg" image_alignment="centre_x,centre_y" scale_picture="true" keep_aspect_ratio="true" col="0" row="13"/>										
+										<widget class="link_button" col="1" row="13" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://fmfans.cz" />
+											<translation id="text" type="use" value="vonTrips" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="13">
+											<string id="text" value="For his consistent, constructive feedback and help with Czech translations" />
+										</widget>										
+										
+										<widget class="label" spec="text" col="1" row="14">
+											<string id="text" value="FERIA" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="14">
+											<string id="text" value="For help with French translations" />
+										</widget>
+										
+										<widget class="label" spec="text" col="1" row="15">
+											<string id="text" value="Herr Jones" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="15">
+											<string id="text" value="For help with Portuguese translations" />
+										</widget>
+										
+										<widget class="label" spec="text" col="1" row="16">
+											<string id="text" value="thebuildupplay" />
+										</widget>
+										<widget class="label" spec="text" col="2" row="16">
+											<string id="text" value="For help with Russian translations" />
+										</widget>
+								
+									</widget>
+
+								</container>
+							
+							</container>
+							
+							<!--SKINS-->
+							<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" id="mskn">
+								<translation id="title" type="use" value="Skins"/>
+								
+								<widget class="text" font="text" colour="text" alignment="left,top" default_height="40" minimum_height="1">
+									<translation id="text" type="use" value="MustermannIconic isn't for everyone.  But if you're looking for something else, here's a selection of skins that have either inspired me or I know are of a great quality. In alphabetical order, so I don't have to play favourites."/>
+								</widget>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/panther" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-electric-panther-fm24-skin.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/just" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://community.sigames.com/forums/topic/578599-fm24skin-just-skin-24-released/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/kojuro" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-kojuro-fm24-skin.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/material" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-material-skin-fm24.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/rensie" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-fm24-skin-rensie-dark.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/statman" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://community.sigames.com/forums/topic/579475-fm24skin-statman24/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/tato" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-fm24-skin-tato.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/wtcs" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://community.sigames.com/forums/topic/578542-fm24skin-wtcs-gold-v12-released-07112023/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/zweierkette" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-fm.zweierkette-fm24-skin.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container default_height="-1" minimum_height="1"/>
+								
+							</container>
+							
+							<!--YOUTUBE-->
+							<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" id="mytb">
+								<translation id="title" type="use" value="YouTube"/>
+								
+								<widget class="text" font="text" colour="text" alignment="left,top" default_height="40" minimum_height="1">
+									<translation id="text" type="use" value="A selection of great FM YouTubers who are most definitely worth a watch.  I may be a little biased, but if you only try one, I reckon that first fella is alright!"/>
+								</widget>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/mustermannyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@mustermannfm" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/brasilianyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@BrasilianFury" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/roanyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@coachroan" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/deliciousyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@FMDelicioustube" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/determinedyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@FairlyDeterminedFM" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/flyingyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@theflyingscotsmanFM" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/gtsyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@gamestellstories/featured" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/mooonoyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@mooonostreams" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/rdfyt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@RDFTactics" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container default_height="-1" minimum_height="1"/>
+								
+							</container>
+							
+							<!--GRAPHICS-->
+							<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" id="mgph">
+								<translation id="title" type="use" value="Graphics"/>
+								
+								<widget class="text" font="text" colour="text" alignment="left,top" default_height="40" minimum_height="1">
+									<translation id="text" type="use" value="A selection of custom graphics that I either use or have used in the past to improve your FM experience.  There are plenty other great alternatives on the linked sites, too, for you to choose what is most to your liking."/>
+								</widget>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/cutout" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://sortitoutsi.net/graphics/style/1/cut-out-player-faces" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/df11" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://df11faces.com/Megapack" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/fmugens" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.viewfromthetouchline.com/2022/12/15/fmugens-newgen-facepack-fm23/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/fmglogos" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://footballmanagergraphics.com/files/file/443-fmg-standard-logos-megapack/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/tcmlogos" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.tcmlogos.com/tcm24-logos-fm24/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/stadiumpack" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://sortitoutsi.net/graphics/style/17/sortitoutsi-backgrounds-megapack" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/minimalkits" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://footballmanagergraphics.com/files/file/377-fmg-minimal-kits-pack-1" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/standardkits" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://sortitoutsi.net/graphics/style/7/standard-kits" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/trophies" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/a-fm24-trophies-megapack.html" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container default_height="-1" minimum_height="1"/>
+								
+							</container>
+							
+							<!--BLOGS-->
+							<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" id="mblg">
+								<translation id="title" type="use" value="Blogs and Sites"/>
+								
+								<widget class="text" font="text" colour="text" alignment="left,top" default_height="40" minimum_height="1">
+									<translation id="text" type="use" value="A selection of websites covering blogs, useful resources and general football analysis.  By no means an exhaustive list, but all places I heartily recommend!  In alphabetical order."/>
+								</widget>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/breakingthelines" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://breakingthelines.com/blog/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/coffeehouse" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://coffeehousefm.com/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/theffm" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://theffm.co.uk/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/jellico" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://fmjellico.com/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/oldtimer" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://afmoldtimer.home.blog/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/fmscout" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.fmscout.com/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="162">
+								
+									<container default_width="-1" minimum_width="1"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/sortitoutsi" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://sortitoutsi.net/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/spielverlagerung" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://spielverlagerung.com/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container width="8"/>
+									
+									<container width="292">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="main menu/vftt" image_alignment="centre_x,centre_y"/>
+										
+										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
+											<record id="click_event" event_id="OURL" url="https://www.viewfromthetouchline.com/" />
+											<translation id="hint" type="use" value="Open in Browser" />
+										</widget>
+									
+									</container>
+									
+									<container default_width="-1" minimum_width="1"/>
+									
+								</container>
+								
+								<container default_height="-1" minimum_height="1"/>
+								
+							</container>
+
+						</container>
+					
+					</container>
+				</container>
+			</container>
+			
+			<container/>
+
+		</container>
+
+		<!-- Switch user button for xbox -->
+		<container class="main_transparent_box_no_margin" height="55" width="275">
+			<attachment_group class="horizontal_arrange_vertical_centre" horizontal_gap="10" horizontal_offset="8" />
+			<layout class="stick_to_sides_attachment" alignment="bottom, left" inset="10" />
+
+			<string id="create_if" value="distribution_is_ms_store" />
+
+			<!--Profile Picture-->
+			<container height="40" width="40">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<widget class="picture" id="xbGC" file="icons/26px/goal" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" />
+			</container>
+
+			<!-- Button Text -->
+			<container width="210">
+				<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="4" />
+
+				<!-- User Name -->
+				<widget class="label" id="xbGT" auto_size="all" alignment="left, centre_y" style="bold" size="large" height="30" colour="text">
+					<translation id="text" translation_id="516557" type="use" value="Xbox User[COMMENT: AREA: intro panel; NOTE: label for identifying user]" />
+				</widget>
+
+				<widget class="label" auto_size="all" colour="fg alpha" size="small">
+					<translation id="text" translation_id="516558" type="use" value="Switch Profile[COMMENT: AREA: intro panel; NOTE: label for switching user profile on console]" />
+				</widget>
+
+			</container>
+
+			<!-- Button (spans across entire parent container) -->
+			<widget class="icon_button" appearance="buttons/custom/intro panel/button" focus_appearance="buttons/subtle/flex/button_controller" controller_button="y_button">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+				<record id="click_event" event_id="xbCP" />
+			</widget>
+		</container>
+	</container>
+
+	<!-- when visible, this panel will cover the movie test panel and take mouse events -->
+	<!-- this is visible by default, otherwise the client object system re-applies the 'hidden=true' property when it sets up sections, which may happen before the panel should be hidden -->
+	<container class="splash_movie_panel" id="spm2">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+
+	<container id="wiBK" class="inner_box_no_margin" background_colour="black">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+		<animation class="fade_animation" trigger_id="hidden" trigger_value="true" start_value="1.0" end_value="0.0" duration="2.0" end_mode="hold_end">
+			<record id="finished_event" event_id="FdIN" event_target="root" event_flags="7" />
+		</animation>
+		<animation class="fade_animation" trigger_start="hiMN" start_value="0.0" end_value="1.0" duration="0.2" end_mode="stop">
+			<record id="finished_event" event_id="fnHI" event_target="root" event_flags="7" />
+		</animation>
+	</container>
+
+	<container id="warn" hidden="true">
+		<animation class="fade_animation" trigger_id="hidden" trigger_value="false" end_mode="hold_end">
+			<record id="finished_event" event_id="waEn" event_target="root" event_flags="7" />
+			<list id="storyboard">
+			<record>
+				<real id="interval" value="0" />
+				<string id="value" value="0,5" />
+				<string id="tween" value="ease_in" />
+			</record>
+			<record>
+				<real id="interval" value="0.2" />
+				<string id="value" value="1" />
+				<string id="tween" value="none" />
+			</record>			
+			<record>
+				<real id="interval" value="8.75" />
+				<string id="value" value="1" />
+				<string id="tween" value="ease_out" />
+			</record>			
+			<record>
+				<real id="interval" value="10" />
+				<string id="value" value="0" />
+				<string id="tween" value="ease_out" />
+			</record>
+			</list>
+		</animation>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+		<widget class="picture" file="backgrounds/default" scale_picture="true" keep_aspect_ratio="false">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+		</widget>
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="middle" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+			<container width="600">
+				<attachment_group class="vertical_arrange_autosize" />
+
+				<!--Warning sign image-->
+				<widget class="picture" file="icons/16px/warning@2x" image_alignment="centre" size="xlarge" auto_size="vertical" red_replacement="bg accent" />
+
+				<widget class="spacer" height="10" />
+
+				<!--Warning title-->
+				<widget class="text" auto_size="vertical" spec="text" font="title" alignment="centre" size="16" colour="white">
+					<translation id="text" translation_id="586116" type="use" value="Photosensitivity Warning[COMMENT: AREA: Startup; SUB-AREA: Epilepsy Warning Screen; Note: Title for epilepsy warning]" />
+				</widget>
+
+				<widget class="spacer" height="40" />
+
+				<!--Warning text line one-->
+				<widget class="text" auto_size="vertical" spec="text" font="text" multiline="true" alignment="centre" size="13" colour="white">
+					<translation id="text" translation_id="586117" type="use" value="This game contains flashing lights and footage with strobe lights which could trigger seizures or cause some discomfort amongst a small population of people.[COMMENT: AREA: Startup; SUB-AREA: Epilepsy Warning Screen; Note: Text for epilepsy warning, first line]" />
+				</widget>
+
+				<widget class="spacer" height="30" />
+
+				<!--Warning text line two-->
+				<widget class="text" auto_size="vertical" spec="text" font="text" multiline="true" alignment="centre" size="13" colour="white">
+					<translation id="text" translation_id="586118" type="use" value="If you experience any unusual symptoms, including dizziness or disorientation please stop playing the game and consult your physician before resuming.[COMMENT: AREA: Startup; SUB-AREA: Epilepsy Warning Screen; Note: Text for epilepsy warning, second line]" />
+				</widget>
+			</container>
+		</container>
+	</container>
+</panel>

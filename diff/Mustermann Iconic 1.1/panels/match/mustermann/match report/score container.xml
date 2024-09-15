@@ -1,0 +1,32 @@
+<panel info_panel_type="1">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+	<container>
+		<layout class="arrange_horizontal_attachment" layout="-1,30,-1" />
+		<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+
+		<!--  home incidents panel -->
+		<widget class="home_match_incidents_panel" id="hmip" small_version="true" file="match/mustermann/match report/incidents home" />
+		
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		
+			<container class="client_object_viewer_xml_panel" default_height="60">
+				<record id="object_property" get_property="comp" set_property="objt"/>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				
+				<widget class="object_portrait_picture" id="logo" scale_picture="true" image_alignment="centre" height="30" width="30">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+
+			</container>
+			
+			<container default_height="-1" minimum_height="-1"/>
+		</container>
+
+		<!--  away incidents panel -->
+		<widget class="away_match_incidents_panel" id="amip" small_version="true" file="match/mustermann/match report/incidents away" />
+
+	</container>
+
+</panel>

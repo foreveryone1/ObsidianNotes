@@ -1,0 +1,153 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container class="vertical_adaptive_container" alignment="bottom" mode="dont_distribute, allow_empty" inset="0" gap="4" offset="0">
+		<!-- Top Goalscorer-->
+		<container class="vertical_arrange_container" alignment="bottom,extend" minimum_height="70" height="70" gap="4" inset="0" offset="0" priority="1">
+
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="4" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+				<widget class="team_button" icon_enabled="false" auto_size="vertical" mode="1">
+					<translation id="format" translation_id="395509" type="use" value="Top goalscorer for [%team#1-short][COMMENT: FR 10246; team competitions overview; title for competition statistic]" />
+					<record id="object_property" index="1" get_property="objt" />
+					<string id="font" value="title"/>
+					<string id="colour" value="gimn2"/>
+				</widget>
+
+				<container class="horizontal_arrange_container" alignment="left,extend" gap="10" inset="0" offset="0">
+					<!-- Player picture -->
+					<container class="property_list_viewer_xml_panel" width="40">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<!-- Get stat property. This relies on context comp so must be requested everytime or we get duplicate data-->
+						<record id="object_property" get_property="Cstg" set_property="objt" should_force_refresh="true" />
+
+						<!-- Player picture -->
+						<container width="40">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+							<widget class="object_portrait_picture" image_alignment="right,bottom" scale_picture="true" navigation_focus_target="false">
+								<record id="object_property" get_property="plys" set_property="objt" />
+							</widget>
+						</container>
+					</container>
+					<container class="vertical_arrange_container" alignment="middle" gap="0" inset="0" offset="0">
+						<!-- Player names -->
+						<widget class="player_stat_text" maxv="5" mode="show_name" multiline="false" auto_size="vertical" navigation_focus_target="true">
+							<translation id="text" translation_id="233089" type="use" value="-" />
+							<record id="object_property" get_property="Cstg" should_force_refresh="true"/>
+						</widget>
+						<!-- Stat value -->
+						<widget class="player_stat_text" mode="show_value,show_as_number" auto_size="vertical" colour="faded text" size="small">
+							<translation id="text" translation_id="233089" type="use" value="-" />
+							<list id="format">
+								<record value="1">
+									<translation id="format" translation_id="385425" type="use" value="1 goal[COMMENT: FR 10661; player overview form; number of goals scored by player; singular]" />
+								</record>
+								<record default_value="true">
+									<translation id="format" translation_id="327328" type="use" value="[%number#1] goals" />
+								</record>
+							</list>
+							<record id="object_property" get_property="Cstg" should_force_refresh="true"/>
+						</widget>
+
+					</container>
+
+				</container>
+			</container>
+		</container>
+
+		<!-- Highest average rating-->
+		<container class="vertical_arrange_container" alignment="bottom,extend" minimum_height="70" height="70" gap="4" inset="0" offset="0" priority="2">
+
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="4" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+				<widget class="team_button" icon_enabled="false" auto_size="vertical" font="title" colour="gimn2" mode="1">
+					<translation id="format" translation_id="395241" type="use" value="Highest average rating for [%team#1-short][COMMENT: FR 10246; team competitions overview; title for competition statistic]" />
+					<record id="object_property" index="1" get_property="objt" />
+				</widget>
+
+				<container class="horizontal_arrange_container" alignment="left,extend" gap="10" inset="0" offset="0">
+					<!-- Player picture -->
+					<container class="property_list_viewer_xml_panel" width="40">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+						<!-- Get stat property. This relies on context comp so must be requested everytime or we get duplicate data-->
+						<record id="object_property" get_property="Csar" set_property="objt" should_force_refresh="true" />
+
+						<widget class="object_portrait_picture" image_alignment="right,bottom" scale_picture="true" navigation_focus_target="false">
+							<record id="object_property" get_property="plys" set_property="objt" />
+						</widget>
+					</container>
+
+					<container class="vertical_arrange_container" alignment="middle" gap="0" inset="0" offset="0">
+
+						<!-- Player names -->
+						<widget class="player_stat_text" maxv="5" mode="show_name" multiline="false" auto_size="vertical" navigation_focus_target="true">
+							<translation id="text" translation_id="233089" type="use" value="-" />
+							<record id="object_property" get_property="Csar" should_force_refresh="true"/>
+						</widget>
+						<!-- Stat value -->
+						<widget class="player_stat_text" id="avr2" mode="show_value,show_as_fraction" auto_size="vertical" colour="faded text" size="small">
+							<translation id="text" translation_id="233089" type="use" value="-" />
+							<record id="object_property" get_property="Csar" should_force_refresh="true"/>
+						</widget>
+
+					</container>
+				</container>
+			</container>
+		</container>
+
+		<!-- Most assists-->
+		<container class="vertical_arrange_container" alignment="bottom,extend" minimum_height="70" height="70" gap="4" inset="0" offset="0" priority="3">
+
+			<container class="vertical_arrange_container" alignment="top,extend" gap="4" inset="0" offset="0">
+
+				<widget class="team_button" icon_enabled="false" auto_size="vertical" font="title" colour="gimn2" mode="1">
+					<translation id="format" translation_id="395274" type="use" value="Most assists for [%team#1-short][COMMENT: FR 10246; team competitions overview; title for competition statistic]" />
+					<record id="object_property" index="1" get_property="objt" />
+				</widget>
+
+				<container class="horizontal_arrange_container" alignment="left,extend" gap="10" inset="0" offset="0">
+
+					<!-- Player picture -->
+					<container class="property_list_viewer_xml_panel" width="40">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+						<!-- Get stat property -->
+						<record id="object_property" get_property="Csma" set_property="objt" should_force_refresh="true" />
+
+						<widget class="object_portrait_picture" image_alignment="right,bottom" scale_picture="true" navigation_focus_target="true">
+							<record id="object_property" get_property="plys" set_property="objt" />
+						</widget>
+					</container>
+
+					<container class="vertical_arrange_container" alignment="middle" gap="0" inset="0" offset="0">
+
+						<!-- Player names -->
+						<widget class="player_stat_text" maxv="5" mode="show_name" multiline="false" auto_size="vertical">
+							<translation id="text" translation_id="233089" type="use" value="-" />
+							<record id="object_property" get_property="Csma"/>
+						</widget>
+						<!-- Stat value -->
+						<widget class="player_stat_text" mode="show_value,show_as_number" auto_size="vertical" colour="faded text" size="small">
+							<translation id="text" translation_id="233089" type="use" value="-" />
+							<list id="format">
+								<record value="1">
+									<translation id="format" translation_id="385424" type="use" value="1 assist[COMMENT: FR 10661; player overview form; number of assists made by player; singular]" />
+								</record>
+								<record default_value="true">
+									<translation id="format" translation_id="384051" type="use" value="[%number#1] assists[COMMENT: FR 10661; player overview form; number of assists made by player; multiple/plural]" />
+								</record>
+							</list>
+							<record id="object_property" get_property="Csma"/>
+						</widget>
+
+					</container>
+				</container>
+			</container>
+		</container>
+	</container>
+</panel>

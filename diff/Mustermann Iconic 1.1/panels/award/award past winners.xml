@@ -1,0 +1,75 @@
+<!-- award past winners panel -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<!-- main area -->
+	<container class="contrast_box" red_replacement="bg lighter">
+		<translation id="title" translation_id="247942" type="use" value="Past Winners" />
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+		<!-- past winners table table -->
+		<widget class="table" id="pwtb" select_event="sely" mode="fill_rows, stripe_rows, printable, keyboard, show_bullets, select_rows" layout="-2, -2, -2, -4, -4, -4, -2, -1, -1, -1, -1" default_sort_column="year" auto_size_rows="true" navigation_container="true">
+
+			<boolean id="save_session_state" value="true" />
+
+			<list id="headings">
+				<record>
+					<translation id="text" translation_id="258237" type="use" value="Year[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258238" type="use" value="Month[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258239" type="use" value="Week[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258240" type="use" value="Name[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258241" type="use" value="Club[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258242" type="use" value="Nation[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="317385" type="use" value="Score" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258243" type="use" value="Goals[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258244" type="use" value="Assists[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="258245" type="use" value="Conceded[COMMENT: Awards Panel; past winners data header]" />
+				</record>
+				<record>
+					<translation id="text" translation_id="317291" type="use" value="Clean Sheets[COMMENT: player stats; goalkeeper statistic for games where he didn't concede a goal]" />
+				</record>
+			</list>
+
+			<list id="column_table_properties">
+				<record indx="0" id="year" sort_ascending="false" />
+				<record indx="1" id="monh" sort_ascending="false" />
+				<record indx="2" id="week" sort_ascending="false" />
+				<record indx="3" id="name" sort_disabled="false" />
+				<record indx="4" id="club" sort_disabled="false" />
+				<record indx="5" id="nati" sort_disabled="false" />
+				<record indx="6" id="boot" />
+				<record indx="7" id="goal" />
+				<record indx="8" id="asit" />
+				<record indx="9" id="conc" />
+				<record indx="10" id="clsh" />
+			</list>
+
+
+			<list id="column_widget_properties">
+				<record indx="4" navigation_focus_target="true"/>
+			</list>
+
+			<record id="default_properties" alignment="left,centre_y" />
+
+		</widget>
+
+	</container>
+</panel>

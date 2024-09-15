@@ -1,0 +1,44 @@
+<panel height="70">
+  <layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+  <container class="main_box" appearance="boxes/popup/standard/paper" red_replacement="bg lighter" id="main">
+    <layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+    <layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+   <widget class="text" id="titl" auto_size="vertical" colour="text" size="large" style="bold" font="title">
+      <record id="object_property">
+        <list id="get_properties">
+          <record>
+            <integer id="get_property" value="titl" />
+            <integer id="set_property" value="valu" />
+          </record>
+        </list>
+      </record>
+    </widget>
+
+    <widget class="label" id="ratl" auto_size="vertical" size="large" style="semi_bold" hidden="true">
+      <record id="object_property">
+        <list id="get_properties">
+          <record>
+            <integer id="get_property" value="subt" />
+            <integer id="set_property" value="valu" />
+          </record>
+        </list>
+      </record>
+    </widget>
+
+    <widget class="label" id="text" auto_size="vertical" colour="faded text" size="small">
+      <record id="object_property">
+        <list id="get_properties">
+          <record>
+            <integer id="get_property" value="text" />
+            <integer id="set_property" value="valu" />
+          </record>
+        </list>
+      </record>
+    </widget>
+
+
+  </container>
+
+</panel>

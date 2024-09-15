@@ -1,0 +1,76 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_height="52">
+									
+			<widget class="label" alignment="left,top" font="title" size="16" colour="title" default_height="30">
+				<translation id="text" translation_id="385617" type="use" value="Season Stats"/>     
+			</widget>
+			
+			<widget class="playing_time_label" id="plex" font="text" size="10" alignment="left,top" colour="text" default_height="22">
+				<record id="object_property" get_property="Pcpt" />
+			</widget>
+		</container>
+		
+		<container default_height="4"/>
+
+		<container class="contrast_box" red_replacement="bg int" default_height="280">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		
+				<container>
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+					<widget class="player_additional_stats_panel" id="pcsp" file="player/mustermann/overview/reports stats active">
+						<record id="object_property">
+							<list id="get_properties">
+								<!-- Hide this panel if player is in inactive league-->
+								<record id="object_property" get_property="objt" set_property="objt"/>
+								<record id="object_property" get_property="Pila" set_property="hidn"/>
+							</list>
+						</record>
+					</widget>
+					<widget class="player_stats_panel" id="pssp" file="player/mustermann/overview/reports stats inactive">
+						<record id="object_property">
+							<list id="get_properties">
+								<!-- Show this panel if player is in inactive league-->
+								<record id="object_property" get_property="Pila" set_property="Shwn"/>
+								<record id="object_property" get_property="objt" set_property="objt"/>
+							</list>
+						</record>
+					</widget>
+				</container>
+								
+			</container>
+		</container>
+		
+		<container default_height="8"/>
+		
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_height="52">
+									
+			<widget class="label" alignment="left,top" font="title" size="16" colour="title" default_height="30">
+				<translation id="text" translation_id="441102" type="use" value="Career History"/>      
+			</widget>
+			
+			<widget class="player_extra_details_text" id="plex" font="text" size="10" alignment="left,top" colour="faded text" default_height="22">
+				<record id="object_property" get_property="PExD" />
+			</widget>
+		</container>
+		
+		<container default_height="4"/>
+		
+		<container class="contrast_box" red_replacement="bg int" default_height="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+			<widget class="playing_history_summary_panel" file="player/mustermann/overview/reports career history" id="Pcrs" default_height="-1">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+			
+		</container>
+		
+	</container>
+
+</panel>

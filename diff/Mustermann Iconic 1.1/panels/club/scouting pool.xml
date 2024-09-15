@@ -1,0 +1,86 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+	<boolean id="should_force_refresh" value="true" />
+	<boolean id="save_session_state" value="true" />
+	<boolean id="save_default_state" value="true" />
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" vertical_gap="8"/>
+
+		<widget class="scouting_top_panel" id="stop">
+			<record id="object_property">
+				<integer id="get_property" value="objt" />
+				<integer id="set_property" value="objt" />
+			</record>
+			<list id="visible_items">
+				<flags value="scrc" />
+				<flags value="scfc" />
+				<flags value="assc" />
+				<flags value="rtec" />
+				<flags value="scbc" />
+				<flags value="trbc" />
+			</list>
+		</widget>
+
+
+		<widget class="contrast_box" red_replacement="bg lighter" force_title_borders="false">
+			<attachment_group class="vertical_arrange" vertical_alignment="middle,extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+			<!-- buttons area -->
+			<container navigation_container="true">
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="right,extend" />
+				
+				<container>
+					<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="left" horizontal_gap="6" />
+					
+					<widget class="view_menu_label" id="plvL" navigation_focus_target="false" embed_in_frame="false">
+						<layout class="stick_to_sides_attachment" alignment="vertical" />
+					</widget>
+
+					<widget class="view_menu_popup" id="plvi" auto_size="horizontal" embed_in_frame="false" />
+
+				</container>
+				
+				<widget class="popup_button" id="assb" auto_size="horizontal" embed_in_frame="false" />
+
+			</container>
+
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+
+				<widget class="client_object_list_table" id="pltb" mode="fill_rows, stripe_rows, select_rows, select_multiple, show_bullets, drag_rows, drop_on_rows" column_mode="resize_columns, move_columns, custom_views" fixed_size_rows="true" auto_size_rows="false" fixed_row_height="29" drag_drop_handler_column="prio" select_event="psls" customisation_context="play" navigation_container="true">
+					<boolean id="save_session_state" value="true" />
+					<boolean id="save_default_state" value="true" />
+
+					<list id="column_widget_properties">
+						<record indx="0" navigation_focus_target="false" />
+					</list>
+
+				</widget>
+
+				<widget class="text" id="nopl" alignment="centre" hidden="true">
+					<translation id="text" translation_id="538860" type="use" value="There are currently no players or teams waiting to be assigned to a member of the scouting team.[COMMENT: AREA: scouting pool; NOTE: information text helping the user understand scouting a little better, in this case the scouting queue is empty, so there is no need to adjust priorities]" />
+				</widget>
+
+			</container>
+
+			<container height="30" navigation_container="true">
+
+				<attachment_group class="horizontal_arrange" horizontal_alignment="right" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+
+				<widget class="icon_button" id="pras" click_event="pras" auto_size="horizontal" save_session_state="true" controller_button="y_button">
+					<translation id="text" translation_id="466402" type="use" value="Prioritise Assignment[COMMENT: FR 22639, scouting centre assignments option title]" />
+				</widget>
+
+				<widget class="icon_button" id="buto" click_event="rscp" auto_size="horizontal" save_session_state="true" controller_button="x_button">
+					<translation id="text" translation_id="348783" type="use" value="Cancel Assignment[COMMENT: scouting assigment widget text, cancel scout assignment]" />
+				</widget>
+
+			</container>
+
+		</widget>
+	</container>
+
+
+</panel>

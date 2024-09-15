@@ -1,0 +1,93 @@
+<panel save_session_state="true" navigation_focus_target="true">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<!-- IMPORTANT Need to keep this synced up with number of panels or we won't fill them all, we use this to minimise the amount of data the panel needs to request -->
+	<integer id="number_of_stories_to_request" value="75"/>
+	<boolean id="show_daily_news_request" value="true"/>
+	<boolean id="show_related_news" value="true"/>
+	<boolean id="save_session_state" value="true"/>
+	
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_width="8"/>
+		
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+		
+			<container default_height="8"/>
+
+			<container class="contrast_box" red_replacement="bg int" transparency="0.8" default_height="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			
+				<container class="competition_news_item_panel" index="0" file="none" navigation_focus_target="true">
+					<layout class="arrange_vertical_attachment" alignment="top, extend" offset="0" gap="8"/>
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+					<container height="308">
+						<!-- Dynamic news image -->
+						<container id="CNdi" width="512">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							<layout class="centre_in_parent_attachment" alignment="horizontal"/>
+							<layout class="stick_to_sides_attachment" alignment="vertical" inset="0"/>
+						</container>
+					</container>
+
+					<!-- Related news -->
+					<container>
+						<layout class="arrange_vertical_attachment" alignment="top, extend" offset="0"/>
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+						<record id="default_properties" file="none" index="0"/>
+						
+						<widget class="text" id="titl" size="xlarge" font="title" multiline="true" alignment="left,centre_y" colour="alt text" auto_size="vertical"/>
+
+						<widget class="text" id="news" colour="text" />
+						
+					</container>
+				</container>
+			
+			</container>
+			
+			<container default_height="8"/>
+			
+		</container>
+		
+		<container default_width="8"/>
+		
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+		
+			<container default_height="8"/>
+
+			<container class="contrast_box" red_replacement="bg int" transparency="0.8" default_height="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+				<container class="competition_news_item_panel" file="club/mustermann/news/news item large" index="1"/>
+									
+			</container>
+			
+			<container default_height="8"/>
+			
+			<container class="contrast_box" red_replacement="bg int" transparency="0.8" default_height="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+				<container class="competition_news_item_panel" file="club/mustermann/news/news item large" index="2"/>
+									
+			</container>
+			
+			<container default_height="8"/>
+			
+			<container class="contrast_box" red_replacement="bg int" transparency="0.8" default_height="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+									
+				<container class="competition_news_item_panel" file="club/mustermann/news/news item large" index="3"/>
+									
+			</container>
+			
+			<container default_height="8"/>
+			
+		</container>
+		
+		<container default_width="8"/>
+
+	</container>
+	
+</panel>

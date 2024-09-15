@@ -1,0 +1,180 @@
+<panel>
+
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<!-- the confirm event is dispatched back to the list panel which handles networking, etc -->
+	<record id="confirm_note_changes">
+		<flags id="event_id" value="noup" />
+	</record>
+
+	<!-- When the edit panel is shown, tell the edit box for the note title to request keyboard focus -->
+	<record id="shown_event">
+		<flags id="event_id" value="REQF" />
+		<flags id="event_target" value="nott" />
+	</record>
+
+	<widget class="main_box" id="titl" red_replacement="dark_box_background">
+		<translation id="title" translation_id="258273" type="use" value="Edit Note[COMMENT: Title text for the panel containing the note details]" />
+		<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" gap="5" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+		<container>
+
+			<layout class="arrange_horizontal_attachment" alignment="right,extend" offset="0" gap="25" />
+			<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+			<widget class="container">
+				<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="5" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!-- Note title -->
+				<widget class="container">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+					<widget class="label" auto_size="vertical" spec="text">
+						<translation id="text" translation_id="257254" type="use" value="Title[COMMENT: Heading for edit box to input note title]" />
+					</widget>
+					<widget class="edit_box" id="nott" multiline="false" auto_size="vertical" return_event="" changed_event="cnti" event_delay="200">
+
+						<translation id="hint" translation_id="257255" type="use" value="Type the title of the note in this edit box[COMMENT: Hint text for the edit box to type the title of the note]" />
+						<boolean id="select_on_focus" value="true" />
+						<attachment class="max_length_attachment" length="150" />
+
+						<!-- pressing return in the title edit box moves focus to the next focusable widget, which ought to be the note text input box -->
+						<record id="return_event">
+							<flags id="event_id" value="sfFW" />
+							<flags id="event_target" value="scrC" />
+						</record>
+
+					</widget>
+				</widget>
+				
+				<!-- Categories -->
+				<container id="CATS" height="35">
+					<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="5" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+					<!-- Category edit box to enter new categories, and a popup menu to pick from the list of existing categories -->
+					<container id="EDBX">
+
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+						<layout class="fit_children_attachment" alignment="vertical" offset="0" />
+						<layout class="arrange_horizontal_attachment" alignment="right,extend" offset="0" gap="5" />
+
+						<widget class="edit_box" id="tagi" multiline="false" spec="text" return_event="atfe">
+							<translation id="hint" translation_id="257258" type="use" value="Type in categories separated by commas, then press enter to assign the categories to this note[COMMENT: Hint text on edit box for typing note categories]" />
+						</widget>
+
+						<widget class="popup_button" id="tagp" auto_size="all" spec="text">
+							<translation id="hint" translation_id="257259" type="use" value="Add or edit categories[COMMENT: Hint for popup menu that contains menu items to add or edit note categories]" />
+							<flags id="mode" value="2" />
+							<boolean id="fixed" value="true" />
+						</widget>
+					</container>
+
+				</container>
+
+				<!-- Reminder date and recurrence -->
+				<container id="REMS">
+					<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+					<!-- Reminder date -->
+					<container>
+						<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+						<widget class="label" auto_size="vertical" spec="text">
+							<translation id="text" translation_id="257260" type="use" value="Reminder Date[COMMENT: Title text for the note reminder date popup menu]" />
+						</widget>
+						<widget class="popup_button" id="reda" height="30">
+							<flags id="mode" value="2" />
+							<boolean id="fixed" value="true" />
+							<translation id="hint" translation_id="257261" type="use" value="Select reminder date [COMMENT: Hint text for note reminder date popup menu]" />
+							<list id="items">
+								<record id="noda" event_id="noda">
+									<translation id="text" translation_id="257262" type="use" value="No date[COMMENT: Text on menu item for selecting 'no date' as reminder date on a note]" />
+								</record>
+								<record id="----" />
+								<record id="seda" event_id="seda">
+									<translation id="text" translation_id="257263" type="use" value="Select date...[COMMENT: Text menu item for selecting a reminder date for a note]" />
+								</record>
+							</list>
+						</widget>
+					</container>
+
+					<!-- Reminder recurrence -->
+					<container>
+						<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+						<widget class="label" auto_size="vertical" spec="text">
+							<translation id="text" translation_id="257264" type="use" value="Reminder Recurrence[COMMENT: Title text for the note reminder recurrence popup menu]" />
+						</widget>
+						<widget class="popup_button" id="reoc" height="30">
+							<flags id="select_event" value="ncrt" />
+							<flags id="mode" value="2" />
+							<boolean id="fixed" value="false" />
+							<translation id="hint" translation_id="257265" type="use" value="Select reminder recurrence type[COMMENT: Hint text for note reminder recurrence popup menu]" />
+							<list id="items">
+								<record id="nore">
+									<translation id="text" translation_id="258274" type="use" value="Once[COMMENT: Menu item text for no note recurrence]" />
+								</record>
+								<record id="dail">
+									<translation id="text" translation_id="257267" type="use" value="Every day[COMMENT: Menu item text for note recurrence]" />
+								</record>
+								<record id="week">
+									<translation id="text" translation_id="257268" type="use" value="Every week[COMMENT: Menu item text for note recurrence]" />
+								</record>
+								<record id="mont">
+									<translation id="text" translation_id="257269" type="use" value="Every month[COMMENT: Menu item text for note recurrence]" />
+								</record>
+								<record id="3mnt">
+									<translation id="text" translation_id="257270" type="use" value="Every three months[COMMENT: Menu item text for note recurrence]" />
+								</record>
+								<record id="6mnt">
+									<translation id="text" translation_id="257271" type="use" value="Every six months[COMMENT: Menu item text for note recurrence]" />
+								</record>
+								<record id="year">
+									<translation id="text" translation_id="257129" type="use" value="Every year[COMMENT: Menu item text for note recurrence]" />
+								</record>
+							</list>
+						</widget>
+					</container>
+
+				</container>
+
+				<!-- Note text -->
+				<widget class="container">
+					<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+					<widget class="label" auto_size="all" spec="text">
+						<translation id="text" translation_id="257256" type="use" value="Note[COMMENT: Heading for edit box to input note text]" />
+					</widget>
+					<widget class="edit_control" id="notx" multiline="true" changed_event="cnte" event_delay="200" navigation_container="true">
+						<attachment class="max_length_attachment" length="1000" show_dialog="true"/>
+					</widget>
+				</widget>
+
+			</widget>
+
+		</container>
+
+		<container id="btns">
+			<layout class="arrange_horizontal_attachment" alignment="right" offset="0" gap="5" />
+			<layout class="stick_to_sides_attachment" alignment="top" apply_to_children="true" inset="0" />
+			<layout class="fit_children_attachment" alignment="vertical" offset="0" />
+
+			<widget class="primary_icon_tick_button" id="cnfc" click_event="cnoc" controller_button="y_button">
+				<translation id="text" translation_id="229918" type="use" value="Confirm" />
+			</widget>
+			<widget class="icon_button" id="undc" auto_size="all" click_event="unoc" controller_button="x_button">
+				<translation id="text" translation_id="230251" type="use" value="Undo" />
+			</widget>
+			<widget class="icon_button" id="canc" auto_size="all" click_event="caoc" controller_button="b_button">
+				<translation id="text" translation_id="229828" type="use" value="Cancel" />
+			</widget>
+
+		</container>
+
+	</widget>
+
+</panel>

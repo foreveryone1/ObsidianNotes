@@ -1,0 +1,8 @@
+<class class="attribute_group" parent="position_role_duty_star_range_based_picture">
+    <list id="value_list">
+        <record min_value="1" max_value="5.99" file="mustermann/attributes/3" red_replacement="bg lighter"/>
+		<record min_value="6" max_value="10.99" file="mustermann/attributes/2" red_replacement="bg lighter"/>
+		<record min_value="11" max_value="15.99" file="mustermann/attributes/1" red_replacement="bg lighter"/>
+		<record min_value="16" max_value="20" file="" red_replacement="bg lighter"/>
+    </list>
+</class>

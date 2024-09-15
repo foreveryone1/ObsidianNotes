@@ -1,0 +1,61 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+	
+	<container entity_layout_id="at43" id="mnCn" name="main container">
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_inset="0"/>
+		
+		<container class="contrast_box" red_replacement="bg lighter" id="dtCn" height="75" name="top_container" navigation_container="true">
+			<attachment_group class="horizontal_arrange" horizontal_alignment="fill" />
+			<container class="client_object_viewer_xml_panel" id="person_person" height="53" auto_size="all" name="profile_container">
+				<attachment_group class="horizontal_arrange" horizontal_layout="40,-1" />
+				<container class="object_portrait_picture" id="picS" width="40" height="40">
+					<string id="image_alignment" value="centre" />
+					<string id="scale_picture" value="true" />
+					<string id="keep_aspect_ratio" value="true" />
+					<record id="object_property">
+						<list id="get_properties">
+							<record>
+								<string id="get_property" value="objt" />
+								<string id="set_property" value="objt" />
+							</record>
+						</list>
+					</record>
+				</container>
+				<container>
+					
+					<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="5" vertical_gap="0" horizontal_inset="0"/>
+					<widget class="person_button" auto_size="vertical" id="nmtx" name="person_button">
+						<string id="info_popup_enabled" value="true" />
+						<string id="size" value="large" />
+						<string id="style" value="bold" />
+					</widget>
+					<widget class="job_label"  id="dofj" auto_size="vertical" name="staff">
+						<string id="colour" value="faded text" />
+						<record id="object_property">
+							<list id="get_properties">
+								<record>
+									<string id="get_property" value="Pcjo" />
+									<string id="set_property" value="valu" />
+								</record>
+							</list>
+						</record>
+					</widget>
+
+				</container>
+			</container>
+			<widget class="text" alignment="left,top" id="info" auto_size="vertical">
+				<string id="multiline" value="true" />
+			</widget>
+		</container>
+		
+		<container class="youth_development_youth_candidate_squad_list_panel" id="Ycsl" name="right_container" navigation_container="true">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true"/>
+		</container>
+		
+	</container>
+	
+	<widget class="text" alignment="centre" id="noYt"  hidden="true">
+		<translation id="text" type="use" translation_id="309036" value="No youth recruitment[COMMENT: team_info_panel; standard of youth recruitment]" />
+	</widget>
+	
+</panel>

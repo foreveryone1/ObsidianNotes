@@ -1,0 +1,111 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<boolean id="should_force_refresh" value="true"/>
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="bottom, extend" vertical_offset="0" vertical_gap="8"/>
+
+		<widget class="text" id="emTX" auto_size="horizontal" height="40" alignment="centre" hidden="true">
+			<layout class="arrange_vertical_attachment" alignment="top"/>
+			<layout class="centre_in_parent_attachment" alignment="all"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal"/>
+			<translation id="text" translation_id="516725" type="use" value="No relevant club vision items to show[COMMENT: AREA: Recruitment meeting; SUB-AREA:Recruitment meeting intro panel (Club Vision); FR-BN: 32765; NOTE: Fallback string to show, if human club has no recruitment-related club vision items]"/>
+		</widget>
+
+		<container class="scrolling_box" id="sclP" navigation_container="true">
+			<container draw_horizontal_dividers="true">
+				<attachment_group class="vertical_arrange_autosize" vertical_gap="10"/>
+
+				<!-- club culture -->
+                <container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="ccbx" table_title_colour="text" hidden="true"/>
+
+				<container id="ltcv">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="8"/>
+
+                    <!-- actionable -->
+                    <container class="inner_box" hidden="true">
+                        <attachment_group class="vertical_arrange_autosize"/>
+
+                        <container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="acbx" title_colour="faded text" can_collapse="false"/>
+                    </container>
+
+                    <!-- informational -->
+                    <container class="inner_box" hidden="true">
+                        <attachment_group class="vertical_arrange_autosize"/>
+
+                        <container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="inbx" title_colour="faded text" can_collapse="false"/>
+                    </container>
+
+                    <container id="PlTa" height="628"> <!-- id indicates this container is the bounding area for dragging objectives, do not change! -->
+                        <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+						
+							<container default_height="22"/>
+							
+							<container class="horizontal_adaptive_container" gap="0" default_height="255">
+							
+								<container default_width="60"/>
+								
+								<!-- current season -->
+								<container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="csbx" table_title_colour="faded text" can_collapse="false" default_width="300">
+									<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="0.9" end_mode="hold_end" trigger_id="hidden" trigger_value="false"/>
+								</container>
+								
+								<container default_width="40"/>
+								
+								<!-- current season + 2 -->
+								<container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="s2bx" table_title_colour="faded text" can_collapse="false" default_width="300">
+									<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="3.3" end_mode="hold_end" trigger_id="hidden" trigger_value="false"/>
+								</container>
+								
+								<container default_width="40"/>
+								
+								<!-- current season + 4 -->
+								<container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="s4bx" table_title_colour="faded text" can_collapse="false" default_width="300">
+									<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="5.7" end_mode="hold_end" trigger_id="hidden" trigger_value="false"/>
+								</container>
+								
+								<container default_width="60"/>
+							
+							</container>
+							
+							<container default_height="15"/>
+							
+							<container default_height="44"/>
+							
+							<container default_height="13"/>
+							
+							<container class="horizontal_adaptive_container" gap="0" default_height="263">
+							
+								<container default_width="-1"/>
+								
+								<!-- current season + 1 -->
+								<container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="s1bx" table_title_colour="faded text" can_collapse="false" default_width="300">
+									<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="2.1" end_mode="hold_end" trigger_id="hidden" trigger_value="false"/>
+								</container>
+								
+								<container default_width="40"/>
+								
+								<!-- current season + 3 -->
+								<container class="club_vision_objective_list_panel" file="club/mustermann/vision/objective list" id="s3bx" table_title_colour="faded text" can_collapse="false" default_width="300">
+									<animation class="fade_animation" start_value="0" end_value="1" duration="0.5" delay="4.5" end_mode="hold_end" trigger_id="hidden" trigger_value="false"/>
+								</container>
+								
+								<container default_width="-1"/>
+							
+							</container>
+							
+							<container default_height="-1" minimum_height="1"/>
+							
+						</container>
+						
+					</container>
+				</container>
+			</container>
+		</container>
+
+	</container>
+
+</panel>

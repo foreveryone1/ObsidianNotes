@@ -1,0 +1,49 @@
+﻿<panel>
+
+	<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="0"/>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<list id="properties_to_forward">
+		<record get_property="titl" set_property="valu" target="Titl"/>
+		<record get_property="pAny" set_property="valu" target="locT"/>
+		<record get_property="text" set_property="valu" target="desc"/>
+		<record get_property="click_event" set_property="clke" target="butt"/>
+	</list>
+
+	<widget class="toggle_button" id="butt" appearance="buttons/custom/match analysis/positive/button" >
+		<layout class="stick_to_sides_attachment" alignment="all"  inset="0" />
+	</widget>
+
+	<container id="bnus">
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="8" vertical_gap="4" horizontal_inset="8,8,8,18" />
+		<layout class="stick_to_sides_attachment" alignment="top,horizontal" inset="0" />
+		<!--icon, Title and Location -->
+		<container>
+			<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" horizontal_offset="0" horizontal_gap="4" vertical_inset="0" />
+			<container width="25" height="26">
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+				<layout class="centre_in_parent_attachment" alignment="vertical" apply_to_children="true" offset="0" />
+
+				<widget class="picture" id="pict" height="26"  file="icons/26px/circle" red_replacement="positive" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" />
+
+				<widget class="picture" height="26"  file="icons/16px/thumbs up" red_replacement="background" image_alignment="centre" scale_picture="false" keep_aspect_ratio="true" />
+
+			</container>
+
+			<container>
+				<attachment_group class="vertical_arrange_autosize" vertical_alignment="middle" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+				<widget class="label" spec="title" id="Titl" size="small" multiline="true" auto_size="vertical" colour="text"/>
+				<widget class="label" id="locT" font="title" colour="faded text" size="small" alignment="left,top"  auto_size="vertical" />
+			</container>
+		</container>
+		<widget class="label" colour="faded text" id="desc" auto_size="vertical" multiline="true"/>
+
+		<widget class="table" auto_size="vertical" id="sugT"  mode="fill_rows, stripe_rows" layout=" -1, 40" fixed_size_rows="false" auto_size_rows="true">
+			<list id="column_table_properties">
+				<record indx="1"   top="4" bottom="4"  sort_disabled="true" />
+			</list>
+		</widget>
+	</container>
+
+
+</panel>

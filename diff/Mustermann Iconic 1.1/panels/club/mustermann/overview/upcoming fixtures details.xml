@@ -1,0 +1,47 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container class="contrast_box" appearance="boxes/contrast/standard/left/paper" red_replacement="primary" width="10"/>
+		
+		<container class="contrast_box" appearance="boxes/contrast/standard/right/paper" red_replacement="bg int" default_width="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+
+				<!-- TEAM LOGO -->
+				<widget class="fixture_opponent_picture" id="oppi" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre_x,centre_y" default_width="50">
+					<record id="object_property">
+						<integer id="get_property" value="fopP" />
+						<boolean id="dont_set_object" value="true"/>
+					</record>
+				</widget>
+
+				<!-- INFO ON TOP -->
+				<container class="plain_box" default_width="-1">
+					<layout class="arrange_vertical_attachment" layout="-3,-2,-2" offset="0" gap="0"/>
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+					<!-- DATE -->
+					<widget class="text" id="time" spec="text" size="10" alignment="centre_x, centre_y, can_scale" style="bold" colour="text"/> 
+
+					<!-- HOME / AWAY / NEUTRAL -->
+					<widget class="fixture_venue_label" id="venu" alignment="centre_x, centre_y, can_scale" format="1" size="8" colour="text">
+						<record id="object_property">
+							<integer id="get_property" value="FxVn" />
+						</record>
+					</widget>
+
+					<!-- COMPETITION -->
+					<widget class="fixture_name_text" id="FxNm" alignment="centre_x, centre_y, can_scale" size="8" colour="text">
+						<record id="object_property" get_property="FxNm" />
+					</widget>
+				</container>
+			</container>
+		</container>
+				
+		
+	</container>
+	
+</panel>

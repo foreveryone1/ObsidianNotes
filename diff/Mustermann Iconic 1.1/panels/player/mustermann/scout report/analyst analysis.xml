@@ -1,0 +1,31 @@
+﻿<panel save_session_state="true" save_default_state="true">
+	<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+	<container id="scou">
+		<layout class="arrange_horizontal_attachment" layout="-1" offset="0" gap="0"/>
+		<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+		<!--Stats/Squad Comparison section on RHS-->
+		<container id="righ" navigation_container="true" default_focus="true">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+			<!--Data hub widgets-->
+			<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" id="dhbW">
+
+				<widget class="data_analyst_visualisation_widget" id="visU" hidden="true" visualisation_type="polygon" data_type="player" category="defensive_wide_midfielder" file="player/mustermann/scout report/visualisation mini" show_mini_visualisation_text="false" default_height="-1" minimum_height="360" priority="1">
+					<record id="object_property" get_property="objt" set_property="objt" />
+					<record id="object_property" get_property="PclC" set_property="comp" />
+				</widget>
+				
+				<widget class="data_analyst_visualisation_widget" id="vis2" hidden="true" visualisation_type="polygon" data_type="player" category="balanced" file="player/mustermann/scout report/visualisation mini" show_mini_visualisation_text="false" default_height="-1" minimum_height="360" priority="1">
+					<record id="object_property" get_property="objt" set_property="objt" />
+					<record id="object_property" get_property="PclC" set_property="comp" />
+				</widget>
+
+			</container>
+
+		</container>
+	</container>
+
+</panel>

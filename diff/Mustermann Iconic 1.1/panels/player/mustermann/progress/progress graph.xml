@@ -1,0 +1,24 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="5,5" apply_to_children="true" />
+
+	<widget class="graph" id="grap" >
+
+		<record id="default_series_properties" colour="accent" type="line" line_width="2" />
+		<record id="instant_hint" file="generic/graph instant hint star rating" />
+		<record id="x_axis" hide_title="true" consistent_label_width="true" gap="2">
+			<record id="label_font" font="title" colour="title" draw_label="false"/>
+		</record>
+		<record id="y_axis" interval="1000" show_labels="false" mark_size="0">		
+			<translation id="title" translation_id="314426" type="use" value="Ability[COMMENT: player popup info panel - scout current ability rating]"/>
+			<translation id="hint" translation_id="257318" type="use" value="Assistant manager's opinion of this player's current ability[COMMENT - person list view column heading hint]"/>
+		</record>
+
+		<list id="grid_line_styles">
+			<record colour="transparent"/>
+			<record colour="transparent"/>
+		</list>
+	</widget>
+	<widget class="text" id="nprg" colour="faded white" alignment="centre" hidden="true">
+		<translation id="text" translation_id="242522" type="use" value="N/A" />
+	</widget>
+</panel>

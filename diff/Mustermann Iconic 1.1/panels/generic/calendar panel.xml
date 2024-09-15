@@ -1,0 +1,199 @@
+<panel save_session_state="true" should_force_refresh="true" >
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+
+    <container class="contrast_box" red_replacement="bg lighter">
+
+		<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+		<container navigation_container="true" default_focus="true" height="40">
+			<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="left,extend"/>
+
+			<!-- buttons area -->
+			<container height="40">
+
+				<string id="remove_if" value="ui.is_fmt_controller_skin"/>
+
+				<attachment_group class="horizontal_arrange_autosize"/>
+				
+				<widget class="tab_strip" id="clsE" auto_size="horizontal" select_event="slst" save_session_state="true">
+					<flags id="appearance" value="tabs/subsection"/>
+					<flags id="alignment" value="top" />
+					<boolean id="use_alt_end_tab_appearances" value="false"/>
+
+					<list id="items">
+						<record>
+							<translation id="name" translation_id="258189" type="use" value="Calendar[COMMENT: manager section heading]" />
+							<integer id="id" value="calS" />
+						</record>
+						<record>
+							<translation id="name" translation_id="361225" type="use" value="List[COMMENT: FR 8117 - calendar list view ]" />
+							<integer id="id" value="clEv" />
+						</record>
+					</list>
+					<integer id="selection" value="calS" />
+				</widget>
+			</container>
+			
+			<container id="btns" >
+				<animation class="fade_on_hide_animation"/>
+
+				<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+				<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="0"/>
+				<layout class="arrange_horizontal_attachment" alignment="right"  />
+
+				<widget class="left_right_list" id="dswd" sele="daTe" auto_size="horizontal" />
+
+				<!-- view button -->
+				<widget class="popup_button" id="view" select_event="mode" auto_size="all" save_session_state="true" >
+					<list id="items">
+						<record id="wek2">
+							<translation id="text" translation_id="320590" type="use" value="Week[COMMENT: calendar view type]" />
+						</record>
+						<record id="mnth">
+							<translation id="text" translation_id="320591" type="use" value="Month[COMMENT: calendar view type]" />
+						</record>
+						<record id="year">
+							<translation id="text" translation_id="320592" type="use" value="Year[COMMENT: calendar view type]" />
+						</record>
+					</list>
+				</widget>
+			</container>
+		</container>
+
+		<container id="baSe">
+			<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" />
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+			<container id="calS">
+
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+				<container class="scrolling_box" id="wek2">
+					<container id="week" >
+						<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+						<!-- This is where weekly days are created which each contain their events. -->
+					</container>
+				</container>
+
+				<container id="mnth" >
+					<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+					<container id="days">
+						<layout class="fit_children_attachment" alignment="vertical" offset="0" />
+						<layout class="arrange_horizontal_attachment" alignment="fill" offset="0" gap="-1" />
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0" apply_to_children="true"/>
+
+						<record id="default_properties" font="text" auto_size="vertical" size="small" alignment="centre" />
+						
+						<widget class="text">
+							<translation id="text" translation_id="229573" type="use" value="Monday"/>
+						</widget>
+
+						<widget class="text">
+							<translation id="text" translation_id="229574" type="use" value="Tuesday"/>
+						</widget>
+
+						<widget class="text">
+							<translation id="text" translation_id="229575" type="use" value="Wednesday"/>
+						</widget>
+
+						<widget class="text">
+							<translation id="text" translation_id="229576" type="use" value="Thursday"/>
+						</widget>
+
+						<widget class="text">
+							<translation id="text" translation_id="229577" type="use" value="Friday"/>
+						</widget>
+
+						<widget class="text">
+							<translation id="text" translation_id="229578" type="use" value="Saturday"/>
+						</widget>
+
+						<widget class="text">
+							<translation id="text" translation_id="229566" type="use" value="Sunday"/>
+						</widget>
+					</container>
+
+					<container id="mdCn">
+						<layout class="arrange_horizontal_attachment" alignment="fill" offset="0" gap="-1" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true"/>
+
+						<container id="sund">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+						<container id="mond">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+						<container id="tues">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+						<container id="wedn">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+						<container id="thur">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+						<container id="frid">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+						<container id="satu">
+							<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="-1" />
+							<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+							<!-- This day's column widgets are created here. -->
+						</container>
+
+					</container>
+
+
+				</container>
+
+				<widget class="table" id="year" fixed_size_rows="false" auto_size_rows="true" layout="-1,-1,-1,-1" gap="-1" />
+
+			</container>
+
+			<widget class="calendar_event_list_fixture_panel" id="clEv" hidden="true" />
+
+			<container navigation_container="true" hidden="true" id="gohc" >
+				<layout class="arrange_horizontal_attachment" alignment="right" />
+				<layout class="fit_children_attachment" alignment="vertical" />
+				<layout class="stick_to_sides_attachment" alignment="top" inset="0" apply_to_children="true" />
+
+				<string id="create_if" value="ui.is_fmt_controller_skin, ui.is_fmt_touchscreen_skin" />
+
+				<widget class="icon_button" id="gohb" auto_size="all" save_session_state="true" controller_button="y_button">
+					<translation id="text" translation_id="250572" type="use" value="Go On Holiday[COMMENT: Manager main/top menu: go on holiday item, when human is currently not on holiday]" />
+					<record id="click_event" event_id="HOLS" event_target="glob" /> <!-- TARGET_GLOBAL_OBSERVERS -->
+				</widget>
+
+			</container>
+		</container>
+
+	</container>
+</panel>

@@ -1,0 +1,77 @@
+<!-- Finance summary panel for the manager home -->
+<panel>
+	<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" gap="4" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+	<string id="skin_style" value="value" />
+
+	<widget class="finance_history_panel" id="obag" finance_history_type="bala" finance_date_format="[%date#1-short_month]" show_instant_hint="true">
+		<record id="object_property" get_property="objt" set_property="objt" />
+	</widget>
+
+	<container>
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="1" horizontal_inset="0" />
+
+		<!-- Labels-->
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="top" inset="0" apply_to_children="true" />
+			<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="0" />
+			<layout class="arrange_horizontal_attachment" alignment="fill" offset="0" gap="4" />
+
+			<!-- Overall balance-->
+			<widget class="text" auto_size="vertical" font="label" colour="accent" size="small">
+				<translation id="text" translation_id="383591" type="use" value="Overall Balance[COMMENT: Finances panel]" />
+			</widget>
+
+			<!-- This season profit / Loss -->
+			<widget class="text" auto_size="vertical" font="label" colour="accent" size="small">
+				<translation id="text" translation_id="385612" type="use" value="Profit/Loss This Season[COMMENT: FR 10252; manager home - finances panel]" />
+			</widget>
+		</container>
+
+		<!-- Values-->
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="top" inset="0" apply_to_children="true" />
+			<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="0" />
+			<layout class="arrange_horizontal_attachment" alignment="fill" offset="0" gap="4" />
+
+			<!-- Overall balance-->
+			<widget class="cash_cell" auto_size="vertical" id="obal" size="large" alignment="left" colour="text"/>
+			<!-- This season profit / Loss -->
+			<widget class="cash_cell" auto_size="vertical" id="plts" size="large" alignment="left" colour="text"/>
+		</container>
+
+		<widget class="horizontal_divider" />
+
+		<!--Transfer Budget-->
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="4" vertical_gap="1" horizontal_inset="0" />
+			<record id="default_properties" auto_size="vertical" />
+
+			<widget class="text" font="label" colour="accent" size="small">
+				<translation id="text" translation_id="291309" type="use" value="Transfer Budget[COMMENT:Transfer budget label]" />
+			</widget>
+			<widget class="cash_cell" id="tfbg" alignment="left" size="large" colour="text"/>
+			<widget class="text" font="text" size="small" colour="faded text" id="tbt1" />
+			<widget class="text" font="text" size="small" colour="faded text" id="tbt2" />
+			<widget class="text" font="text" size="small" colour="faded text" id="tbt4" />
+		</container>
+
+		<!--Wage Budget-->
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_offset="4" vertical_gap="1" horizontal_inset="0" />
+
+			<record id="default_properties" auto_size="vertical" />
+
+			<widget class="text" font="label" colour="accent" size="small">
+				<translation id="text" translation_id="242605" type="use" value="Wage Budget" />
+			</widget>
+
+			<widget class="wage_label" id="wagl" alignment="left" size="large" colour="text"/>
+
+			<widget class="text" font="text" size="small" colour="faded text" id="wbt1" />
+			<widget class="text" font="text" size="small" colour="faded text" id="wbt2" />
+			<widget class="text" font="text" size="small" colour="faded text" id="wbt4" />
+		</container>
+	</container>
+</panel>

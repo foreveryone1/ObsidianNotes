@@ -1,0 +1,27 @@
+﻿<panel>
+	<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_gap="0" />
+	
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_gap="0" />
+		
+		<container class="main_box" navigation_container="true">
+			<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left,extend" vertical_offset="0" />
+			
+			<widget class="link_button" auto_size="all" appearance="buttons/link/title/button" section="TeFi" navigation_focus_target="true">
+				<translation id="text" translation_id="395516" type="use" value="Upcoming Fixtures[COMMENT: FR 9550 - inbox; title for section showing upcoming fixtures for the competition]" />
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+
+			<widget class="simple_data_list" maximum_items="5" set_property="objt">
+				<record id="object_property" get_property="Tn5f" set_property="valu" />
+
+				<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left" horizontal_gap="2" vertical_offset="0" />
+
+				<record id="widget_properties" class="team_upcoming_fixture_widget" colour="secondary" />
+			</widget>
+
+		</container>
+	</container>
+
+
+</panel>

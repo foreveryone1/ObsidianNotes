@@ -1,0 +1,214 @@
+<panel hide_unusable_rows="true">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+
+	<attachment class="test_screen_size_attachment">
+		<list id="properties">
+			<record>
+				<flags id="alignment" value="horizontal" />
+				<integer id="min_value" value="0" />
+				<integer id="max_value" value="1359" />
+				<symbol id="set_property" value="mode" />
+				<boolean id="true_value" value="false" />
+				<boolean id="false_value" value="true" />
+			</record>
+		</list>
+	</attachment>
+
+	<container class="contrast_box" red_replacement="bg lighter">
+		<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="0" vertical_gap="4" />
+		
+		<!--Headers-->
+		<container draw_horizontal_dividers="false">
+			<attachment_group class="vertical_arrange_autosize" vertical_alignment="top" vertical_offset="0" vertical_gap="20" />
+
+			<!--Header 1-->
+			<container id="alVH">
+				<attachment_group class="vertical_arrange_autosize" vertical_alignment="top" vertical_offset="0" vertical_gap="5" />
+
+				<widget class="text" auto_size="none" font="title" size="xlarge" height="30" alignment="centre" colour="disabled">
+					<translation id="text" translation_id="466542" type="use" value="Coach Responsibilities[COMMENT: team training, coach section, responsibilities for coaches in different areas of training]" />
+				</widget>
+
+				<container class="inner_subtle_box_no_margin" height="66">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="15,0" />
+
+					<container height="66">
+						<attachment_group class="horizontal_arrange" horizontal_alignment="left, extend" horizontal_offset="0" horizontal_gap="10" vertical_inset="0" />
+
+						<container width="34">
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+							<widget class="picture" file="icons/48px/bullet" scale_picture="true" image_alignment="centre" colour="fg accent" />
+							<widget class="label" text="1" colour="black" font="title" alignment="centre" auto_size="none" size="large" />
+						</container>
+
+						<widget class="text" auto_size="horizontal" font="title" size="xlarge" height="45" alignment="left, centre_y" colour="text">
+							<translation id="text" translation_id="597652" type="use" value="Select Training Category:[COMMENT: AREA: Training; SUB-AREA: Coach Responsibilities; FR-BN: FM-21028; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: title for selection of a training category]" />
+						</widget>
+
+						<container>
+							<attachment_group class="horizontal_arrange" horizontal_alignment="left" horizontal_offset="10" horizontal_gap="20" vertical_inset="10" />
+
+							<record id="default_properties" auto_size="horizontal" auto_size_minimum_width="200" colour="white" font="title" secondary_icon_enabled="true" alignment="centre" group="0" icon_enabled="false" secondary_icon_alignment="centre" show_button_appearance="true" appearance="buttons/standard/normal/button" />
+
+							<widget class="radio_button" id="fndT" secondary_icon="icons/16px/training attacking" selected="true">
+								<translation id="text" translation_id="468190" type="use" value="Outfield[COMMENT: training session name]" />
+								<record id="click_event">
+									<integer id="event_id" value="trCS" />
+									<integer id="valu" value="1" />
+								</record>
+							</widget>
+
+							<widget class="radio_button" id="temT" secondary_icon="icons/16px/training goalkeeping">
+								<translation id="text" translation_id="596737" type="use" value="Goalkeeping &amp; Fitness[COMMENT: AREA: Training; SUB-AREA: Coach Responsibilities; FR-BN: FM-21028; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: title for sub group of training categories]" />
+								<record id="click_event">
+									<integer id="event_id" value="trCS" />
+									<integer id="valu" value="2" />
+								</record>
+							</widget>
+						</container>
+					</container>
+
+
+				</container>
+			</container>
+
+			<!--Header 2-->
+			<container height="45">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="15,0" />
+
+				<widget class="text" auto_size="none" font="title" size="xlarge" height="45" alignment="centre" colour="disabled" id="wCRT">
+					<translation id="text" translation_id="466542" type="use" value="Coach Responsibilities[COMMENT: team training, coach section, responsibilities for coaches in different areas of training]" />
+				</widget>
+
+				<container id="nCRT">
+					<attachment_group class="horizontal_arrange" horizontal_alignment="left" horizontal_offset="0" horizontal_gap="10" vertical_inset="0" />
+
+					<container width="34">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<widget class="picture" file="icons/48px/bullet" scale_picture="true" image_alignment="centre" colour="fg accent" />
+						<widget class="label" text="2" colour="black" font="title" alignment="centre" auto_size="none" size="large" />
+					</container>
+
+					<widget class="text" auto_size="horizontal" font="title" size="xlarge" height="45" alignment="left, centre_y" colour="text">
+						<translation id="text" translation_id="596736" type="use" value="Set Coach Responsibilities:[COMMENT: AREA: Training; SUB-AREA: Coach Responsibilities; FR-BN: FM-21028; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: title for selection of a coaches training responsibilities]" />
+
+					</widget>
+				</container>
+
+				<container>
+					<attachment_group class="horizontal_arrange" horizontal_alignment="right" horizontal_offset="0" horizontal_gap="8" />
+					<widget class="icon_button" auto_size="horizontal" controller_button="x_button">
+						<string id="click_event" value="auto" />
+						<translation id="text" translation_id="329695" type="use" value="Ask Assistant to Assign[COMMENT: team training coaches panel; ask assistant manager to take control over areas of training]" />
+					</widget>
+
+					<widget class="icon_button" auto_size="horizontal" controller_button="right_shoulder">
+						<string id="click_event" value="clal" />
+						<translation id="text" value="Remove All" translation_id="248399" type="use" />
+					</widget>
+				</container>
+			</container>
+
+		</container>
+
+		<!--Tables-->
+		<container>
+			<attachment_group class="vertical_arrange" vertical_layout="-1, 215" vertical_offset="0" vertical_gap="0" />
+
+			<!--Overall-->
+			<container id="ovTC" hidden="false">
+				<attachment_group class="vertical_arrange" vertical_layout="80,-1,50" vertical_offset="0" vertical_gap="0" />
+
+				<container>
+					<attachment_group class="horizontal_arrange" horizontal_layout="-1,10" horizontal_offset="0" horizontal_gap="0" />
+
+					<widget class="table" id="hdTB" mode="fill_rows" layout="-3,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-1,-1" fixed_size_rows="false" auto_size_rows="true" />
+					<widget class="spacer" width="10" />
+				</container>
+
+				<container class="table" id="coTB" msov="ovHL" mode="fill_rows, select_rows, stripe_rows, dont_allow_empty_selection" layout="-3,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-1,-1">
+					<string id="fixed_size_rows" value="false" />
+					<string id="auto_size_rows" value="true" />
+				</container>
+
+				<widget class="table" id="ftTB" mode="fill_rows, select_rows, stripe_rows" layout="-3,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-1,-1" fixed_size_rows="false" auto_size_rows="true" />
+			</container>
+
+			<!--Outfield-->
+			<container id="ouTC" hidden="true">
+				<attachment_group class="vertical_arrange" vertical_layout="80,-1,50" vertical_offset="0" vertical_gap="0" />
+
+				<container>
+					<attachment_group class="horizontal_arrange" horizontal_layout="-1,10" horizontal_offset="0" horizontal_gap="0" />
+
+					<widget class="table" id="ohTB" mode="fill_rows" layout="-3,-2,-2,-2,-2,-2,-2,-2,-1" fixed_size_rows="false" auto_size_rows="true" />
+					<widget class="spacer" width="10" />
+				</container>
+
+				<container class="table" id="ocTB" msov="ouHL" mode="fill_rows, select_rows, stripe_rows, dont_allow_empty_selection" layout="-3,-2,-2,-2,-2,-2,-2,-2,-1">
+					<string id="fixed_size_rows" value="false" />
+					<string id="auto_size_rows" value="true" />
+				</container>
+
+				<container>
+					<attachment_group class="horizontal_arrange" horizontal_layout="-1,10" horizontal_offset="0" horizontal_gap="0" />
+
+					<widget class="table" id="ofTB" mode="fill_rows, select_rows, stripe_rows" layout="-3,-2,-2,-2,-2,-2,-2,-2,-1" fixed_size_rows="false" auto_size_rows="true" />
+					<widget class="spacer" width="10" />
+				</container>
+			</container>
+
+			<!--GK & Fitness-->
+			<container id="gfTC" hidden="true">
+				<attachment_group class="horizontal_arrange" horizontal_layout="-1,-1" horizontal_offset="0" horizontal_gap="0" />
+
+				<!--GK-->
+				<container>
+					<attachment_group class="vertical_arrange" vertical_layout="80,-1,50" vertical_offset="0" vertical_gap="0" />
+
+					<container>
+						<attachment_group class="horizontal_arrange" horizontal_layout="-1,10" horizontal_offset="0" horizontal_gap="0" />
+
+						<widget class="table" id="ghTB" mode="fill_rows" layout="-3,-2,-2" fixed_size_rows="false" auto_size_rows="true" />
+						<widget class="spacer" width="10" />
+					</container>
+
+					<container class="table" id="gcTB" msov="gkHL" mode="fill_rows, select_rows, stripe_rows, dont_allow_empty_selection" layout="-3,-2,-2">
+						<string id="fixed_size_rows" value="false" />
+						<string id="auto_size_rows" value="true" />
+					</container>
+
+					<widget class="table" id="gfTB" mode="fill_rows, select_rows, stripe_rows" layout="-3,-2,-2" fixed_size_rows="false" auto_size_rows="true" />
+				</container>
+
+				<!--Fitness-->
+				<container>
+					<attachment_group class="vertical_arrange" vertical_layout="80,-1,50" vertical_offset="0" vertical_gap="0" />
+
+					<container>
+						<attachment_group class="horizontal_arrange" horizontal_layout="-1,10" horizontal_offset="0" horizontal_gap="0" />
+
+						<widget class="table" id="fhTB" mode="fill_rows" layout="-3,-2,-2" fixed_size_rows="false" auto_size_rows="true" />
+						<widget class="spacer" width="10" />
+					</container>
+
+					<container class="table" id="fcTB" msov="fiHL" mode="fill_rows, select_rows, stripe_rows, dont_allow_empty_selection" layout="-3,-2,-2">
+						<string id="fixed_size_rows" value="false" />
+						<string id="auto_size_rows" value="true" />
+					</container>
+
+					<widget class="table" id="ffTB" mode="fill_rows, select_rows, stripe_rows" layout="-3,-2,-2" fixed_size_rows="false" auto_size_rows="true" />
+				</container>
+
+			</container>
+
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+				<container class="team_training_coaches_attribute_panel" id="ttCP" hidden="false" height="235" />
+			</container>
+
+		</container>
+	</container>
+</panel>

@@ -1,0 +1,57 @@
+<panel navigation_container="true">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container  id="SUBP" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+	
+	<container class="vertical_adaptive_container" id="mnCN" gap="0" mode="distribute_equally">
+		
+		<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1">
+		
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+				<widget class="data_analyst_visualisation_widget" id="xgsh" show_mini_visualisation_text="false" visualisation_type="polygon" data_type="team" category="team_general" file="human/mustermann/home/performance/visualisation mini">
+					<record id="object_property" get_property="objt" set_property="objt" />
+				</widget>
+			</container>
+			
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+				<widget class="data_analyst_visualisation_widget" id="mm03" show_mini_visualisation_text="false" visualisation_type="polygon" data_type="team" category="team_offensive" file="human/mustermann/home/performance/visualisation mini">
+					<record id="object_property" get_property="objt" set_property="objt"/>
+				</widget>
+			</container>
+			
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+				<widget class="data_analyst_visualisation_widget" id="mm04" show_mini_visualisation_text="false" visualisation_type="polygon" data_type="team" category="team_defensive" file="human/mustermann/home/performance/visualisation mini">
+					<record id="object_property" get_property="objt" set_property="objt"/>
+				</widget>
+			</container>
+		
+		</container>
+		
+	</container>
+
+
+	<!--<container height="300">
+		<attachment_group class="horizontal_arrange" horizontal_layout="-1,-1" horizontal_gap="8" />
+		<widget class="data_analyst_visualisation_widget" id="xgsh" show_mini_visualisation_text="false" visualisation_type="polygon" data_type="team" category="team_general" file="widgets/data analyst visualisation mini" default_focus="true">
+			<record id="object_property" get_property="objt" set_property="objt" />
+		</widget>
+		<container height="300">
+			<attachment_group class="vertical_arrange" vertical_layout="-1,-1" vertical_gap="8" />					
+			<widget class="data_analyst_visualisation_widget" id="asda" height="300" visualisation_type="polygon" data_type="team" category="team_offensive" file="widgets/data analyst visualisation mini">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+			<widget class="data_analyst_visualisation_widget" id="adsh" height="300" visualisation_type="polygon" data_type="team" category="team_defensive" file="widgets/data analyst visualisation mini">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+		</container>
+	</container>-->
+</panel>

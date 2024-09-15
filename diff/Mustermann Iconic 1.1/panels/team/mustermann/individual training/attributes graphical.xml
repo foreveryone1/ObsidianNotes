@@ -1,0 +1,1137 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+	<container class="contrast_box" red_replacement="bg lighter">
+		<record id="object_property" get_property="Pigo" set_property="hidn"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+		<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+		
+			<widget class="label" font="title" alignment="centre_x,centre_y" colour="gimn2" size="10" default_height="22">
+				<translation id="text" type="use" translation_id="323123" value="Attributes"/>
+			</widget>
+		
+			<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1">
+				
+				<container default_width="-1" minimum_width="1" priority="2"/>
+				
+				<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="150" priority="1">
+				
+					<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg green darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="467462" value="Final Third"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg green darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="230021" value="Movement"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg green darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="229306" value="Shooting"/>
+						</widget>
+																													
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="492251" value="Ball Control"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="227798" value="Crossing"/>
+						</widget>
+												
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="227881" value="Passing"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="468242" value="Set Pieces"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg red darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="492252" value="Aerial"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg red darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="227886" value="Positioning"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg red darker" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="227902" value="Tackling"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="gimn2" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="230010" value="Leadership"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="227774" value="Agility"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="467458" value="Endurance"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="308890" value="Quickness"/>
+						</widget>
+						
+						<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+							<translation id="text" type="use" translation_id="227900" value="Strength"/>
+						</widget>
+					
+					<container default_height="-1" minimum_height="1"/>
+				
+				</container>
+				
+				<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="100" priority="1">
+			
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />	
+												
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+							
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+																			
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pcmp"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pfla"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pant"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Potb"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pfin"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Plsh"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+															
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pdri"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pfrs"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pcro"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pcro"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+									
+								</container>
+							</container>
+						</container>
+					
+					</container>
+																	
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ppas"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ptec"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pcre"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pcor"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pfrk"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ppen"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+											
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pbra"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Phea"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Phea"/>
+									</widget>
+														
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pdec"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pmar"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ppsn"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pagg"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pcnt"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ptac"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pdet"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pinf"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ptwr"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+								
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pagi"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pagi"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pbal"/>
+									</widget>
+
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+								
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pnft"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Psta"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pwkr"/>
+									</widget>
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pacc"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pacc"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Ppac"/>
+									</widget>
+
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container default_width="-1" minimum_width="1"/>
+				
+								<container>
+									<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pjum"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pstr"/>
+									</widget>
+									
+									<widget class="attribute_group_comparison" auto_size="horizontal">
+										<record id="object_property" get_property="Pstr"/>
+									</widget>
+
+								</container>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="-1" minimum_height="1"/>
+					
+				</container>
+				
+				<container default_width="50" priority="1"/>
+				
+				<container default_width="-1" minimum_width="1" priority="2"/>
+				
+			</container>
+		
+		</container>
+		
+	</container>
+					
+	<container class="contrast_box" red_replacement="bg lighter">
+		<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+		<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+		
+			<widget class="label" font="title" alignment="centre_x,centre_y" colour="gimn2" size="10" default_height="22">
+				<translation id="text" type="use" translation_id="323123" value="Attributes"/>
+			</widget>
+		
+			<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="-1">
+				
+				<container default_width="-1" minimum_width="1" priority="2"/>
+				
+				<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="150" priority="1">
+				
+					<widget class="label" font="title" alignment="right,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="247512" value="Distribution"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="492253" value="Reactions"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="492254" value="Tactical"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="492255" value="Technique"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="492256" value="Sweeping"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg blue darker" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="492251" value="Ball Control"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg blue darker" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="227798" value="Crossing"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg blue darker" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="230021" value="Movement"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg blue darker" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="227881" value="Passing"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg blue darker" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="468242" value="Set Pieces"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="227774" value="Agility"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="467458" value="Endurance"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="308890" value="Quickness"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="fg" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="227900" value="Strength"/>
+					</widget>
+					
+					<widget class="label" font="title" alignment="right,centre_y" colour="gimn2" size="10" default_height="22">
+						<translation id="text" type="use" translation_id="230010" value="Leadership"/>
+					</widget>
+					
+					<container default_height="-1" minimum_height="1"/>
+				
+				</container>
+				
+				<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="100" priority="1">
+				
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pkic"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pkic"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pthr"/>
+								</widget>
+								
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pant"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcnt"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pref"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcom"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pdec"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ppsn"/>
+								</widget>
+													
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcmp"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Phan"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ptec"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcoa"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pooo"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Prou"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pdri"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pfrs"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ptec"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcro"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcro"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ptec"/>
+								</widget>
+								
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pant"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pdec"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Potb"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ppas"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ptec"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcre"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pcor"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pfrk"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ppen"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pagi"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pagi"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pbal"/>
+								</widget>
+
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pnft"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Psta"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pwkr"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pacc"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pacc"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ppac"/>
+								</widget>
+
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pjum"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pstr"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pstr"/>
+								</widget>
+
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="22">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<widget class="picture" file="mustermann/attributes/stars" image_alignment="centre_x,centre_y" alignment="centre_x,centre_y" red_replacement="gimn2"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+							
+							<container default_width="-1" minimum_width="1"/>
+				
+							<container>
+								<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+								
+								<container/>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pdet"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Pinf"/>
+								</widget>
+								
+								<widget class="attribute_group_training" auto_size="horizontal">
+									<record id="object_property" get_property="Ptwr"/>
+								</widget>
+							</container>
+						</container>
+					
+					</container>
+					
+					<container default_height="-1" minimum_height="1"/>
+				
+				</container>
+				
+				<container default_width="50" priority="1"/>
+				
+				<container default_width="-1" minimum_width="1" priority="2"/>
+				
+			</container>
+		
+		</container>
+		
+	</container>
+				
+</panel>

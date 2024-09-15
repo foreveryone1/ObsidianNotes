@@ -1,0 +1,1119 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+	
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+		<container default_height="-1" priority="1" background_colour="bg">
+			<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true"/>
+			<layout class="arrange_vertical_attachment" alignment="bottom, extend"/>
+			
+			<!--MAIN BOX-->
+			<container class="scrolling_box" id="ScrB" navigation_container="true">
+
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+				
+				<container draw_horizontal_dividers="false">
+					<attachment_group class="vertical_arrange_autosize" vertical_gap="0"/>
+																					
+					<!--HEADER-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="134">
+					
+						<container default_width="-1" minimum_width="1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1160">
+						
+							<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+								<!--CLUB BADGE-->
+								<container>
+									<container height="118" width="118">
+										<layout class="stick_to_sides_attachment" alignment="left" inset="55"/>
+										<layout class="stick_to_sides_attachment" alignment="top" inset="4"/>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+										
+										<widget class="object_portrait_picture" id="pclB" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" wants_mouse_events="true" transparency="0.6">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />						
+											<record id="object_property" dont_set_hint="true" get_property="Pclb" set_property="objt" />
+										</widget>									
+									</container>
+								</container>
+								
+								<!--PLAYER PICTURE-->
+								<container>
+									<container height="126" width="126">
+										<layout class="stick_to_sides_attachment" alignment="left" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="top" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+										
+										<widget class="picture" id="prop" scale_picture="true" keep_aspect_ratio="true" image_alignment="left,centre_y">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<record id="object_property">
+												<list id="get_properties">
+													<!--Facegen data request-->
+													<record get_property="fcgn" />
+													<!--Fake name request-->
+													<record get_property="Pfke" />
+													<record get_property="prpc" set_property="valu" />
+												</list>
+											</record>
+										</widget>									
+									</container>
+								</container>
+								
+								<!--NAME & DETAILS-->
+								<container>
+									<container height="118" width="618">
+										<layout class="stick_to_sides_attachment" alignment="left" inset="194"/>
+										<layout class="stick_to_sides_attachment" alignment="top" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+										
+										<!--NAME-->
+										<widget class="person_button" id="pnam" alignment="left,centre_x,can_scale" font="title" size="16" colour="mustermanntext" default_height="30">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<record id="object_property" get_property="objt"/>
+										</widget>
+										
+										<!--JOB-->
+										<widget class="job_label" id="jobl" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="30"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<record id="object_property" get_property="PcJj"/>
+										</widget>
+										
+										<!--REPUTATION-->
+										<widget class="reputation_label" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="52"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<record id="object_property" get_property="Pcrp" dont_set_hint="true"/>
+										</widget>
+
+										<!--NATIONALITY-->
+										<widget class="formatted_label" id="intc" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="74"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<translation id="format" translation_id="242551" type="use" value="[%number#1] years old" />
+											<record id="object_property" get_property="Page"/>
+										</widget>										
+										
+										<!--NATIONALITY-->
+										<widget class="editable_client_object_property_panel" id="intc" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+											<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+											<layout class="stick_to_sides_attachment" alignment="top" inset="96"/>
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<record id="widget_info" class="nation_button" icon_enabled="false" format="[%nation#1-nationality]"/>
+											<record id="object_property" get_property="PNat"/>
+										</widget>
+														
+									</container>
+								</container>
+								
+								<!--JOB PREFERENCE-->
+								<container>
+									<container height="118" width="300">
+										<layout class="stick_to_sides_attachment" alignment="right" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="top" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+										
+										<container class="contrast_box" red_replacement="mustermann1">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+											
+											<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
+																									
+												<widget class="label" alignment="centre_x,top" font="title" colour="mustermanntext" default_height="18">
+													<translation id="text" translation_id="321139" type="use" value="Preferred Job" />
+												</widget>
+												
+												<widget class="job_label" alignment="centre_x,top" colour="mustermanntext" default_height="18">
+													<record id="object_property" get_property="Ppfj"/>
+												</widget>
+												
+												<container default_height="-1" minimum_height="1"/>
+												
+												<widget class="editable_client_object_property_panel" id="Pcww" default_height="18" colour="mustermanntext">
+													<record id="object_property" get_property="Pcww" />
+												</widget>
+												<widget class="editable_client_object_property_panel" id="Pcex" colour="mustermanntext" default_height="18">
+													<record id="object_property" get_property="Pcex" />
+												</widget>
+											
+											</container>
+																													
+										</container>
+										
+									</container>
+								</container>																					
+							</container>
+							
+						</container>
+						
+						<container default_width="-1" minimum_width="1"/>
+						
+					</container>
+				
+					<!--ARCHETYPES-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="42">
+					
+						<container default_width="-1" minimum_width="1"/>
+						
+						<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="mustermann2" default_width="1160">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<container class="horizontal_adaptive_container" gap="64" mode="distribute_equally">
+							
+								<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+									<list id="value_list">
+										<record min_value="1" max_value="5" file="mustermann/archetypes/hustler" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+										<record min_value="6" max_value="10" file="mustermann/archetypes/hustler" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+										<record min_value="11" max_value="15" file="mustermann/archetypes/hustler" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+										<record min_value="16" max_value="20" file="mustermann/archetypes/hustler" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+									</list>	
+									<record id="object_property" get_property="Npde"/>
+								</widget>
+								
+								<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+									<list id="value_list">
+										<record min_value="1" max_value="5" file="mustermann/archetypes/taskmaster" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+										<record min_value="6" max_value="10" file="mustermann/archetypes/taskmaster" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+										<record min_value="11" max_value="15" file="mustermann/archetypes/taskmaster" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+										<record min_value="16" max_value="20" file="mustermann/archetypes/taskmaster" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+									</list>	
+									<record id="object_property" get_property="Npld"/>
+								</widget>
+								
+								<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+									<list id="value_list">
+										<record min_value="1" max_value="5" file="mustermann/archetypes/firestarter" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+										<record min_value="6" max_value="10" file="mustermann/archetypes/firestarter" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+										<record min_value="11" max_value="15" file="mustermann/archetypes/firestarter" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+										<record min_value="16" max_value="20" file="mustermann/archetypes/firestarter" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+									</list>	
+									<record id="object_property" get_property="Npmo"/>
+								</widget>
+								
+								<widget class="value_based_picture" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26">			
+									<list id="value_list">
+										<record min_value="1" max_value="5" file="mustermann/archetypes/whisperer" red_replacement="mustermann1" green_replacement="mustermann1" blue_replacement="mustermann0"/>
+										<record min_value="6" max_value="10" file="mustermann/archetypes/whisperer" red_replacement="mustermann3" green_replacement="mustermann3" blue_replacement="bg darker"/>
+										<record min_value="11" max_value="15" file="mustermann/archetypes/whisperer" red_replacement="mustermann6" green_replacement="mustermann6" blue_replacement="bg darker"/>
+										<record min_value="16" max_value="20" file="mustermann/archetypes/whisperer" red_replacement="gimn3" green_replacement="gimn3" blue_replacement="bg darker"/>
+									</list>	
+									<record id="object_property" get_property="Npmm"/>
+								</widget>
+																
+								<container default_width="-1"/>
+								
+								<widget class="client_object_viewer_selector_panel" file="non_player/mustermann/profile/notes button" default_width="16"/>
+							
+							</container>
+						</container>						
+						
+						<container default_width="-1" minimum_width="1"/>
+					
+					</container>
+					
+					<!--MANAGER STATS-->
+					<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" height="534">
+					
+						<container default_width="-1" minimum_width="1"/>
+						
+						<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" default_width="1160">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<widget class="label" alignment="left,centre_y" font="title" colour="title" size="xlarge" default_height="30">
+									<translation id="text" translation_id="323124" type="use" value="Statistics" />
+								</widget>
+								
+								<container height="8"/>
+								
+								<container class="horizontal_adaptive_container" gap="16" mode="distribute_equally" default_height="150">
+								
+									<container width="150">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="mustermann_doughnut_inverted" width="150">
+											<record id="object_property" get_property="Tglr"/>
+										</widget>
+										
+										<widget class="mustermann_doughnut" width="150">
+											<record id="object_property" get_property="Tgwr"/>
+										</widget>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-1, 18, 30, -1" vertical_offset="0" vertical_gap="0"/>
+											
+											<container/>
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="small">
+												<translation id="text" translation_id="338615" type="use" value="Win Ratio" />
+											</widget>
+											
+											<widget class="dashed_record_percentage_label" alignment="centre_x,top" size="large" colour="fg">
+												<record id="object_property" get_property="Tgwr"/>
+											</widget>
+											<container/>
+										
+										</container>
+									
+									</container>
+									
+									<container class="vertical_adaptive_container" gap="4" mode="distribute_equally" default_width="-1">
+									
+										<!--Game Played - Entire Career -->
+										<container default_height="-1">
+											<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+																				
+											<widget class="dashed_number_label" id="Vogp" auto_size="horizontal" spec="text" alignment="centre_x,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tgpl" />
+												</record>
+											</widget>
+											
+											<widget class="label" id="Logp" auto_size="horizontal" spec="text" alignment="left,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tgpl" />
+													<boolean id="name" value="true" />
+												</record>
+											</widget>
+											
+										</container>
+										
+										<!--Games Won - Entire Career -->
+										<container default_height="-1">
+											<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+									
+											<widget class="dashed_number_label" id="Vogw" auto_size="horizontal" spec="text" alignment="centre_x,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tgwn" />
+												</record>
+											</widget>
+											
+											<widget class="label" id="Logw" auto_size="horizontal" spec="text" alignment="left,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tgwn" />
+													<boolean id="name" value="true" />
+												</record>
+											</widget>
+											
+										</container>
+										
+										<!--Games Drawn - Entire Career -->
+										<container default_height="-1">
+											<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+									
+											<!--Game Played - Entire Career -->
+											<widget class="dashed_number_label" id="Vogd" auto_size="horizontal" spec="text" alignment="centre_x,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tgdw" />
+												</record>
+											</widget>
+											
+											<widget class="label" id="Logd" auto_size="horizontal" spec="text" alignment="left,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tgdw" />
+													<boolean id="name" value="true" />
+												</record>
+											</widget>
+											
+										</container>
+										
+										<!--Games Lost - Entire Career -->
+										<container default_height="-1">
+											<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+
+											<widget class="dashed_number_label" id="Vogl" auto_size="horizontal" spec="text" alignment="centre_x,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tglt" />
+												</record>
+											</widget>
+											
+											<widget class="label" id="Logl" auto_size="horizontal" spec="text" alignment="left,centre_y">
+												<record id="object_property">
+													<integer id="get_property" value="Tglt" />
+													<boolean id="name" value="true" />
+												</record>
+											</widget>
+											
+										</container>
+									
+									</container>
+																		
+									<container width="150">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>										
+										
+										<widget class="picture" file="mustermann/stats/goals" red_replacement="fg positive" blue_replacement="bg int" green_replacement="bg darker" transparency="0.5" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+																				
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-1, 18, 30, -1" vertical_offset="0" vertical_gap="0"/>
+											
+											<container/>
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="normal">
+												<translation id="text" translation_id="249372" type="use" value="For" />
+											</widget>
+											
+											<widget class="dashed_number_label" alignment="centre_x,top" size="xlarge" colour="fg">
+												<record id="object_property" get_property="Tgfr"/>
+											</widget>
+											<container/>
+										
+										</container>
+									
+									</container>
+									
+									<container width="150">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="mustermann/stats/goals" red_replacement="fg negative" blue_replacement="bg int" green_replacement="bg darker" transparency="0.5" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-1, 18, 30, -1" vertical_offset="0" vertical_gap="0"/>
+											
+											<container/>
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="normal">
+												<translation id="text" translation_id="315362" type="use" value="Against" />
+											</widget>
+											
+											<widget class="dashed_number_label" alignment="centre_x,top" size="xlarge" colour="fg">
+												<record id="object_property" get_property="Tgaa"/>
+											</widget>
+											<container/>
+										
+										</container>
+									
+									</container>
+									
+									<container width="150">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="mustermann/stats/goals" red_replacement="gimn2" blue_replacement="bg int" green_replacement="bg darker" transparency="0.5" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-1, 18, 30, -1" vertical_offset="0" vertical_gap="0"/>
+											
+											<container/>
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="normal">
+												<translation id="text" translation_id="247224" type="use" value="Difference" />
+											</widget>
+											
+											<widget class="dashed_number_label" alignment="centre_x,top" size="xlarge" colour="fg">
+												<record id="object_property" get_property="Tgdf"/>
+											</widget>
+											<container/>
+										
+										</container>
+									
+									</container>
+									
+									<container width="200">
+											<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+											
+											<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+											
+												<widget class="label" alignment="left,centre_y" font="title" colour="title" height="22">
+													<translation id="text" translation_id="509701" type="use" value="The Accolades"/>      
+												</widget>
+											
+												<container default_height="-1">
+													<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1,-1"/>
+													
+													<widget class="picture" file="icons/26px/gold medal" scale_picture="true" image_alignment="right,centre_y">
+														<translation id="text" type="use" value="" />
+													</widget>
+													<widget class="formatted_label" id="p1st" row="2" col="1" alignment="left,centre_y" colour="mustermanntext">
+														<record id="object_property" get_property="Pact" set_property="valu"/>
+														<string id="format" value="[%number#1]"/>
+													</widget>
+													<widget class="picture" file="icons/26px/silver medal" scale_picture="true" image_alignment="right,centre_y">
+														<translation id="text" type="use" value="" />
+													</widget>
+													<widget class="formatted_label" id="p2nd" row="2" col="1" alignment="left,centre_y" colour="mustermanntext">
+														<record id="object_property" get_property="Pact" set_property="valu"/>
+														<string id="format" value="[%number#2]"/>
+													</widget>
+													<widget class="picture" file="icons/26px/bronze medal" scale_picture="true" image_alignment="right,centre_y">
+														<translation id="text" type="use" value="" />
+													</widget>
+													<widget class="formatted_label" id="p3rd" row="2" col="1" alignment="left,centre_y" colour="mustermanntext">
+														<record id="object_property" get_property="Pact" set_property="valu"/>
+														<string id="format" value="[%number#3]"/>
+													</widget>
+												</container>
+												
+												<widget class="label" alignment="left,centre_y" font="title" colour="title" height="22">
+													<translation id="text" translation_id="557946" type="use" value="Competitions"/>      
+												</widget>
+												
+												<container default_height="-1">
+													<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1,-1"/>
+													
+													<widget class="picture" file="icons/26px/gold trophy" scale_picture="true" image_alignment="right,centre_y">
+														<translation id="text" type="use" value="" />
+													</widget>
+													<widget class="formatted_label" id="p1st" row="2" col="1" alignment="left,centre_y" colour="mustermanntext">
+														<record id="object_property" get_property="Pact" set_property="valu"/>
+														<string id="format" value="[%number#4]"/>
+													</widget>
+													<widget class="picture" file="icons/26px/silver trophy" scale_picture="true" image_alignment="right,centre_y">
+														<translation id="text" type="use" value="" />
+													</widget>
+													<widget class="formatted_label" id="p2nd" row="2" col="1" alignment="left,centre_y" colour="mustermanntext">
+														<record id="object_property" get_property="Pact" set_property="valu"/>
+														<string id="format" value="[%number#5]"/>
+													</widget>
+													<widget class="picture" file="icons/26px/bronze trophy" scale_picture="true" image_alignment="right,centre_y">
+														<translation id="text" type="use" value="" />
+													</widget>
+													<widget class="formatted_label" id="p3rd" row="2" col="1" alignment="left,centre_y" colour="mustermanntext">
+														<record id="object_property" get_property="Pact" set_property="valu"/>
+														<string id="format" value="[%number#6]"/>
+													</widget>
+												</container>
+																						
+											</container>										
+										
+										</container>
+									
+								</container>
+								
+								<container height="16"/>
+								
+								<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="64" id="nphf">
+								
+									<container class="contrast_box_no_margin" red_replacement="bg int" default_width="-1">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="mustermann/map/flag" red_replacement="gimn2" green_replacement="mustermann1" blue_replacement="gimn2" transparency="0.05" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-3, -5" vertical_offset="0" vertical_gap="0"/>
+											
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="small">
+												<translation id="text" translation_id="242572" type="use" value="Highest Nationality Ranking" />
+											</widget>
+											
+											<widget class="dashed_number_label" id="Nhnr" spec="text" size="xlarge" alignment="centre_x,top">
+												<record id="object_property">
+													<integer id="get_property" value="Nhnr" />
+												</record>
+											</widget>
+										
+										</container>
+																													
+									</container>
+									
+									<container class="contrast_box_no_margin" red_replacement="bg int" default_width="-1">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="mustermann/map/nation" red_replacement="bg darker" green_replacement="mustermann1" blue_replacement="gimn2" transparency="0.05" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-3, -5" vertical_offset="0" vertical_gap="0"/>
+											
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="small">
+												<translation id="text" translation_id="242573" type="use" value="Highest Nation Ranking" />
+											</widget>
+											
+											<widget class="dashed_number_label" id="Nhtr" spec="text" size="xlarge" alignment="centre_x,top">
+												<record id="object_property">
+													<integer id="get_property" value="Nhtr" />
+												</record>
+											</widget>
+										
+										</container>
+																													
+									</container>
+									
+									<container class="contrast_box_no_margin" red_replacement="bg int" default_width="-1">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="mustermann/map/continent" red_replacement="bg darker" green_replacement="gimn2" blue_replacement="mustermann1" transparency="0.05" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-3, -5" vertical_offset="0" vertical_gap="0"/>
+											
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="small">
+												<translation id="text" translation_id="242574" type="use" value="Highest Continental Ranking" />
+											</widget>
+											
+											<widget class="dashed_number_label" id="Nhcr" spec="text" size="xlarge" alignment="centre_x,top">
+												<record id="object_property">
+													<integer id="get_property" value="Nhcr" />
+												</record>
+											</widget>
+										
+										</container>
+																													
+									</container>
+									
+									<container class="contrast_box_no_margin" red_replacement="bg int" default_width="-1">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+										
+										<widget class="picture" file="mustermann/map/map" red_replacement="bg darker" green_replacement="gimn2" blue_replacement="mustermann1" transparency="0.05" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+										
+										<container>
+											<attachment_group class="vertical_arrange" vertical_layout="-3, -5" vertical_offset="0" vertical_gap="0"/>
+											
+											<widget class="label" alignment="centre_x,bottom" font="title" colour="title" size="small">
+												<translation id="text" translation_id="242575" type="use" value="Highest World Ranking" />
+											</widget>
+											
+											<widget class="dashed_number_label" id="Nhwr" spec="text" size="xlarge" alignment="centre_x,top">
+												<record id="object_property">
+													<integer id="get_property" value="Nhwr" />
+												</record>
+											</widget>
+										
+										</container>
+																													
+									</container>
+								
+								</container>
+								
+								<container height="8"/>
+								
+								<widget class="non_player_history_overview_panel" file="human/mustermann/profile/stats table" default_height="-1">								
+									<record id="object_property" get_property="objt" set_property="objt"/>
+								</widget>
+																								
+							</container>
+							
+							<container id="mmnp" hidn="true">
+								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+								<container class="contrast_box" red_replacement="bg lighter">
+									<animation class="slide_in_top_animation"/>
+									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+									<container id="Pnot" class="filterable_notes_panel" file="non_player/mustermann/profile/notes container">
+										<record id="object_property" get_property="Pers"/>
+									</container>
+								</container>
+
+							</container>								
+						
+						</container>
+						
+						<container default_width="-1" minimum_width="1"/>
+					
+						
+					</container>					
+					
+					<!--COACHING-->
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="464">
+					
+						<container default_width="-1" minimum_width="1"/>
+						
+						<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="1160">
+						
+							<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" default_height="-1">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+								
+								<container class="vertical_adaptive_container" gap="0" mode="distribute equally">
+																																							
+									<widget class="label" alignment="left,centre_y" font="title" colour="title" size="xlarge" default_height="30">
+										<translation id="text" translation_id="532737" type="use" value="Coaching" />
+									</widget>
+									
+									<widget class="coaching_badge_label" id="coaq" alignment="left,centre_y" colour="fg" default_height="22">
+										<record id="object_property" get_property="Pcqu"/>
+									</widget>
+									
+									<container height="8"/>
+									
+									<!--TACTICAL PHILOSOPHY & EDUCATION-->
+									<container id="nptp" default_height="-1">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+									
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+										
+											<widget class="non_player_tactics_overview_panel" file="none" default_width="-1">
+												<record id="object_property">
+													<integer id="get_property" value="objt" />
+													<integer id="set_property" value="objt" />
+												</record>
+												<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+												<widget class="plain_box" colour="">
+													<layout class="arrange_horizontal_attachment" layout="-1" offset="0" gap="0" />
+													<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+													<widget class="pitch_with_tactics" id="attp" icon_flags="show_selection_image,dont_fade_icons" >
+														<boolean id="pitch_is_read_only" value="true" />
+														<boolean id="vertical" value="true" />
+														<boolean id="pitch_dont_draw_indicators" value="true" />
+														<boolean id="pitch_draw_grass" value="true" />
+														<integer id="pitch_vertical_padding" value="0" />
+														<integer id="pitch_touchline_width_percentage" value="1" />
+														<integer id="pitch_line_colour" value="fg" />
+														<integer id="line_width" value="1.4" />
+														<integer id="pitch_override_icon_size" value="2.8" />
+														<integer id="pitch_alignment" value="centre" />
+													</widget>
+												</widget>
+												
+												<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+												
+													<container default_height="-1"/>
+																																				
+													<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="30">
+													
+														<container width="12"/>
+													
+														<container class="contrast_box" red_replacement="bg darker" transparency="0.5" width="112">
+															<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+															
+															<widget class="formation_label" id="lePF" alignment="centre_x,centre_y,can_scale" font="text" colour="text">
+																<record id="object_property" get_property="Nppf" />
+															</widget>
+															
+														</container>
+														
+														<container default_width="-1" minimum_width="1"/>
+														
+													</container>
+													
+													<container height="4"/>
+												
+												</container>
+											</widget>
+											
+											<container width="8"/>
+																						
+											<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="-1">
+																							
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="293302" type="use" value="Coaching Attacking" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Ncha"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="293303" type="use" value="Coaching Defending" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Nchd"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="293306" type="use" value="Coaching Mental" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Nchm"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="293307" type="use" value="Coaching Tactical" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Ncta"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="293308" type="use" value="Coaching Technical" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Ncte"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="293304" type="use" value="Coaching Fitness" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Nchf"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="439313" type="use" value="Coaching GK Distribution" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Npgd"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="439312" type="use" value="Coaching GK Handling" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Npgh"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="439311" type="use" value="Coaching GK Shot Stopping" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Npgs"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+												
+													<container width="8"/>
+													
+													<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+														<translation id="text" translation_id="227939" type="use" value="Working With Youngsters" />
+													</widget>
+												
+													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+														<record id="object_property" get_property="Npwy"/>
+													</widget>
+													
+													<container width="8"/>
+												
+												</container>
+												
+												<container default_height="-1" minimum_height="1"/>
+											
+											</container>
+											
+											<container width="16"/>
+											
+											<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+											
+												<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
+													<translation id="text" translation_id="308907" type="use" value="Mentality" />
+												</widget>
+												
+												<widget class="playing_mentality_label" id="nast" alignment="left,centre_y" font="text" colour="text" default_height="18">
+													<record id="object_property" get_property="nppm" />
+												</widget>
+												
+												<container height="8"/>
+												
+												<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
+													<translation id="text" translation_id="242534" type="use" value="Pressing Style" />
+												</widget>
+												
+												<widget class="pressing_style_label" id="nppp" alignment="left,centre_y" font="text" colour="text" default_height="18">
+													<record id="object_property" get_property="nppp" />
+												</widget>
+												
+												<container height="8"/>
+												
+												<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
+													<translation id="text" translation_id="242547" type="use" value="Marking Style" />
+												</widget>
+												
+												<widget class="marking_style_label" id="nppm" alignment="left,centre_y" font="text" colour="text" default_height="18">
+													<record id="object_property" get_property="nppm" />
+												</widget>
+												
+												<container height="8"/>											
+													
+												<container id="tncP" default_height="-1">
+													<attachment_group class="vertical_arrange" vertical_layout="22, -1" vertical_gap="0" vertical_offset="6" horizontal_inset="0" />
+													<widget class="label" id="knfL" col="0" row="0" alignment="left, centre_y" font="title" colour="title" height="22"/>
+													<container class="scrolling_box" id="chrA">
+														<layout class="stick_to_sides_attachment" alignment="top, left" apply_to_children="true" />
+														<widget class="text" id="tncs" auto_size="vertical" />
+													</container>
+												</container>
+																																				
+											</container>
+																																																																									
+										</container>
+																			
+									</container>
+																																							
+								</container>
+																																	
+							</container>
+							
+						</container>
+						
+						<container default_width="-1" minimum_width="1"/>
+						
+					</container>
+															
+					<!--SCOUTING-->
+					<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" height="336">
+					
+						<container default_width="-1" minimum_width="1"/>
+						
+						<container class="contrast_box" appearance="boxes/contrast/no margin/middle/paper" red_replacement="bg lighter" default_width="1160">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<widget class="picture" file="mustermann/map/world" red_replacement="bg darker" green_replacement="gimn2" blue_replacement="mustermann1" transparency="0.1" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" scale_picture="false" keep_aspect_ratio="true"/>
+							
+							<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+							
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+								
+									<container width="8"/>
+								
+									<widget class="label" alignment="left,centre_y" font="title" colour="title" size="xlarge" default_width="-1">
+										<translation id="text" translation_id="257230" type="use" value="Scouting" />
+									</widget>
+									
+									<container width="8"/>
+									
+								</container>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="22">
+								
+									<container width="8"/>
+								
+									<widget class="person_personal_information_panel" file="non_player/mustermann/profile/philosophy languages" id="Nati" vertical="false" default_width="-3">
+										<record id="object_property">
+											<integer id="get_property" value="objt" />
+											<integer id="set_property" value="objt" />
+										</record>
+									</widget>
+									
+									<container width="8"/>
+									
+								</container>
+								
+								<container height="8"/>
+								
+								<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="-1">
+								
+									<container width="8"/>
+								
+									<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="-1">
+																					
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+										
+											<container width="8"/>
+											
+											<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+												<translation id="text" translation_id="227943" type="use" value="Adaptability" />
+											</widget>
+										
+											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+												<record id="object_property" get_property="Npad"/>
+											</widget>
+											
+											<container width="8"/>
+										
+										</container>
+										
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+										
+											<container width="8"/>
+											
+											<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+												<translation id="text" translation_id="227945" type="use" value="Judging Player Ability" />
+											</widget>
+										
+											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+												<record id="object_property" get_property="Hplk"/>
+											</widget>
+											
+											<container width="8"/>
+										
+										</container>
+										
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+										
+											<container width="8"/>
+											
+											<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+												<translation id="text" translation_id="227947" type="use" value="Judging Player Potential" />
+											</widget>
+										
+											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+												<record id="object_property" get_property="Hynk"/>
+											</widget>
+											
+											<container width="8"/>
+										
+										</container>
+										
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+										
+											<container width="8"/>
+											
+											<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+												<translation id="text" translation_id="513327" type="use" value="Analysing Data" />
+											</widget>
+										
+											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+												<record id="object_property" get_property="Npjd"/>
+											</widget>
+											
+											<container width="8"/>
+										
+										</container>
+																				
+										<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="30">
+										
+											<container width="8"/>
+											
+											<widget class="label" alignment="left,centre_y" font="text" colour="text" default_width="-1">
+												<translation id="text" translation_id="482628" type="use" value="Judging Staff Ability" />
+											</widget>
+										
+											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+												<record id="object_property" get_property="Npjs"/>
+											</widget>
+											
+											<container width="8"/>
+										
+										</container>
+										
+										<container default_height="-1" minimum_height="1"/>
+									
+									</container>
+								
+									<container width="8"/>
+									
+									<widget class="non_player_knowledge_panel" id="npkn" file="non_player/mustermann/profile/world knowledge" default_width="-2">
+										<translation id="title" translation_id="334387" type="use" value="World Knowledge"/>
+										<record id="object_property" get_property="objt" set_property="objt"/>
+									</widget>
+									
+									<container width="8"/>
+																
+								</container>
+							
+							</container>
+														
+						</container>
+						
+						<container default_width="-1" minimum_width="1"/>
+					
+						
+					</container>
+															
+					<!--CAREER HISTORY-->
+					<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" height="389">
+					
+						<container default_width="-1" minimum_width="1"/>
+						
+						<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_width="1160">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+							
+							<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+							
+								<widget class="label" alignment="left,centre_y" font="title" colour="title" size="xlarge" default_height="30">
+									<translation id="text" translation_id="441102" type="use" value="Career History" />
+								</widget>
+							
+								<widget class="non_player_history_summary_panel" file="non_player/mustermann/profile/career history" default_height="-1">								
+									<record id="object_property" get_property="objt" set_property="objt"/>
+								</widget>
+								
+							</container>
+							
+						</container>
+						
+						<container default_width="-1" minimum_width="1"/>
+					
+						
+					</container>					
+															
+				</container>
+				
+			</container>
+		</container>
+	</container>
+	
+	<!--JOB INTEREST CLOSE BUTTON-->
+	<widget class="icon_button" id="clo2" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" hidn="true">
+		<event id="click_event" event_id="npjr"/>
+		<attachment class="event_relay_attachment" event_id="npjr">
+			<record id="action_event">
+				<flags id="event_id" value="hide"/>
+				<flags id="event_target" value="mmjr"/>
+			</record>
+		</attachment>
+		<attachment class="event_relay_attachment" event_id="npjr">
+			<record id="action_event">
+				<flags id="event_id" value="hide"/>
+				<flags id="event_target" value="clo2"/>
+			</record>
+		</attachment>
+	</widget>
+	
+</panel>

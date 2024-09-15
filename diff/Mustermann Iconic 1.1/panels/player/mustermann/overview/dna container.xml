@@ -1,0 +1,107 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+	
+	<!--ATTRIBUTE SELECTORS-->
+	<widget class="client_object_viewer_selector_panel" id="mdn6" default_item="Pbra" navigation_container="true" file="player/mustermann/overview/dnf selector" save_session_state="false" dont_set_embedded_title="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>
+	<widget class="client_object_viewer_selector_panel" id="mdn1" default_item="Pacc" navigation_container="true" file="player/mustermann/overview/dna selector" save_session_state="false" dont_set_embedded_title="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>
+	<widget class="client_object_viewer_selector_panel" id="mdn2" default_item="Pagg" navigation_container="true" file="player/mustermann/overview/dnb selector" save_session_state="false" dont_set_embedded_title="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>
+	<widget class="client_object_viewer_selector_panel" id="mdn3" default_item="Pagi" navigation_container="true" file="player/mustermann/overview/dnc selector" save_session_state="false" dont_set_embedded_title="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>	
+	<widget class="client_object_viewer_selector_panel" id="mdn4" default_item="Pant" navigation_container="true" file="player/mustermann/overview/dnd selector" save_session_state="false" dont_set_embedded_title="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>
+	<widget class="client_object_viewer_selector_panel" id="mdn5" default_item="Pbal" navigation_container="true" file="player/mustermann/overview/dne selector" save_session_state="false" dont_set_embedded_title="true">
+		<record id="object_property" get_property="objt" set_property="objt"/>
+	</widget>	
+	
+	<!--SELECTOR BLOCKER-->
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" id="mdbc">
+		<translation id="hint" type="use" value="DNA"/>
+	
+		<container height="18" background_colour="bg int" wants_mouse_events="true"/>
+		<container default_height="-1"/>
+		<container height="18" background_colour="bg int" wants_mouse_events="true"/>
+		
+	</container>
+	
+	<!--CENTRE CIRCLE-->
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		
+		<container height="38"/>
+		<widget class="picture" file="mustermann/dna/dnahole" red_replacement="gimn2" scale_picture="false" blue_replacement="bg int" image_alignment="centre" default_height="-1"/>
+		<container height="38"/>
+		
+	</container>
+	
+	<!--SELECTOR REVEAL BUTTON-->
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		<container default_height="16"/>
+		<container default_height="-1"/>
+		<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="50">		
+			<container default_width="-1"/>
+			<container default_width="50">
+				<layout class="arrange_horizontal_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+				
+				<!-- Button -->
+				<widget class="icon_button" id="opn1" alignment="right,centre_y" icon_alignment="right,centre_y" show_button_appearance="false" width="16">				
+					<translation id="hint" type="use" value="Configure DNA"/>
+					<event id="click_event" event_id="mdbb"/>
+					<attachment class="event_relay_attachment" event_id="mdbb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="mdbc"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="mdbb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="mdbb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+				</widget>
+
+				<!-- close button -->
+				<widget class="icon_button" id="clo1" alignment="right,centre_y" icon_alignment="right,centre_y" show_button_appearance="false" hidn="true">
+					<translation id="hint" type="use" value="Configure DNA"/>
+					<event id="click_event" event_id="mdbb"/>
+					<attachment class="event_relay_attachment" event_id="mdbb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="mdbc"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="mdbb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="mdbb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+				</widget>
+			
+			</container>
+			<container default_width="-1"/>
+		</container>
+		<container default_height="-1"/>
+	</container>
+		
+</panel>

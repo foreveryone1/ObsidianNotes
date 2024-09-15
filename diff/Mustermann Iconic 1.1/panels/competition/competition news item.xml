@@ -1,0 +1,81 @@
+<!-- NOTE: The property 'usoc' used on elements tells the panel to recolour them based on object colours -->
+<panel navigation_container="true" default_focus="true">
+	<layout class="arrange_vertical_attachment" alignment="top,extend" gap="0" offset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+
+	<boolean id="save_session_state" value="true"/>
+    
+	<!-- Title heading -->
+	<container class="main_box" appearance="boxes/custom/news item/dialog/paper">
+		<layout class="fit_children_attachment" alignment="vertical,fill" gap="2" offset="0" />
+		<layout class="arrange_vertical_attachment" layout="46,24" gap="2" offset="0"/>
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+		<container>
+			<layout class="arrange_horizontal_attachment" alignment="right,extend" gap="0" offset="10"/>
+			<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0"/>
+
+			<widget class="text" id="titl" size="xxlarge" style="bold" alignment="left,centre_y" colour="alt text"/>
+			<!-- used to space so we don't overlap the X closing icon -->
+			<container width="40"/>
+		</container>
+
+		<container>
+			<layout class="arrange_horizontal_attachment" alignment="right,extend" gap="0" offset="0"/>
+			<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0"/>
+
+			<!--Date-->
+			<widget class="text" id="date" alignment="left,centre_y" colour="faded text" multiline="false">
+				<layout class="stick_to_sides_attachment" alignment="left" inset="10"/>
+			</widget>
+
+			<container class="main_box" appearance="boxes/custom/inbox attachment/media/source/paper">
+				<layout class="fit_children_attachment" alignment="horizontal,fill" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="left" apply_to_children="true" inset="0"/>
+				<layout class="centre_in_parent_attachment" alignment="vertical" apply_to_children="true" />
+
+				<!--Media Source-->
+				<widget class="object_portrait_picture_with_label_and_background" id="medi" file="widgets/object portrait picture media source"/>
+			</container>
+		</container>
+	</container>
+
+	<!-- Main body -->
+	<container>
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8"/>
+
+		<container class="vertical_arrange_container" alignment="bottom,extend" gap="4" offset="0" inset="0">
+		
+			<container class="scrolling_box">
+				<!-- Full news item -->
+				<container id="nsiU">
+					<layout class="fit_children_attachment" alignment="vertical, extend" gap="0" offset="0"/>
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="false" inset="5"/>
+				</container>
+			</container>
+
+			<!-- Related news links-->
+			<container class="vertical_arrange_container" id="relL" alignment="top" auto_size="vertical" gap="4" offset="0" inset="0">
+				<!-- Heading-->
+				<container>
+					<layout class="fit_children_attachment" alignment="vertical" gap="0" offset="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal,top" apply_to_children="true" inset="0"/>
+
+					<widget class="label" colour="faded text" auto_size="vertical">
+						<translation id="text" translation_id="395301" type="use" value="Related News[COMMENT: FR 11005; Competition news panel; panel title for top news story]"/>
+					</widget>
+				</container>
+
+				<!-- Object links, created in code -->
+				<container id="rela">
+					<layout class="fit_children_attachment" alignment="vertical,extend" gap="0" offset="0"/>
+					<layout class="arrange_horizontal_attachment" alignment="left" wrap="true" gap="2" offset="0"/>
+
+					<record id="widget_info" class="link_button" auto_size="all"/>
+				</container>
+			</container>
+		</container>
+	</container>
+</panel>

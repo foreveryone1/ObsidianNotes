@@ -1,0 +1,453 @@
+<panel>
+	<translation id="title" type="new" value="Player Profile Panel" />
+	<!--Player 1 ability comparison table appearance-->
+	<flags id="cham" value="tables/custom/comparison/player 1/row" />
+	<!--Player 2 ability comparison table appearance-->
+	<flags id="cha2" value="tables/custom/comparison/player 2/row" />
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+	<boolean id="save_session_state" value="true" />
+
+	<container id="root">
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_gap="8"/>
+
+		<!-- Top section displaying personal details side-by side -->
+		<!-- The fixed height is a bug-fix to avoid using fit_children (too slow) -->
+		<container id="namh" height="109">
+			<!-- Vertical stack, both names then combined portrait & details table below -->
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" />
+
+			<container id="dtsp">
+				<!-- Horizontal split, player details on either side -->
+				<attachment_group class="horizontal_arrange" horizontal_alignment="fill" horizontal_gap="8"/>
+
+				<!-- Person 1 -->
+				<container id="p1tp" class="contrast_box_no_margin" red_replacement="comp person 1" navigation_container="true">
+					<!--Horizontal stack, table expanded to fill space-->
+					<attachment_group class="horizontal_arrange" horizontal_layout="105, -1, -1" horizontal_offset="0" />
+
+					<!--Person 1 portrait-->
+					<widget class="object_portrait_picture" id="pic1" scale_picture="true" width="105" keep_aspect_ratio="true" image_alignment="left,bottom" />
+
+					<container>
+						<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_gap="0"/>
+						
+						<!-- Person 1 details -->
+						<widget class="label" id="nam1" alignment="left,centre_y" height="22" font="title" size="large" colour="mustermanntext">
+							<translation id="text" translation_id="229689" type="use" value="Name" />
+						</widget>
+
+						<widget class="table" id="dts1" layout="-1" auto_size="vertical" row_height="20" row_spacing="0">
+							<list id="column_table_properties">
+								<record indx="0" sort_disabled="true" alignment="left,centre_y" />
+							</list>
+							<list id="column_widget_properties">
+								<record indx="0" colour="mustermanntext" alignment="left,centre_y" size="8"/>
+							</list>
+						</widget>
+					</container>
+
+					<!--Person 1 additional info box-->
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+						<string id="create_if" value="allow_transfers"/>
+						
+						<container class="contrast_box" red_replacement="bg int" transparency="0.2">
+							<attachment_group class="vertical_arrange" vertical_alignment="top,fill" />
+
+							<!--Value-->
+							<widget class="transfer_value_label" show_button_appearance="false" id="val1" auto_size="all" alignment="centre" size="10" colour="mustermanntext">
+								<translation id="format" translation_id="383826" type="use" value="Valued at [%cash#1-roundsmall-short][COMMENT: FR 10661; player overview; string diaplyed a player's estimated monetary value]" />
+								<record id="object_property" get_property="Pdva" dont_set_hint="true" />
+							</widget>
+
+							<!--Wage / Expiry date-->
+							<widget class="link_text" id="wgex" section="Pcnr" auto_size="vertical" alignment="left" multiline="false" colour="mustermanntext" navigation_focus_target="true">
+							</widget>
+							
+							<container/>
+
+							<!-- Agreed playing time-->
+							<widget class="playing_time_label" id="sqst" auto_size="all" alignment="centre" colour="mustermanntext">
+								<record id="object_property" get_property="Pcpt" />
+							</widget>
+						</container>
+					</container>
+
+				</container>
+
+				<!-- Person 2 -->
+				<container id="p2dt" class="contrast_box_no_margin" red_replacement="comp person 2" navigation_container="true" default_focus="true">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<container id="p2tp">
+						<!-- Horizontal stack, table expanded to fill space -->
+						<attachment_group class="horizontal_arrange" horizontal_layout="-1, -1, 105" horizontal_offset="4" horizontal_gap="0" vertical_inset="0" />
+
+						<!--Person 2 additional info box-->
+						<container id="p2id">
+							<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+							<string id="create_if" value="allow_transfers"/>
+							
+							<container class="contrast_box" red_replacement="bg int" transparency="0.2">
+								<attachment_group class="vertical_arrange" vertical_alignment="top,fill" />
+
+								<!--Value-->
+								<widget class="transfer_value_label" show_button_appearance="false" id="val2" alignment="right,centre_y" size="10" colour="mustermanntext">
+									<translation id="format" translation_id="383826" type="use" value="Valued at [%cash#1-roundsmall-short][COMMENT: FR 10661; player overview; string diaplyed a player's estimated monetary value]" />
+								</widget>
+
+								<!--Wage / Expiry date-->
+								<widget class="link_text" id="wgx2" section="Pcnr" alignment="right,centre_y" multiline="false" colour="mustermanntext" >
+								</widget>
+								
+								<container/>
+
+								<!-- Playing time -->
+								<widget class="playing_time_label" id="sqs2" alignment="right,centre_y" colour="mustermanntext" />
+							</container>
+						</container>
+
+						<container>
+							<attachment_group class="vertical_arrange" vertical_alignment="middle" vertical_gap="0"/>
+
+							<container>
+								<attachment_group class="vertical_arrange_autosize" vertical_offset="0" horizontal_inset="0" />
+								<widget class="popup_button" id="pccw" alignment="right,centre_y" height="22" sele="pccw" fixed="true" appearance="buttons/custom/very subtle/button" red_replacement="comp person 2" font="title" size="10" colour="mustermanntext" auto_tick_exclusive="true" save_default_state="true" default_focus="true">
+									<translation id="text" translation_id="329857" type="use" value="Compared With: No Person Selected[COMMENT: Button text on compare person screen]" />
+								</widget>
+							</container>
+
+							<!-- Person 2 details -->
+							<widget class="table" id="dts2" mode="" auto_size="vertical" layout="-1" row_height="20" row_spacing="0" >
+								<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+								<list id="column_table_properties">
+									<record indx="0" colour="mustermanntext" sort_disabled="true" alignment="right,centre_y" />
+								</list>
+								<list id="column_widget_properties">
+									<record indx="0" colour="mustermanntext" alignment="right,centre_y" size="8"/>
+								</list>
+							</widget>
+						</container>
+						
+						<!-- Person 2 portrait -->
+						<widget class="object_portrait_picture" id="pic2" hidden="true" width="105" scale_picture="true" keep_aspect_ratio="true" image_alignment="right,bottom" />
+					</container>
+				</container>
+			</container>
+		</container>
+		<!-- End of personal details -->
+
+		<container class="contrast_box" red_replacement="bg lighter">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<!--SELECT COMPARISON PLAYER WARNING-->
+			<widget class="text" id="nopt" hidden="true" auto_size="none" alignment="centre" />
+			
+			<container class="mustermann_tabbed" id="mcbc" appearance="" default_item="repC" changed_event="dese"  save_session_state="true" navigation_container="true">
+				
+				<!--REPORT-->
+				<container id="repC">
+					<string id="create_if" value="allow_scouting"/>
+					<translation id="title" translation_id="248079" type="use" value="Report" />
+					<layout class="arrange_horizontal_attachment" layout="-1,150,-1" gap="8"/>
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+					<string id="skin_style" value="subtle box" />
+
+					<!--Player 1 report-->
+					<container class="main_box" navigation_container="true">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+						<!-- If we have scout reports -->
+						<widget class="client_object_viewer_xml_panel" file="player/mustermann/comparison/player report 1" id="pwr1" colour="comp person bar 1" />
+					</container>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+					
+						<!--ATTRIBUTE LABELS-->
+						<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+						
+							<container height="-2"/>
+						
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg green darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="467462" value="Final Third"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg green darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="230021" value="Movement"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg green darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="229306" value="Shooting"/>
+							</widget>
+																														
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492251" value="Ball Control"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227798" value="Crossing"/>
+							</widget>
+													
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227881" value="Passing"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="468242" value="Set Pieces"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg red darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492252" value="Aerial"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg red darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227886" value="Positioning"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg red darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227902" value="Tackling"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="gimn2" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="230010" value="Leadership"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227774" value="Agility"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="467458" value="Endurance"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="308890" value="Quickness"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227900" value="Strength"/>
+							</widget>
+													
+							<container default_height="-1" minimum_height="1"/>
+						
+						</container>
+						
+					</container>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+						
+						<container class="vertical_adaptive_container" gap="8" mode="distribute_equally">
+						
+							<container height="-2"/>
+				
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="247512" value="Distribution"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492253" value="Reactions"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492254" value="Tactical"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492255" value="Technique"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="goalkeeper_line" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492256" value="Sweeping"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="492251" value="Ball Control"/>
+							</widget>							
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg blue darker" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227881" value="Passing"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227774" value="Agility"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="467458" value="Endurance"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="308890" value="Quickness"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="fg" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="227900" value="Strength"/>
+							</widget>
+							
+							<widget class="label" font="title" alignment="centre_x,centre_y" colour="gimn2" size="10" default_height="22">
+								<translation id="text" type="use" translation_id="230010" value="Leadership"/>
+							</widget>
+							
+							<container default_height="-1" minimum_height="1"/>
+						
+						</container>
+	
+					</container>
+					
+					<!--Player 2 report-->
+					<container class="main_box" navigation_container="true">
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+						<!-- If we have scout reports -->
+						<widget class="client_object_viewer_xml_panel" file="player/mustermann/comparison/player report 2" id="pwr2" colour="comp person bar 2"/>
+						
+					</container>
+
+				</container>
+				
+				<!--STATS-->
+				<container id="StaC" navigation_container="true">
+					<translation id="title" translation_id="323124" type="use" value="Statistics[COMMENT: Player comparison type header]" />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+					<container class="horizontal_adaptive_container" gap="2" mode="distribute_equally" id="Stbc">
+						
+						<container default_width="-1" minimum_width="200" priority="3"/>
+						
+						<container class="client_object_viewer_xml_panel" id="pcr1" file="player/mustermann/comparison/performance bar 1" default_width="520" priority="1">
+							<translation id="title" type="use" value="Bar"/>
+						</container>
+						
+						<container class="vertical_adaptive_container" gap="4" mode="distribute_equally" default_width="-1" minimum_width="100" priority="2">
+							
+							<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+								<translation id="text" type="use" translation_id="247584" value="Appearances" />
+							</widget>
+							
+							<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+								<translation id="text" type="use" translation_id="249451" value="Minutes" />
+							</widget>
+							
+							<container default_height="25">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+								<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+									<record id="object_property" get_property="Pigo" set_property="hidn"/>
+									<translation id="text" type="use" translation_id="252153" value="Goals" />
+								</widget>
+								
+								<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+									<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+									<translation id="text" type="use" translation_id="258245" value="Conceded" />
+								</widget>
+								
+							</container>
+							
+							<container default_height="25">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+								<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+									<record id="object_property" get_property="Pigo" set_property="hidn"/>
+									<translation id="text" type="use" translation_id="258244" value="Assists" />
+								</widget>
+								
+								<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+									<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+									<translation id="text" type="use" translation_id="317291" value="Clean Sheets" />
+								</widget>
+								
+							</container>							
+							
+							<widget class="label" font="title" colour="text" size="small" alignment="centre_x,centre_y" default_height="25">
+								<translation id="text" type="use" translation_id="336188" value="Average Rating" />
+							</widget>
+							
+							<container height="12"/>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="513484" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="552419" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="227851" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="291479" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="388158" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="554494" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="247389" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="513437" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="513436" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="513512" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="552423" value="" />
+							</widget>
+							
+							<widget class="label" font="title" multiline="false" alignment="centre_x,centre_y" colour="text" size="small" default_height="25">
+								<translation id="text" type="use" translation_id="249422" value="" />
+							</widget>
+														
+							<container default_height="-1" minimum_height="1"/>
+						
+						</container>
+						
+						<container class="client_object_viewer_xml_panel" id="pcr2" file="player/mustermann/comparison/performance bar 2" default_width="520" priority="1">
+							<translation id="title" type="use" value="Bar"/>
+						</container>
+						
+						<container default_width="-1" minimum_width="200" priority="3"/>
+
+					</container>
+
+				</container>
+															
+				<!--POSITIONS-->
+				<container id="PosC">
+					<translation id="title" translation_id="420717" type="use" value="Positions &amp; Roles[COMMENT: Player comparison type header, feel free to use an alternative to an ampersand if it's not your convention but please use appropriate character references as done here]" />
+					<layout class="arrange_vertical_attachment" layout="-1, 20" offset="0" gap="0" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+					<widget class="player_positions_comparison_indicator_panel" file="player/player positions comparison indicator" hidden="true" id="pos1">
+						<record id="object_property">
+							<integer id="get_property" value="objt" />
+							<integer id="set_property" value="objt" />
+						</record>
+					</widget>
+					<widget class="spacer" />
+				</container>
+
+			</container>
+
+		</container>
+	</container>
+</panel>

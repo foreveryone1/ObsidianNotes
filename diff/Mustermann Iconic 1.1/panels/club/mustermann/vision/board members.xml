@@ -1,0 +1,17 @@
+<panel draw_vertical_dividers="false">
+	<attachment_group class="horizontal_arrange" horizontal_layout="-1" vertical_offset="0" horizontal_inset="0" horizontal_gap="0" />
+
+	<container draw_horizontal_dividers="false">
+		<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+		
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_alignment="top" />
+
+			<container class="horizontal_adaptive_container" id="BdMb" mode="distribute_equally" height="215" gap="8">
+				<record id="default_properties" file="club/mustermann/vision/board members details" width="200" />
+			</container>
+		</container>
+
+	</container>
+
+</panel>

@@ -1,0 +1,300 @@
+﻿<panel>
+	<boolean id="save_session_state" value="true" />
+	<boolean id="save_default_state" value="true" />
+
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true" />
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_alignment="horizontal" horizontal_inset="0" vertical_gap="8"/>
+
+		<widget class="scouting_top_panel" id="stop">
+			<record id="object_property">
+				<integer id="get_property" value="objt" />
+				<integer id="set_property" value="objt" />
+			</record>
+			<list id="visible_items">
+				<flags value="trwd" />
+				<flags value="scfc" />
+				<flags value="scpc" />
+				<flags value="scbc" />
+				<flags value="trbc" />
+				<flags value="assc" />
+			</list>
+		</widget>
+
+		<container class="main_box">
+			<translation id="title" translation_id="557638" type="use" value="Match and Team Analysis[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage; FR-BN: FM-4038; NOTE: section title for the new Match and Team Analysis area, which revamps the old Create Assignment dialog]" />
+			
+			<attachment class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="10" />
+
+			<!--Old Create New Assignment Dialog UI-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="130,-1" gap="0" offset="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<container class="main_box">
+					<layout class="arrange_vertical_attachment" alignment="top,extend" gap="4" offset="4" />
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="4" />
+
+					<container height="35" navigation_container="true" default_focus="true">
+						<layout class="arrange_horizontal_attachment" alignment="middle" offset="0" gap="1" />
+						<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+						<widget class="radio_toggle_switch_left" alignment="centre" id="noab" auto_size="horizontal" click_event="ests" type="3">
+							<translation id="text" translation_id="557674" type="use" value="Next Opposition[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage; FR-BN: FM-4038; NOTE: tab button text in the Match and Team Analysis area, where a human picks the option to scout a specific match]" />
+						</widget>						
+
+						<widget class="radio_toggle_switch_middle" alignment="centre" id="matb" auto_size="horizontal" click_event="ests" type="2">
+							<translation id="text" translation_id="557675" type="use" value="Specific Match[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage; FR-BN: FM-4038; NOTE: tab button text in the Match and Team Analysis area, where a human picks the option to scout a specific match]" />
+						</widget>
+
+						<widget class="radio_toggle_switch_right" alignment="centre" id="teab" auto_size="horizontal" click_event="ests" type="1">
+							<translation id="text" translation_id="557676" type="use" value="Specific Team[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage; FR-BN: FM-4038; NOTE: tab button text in the Match and Team Analysis area, where a human picks the option to scout a specific match]" />
+						</widget>
+
+					</container>
+
+					<container id="noac" hidden="true">
+					<attachment_group class="horizontal_arrange" horizontal_layout="-1,600,-1" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+
+					<widget class="spacer" />
+
+					<widget class="text" multiline="true" alignment="centre">
+					<translation id="text" translation_id="557677" type="use" value="The recruitment team will compile reports on the next opposition. They will focus on the opposition's strengths and weaknesses, as well as providing a post-match analysis on our own performance.[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage, Match and Team Analysis; FR-BN: FM-4038; NOTE: scouting centre action button hint]" />
+					</widget>
+
+					<widget class="spacer" />
+
+					</container>
+
+					<container id="teac">
+					<attachment_group class="horizontal_arrange" horizontal_layout="-1,500,-1" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+
+					<widget class="spacer" />
+
+					<widget class="text" multiline="true" alignment="centre">
+					<translation id="text" translation_id="557678" type="use" value="Instruct the team to report back on specific teams' strengths and weaknesses. They will be looking at the team as a unit as opposed to scouting specific players.[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage, Match and Team Analysis; FR-BN: FM-4038; NOTE: scouting centre action button hint]" />
+					</widget>
+
+					<widget class="spacer" />
+
+					</container>
+
+					<container id="matc" hidden="true">
+					<attachment_group class="horizontal_arrange" horizontal_layout="-1,700,-1" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+
+					<widget class="spacer" />
+
+					<widget class="text" multiline="true" alignment="centre">
+					<translation id="text" translation_id="536452" type="use" value="Despite this assignment being within the scouting range, there will still be a financial cost covering travel, accommodation and general expenses. The cost of the assignment will increase with the number of matches watched.[COMMENT: AREA: Scouting; SUB-AREA: Scouting Centre; BN: 51372; TONE: Formal; CHARLIMIT: None; REF-ID: ; NOTE: scouting centre action button hint]" />
+					</widget>
+
+					<widget class="spacer" />
+
+					</container>
+				</container>
+
+				<container>
+					<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+					<layout class="arrange_vertical_attachment" layout="-1,40" gap="0" offset="0" />
+
+					<!--Scout Specific Team UI-->
+					<container id="tdts">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<!--Report on specific team-->
+						<container id="stco">
+							<attachment_group class="horizontal_arrange" horizontal_layout="-1,500,-1" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+
+							<widget class="spacer" />
+
+							<container class="main_box">
+								<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+								<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" gap="2" />
+
+								<container>
+									<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+									<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="2" />
+
+									<widget class="text" alignment="left,centre_y" font="title" height="30" colour="accent" size="large" hidden="true">
+										<translation id="text" translation_id="321152" type="use" value="Team Report[COMMENT: Manager Main/Top Menu; link to team report screen]" />
+									</widget>
+
+									<widget class="text" height="50" hidden="true">
+										<translation id="text" translation_id="364196" type="use" value="A team report is focused on describing the strengths and weaknesses of a team as a unit rather than finding specific players of interest.[COMMENT: FR 6137, scout assignment help text]" />
+									</widget>
+
+									<widget class="label" font="label" colour="text">
+										<translation id="text" translation_id="364736" type="use" value="Select a team...[COMMENT: FR 6137, scouting assignment details]" />
+									</widget>
+
+									<widget class="team_finder_panel" id="sptf" should_update_edit_box_with_team_name="true" select_event="este" />
+								</container>
+
+								<container>
+									<attachment_group class="vertical_arrange_autosize" vertical_offset="16" vertical_gap="5" horizontal_alignment="left" horizontal_inset="0" />
+
+									<widget class="label" font="title" colour="accent" auto_size="all" size="small">
+										<translation id="text" translation_id="557679" type="use" value="Choose a Scout[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage, Match and Team Analysis; FR-BN: FM-4038; NOTE: button title when picking a scout to scout a specific team]" />
+									</widget>
+
+									<widget class="widget_popup_button" id="scou" widget_type="property_list_viewer_xml_panel" popup_alignment="left,top" offset_y="2" appearance="buttons/subtle/normal/button" auto_size="horizontal" height="30">
+										<record id="widget_properties" file="club/create assignment scout picker popup container" width="600" height="500" />
+									</widget>
+								</container>
+
+							</container>
+
+							<widget class="spacer" />
+
+						</container>
+
+						<!--Ongoing analyst reports (?)-->
+						<container id="arco" hidden="true">
+							<attachment_group class="vertical_arrange_autosize" vertical_offset="60" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="200" />
+
+							<container class="main_box">
+								<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="8" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+								<widget class="text" alignment="left,centre_y" font="title" height="30" colour="accent" size="large">
+									<translation id="text" translation_id="437021" type="use" value="Ongoing analyst reports[COMMENT: FR 21400, scouting assignment details]" />
+								</widget>
+
+								<widget class="manager_text" id="anod" auto_size="vertical">
+									<translation id="text" translation_id="437022" type="use" value="[%person#1-Your] analysis team will report on [%person#1-your] next opposition's strengths and weaknesses as well as performing post match analysis on your own team.[COMMENT: FR 21400, scouting assignment details]" />
+								</widget>
+
+								<widget class="text" auto_size="vertical" alignment="left,centre_y" font="title" colour="accent">
+									<translation id="text" translation_id="437023" type="use" value="Number of next opposition matches:[COMMENT: FR 21400, scouting assignment details]" />
+								</widget>
+
+								<widget class="popup_button" auto_size="vertical" id="nump" select_event="eanc">
+
+									<list id="items">
+										<record id="1" text="1" />
+										<record id="2" text="2" />
+										<record id="3" text="3" />
+									</list>
+									<flags id="slct" value="1" />
+								</widget>
+								<widget class="label" font="title" colour="accent">
+									<translation id="text" translation_id="515008" type="use" value="Analyst[COMMENT: AREA: Staff job roles; SUB-AREA: job role title; FR-BN: 28060; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: Term used to refer to either performance or recruitment analyst]" />
+								</widget>
+
+								<widget class="widget_popup_button" id="scou" widget_type="property_list_viewer_xml_panel" popup_alignment="left,top" offset_y="2" appearance="buttons/standard/normal/button">
+									<record id="widget_properties" file="club/create assignment scout picker popup container" width="600" height="500" ISAn="true" />
+								</widget>
+
+
+								<container height="8" />
+							</container>
+
+						</container>
+
+						<!--Next Opposition (?)-->
+						<container id="noco" hidden="true">
+						<attachment_group class="horizontal_arrange" horizontal_layout="-1,500,-1" horizontal_offset="0" horizontal_gap="0" vertical_alignment="vertical" vertical_inset="0" />
+
+							<widget class="spacer" />
+
+							<container class="main_box">
+								<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="8" horizontal_alignment="horizontal" horizontal_inset="0" />
+									
+								<widget class="text" alignment="left,centre_y" font="title" height="40" colour="accent" size="large">
+									<translation id="text" translation_id="364653" type="use" value="Ongoing reports on next opposition[COMMENT: FR 6137, scouting assignment details]" />
+								</widget>
+
+								<container>
+									<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_offset="0" horizontal_gap="8" vertical_inset="0" horizontal_layout="-1,-1" />
+
+
+									<!--Choose a scout-->
+									<container>
+										<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="8" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+										<widget class="label" font="title" colour="faded text" auto_size="all" size="small">
+											<translation id="text" translation_id="557679" type="use" value="Choose a Scout[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage, Match and Team Analysis; FR-BN: FM-4038; NOTE: button title when picking a scout to scout a specific team]" />
+										</widget>
+
+										<widget class="widget_popup_button" id="scou" widget_type="property_list_viewer_xml_panel" popup_alignment="left,top" offset_y="2" appearance="buttons/standard/normal/button">
+											<record id="widget_properties" file="club/create assignment scout picker popup container" width="600" height="500" />
+										</widget>
+									</container>
+
+									<!--Choose an analyst-->
+									<container>
+										<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="8" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+										<widget class="label" font="title" colour="faded text" auto_size="all" size="small">
+											<translation id="text" translation_id="562582" type="use" value="Choose an Analyst[COMMENT: AREA: Scouting; SUB-AREA: Scouting Coverage, Match and Team Analysis; FR-BN: FM-6238; NOTE: button title when picking an analyst to collect data on a specific team]" />
+										</widget>
+
+										<widget class="widget_popup_button" id="anlt" widget_type="property_list_viewer_xml_panel" popup_alignment="left,top" offset_y="2" appearance="buttons/standard/normal/button" auto_size="horizontal" height="30">
+											<record id="widget_properties" file="club/create assignment scout picker popup container" width="600" height="500" ISAn="true" />
+										</widget>
+									</container>
+								</container>						
+								
+							</container>
+
+							<widget class="spacer" />
+
+						</container>
+					</container>
+
+					<!--Scout Specific Match UI-->
+					<container id="mdts" hidden="true">
+						<layout class="arrange_vertical_attachment" alignment="top,extend" gap="12" offset="8" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="50" />
+
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_layout="-1,-1,-1" horizontal_gap="0" horizontal_offset="0" />
+
+						<container class="main_box_no_margin">
+        				<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="left" auto_size="all" horizontal_gap="0" horizontal_offset="0" />
+						<widget class="embedded_left_right_list" appearance="buttons/standard/split/left/button" id="fdat" sele="datS" height="30" width="260" advance_to_nearest="true">
+							<translation id="text" translation_id="247161" type="use" value="Dates" />
+						</widget>
+						</container>
+
+						<container class="main_box_no_margin">
+        				<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" auto_size="horizontal" height="30" horizontal_gap="0" horizontal_offset="0" />
+						<widget class="text" font="title" auto_size="all" alignment="centre_x" size="xlarge" colour="accent">
+							<translation id="text" translation_id="247231" type="use" value="Fixture Competition" />
+						</widget>
+						</container>
+
+						<container class="main_box_no_margin">
+        				<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="right" auto_size="all" horizontal_gap="0" horizontal_offset="0" />
+						<widget class="popup_button" auto_size="all" colour="text">
+							<translation id="text" translation_id="229912" type="use" value="Filter" />
+						</widget>
+						</container>
+
+					</container>
+
+						<container class="scrolling_box">
+							<container class="main_subtle_box" id="cmpc">
+								<attachment_group class="vertical_arrange_autosize" vertical_offset="8" vertical_gap="8" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+								<!--widgets will be added here in code-->
+
+							</container>
+						</container>
+					</container>
+
+					<container>
+						<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="right" horizontal_offset="10" vertical_offset="0" />
+
+						<widget class="primary_icon_tick_button" id="ok  " auto_size="all" click_event="cnFM">
+							<translation id="text" translation_id="229918" type="use" value="Confirm" />
+						</widget>
+					</container>
+					
+				</container>
+			</container>
+
+		</container>
+
+	</container>
+</panel>

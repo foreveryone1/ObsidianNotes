@@ -1,0 +1,343 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="8"/>
+	<layout class="arrange_horizontal_attachment" offset="0" layout="-1,8,650,8,-1" gap="0"/>
+
+	<boolean id="save_session_state" value="true"/>
+	<boolean id="save_immediate_state" value="false"/>
+	<boolean id="save_default_state" value="true"/>
+	<boolean id="should_force_refresh" value="true"/>
+
+	<integer id="number_of_items_to_display" value="75"/>
+	
+	<!-- @note this attachment is needed in order to stop focus being unable to reach the main box on high resolution monitors-->
+	<attachment class="test_screen_size_attachment">
+		<list id="properties">
+			<record>
+				<flags id="alignment" value="horizontal" />
+				<integer id="min_value" value="0" />
+				<integer id="max_value" value="1900" />
+				<symbol id="set_property" value="navigation_container" />
+				<integer id="true_value" value="false" />
+				<integer id="false_value" value="true" />
+			</record>
+		</list>
+    </attachment>
+	
+	<!--NAVIGATION BAR-->
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container default_width="-1" minimum_width="1"/>
+		
+		<!--FAKE NAVIGATION BAR-->
+		<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="240">
+		
+			<!-- following list -->
+			<container navigation_container="true" default_height="290">
+				<layout class="arrange_vertical_attachment" layout="40, 210, 30" gap="4" offset="4"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="8" apply_to_children="true"/>
+
+				<container class="contrast_box" red_replacement="mustermann2">
+					<attachment_group class="horizontal_arrange_vertical_centre" horizontal_layout="-1, 26" horizontal_gap="0" vertical_offset="0" />
+					
+					<widget class="edit_box" appearance="" red_replacement="mustermann2" id="nwsf" save_immediate_state="true" ignore_leading_space="true" colour="searchbox text" clear_text_event="shch" show_clear_text_icon="true">
+						<!-- send the return event to the parent -->
+						<event id="return_event">
+							<flags id="event_id" value="shch"/>
+							<flags id="event_target" value="prnt"/>
+						</event>
+					</widget>
+					
+						<!-- search button -->
+					<widget class="icon_button" id="nefi" appearance="none" icon="icons/26px/search" auto_size="all">
+						<record id="primary_icon_properties" red_replacement="normal_icon"/>
+						<layout class="centre_in_parent_attachment" alignment="vertical"/>
+
+						<event id="click_event">
+							<flags id="event_id" value="keyu"/>
+							<flags id="event_target" value="nwsf"/>
+							<flags id="key " value="13"/>
+						</event>
+					</widget>
+				</container>
+
+				<widget class="table" id="flwl" layout="-1" mode="fill_rows" auto_size_rows="false" fixed_size_rows="true" row_height="42" row_spacing="0" column_spacing="8"/>
+
+				<container>
+					<layout class="arrange_horizontal_attachment" layout="-1" gap="0"/>
+
+					<widget class="icon_button" icon="icons/16px/settings" show_button_appearance="false" alignment="right,top" click_event="mgfl" controller_button="y_button">
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+						<layout class="stick_to_sides_attachment" alignment="right" inset="0"/>
+					</widget>
+				</container>
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="50">
+			
+				<container default_width="8"/>
+				
+				<container class="contrast_box_no_margin" red_replacement="mustermann2" default_width="50">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				
+					<widget class="picture" file="mustermann/logo/logo base small" scale_picture="false" alignment="centre_x,bottom" image_alignment="centre_x,bottom"/>
+					<widget class="picture" file="mustermann/logo/logo colour small" scale_picture="false" alignment="centre_x,bottom" image_alignment="centre_x,bottom" red_replacement="secondary" blue_replacement="primary" green_replacement="fg"/>
+					<widget class="picture" file="mustermann/logo/logo shadow small" scale_picture="false" alignment="centre_x,bottom" image_alignment="centre_x,bottom" red_replacement="black" transparency="0.5"/>
+					
+				</container>
+				
+				<container default_width="8"/>
+				
+				<widget class="label" font="text" multiline="true" alignment="left,centre_y" colour="text" default_width="-1">
+					<translation id="text" type="use" value="@MustermannFM"/>      
+				</widget>
+				
+				<widget class="picture" file="icons/16px/menu" red_replacement="fg" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="16"/>
+				
+				<container default_width="8"/>
+			
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="140">
+			
+				<container default_width="8"/>
+				
+				<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+				
+					<container class="contrast_box" appearance="boxes/contrast/standard/top/paper" red_replacement="bg lighter" default_height="-1">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+						
+							<widget class="label" font="text" multiline="true" alignment="left,top" colour="faded text" default_width="-1">
+								<translation id="text" type="use" value="What's on your mind?"/>      
+							</widget>
+							
+							<widget class="picture" file="icons/custom/greetings and gestures/laugh warmly" red_replacement="fg lighter" alignment="right,top" image_alignment="right,top" default_width="26"/>
+						
+						</container>
+					
+					</container>
+					
+					<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="mustermann2" default_height="40">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+						
+						<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+						
+							<widget class="picture" file="icons/26px/attachment" red_replacement="fg lighter" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26"/>
+							<widget class="picture" file="icons/16px/stats" scale_picture="true" keep_aspect_ratio="true" red_replacement="fg lighter" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26"/>
+							<widget class="picture" file="icons/26px/world" red_replacement="fg lighter" alignment="centre_x,centre_y" image_alignment="centre_x,centre_y" default_width="26"/>
+							<widget class="label" font="text" alignment="centre_x,centre_y" colour="text" default_width="26">
+								<translation id="text" type="use" value="EN"/>      
+							</widget>
+							<widget class="label" font="text" alignment="right,centre_y" colour="text" default_width="-1">
+								<translation id="text" type="use" value="500"/>      
+							</widget>
+						
+						</container>
+					
+					</container>
+				
+				</container>
+				
+				<container default_width="8"/>
+			
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="35">
+			
+				<container default_width="-1"/>
+				
+				<container class="contrast_box" red_replacement="mustermann3" default_width="100">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+					
+					<widget class="label" font="text" size="large" multiline="true" alignment="centre_x,centre_y" colour="mustermanntext" default_width="-1">
+						<translation id="text" type="use" value="Send"/>      
+					</widget>
+				
+				</container>
+				
+				<container default_width="8"/>
+			
+			</container>
+						
+			<container default_height="-1"/>
+		
+		</container>
+
+	</container>
+
+	<container/>
+
+	<!--SOCIAL FEED-->
+	<container class="contrast_box_no_margin" red_replacement="bg lighter">
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+		
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" height="50">
+			
+				<container default_width="8"/>
+				
+				<widget class="label" font="title" size="xxlarge" multiline="true" alignment="left,centre_y" colour="website headline" default_width="20">
+					<translation id="text" type="use" value="#"/>      
+				</widget>
+				
+				<!--TRANSLATION NEEDED-->
+				<widget class="label" font="text" size="xlarge" multiline="true" alignment="left,centre_y" colour="website headline" default_width="-1">
+					<translation id="text" type="use" value="Explore"/>      
+				</widget>
+				
+			</container>
+			
+			<!--SOCIAL FEED-->
+			<!-- Note that the id is important so that the league selector panels have their popups display correctly -->
+			<container id="Pnlf" default_height="-1">
+				<layout class="arrange_horizontal_attachment" offset="0" layout="-1">
+					<global id="gap" name="ui.main_contrast_box_gap"/>
+				</layout>
+				<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0"/>
+
+				<container class="main_box" navigation_container="true" default_focus="true">
+					<layout class="arrange_vertical_attachment" alignment="top,extend"/>
+
+					<widget class="view_menu_popup" id="filt" select_event="filt" embed_in_frame="false">
+						<global id="hidden" name="ui.is_fmt_controller_skin"/>
+						<layout class="stick_to_sides_attachment" alignment="left"/>
+						<list id="items">
+							<record id="Fnwo">
+								<translation id="name" translation_id="230330" type="use" value="News"/>
+							</record>
+							<record id="Fsco">
+								<translation id="name" translation_id="412455" type="use" value="Social[COMMENT: FR 16824; news feed panel; label for social media menu selection]"/>
+							</record>
+							<record id="Fnas">
+								<translation id="name" translation_id="412456" type="use" value="News + Social[COMMENT: FR 16824; news feed panel; label for news and social media menu selection]"/>
+							</record>
+						</list>
+					</widget>
+
+					<container class="scrolling_box" id="scrb">
+						<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+						<container id="nwsl">
+							<attachment_group class="vertical_arrange_autosize" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+							<!-- items added in code here -->
+						</container>
+					</container>
+				</container>
+				
+			</container>
+		</container>	
+	</container>
+	
+	<container/>
+	
+	<!--LOGO & MENU-->
+	<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+	
+		<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="240">
+		
+			<widget class="picture" file="mustermann/logo/musterdon big" scale_picture="true" keep_aspect_ratio="true" red_replacement="mustermann3" blue_replacement="fg" alignment="left,centre_y" image_alignment="left,centre_y" default_height="50"/>
+							
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+					
+				<widget class="picture" id="pict" file="icons/26px/home" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" style="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Home"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="picture" id="pict" file="icons/26px/team instructions" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Notifications"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="text" spec="bold" size="14" alignment="centre_x,centre_y" colour="title" default_width="26">
+					<translation id="text" type="use" value="#"/>
+				</widget>
+				
+				<widget class="text" spec="bold" alignment="left,centre_y" colour="title" default_width="-1">
+					<translation id="text" type="use" value="Explore"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="picture" id="pict" file="icons/26px/staff" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Local"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="picture" id="pict" file="icons/26px/world" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Federated"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="text" spec="text" size="14" alignment="centre_x,centre_y" default_width="26">
+					<translation id="text" type="use" value="@"/>
+				</widget>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Messages"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="picture" id="pict" file="icons/26px/recent" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Bookmarks"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="picture" id="pict" file="icons/26px/position suitability" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Favourites"/>
+				</widget>
+				
+			</container>
+			
+			<container class="horizontal_adaptive_container" gap="5" mode="distribute_equally" default_height="30">
+			
+				<widget class="picture" id="pict" file="icons/26px/waiting list" image_alignment="centre_x,centre_y" red_replacement="fg" default_width="26"/>
+				
+				<widget class="text" spec="text" alignment="left,centre_y" default_width="-1">
+					<translation id="text" type="use" value="Lists"/>
+				</widget>
+				
+			</container>
+			
+			<container default_height="-1"/>
+			
+		</container>
+	
+		<container default_width="-1" minimum_width="1"/>
+		
+	</container>
+</panel>

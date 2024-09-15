@@ -1,0 +1,33 @@
+﻿<panel>
+    <attachment_group class="vertical_arrange_autosize"/>
+    
+    <list id="properties_to_forward">
+        <record get_property="colr" set_property="colr" target="grad"/>
+        <record get_property="text" set_property="text" target="grad"/>
+        <record get_property="brep" set_property="brep" target="grad"/>
+        <record get_property="rrep" set_property="rrep" target="grad"/>
+        <record get_property="atxt" set_property="text" target="scrt"/>
+        <record get_property="date" set_property="text" target="dtxt"/>
+        <record get_property="Topp" set_property="valu" target="Topp"/>
+        <record get_property="fmat" set_property="fmat" target="Topp"/>
+        <record get_property="resu" set_property="valu" target="ReIc"/>
+    </list>
+
+    <container class="contrast_box" red_replacement="bg int">
+        <attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_layout="30, -1, 16, 50, 16"/>
+
+        <widget class="container" id="grad" file="widgets/performance grade widget" width="30" height="30"/>
+
+        <container>
+            <attachment_group class="vertical_arrange_autosize" vertical_gap="4" vertical_offset="2"/>
+
+            <widget class="team_button" id="Topp" icon_only="false" font="title" auto_size="vertical"/>
+            <widget class="text" id="dtxt" alignment="left, centre_y" size="small" colour="faded text" auto_size="vertical"/>
+        </container>
+
+        <widget class="fixture_result_icon" id="ReIc" height="20" width="20"/>
+        <widget class="text" id="scrt" auto_size="all" alignment="right, centre_y" colour="text" font="title" size="large"/>
+		<widget class="button" appearance="icons/16px/right"/>
+    </container>
+
+</panel>

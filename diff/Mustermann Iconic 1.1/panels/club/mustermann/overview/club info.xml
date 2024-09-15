@@ -1,0 +1,142 @@
+<panel>
+	<attachment_group class="horizontal_arrange" horizontal_alignment="left,extend" />
+	<boolean id="should_force_refresh" value="true"/>
+
+	<!--SPLIT INTO NINE ROWS-->
+	<container class="plain_box">
+		<attachment_group class="vertical_arrange" vertical_alignment="top, fill"/>
+
+		<container/>
+
+		<!--YEAR FOUNDED-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+
+			<widget class="label" id="yrfL" auto_size="vertical" alignment="right" font="title" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="Cyfn" />
+					<boolean id="name" value="true"/>
+				</record>    
+			</widget>
+			<widget class="dashed_number_label" id="yrfd" auto_size="vertical" colour="text">
+				<boolean id="NumF" value="0"/>
+				<record id="object_property">
+					<integer id="get_property" value="Cyfn" />
+				</record>
+			</widget>
+		</container>
+
+		<!--PROFESSIONAL STATUS-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+			<widget class="label" id="proL" auto_size="vertical" alignment="right" font="title" colour="text">
+				<translation id="text" translation_id="335336" type="use" value="Status"/>
+			</widget>
+			<widget class="professional_status_label" auto_size="vertical" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="Cprs" />
+				</record>
+			</widget>
+		</container>
+
+		<!--DIVISION-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+			<widget class="label" id="" auto_size="vertical" alignment="right" font="title" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="Cdiv" />
+					<boolean id="name" value="true" />
+				</record>
+			</widget>
+			<widget class="comp_button" id="comp" section="Pcnr" icon_enabled="false" alignment="left,top" multiline="true" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="Cdiv" />
+				</record>
+			</widget>
+		</container>
+
+		<!--MEDIA PREDICTION-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+			<widget class="label" id="CmeL" auto_size="vertical" alignment="right" font="title" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="CmeD" />
+					<boolean id="name" value="true" />
+				</record>
+			</widget>
+			<widget class="media_expectation_text" id="CmeV" auto_size="vertical" colour="text" hint="Reputation">
+				<record id="object_property">
+					<integer id="get_property" value="CmeD" />
+				</record>
+			</widget>
+		</container>
+
+		<!--FINANCES-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+			<widget class="label" id="CfiL" auto_size="vertical" alignment="right" font="title" colour="text">
+				<record id="object_property">
+				   <integer id="get_property" value="CfiD" />
+				   <boolean id="name" value="true"/>
+				  </record>
+			</widget>
+			<widget class="club_finances_description_text" id="CfiV" auto_size="vertical" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="CfiD" />
+                </record>
+			</widget>
+		</container>
+
+		<!--REPUTATION-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+
+			<widget class="label" id="CrsL" auto_size="vertical" alignment="right" font="title" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="Crsc" />
+					<boolean id="name" value="true" />
+				</record>
+			</widget>
+			<widget class="reputation_label" id="CrsV" auto_size="vertical" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="Crsc" />
+				</record>
+			</widget>
+		</container>
+
+		<!--TRAINING FACILITIES-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+
+			<widget class="label" id="TfcL" auto_size="vertical" alignment="right" font="title" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="TfcS" />
+					<boolean id="name" value="true" />
+				</record>
+			</widget>
+			<widget class="training_facilities_description_text" id="TfcV" auto_size="vertical" colour="text">
+				<record id="object_property">
+					<integer id="get_property" value="TfcS" />
+				</record>
+			</widget>
+		</container>
+
+		<!--YOUTH FACILITIES-->
+		<container>
+			<layout class="horizontal_arrange" horizontal_layout="-1,-1" offset="0" inset="0" gap="0" draw_vertical_dividers="false"/>
+				<widget class="label" id="TytL" auto_size="vertical" alignment="right" font="title" colour="text">
+					<record id="object_property">
+						<integer id="get_property" value="TytS" />
+						<boolean id="name" value="true" />
+					</record>
+				</widget>
+				<widget class="youth_facilities_description_text" id="TytV" auto_size="vertical" colour="text">
+					<record id="object_property">
+						<integer id="get_property" value="TytS" />
+					</record>
+				</widget>
+		</container>
+		
+	</container>
+
+</panel>

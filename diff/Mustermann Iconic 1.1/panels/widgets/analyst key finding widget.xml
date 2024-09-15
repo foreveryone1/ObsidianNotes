@@ -1,0 +1,33 @@
+﻿<panel height="70">
+	<list id="properties_to_forward">
+		<record target="numT" get_property="indx" set_property="text" />
+		<record target="titl" get_property="titl" set_property="text" />
+		<record target="desc" get_property="subt" set_property="text" />
+		<record target="icon" get_property="icon" set_property="file" />
+		<record target="datB" get_property="pvDR" set_property="pvDR" />
+		<record target="datB" get_property="WdgP" set_property="WdgP" />
+	</list>
+	<layout class="stick_to_sides_attachment" apply_to_children="true" alignment="all" inset="0"/>
+	<container class="main_subtle_box">
+		<layout class="stick_to_sides_attachment" apply_to_children="true" alignment="vertical" inset="0"/>
+		<layout class="arrange_horizontal_attachment" layout="50, -1" offset="0" gap="4" />
+
+		<container>
+			<layout class="stick_to_sides_attachment" apply_to_children="true" alignment="all" inset="4"/>
+			<widget class="picture" id="icon" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre" />
+		</container>
+		<container>
+			<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" />
+
+			<layout class="stick_to_sides_attachment" apply_to_children="true" alignment="horizontal" inset="4"/>
+
+			<widget class="text" id="titl" font="title" size="large" alignment="left, centre_y" multiline="false" auto_size="vertical" colour="fg"/>
+			<widget class="text" id="desc" size="small" alignment="left, top" auto_size="vertical"/>
+		</container>
+
+	</container>
+	<container class="data_analyst_visualisation_widget" id="datB" file="" can_pin_visualisation="false" can_display_without_data="true">
+		<layout class="stick_to_sides_attachment" apply_to_children="true" alignment="all" inset="0"/>
+		<widget class="button" appearance="buttons/custom/over state only/button" click_event="clkk" navigation_focus_target="true"/>
+	</container>
+</panel>

@@ -1,0 +1,97 @@
+<!-- A panel showing a brief overview of a continent. Meant to be used with a client_object_xml_viewer_panel -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container class="contrast_box_no_margin" red_replacement="bg lighter" navigation_container="true">
+		<layout class="arrange_vertical_attachment" layout="40, -1, 2" gap="2" offset="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+		<!-- Comp header -->
+		<container class="main_contrast_box" appearance="boxes/contrast/no margin/top/paper">
+			<layout class="arrange_horizontal_attachment" layout="32, -1" offset="4" gap="4" />
+			<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+			<!-- Set background colour to the team's background colour (change the set_property to 'rclr' and the container class to 'inner_box' if you want to recolour an appearance instead)-->
+			<!-- we also need the foreground colour or we will get a NULL bg colour -->
+			<record id="object_property">
+				<list id="get_properties">
+					<!--we don't use this, we just get it so that the title colour can be calculated correctly for contrast-->
+					<record get_property="ttcl" dont_set_property="true" />
+					<record get_property="tbcl" set_property="rclr" />
+				</list>
+			</record>
+
+			<!-- Comp logo -->
+			<widget class="object_portrait_picture" scale_picture="true" image_alignment="centre" green_replacement="white" keep_aspect_ratio="true">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</widget>
+			<!-- Comp name -->
+			<widget class="continent_button" id="name" icon_enabled="false" alignment="left,centre_y" font="title" size="large" multiline="true">
+				<record id="object_property">
+					<list id="get_properties">
+						<record id="object_property" get_property="objt" set_property="valu" />
+						<!--we don't use this, we just get it so that the title colour can be calculated correctly for contrast-->
+						<record get_property="tbcl" dont_set_property="true" />
+						<record get_property="ttcl" set_property="colr" />
+					</list>
+				</record>
+			</widget>
+		</container>
+
+		<container class="horizontal_arrange_container" alignment="fill" inset="8" offset="0">
+			<container class="vertical_arrange_container" alignment="top,extend" inset="8">
+
+				<widget class="label" auto_size="vertical" font="title" colour="accent">
+					<translation id="text" translation_id="316791" type="use" value="News[COMMENT: toggle subscription status]" />
+				</widget>
+
+				<container class="competition_news_panel" id="news" file="none" maximum_items="6" parent="Pnwd">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<record id="object_property" get_property="objt" set_property="objt" />
+
+					<container id="none" hidden="true">
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="10" />
+
+						<widget class="text" multiline="true" alignment="centre" colour="faded text">
+							<translation id="text" translation_id="395484" type="use" value="There is currently no news to display for this continent.[COMMENT:FR 11005; FM news panel; String displayed when there is not yet any news to display to user]" />
+						</widget>
+					</container>
+
+					<container class="vertical_adaptive_container" mode="dont_distribute" inset="0" gap="0" offset="0">
+						<record id="default_properties" file="competition/mustermann/around the world/news item" height="47" />
+						<container class="competition_news_item_panel" index="0" priority="2" />
+						<container class="competition_news_item_panel" index="1" priority="3" />
+						<container class="competition_news_item_panel" index="2" priority="4" />
+						<container class="competition_news_item_panel" index="3" priority="5" />
+						<container class="competition_news_item_panel" index="4" priority="6" />
+						<container class="competition_news_item_panel" index="5" priority="7" />
+					</container>
+				</container>
+			</container>
+
+			<container class="vertical_arrange_container" alignment="top,extend" inset="0" gap="0" >
+				<widget class="label" auto_size="vertical" font="title" colour="accent">
+					<translation id="text" translation_id="377877" type="use" value="Events[COMMENT: FR 8117; section title; calendar filtered showing only events]" />
+				</widget>
+				<container class="competition_news_side_panel" file="none">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<record id="object_property" get_property="objt" set_property="objt" />
+
+					<container id="upc1">
+						<layout class="arrange_vertical_attachment" alignment="top" offset="0" gap="0" do_not_size="true" />
+						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+						<container class="property_list_viewer_xml_panel" id="evt1" file="competition/competition news calendar day panel" height="66" />
+						<container class="property_list_viewer_xml_panel" id="evt2" file="competition/competition news calendar day panel" height="66" />
+					</container>
+					<widget class="text" id="noev" height="172" alignment="left,top" hidden="true">
+						<translation id="text" translation_id="395280" type="use" value="No events in the near future.[COMMENT: FR 11005; competition news panel; text indicating that there are no interesting events coming up]" />
+					</widget>
+				</container>
+			</container>
+
+		</container>
+	</container>
+</panel>

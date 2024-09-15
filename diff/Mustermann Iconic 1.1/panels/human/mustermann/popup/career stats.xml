@@ -1,0 +1,14 @@
+<panel>
+	<boolean id="should_force_refresh" value="true" />
+
+	<layout class="arrange_vertical_attachment" alignment="top,extend" offset="0" gap="8" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+	<!-- Bar showing the split between games won/lost/drawn -->
+	<container d="gbox">
+		<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal,top" inset="0" apply_to_children="true" />
+
+		<container class="horizontal_stacked_bar_chart_with_key_panel" id="gbar" />
+	</container>
+</panel>

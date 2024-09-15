@@ -1,0 +1,18 @@
+<!-- THIS PANEL HOLDS THE INFORMATION FOR THE NEXT MATCH -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<!-- HORIZONTAL ADAPTIVE CONTAINER USED SO WE CAN PLACE THINGS HORIZONTALLY -->
+	<container class="horizontal_adaptive_container" offset="0" inset="0" gap="0" >
+
+		<!-- STADIUM AND BADGES -->
+		<container default_width="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/> 
+
+			<!-- HAVE TO REDIRECT THROUGH ANOTHER FILE -->
+			<widget class="team_upcoming_fixture_info_panel" file="nation/mustermann/nation overview/next fixture details 2" id="tmip" omit_prefix="true"/>
+		</container>
+
+	</container>
+
+</panel>

@@ -1,0 +1,10 @@
+﻿<panel>
+    <attachment_group class="vertical_arrange_autosize"/>
+
+    <container>
+
+		<attachment_group class="vertical_arrange_autosize" vertical_gap="8"/>
+
+        <container class="club_vision_viewer_panel" id="cvBC" file="club/mustermann/vision/culture vision" show_objective_icon="false" show_objective_type="false" show_objective_importance="true" show_objective_status="false" use_performance_data="false"/>
+	</container>
+</panel>

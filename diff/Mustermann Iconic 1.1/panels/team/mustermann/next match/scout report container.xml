@@ -1,0 +1,76 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+		
+		<!--MANAGER DETAILS-->
+		<container class="client_object_viewer_xml_panel" id="opmi" height="80">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			
+			<container class="non_player_profile_panel" id="nPpP" file="none">
+				<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+				<record id="dbrp">
+					<string id="get_property" value="TMnR" />
+					<string id="set_property" value="objt" />
+				</record>
+				
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+						
+					<widget class="picture" id="ppic" scale_picture="true" default_width="80">
+						<string id="image_alignment" value="centre" />
+					</widget>
+					
+					<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-1">
+					
+						<widget class="person_button" id="namv" auto_size="vertical" alignment="centre_y,left" default_height="20">
+							<integer id="size" value="10" />
+							<string id="style" value="semi_bold" />
+							<record id="dbrp">
+								<string id="dont_set_hint" value="true" />
+								<string id="get_property" value="Pnms" />
+							</record>
+						</widget>
+						
+						<container class="editable_client_object_property_panel" id="age " auto_size="vertical" alignment="centre_y,left" default_height="20">
+							<record id="WdgI" class="formatted_label" alignment="centre_y,left" auto_size="all">
+								<string id="colour" value="faded text" />
+								<integer id="size" value="8" />
+								<translation id="format" translation_id="242551" type="use" value="[%number#1] years old" />
+							</record>
+							<record id="WdgP" width="0" height="0" />
+							<record id="dbrp">
+								<string id="get_property" value="Page" />
+							</record>
+						</container>
+						
+						<container class="editable_client_object_property_panel" id="intc" auto_size="vertical" alignment="centre_y,left" default_height="-1">
+							<record id="WdgI" class="nation_button" auto_size="all">
+								<string id="icon_enabled" value="false" />
+								<integer id="size" value="8" />
+								<string id="colour" value="faded text" />
+								<string id="format" value="[%nation#1-nationality]" />
+							</record>
+							<record id="WdgP" auto_size="all" />
+							<record id="dbrp">
+								<string id="dont_set_hint" value="true" />
+								<string id="get_property" value="PNat" />
+							</record>
+						</container>
+						
+					</container>
+				</container>
+		
+			</container>			
+		</container>
+		
+		<!--NOTABLE PLAYERS & ABSENCES-->
+		<container class="team_opposition_report_squad_summary_panel" id="tmin" file="team/mustermann/next match/squad details" default_height="-1"/>
+		
+		<!--TEAM PROS & CONS-->
+		<container class="team_pro_con_summary_panel" id="tpcs" height="450">
+			<integer id="num_pro_cons_to_show" value="3" />
+		</container>
+						
+	</container>
+	
+</panel>

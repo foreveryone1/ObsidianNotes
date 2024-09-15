@@ -1,0 +1,41 @@
+﻿<panel>
+	<list id="draw_order">
+		<record entity_layout_id="at00"/>
+		<record entity_layout_id="at02"/>
+		<record entity_layout_id="at01"/>
+	</list>
+	<widget class="spacer" id="main">
+		<boolean id="exclude_from_find" value="true"/>
+		<layout class="stick_to_sides_attachment" alignment="all" inset="8"/>
+	</widget>
+	<widget class="spacer" id="fmin" embed_in_frame="true">
+		<boolean id="exclude_from_find" value="true"/>
+		<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0"/>
+	</widget>
+	<container class="main_box" entity_layout_id="at00" id="at00" sub_group_id="0" adaptive_display_flags="" force_title_borders="true">
+		<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" use_opposite_side_if_target_hidden="true"/>
+		<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" use_opposite_side_if_target_hidden="true"/>
+		<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" use_opposite_side_if_target_hidden="true"/>
+		<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" use_opposite_side_if_target_hidden="true"/>
+		<widget class="spacer" id="main">
+			<boolean id="exclude_from_find" value="true"/>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+		</widget>
+		<widget class="spacer" id="fmin" embed_in_frame="true">
+			<boolean id="exclude_from_find" value="true"/>
+			<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0"/>
+		</widget>
+		<container class="table" entity_layout_id="at02" id="tabl" layout="-1" adaptive_display_flags="" exclude_from_find="true">
+			<integer id="row_height" value="160"/>
+			<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" use_opposite_side_if_target_hidden="true"/>
+			<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" use_opposite_side_if_target_hidden="true"/>
+			<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" use_opposite_side_if_target_hidden="true"/>
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" use_opposite_side_if_target_hidden="true"/>
+		</container>
+		<widget class="left_right_list" entity_layout_id="at01" id="dswd" embed_in_frame="true" width="300" height="30" adaptive_display_flags="" navigation_container="true" default_focus="true">
+			<string id="select_event" value="daTe"/>
+			<layout class="stick_to_object_attachment" id="align_top" embed_in_frame="true" get_side="top" set_side="top" move_side="true" target="fmin" use_opposite_side_if_target_hidden="true"/>
+			<layout class="stick_to_object_attachment" id="align_left" embed_in_frame="true" get_side="left" set_side="left" move_side="true" target="fmin" use_opposite_side_if_target_hidden="true"/>
+		</widget>
+	</container>
+</panel>

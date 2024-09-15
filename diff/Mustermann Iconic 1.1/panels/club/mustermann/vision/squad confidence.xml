@@ -1,0 +1,6 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+
+	<widget class="performance_grade_box" file="club/mustermann/vision/performance grade" id="smgb" auto_size="vertical" />
+	
+</panel>

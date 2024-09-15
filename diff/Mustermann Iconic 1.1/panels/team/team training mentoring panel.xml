@@ -1,0 +1,87 @@
+﻿<panel>
+	<list id="draw_order">
+		<record entity_layout_id="at00" />
+		<record entity_layout_id="at01" />
+		<record entity_layout_id="at02" />
+		<record entity_layout_id="at03" />
+		<record entity_layout_id="at04" />
+		<record entity_layout_id="at05" />
+	</list>
+	<widget class="spacer" id="main">
+		<boolean id="exclude_from_find" value="true" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</widget>
+	<widget class="spacer" id="fmin" embed_in_frame="true">
+		<boolean id="exclude_from_find" value="true" />
+		<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+	</widget>
+	<container class="main_box" entity_layout_id="at00" id="at00" sub_group_id="0" navigation_container="true" >
+		<translation id="title" translation_id="466544" type="use" value="Mentoring[COMMENT: training mentoring panel title, this effectively replaces tutoring, so sort of treat this as a similar concept]" />
+		<layout class="stick_to_object_attachment" id="align_top" get_side="top" offset="8" set_side="top" target="main" />
+		<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+		<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+		<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+		<widget class="spacer" id="main">
+			<boolean id="exclude_from_find" value="true" />
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+		</widget>
+		<widget class="spacer" id="fmin" embed_in_frame="true">
+			<boolean id="exclude_from_find" value="true" />
+			<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+		</widget>
+		<widget class="button" entity_layout_id="at01" id="askA" auto_size="all" embed_in_frame="true" needs_height="true" disabled="true" appearance="buttons/subtle/normal/button" navigation_focus_target="true">
+			<string id="click_event" value="aska" />
+			<translation id="text" translation_id="329695" type="use" value="Ask Assistant to Assign[COMMENT: team training coaches panel; ask assistant manager to take control over areas of training]" />
+			<layout class="stick_to_object_attachment" id="align_top" embed_in_frame="true" offset="0" get_side="top" set_side="top" move_side="true" target="fmin" />
+			<layout class="stick_to_object_attachment" id="align_right" embed_in_frame="true" offset="-6" get_side="right" set_side="right" move_side="true" target="fmin" />
+		</widget>
+		<container class="smart_scrolling_box" entity_layout_id="at02" id="at02" sub_group_id="gp00" file="none">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+			<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			<container id="test">
+				<layout class="fit_children_attachment" alignment="vertical" offset="0" gap="0" />
+				<widget class="spacer" id="main" ignore_sizing="true">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+				</widget>
+				<widget class="spacer" id="fmin" embed_in_frame="true" ignore_sizing="true">
+					<boolean id="exclude_from_find" value="true" />
+					<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+				</widget>
+				<container class="vertical_arrange_container" auto_size="vertical" needs_height="true" offset="5" id="tmCo" entity_layout_id="at00">
+					<integer id="gap" value="5" />
+					<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+					<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+					<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+				</container>
+			</container>
+		</container>
+		<container entity_layout_id="at03" id="noGt" sub_group_id="0" hidden="true" name="no groups container">
+			<layout class="stick_to_object_attachment" id="align_top" get_side="top" set_side="top" target="main" />
+			<layout class="stick_to_object_attachment" id="align_bottom" get_side="bottom" set_side="bottom" target="main" />
+			<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+			<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			<widget class="spacer" id="main">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+			</widget>
+			<widget class="spacer" id="fmin" embed_in_frame="true">
+				<boolean id="exclude_from_find" value="true" />
+				<layout class="stick_to_sides_attachment" embed_in_frame="true" alignment="all" inset="0" />
+			</widget>
+			<widget class="text" entity_layout_id="at04" id="at04" alignment="centre_x,centre_y" auto_size="vertical" needs_height="true">
+				<translation id="text" translation_id="468961" type="use" value="To begin mentoring, add a group. To join a group and begin learning from one another in training, players must first be in the same squad.[COMMENT: Mentoring panel; An informatic message to explain what Menoring does when no groups have been created]" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+				<layout class="centre_in_parent_attachment" id="align_centre_vert" alignment="vertical" offset="0" />
+			</widget>
+			<container entity_layout_id="at05" id="at05" file="team/team training mentoring add group" height="0">
+				<layout class="stick_to_object_attachment" id="align_top" get_side="bottom" set_side="top" move_side="true" offset="10" target="at04" />
+				<layout class="stick_to_object_attachment" id="align_left" get_side="left" set_side="left" target="main" />
+				<layout class="stick_to_object_attachment" id="align_right" get_side="right" set_side="right" target="main" />
+			</container>
+		</container>
+	</container>
+</panel>

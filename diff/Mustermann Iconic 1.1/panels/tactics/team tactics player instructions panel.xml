@@ -1,0 +1,7 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+	<boolean id="save_immediate_state" value="true"/>
+
+  <widget class="tactics_player_instructions_panel" id="TacP" />
+
+</panel>

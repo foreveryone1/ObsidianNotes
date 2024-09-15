@@ -1,0 +1,42 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+	<layout class="arrange_vertical_attachment" alignment="top,extend"/>
+
+	<container class="contrast_box_no_margin" red_replacement="bg int">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+									
+		<container id="staf" height="215">
+			<layout class="arrange_vertical_attachment" layout="35,-1,30" gap="0"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+
+			<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/top/paper" red_replacement="primary" id="pejo">
+				<layout class="vertical_arrange" vertical_layout="-1" offset="0" inset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+
+				<!-- Job -->
+				<widget class="job_label" id="pjob" alignment="centre_x,centre_y,can_scale" font="title" size="xlarge" colour="secondary">
+					<record id="object_property" get_property="PcJj" set_property="valu"/>
+				</widget>
+
+			</container>
+			
+			<!-- Portrait -->
+			<widget class="object_portrait_picture" scale_picture="true" image_alignment="centre">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+			
+			<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/bottom/paper" red_replacement="primary">
+				<layout class="vertical_arrange" vertical_layout="-1" offset="0" inset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+
+				<!-- Person name -->
+				<widget class="person_button" id="pern" alignment="centre_x,centre_y" font="text" info_popup_enabled="false" info_popup_alignment="centre_x,centre_y" icon_enabled="false" navigation_focus_target="false" colour="secondary">
+					<record id="object_property" get_property="Pcjo" set_property="Pcjo"/>
+					<record id="object_property" get_property="objt" set_property="valu"/>
+				</widget>
+
+			</container>
+		</container>
+
+	</container>
+</panel>

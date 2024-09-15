@@ -1,0 +1,14 @@
+<!-- NOTE: The property 'usoc' used on elements tells the panel to recolour them based on object colours -->
+<panel  navigation_focus_target="true">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+	
+	<container background_colour="mustermann2">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+		
+		<widget class="text" id="titl" multiline="false" colour="text" alignment="left,centre_y" height="40">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="5"/>
+		</widget>
+		
+	</container>
+
+</panel>

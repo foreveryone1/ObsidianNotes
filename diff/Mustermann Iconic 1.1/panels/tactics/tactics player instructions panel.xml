@@ -1,0 +1,95 @@
+<panel AUsp="true">
+	<boolean id="always_refresh_on_set_tactics" value="false"/>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+	
+		<container class="contrast_box" red_replacement="bg lighter" width="300">
+			<layout class="arrange_vertical_attachment" layout="40,390,22,-1,30" offset="0" gap="8"/>
+			<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+			
+			<container class="match_preparation_slot_selector" id="mpss" auto_size="vertical" navigation_container="true">
+				<translation id="text" translation_id="316746" type="use" value="Tactic[COMMENT:team report, tactic name]" />
+			</container>
+			
+			<container class="pitch_with_tactics" id="pwtc" navigation_container="true" default_focus="true" show_squad_number_for_personalised_instructions="true">
+				<string id="pitch_alignment" value="centre,can_scale" />
+				<string id="icon_flags" value="show_selection_image,dont_allow_player_links,dont_use_player_instructions_menu" />
+				<boolean id="pitch_draw_grass" value="true" />
+				<string id="pitch_base_appearance" value="" />
+				<boolean id="pitch_pattern" value="false" />
+				<boolean id="pitch_is_read_only" value="true" />
+				<boolean id="pitch_dont_draw_indicators" value="true" />
+				<boolean id="vertical" value="true" />
+				<integer id="pitch_override_icon_size" value="2" />
+				<string id="player_icon_file" value="tactics/tactics icon info panel pi" />
+				<integer id="line_width" value="1" />
+				<string id="pitch_line_colour" value="white" />
+			</container>
+			
+			<widget class="icon_button" id="at12" auto_size="vertical" appearance="none" font="title" colour="text" navigation_focus_target="false">
+				<translation id="text" translation_id="318300" type="use" value="Instructions for:[COMMENT: player instructions; menu label indicating which player/position the instructions are going to be used for]" />
+			</widget>
+			
+			<container class="table" id="bSpI" layout="-1,20" mode="stripe_rows, select_rows, show_bullets" select_event="selp" navigation_container="true">
+				<boolean id="fixed_size_rows" value="true" />
+				<record id="defp">
+					<string id="standard_spec" value="text" />
+					<string id="colour" value="white" />
+				</record>
+				<list id="column_table_properties">
+					<record>
+						<integer id="index" value="0" />
+						<integer id="left" value="5" />
+						<integer id="navigation_focus_target" value="false" />
+						<boolean id="sort_disabled" value="true" />
+						<record id="clWP" alignment="centre_y,left" />
+					</record>
+					<record>
+						<integer id="index" value="1" />
+						<string id="sort_disabled" value="true" />
+						<integer id="top" value="2" />
+						<integer id="bottom" value="2" />
+					</record>
+				</list>
+			</container>
+			
+			<container>
+				<layout class="arrange_horizontal_attachment" layout="-1,134,44,-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true"/>
+				
+				<container/>				
+				<widget class="icon_button" entity_layout_id="at15" id="AddP" auto_size="horizontal" appearance="buttons/subtle/split/left/button" needs_width="true" navigation_focus_target="true">
+					<string id="click_event" value="AddP" />
+					<string id="icon" value="icons/16px/plus" />
+					<string id="colour" value="white" />
+					<translation id="text" translation_id="374667" type="use" value="Add Player(s)[COMMENT: button text for adding a specific player's tactic position instructions, can be multiple players, use top ten matches]" />
+				</widget>
+				<widget class="subtle_popup_button" entity_layout_id="at16" id="rcpu" icon_alignment="centre_x,centre_y" auto_size="all" appearance="buttons/subtle/split/right/button">
+					<string id="colour" value="white" />
+				</widget>
+				<container/>
+			
+			</container>
+		
+		</container>
+		
+		<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			
+			<container class="position_instructions_panel" id="poin"/>
+			
+			<container class="main_box" id="PnSL">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+				<widget class="text" id="at24" alignment="centre_x,centre_y" colour="text" needs_height="true">
+					<translation id="text" translation_id="441112" type="use" value="Select a position on the pitch to begin adjusting the role and instructions.[COMMENT player insutrction panel; explantory text when no position is selected when first enterting the panel]" />
+				</widget>
+
+			</container>
+			
+		</container>
+	
+	</container>
+		
+</panel>

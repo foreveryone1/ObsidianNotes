@@ -1,0 +1,5 @@
+<class class="weather_icon_only" parent="weather_indicator_panel">
+
+  <flags id="file" value="match/mustermann/schedule/weather icon"/>
+  
+</class>

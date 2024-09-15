@@ -1,0 +1,27 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+		
+	<container>
+		<attachment_group class="vertical_arrange" vertical_layout="-1" horizontal_alignment="horizontal" vertical_gap="0" horizontal_inset="0" vertical_inset="0" />
+	
+		<container>
+			<attachment_group class="vertical_arrange" vertical_alignment="top" vertical_offset="0" vertical_gap="4" horizontal_alignment="horizontal" horizontal_inset="0" />
+
+			<widget class="label" colour="title" alignment="centre" auto_size="vertical" font="title" size="10">
+				<translation id="text" translation_id="347767" type="use" value="Intensity Level[COMMENT: team training; the desired default level of intensity the players will train under]" />
+			</widget>
+
+			<widget class="player_training_intensity_rest_popup_button" fixed="false" appearance="buttons/standard/normal/button" id="inPt" alignment="left,centre_y" auto_size="vertical" />
+
+			<widget class="client_object_property_panel" id="phyR" size="8" property="pTIR"  alignment="centre_x,centre_y" colour="faded text">
+				<record id="widget_properties" auto_size="vertical" />
+				<record id="object_property">
+					<integer id="get_property" value="objt"/>
+					<integer id="set_property" value="objt"/>
+				</record>
+			</widget>
+		</container>
+
+	</container>
+		
+</panel>

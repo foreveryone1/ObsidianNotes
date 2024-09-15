@@ -1,0 +1,11 @@
+﻿<panel>
+    <attachment_group class="vertical_arrange_autosize"/>
+
+    <!-- supporter view -->
+    <boolean id="club_vision_view_type" value="1"/>
+	<boolean id="combined_supporter_culture_and_objectives" value="true"/>
+	<boolean id="should_force_refresh" value="true"/>
+
+    <!-- combined fan culture and objectives -->
+    <container class="club_vision_objective_list_panel" id="CObx" title_colour="text" can_collapse="true"/>
+</panel>

@@ -1,0 +1,13 @@
+<!-- A tabbed container is simply a multi-box with a tab strip as the top control -->
+<class class="mustermann_tabbed" parent="multi_box" contents_kind="plain_box" top_kind="tab_strip" dont_set_title_text="true">
+	<flags id="top_layout" value="horizontal"/>
+	<record id="top_properties">
+		<flags id="appearance" value="mustermann/tabs"/>
+		<flags id="height" value="28"/>
+		<flags id="alignment" value="top" />
+		<boolean id="use_alt_end_tab_appearances" value="false"/>
+	</record>
+</class>
+
+
+ 

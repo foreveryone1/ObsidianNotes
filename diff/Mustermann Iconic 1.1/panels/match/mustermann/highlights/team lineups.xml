@@ -1,0 +1,31 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_gap="0" vertical_offset="0"/>
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<widget class="tactics_kit_picture" id="kitp">
+
+			</widget>
+
+		</container>
+
+		<container>
+			<attachment_group class="vertical_arrange_autosize" vertical_gap="0" vertical_offset="0"/>
+
+			<widget class="text" id="name" auto_size="vertical" alignment="centre, can_scale" multiline="false" style="semi_bold">
+				<layout class="centre_in_parent_attachment" alignment="horizontal"/>
+			</widget>
+
+			<!--<widget class="match_rating_label_formatted" id="avra" auto_size="all" alignment="centre" format="[%fraction#1-2.1]" navigation_focus_target="false">
+				<layout class="centre_in_parent_attachment" alignment="horizontal"/>
+			</widget>-->
+
+		</container>
+
+	</container>
+
+
+</panel>

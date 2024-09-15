@@ -1,0 +1,33 @@
+<!-- NOTE: The property 'usoc' used on elements tells the panel to recolour them based on object colours -->
+<panel navigation_focus_target="true">
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container usoc="true" >
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_gap="0" horizontal_alignment="horizontal" horizontal_inset="0" />
+		<attachment class="hide_empty_container_attachment"/>
+
+		<container id="wcon">
+			<layout class="horizontal_arrange" horizontal_layout="316,-1" offset="0" inset="0" gap="8"/>
+
+			<container>
+				<container id="CNdi" width="312">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					<layout class="centre_in_parent_attachment" alignment="horizontal"/>
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0"/>
+				</container>
+			</container>
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="top, extend" offset="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+			
+				<widget class="text" id="titl" font="title" size="xlarge" multiline="true" auto_size="vertical" colour="website headline" />
+				
+				<widget class="text" id="news" colour="text" auto_size="vertical" />
+				
+			</container>
+
+		</container>
+
+	</container>
+</panel>

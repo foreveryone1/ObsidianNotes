@@ -1,0 +1,35 @@
+<panel>
+
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<!-- background shading image 
+  <widget class="picture" id="pict" file="interface/shadow/bar" height="171">
+    <layout class="stick_to_sides_attachment" alignment="top" inset="55"/>
+  </widget> -->
+
+	<!--container for the team badges-->
+	<container id="tbdg">
+		<layout class="arrange_horizontal_attachment" layout="-1,66,-1" offset="0"/>
+		<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true"/>
+
+		<!--home team-->
+		<widget class="object_portrait_picture" id="htpi" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" inset="25">
+			<record id="object_property">
+				<integer id="get_property" value="home" />
+				<integer id="set_property" value="objt" />
+			</record>
+		</widget>
+
+		<widget class="spacer" />
+
+		<!--away team-->
+		<widget class="object_portrait_picture" id="atpi" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" inset="25">
+			<record id="object_property">
+				<integer id="get_property" value="away" />
+				<integer id="set_property" value="objt" />
+			</record>
+		</widget>
+
+	</container>
+
+</panel>

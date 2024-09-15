@@ -1,0 +1,22 @@
+﻿<panel height="20">
+  <layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="0"/>
+  <layout class="fit_children_attachment" alignment="horizontal,fill" offset="0" gap="0"/>
+  <layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+  <container class="main_box_no_margin" width="28">
+    <layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<widget class="picture" file="mustermann/lineup/xsmall" red_replacement="fg" image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+    <widget class="label" id="bsnm" colour="bg darker" size="small" alignment="centre" />
+    
+  </container>
+
+  <container class="main_box_no_margin">
+    <layout class="arrange_horizontal_attachment" alignment="left" offset="0" gap="0"/>
+    <layout class="fit_children_attachment" alignment="horizontal" offset="0" gap="0"/>
+    <layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+      
+    <widget  class="text" id="name" format="[%person#1-surname]" font="title" colour="text" size="normal" alignment="left,centre_y,can_scale" multiline="false" auto_size="horizontal"/>
+  </container>
+
+</panel>

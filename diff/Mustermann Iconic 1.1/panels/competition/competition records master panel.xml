@@ -1,0 +1,40 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+
+	<container class="main_box">
+		<translation id="text" translation_id="328525" type="use" value="Records[COMMENT: team report; squad depth heading]" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+		<container class="mustermann_tabbed" id="main" default_item="csmp" save_session_state="true" navigation_container="true"> 
+
+			<record id="default_properties">
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+
+				<boolean id="save_session_state" value="true" />
+			</record>
+			
+			<widget class="competition_summary_panel" id="csmp">
+				<translation id="title" translation_id="247414" type="use" value="Overview" />
+			</widget>
+			<widget class="competition_records_panel" id="catp" type="0">
+				<translation id="title" translation_id="232110" type="use" value="Attendances" />
+			</widget>
+			<widget class="competition_records_panel" id="crsp" type="1">
+				<translation id="title" translation_id="232111" type="use" value="Results" />
+			</widget>
+			<widget class="competition_records_panel" id="csqp" type="2">
+				<translation id="title" translation_id="232112" type="use" value="Sequences" />
+			</widget>
+			<widget class="competition_records_panel" id="ctmp" type="3">
+				<translation id="title" translation_id="229362" type="use" value="Teams" />
+			</widget>
+			<widget class="competition_records_panel" id="cplp" type="4">
+				<translation id="title" translation_id="232113" type="use" value="Players" />
+			</widget>
+
+		</container>
+	</container>
+</panel>

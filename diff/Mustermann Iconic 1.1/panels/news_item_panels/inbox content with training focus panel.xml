@@ -1,0 +1,175 @@
+<panel height="675">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+
+	<string id="skin_style" value="title link"/>
+
+	<!-- content area -->
+	<container>
+		<layout class="arrange_vertical_attachment" layout="175,492" offset="0" gap="8"/>
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+
+		<container class="inner_subtle_box">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<container class="icon_box" icon="icons/custom/icon box/progress">
+				<layout class="arrange_vertical_attachment" alignment="top,extend" gap="0" offset="0"/>
+
+				<widget class="link_button" section="Pgrg" id="trRE" auto_size="horizontal" alignment="left,centre_y" font="title">
+					<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+					<translation id="text" translation_id="420691" type="use" value="Progress (last 3 months)[COMMENT: player training]"/>
+				</widget>
+				<widget class="label" id="imTX" hidden="true" alignment="left,centre_y" size="large" auto_size="vertical" colour="positive" style="semi_bold">
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+					<translation id="text" translation_id="420692" type="use" value="Improved[COMMENT: training focus inbox item, label indicating a training area which improved]"/>
+				</widget>
+				<widget class="label" id="noTX" hidden="true" alignment="left,centre_y" size="large" auto_size="vertical" colour="neutral" style="semi_bold">
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+					<translation id="text" translation_id="424583" type="use" value="No progress[COMMENT: training focus inbox item, label indicating a training area with no progress]"/>
+				</widget>
+				<widget class="label" id="dcTX" hidden="true" alignment="left,centre_y" size="large" auto_size="vertical" colour="negative" style="semi_bold">
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+					<translation id="text" translation_id="420693" type="use" value="Declined[COMMENT: training focus inbox item, label indicating a training area which declined]"/>
+				</widget>
+				<container class="scrolling_box">
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0"/>
+					<widget class="text" auto_size="vertical" colour="text" id="adtx"/>
+				</container>
+			</container>
+
+		</container>
+
+		<container class="horizontal_adaptive_container" mode="dont_distribute" gap="8" default_height="492">
+		
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="400" priority="2">
+			
+				<container class="contrast_box_no_margin" appearance="boxes/contrast/no margin/top/paper" red_replacement="mustermann3" default_height="108">
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+			
+					<!--CLUB BADGE-->
+					<container>
+						<container height="92" width="92">
+							<layout class="stick_to_sides_attachment" alignment="left" inset="48"/>
+							<layout class="stick_to_sides_attachment" alignment="top" inset="4"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<widget class="object_portrait_picture" id="pclB" image_alignment="centre" scale_picture="true" keep_aspect_ratio="true" wants_mouse_events="true" transparency="0.6">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />						
+								<record id="object_property" dont_set_hint="true" get_property="Pclb" set_property="objt" />
+							</widget>									
+						</container>
+					</container>
+					
+					<!--PLAYER PICTURE-->
+					<container>
+						<container height="100" width="100">
+							<layout class="stick_to_sides_attachment" alignment="left" inset="8"/>
+							<layout class="stick_to_sides_attachment" alignment="top" inset="8"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<widget class="picture" id="prop" scale_picture="true" keep_aspect_ratio="true" image_alignment="left,centre_y">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								<record id="object_property">
+									<list id="get_properties">
+										<!--Facegen data request-->
+										<record get_property="fcgn" />
+										<!--Fake name request-->
+										<record get_property="Pfke" />
+										<record get_property="prpc" set_property="valu" />
+									</list>
+								</record>
+							</widget>									
+						</container>
+					</container>
+					
+					<!--NAME & SUMMARY-->
+					<container>
+						<container height="96" width="244">
+							<layout class="stick_to_sides_attachment" alignment="left" inset="148"/>
+							<layout class="stick_to_sides_attachment" alignment="top" inset="6"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+							
+							<!--NAME-->
+							<widget class="text" alignment="left,centre_x,can_scale" font="title" size="16" colour="mustermanntext" default_height="30">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								<record id="object_property" get_property="titl" set_property="text"/>
+							</widget>
+							
+							<!--AGE-->
+							<widget class="formatted_label" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="top" inset="30"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								<translation id="format" translation_id="242551" type="use" value="[%number#1] years old" />
+								<record id="object_property" get_property="Page"/>
+							</widget>
+							
+							<widget class="height_label" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="top" inset="52"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								<record id="object_property" get_property="Phei"/>
+							</widget>
+													
+							<!--PERSONALITY-->
+							<widget class="personality_label" alignment="left,centre_x" font="text" size="10" colour="mustermanntext" default_height="22">
+								<layout class="stick_to_sides_attachment" alignment="left" inset="0"/>
+								<layout class="stick_to_sides_attachment" alignment="top" inset="74"/>
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								<record id="object_property" get_property="PPst"/>
+							</widget>
+											
+						</container>
+					</container>
+					
+					<container>
+						<container height="62" width="45">
+							<layout class="stick_to_sides_attachment" alignment="bottom" inset="4"/>
+							<layout class="stick_to_sides_attachment" alignment="right" inset="4"/>
+							<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+																
+							<widget class="player_basic_positions_indicator_widget" file="news_item_panels/mustermann/positions widget" id="pppi" height="62" width="45" embed_in_frame="true">
+								<layout class="stick_to_sides_attachment" alignment="all" inset="0"/>
+								<record id="object_property" get_property="objt" set_property="objt"/>
+							</widget>
+						</container>
+					</container>
+				
+				</container>
+			
+				<container class="contrast_box" appearance="boxes/contrast/standard/bottom/paper" red_replacement="bg lighter" default_height="-1">
+					<layout class="arrange_vertical_attachment" layout="20,-1" offset="0" gap="0"/>
+					<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true"/>
+														
+					<!--TRAITS HEADER-->
+					<widget class="label" alignment="centre_x,centre_y" size="10" font="title" colour="title" >
+						<translation id="text" translation_id="322222" type="use" value="Playing Style[COMMENT - release comment screen - topic]"/>
+					</widget>
+					
+					<!--TRAITS-->
+					<widget class="preferred_moves_panel" file="player/mustermann/overview/ability traits" id="pfmp" auto_size="vertical" colour="fg" >
+						<record id="object_property" get_property="objt" set_property="objt"/>
+					</widget>
+				
+				</container>
+				
+			</container>
+								
+			<container class="client_object_viewer_xml_panel" file="news_item_panels/mustermann/attributes graphical" id="mmag" default_width="806" minimum_width="806" priority="1">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				<translation id="title" type="use" translation_id="229822" value="Attributes"/>
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</container>
+			
+			
+			
+		</container>
+		
+	</container>
+
+</panel>

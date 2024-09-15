@@ -1,0 +1,29 @@
+﻿<panel>
+	<attachment_group class="vertical_arrange" vertical_alignment="top,extend" horizontal_inset="0" />
+
+	<container>
+		<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" />
+
+		<container>
+			<!-- Main content always shown -->
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_inset="0"/>
+				
+			<widget class="text" id="sgtx" auto_size="vertical" />
+
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-2,-1" vertical_inset="0" horizontal_offset="12" />
+
+				<container class="supporter_percentage_panel" id="spcp" pitch_inset="36,36,40,36"/>
+				
+				<container>
+					<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_layout="-1" vertical_inset="0" horizontal_offset="12" />
+
+					<container class="supporter_stats_panel" id="sstp" />
+				</container>
+			</container>
+			
+		</container>
+
+	</container>
+
+</panel>

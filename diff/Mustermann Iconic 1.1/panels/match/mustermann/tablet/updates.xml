@@ -1,0 +1,31 @@
+﻿<panel>
+	<attachment_group class="horizontal_arrange" horizontal_layout="-1"/>
+	<boolean id="save_immediate_state" value="true" />
+
+	<container>
+		<attachment_group class="vertical_arrange" vertical_alignment="top,extend"/>
+
+			<!--competitions drop down-->
+			<container class="inner_box" id="btns" navigation_container="true">
+				<attachment_group class="horizontal_arrange_vertical_autosize"/>
+
+				<widget class="popup_button" id="mlsc" auto_size="all"/>
+			</container>
+
+		<!--league table and updates-->
+		<container>
+			<attachment_group class="horizontal_arrange" horizontal_layout="-7,-13"/>
+
+			<!--league table-->
+			<container id="leag" class="match_league_table_panel" default_width="-1">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</container>
+
+			<!--latest scores-->
+			<container id="late" class="match_latest_scores_panel" file="match/mustermann/tablet/latest scores" default_width="-3">
+				<record id="object_property" get_property="objt" set_property="objt" />
+			</container>
+		</container>
+	</container>
+
+</panel>

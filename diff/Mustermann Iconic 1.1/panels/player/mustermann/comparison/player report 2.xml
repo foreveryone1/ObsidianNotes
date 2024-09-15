@@ -1,0 +1,16 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" draw_vertical_dividers="true">
+	
+		<container class="player_attributes_comparison_panel" file="player/mustermann/comparison/attributes 2" default_width="100">					
+			<record id="object_property" get_property="objt" set_property="objt"/>
+		</container>
+		
+		<widget class="player_comparison_reports_indicator" file="player/mustermann/comparison/player report" colour="comp person bar 2" default_width="-1">
+			<record id="object_property" get_property="objt" set_property="objt"/>
+		</widget>
+	
+	</container>
+	
+</panel>

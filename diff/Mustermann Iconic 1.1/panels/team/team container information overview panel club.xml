@@ -1,0 +1,217 @@
+<panel should_force_refresh="true">
+	<layout class="stick_to_sides_attachment" alignment="all" inset="8" apply_to_children="true"/>
+	
+	<container>
+		<attachment_group class="vertical_arrange" vertical_layout="80,-1, 70, 90" vertical_gap="8" />
+
+		<!--general details-->
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+			<widget class="club_overview_details_panel" id="clod">
+				<record id="object_property">
+					<integer id="get_property" value="objt" />
+					<integer id="set_property" value="objt" />
+				</record>
+			</widget>
+		</container>
+
+		<container draw_vertical_dividers="false">
+			<attachment_group class="horizontal_arrange" horizontal_alignment="fill" horizontal_gap="8"/>
+			<record id="default_properties" inset="0" offset="0" />
+
+			<container class="contrast_box" red_replacement="bg lighter" default_width="-2">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				
+				<container class="vertical_adaptive_container" gap="8">
+
+					<!--graph and results-->
+					<container class="vertical_adaptive_container" inset="0" offset="0" default_height="-30" navigation_container="true">
+
+						<!--snapshot selector 1-->
+						<container class="client_object_viewer_selector_panel" id="cos1" minimum_height="250" priority="1" default_height="-3">
+
+							<widget class="club_league_history_graph" id="clhg" file="club/club league history graph no buttons" default_item="true" section="cmps">
+								<translation id="title" translation_id="319446" type="use" value="League History[COMMENT: title for the league position history on the club overview panel]" />
+							</widget>
+							<widget class="team_container_overview_teams_panel" id="tcot" section="TeSq">
+								<translation id="title" translation_id="229362" type="use" value="Teams" />
+							</widget>
+							<widget class="team_transfer_snapshot_panel" id="Tran" valid_for_fmt="false">
+								<translation id="title" translation_id="296337" type="use" value="Pending Transfers" />
+							</widget>
+							<widget class="team_container_information_background_panel" id="Cbac">
+								<translation id="title" translation_id="333728" type="use" value="Club Background[COMMENT: title for panel showing a club's background]" />
+							</widget>
+						</container>
+
+						<!--snapshot selector 2-->
+						<container class="client_object_viewer_selector_panel" id="cos2" minimum_height="300" priority="3" default_height="-3">
+
+							<widget class="club_league_history_graph" id="clhg" file="club/club league history graph no buttons" section="cmps">
+								<translation id="title" translation_id="319446" type="use" value="League History[COMMENT: title for the league position history on the club overview panel]" />
+							</widget>
+							<widget class="team_container_overview_teams_panel" id="tcot" default_item="true" section="TeSq">
+								<translation id="title" translation_id="229362" type="use" value="Teams" />
+							</widget>
+							<widget class="team_transfer_snapshot_panel" id="Tran" valid_for_fmt="false">
+								<translation id="title" translation_id="296337" type="use" value="Pending Transfers" />
+							</widget>
+							<widget class="team_container_information_background_panel" id="Cbac">
+								<translation id="title" translation_id="333728" type="use" value="Club Background[COMMENT: title for panel showing a club's background]" />
+							</widget>
+						</container>
+					</container>
+
+				</container>
+			</container>
+
+			<!--staff/kits/stadium-->
+			<container class="vertical_adaptive_container" default_width="-2" gap="8">
+				<record id="default_properties" minimum_height="150" />
+
+				<!--staff-->
+				<container class="contrast_box" red_replacement="bg lighter" priority="1" default_height="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+					<widget class="club_overview_staff_panel" id="cloS">
+						<record id="object_property">
+							<integer id="get_property" value="objt" />
+							<integer id="set_property" value="objt" />
+						</record>
+					</widget>
+				</container>
+
+				<!--results-->
+				<container class="contrast_box" red_replacement="bg lighter" priority="1" default_height="-1">
+					<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+					<widget class="club_overview_team_results_panel" id="cotr">
+						<record id="object_property">
+							<integer id="get_property" value="objt" />
+							<integer id="set_property" value="objt" />
+						</record>
+					</widget>
+				</container>
+			</container>
+		</container>
+
+		<container class="contrast_box" red_replacement="bg lighter" default_width="-2" >
+			<attachment_group class="vertical_arrange"/>
+			
+			<widget class="label" font="title" colour="title" alignment="left,centre_y" autosize="vertical">
+				<translation id="text" translation_id="388971" type="use" value="Transfer Policy[COMMENT: club properties; text indicating any specific transfer policies the club holds, like only signing players of a certain nationality for example]" />
+			</widget>
+
+			<widget class="transfer_policy_label"  id="CTPl" auto_size="all">
+				<record id="object_property">
+					<string id="get_property" value="CTPl" />
+				</record>
+			</widget>
+		</container>
+
+		<container class="contrast_box" red_replacement="bg lighter">
+			<attachment_group class="vertical_arrange"/>
+
+			<container class="container" gap="6" auto_size="all">
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="fill" horizontal_offset="0" vertical_inset="0" />
+
+				<container>
+					<attachment_group class="vertical_arrange_autosize" alignment="top,extend"/>
+					<widget class="label" id="CfiL" alignment="left,bottom" auto_size="all">
+						<translation id="text" translation_id="229821" type="use" value="Finances" />
+						<string id="font" value="label" />
+					</widget>
+					<widget class="club_finances_description_text"  id="CfiV" alignment="left,top" auto_size="vertical" multiline="true">
+						<string id="standard_spec" value="text" />
+						<record id="object_property">
+							<string id="get_property" value="CfiD" />
+						</record>>
+					</widget>
+
+				</container>
+
+				<container>
+					<attachment_group class="vertical_arrange_autosize" alignment="top,extend"/>
+					<widget class="label"  id="CfiL" alignment="left,bottom" auto_size="all" >
+						<string id="standard_spec" value="text" />
+						<string id="font" value="label" />
+						<record id="object_property" name="true">
+							<string id="get_property" value="CStT" />
+						</record>
+					</widget>
+					<widget class="chairman_status_text"  id="CStV" alignment="left,top" auto_size="vertical" multiline="false">
+						<string id="standard_spec" value="text" />
+						<record id="object_property">
+							<string id="get_property" value="CStT" />
+						</record>
+					</widget>
+
+				</container>
+
+				<container>
+					<attachment_group class="vertical_arrange_autosize" alignment="top,extend"/>
+
+					<widget class="label" id="CtpL" alignment="left,bottom" auto_size="all">
+						<string id="standard_spec" value="text" />
+
+						<string id="font" value="label" />
+						<record id="object_property" name="true">
+							<string id="get_property" value="Ctpr" />
+						</record>
+					</widget>
+					<widget class="cash_cell" id="CtpV" alignment="left,top" auto_size="all">
+						<string id="standard_spec" value="text" />
+						<string id="format" value="[%cash#1-roundlarge]" />
+						<record id="object_property">
+							<string id="get_property" value="Ctpr" />
+						</record>
+					</widget>
+				</container>
+				<container>
+					<attachment_group class="vertical_arrange_autosize" alignment="top,extend"/>
+
+					<widget class="label"  id="CsLp" alignment="left,bottom" auto_size="all">
+						<string id="standard_spec" value="text" />
+
+						<string id="font" value="label" />
+						<record id="object_property" name="true">
+							<string id="get_property" value="Cstp" />
+						</record>
+					</widget>
+					<widget class="cash_cell" id="CsVp" alignment="left,top" auto_size="all" >
+						<string id="standard_spec" value="text" />
+						<string id="format" value="[%cash#1-roundlarge]" />
+						<record id="object_property">
+							<string id="get_property" value="Cstp" />
+						</record>
+					</widget>
+
+				</container>
+
+				<container>
+					<attachment_group class="vertical_arrange_autosize" alignment="top,extend"/>
+
+					<widget class="label" id="CsTL" alignment="left,bottom" auto_size="all">
+						<string id="standard_spec" value="text" />
+
+						<string id="font" value="label" />
+						<record id="object_property" name="true">
+							<string id="get_property" value="Csth" />
+						</record>
+					</widget>
+					<widget class="dashed_number_label"  id="CsTV" alignment="left,top" auto_size="all" >
+						<string id="standard_spec" value="text" />
+						<record id="object_property">
+							<string id="get_property" value="Csth" />
+						</record>
+					</widget>
+
+				</container>
+
+			</container>
+
+		</container>
+	</container>
+
+</panel>

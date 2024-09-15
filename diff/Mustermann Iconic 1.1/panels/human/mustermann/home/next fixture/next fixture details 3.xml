@@ -1,0 +1,212 @@
+<!-- GOAL OF THIS PANEL IS TO DISPLAY THE KITS AND LOGOS IN USE, THEN WHEN THE USER HOVERS OVER THEM, DISPLAY THE MATCH INFO. -->
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+	<!-- CONTAINER HOLDING STADIUM PICTURE -->
+	<container>
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" offset="0"/>
+
+		<!-- STADIUM PICTURE -->
+		<widget class="stadium_picture" id="STAp" file="none" transparency="0.3">
+			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
+
+			<record id="object_property" get_property="objt" set_property="objt"/>
+			<record id="default_properties" image_alignment="centre" scale_picture="false" keep_aspect_ratio="true"/>
+
+			<widget class="picture" file="pictures/stadiums/stadium_bg" />
+			<widget class="picture" id="bkgd" file="pictures/stadiums/none_base" hidden="true"/>
+			<widget class="picture" id="STPC"/>
+		</widget>
+	</container>
+
+	<!-- CONTAINER HOLDING BADGES/KITS/ETC -->
+	<!-- CONTAINERS STRUCTURED THIS WAY TO ALLOW OVERLAP WITH BADGES AND MANAGER FACES -->
+	<container id="tbdg">
+		<layout class="stick_to_sides_attachment" alignment='all' apply_to_children="true" inset="8" offset='0'/>
+
+		<!-- CONTAINER HOLDING MATCH INFORMATION -->
+		<container>
+			<layout class="vertical_arrange" vertical_layout="-1,64,100,64,-1" vertical_gap="4"/>
+
+			<!-- NEXT MATCH AND DATE -->
+			<container id="titl">
+				<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+				<widget class="label" id="titT" font="title" auto_size="vertical" alignment="centre">
+					<translation id="text" translation_id="308589" type="use" value="Next Match[COMMENT: Text on match preparation fixture tab]" />
+				</widget>
+
+				<widget class="label" id="nMat" format="date_and_days" colour="fg" alignment="centre"/>
+				
+				<widget class="date_cell" id="FXTm" alignment="centre" auto_size="vertical" colour="text">
+					<string id="format" value="[%date#1-time]" />
+					<record id="object_property">
+						<integer id="get_property" value="fxdt" />
+					</record>
+				</widget>
+				
+				<!--stadium-->
+				<container height="22" id="zzzz">
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" horizontal_offset="0" horizontal_gap="10" vertical_offset="0" />
+
+					<widget class="stadium_button" id="stad" alignment="centre" auto_size="all" navigation_focus_target="false" text_colour="text">
+						<translation id="no_object_text" translation_id="227505" type="use" value="Unknown Stadium"/>
+						<string id="format" value="[%stadium#1-short]" />
+						<record id="auto_size_restrictions">
+							<string id="type" value="widget_percent" />
+							<string id="limit_type" value="maximum" />
+							<string id="orientation" value="horizontal" />
+							<string id="target" value="parent" />
+							<real id="value" value="0.54" />
+						</record>
+					</widget>
+				</container>
+				
+				<!--weather-->
+				<container height="22" id="zzzz">
+					<attachment_group class="horizontal_arrange_vertical_autosize_centre" horizontal_alignment="middle" horizontal_offset="0" horizontal_gap="10" vertical_offset="0" />
+					<container class="weather_indicator_panel_horizontal" id="weat" file="match/weather indicator horizontal auto sized" text_colour="text">
+						<boolean id="show_weather_label" value="true" />
+						<boolean id="show_weather_icon" value="true" />
+						<boolean id="show_temperature_on_icon" value="true" />
+						<boolean id="weather_icon_size" value="10" />
+					</container>
+				</container>
+				
+			</container>
+			
+			<container/>
+			
+			<!--TEAM NAMES AND INFO-->
+			<container priority="1">
+				<attachment_group class="vertical_arrange" alignment="centre_x,centre_y"  vertical_gap="0"/>
+				
+				<container height="100">
+					<layout class="horizontal_arrange" horizontal_layout="-1,100,-1" horizontal_gap="8"/>
+				
+					<widget class="team_button" id="htnt" font="title" size="20" colour="fg" alignment="right,centre_y" icon_enabled="false">
+						<record id="object_property" get_property="home"/>
+					</widget>
+					
+					<widget class="object_portrait_picture" id="logo" scale_picture="true" image_alignment="centre" height="100" width="100">
+						<record id="object_property" get_property="objt" set_property="objt" />
+					</widget>
+					
+					<widget class="team_button" id="atnt" font="title" size="20" colour="fg" alignment="left,centre_y" icon_enabled="false">
+						<record id="object_property" get_property="away"/>
+					</widget>
+				
+				</container>
+											
+				<!-- team relative positions -->
+				<!--<widget class="text" id="temp" auto_size="vertical" alignment="centre"/>-->
+									
+			</container>
+			
+			<widget class="label" id="titT" font="title" alignment="centre_x,bottom">
+				<translation id="text" translation_id="344976" type="use" value="Team News[COMMENT: Text on match preparation fixture tab]" />
+			</widget>
+			
+			<!-- TEAMS NEWS -->
+			<container class="scrolling_box" priority="3"> <!--80-->
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				<container class="horizontal_adaptive_container" alignment="all" offset="0" inset="0" gap="8" draw_vertical_dividers="false">
+										
+					<!--home team news title-->
+					<container class="plain_box" default_width="-1">
+						<layout class="vertical_arrange" vertical_layout="-1" vertical_gap="2"/>
+
+						<!--home team news-->
+						<widget class="fixture_news_text" id="FxHN" auto_size="vertical" alignment="right,centre_y" mode="fill_rows" auto_size_rows="true" fixed_size_rows="false" icon_alignment="right">
+							<record id="object_property" get_property="FxHN"/>
+
+							<list id="column_table_properties">
+								<record index="0" top="5" bottom="5" alignment="right,centre_y"/>
+								<record index="1" top="5" bottom="5" alignment="right,centre_y"/>
+							</list>
+						</widget>
+						
+					</container>
+
+					<widget class="vertical_divider" default_width="1"/>
+
+					<!--away team news title-->
+					<container class="plain_box" default_width="-1">
+						<layout class="vertical_arrange" vertical_layout="-1" vertical_gap="2"/>
+
+						<!--away team news-->
+						<widget class="fixture_news_text" id="FxAN" text_colour="fg" auto_size="vertical" mode="fill_rows" auto_size_rows="true" fixed_size_rows="false" icon_alignment="left">
+							<record id="object_property" get_property="FxAN"/>
+
+							<list id="column_table_properties">
+								<record index="0" top="5" bottom="5" alignment="left,centre_y"/>
+								<record index="1" top="5" bottom="5" alignment="left,centre_y"/>
+							</list>
+						</widget>
+					</container>
+				</container>
+			</container>
+		</container>
+		
+		<!-- CONTAINER HOLDING MATCH INFORMATION -->
+		<container>
+			<layout class="vertical_arrange" vertical_layout="-1,35" vertical_gap="8"/>
+			
+			<container/>
+						
+			<!--PAST MEETINGS-->
+			<container class="plain_box" priority="3"> <!--40-->
+				<layout class="vertical_arrange" vertical_layout="35" inset="0" vertical_gap="0" apply_to_children="true"/>
+
+				<container class="property_list_viewer_xml_panel" id="pmet">
+					<layout class="arrange_horizontal_attachment" layout="-1,26,26,26" offset="0" gap="8" />
+					<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+					<container>
+						<attachment_group class="vertical_arrange_autosize" vertical_alignment="top" vertical_offset="0" vertical_gap="0" horizontal_inset="0" />
+
+						<!--opposition manager-->
+						<widget class="label" alignment="right" font="label" size="small" auto_size="vertical" colour="fg">
+							<translation id="text" translation_id="227980" type="use" value="Manager[COMMENT - manager, short text]" />
+						</widget>
+						<widget class="person_button" id="mang" spec="text" colour="fg" size="normal" height="22" alignment="right" navigation_focus_target="true">
+							<translation id="no_object_text" translation_id="424586" type="use" value="None[COMMENT: string indicating a club has no manager, different to the previously used ID 227487 so translate accordingly if needed]" />
+						</widget>
+					</container>
+					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<widget class="picture" file="icons/26px/circle" image_alignment="centre" red_replacement="bg positive" />
+						<widget class="number_label" id="hmWl" alignment="centre">
+							<translation id="hint" translation_id="249411" type="use" value="Games Won[COMMENT: player stat: games won table label]" />
+						</widget>
+					</container>
+
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<widget class="picture" file="icons/26px/circle" image_alignment="centre" red_replacement="orange" />
+						<widget class="number_label" id="hmDl" alignment="centre">
+							<translation id="hint" translation_id="249412" type="use" value="Games Drawn[COMMENT: player stat: games drawn table label]" />
+						</widget>
+					</container>
+
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+						<widget class="picture" file="icons/26px/circle" image_alignment="centre" red_replacement="bg negative" />
+						<widget class="number_label" id="hmLl" alignment="centre">
+							<translation id="hint" translation_id="249413" type="use" value="Games Lost[COMMENT: player stat: games lost table label]" />
+						</widget>
+
+					</container>
+					
+				</container>     
+			</container>
+		</container>
+
+			<!-- END OF FADE -->
+	</container>
+	
+</panel>

@@ -1,0 +1,14 @@
+﻿<panel height="28">
+	<attachment_group class="horizontal_arrange_vertical_centre" horizontal_alignment="left, extend" horizontal_gap="6" horizontal_offset="8" vertical_offset="0" vertical_inset="0"/>
+
+	<list id="properties_to_forward">
+		<record get_property="lmic" set_property="file" target="lmic"/>
+		<record get_property="lmrr" set_property="red_replacement" target="lmic"/>
+		<record get_property="lmbr" set_property="blue_replacement" target="lmic"/>
+		<record get_property="lmtx" set_property="text" target="lmtx"/>
+		<record get_property="lmtc" set_property="colour" target="lmtx"/>
+	</list>
+	
+	<widget class="picture" id="lmic" scale_picture="true" keep_aspect_ratio="true" image_alignment="centre" width="20" height="20"/>
+	<widget class="text" id="lmtx" auto_size="vertical" multiline="true" alignment="left, centre_y" size="8"/>
+</panel>
