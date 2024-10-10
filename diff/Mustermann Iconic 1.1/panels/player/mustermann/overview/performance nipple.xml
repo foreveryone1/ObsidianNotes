@@ -1,459 +1,2674 @@
 <panel>
 	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
-	
+
 	<container>
-		<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1" horizontal_gap="8"/>
+		<attachment class="horizontal_arrange" horizontal_layout="-1,26" horizontal_gap="8"/>
 		
-		<!--PASSING-->
 		<container>
-			<attachment class="vertical_arrange" vertical_layout="30,200,100,-1" vertical_gap="8"/>
-		
-			<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
-				<translation id="text" type="use" translation_id="227881" value="Passing"/>
-			</widget>
+			<attachment class="vertical_arrange" vertical_layout="22,4,200,12,16,4,20,12,16,4,20,12,16,4,20,-1" vertical_gap="0"/>
 			
+			<!--AREA TITLES-->
 			<container>
-				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+				<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
 				
-				<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+				<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
+					<translation id="text" type="use" translation_id="227881" value="Passing"/>
+				</widget>
 				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+				<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
+					<translation id="text" type="use" translation_id="229306" value="Shooting"/>
+				</widget>
 				
-					<container/>
-					
-					<widget class="nipple_all_pass_att">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="POpg"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
+				<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
+					<translation id="text" type="use" translation_id="308897" value="Heading"/>
+				</widget>
 				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+				<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
+					<translation id="text" type="use" translation_id="513782" value="Crossing"/>
+				</widget>
 				
-					<container/>
-					
-					<widget class="nipple_all_pass_cmp">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="POpc"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
-						
-			</container>
-			
-			<container>
-				<attachment class="vertical_arrange" vertical_layout="22,22,22,22" vertical_gap="4"/>
+				<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
+					<translation id="text" type="use" translation_id="293052" value="Pressing"/>
+				</widget>
 				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POpg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="249443" value=""/>
-					</widget>
-
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POpc"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="249444" value=""/>
-					</widget>
-
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_record_percentage_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="Popa"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="249473" value=""/>
-					</widget>
-
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="PGR9"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="552423" value=""/>
-					</widget>
-
-				</container>
-			
 			</container>
 			
 			<container/>
 			
-		</container>
-		
-		<!--SHOOTING-->
-		<container>
-			<attachment class="vertical_arrange" vertical_layout="30,200,100,-1" vertical_gap="8"/>
-		
-			<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
-				<translation id="text" type="use" translation_id="229306" value="Shooting"/>
-			</widget>
-		
+			<!--NIPPLES-->
 			<container>
 				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 				
-				<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
-				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
-				
-					<container/>
+				<!--ALL-->
+				<container id="ncal">
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
 					
-					<widget class="nipple_all_shot_att">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="POsg"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
-				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
-				
-					<container/>
-					
-					<widget class="nipple_all_shot_tgt">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="POtg"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
+					<!--PASSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 						
-			</container>
-			
-			<container>
-				<attachment class="vertical_arrange" vertical_layout="22,22,22,22" vertical_gap="4"/>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_pass_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_pass_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpc"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_pass_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POkG"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
 					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POsg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="248761" value=""/>
-					</widget>
-
+					<!--SHOOTING-->	
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_shot_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POsg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_shot_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POtg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_shot_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POgg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>						
+						
+					</container>
+									
+					<!--HEADING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_hdrs_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POhg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_hdrs_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POHg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_hdrs_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POH9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+																				
+					</container>
+									
+					<!--CROSSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_cros_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_cros_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PoP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+												
+					</container>
+									
+					<!--PRESSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_pres_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PRS9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_all_pres_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="Prs9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+												
 				</container>
 				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+				<!--CENTRAL DEFENDERS-->
+				<container id="nccd" hidn="true">
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
 					
-					<container width="40"/>
+					<!--PASSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_pass_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_pass_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpc"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_pass_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POkG"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
 					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POtg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="248762" value=""/>
-					</widget>
-
+					<!--SHOOTING-->	
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_shot_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POsg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_shot_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POtg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_shot_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POgg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>						
+						
+					</container>
+									
+					<!--HEADING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_hdrs_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POhg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_hdrs_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POHg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_hdrs_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POH9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+																				
+					</container>
+									
+					<!--CROSSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_cros_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_cros_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PoP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+												
+					</container>
+									
+					<!--PRESSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_pres_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PRS9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_centre_back_pres_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="Prs9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+												
 				</container>
 				
+				<!--FULL BACKS-->
+				<container id="ncfb" hidn="true">
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
+					
+					<!--PASSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_pass_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_pass_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpc"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_pass_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POkG"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+					
+					<!--SHOOTING-->	
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_shot_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POsg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_shot_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POtg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_shot_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POgg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>						
+						
+					</container>
+									
+					<!--HEADING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_hdrs_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POhg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_hdrs_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POHg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_hdrs_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POH9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+																				
+					</container>
+									
+					<!--CROSSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_cros_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_cros_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PoP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+												
+					</container>
+									
+					<!--PRESSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_pres_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PRS9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_full_back_pres_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="Prs9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+												
+				</container>
+				
+				<!--DEFENSIVE MIDFIELDERS-->
+				<container id="ncdm" hidn="true">
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
+					
+					<!--PASSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_pass_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_pass_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpc"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_pass_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POkG"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+					
+					<!--SHOOTING-->	
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_shot_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POsg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_shot_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POtg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_shot_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POgg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>						
+						
+					</container>
+									
+					<!--HEADING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_hdrs_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POhg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_hdrs_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POHg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_hdrs_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POH9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+																				
+					</container>
+									
+					<!--CROSSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_cros_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_cros_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PoP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+												
+					</container>
+									
+					<!--PRESSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_pres_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PRS9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_central_midfielder_pres_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="Prs9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+												
+				</container>
+								
+				<!--ATTACKING MIDFIELDERS-->
+				<container id="ncam" hidn="true">
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
+					
+					<!--PASSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_pass_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_pass_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpc"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_pass_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POkG"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+					
+					<!--SHOOTING-->	
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_shot_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POsg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_shot_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POtg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_shot_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POgg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>						
+						
+					</container>
+									
+					<!--HEADING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_hdrs_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POhg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_hdrs_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POHg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_hdrs_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POH9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+																				
+					</container>
+									
+					<!--CROSSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_cros_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_cros_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PoP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+												
+					</container>
+									
+					<!--PRESSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_pres_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PRS9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_attacking_midfielder_pres_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="Prs9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+												
+				</container>
+								
+				<!--STRIKERS-->
+				<container id="ncfw" hidn="true">
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
+					
+					<!--PASSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_pass_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_pass_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POpc"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_pass_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POkG"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+					
+					<!--SHOOTING-->	
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_shot_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POsg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_shot_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POtg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.4" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_shot_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POgg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>						
+						
+					</container>
+									
+					<!--HEADING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_hdrs_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POhg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_hdrs_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POHg"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_hdrs_key">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POH9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+																				
+					</container>
+									
+					<!--CROSSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_cros_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="POP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_cros_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PoP9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+												
+					</container>
+									
+					<!--PRESSING-->					
+					<container>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_pres_att">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="PRS9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+						
+						<container>
+							<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
+							<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
+						
+							<container/>
+							
+							<widget class="nipple_striker_pres_cmp">
+								<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
+								<record id="object_property" get_property="Prs9"/>
+							</widget>
+							
+							<container/>
+							
+						</container>
+								
+					</container>
+												
+				</container>
+								
+				<!--NIPPLE PERCENTAGES-->
 				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+					<attachment class="horizontal_arrange" horizontal_layout="-1,-1,-1,-1,-1" horizontal_gap="8"/>
 					
-					<container width="40"/>
+					<widget class="dashed_record_percentage_label" colour="nipple_outer" size="large" style="semi_bold" alignment="right, bottom">
+						<record id="object_property" get_property="Popa"/>
+					</widget>
 					
-					<widget class="dashed_record_percentage_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
+					<widget class="dashed_record_percentage_label" colour="nipple_outer" size="large" style="semi_bold" alignment="right, bottom">
 						<record id="object_property" get_property="Post"/>
 					</widget>
 					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="249472" value=""/>
-					</widget>
-
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POgg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="252153" value=""/>
-					</widget>
-
-				</container>
-			
-			</container>
-			
-		</container>
-		
-		<!--HEADING-->
-		<container>
-			<attachment class="vertical_arrange" vertical_layout="30,200,100,-1" vertical_gap="8"/>
-		
-			<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
-				<translation id="text" type="use" translation_id="308897" value="Heading"/>
-			</widget>
-		
-			<container>
-				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
-				
-				<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
-				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
-				
-					<container/>
-					
-					<widget class="nipple_all_hdrs_att">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="POhg"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
-				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
-				
-					<container/>
-					
-					<widget class="nipple_all_hdrs_cmp">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="POHg"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
-						
-			</container>
-			
-			<container>
-				<attachment class="vertical_arrange" vertical_layout="22,22,22,22" vertical_gap="4"/>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POhg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="388156" value=""/>
-					</widget>
-
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POHg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="388158" value=""/>
-					</widget>
-
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_record_percentage_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
+					<widget class="dashed_record_percentage_label" colour="nipple_outer" size="large" style="semi_bold" alignment="right, bottom">
 						<record id="object_property" get_property="POhr"/>
 					</widget>
 					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="388157" value=""/>
+					<widget class="dashed_record_percentage_label" colour="nipple_outer" size="large" style="semi_bold" alignment="right, bottom">
+						<record id="object_property" get_property="POCr"/>
 					</widget>
-
+					
+					<container/>
 				</container>
 				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+				<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+				
+					<container default_height="-1"/>
 					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="POH9"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="388191" value=""/>
-					</widget>
-
+					<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally" default_height="16">
+				
+						<widget class="picture" file="icons/16px/help" red_replacement="fg" scale_picture="false" image_alignment="left,bottom" default_width="16">
+							<translation id="hint" type="use" value="A visualisation of how active and effective a player is at certain actions compared to their peers.&#10; &#10;The lighter circle is attempts, the darker circle is successes, and the innermost circle is key actions/goals.  There is no metric for key crosses or pressures.&#10; &#10;To change comparison group, please select a button on the right." />
+						</widget>
+						
+						<container default_width="-1"/>
+					</container>
 				</container>
-			
+				
 			</container>
+			
+			<!--SPACER-->
+			<container/>
+			
+			<!--DEFENSIVE ACTIONS KEY-->
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+				<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="2"/>
 				
-		</container>
-		
-		<!--PRESSING-->
-		<container>
-			<attachment class="vertical_arrange" vertical_layout="30,200,100,-1" vertical_gap="8"/>
-		
-			<widget class="label" font="title" alignment="centre_x,centre_y" colour="title" size="large">
-				<translation id="text" type="use" translation_id="293052" value="Pressing"/>
-			</widget>
-		
+				<widget class="label" auto_size="all" font="title" colour="text">
+					<translation id="text" type="use" value="Defensive Actions"/>     
+				</widget>
+				
+				<container width="12"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked1" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Tackles"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked2" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Blocks"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked3" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Clearances"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked4" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Interceptions"/>     
+				</widget>
+				
+			</container>
+			
+			<!--SPACER-->
+			<container/>
+			
+			<!--DEFENSIVE ACTIONS-->
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+				<container>
+					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+
+					<widget class="stacked_defensive_actions_tackles" auto_size="horizontal">
+						<record id="object_property" get_property="Pota" />
+					</widget>
+					
+					<widget class="stacked_defensive_actions_blocks" auto_size="horizontal">
+						<record id="object_property" get_property="PObg" />
+					</widget>
+					
+					<widget class="stacked_defensive_actions_clearances" auto_size="horizontal">
+						<record id="object_property" get_property="POc9" />
+					</widget>
+					
+					<widget class="stacked_defensive_actions_interceptions" auto_size="horizontal">
+						<record id="object_property" get_property="POiG" />
+					</widget>
+
+				</container>
+				
+				<container default_width="-1"/>
+			</container>
+			
+			<!--SPACER-->
+			<container/>
+			
+			<!--EXCITEMENT FACTOR KEY-->
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+				<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="2"/>
+				
+				<widget class="label" auto_size="all" font="title" colour="text">
+					<translation id="text" type="use" value="Excitement Factor"/>     
+				</widget>
+				
+				<container width="12"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked1" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Dribbles"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked2" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Open Play Key Passes"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked3" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Shots"/>     
+				</widget>
+								
+			</container>
+			
+			<!--SPACER-->
+			<container/>
+			
+			<!--EXCITEMENT FACTOR-->
+			<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+				<container>
+					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+
+					<widget class="stacked_excitement_factor_dribbles" auto_size="horizontal">
+						<record id="object_property" get_property="Podr" />
+					</widget>
+					
+					<widget class="stacked_excitement_factor_key_passes" auto_size="horizontal">
+						<record id="object_property" get_property="Pop9" />
+					</widget>
+					
+					<widget class="stacked_excitement_factor_shots" auto_size="horizontal">
+						<record id="object_property" get_property="POsg" />
+					</widget>
+
+				</container>
+				
+				<container default_width="-1"/>
+			</container>
+			
+			<!--SPACER-->
+			<container/>
+			
+			<!--PASSING BREAKDOWN KEY-->
+			<container>
+				<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+				<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="2"/>
+				
+				<widget class="label" auto_size="all" font="title" colour="text">
+					<translation id="text" type="use" value="Passing Breakdown"/>    
+				</widget>
+				
+				<container width="12"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked1" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Open Play Key Passes"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked2" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Set Piece Key Passes"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked3" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Progressive Passes"/>     
+				</widget>
+				
+				<container width="4"/>
+				
+				<widget class="picture" file="mustermann/nipples/key" red_replacement="stacked4" width="4"/>
+				
+				<widget class="label" auto_size="all" font="text" colour="faded text">
+					<translation id="text" type="use" value="Boring Passes"/>     
+				</widget>
+				
+			</container>
+			
+			<!--SPACER-->
+			<container/>
+			
+			<!--PASSING BREAKDOWN-->
 			<container>
 				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 				
-				<widget class="picture" file="mustermann/nipples/99" red_replacement="bg" scale_picture="false" image_alignment="centre_x,centre_y"/>
-				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
-				
-					<container/>
-					
-					<widget class="nipple_all_pres_att">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="PRS9"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
-				
-				<container>
-					<animation class="scale_animation" start_value="0" end_value="1" duration="0.3" delay="0.2" end_mode="hold_end" trigger_id="hidden" trigger_start="false" trigger_end="true" tween="ease_in"/>
-					<attachment class="horizontal_arrange" horizontal_layout="-1,200,-1" horizontal_gap="0"/>
-				
-					<container/>
-					
-					<widget class="nipple_all_pres_cmp">
-						<layout class="centre_in_parent_attachment" alignment="all" offset="0" />
-						<record id="object_property" get_property="Prs9"/>
-					</widget>
-					
-					<container/>
-					
-				</container>
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+					<container>
+						<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
+
+						<widget class="stacked_passing_breakdown_passes" auto_size="horizontal">
+							<record id="object_property" get_property="POpc" />
+						</widget>
 						
-			</container>
-		
-			<container>
-				<attachment class="vertical_arrange" vertical_layout="22,22,22,22" vertical_gap="4"/>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+					</container>
 					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="PRS9"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="554494" value=""/>
-					</widget>
-
+					<container default_width="-1"/>
 				</container>
 				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="Prs9"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="554496" value=""/>
-					</widget>
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+					<container>
+						<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
 
+						<widget class="stacked_passing_breakdown_key" auto_size="horizontal">
+							<record id="object_property" get_property="POkG" />
+						</widget>
+						
+						<widget class="stacked_passing_breakdown_progressive" auto_size="horizontal">
+							<record id="object_property" get_property="PGR9" />
+						</widget>
+						
+					</container>
+					
+					<container default_width="-1"/>
 				</container>
 				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
-					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="Pota"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="247389" value=""/>
-					</widget>
+				<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+			
+					<container>
+						<attachment_group class="horizontal_arrange_autosize" horizontal_gap="0"/>
 
-				</container>
-				
-				<container>
-					<attachment_group class="horizontal_arrange_autosize" horizontal_gap="2"/>
+						<widget class="stacked_passing_breakdown_op" auto_size="horizontal">
+							<record id="object_property" get_property="Pop9" />
+						</widget>
+						
+					</container>
 					
-					<container width="40"/>
-					
-					<widget class="dashed_number_label" colour="text" alignment="left, centre_y" auto_size="horizontal">
-						<record id="object_property" get_property="PObg"/>
-					</widget>
-					
-					<widget class="text" font="text" alignment="left,centre_y" colour="faded text" auto_size="horizontal">
-						<translation id="text" type="use" translation_id="513435" value=""/>
-					</widget>
-
+					<container default_width="-1"/>
 				</container>
 			
 			</container>
+			
 		</container>
-							
+		
+		<!--BUTTONS-->
+		<container>
+			<attachment class="vertical_arrange" vertical_layout="16,-1,26,26,26,26,26,26,26,-1,16" vertical_gap="8"/>
+			
+			<container/>
+			<container/>
+			
+			<!--GOALKEEPER-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!--OPEN-->
+				<widget class="icon_button" id="opn7" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/goalkeeper" show_button_appearance="false">				
+					<translation id="hint" translation_id="330275" type="use" value="Not Available"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>										
+				</widget>
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo7" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/goalkeeper" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+			</container>
+						
+			<!--CENTRAL DEFENDER-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!--OPEN-->
+				<widget class="icon_button" id="opn1" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/centre back" show_button_appearance="false">				
+					<translation id="hint" translation_id="539328" type="use" value="Centre-Backs"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>
+					<event id="click_event" event_id="nbcd"/>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="nccd"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfb"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncdm"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncam"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfw"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncal"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncgk"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn7"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbcd">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo7"/>
+						</record>
+					</attachment>					
+				</widget>
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo1" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/centre back" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+			</container>
+			
+			<!--FULL BACK-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!--OPEN-->
+				<widget class="icon_button" id="opn2" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/full back" show_button_appearance="false">				
+					<translation id="hint" translation_id="539327" type="use" value="Full-Backs"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>
+					<event id="click_event" event_id="nbfb"/>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="nccd"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="ncfb"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncdm"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncam"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfw"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncal"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncgk"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn7"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfb">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo7"/>
+						</record>
+					</attachment>					
+				</widget>
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo2" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/full back" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+			</container>
+			
+			<!--DEFENSIVE MIDFIELDER-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!--OPEN-->
+				<widget class="icon_button" id="opn3" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/defensive midfielder" show_button_appearance="false">				
+					<translation id="hint" translation_id="539330" type="use" value="Defensive Midfielders"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>
+					<event id="click_event" event_id="nbdm"/>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="nccd"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfb"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="ncdm"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncam"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfw"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncal"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncgk"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn7"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbdm">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo7"/>
+						</record>
+					</attachment>					
+				</widget>
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo3" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/defensive midfielder" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+			</container>
+			
+			<!--ATTACKING MIDFIELDER-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!--OPEN-->
+				<widget class="icon_button" id="opn4" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/attacking midfielder" show_button_appearance="false">				
+					<translation id="hint" translation_id="539333" type="use" value="Attacking Midfielders"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>
+					<event id="click_event" event_id="nbam"/>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="nccd"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfb"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncdm"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="ncam"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfw"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncal"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncgk"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn7"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbam">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo7"/>
+						</record>
+					</attachment>					
+				</widget>
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo4" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/attacking midfielder" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+			</container>
+			
+			<!--FORWARD-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+
+				<!--OPEN-->
+				<widget class="icon_button" id="opn5" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/forward" show_button_appearance="false">				
+					<translation id="hint" translation_id="309040" type="use" value="Forwards"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>
+					<event id="click_event" event_id="nbfw"/>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="nccd"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfb"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncdm"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncam"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="ncfw"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncal"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncgk"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn7"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbfw">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo7"/>
+						</record>
+					</attachment>					
+				</widget>
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo5" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/forward" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+			</container>
+
+			<!--ALL POSITIONS-->
+			<container>
+				<layout class="arrange_vertical_attachment" layout="-1" offset="0" gap="0"/>
+				<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+				
+				<!--CLOSE-->
+				<widget class="icon_button" id="clo6" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/all" show_button_appearance="false">				
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="gimn2"/>
+				</widget>
+				
+				<!--OPEN-->
+				<widget class="icon_button" id="opn6" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/buttons/all" show_button_appearance="false">				
+					<translation id="hint" translation_id="316702" type="use" value="All Positions"/>
+					<record id="primary_icon_properties" red_replacement="gimntext" blue_replacement="bg int"/>
+					<event id="click_event" event_id="nbal"/>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="nccd"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfb"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncdm"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncam"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncfw"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="ncal"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="ncgk"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="opn6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="opn7"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo1"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo2"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo3"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo4"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo5"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="show"/>
+							<flags id="event_target" value="clo6"/>
+						</record>
+					</attachment>
+					<attachment class="event_relay_attachment" event_id="nbal">
+						<record id="action_event">
+							<flags id="event_id" value="hide"/>
+							<flags id="event_target" value="clo7"/>
+						</record>
+					</attachment>					
+				</widget>				
+				
+			</container>
+			
+			<container/>
+			<container/>			
+			
+		</container>
+	
 	</container>
+
 </panel>
 		
 		

@@ -70,32 +70,32 @@
 					<widget class="label" row="0" column="0">
 						<translation id="text" translation_id="230042" type="use" value="Attacking" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="0" column="1" id="ATat" />
+					<widget class="attribute_circle" row="0" column="1" id="ATat" />
 
 					<widget class="label" row="1" column="0">
 						<translation id="text" translation_id="247413" type="use" value="Defensive" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="1" column="1" id="Dfat" />
+					<widget class="attribute_circle" row="1" column="1" id="Dfat" />
 
 					<widget class="label" row="2" column="0">
 						<translation id="text" translation_id="247571" type="use" value="Fitness" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="2" column="1" id="FTat" />
+					<widget class="attribute_circle" row="2" column="1" id="FTat" />
 
 					<widget class="label" row="3" column="0">
 						<translation id="text" translation_id="230106" type="use" value="Mental" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="3" column="1" id="MTat" />
+					<widget class="attribute_circle" row="3" column="1" id="MTat" />
 
 					<widget class="label" row="4" column="0">
 						<translation id="text" translation_id="229413" type="use" value="Technical" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="4" column="1" id="TCat" />
+					<widget class="attribute_circle" row="4" column="1" id="TCat" />
 
 					<widget class="label" row="5" column="0">
 						<translation id="text" translation_id="248614" type="use" value="Tactical[COMMENT - non playing data; Abbr. Tactical coaching]" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="5" column="1" id="Taat" />
+					<widget class="attribute_circle" row="5" column="1" id="Taat" />
 				</widget>
 			</container>
 
@@ -127,17 +127,17 @@
 					<widget class="label" row="0" column="0">
 						<translation id="text" translation_id="308086" type="use" value="GK - Shot Stopping[COMMENT - training category]" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="0" column="1" id="GSat" />
+					<widget class="attribute_circle" row="0" column="1" id="GSat" />
 
 					<widget class="label" row="1" column="0">
 						<translation id="text" translation_id="308087" type="use" value="GK - Handling[COMMENT - training category]" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="1" column="1" id="GHat" />
+					<widget class="attribute_circle" row="1" column="1" id="GHat" />
 
 					<widget class="label" row="2" column="0">
 						<translation id="text" translation_id="439416" type="use" value="GK - Distribution[COMMENT - goalkeeper(GK) training category]" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="2" column="1" id="GDat" />
+					<widget class="attribute_circle" row="2" column="1" id="GDat" />
 				</widget>
 			</container>
 
@@ -169,27 +169,27 @@
 					<widget class="label" row="0" column="0">
 						<translation id="text" translation_id="316925" type="use" value="Adaptability[COMMENT: nation player tendency]" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="0" column="1" id="ADat" />
+					<widget class="attribute_circle" row="0" column="1" id="ADat" />
 
 					<widget class="label" row="1" column="0">
 						<translation id="text" translation_id="227803" type="use" value="Determination" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="1" column="1" id="DEat" />
+					<widget class="attribute_circle" row="1" column="1" id="DEat" />
 
 					<widget class="label" row="2" column="0">
 						<translation id="text" translation_id="248619" type="use" value="Level of Discipline" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="2" column="1" id="DIat" />
+					<widget class="attribute_circle" row="2" column="1" id="DIat" />
 
 					<widget class="label" row="3" column="0">
 						<translation id="text" translation_id="534820" type="use" value="People Management[COMMENT: AREA: Non-Player Profile; SUB-AREA: Attributes; FR-BN: 34684; TONE: Formal; CHARLIMIT: None; REF-ID: 284430; NOTE: used to be Man Management, changed to a more inclusive term]" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="3" column="1" id="MMat" />
+					<widget class="attribute_circle" row="3" column="1" id="MMat" />
 
 					<widget class="label" row="4" column="0">
 						<translation id="text" translation_id="227951" type="use" value="Motivating" />
 					</widget>
-					<widget class="attribute_label" alignment="centre_x,centre_y" row="4" column="1" id="MOat" />
+					<widget class="attribute_circle" row="4" column="1" id="MOat" />
 				</widget>
 			</container>
 		

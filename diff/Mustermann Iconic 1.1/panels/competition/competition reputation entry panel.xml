@@ -1,0 +1,17 @@
+<panel>
+	<layout class="arrange_vertical_attachment" layout="-1,1" offset="0" gap="0" />
+	<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0"/>
+	
+	<container>
+		<layout class="arrange_horizontal_attachment" layout="50,-1,100" offset="0" gap="0" />
+		<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0"/>
+		
+		<widget class="label" id="cpyr" alignment="centre" size="large" style="embossed" colour="disabled"/>
+
+		<widget class="comp_button" alignment="left,centre_y" icon_enabled="true" id="tmlg"/>		
+		
+		<widget class="nation_button" alignment="left,centre_y" colour="faded text" size="small" id="tmnm"/>
+		
+	</container>
+
+</panel>

@@ -42,6 +42,29 @@
 									</container>
 								</container>
 								
+								<container>
+									<container height="16" width="16">
+										<layout class="stick_to_sides_attachment" alignment="left" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="top" inset="8"/>
+										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+								
+										<widget class="icon_button" show_button_appearance="false" secondary_icon_enabled="true" secondary_icon="icons/16px/edit" secondary_icon_alignment="left,top" click_event="eMan">
+
+											<record id="object_property">
+												<list id="get_properties">
+													<record>
+														<integer id="get_property" value="PiCh" />
+														<integer id="set_property" value="Shwn" />
+													</record>
+												</list>
+											</record>
+
+											<translation id="hint" translation_id="443654" type="use" value="Edit Manager Appearance[COMMENT: manager edit appearance panel; editing manager's look]" />
+
+										</widget>
+									</container>
+								</container>
+								
 								<!--PLAYER PICTURE-->
 								<container>
 									<container height="126" width="126">
@@ -621,14 +644,87 @@
 								<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 								
 								<container class="vertical_adaptive_container" gap="0" mode="distribute equally">
-																																							
-									<widget class="label" alignment="left,centre_y" font="title" colour="title" size="xlarge" default_height="30">
-										<translation id="text" translation_id="532737" type="use" value="Coaching" />
-									</widget>
+								
+									<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="30">
 									
-									<widget class="coaching_badge_label" id="coaq" alignment="left,centre_y" colour="fg" default_height="22">
-										<record id="object_property" get_property="Pcqu"/>
-									</widget>
+										<container default_width="16">
+											<layout class="arrange_horizontal_attachment" layout="-1" offset="0" gap="0"/>
+											<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
+
+											<!-- Button -->
+											<widget class="icon_button" id="chr1" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="icons/16px/swap" show_button_appearance="false" width="16">				
+												<translation id="hint" translation_id="308638" type="use" value="Characteristics"/>
+												<record id="primary_icon_properties" red_replacement="gimn2"/>
+												<event id="click_event" event_id="cbo1"/>
+												<attachment class="event_relay_attachment" event_id="cbo1">
+													<record id="action_event">
+														<flags id="event_id" value="show"/>
+														<flags id="event_target" value="mpbs"/>
+													</record>
+												</attachment>
+												<attachment class="event_relay_attachment" event_id="cbo1">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="chr1"/>
+													</record>
+												</attachment>
+												<attachment class="event_relay_attachment" event_id="cbo1">
+													<record id="action_event">
+														<flags id="event_id" value="show"/>
+														<flags id="event_target" value="chr2"/>
+													</record>
+												</attachment>
+											</widget>
+											
+											<!-- Button -->
+											<widget class="icon_button" id="chr2"  icon="icons/16px/swap" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" show_button_appearance="false" hidn="true">
+												<translation id="hint" translation_id="466468" type="use" value="Style"/>
+												<record id="primary_icon_properties" red_replacement="gimn2"/>
+												<event id="click_event" event_id="cbo2"/>
+												<attachment class="event_relay_attachment" event_id="cbo2">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="mpbs"/>
+													</record>
+												</attachment>
+												<attachment class="event_relay_attachment" event_id="cbo2">
+													<record id="action_event">
+														<flags id="event_id" value="hide"/>
+														<flags id="event_target" value="chr2"/>
+													</record>
+												</attachment>
+												<attachment class="event_relay_attachment" event_id="cbo2">
+													<record id="action_event">
+														<flags id="event_id" value="show"/>
+														<flags id="event_target" value="chr1"/>
+													</record>
+												</attachment>
+											</widget>
+											
+										</container>
+																																							
+										<widget class="label" alignment="left,centre_y" font="title" colour="title" size="xlarge" default_width="-1">
+											<translation id="text" translation_id="532737" type="use" value="Coaching" />
+										</widget>
+									</container>
+									
+									<container default_height="22">
+										<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+										<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="2"/>
+									
+										<widget class="coaching_badge_label" id="coaq" alignment="left,centre_y" colour="fg" auto_size="all">
+											<record id="object_property" get_property="Pcqu"/>
+										</widget>
+										
+										<container class="non_player_profile_panel" file="none">
+											<record id="object_property" get_property="objt" set_property="objt"/>
+											<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+													
+											<widget class="label" id="coco" alignment="left, centre_y" colour="faded text" />
+
+										</container>
+										
+									</container>
 									
 									<container height="8"/>
 									
@@ -700,7 +796,7 @@
 														<translation id="text" translation_id="293302" type="use" value="Coaching Attacking" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Ncha"/>
 													</widget>
 													
@@ -716,7 +812,7 @@
 														<translation id="text" translation_id="293303" type="use" value="Coaching Defending" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Nchd"/>
 													</widget>
 													
@@ -732,7 +828,7 @@
 														<translation id="text" translation_id="293306" type="use" value="Coaching Mental" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Nchm"/>
 													</widget>
 													
@@ -748,7 +844,7 @@
 														<translation id="text" translation_id="293307" type="use" value="Coaching Tactical" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Ncta"/>
 													</widget>
 													
@@ -764,7 +860,7 @@
 														<translation id="text" translation_id="293308" type="use" value="Coaching Technical" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Ncte"/>
 													</widget>
 													
@@ -780,7 +876,7 @@
 														<translation id="text" translation_id="293304" type="use" value="Coaching Fitness" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Nchf"/>
 													</widget>
 													
@@ -796,7 +892,7 @@
 														<translation id="text" translation_id="439313" type="use" value="Coaching GK Distribution" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npgd"/>
 													</widget>
 													
@@ -812,7 +908,7 @@
 														<translation id="text" translation_id="439312" type="use" value="Coaching GK Handling" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npgh"/>
 													</widget>
 													
@@ -828,7 +924,7 @@
 														<translation id="text" translation_id="439311" type="use" value="Coaching GK Shot Stopping" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npgs"/>
 													</widget>
 													
@@ -844,7 +940,7 @@
 														<translation id="text" translation_id="227939" type="use" value="Working With Youngsters" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npwy"/>
 													</widget>
 													
@@ -858,49 +954,70 @@
 											
 											<container width="16"/>
 											
-											<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="-2">
+											<container default_width="-2">
+												<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 											
-												<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
-													<translation id="text" translation_id="308907" type="use" value="Mentality" />
-												</widget>
+												<container class="vertical_adaptive_container" id="mpts" gap="0" mode="distribute_equally" background_colour="bg lighter">
 												
-												<widget class="playing_mentality_label" id="nast" alignment="left,centre_y" font="text" colour="text" default_height="18">
-													<record id="object_property" get_property="nppm" />
-												</widget>
-												
-												<container height="8"/>
-												
-												<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
-													<translation id="text" translation_id="242534" type="use" value="Pressing Style" />
-												</widget>
-												
-												<widget class="pressing_style_label" id="nppp" alignment="left,centre_y" font="text" colour="text" default_height="18">
-													<record id="object_property" get_property="nppp" />
-												</widget>
-												
-												<container height="8"/>
-												
-												<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
-													<translation id="text" translation_id="242547" type="use" value="Marking Style" />
-												</widget>
-												
-												<widget class="marking_style_label" id="nppm" alignment="left,centre_y" font="text" colour="text" default_height="18">
-													<record id="object_property" get_property="nppm" />
-												</widget>
-												
-												<container height="8"/>											
+													<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
+														<translation id="text" translation_id="308907" type="use" value="Mentality" />
+													</widget>
 													
-												<container id="tncP" default_height="-1">
-													<attachment_group class="vertical_arrange" vertical_layout="22, -1" vertical_gap="0" vertical_offset="6" horizontal_inset="0" />
-													<widget class="label" id="knfL" col="0" row="0" alignment="left, centre_y" font="title" colour="title" height="22"/>
+													<widget class="playing_mentality_label" id="nast" alignment="left,centre_y" font="text" colour="text" default_height="18">
+														<record id="object_property" get_property="nppm" />
+													</widget>
+													
+													<container height="8"/>
+													
+													<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
+														<translation id="text" translation_id="242534" type="use" value="Pressing Style" />
+													</widget>
+													
+													<widget class="pressing_style_label" id="nppp" alignment="left,centre_y" font="text" colour="text" default_height="18">
+														<record id="object_property" get_property="nppp" />
+													</widget>
+													
+													<container height="8"/>
+													
+													<widget class="label" font="title" colour="title" alignment="left,centre_y" height="22">
+														<translation id="text" translation_id="242547" type="use" value="Marking Style" />
+													</widget>
+													
+													<widget class="marking_style_label" id="nppm" alignment="left,centre_y" font="text" colour="text" default_height="18">
+														<record id="object_property" get_property="nppm" />
+													</widget>
+													
+													<container height="8"/>											
+														
+													<container id="tncP" default_height="-1">
+														<attachment_group class="vertical_arrange" vertical_layout="22, -1" vertical_gap="0" vertical_offset="6" horizontal_inset="0" />
+														<widget class="label" id="knfL" col="0" row="0" alignment="left, centre_y" font="title" colour="title" height="22"/>
+														<container class="scrolling_box" id="chrA">
+															<layout class="stick_to_sides_attachment" alignment="top, left" apply_to_children="true" />
+															<widget class="text" id="tncs" auto_size="vertical" />
+														</container>
+													</container>
+																																					
+												</container>
+											
+												<container class="contrast_box" red_replacement="bg darker" id="mpbs" hidn="true">
+													<animation class="slide_in_right_animation"/>
+													<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+													
 													<container class="scrolling_box" id="chrA">
 														<layout class="stick_to_sides_attachment" alignment="top, left" apply_to_children="true" />
-														<widget class="text" id="tncs" auto_size="vertical" />
+														
+														<widget class="human_attributes_panel" id="attr">
+															<record id="object_property">
+																<integer id="get_property" value="objt" />
+																<integer id="set_property" value="objt" />
+															</record>
+														</widget>
 													</container>
+													
 												</container>
-																																				
+											
 											</container>
-																																																																									
 										</container>
 																			
 									</container>
@@ -970,7 +1087,7 @@
 												<translation id="text" translation_id="227943" type="use" value="Adaptability" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npad"/>
 											</widget>
 											
@@ -986,7 +1103,7 @@
 												<translation id="text" translation_id="227945" type="use" value="Judging Player Ability" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Hplk"/>
 											</widget>
 											
@@ -1002,7 +1119,7 @@
 												<translation id="text" translation_id="227947" type="use" value="Judging Player Potential" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Hynk"/>
 											</widget>
 											
@@ -1018,7 +1135,7 @@
 												<translation id="text" translation_id="513327" type="use" value="Analysing Data" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npjd"/>
 											</widget>
 											
@@ -1034,7 +1151,7 @@
 												<translation id="text" translation_id="482628" type="use" value="Judging Staff Ability" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npjs"/>
 											</widget>
 											

@@ -227,7 +227,9 @@
 		<record>
 			<integer id="id" value="port" />
 			<integer id="width" value="40" />
-			<flags id="customisation_context" value="none" />
+			<flags id="customisation_context" value="play" />
+			<translation id="category" type="use" translation_id="254477" value="Custom"/>
+            	<translation id="name" type="use" value="Mugshot" />
 			<record id="widget_info">
 				<symbol id="class" value="object_portrait_picture" />
 				<boolean id="scale_picture" value="true" />
@@ -1677,7 +1679,7 @@
 			<translation id="subcategory" translation_id="230024" type="use" value="Goalkeeping" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -1705,7 +1707,7 @@
 			<translation id="subcategory" translation_id="230003" type="use" value="Physical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -1864,7 +1866,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -1892,7 +1894,7 @@
 			<translation id="subcategory" translation_id="230003" type="use" value="Physical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -1920,7 +1922,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -2669,7 +2671,7 @@
 			<translation id="subcategory" translation_id="230003" type="use" value="Physical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -2697,7 +2699,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -5528,7 +5530,7 @@
 			<translation id="subcategory" translation_id="230024" type="use" value="Goalkeeping" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -5556,7 +5558,7 @@
 			<translation id="subcategory" translation_id="230024" type="use" value="Goalkeeping" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -5930,7 +5932,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -5958,7 +5960,7 @@
 			<translation id="subcategory" translation_id="229413" type="use" value="Technical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6346,7 +6348,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="700" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6374,7 +6376,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6402,7 +6404,7 @@
 			<translation id="subcategory" translation_id="229413" type="use" value="Technical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6585,7 +6587,7 @@
 			<translation id="subcategory" translation_id="230024" type="use" value="Goalkeeping" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6614,7 +6616,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="550" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6643,7 +6645,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="550" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6721,7 +6723,7 @@
 			<translation id="subcategory" translation_id="230024" type="use" value="Goalkeeping" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6750,7 +6752,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="750" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6907,7 +6909,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="700" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6935,7 +6937,7 @@
 			<translation id="subcategory" translation_id="230003" type="use" value="Physical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6964,7 +6966,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="450" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -6993,7 +6995,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="600" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -7021,7 +7023,7 @@
 			<translation id="subcategory" translation_id="229413" type="use" value="Technical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11698,7 +11700,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="450" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11726,7 +11728,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11755,7 +11757,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="700" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11784,7 +11786,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="900" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11813,7 +11815,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="800" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11842,7 +11844,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="550" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11870,7 +11872,7 @@
 			<translation id="subcategory" translation_id="229413" type="use" value="Technical" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11897,7 +11899,7 @@
 			<translation id="category" translation_id="348857" type="use" value="Hidden[COMMENT: steam workshop publishing panel; user can set the level of publicity for their steam workshop content]" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11924,7 +11926,7 @@
 			<translation id="category" translation_id="348857" type="use" value="Hidden[COMMENT: steam workshop publishing panel; user can set the level of publicity for their steam workshop content]" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11951,7 +11953,7 @@
 			<translation id="category" translation_id="348857" type="use" value="Hidden[COMMENT: steam workshop publishing panel; user can set the level of publicity for their steam workshop content]" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -11978,7 +11980,7 @@
 			<translation id="category" translation_id="348857" type="use" value="Hidden[COMMENT: steam workshop publishing panel; user can set the level of publicity for their steam workshop content]" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12005,7 +12007,7 @@
 			<translation id="category" translation_id="348857" type="use" value="Hidden[COMMENT: steam workshop publishing panel; user can set the level of publicity for their steam workshop content]" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12142,7 +12144,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="600" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12171,7 +12173,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="350" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12200,7 +12202,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="600" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12229,7 +12231,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="800" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12394,7 +12396,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="350" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12423,7 +12425,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="450" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12452,7 +12454,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="500" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12481,7 +12483,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="700" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -12510,7 +12512,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="400" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -13921,7 +13923,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="400" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -13950,7 +13952,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="400" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -13979,7 +13981,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="800" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14008,7 +14010,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="500" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14037,7 +14039,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="500" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14066,7 +14068,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="750" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14095,7 +14097,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="900" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14856,7 +14858,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14884,7 +14886,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14912,7 +14914,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14940,7 +14942,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14968,7 +14970,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -14996,7 +14998,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15024,7 +15026,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15052,7 +15054,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15080,7 +15082,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15109,7 +15111,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15137,7 +15139,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15165,7 +15167,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15193,7 +15195,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15221,7 +15223,7 @@
 			<translation id="subcategory" translation_id="230043" type="use" value="Coaching" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15249,7 +15251,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15277,7 +15279,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15384,7 +15386,7 @@
 			<boolean id="sort_ascending" value="false" />
 			<integer id="auto_hide_priority" value="700" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15412,7 +15414,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15440,7 +15442,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15467,7 +15469,7 @@
 			<flags id="customisation_context" value="none" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15491,7 +15493,7 @@
 			<flags id="customisation_context" value="none" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15516,7 +15518,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15544,7 +15546,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15572,7 +15574,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15599,7 +15601,7 @@
 			<translation id="category" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15618,7 +15620,7 @@
 			<translation id="category" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15675,7 +15677,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -15703,7 +15705,7 @@
 			<translation id="subcategory" translation_id="230106" type="use" value="Mental" />
 			<boolean id="sort_ascending" value="false" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -16989,7 +16991,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17015,7 +17017,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17041,7 +17043,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17067,7 +17069,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17093,7 +17095,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17119,7 +17121,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17145,7 +17147,7 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -17171,10 +17173,10 @@
 				<flags id="alignment" value="left,centre_y" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="widget_edit_info">
 				<symbol id="class" value="attribute_edit_box" />
@@ -21394,7 +21396,7 @@
 			<flags id="customisation_context" value="none" />
 			<translation id="category" translation_id="447540" type="use" value="Agents[COMMENT: filter option to show only agents in a list of people it is possible to have relationships with]" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="column_widget_properties">
 				<flags id="alignment" value="centre" />
@@ -21417,7 +21419,7 @@
 			<flags id="customisation_context" value="none" />
 			<translation id="category" translation_id="447540" type="use" value="Agents[COMMENT: filter option to show only agents in a list of people it is possible to have relationships with]" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="column_widget_properties">
 				<flags id="alignment" value="centre" />
@@ -21440,7 +21442,7 @@
 			<flags id="customisation_context" value="none" />
 			<translation id="category" translation_id="447540" type="use" value="Agents[COMMENT: filter option to show only agents in a list of people it is possible to have relationships with]" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="column_widget_properties">
 				<flags id="alignment" value="centre" />
@@ -21463,7 +21465,7 @@
 			<flags id="customisation_context" value="none" />
 			<translation id="category" translation_id="447540" type="use" value="Agents[COMMENT: filter option to show only agents in a list of people it is possible to have relationships with]" />
 			<record id="widget_info">
-				<symbol id="class" value="attribute_label" />
+				<symbol id="class" value="attribute_circle" />
 			</record>
 			<record id="column_widget_properties">
 				<flags id="alignment" value="centre" />

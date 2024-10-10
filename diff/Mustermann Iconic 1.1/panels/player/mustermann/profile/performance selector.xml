@@ -26,6 +26,21 @@
 		<translation id="title" translation_id="248421" type="use" value="Form"/>
 	</widget>
 	
+	<!--DATA HUB-->
+	<widget class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance data hub" id="mmdh">
+		<translation id="title" translation_id="515301" type="use" value="Data Hub" />
+	</widget>
+	
+	<!--BAR OVERLAY-->
+	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance bar" id="mmbo">
+		<translation id="title" type="use" value="Bar"/>
+	</container>
+	
+	<!--NIPPLE OVERLAY-->
+	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance nipple" id="mmno">
+		<translation id="title" type="use" value="Pasty"/>
+	</container>
+	
 	<!--PIZZA OVERLAY-->
 	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance pizza" id="mmpo">
 		<translation id="title" type="use" value="Pizza"/>

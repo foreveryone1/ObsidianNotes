@@ -1,0 +1,7 @@
+<panel height="40">
+  	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="2"/>
+
+  	<widget class="text" id="newT" alignment="left,centre_y" multiline="true" style="semi_bold" colour="processing_headline" size="small">
+  		<layout class="stick_to_sides_attachment" alignment="horizontal" inset="10"/>
+  	</widget>
+</panel>

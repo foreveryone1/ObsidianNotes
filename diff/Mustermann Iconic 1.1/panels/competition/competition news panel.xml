@@ -168,25 +168,25 @@
 								</container>
 							</container>
 
-							<!--COACH'S CORNER RECREATIONS-->
-							<container class="contrast_box" red_replacement="bg lighter" height="287">
+							<!--DLP'S ROLE GUIDES-->
+							<container class="contrast_box" red_replacement="dlp blue" transparency="0.75" height="287">
 								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 																
 								<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
 								
 									<container class="horizontal_adaptive_container" gap="4" mode="distribute_equally" default_height="-1">
 									
-										<widget class="picture" file="mustermann/news/roan" image_alignment="centre_x,centre_y" width="64"/>
+										<widget class="picture" file="mustermann/news/dlp" image_alignment="centre_x,centre_y" width="64"/>
 										
 										<container default_width="-1">
 											<attachment class="vertical_arrange_autosize" vertical_gap="0"/>
 								
-											<widget class="label" font="title" size="xlarge" multiline="true" alignment="left" auto_size="vertical" colour="gimn2">
-												<translation id="text" type="use" value="Coach's Corner"/>      
+											<widget class="label" font="title" size="xlarge" multiline="true" alignment="left" auto_size="vertical" colour="dlp gold">
+												<translation id="text" type="use" value="The Deep Lying Playmaker's Role Guides"/>      
 											</widget>
 											
 											<widget class="label" font="text" multiline="true" alignment="left" auto_size="vertical" colour="text">
-												<translation id="text" type="use" value="VIDEOS: Coach Roan is here to give you all the insights into Football Manager.  From start-up guides to tactical tips, the CoachRoan channel is your one-stop shop for Football Manager Tutorials, Challenges and Experiments!"/>      
+												<translation id="text" type="use" value="VIDEOS: What exactly is a carrilero?  When should I use a inverted wingback?  What's so false about the number 9?  The Deep Lying Playmaker answers (some of) those questions and brings you the best role guides YouTube has ever seen."/>      
 											</widget>
 										</container>
 									</container>
@@ -196,12 +196,12 @@
 										<container default_width="-1">
 											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 											
-											<widget class="picture" file="mustermann/news/roan1" image_alignment="centre_x,centre_y"/>
+											<widget class="picture" file="mustermann/news/dlp1" image_alignment="centre_x,centre_y"/>
 											
 											<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
 									
 											<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
-												<record id="click_event" event_id="OURL" url="https://www.youtube.com/watch?v=Yonz7OUvFY8" />
+												<record id="click_event" event_id="OURL" url="https://youtu.be/tREC2glrYRo?si=-5JQYCr-K9dunXry" />
 												<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
 											</widget>
 										</container>
@@ -209,12 +209,12 @@
 										<container default_width="-1">
 											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 											
-											<widget class="picture" file="mustermann/news/roan2" image_alignment="centre_x,centre_y"/>
+											<widget class="picture" file="mustermann/news/dlp2" image_alignment="centre_x,centre_y"/>
 											
 											<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
 									
 											<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
-												<record id="click_event" event_id="OURL" url="https://www.youtube.com/watch?v=5aXuUf7eE2U" />
+												<record id="click_event" event_id="OURL" url="https://youtu.be/CxGrTyCuwkc?si=FqBmhbFb8td6tYdJ" />
 												<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
 											</widget>
 										</container>
@@ -222,12 +222,12 @@
 										<container default_width="-1">
 											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 											
-											<widget class="picture" file="mustermann/news/roan3" image_alignment="centre_x,centre_y"/>
+											<widget class="picture" file="mustermann/news/dlp3" image_alignment="centre_x,centre_y"/>
 											
 											<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
 									
 											<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
-												<record id="click_event" event_id="OURL" url="https://www.youtube.com/watch?v=1hy_8qQs4SQ" />
+												<record id="click_event" event_id="OURL" url="https://youtu.be/HE52w5rNzu8?si=Fmats9XSHaskK_iW"/>
 												<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
 											</widget>
 										</container>
@@ -259,12 +259,12 @@
 								</container>
 							</container>
 							
-							<!--SPREADSHEET, NEWS & LATTE QUARTERLY-->
+							<!--SPREADSHEET, NEWS & GOALSCORING KEEPER-->
 							<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="582">
 								
 								<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="-1">
 								
-									<container class="contrast_box" red_replacement="bg lighter" default_height="-1">
+									<container class="contrast_box" red_replacement="stag yellow" transparency="0.75" default_height="-1">
 										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 										
 										<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
@@ -308,15 +308,15 @@
 									</container>
 								</container>
 								
-								<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+								<container class="contrast_box" red_replacement="llama blue" transparency="0.75" default_width="-1">
 									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 									
 									<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
 									
-										<widget class="picture" file="mustermann/news/latte" image_alignment="centre_x,centre_y" height="480"/>
+										<widget class="picture" file="mustermann/news/llama" image_alignment="centre_x,centre_y" height="480"/>
 										
 										<widget class="text" font="text" colour="text" alignment="left" auto_size="vertical" multiline="true" default_height="-1">
-											<translation id="text" type="use" value="MAGAZINE: a quarterly FM e-magazine covering a wide range of Football Manager topics including Leagues, Analysis, Tactics, Training and Everything FM"/>
+											<translation id="text" type="use" value="VIDEO: the story of Federico Gomes Gerth and his attempt to become football's leading goalscoring keeper under the legendary management of Sochaux boss Bastien Colbert."/>
 										</widget>
 										
 									</container>
@@ -324,7 +324,7 @@
 									<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
 									
 									<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
-										<record id="click_event" event_id="OURL" url="https://coffeehousefm.com/lattequarterly" />
+										<record id="click_event" event_id="OURL" url="https://youtu.be/4vGy_0Oj9mg?si=YCcYuDtmC5V6NO8I" />
 										<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
 									</widget>
 									
@@ -356,7 +356,7 @@
 							<!--STAND-UP & NEWS-->
 							<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="287">
 							
-								<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+								<container class="contrast_box" red_replacement="jameson pink" transparency="0.75" default_width="-1">
 									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 									
 									<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
@@ -418,7 +418,7 @@
 							<!--FOOTBALL MANAGER PLAYBOOK & FM HISTORY-->
 							<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally" default_height="582">
 							
-								<container class="contrast_box" red_replacement="bg lighter" default_width="-1">
+								<container class="contrast_box" red_replacement="vftt blue" transparency="0.75" default_width="-1">
 									<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 									
 									<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
@@ -457,7 +457,7 @@
 								
 								<container class="vertical_adaptive_container" gap="8" mode="distribute_equally" default_width="-1">
 								
-									<container class="contrast_box" red_replacement="bg lighter" default_height="-1">
+									<container class="contrast_box" red_replacement="brasilian orange" transparency="0.75" default_height="-1">
 										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 										
 										<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
@@ -511,7 +511,7 @@
 							</container>
 							
 							<!--BLOG SPOT-->
-							<container class="contrast_box" red_replacement="bg lighter" default_height="287">
+							<container class="contrast_box" red_replacement="mustermann3" transparency="0.75" default_height="287">
 								<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 																
 								<container class="vertical_adaptive_container" gap="4" mode="distribute_equally">
@@ -533,12 +533,12 @@
 										<container default_width="-1">
 											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 											
-											<widget class="picture" file="mustermann/news/superclub" image_alignment="centre_x,centre_y"/>
+											<widget class="picture" file="mustermann/news/cameron" image_alignment="centre_x,centre_y"/>
 											
 											<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
 									
 											<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
-												<record id="click_event" event_id="OURL" url="https://coffeehousefm.com/fmgrasshopperblog/2023/10/17/superclub-diaries-vol1-positional-play-in-paris-fm24" />
+												<record id="click_event" event_id="OURL" url="https://thebootroomfm.wordpress.com/2024/05/15/1-chasing-success-through-youth-prospects-new-club-cultures/" />
 												<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
 											</widget>
 										</container>
@@ -559,12 +559,12 @@
 										<container default_width="-1">
 											<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0"/>
 											
-											<widget class="picture" file="mustermann/news/unite" image_alignment="centre_x,centre_y"/>
+											<widget class="picture" file="mustermann/news/steinkelsson" image_alignment="centre_x,centre_y"/>
 											
 											<widget class="picture" file="mustermann/news/external_margin" red_replacement="fg lighter" alignment="right,bottom" image_alignment="right,bottom"/>
 									
 											<widget class="link_button" navigation_focus_target="true" show_button_appearance="false" colour="text">
-												<record id="click_event" event_id="OURL" url="https://www.viewfromthetouchline.com/2023/11/06/adam_otbfm-save-reveal/" />
+												<record id="click_event" event_id="OURL" url="https://www.viewfromthetouchline.com/2024/05/16/the-nantes-way-introduction/" />
 												<translation id="hint" translation_id="594846" type="use" value="Open link in browser"/>
 											</widget>
 										</container>

@@ -1,0 +1,194 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+	
+	<container>
+		<attachment class="horizontal_arrange" horizontal_layout="-1,-2,26" horizontal_gap="8"/>
+		
+		<!--HEADLINE STATS-->
+		<container class="horizontal_adaptive_container" gap="0" mode="distribute_equally">
+		
+			<container default_width="-1" minimum_width="1"/>
+			
+			<container class="vertical_adaptive_container" gap="0" mode="distribute_equally" default_width="230">
+						
+				<container default_height="-1"/>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																		
+					<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+						<translation id="text" type="use" translation_id="247584" value="Apps" />
+					</widget>
+					
+					<widget class="appearances_label" font="text" colour="text" alignment="centre_x,centre_y">
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+						<record id="object_property" get_property="Poap"/>
+					</widget>
+				</container>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																		
+					<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+						<translation id="text" type="use" translation_id="249451" value="Minutes"/>
+					</widget>
+					
+					<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+						<record id="object_property" get_property="POmi"/>
+					</widget>
+				</container>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="252153" value="Gls" />
+						</widget>
+					</container>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="258245" value="Conc" />
+						</widget>													
+					</container>
+																		
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Pogl"/>
+						</widget>
+					</container>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Poco"/>
+						</widget>
+					</container>
+													
+				</container>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+					
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="258244" value="Asts" />
+						</widget>
+					</container>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+							<translation id="text" type="use" translation_id="317291" value="Cln" />
+						</widget>													
+					</container>
+																		
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="hidn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="Poas"/>
+						</widget>
+					</container>
+					
+					<container>
+						<record id="object_property" get_property="Pigo" set_property="Shwn"/>
+						<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+						
+						<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+							<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+							<record id="object_property" get_property="POcs"/>
+						</widget>
+					</container>
+													
+				</container>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																		
+					<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+						<translation id="text" type="use" translation_id="294291" value="Yel" />
+					</widget>
+					
+					<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+						<record id="object_property" get_property="Poyc"/>
+					</widget>
+				</container>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																		
+					<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+						<translation id="text" type="use" translation_id="294292" value="Red" />
+					</widget>
+					
+					<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+						<record id="object_property" get_property="Porc"/>
+					</widget>
+				</container>
+				
+				<container default_height="27">
+					<attachment class="horizontal_arrange" horizontal_layout="-2,-1"/>
+																		
+					<widget class="label" font="title" colour="title" size="10" alignment="left,centre_y">
+						<translation id="text" type="use" translation_id="336188" value="Av Rat" />
+					</widget>
+					
+					<widget class="dashed_number_label" font="text" colour="text" alignment="centre_x,centre_y">
+						<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+						<record id="object_property" get_property="Poav"/>
+					</widget>
+				</container>
+				
+				<container default_height="-1"/>
+								
+			</container>
+			
+			<container default_width="-1" minimum_width="1"/>
+			
+		</container>
+		
+		<!--DATA HUB ANALYTICS-->
+		<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
+			
+			<widget class="data_hub_player_analytics_panel" file="player/mustermann/overview/performance polygon button" id="pha3" late_loading="false" default_height="50">
+				<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+			
+			<widget class="data_hub_player_analytics_panel" file="player/mustermann/overview/performance polygon" id="mmpl" late_loading="false" default_height="-1">
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+			
+		</container>
+		
+		<container/>
+				
+	</container>
+</panel>
+		
+		

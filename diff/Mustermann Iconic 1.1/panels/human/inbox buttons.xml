@@ -2,7 +2,7 @@
 	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 
 	<container class="inner_box_no_margin">
-		<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" horizontal_offset="10"/>
+		<attachment_group class="horizontal_arrange" horizontal_alignment="right,extend" horizontal_offset="10" horizontal_gap="16"/>
 
 		<container>
 			<layout class="stick_to_sides_attachment" alignment="all" inset="0,5,0,0" apply_to_children="true"/>
@@ -30,26 +30,34 @@
 			<record id="click_event" event_id="SNMS" event_target="glob"/>
 			<attachment class="get_global_attachment" get_property="HmeV" set_property="Shwn"/>
 		</widget>
-
-		<widget class="popup_button" id="ibpu" select_event="ibpu" fixed="true" show_button_appearance="false" icon="icons/16px/menu" secondary_icon_enabled="false" width="16">
+		
+		<widget class="icon_button" id="mbta" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/inbox/next" show_button_appearance="false" width="16">
+			<translation id="hint" translation_id="248086" type="use" value="Next Unread"/>
+			<record id="click_event" event_id="nexr"/>
+		</widget>
+		
+		<widget class="icon_button" id="mbtb" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/inbox/mark" show_button_appearance="false" width="16">
+			<translation id="hint" translation_id="383549" type="use" value="Mark All Items As Read"/>
+			<record id="click_event" event_id="mard"/>
+		</widget>
+		
+		<widget class="icon_button" id="mbtc" alignment="centre_x,centre_y" icon_alignment="centre_x,centre_y" icon="mustermann/inbox/save" show_button_appearance="false" width="16">
+			<translation id="hint" translation_id="257241" type="use" value="Save As Note"/>
+			<record id="click_event" event_id="nisn"/>
+		</widget>
+		
+		<widget class="popup_button" id="ibpu" select_event="ibpu" fixed="true" show_button_appearance="false" icon="mustermann/inbox/filter" secondary_icon_enabled="false" width="16">
+			<translation id="hint" translation_id="249639" type="use" value="Filters"/>
 			<record id="primary_icon_properties" red_replacement="text"/>
 			<record id="secondary_icon_properties" red_replacement="text"/>
 			<list id="items">
-				<record id="nexr">
-					<translation id="text" translation_id="310458" type="use" value="Next Item Needing Response[COMMENT: Go to next item needing response]"/>
-				</record>
-				<record id="mard">
-					<translation id="text" translation_id="383549" type="use" value="Mark All Items As Read[COMMENT: FR 10286; Inbox; Mark all news items as read]"/>
-				</record>
-				<record id="nisn">
-					<translation id="text" translation_id="257241" type="use" value="Save As Note[COMMENT: Button where user can save the news item as a note]"/>
-				</record>
-				<record id="----"/>
 				<record id="sflt">
 					<translation id="text" translation_id="249639" type="use" value="Filters"/>
 				</record>
 			</list>
 		</widget>
+
+		
 	</container>
 
 </panel>

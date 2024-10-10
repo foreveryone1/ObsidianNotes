@@ -1,0 +1,10 @@
+<panel>
+	<container id="SUBP" class="inner_box_no_margin" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+
+	<widget class="player_stats_summary_panel" id="pssu" file="human/mustermann/home/stats/player stats" section="tcis" late_loading="true" valid_for_unemployed_manager="false">
+		<translation id="title" translation_id="247694" type="use" value="Player Stats[COMMENT: manager home section: player stats summary heading]" />
+	</widget>
+</panel>

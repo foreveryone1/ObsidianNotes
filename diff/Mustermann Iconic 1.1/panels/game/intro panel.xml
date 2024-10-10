@@ -41,7 +41,7 @@
 			<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
 		</container>
 		
-		<widget class="picture" id="bkg1" file="main menu/si christmas" image_alignment="bottom" scale_picture="true" keep_aspect_ratio="false">
+		<widget class="picture" id="bkg1" file="main menu/si" image_alignment="bottom" scale_picture="true" keep_aspect_ratio="false">
 			<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
 
         </widget>
@@ -640,10 +640,10 @@
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										
-										<widget class="picture" file="main menu/roanyt" image_alignment="centre_x,centre_y"/>
+										<widget class="picture" file="main menu/dlpyt" image_alignment="centre_x,centre_y"/>
 										
 										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
-											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@coachroan" />
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@TheDeepLyingPlaymaker" />
 											<translation id="hint" type="use" value="Open in Browser" />
 										</widget>
 									
@@ -708,10 +708,10 @@
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										
-										<widget class="picture" file="main menu/gtsyt" image_alignment="centre_x,centre_y"/>
+										<widget class="picture" file="main menu/llamayt" image_alignment="centre_x,centre_y"/>
 										
 										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
-											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@gamestellstories/featured" />
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@FMLlama" />
 											<translation id="hint" type="use" value="Open in Browser" />
 										</widget>
 									
@@ -722,10 +722,10 @@
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										
-										<widget class="picture" file="main menu/mooonoyt" image_alignment="centre_x,centre_y"/>
+										<widget class="picture" file="main menu/fmshowyt" image_alignment="centre_x,centre_y"/>
 										
 										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
-											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@mooonostreams" />
+											<record id="click_event" event_id="OURL" url="https://www.youtube.com/@TheFMShowPod" />
 											<translation id="hint" type="use" value="Open in Browser" />
 										</widget>
 									
@@ -924,10 +924,10 @@
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										
-										<widget class="picture" file="main menu/breakingthelines" image_alignment="centre_x,centre_y"/>
+										<widget class="picture" file="main menu/tfbr" image_alignment="centre_x,centre_y"/>
 										
 										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
-											<record id="click_event" event_id="OURL" url="https://breakingthelines.com/blog/" />
+											<record id="click_event" event_id="OURL" url="https://thebootroomfm.wordpress.com/" />
 											<translation id="hint" type="use" value="Open in Browser" />
 										</widget>
 									
@@ -1020,10 +1020,10 @@
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										
-										<widget class="picture" file="main menu/sortitoutsi" image_alignment="centre_x,centre_y"/>
+										<widget class="picture" file="main menu/p4fm" image_alignment="centre_x,centre_y"/>
 										
 										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
-											<record id="click_event" event_id="OURL" url="https://sortitoutsi.net/" />
+											<record id="click_event" event_id="OURL" url="https://www.passion4fm.com/" />
 											<translation id="hint" type="use" value="Open in Browser" />
 										</widget>
 									
@@ -1034,17 +1034,17 @@
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										
-										<widget class="picture" file="main menu/spielverlagerung" image_alignment="centre_x,centre_y"/>
+										<widget class="picture" file="main menu/sortitoutsi" image_alignment="centre_x,centre_y"/>
 										
 										<widget class="link_button" col="2" row="1" navigation_focus_target="true" show_button_appearance="false">
-											<record id="click_event" event_id="OURL" url="https://spielverlagerung.com/" />
+											<record id="click_event" event_id="OURL" url="https://sortitoutsi.net/" />
 											<translation id="hint" type="use" value="Open in Browser" />
 										</widget>
 									
 									</container>
 									
 									<container width="8"/>
-									
+																								
 									<container width="292">
 										<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 										

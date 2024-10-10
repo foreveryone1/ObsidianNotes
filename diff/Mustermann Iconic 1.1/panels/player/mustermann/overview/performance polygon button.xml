@@ -1,0 +1,23 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<widget class="data_hub_splashscreen" id="spls">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+		
+		<container class="main_box">
+			<attachment_group class="vertical_arrange" vertical_alignment="top,extend" vertical_offset="0" horizontal_inset="0" />
+
+			<container>
+				<attachment_group class="horizontal_arrange_vertical_autosize" horizontal_alignment="right,extend" horizontal_offset="0" horizontal_gap="0" />
+
+				<widget class="widget_popup_button" auto_size="all" widget_type="main_box" appearance="buttons/primary/normal/button" id="askF" colour="bg" secondary_icon_colour="bg">
+					<layout class="stick_to_sides_attachment" alignment="right" inset="0" />
+					<string id="widget_type" value="data_hub_request_visualisation_popup" />
+					<record id="modal_popup_properties" file="modal popup panel auto sized" />
+					<translation id="text" translation_id="515021" type="use" value="Player Analytics[COMMENT: AREA: Data Hub; SUB-AREA: Player Analytics; FR: 31585; TONE: Formal; CHARLIMIT: None]" />
+				</widget>
+			</container>
+
+		</container>
+	</widget>
+</panel>

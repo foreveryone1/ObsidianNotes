@@ -39,7 +39,7 @@
 					<record id="widget_info" class="attribute_bar"/>
 					
 					<!--NUMERICAL ATTRIBUTES-->
-					<record id="widget_info" class="attribute_label" alignment="right,centre_y" style="bold" multiline="false"/>
+					<!--<record id="widget_info" class="attribute_label" alignment="right,centre_y" style="semi_bold" multiline="false"/>-->
 					
 				</record>
 				

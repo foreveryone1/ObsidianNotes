@@ -1,0 +1,17 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+
+	<container background_colour="bg lighter"/>
+	
+	<container>
+		<layout class="arrange_vertical_attachment" layout="-1,24" gap="0" offset="0" />
+		<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
+		
+		<container/>
+		
+		<container id="barW" background_colour="fg accent" hidden="true">
+			<animation class="colour_animation" animation_id="bums" trigger_id="hidden" trigger_value="false" duration="2.5" end_mode="cycle" start_value="0.8" end_value="1.2" coord_mode="absolute_to_target" limit_frame_rate="true"/>
+		</container>
+		
+	</container>
+</panel>

@@ -2,6 +2,23 @@
 	<attachment class="test_screen_size_attachment" test_on_layout="false" alignment="horizontal" min_value="1360" max_value="100000" set_property="hdPR" />
 	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 	
+	<set_var name="pitch_container">
+		<container>
+			<layout class="stick_to_sides_attachment" alignment="all" inset="28,19,24,19" apply_to_children="true"/>
+
+			<widget class="pitch_with_tactics" icon_flags="show_name,show_extra_details,drop_initial_if_possible,show_number,dont_colour_number,use_player_kits_back" player_icon_file="match/mustermann/match report/tactics icon" pitch_draw_grass="false" tactic_icon_min_size="90" pitch_line_colour="">
+				<var id="id  " name="pitch_id" />
+				<boolean id="vertical" value="true" />
+				<boolean id="pitch_is_read_only" value="true" />
+				<boolean id="pitch_dont_draw_indicators" value="true" />
+				<boolean id="allow_y_score_adjustment_for_roles" value="false" />
+				<flags id="pitch_alignment" value="can_scale" />
+				<integer id="pitch_touchline_width_percentage" value="40" />
+			</widget>
+
+		</container>
+	</set_var>
+	
 	<container class="vertical_adaptive_container" gap="0" mode="distribute_equally">
 	
 		<container default_height="-1" minimum_height="1" priority="2"/>
@@ -113,7 +130,7 @@
 								<container default_width="-1">
 									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 									
-									<widget class="preselected_match_chalkboard_panel" id="mhhm" vertical="true" force_left_to_right_events="true" team_to_display="0" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
+									<widget class="preselected_match_chalkboard_panel" pitch_line_colour="text" id="mhhm" vertical="true" force_left_to_right_events="true" team_to_display="0" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
 										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
 										<record id="object_property" get_property="objt" set_property="objt" />
 										
@@ -122,18 +139,15 @@
 										</list>
 									</widget>
 									
-									<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" transparency="0.93">
-										<layout class="stick_to_sides_attachment" alignment="all" inset="28,19,24,19" />
+									<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" transparency="0.75">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="27,18,22,18" />
 									</container>
 									
-									<widget class="preselected_match_chalkboard_panel" id="mhpm" vertical="true" force_left_to_right_events="true" team_to_display="0" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
-										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
-										<record id="object_property" get_property="objt" set_property="objt" />
-										
-										<list id="chalkboard_events_to_display">
-											<integer value="63"/>  
-										</list>
-									</widget>
+									<var id="homc" name="pitch_container">
+										<set_var name="pitch_id">
+											<flags value="homp" />
+										</set_var>
+									</var>
 								
 								</container>
 								
@@ -154,7 +168,7 @@
 								<container default_width="-1">
 									<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
 									
-									<widget class="preselected_match_chalkboard_panel" id="mahm" vertical="true" force_left_to_right_events="true" team_to_display="1" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
+									<widget class="preselected_match_chalkboard_panel" pitch_line_colour="text" id="mahm" vertical="true" force_left_to_right_events="true" team_to_display="1" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
 										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
 										<record id="object_property" get_property="objt" set_property="objt" />
 										
@@ -163,18 +177,15 @@
 										</list>
 									</widget>
 									
-									<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" transparency="0.93">
-										<layout class="stick_to_sides_attachment" alignment="all" inset="28,19,24,19" />
+									<container class="contrast_box" appearance="boxes/contrast/standard/middle/paper" red_replacement="bg lighter" transparency="0.75">
+										<layout class="stick_to_sides_attachment" alignment="all" inset="27,19,22,18" />
 									</container>
 									
-									<widget class="preselected_match_chalkboard_panel" id="mapm" vertical="true" force_left_to_right_events="true" team_to_display="1" average_position_filter="1" aHiL="false" wants_global_events="false"  enable_popup="false">			
-										<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
-										<record id="object_property" get_property="objt" set_property="objt" />
-										
-										<list id="chalkboard_events_to_display">
-											<integer value="63"/>  
-										</list>
-									</widget>
+									<var id="homc" name="pitch_container">
+										<set_var name="pitch_id">
+											<flags value="awap" />
+										</set_var>
+									</var>
 								
 								</container>
 							

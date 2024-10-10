@@ -20,7 +20,14 @@
 			<widget class="club_training_performers_panel" file="human/mustermann/home/training/training performers" id="CTPP" section="TeOv" late_loading="true" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_fmc="false" valid_for_unemployed_manager="false">			
 				<record id="object_property" get_property="objt" set_property="objt"/>
 			</widget>
-		</container>		
+		</container>
+
+		<container default_height="-2" priority="2">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true"/>
+			<widget class="team_training_happiness_widget" id="ttHp" late_loading="true" section="TeTi" valid_for_international_teams="false" valid_for_international_youth_teams="false" valid_for_fmt="false" valid_for_unemployed_manager="false">			
+				<record id="object_property" get_property="objt" set_property="objt"/>
+			</widget>
+		</container>
 
 	</container>
 	

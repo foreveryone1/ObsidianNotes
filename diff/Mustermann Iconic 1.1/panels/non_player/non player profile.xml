@@ -296,7 +296,23 @@
 										<translation id="text" translation_id="532737" type="use" value="Coaching" />
 									</widget>
 									
-									<widget class="label" id="coaq" alignment="left,centre_y" colour="text" default_height="22"/>
+									<container default_height="22">
+										<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+										<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="2"/>
+									
+										<widget class="coaching_badge_label" id="coaq" alignment="left,centre_y" colour="fg" auto_size="all">
+											<record id="object_property" get_property="Pcqu"/>
+										</widget>
+										
+										<container class="non_player_profile_panel" file="none">
+											<record id="object_property" get_property="objt" set_property="objt"/>
+											<attachment_group class="vertical_arrange" vertical_layout="-1" vertical_gap="0" />
+													
+											<widget class="label" id="coco" alignment="left, centre_y" colour="faded text" />
+
+										</container>
+										
+									</container>
 									
 									<container height="8"/>
 									
@@ -368,7 +384,7 @@
 														<translation id="text" translation_id="293302" type="use" value="Coaching Attacking" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Ncha"/>
 													</widget>
 													
@@ -384,7 +400,7 @@
 														<translation id="text" translation_id="293303" type="use" value="Coaching Defending" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Nchd"/>
 													</widget>
 													
@@ -400,7 +416,7 @@
 														<translation id="text" translation_id="293306" type="use" value="Coaching Mental" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Nchm"/>
 													</widget>
 													
@@ -416,7 +432,7 @@
 														<translation id="text" translation_id="293307" type="use" value="Coaching Tactical" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Ncta"/>
 													</widget>
 													
@@ -432,7 +448,7 @@
 														<translation id="text" translation_id="293308" type="use" value="Coaching Technical" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Ncte"/>
 													</widget>
 													
@@ -448,7 +464,7 @@
 														<translation id="text" translation_id="293304" type="use" value="Coaching Fitness" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Nchf"/>
 													</widget>
 													
@@ -464,7 +480,7 @@
 														<translation id="text" translation_id="439313" type="use" value="Coaching GK Distribution" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npgd"/>
 													</widget>
 													
@@ -480,7 +496,7 @@
 														<translation id="text" translation_id="439312" type="use" value="Coaching GK Handling" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npgh"/>
 													</widget>
 													
@@ -496,7 +512,7 @@
 														<translation id="text" translation_id="439311" type="use" value="Coaching GK Shot Stopping" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npgs"/>
 													</widget>
 													
@@ -512,7 +528,7 @@
 														<translation id="text" translation_id="227939" type="use" value="Working With Youngsters" />
 													</widget>
 												
-													<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+													<widget class="attribute_circle" width="20">
 														<record id="object_property" get_property="Npwy"/>
 													</widget>
 													
@@ -1000,7 +1016,7 @@
 										<translation id="text" translation_id="585676" type="use" value="Set Pieces" />
 									</widget>
 									
-									<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+									<widget class="attribute_circle" width="20">
 										<record id="object_property" get_property="Ncsp"/>
 									</widget>
 									
@@ -1220,7 +1236,7 @@
 												<translation id="text" translation_id="227943" type="use" value="Adaptability" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npad"/>
 											</widget>
 											
@@ -1236,7 +1252,7 @@
 												<translation id="text" translation_id="227945" type="use" value="Judging Player Ability" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npja"/>
 											</widget>
 											
@@ -1252,7 +1268,7 @@
 												<translation id="text" translation_id="227947" type="use" value="Judging Player Potential" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npjp"/>
 											</widget>
 											
@@ -1268,7 +1284,7 @@
 												<translation id="text" translation_id="513327" type="use" value="Analysing Data" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npjd"/>
 											</widget>
 											
@@ -1284,7 +1300,7 @@
 												<translation id="text" translation_id="227937" type="use" value="Tactical Knowledge" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Nptk"/>
 											</widget>
 											
@@ -1300,7 +1316,7 @@
 												<translation id="text" translation_id="482628" type="use" value="Judging Staff Ability" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Npjs"/>
 											</widget>
 											
@@ -1316,7 +1332,7 @@
 												<translation id="text" translation_id="492104" type="use" value="Negotiating" />
 											</widget>
 										
-											<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+											<widget class="attribute_circle" width="20">
 												<record id="object_property" get_property="Nneg"/>
 											</widget>
 											
@@ -1370,7 +1386,7 @@
 											<translation id="text" translation_id="227935" type="use" value="Physiotherapy" />
 										</widget>
 									
-										<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+										<widget class="attribute_circle" width="20">
 											<record id="object_property" get_property="Npph"/>
 										</widget>
 										
@@ -1383,7 +1399,7 @@
 											<translation id="text" translation_id="447683" type="use" value="Sports Science" />
 										</widget>
 									
-										<widget class="attribute_label" alignment="centre_x,centre_y" width="20">
+										<widget class="attribute_circle" width="20">
 											<record id="object_property" get_property="NpIM"/>
 										</widget>
 										

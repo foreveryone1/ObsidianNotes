@@ -72,8 +72,8 @@
 										<translation id="text" type="use" translation_id="227914" value="Composure" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
-										<record id="object_property" get_property="Pcmp" />
+									<widget class="attribute_circle" default_height="22">
+										<record id="object_property" get_property="Pcmp"/>
 									</widget>
 								
 								</container>
@@ -84,7 +84,7 @@
 										<translation id="text" type="use" translation_id="227801" value="Decisions" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pdec"/>
 									</widget>
 								
@@ -96,7 +96,7 @@
 										<translation id="text" type="use" translation_id="227812" value="Flair" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pfla"/>
 									</widget>
 								
@@ -123,7 +123,7 @@
 										<translation id="text" type="use" translation_id="227776" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pant"/>
 									</widget>
 								
@@ -135,7 +135,7 @@
 										<translation id="text" type="use" translation_id="227801" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pdec"/>
 									</widget>
 								
@@ -147,7 +147,7 @@
 										<translation id="text" type="use" translation_id="227877" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Potb"/>
 									</widget>
 								
@@ -174,7 +174,7 @@
 										<translation id="text" type="use" translation_id="227810" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pfin"/>
 									</widget>
 								
@@ -186,7 +186,7 @@
 										<translation id="text" type="use" translation_id="227834" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Plsh"/>
 									</widget>
 								
@@ -198,7 +198,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -238,7 +238,7 @@
 										<translation id="text" type="use" translation_id="227782" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pbra"/>
 									</widget>
 								
@@ -250,7 +250,7 @@
 										<translation id="text" type="use" translation_id="227818" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Phea"/>
 									</widget>
 								
@@ -279,7 +279,7 @@
 										<translation id="text" type="use" translation_id="227801" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pdec"/>
 									</widget>
 								
@@ -291,7 +291,7 @@
 										<translation id="text" type="use" translation_id="227838" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pmar"/>
 									</widget>
 								
@@ -303,7 +303,7 @@
 										<translation id="text" type="use" translation_id="227886" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppsn"/>
 									</widget>
 								
@@ -330,7 +330,7 @@
 										<translation id="text" type="use" translation_id="227772" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pagg"/>
 									</widget>
 								
@@ -342,7 +342,7 @@
 										<translation id="text" type="use" translation_id="248654" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcnt"/>
 									</widget>
 								
@@ -354,7 +354,7 @@
 										<translation id="text" type="use" translation_id="227902" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptac"/>
 									</widget>
 								
@@ -404,7 +404,7 @@
 										<translation id="text" type="use" translation_id="227805" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pdri"/>
 									</widget>
 								
@@ -416,7 +416,7 @@
 										<translation id="text" type="use" translation_id="227894" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pfrs"/>
 									</widget>
 								
@@ -428,7 +428,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -455,7 +455,7 @@
 										<translation id="text" type="use" translation_id="227798" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcro"/>
 									</widget>
 								
@@ -467,7 +467,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -496,7 +496,7 @@
 										<translation id="text" type="use" translation_id="227881" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppas"/>
 									</widget>
 								
@@ -508,7 +508,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -520,7 +520,7 @@
 										<translation id="text" type="use" translation_id="230023" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcre"/>
 									</widget>
 								
@@ -547,7 +547,7 @@
 										<translation id="text" type="use" translation_id="227896" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcor"/>
 									</widget>
 								
@@ -559,7 +559,7 @@
 										<translation id="text" type="use" translation_id="227892" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pfrk"/>
 									</widget>
 								
@@ -571,7 +571,7 @@
 										<translation id="text" type="use" translation_id="294272" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppen"/>
 									</widget>
 								
@@ -611,7 +611,7 @@
 										<translation id="text" type="use" translation_id="227774" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pagi"/>
 									</widget>
 								
@@ -623,7 +623,7 @@
 										<translation id="text" type="use" translation_id="227780" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pbal"/>
 									</widget>
 								
@@ -652,7 +652,7 @@
 										<translation id="text" type="use" translation_id="337907" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pnft"/>
 									</widget>
 								
@@ -664,7 +664,7 @@
 										<translation id="text" type="use" translation_id="227898" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Psta"/>
 									</widget>
 								
@@ -676,7 +676,7 @@
 										<translation id="text" type="use" translation_id="227912" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pwkr"/>
 									</widget>
 								
@@ -703,7 +703,7 @@
 										<translation id="text" type="use" translation_id="227769" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pacc"/>
 									</widget>
 								
@@ -715,7 +715,7 @@
 										<translation id="text" type="use" translation_id="227879" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppac"/>
 									</widget>
 								
@@ -744,7 +744,7 @@
 										<translation id="text" type="use" translation_id="448761" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pjum"/>
 									</widget>
 								
@@ -756,7 +756,7 @@
 										<translation id="text" type="use" translation_id="227900" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pstr"/>
 									</widget>
 								
@@ -793,7 +793,7 @@
 							<translation id="text" type="use" translation_id="227803" value="" />
 						</widget>
 						
-						<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+						<widget class="attribute_circle" default_height="22">
 							<record id="object_property" get_property="Pdet"/>
 						</widget>
 					
@@ -805,7 +805,7 @@
 							<translation id="text" type="use" translation_id="230010" value="" />
 						</widget>
 						
-						<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+						<widget class="attribute_circle" default_height="22">
 							<record id="object_property" get_property="Pinf"/>
 						</widget>
 					
@@ -817,7 +817,7 @@
 							<translation id="text" type="use" translation_id="227910" value="" />
 						</widget>
 						
-						<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+						<widget class="attribute_circle" default_height="22">
 							<record id="object_property" get_property="Ptwr"/>
 						</widget>
 					
@@ -904,7 +904,7 @@
 										<translation id="text" type="use" translation_id="252481" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pkic"/>
 									</widget>
 								
@@ -916,7 +916,7 @@
 										<translation id="text" type="use" translation_id="252536" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pthr"/>
 									</widget>
 								
@@ -942,7 +942,7 @@
 										<translation id="text" type="use" translation_id="227791" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcom"/>
 									</widget>
 								
@@ -954,7 +954,7 @@
 										<translation id="text" type="use" translation_id="227801" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pdec"/>
 									</widget>
 								
@@ -966,7 +966,7 @@
 										<translation id="text" type="use" translation_id="227886" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppsn"/>
 									</widget>
 								
@@ -993,7 +993,7 @@
 										<translation id="text" type="use" translation_id="227776" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pant"/>
 									</widget>
 								
@@ -1005,7 +1005,7 @@
 										<translation id="text" type="use" translation_id="227916" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcnt"/>
 									</widget>
 								
@@ -1017,7 +1017,7 @@
 										<translation id="text" type="use" translation_id="227888" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pref"/>
 									</widget>
 								
@@ -1041,7 +1041,7 @@
 										<translation id="text" type="use" translation_id="227914" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcmp"/>
 									</widget>
 								
@@ -1053,7 +1053,7 @@
 										<translation id="text" type="use" translation_id="227816" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Phan"/>
 									</widget>
 								
@@ -1065,7 +1065,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -1092,7 +1092,7 @@
 										<translation id="text" type="use" translation_id="255275" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcoa"/>
 									</widget>
 								
@@ -1104,7 +1104,7 @@
 										<translation id="text" type="use" translation_id="227861" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pooo"/>
 									</widget>
 								
@@ -1116,7 +1116,7 @@
 										<translation id="text" type="use" translation_id="227890" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Prou"/>
 									</widget>
 								
@@ -1172,7 +1172,7 @@
 										<translation id="text" type="use" translation_id="227805" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pdri"/>
 									</widget>
 								
@@ -1184,7 +1184,7 @@
 										<translation id="text" type="use" translation_id="227894" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pfrs"/>
 									</widget>
 								
@@ -1196,7 +1196,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -1223,7 +1223,7 @@
 										<translation id="text" type="use" translation_id="227798" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcro"/>
 									</widget>
 								
@@ -1235,7 +1235,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -1264,7 +1264,7 @@
 										<translation id="text" type="use" translation_id="227881" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppas"/>
 									</widget>
 								
@@ -1276,7 +1276,7 @@
 										<translation id="text" type="use" translation_id="227904" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ptec"/>
 									</widget>
 								
@@ -1288,7 +1288,7 @@
 										<translation id="text" type="use" translation_id="230023" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcre"/>
 									</widget>
 								
@@ -1315,7 +1315,7 @@
 										<translation id="text" type="use" translation_id="227896" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pcor"/>
 									</widget>
 								
@@ -1327,7 +1327,7 @@
 										<translation id="text" type="use" translation_id="227892" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pfrk"/>
 									</widget>
 								
@@ -1339,7 +1339,7 @@
 										<translation id="text" type="use" translation_id="294272" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppen"/>
 									</widget>
 								
@@ -1379,7 +1379,7 @@
 										<translation id="text" type="use" translation_id="227774" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pagi"/>
 									</widget>
 								
@@ -1391,7 +1391,7 @@
 										<translation id="text" type="use" translation_id="227780" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pbal"/>
 									</widget>
 								
@@ -1420,7 +1420,7 @@
 										<translation id="text" type="use" translation_id="337907" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pnft"/>
 									</widget>
 								
@@ -1432,7 +1432,7 @@
 										<translation id="text" type="use" translation_id="227898" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Psta"/>
 									</widget>
 								
@@ -1444,7 +1444,7 @@
 										<translation id="text" type="use" translation_id="227912" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pwkr"/>
 									</widget>
 								
@@ -1471,7 +1471,7 @@
 										<translation id="text" type="use" translation_id="227769" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pacc"/>
 									</widget>
 								
@@ -1483,7 +1483,7 @@
 										<translation id="text" type="use" translation_id="227879" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Ppac"/>
 									</widget>
 								
@@ -1512,7 +1512,7 @@
 										<translation id="text" type="use" translation_id="448761" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pjum"/>
 									</widget>
 								
@@ -1524,7 +1524,7 @@
 										<translation id="text" type="use" translation_id="227900" value="" />
 									</widget>
 									
-									<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+									<widget class="attribute_circle" default_height="22">
 										<record id="object_property" get_property="Pstr"/>
 									</widget>
 								
@@ -1561,7 +1561,7 @@
 							<translation id="text" type="use" translation_id="227803" value="" />
 						</widget>
 						
-						<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+						<widget class="attribute_circle" default_height="22">
 							<record id="object_property" get_property="Pdet"/>
 						</widget>
 					
@@ -1573,7 +1573,7 @@
 							<translation id="text" type="use" translation_id="230010" value="" />
 						</widget>
 						
-						<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+						<widget class="attribute_circle" default_height="22">
 							<record id="object_property" get_property="Pinf"/>
 						</widget>
 					
@@ -1585,7 +1585,7 @@
 							<translation id="text" type="use" translation_id="227910" value="" />
 						</widget>
 						
-						<widget class="attribute_label" default_height="22" alignment="centre_x,bottom">
+						<widget class="attribute_circle" default_height="22">
 							<record id="object_property" get_property="Ptwr"/>
 						</widget>
 					

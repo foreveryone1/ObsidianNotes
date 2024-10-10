@@ -21,9 +21,6 @@
 	<widget class="board_confidence_panel" id="bcsn" file="club/board confidence snapshot" section="tcon" late_loading="true" valid_for_international_teams="false" valid_for_unemployed_manager="false">
 		<translation id="title" translation_id="491929" type="use" value="Manager Performance[COMMENT: AREA: Confidence; SUB-AREA: Board Confidence; FR-BN: ?; TONE: Formal; CHARLIMIT: If Applicable, otherwise None; REF-ID: n/a; NOTE: title for summary of manager performance]" />
 	</widget>
-	<widget class="board_confidence_panel" id="bcsn" file="club/board confidence snapshot" section="ncon" late_loading="true" valid_for_club_teams="false" valid_for_international_youth_teams="false" valid_for_unemployed_manager="false" valid_for_fmt="false">
-		<translation id="title" translation_id="491929" type="use" value="Manager Performance[COMMENT: AREA: Confidence; SUB-AREA: Board Confidence; FR-BN: ?; TONE: Formal; CHARLIMIT: If Applicable, otherwise None; REF-ID: n/a; NOTE: title for summary of manager performance]" />
-	</widget>
 	<widget class="squad_status_snapshot_panel" id="sssn" section="TeSq" late_loading="true" valid_for_unemployed_manager="false">
 		<translation id="title" translation_id="227783" type="use" value="Squad Status" />
 	</widget>

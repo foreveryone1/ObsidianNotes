@@ -26,19 +26,24 @@
 		<translation id="title" translation_id="248421" type="use" value="Form"/>
 	</widget>
 	
-	<!--PIZZA OVERLAY-->
-	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance pizza" id="mmpo">
-		<translation id="title" type="use" value="Pizza"/>
-	</container>
+	<!--DATA HUB-->
+	<widget class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance data hub" id="mmdh">
+		<translation id="title" translation_id="515301" type="use" value="Data Hub" />
+	</widget>
 	
-	<!--BAR OVERLAY-->
+	<!--BAR-->
 	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance bar" id="mmbo">
 		<translation id="title" type="use" value="Bar"/>
 	</container>
 	
-	<!--NIPPLE OVERLAY-->
+	<!--NIPPLE-->
 	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance nipple" id="mmno">
 		<translation id="title" type="use" value="Pasty"/>
+	</container>
+	
+	<!--PIZZA-->
+	<container class="client_object_viewer_xml_panel" file="player/mustermann/overview/performance pizza" id="mmpo">
+		<translation id="title" type="use" value="Pizza"/>
 	</container>
 			
 </panel>

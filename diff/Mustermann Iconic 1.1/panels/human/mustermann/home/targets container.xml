@@ -1,0 +1,10 @@
+<panel>
+	<container id="SUBP" class="inner_box_no_margin" >
+		<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="8" />
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" />
+	</container>
+
+	<widget class="manager_targets_panel" id="mngt" section="Mtar" late_loading="true" valid_for_unemployed_manager="false" valid_for_international_teams="false" valid_for_international_youth_teams="false" file="human/manager targets panel manager home">
+		<translation id="title" translation_id="596178" type="use" value="Targets[COMMENT: AREA: Player Targets; SUB-AREA: Targets Panel; FR-BN: FM-23145; TONE: Formal; CHARLIMIT: None; REF-ID: XXXXXX; NOTE; panel header title for a section listing all targets a manager has set for a player]" />
+	</widget>
+</panel>

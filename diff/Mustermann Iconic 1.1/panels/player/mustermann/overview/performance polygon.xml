@@ -1,0 +1,12 @@
+﻿<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<widget class="data_hub_splashscreen" id="spls">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+		<widget class="data_analyst_visualisation_widget" id="visU" visualisation_type="polygon" data_type="player" category="balanced" file="player/mustermann/overview/data analyst visualisation mini">
+			<record id="object_property" get_property="objt" set_property="objt" />
+			<record id="object_property" get_property="PclC" set_property="comp" />
+		</widget>
+	</widget>
+</panel>

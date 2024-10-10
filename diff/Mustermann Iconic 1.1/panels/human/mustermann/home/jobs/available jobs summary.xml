@@ -1,0 +1,56 @@
+<panel navigation_container="true">
+	<layout class="arrange_vertical_attachment" alignment="bottom,extend" offset="0" />
+
+	<!-- Only show manager vacancies -->
+	<boolean id="manJ" value="true" />
+
+	<!--list of available manager jobs-->
+	<widget class="table" id="list" sele="jcts" save_session_state="true" save_default_state="true" layout="-2, -3, 50, 230" row_spacing="0">
+		<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" />
+
+		<flags id="heading_class" value="column_heading" />
+		<flags id="mode" value="fill_rows, stripe_rows, printable, keyboard, show_bullets, select_rows" />
+		<integer id="row_spacing" value="0" />
+
+		<list id="default_sort_column">
+			<integer value="divs" />
+			<integer value="team" />
+		</list>
+
+		<record id="default_properties">
+			<flags id="alignment" value="left,centre_y" />
+			<flags id="spec" value="text" />
+		</record>
+
+		<list id="column_table_properties">
+			<record>
+				<flags id="id" value="team" />
+				<record id="column_heading">
+					<translation id="text" translation_id="229408" type="use" value="Team" />
+					<translation id="hint" translation_id="229408" type="use" value="Team" />
+				</record>
+			</record>
+			<record>
+				<flags id="id" value="divs" />
+				<record id="column_heading">
+					<translation id="text" translation_id="229392" type="use" value="Division" />
+					<translation id="hint" translation_id="247310" type="use" value="Division team currently belongs to[COMMENT: tool-tip heading on job_security panel]" />
+				</record>
+			</record>
+			<record>
+				<flags id="id" value="divp" />
+				<record id="column_heading">
+					<translation id="text" translation_id="317320" type="use" value="Pos[COMMENT: club's current reputation ranking, abbreviated]" />
+					<translation id="hint" translation_id="232109" type="use" value="League Positions" />
+				</record>
+			</record>
+			<record>
+				<flags id="id" value="cand" />
+				<record id="column_heading">
+					<translation id="text" translation_id="352091" type="use" value="Leading Candidate[COMMENT: Job centre; column heading for person most likely to take over a vacant manager position]" />
+					<translation id="hint" translation_id="352091" type="use" value="Leading Candidate[COMMENT: Job centre; column heading for person most likely to take over a vacant manager position]" />
+				</record>
+			</record>
+		</list>
+	</widget>
+</panel>

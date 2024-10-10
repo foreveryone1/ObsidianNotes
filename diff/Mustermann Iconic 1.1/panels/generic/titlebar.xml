@@ -115,6 +115,23 @@
                 </container>
             </container>
         </container>
+		
+		<!--BOOKMARKS-->
+		<container width="16">
+			<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+			
+			<widget class="icon_button" id="mmb1" appearance="mustermann/inbox/bookmark" secondary_icon_enabled="false" icon_alignment="centre_x,centre_y" rrep="text" width="16">
+				<translation id="hint" translation_id="251391" type="use" value="Bookmarks" />
+				<event id="click_event" event_id="mmbo"/>
+				<attachment class="event_relay_attachment" event_id="mmbo">
+					<record id="action_event">
+						<flags id="event_id" value="show"/>
+						<flags id="event_target" value="mmbp"/>
+					</record>
+				</attachment>
+			</widget>
+					
+		</container>
 
         <!-- Group of buttons in the top right -->
         <container>

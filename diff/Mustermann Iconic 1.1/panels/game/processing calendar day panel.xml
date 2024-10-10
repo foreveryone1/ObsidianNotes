@@ -1,0 +1,32 @@
+<panel>
+	<attachment_group class="vertical_arrange" vertical_alignment="bottom,extend" vertical_offset="0" vertical_gap="0" horizontal_inset="0"/>
+	<layout class="stick_to_sides_attachment" alignment="vertical" inset="0"/>
+
+	<container class="animated_vertical_stack_container" id="vidi" duration="0.5" tween="ease_out" maximum_items="15" inset="0" stick_embedded="horizontal">
+		<layout class="stick_to_object_attachment" id="align_bottom" get_side="top" set_side="bottom" target="entR"/>
+		<layout class="stick_to_sides_attachment" alignment="top" inset="0"/>
+
+		<!-- Filled in code -->
+	</container>
+
+	<container id="entR" auto_size_maximum_height="300">
+		<attachment_group class="vertical_arrange_autosize" vertical_offset="0" vertical_gap="0" horizontal_inset="0"/>
+
+		<!-- This is where the popup detailed day events get created -->
+	</container>
+	
+	<container id="daCt" height="40" background_colour="bg lighter">
+		<attachment_group class="horizontal_arrange" horizontal_layout="30, -1" horizontal_offset="10" horizontal_gap="15" vertical_inset="0"/>
+
+		<container>
+			<attachment_group class="vertical_arrange" vertical_alignment="top, extend" vertical_offset="3" vertical_gap="-4" horizontal_inset="0"/>
+
+			<widget class="text" id="datN" style="bold" size="large" auto_size="vertical" alignment="centre" colour="text"/>
+			<widget class="text" id="datD" font="title" alignment="centre_x, top" colour="processing_month"/>
+		</container>
+
+		<widget class="date_cell" id="tdAt" format="[%date#1-month_year]" size="small" colour="processing_date" style="semi_bold" alignment="left, centre_y"/>
+	</container>
+
+	
+</panel>

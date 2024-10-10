@@ -51,7 +51,7 @@
 					<layout class="stick_to_sides_attachment" alignment="vertical" apply_to_children="true" inset="0" />
 					
 					<container>
-						<layout class="arrange_vertical_attachment" layout="26,26,26,26,26,26,-1" offset="0" gap="8"/>
+						<layout class="arrange_vertical_attachment" layout="26,26,26,26,26,26,26,26,26,26,-1" offset="0" gap="8"/>
 						<layout class="stick_to_sides_attachment" alignment="horizontal" apply_to_children="true" inset="0" />
 								
 						<widget class="picture" file="mustermann/buttons/match" red_replacement="fg" image_alignment="centre_x,centre_y"/>
@@ -60,6 +60,10 @@
 						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 3"/>
 						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 4"/>
 						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 5"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 6"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 7"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 8"/>
+						<widget class="client_object_viewer_selector_panel" file="human/mustermann/home/buttons/home button 9"/>
 						
 						<container/>
 						
@@ -115,6 +119,41 @@
 							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
 							
 							<container class="client_object_viewer_selector_panel" id="mhs7" file="human/mustermann/home/board container" dont_set_embedded_title="true"/>
+						</container>
+						
+						<container background_colour="bg lighter" id="ffff" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mhs8" file="human/mustermann/home/league container" dont_set_embedded_title="true"/>
+						</container>
+						
+						<container background_colour="bg lighter" id="gggg" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mhs9" file="human/mustermann/home/jobs container" dont_set_embedded_title="false" default_width="-1"/>
+						</container>
+						
+						<container background_colour="bg lighter" id="hhhh" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="client_object_viewer_selector_panel" id="mh10" file="human/mustermann/home/team stats container" dont_set_embedded_title="true" default_width="-1"/>
+							<container class="client_object_viewer_selector_panel" id="mh11" file="human/mustermann/home/player stats container" dont_set_embedded_title="true" default_width="-1"/>
+						</container>
+						
+						<container background_colour="bg lighter" id="iiii" hidn="true">
+							<animation class="slide_in_bottom_animation"/>
+							<layout class="stick_to_sides_attachment" alignment="all" apply_to_children="true" inset="0" />
+							
+							<container class="horizontal_adaptive_container" gap="8" mode="distribute_equally">
+							
+								<container class="client_object_viewer_selector_panel" id="mh12" file="human/mustermann/home/promises container" dont_set_embedded_title="false" default_width="-1"/>
+
+								<container class="client_object_viewer_selector_panel" id="mh13" file="human/mustermann/home/targets container" dont_set_embedded_title="false" default_width="-1"/>
+							
+							</container>
 						</container>
 						
 					</container>

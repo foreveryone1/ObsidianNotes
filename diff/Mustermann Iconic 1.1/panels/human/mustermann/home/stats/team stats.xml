@@ -1,0 +1,194 @@
+<panel>
+	<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+	<container id="noma" hidden="true">
+		<layout class="stick_to_sides_attachment" alignment="all" inset="0" apply_to_children="true" />
+
+		<widget class="text" alignment="centre">
+			<translation id="text" translation_id="260962" type="use" value="No matches played yet[COMMENT comp player stats panel: no matches: title]" />
+		</widget>
+	</container>
+	
+	<container class="property_list_viewer_xml_panel" draw_horizontal_dividers="true" id="soma">
+		<record id="object_property" get_property="Tssu" dont_set_object="true" />
+		<layout class="arrange_vertical_attachment" layout="-1,-1,-1,-1,-1,-1,-1" offset="0" gap="4"/>
+		<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+		
+		<container>
+			<layout class="arrange_horizontal_attachment" layout="58, -1" offset="0" gap="6"  />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			
+			<widget class="object_portrait_picture" scale_picture="true" image_alignment="centre">
+				<record id="object_property" get_property="comp" set_property="objt" dont_set_object="true" />
+			</widget>
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+				<widget class="comp_button" icon_enabled="false" style="semi_bold" alignment="left,bottom"  navigation_focus_target="false">
+					<record id="object_property" get_property="comp" dont_set_object="true" />
+				</widget>
+				<widget class="formatted_label" size="large" colour="faded text">
+					<record id="object_property" get_property="Tomp" dont_set_object="true" />
+					<list id="format">
+						<record value="1">
+							<translation id="format" translation_id="385427" type="use" value="1 match played[COMMENT: FR 10252; manager home - player stats panel; number of matches played by team; singular]" />
+						</record>
+						<record default_value="true">
+							<translation id="format" translation_id="385784" type="use" value="[%number#1] matches played[COMMENT: FR 10252; manager home - player stats panel; number of matches played by team; plural]" />
+						</record>
+					</list>
+				</widget>
+			</container>
+			
+		</container>
+		
+		<container>
+			<layout class="arrange_horizontal_attachment" layout="58, -1" offset="0" gap="6"  />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			
+			<widget class="picture" file="icons/custom/team stats/scored" red_replacement="bg green" image_alignment="centre" />
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+				<widget class="label" icon_enabled="false" alignment="left,bottom">
+					<translation id="text" translation_id="247588" type="use" value="Goals Scored[COMMENT - player form section; goals scored label]" />
+				</widget>
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="3" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+					<widget class="label" size="large" style="bold" auto_size="horizontal" alignment="left,top">
+						<record id="object_property" get_property="Tsgs" dont_set_object="true" />
+					</widget>
+					<widget class="stats_ranking_label" colour="faded text" size="large">
+						<record id="object_property" get_property="TogR" dont_set_object="true"/>
+					</widget>
+				</container>
+			</container>
+			
+		</container>
+		
+		<container>
+			<layout class="arrange_horizontal_attachment" layout="58, -1" offset="0" gap="6"  />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			
+			<widget class="picture" file="icons/custom/team stats/conceded" red_replacement="bg red lighter" image_alignment="centre" />
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+				<widget class="label" icon_enabled="false" alignment="left,bottom">
+					<translation id="text" translation_id="257313" type="use" value="Goals Conceded" />
+				</widget>
+				
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="3" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+					<widget class="label" size="large" style="bold" auto_size="horizontal" alignment="left,top">
+						<record id="object_property" get_property="Tsgc" dont_set_object="true" />
+					</widget>
+					<widget class="stats_ranking_label" colour="faded text" size="large">
+						<record id="object_property" get_property="TocR" dont_set_object="true"/>
+					</widget>
+				</container>
+			</container>
+			
+		</container>
+		
+		<container>
+			<layout class="arrange_horizontal_attachment" layout="58, -1" offset="0" gap="6"  />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			
+			<widget class="picture" file="icons/custom/player stats/yellow cards" red_replacement="bg yellow" image_alignment="centre" />
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+				<widget class="label" icon_enabled="false" alignment="left,bottom">
+					<translation id="text" translation_id="247391" type="use" value="Yellow Cards" />
+				</widget>
+				
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="3" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+					<widget class="label" size="large" style="bold" auto_size="horizontal" alignment="left,top">
+						<record id="object_property" get_property="Toyc" dont_set_object="true" />
+					</widget>
+					<widget class="stats_ranking_label" colour="faded text" size="large">
+						<record id="object_property" get_property="ToyR" dont_set_object="true"/>
+					</widget>
+				</container>
+			</container>
+			
+		</container>
+		
+		<container>
+			<layout class="arrange_horizontal_attachment" layout="58, -1" offset="0" gap="6"  />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			
+			<widget class="picture" file="icons/custom/player stats/red cards" red_replacement="bg red darker" image_alignment="centre" />
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+				<widget class="label" icon_enabled="false" alignment="left,bottom">
+					<translation id="text" translation_id="247392" type="use" value="Red Cards" />
+				</widget>
+				
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="3" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+					<widget class="label" size="large" style="bold" auto_size="horizontal" alignment="left,top">
+						<record id="object_property" get_property="Torc" dont_set_object="true" />
+					</widget>
+					<widget class="stats_ranking_label" colour="faded text" size="large">
+						<record id="object_property" get_property="TorR" dont_set_object="true"/>
+					</widget>
+				</container>
+			</container>
+			
+		</container>
+		
+		<container>
+			<layout class="arrange_horizontal_attachment" layout="58, -1" offset="0" gap="6"  />
+			<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+			
+			<widget class="picture" file="icons/custom/team stats/stadium" red_replacement="bg blue" image_alignment="centre" />
+			
+			<container>
+				<layout class="arrange_vertical_attachment" alignment="fill" offset="0" gap="0" />
+				<layout class="stick_to_sides_attachment" alignment="horizontal" inset="0" apply_to_children="true" />
+
+				<widget class="label" icon_enabled="false" alignment="left,bottom">
+					<translation id="text" translation_id="229804" type="use" value="Average Attendance" />
+				</widget>
+				
+				<container>
+					<layout class="arrange_horizontal_attachment" alignment="left,extend" offset="0" gap="3" />
+					<layout class="stick_to_sides_attachment" alignment="vertical" inset="0" apply_to_children="true" />
+
+					<widget class="number_label" size="large" style="bold" auto_size="horizontal" alignment="left,top">
+						<record id="object_property" get_property="Tava" dont_set_object="true" />
+					</widget>
+					<widget class="stats_ranking_label" colour="faded text" size="large">
+						<record id="object_property" get_property="ToAR" dont_set_object="true"/>
+					</widget>
+				</container>
+			</container>
+			
+		</container>
+		
+		<container/>
+		
+	</container>
+</panel>
