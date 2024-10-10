@@ -52,7 +52,8 @@
               "focus": true
             },
             "openFile": true,
-            "openFileInMode": "source"
+            "openFileInMode": "source",
+            "fileExistsMode": "Nothing"
           }
         }
       ],
