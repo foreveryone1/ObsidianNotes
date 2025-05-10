@@ -23,6 +23,53 @@ vivisection
 shaheed  
 IMUK  
 
+
+# Ecdysis
+
+Twist your limbs  
+In shapes forgotten  
+A parody of life  
+With veiled face  
+Shed your lies  
+
+Where's the reward?  
+You drag your knees  
+Like a fly with its wings picked off  
+
+Wake up again  
+Wake up again  
+Wake up again  
+
+Wake up again  
+Wake up again  
+Wake up again  
+Past memories  
+Past memories  
+
+Shifting sands  
+Obscure past  
+Kick your shit up hill  
+Wipe your chitinous face  
+
+Kill your ideals  
+Let remorse wither   
+The sun stings your eyes  
+yet you won't bend your head  
+
+All these skeletons I shed  
+I bury in old dirt  
+To hide the stench  
+Of old regret  
+
+All these skeletons I shed  
+I bury in old dirt  
+To hide the stench  
+Of old regret  
+
+
+All these skeletons I shed  
+I bury in old dirt  
+To harvest my worth  
 # Frostbite
 
 I guess it's best to leave this burning ache unfed  
